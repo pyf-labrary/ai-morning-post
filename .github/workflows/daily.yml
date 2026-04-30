@@ -1,0 +1,47 @@
+name: AI Morning Post · daily
+
+on:
+  schedule:
+    # 22:00 UTC = 06:00 CST
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: |
+          pip install -U pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
+          WECHAT_APPID:      ${{ secrets.WECHAT_APPID }}
+          WECHAT_APPSECRET:  ${{ secrets.WECHAT_APPSECRET }}
+          WECHAT_SKIP_PUBLISH: "1"   # 第一阶段：只生成草稿，不调微信 API
+        run: python run_daily.py
+
+      - name: Commit outputs
+        run: |
+          git config user.name  "gittee-coder"
+          git config user.email "gittee-coder@users.noreply.github.com"
+          git add out/
+          if ! git diff --cached --quiet; then
+            git commit -m "daily: $(date -u +%Y-%m-%d) outputs"
+            git push
+          else
+            echo "no output changes"
+          fi

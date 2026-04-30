@@ -1,0 +1,81 @@
+# 复制为 sources.yaml 后使用
+
+rss:
+  # 一手权威：AI 公司官方博客
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    weight: 10
+  - name: Anthropic
+    url: https://www.anthropic.com/news/rss.xml
+    weight: 10
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    weight: 10
+  - name: Meta AI
+    url: https://ai.meta.com/blog/rss/
+    weight: 9
+  - name: Mistral
+    url: https://mistral.ai/news/feed.xml
+    weight: 8
+  - name: HuggingFace Blog
+    url: https://huggingface.co/blog/feed.xml
+    weight: 7
+  # 中文
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    weight: 7
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    weight: 7
+
+arxiv:
+  categories: [cs.AI, cs.CL, cs.LG]
+  max_per_category: 30
+
+reddit:
+  subreddits: [LocalLLaMA, MachineLearning, singularity, OpenAI, ClaudeAI]
+  min_score: 50
+  max_per_sub: 20
+
+hackernews:
+  min_points: 80
+  keywords: [AI, LLM, GPT, Claude, Gemini, model, neural, transformer, agent, RAG]
+
+x:
+  # 需要 TWITTERAPI_IO_KEY
+  accounts:
+    - OpenAI
+    - AnthropicAI
+    - GoogleDeepMind
+    - MistralAI
+    - sama
+    - karpathy
+    - ylecun
+    - GoogleAI
+    - demishassabis
+    - alexalbert__
+    - jackclarkSF
+
+product_hunt:
+  topics: [artificial-intelligence, developer-tools]
+
+# 板块定义
+sections:
+  - id: model_release
+    name: 模型发布
+    keywords: [release, launch, available, GPT, Claude, Gemini, Llama, model]
+  - id: company
+    name: 公司动态
+    keywords: [funding, acquisition, partnership, hire, lawsuit, valuation]
+  - id: research
+    name: 研究论文
+    keywords: [paper, arxiv, benchmark, sota]
+  - id: product
+    name: 应用产品
+    keywords: [app, agent, tool, feature, integration]
+  - id: opinion
+    name: 行业观点
+    keywords: [interview, blog, essay, predict, regulation]
+  - id: opensource
+    name: 开源工具
+    keywords: [github, open source, repo, library]
