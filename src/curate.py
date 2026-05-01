@@ -20,11 +20,9 @@ from dataclasses import asdict
 from pathlib import Path
 
 import yaml
-from anthropic import Anthropic
 
 from .common import ARTICLES_DIR, CONFIG_DIR, Item, load_raw, today_str
-
-MODEL = "claude-opus-4-7"
+from .llm import LLM_MODEL, USE_CACHE, get_client
 
 SYSTEM_PROMPT = """你是 AI 行业新闻主编，专为中文读者整理「AI 晨报」。
 
@@ -74,7 +72,11 @@ def curate(date: str | None = None) -> Path:
     cfg = yaml.safe_load((CONFIG_DIR / "sources.example.yaml").read_text(encoding="utf-8"))
     sections_def = cfg.get("sections", [])
 
-    client = Anthropic()
+    client = get_client()
+    system = (
+        [{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}]
+        if USE_CACHE else SYSTEM_PROMPT
+    )
     user_msg = (
         f"日期：{date}\n\n"
         f"板块定义（参考关键词，但分类时以语义为准）：\n"
@@ -85,11 +87,9 @@ def curate(date: str | None = None) -> Path:
     )
 
     resp = client.messages.create(
-        model=MODEL,
+        model=LLM_MODEL,
         max_tokens=16000,
-        system=[
-            {"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}},
-        ],
+        system=system,
         messages=[{"role": "user", "content": user_msg}],
     )
     text = "".join(b.text for b in resp.content if b.type == "text").strip()
@@ -102,9 +102,12 @@ def curate(date: str | None = None) -> Path:
     out = ARTICLES_DIR / f"{date}.curated.json"
     out.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"curated → {out}")
-    print(f"cache: created={resp.usage.cache_creation_input_tokens or 0} "
-          f"read={resp.usage.cache_read_input_tokens or 0} "
-          f"input={resp.usage.input_tokens} output={resp.usage.output_tokens}")
+    u = resp.usage
+    cache_info = (
+        f"cache_created={getattr(u, 'cache_creation_input_tokens', 0) or 0} "
+        f"cache_read={getattr(u, 'cache_read_input_tokens', 0) or 0} "
+    ) if USE_CACHE else ""
+    print(f"{cache_info}input={u.input_tokens} output={u.output_tokens}")
     return out
 
 

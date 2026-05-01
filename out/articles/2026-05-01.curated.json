@@ -1,0 +1,292 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "AISI评估：GPT-5.5与Mythos网络攻击能力接近",
+          "summary": "英国AI安全研究所报告称，OpenAI的GPT-5.5在多项网络攻击任务上表现与Anthropic的Mythos相当甚至更好，完成专家12小时任务仅需11分钟，成本1.73美元。",
+          "primary_url": "https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities",
+          "importance": 10,
+          "items": [
+            "4a43b4e8d80259ef",
+            "fe4c59aaab58348a",
+            "0385d6f71f7f6f10"
+          ]
+        },
+        {
+          "headline": "Google DeepMind发布AI联合临床医生模型",
+          "summary": "DeepMind推出AI co-clinician，旨在通过AI增强医疗护理，探索AI辅助诊断的新路径。",
+          "primary_url": "https://deepmind.google/blog/ai-co-clinician/",
+          "importance": 9,
+          "items": [
+            "51bbb764bde29c95"
+          ]
+        },
+        {
+          "headline": "xAI发布Grok 4.3模型",
+          "summary": "xAI正式推出Grok 4.3，性能进一步提升，但具体技术细节未完全公开。",
+          "primary_url": "https://docs.x.ai/developers/models/grok-4.3",
+          "importance": 8,
+          "items": [
+            "3090d0bc7ea0a8bf"
+          ]
+        },
+        {
+          "headline": "IBM开源Granite 4.1：8B模型性能堪比32B MoE",
+          "summary": "IBM发布Granite 4.1开源模型，仅8B参数即可匹配32B MoE模型的性能，主打高效推理。",
+          "primary_url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+          "importance": 8,
+          "items": [
+            "bbd7330fbf157bf4"
+          ]
+        },
+        {
+          "headline": "NVIDIA发布Gemma-4-26B-A4B-NVFP4量化模型",
+          "summary": "NVIDIA推出基于Gemma-4的4-bit量化版本，在RTX 5090上可运行约50K上下文，精度损失极小。",
+          "primary_url": "https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4",
+          "importance": 6,
+          "items": [
+            "bff9139e9193462f"
+          ]
+        },
+        {
+          "headline": "Qwen 3.6 27B vs Gemma 4 31B：本地模型游戏编码对决",
+          "summary": "Reddit用户测试发现，Gemma 4 31B在制作Pacman游戏时速度远快于Qwen 3.6 27B，但后者生成更多标记。",
+          "primary_url": "https://v.redd.it/s0czzkm85fyg1",
+          "importance": 5,
+          "items": [
+            "a505bc0978af4da7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "马斯克与OpenAI开庭，硅谷巨富互揭老底",
+          "summary": "马斯克诉OpenAI案开庭，双方律师激烈交锋，揭露大量内部邮件和资金往来细节，引发行业热议。",
+          "primary_url": "https://www.qbitai.com/2026/05/412447.html",
+          "importance": 8,
+          "items": [
+            "33a476623721239c"
+          ]
+        },
+        {
+          "headline": "AMD Ryzen 395 Halo Box于6月推出",
+          "summary": "AMD在AI开发日宣布，搭载Ryzen 395处理器的AI开发盒即将在6月上市，128GB内存，现场展示了原型机。",
+          "primary_url": "https://i.redd.it/rlwfreg56dyg1.jpeg",
+          "importance": 7,
+          "items": [
+            "951806b148034154",
+            "977c91f8f01e6962"
+          ]
+        },
+        {
+          "headline": "PyTorch Lightning被植入恶意依赖",
+          "summary": "研究人员在PyTorch Lightning训练库中发现名为Shai-Hulud的恶意软件，可能窃取训练数据或破坏模型。",
+          "primary_url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+          "importance": 7,
+          "items": [
+            "ca6f11bf342e975b"
+          ]
+        },
+        {
+          "headline": "Claude服务短暂中断：API和网页不可用",
+          "summary": "Anthropic的Claude在线服务发生故障，约一小时恢复正常，官方状态页面确认中断。",
+          "primary_url": "https://status.claude.com/incidents/2gf1jpyty350",
+          "importance": 5,
+          "items": [
+            "1ad51dc76447b74a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "DeepSeek联合北大清华发布视觉基元推理框架",
+          "summary": "DeepSeek提出Thinking-with-Visual-Primitives框架，通过视觉基元提升多模态模型的推理能力。",
+          "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/",
+          "importance": 5,
+          "items": [
+            "7e11addd804397d9"
+          ]
+        },
+        {
+          "headline": "微调可唤醒LLM对版权书籍的记忆",
+          "summary": "研究显示，对齐微调可能意外激活模型对受版权保护内容的回忆，构成版权风险。",
+          "primary_url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+          "importance": 5,
+          "items": [
+            "298cacc7f8fe1208"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Stripe发布288项新功能，含AI智能体钱包",
+          "summary": "Stripe更新推出智能体钱包Link，并集成大量API，旨在构建AI驱动的经济基础设施。",
+          "primary_url": "https://www.qbitai.com/2026/04/412018.html",
+          "importance": 7,
+          "items": [
+            "6607a2d53bf3272e"
+          ]
+        },
+        {
+          "headline": "蚂蚁数科登顶以太坊全球基准评测",
+          "summary": "蚂蚁数字科技在以太坊基准测试中夺冠，其自主研发的智能体可信协作方案获认可。",
+          "primary_url": "https://www.qbitai.com/2026/04/411959.html",
+          "importance": 7,
+          "items": [
+            "1e22d7bbec1a4881"
+          ]
+        },
+        {
+          "headline": "Claude Mythos开始支持图像输出",
+          "summary": "Anthropic的Claude Mythos模型新增图像生成能力，成为首款可输出图像的Claude模型。",
+          "primary_url": "https://www.reddit.com/r/singularity/comments/1szzz9e/claude_mythos_supports_image_outputs_anthropics/",
+          "importance": 6,
+          "items": [
+            "964492376efa8f47"
+          ]
+        },
+        {
+          "headline": "OpenAI推出高级安全模式保护高风险账户",
+          "summary": "OpenAI为ChatGPT和Codex账户提供更严格的安全验证选项，防止未经授权的访问。",
+          "primary_url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+          "importance": 5,
+          "items": [
+            "436ad6663549afeb"
+          ]
+        },
+        {
+          "headline": "OpenAI发布图像生成故事《地精从何而来》",
+          "summary": "OpenAI通过Images 2.0生成一系列图像，展示AI图像生成的进步，并记录创作过程。",
+          "primary_url": "https://openai.com/index/where-the-goblins-came-from",
+          "importance": 5,
+          "items": [
+            "fa0847d62019f282",
+            "5641655f1950ed0e"
+          ]
+        },
+        {
+          "headline": "Claude Opus 4.7被用户投诉性能下降",
+          "summary": "Reddit上多名用户反映Opus 4.7相比前代在代码和推理任务上出现退化，引发讨论。",
+          "primary_url": "https://www.reddit.com/r/ClaudeAI/comments/1t0ffze/opus_47_is_a_genuine_regression_and_im_tired_of/",
+          "importance": 5,
+          "items": [
+            "f8fcd6941dd96eb4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Claude Code因提及“OpenClaw”而拒绝请求或额外收费",
+          "summary": "开发者发现，若Git提交信息包含“OpenClaw”，Claude Code会拒绝工作或要求额外费用，疑似硬编码拦截。",
+          "primary_url": "https://twitter.com/theo/status/2049645973350363168",
+          "importance": 9,
+          "items": [
+            "d0da7a6c458bee19"
+          ]
+        },
+        {
+          "headline": "Zig项目宣布反对AI贡献政策引发争议",
+          "summary": "Zig语言项目明确禁止AI生成的代码贡献，认为这会损害项目质量和社区协作。",
+          "primary_url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+          "importance": 8,
+          "items": [
+            "fd2f84c20418781f"
+          ]
+        },
+        {
+          "headline": "Mozilla正式反对Chrome Prompt API",
+          "summary": "Mozilla对Chrome提案的浏览器Prompt API表示反对，认为其可能损害用户隐私和开放标准。",
+          "primary_url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+          "importance": 8,
+          "items": [
+            "ce495c04b52f7ca9"
+          ]
+        },
+        {
+          "headline": "智谱揭秘模型“降智”根源：Prefill损耗",
+          "summary": "智谱AI发文指出，大模型推理时Prefill阶段是性能瓶颈，解释了用户感知的“降智”现象。",
+          "primary_url": "https://www.qbitai.com/2026/05/412585.html",
+          "importance": 7,
+          "items": [
+            "90d4262ba8f0ba4f"
+          ]
+        },
+        {
+          "headline": "商汤杨帆：AI拐点从人用到人机协作",
+          "summary": "商汤科技联合创始人杨帆提出，AI正从工具转变为协作伙伴，生产关系需重构。",
+          "primary_url": "https://www.qbitai.com/2026/04/412015.html",
+          "importance": 7,
+          "items": [
+            "fe9753ad5bd163c0"
+          ]
+        },
+        {
+          "headline": "IMO/IOI奖牌得主追踪：1500倍概率成亿万富翁",
+          "summary": "研究追踪全球18000名奥赛奖牌得主，发现其成为亿万富翁的概率是普通人的1500倍。",
+          "primary_url": "https://www.qbitai.com/2026/04/411964.html",
+          "importance": 6,
+          "items": [
+            "b9023a25193a2983"
+          ]
+        },
+        {
+          "headline": "年轻人使用AI越多越讨厌它",
+          "summary": "The Verge调查显示，Gen Z重度AI用户普遍感到失望，认为AI未能达到预期且存在隐私风险。",
+          "primary_url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+          "importance": 6,
+          "items": [
+            "8402b882fbe88098"
+          ]
+        },
+        {
+          "headline": "AI顶会评审争议：华人网络与ICML高票拒稿",
+          "summary": "社区热议IJCAI和ICML评审中存在华人网络排外现象，以及ICML拒绝多数乐观评分的论文。",
+          "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1t06564/chinese_nexusnetwork_in_a_conferences_rejecting/",
+          "importance": 5,
+          "items": [
+            "7aa8cf0e3134de33",
+            "bdbc4dd64ae853db"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "新一代具身智能仿真框架开源：高吞吐并行渲染",
+          "summary": "开源仿真框架实现高保真并行渲染，支持零微调真机部署，助力具身智能规模化训练。",
+          "primary_url": "https://www.qbitai.com/2026/05/412577.html",
+          "importance": 7,
+          "items": [
+            "1e061d48b4ab24c4"
+          ]
+        },
+        {
+          "headline": "llama-swap新增矩阵分组功能，优化模型内存管理",
+          "summary": "开源工具llama-swap发布新特性，允许模型按矩阵分组运行，更高效利用GPU内存。",
+          "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1szwjrp/psa_llamaswap_released_a_new_grouping_feature/",
+          "importance": 4,
+          "items": [
+            "17255391b720828c"
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-01"
+}

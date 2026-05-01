@@ -27,11 +27,14 @@ jobs:
 
       - name: Run pipeline
         env:
+          LLM_BASE_URL:      ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY:       ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL:         ${{ secrets.LLM_MODEL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
           WECHAT_APPID:      ${{ secrets.WECHAT_APPID }}
           WECHAT_APPSECRET:  ${{ secrets.WECHAT_APPSECRET }}
-          WECHAT_SKIP_PUBLISH: "1"   # 第一阶段：只生成草稿，不调微信 API
+          WECHAT_SKIP_PUBLISH: "1"
         run: python run_daily.py
 
       - name: Commit outputs

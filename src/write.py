@@ -8,11 +8,8 @@ import argparse
 import json
 from pathlib import Path
 
-from anthropic import Anthropic
-
 from .common import ARTICLES_DIR, today_str
-
-MODEL = "claude-opus-4-7"
+from .llm import LLM_MODEL, USE_CACHE, get_client
 
 SYSTEM_PROMPT = """你是 AI 晨报主笔，给微信公众号写稿。读者画像：技术从业者、投资人、产品经理，一半是中文母语，看重信息密度与判断力。
 
@@ -46,7 +43,11 @@ def write_articles(date: str | None = None) -> list[Path]:
     out_dir = ARTICLES_DIR / date
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    client = Anthropic()
+    client = get_client()
+    system = (
+        [{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}]
+        if USE_CACHE else SYSTEM_PROMPT
+    )
     written: list[Path] = []
 
     for section in data.get("sections", []):
@@ -65,20 +66,18 @@ def write_articles(date: str | None = None) -> list[Path]:
         )
 
         resp = client.messages.create(
-            model=MODEL,
+            model=LLM_MODEL,
             max_tokens=8000,
-            system=[
-                {"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}},
-            ],
+            system=system,
             messages=[{"role": "user", "content": user_msg}],
         )
         md = "".join(b.text for b in resp.content if b.type == "text").strip()
         path = out_dir / f"{sid}.md"
         path.write_text(md, encoding="utf-8")
         written.append(path)
-        print(f"  {sname} → {path} "
-              f"(cache_read={resp.usage.cache_read_input_tokens or 0} "
-              f"in={resp.usage.input_tokens} out={resp.usage.output_tokens})")
+        u = resp.usage
+        cache_info = f"cache_read={getattr(u, 'cache_read_input_tokens', 0) or 0} " if USE_CACHE else ""
+        print(f"  {sname} → {path.name} ({cache_info}in={u.input_tokens} out={u.output_tokens})")
 
     return written
 
