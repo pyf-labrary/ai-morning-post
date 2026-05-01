@@ -13,7 +13,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout ai-morning-post
+        uses: actions/checkout@v4
+
+      - name: Checkout marginalia (sibling repo)
+        uses: actions/checkout@v4
+        with:
+          repository: pyf-labrary/marginalia
+          token: ${{ secrets.MARGINALIA_PUSH_TOKEN }}
+          path: marginalia
 
       - uses: actions/setup-python@v5
         with:
@@ -37,10 +45,20 @@ jobs:
           WECHAT_SKIP_PUBLISH: "1"
         run: python run_daily.py
 
-      - name: Commit outputs
+      - name: Publish to Marginalia
+        env:
+          GH_TOKEN: ${{ secrets.MARGINALIA_PUSH_TOKEN }}
+          MARGINALIA_REPO: ${{ github.workspace }}/marginalia
+        run: |
+          git -C marginalia config user.name "gittee-coder"
+          git -C marginalia config user.email "259323426+gittee-coder@users.noreply.github.com"
+          git -C marginalia remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/pyf-labrary/marginalia.git"
+          python -m src.publish_marginalia
+
+      - name: Commit ai-morning-post outputs
         run: |
           git config user.name  "gittee-coder"
-          git config user.email "gittee-coder@users.noreply.github.com"
+          git config user.email "259323426+gittee-coder@users.noreply.github.com"
           git add out/
           if ! git diff --cached --quiet; then
             git commit -m "daily: $(date -u +%Y-%m-%d) outputs"

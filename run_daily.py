@@ -11,32 +11,41 @@ from src.write import write_articles
 from src.render import render_date
 from src.preview import build as build_preview
 from src.publish import build_articles
+from src.publish_marginalia import publish as publish_marginalia
+
+import os
 
 
 def main() -> None:
     date = today_str()
     print(f"=== AI Morning Post · {date} ===")
 
-    print("[1/7] fetch")
+    print("[1/8] fetch")
     sys.argv = ["fetch"]
     run_fetch()
 
-    print("[2/7] curate")
+    print("[2/8] curate")
     curate(date)
 
-    print("[3/7] media (OG image fetch + resize)")
+    print("[3/8] media (OG image fetch + resize)")
     enrich_curated(date)
 
-    print("[4/7] write")
+    print("[4/8] write")
     write_articles(date)
 
-    print("[5/7] render")
+    print("[5/8] render")
     render_date(date)
 
-    print("[6/7] preview index")
+    print("[6/8] preview index")
     build_preview(date)
 
-    print("[7/7] publish (dry-run)")
+    print("[7/8] publish to Marginalia")
+    if os.getenv("SKIP_MARGINALIA") == "1":
+        print("  SKIP_MARGINALIA=1, skipping")
+    else:
+        publish_marginalia(date=date, push=os.getenv("MARGINALIA_NO_PUSH") != "1")
+
+    print("[8/8] publish to WeChat (dry-run)")
     arts = build_articles(date)
     print(f"  prepared {len(arts)} articles")
 
