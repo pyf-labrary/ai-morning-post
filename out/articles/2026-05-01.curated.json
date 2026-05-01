@@ -12,7 +12,8 @@
             "4a43b4e8d80259ef",
             "fe4c59aaab58348a",
             "0385d6f71f7f6f10"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/model_release-00.jpg"
         },
         {
           "headline": "Google DeepMind发布AI联合临床医生模型",
@@ -21,7 +22,8 @@
           "importance": 9,
           "items": [
             "51bbb764bde29c95"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/model_release-01.jpg"
         },
         {
           "headline": "xAI发布Grok 4.3模型",
@@ -30,7 +32,8 @@
           "importance": 8,
           "items": [
             "3090d0bc7ea0a8bf"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/model_release-02.jpg"
         },
         {
           "headline": "IBM开源Granite 4.1：8B模型性能堪比32B MoE",
@@ -39,7 +42,8 @@
           "importance": 8,
           "items": [
             "bbd7330fbf157bf4"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/model_release-03.jpg"
         },
         {
           "headline": "NVIDIA发布Gemma-4-26B-A4B-NVFP4量化模型",
@@ -48,7 +52,8 @@
           "importance": 6,
           "items": [
             "bff9139e9193462f"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/model_release-04.jpg"
         },
         {
           "headline": "Qwen 3.6 27B vs Gemma 4 31B：本地模型游戏编码对决",
@@ -71,7 +76,8 @@
           "importance": 8,
           "items": [
             "33a476623721239c"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/company-00.jpg"
         },
         {
           "headline": "AMD Ryzen 395 Halo Box于6月推出",
@@ -90,7 +96,8 @@
           "importance": 7,
           "items": [
             "ca6f11bf342e975b"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/company-02.jpg"
         },
         {
           "headline": "Claude服务短暂中断：API和网页不可用",
@@ -122,7 +129,8 @@
           "importance": 5,
           "items": [
             "298cacc7f8fe1208"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/research-01.jpg"
         }
       ]
     },
@@ -136,7 +144,8 @@
           "importance": 7,
           "items": [
             "6607a2d53bf3272e"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/product-00.jpg"
         },
         {
           "headline": "蚂蚁数科登顶以太坊全球基准评测",
@@ -145,7 +154,8 @@
           "importance": 7,
           "items": [
             "1e22d7bbec1a4881"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/product-01.jpg"
         },
         {
           "headline": "Claude Mythos开始支持图像输出",
@@ -163,7 +173,8 @@
           "importance": 5,
           "items": [
             "436ad6663549afeb"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/product-03.jpg"
         },
         {
           "headline": "OpenAI发布图像生成故事《地精从何而来》",
@@ -214,7 +225,8 @@
           "importance": 8,
           "items": [
             "ce495c04b52f7ca9"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/opinion-02.jpg"
         },
         {
           "headline": "智谱揭秘模型“降智”根源：Prefill损耗",
@@ -223,7 +235,8 @@
           "importance": 7,
           "items": [
             "90d4262ba8f0ba4f"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/opinion-03.jpg"
         },
         {
           "headline": "商汤杨帆：AI拐点从人用到人机协作",
@@ -232,7 +245,8 @@
           "importance": 7,
           "items": [
             "fe9753ad5bd163c0"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/opinion-04.jpg"
         },
         {
           "headline": "IMO/IOI奖牌得主追踪：1500倍概率成亿万富翁",
@@ -241,7 +255,8 @@
           "importance": 6,
           "items": [
             "b9023a25193a2983"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/opinion-05.jpg"
         },
         {
           "headline": "年轻人使用AI越多越讨厌它",
@@ -250,7 +265,8 @@
           "importance": 6,
           "items": [
             "8402b882fbe88098"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/opinion-06.jpg"
         },
         {
           "headline": "AI顶会评审争议：华人网络与ICML高票拒稿",
@@ -274,7 +290,8 @@
           "importance": 7,
           "items": [
             "1e061d48b4ab24c4"
-          ]
+          ],
+          "cover_path": "out/media/2026-05-01/opensource-00.jpg"
         },
         {
           "headline": "llama-swap新增矩阵分组功能，优化模型内存管理",
