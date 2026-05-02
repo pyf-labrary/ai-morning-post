@@ -1,0 +1,180 @@
+{
+  "date": "2026-05-02",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Grok 4.3面世，xAI再掀性能竞赛",
+          "summary": "xAI官方发布Grok 4.3模型，在多项基准上取得显著提升，引发社区广泛关注。",
+          "primary_url": "https://docs.x.ai/developers/models/grok-4.3",
+          "importance": 9,
+          "items": [
+            "3090d0bc7ea0a8bf"
+          ],
+          "cover_path": "out/media/2026-05-02/model_release-00.jpg"
+        },
+        {
+          "headline": "华为携中科大发布灵境造物平台",
+          "summary": "基于全栈国产化软硬件生态，华为与中科大联合推出灵境造物，并首发Coordination Engineering全栈支撑。",
+          "primary_url": "https://www.qbitai.com/2026/05/412696.html",
+          "importance": 6,
+          "items": [
+            "b820478a72502aeb"
+          ],
+          "cover_path": "out/media/2026-05-02/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "马斯克与OpenAI开庭，互揭老底",
+          "summary": "马斯克诉OpenAI案正式开庭，双方律师及当事人当庭交锋，曝出大量硅谷内部恩怨。",
+          "primary_url": "https://www.qbitai.com/2026/05/412447.html",
+          "importance": 8,
+          "items": [
+            "33a476623721239c"
+          ],
+          "cover_path": "out/media/2026-05-02/company-00.jpg"
+        },
+        {
+          "headline": "苹果App误含Claude.md，Vibe Coding翻车",
+          "summary": "苹果支持App打包时误将Anthropic的Claude.md配置文件带入，引发对内部开发流程的调侃。",
+          "primary_url": "https://www.qbitai.com/2026/05/412713.html",
+          "importance": 7,
+          "items": [
+            "6d8ce89a310acff1",
+            "b7b3d10fbd489473"
+          ],
+          "cover_path": "out/media/2026-05-02/company-01.jpg"
+        },
+        {
+          "headline": "Uber四个月烧完全年AI预算于Claude Code",
+          "summary": "Uber在2026年前四个月就将全年AI预算全部用于Claude Code订阅，凸显AI工具使用激增。",
+          "primary_url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+          "importance": 7,
+          "items": [
+            "9579c8a0d018d8dd"
+          ],
+          "cover_path": "out/media/2026-05-02/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI限制Cyber，步Anthropic后尘",
+          "summary": "OpenAI在批评Anthropic限制Mythos后，也宣布限制对Cyber的访问，引发双重标准争议。",
+          "primary_url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+          "importance": 6,
+          "items": [
+            "d7665c1e76de5559"
+          ],
+          "cover_path": "out/media/2026-05-02/company-03.jpg"
+        },
+        {
+          "headline": "智谱揭秘LLM“降智”，Prefill是罪魁",
+          "summary": "智谱官方发文解释大模型在长对话中表现下降的原因，指出Prefill阶段计算存在固有限制。",
+          "primary_url": "https://www.qbitai.com/2026/05/412585.html",
+          "importance": 5,
+          "items": [
+            "90d4262ba8f0ba4f"
+          ],
+          "cover_path": "out/media/2026-05-02/company-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": []
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Spotify推Verified徽章区分人类与AI音乐",
+          "summary": "Spotify为人工艺术家添加Verified认证徽章，帮助听众区分真人创作与AI生成内容。",
+          "primary_url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+          "importance": 6,
+          "items": [
+            "cfd7b0ca0855d1b9"
+          ],
+          "cover_path": "out/media/2026-05-02/product-00.jpg"
+        },
+        {
+          "headline": "AI CAD Harness亮相：自然语言生成CAD",
+          "summary": "Zach团队发布Adam.new的AI CAD Harness，能够基于文本描述生成CAD模型。",
+          "primary_url": "https://fusion.adam.new/install",
+          "importance": 3,
+          "items": [
+            "e0df2309adaac15c"
+          ],
+          "cover_path": "out/media/2026-05-02/product-01.jpg"
+        },
+        {
+          "headline": "他用AI办了个音乐节，主题：别读博",
+          "summary": "一位开发者为AI和科研社区举办音乐节，主题“别读博”引发科研人的共鸣与调侃。",
+          "primary_url": "https://www.qbitai.com/2026/05/412597.html",
+          "importance": 3,
+          "items": [
+            "7b76dacfb9699f2a"
+          ],
+          "cover_path": "out/media/2026-05-02/product-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI用水比想象少，加州博客发文辟谣",
+          "summary": "加州水资源博客用数据指出AI数据中心用水量远低于公众担忧，并呼吁理性看待环境影响。",
+          "primary_url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+          "importance": 4,
+          "items": [
+            "bd7130a679c50129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "具身智能仿真框架开源，高吞吐并行渲染",
+          "summary": "新一代具身智能仿真框架开源，支持高吞吐并行保真渲染，实现真机部署零微调。",
+          "primary_url": "https://www.qbitai.com/2026/05/412577.html",
+          "importance": 5,
+          "items": [
+            "1e061d48b4ab24c4"
+          ],
+          "cover_path": "out/media/2026-05-02/opensource-00.jpg"
+        },
+        {
+          "headline": "Pu.sh：400行Shell实现Coding Agent",
+          "summary": "开源项目Pu.sh用400行Shell代码构建了完整的编码Agent工具链，轻量且可移植。",
+          "primary_url": "https://pu.dev/",
+          "importance": 3,
+          "items": [
+            "fc0f850e31fbc77d"
+          ],
+          "cover_path": "out/media/2026-05-02/opensource-01.jpg"
+        },
+        {
+          "headline": "Intel开源Auto-Round量化算法",
+          "summary": "Intel发布Auto-Round，一种先进的LLM量化算法开源实现，旨在提升模型推理效率。",
+          "primary_url": "https://github.com/intel/auto-round",
+          "importance": 3,
+          "items": [
+            "93547c3f39ce9ff6"
+          ],
+          "cover_path": "out/media/2026-05-02/opensource-02.jpg"
+        }
+      ]
+    }
+  ]
+}
