@@ -30,10 +30,21 @@ SECTION_ORDER = [
 DEFAULT_MARGINALIA = Path.home() / "claw" / "marginalia"
 
 
+SECTION_ID_MAP = {
+    "model_release": "model-release",
+    "company": "company",
+    "research": "research",
+    "product": "product",
+    "opinion": "opinion",
+    "opensource": "opensource",
+}
+
+
 def _section_marker(sid: str, name: str, emoji: str) -> str:
-    """每个板块上方的视觉分隔（kramdown 友好）。"""
+    """每个板块上方的视觉分隔（带 anchor id 让侧栏 TOC 可跳转）。"""
+    anchor = SECTION_ID_MAP.get(sid, sid.replace("_", "-"))
     return (
-        f'\n\n<p class="ai-section-divider">{emoji} {name}</p>\n\n'
+        f'\n\n<h2 id="{anchor}" class="ai-section-divider">{emoji} {name}</h2>\n\n'
     )
 
 
@@ -110,17 +121,29 @@ def build_post(date: str, marginalia: Path) -> Path:
     img_url_prefix = f"/marginalia/assets/img/ai-hot/{date}"
     sec_by_id = {s["id"]: s for s in curated.get("sections", [])}
 
-    # 拼装正文
+    # 拼装正文 + 收集 TOC sections
     parts: list[str] = [_build_lead(curated)]
+    toc_sections: list[dict] = []
     for sid in SECTION_ORDER:
         md_path = src_dir / f"{sid}.md"
         if not md_path.exists():
             continue
+        stories = sec_by_id.get(sid, {}).get("stories", [])
+        if not stories:
+            continue
         name, emoji = SECTION_META.get(sid, (sid, "📰"))
+        anchor = SECTION_ID_MAP.get(sid, sid.replace("_", "-"))
+        toc_sections.append({
+            "id": anchor,
+            "name": name,
+            "emoji": emoji,
+            "count": len(stories),
+        })
         body = md_path.read_text(encoding="utf-8")
         body = _strip_h1(body)
-        stories = sec_by_id.get(sid, {}).get("stories", [])
         body = _insert_covers(body, stories, img_url_prefix)
+        # story heading 从 H2 降级为 H3，避免与板块标题（H2）级别相同
+        body = re.sub(r"^## ", "### ", body, flags=re.M)
         parts.append(_section_marker(sid, name, emoji))
         parts.append(body)
 
@@ -144,9 +167,13 @@ def build_post(date: str, marginalia: Path) -> Path:
     # 时间：当天 06:00 +0800（让排序稳定且不晚于真实抓取时间）
     date_iso = f"{date} 06:00:00 +0800"
 
+    sections_yaml = "\n".join(
+        f'  - {{ id: {s["id"]}, name: "{s["name"]}", emoji: "{s["emoji"]}", count: {s["count"]} }}'
+        for s in toc_sections
+    )
     front = (
         "---\n"
-        'layout: "post"\n'
+        'layout: "ai-hot"\n'
         f'title: "{title}"\n'
         f'date: "{date_iso}"\n'
         'author: "Marginalia"\n'
@@ -154,6 +181,7 @@ def build_post(date: str, marginalia: Path) -> Path:
         f'excerpt: "{excerpt[:160].replace(chr(34), chr(39))}"\n'
         'tags: [ai-hot, ai-morning-post, daily]\n'
         'keywords: "AI 晨报, AI 新闻, LLM, 大模型, daily AI news, ai-hot"\n'
+        f"sections:\n{sections_yaml}\n"
         "---\n\n"
     )
 
