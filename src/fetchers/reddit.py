@@ -6,19 +6,34 @@ from datetime import datetime, timezone
 
 from ..common import Item
 
-UA = "ai-morning-post/0.1 (by /u/gittee-coder)"
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+HEADERS = {
+    "User-Agent": UA,
+    "Accept": "application/json,text/plain,*/*",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
+def _fetch_one(sub: str, max_per_sub: int) -> dict | None:
+    """先尝试 old.reddit.com（对数据中心 IP 友好些），再 fallback 到 www。"""
+    for host in ("old.reddit.com", "www.reddit.com"):
+        url = f"https://{host}/r/{sub}/top.json?t=day&limit={max_per_sub}"
+        try:
+            r = httpx.get(url, headers=HEADERS, timeout=30, follow_redirects=True)
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:
+            last = e
+    print(f"[reddit] r/{sub} failed: {last}")
+    return None
 
 
 def fetch_reddit(subreddits: list[str], min_score: int = 50, max_per_sub: int = 20) -> list[Item]:
     out: list[Item] = []
     for sub in subreddits:
-        url = f"https://www.reddit.com/r/{sub}/top.json?t=day&limit={max_per_sub}"
-        try:
-            r = httpx.get(url, headers={"User-Agent": UA}, timeout=30)
-            r.raise_for_status()
-            data = r.json()
-        except Exception as e:
-            print(f"[reddit] r/{sub} failed: {e}")
+        data = _fetch_one(sub, max_per_sub)
+        if not data:
             continue
         for child in data.get("data", {}).get("children", []):
             d = child.get("data", {})
