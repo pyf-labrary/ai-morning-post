@@ -1,0 +1,298 @@
+{
+  "date": "2026-05-03",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "DeepSeek V4悄然逼近前沿水平",
+          "summary": "Simon Willison评测称DeepSeek V4在多个基准上几乎达到前沿模型水平，引发广泛关注。",
+          "primary_url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+          "items": [
+            "dc194529485e7ee6"
+          ],
+          "cover_path": "out/media/2026-05-03/model_release-00.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "华为携中科大发布灵境造物，国产全栈AI平台",
+          "summary": "基于全栈国产化软硬件生态，华为与中科大联合发布“灵境造物”平台，首发Coordination Engineering能力，旨在降低AI开发门槛。",
+          "primary_url": "https://www.qbitai.com/2026/05/412696.html",
+          "items": [
+            "b820478a72502aeb"
+          ],
+          "cover_path": "out/media/2026-05-03/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "苹果App误打包Claude.md，Vibe Coding翻车",
+          "summary": "苹果支持App中被发现嵌入了Claude的.md配置文件，疑似开发人员误将内部调试文件打包，引发对Vibe Coding风险的讨论。",
+          "primary_url": "https://x.com/aaronp613/status/2049986504617820551",
+          "items": [
+            "6d8ce89a310acff1",
+            "b7b3d10fbd489473"
+          ]
+        },
+        {
+          "importance": 6,
+          "headline": "Uber四个月烧光2026全年AI预算，全砸Claude Code",
+          "summary": "Uber在短短四个月内将2026年整年的AI预算全部用于Claude Code，引发对AI投资回报的质疑。",
+          "primary_url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+          "items": [
+            "9579c8a0d018d8dd"
+          ],
+          "cover_path": "out/media/2026-05-03/company-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "智谱揭秘模型“降智”：都是Prefill的锅",
+          "summary": "智谱解释了AI模型在长对话中表现下降的原因，指出是Prefill阶段的计算瓶颈，属于Scaling过程中不可避免的代价。",
+          "primary_url": "https://www.qbitai.com/2026/05/412585.html",
+          "items": [
+            "90d4262ba8f0ba4f"
+          ],
+          "cover_path": "out/media/2026-05-03/company-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "OpenAI限制访问Cyber，此前曾抨击Anthropic限制Mythos",
+          "summary": "OpenAI在批评Anthropic限制模型后，自己也对Cyber功能施加了访问限制，引发双重标准争议。",
+          "primary_url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+          "items": [
+            "d7665c1e76de5559"
+          ],
+          "cover_path": "out/media/2026-05-03/company-03.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "AWS停止向中东云客户收费，因战争修复拖延数月",
+          "summary": "由于数据中心遭无人机袭击，AWS暂停对中东地区部分客户计费，修复工作预计持续数月。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+          "items": [
+            "19a56e00f84e90d5"
+          ],
+          "cover_path": "out/media/2026-05-03/company-04.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "Ubuntu服务器遭持续跨境攻击，已下线超一天",
+          "summary": "Ubuntu官方基础设施遭受来自多国的持续攻击，导致多项服务离线超过24小时。",
+          "primary_url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+          "items": [
+            "c9f677d039ffbae0"
+          ],
+          "cover_path": "out/media/2026-05-03/company-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "\"Gay Jailbreak\"技术意外爆火，模型安全再受拷问",
+          "summary": "一种被称为\"Gay Jailbreak\"的AI越狱方法在GitHub上获得614分关注，因其低门槛和高效性引发对模型安全策略的讨论。",
+          "primary_url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+          "items": [
+            "3986a34fa681227c"
+          ],
+          "cover_path": "out/media/2026-05-03/research-00.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "新论文揭示算法招聘中的AI自我偏好实证证据",
+          "summary": "arXiv论文通过实证研究发现AI在算法招聘中存在自我偏好，即倾向于推荐同类型候选人，引发公平性担忧。",
+          "primary_url": "https://arxiv.org/abs/2509.00462",
+          "items": [
+            "10c453cd4dbc1d65"
+          ],
+          "cover_path": "out/media/2026-05-03/research-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "研究发现语言模型拒绝由单一方向介导",
+          "summary": "arXiv论文揭示语言模型中的拒绝行为由一个单一的表示方向控制，为模型对齐提供新视角。",
+          "primary_url": "https://arxiv.org/abs/2406.11717",
+          "items": [
+            "75d4c615cc691ab5"
+          ],
+          "cover_path": "out/media/2026-05-03/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "Spotify为人类艺术家添加Verified徽章，以区分AI作品",
+          "summary": "Spotify推出人工验证徽章，帮助听众区分人类艺术家与AI生成音乐，维护创作者权益。",
+          "primary_url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+          "items": [
+            "cfd7b0ca0855d1b9"
+          ],
+          "cover_path": "out/media/2026-05-03/product-00.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "VS Code擅自添加Copilot署名到commit引众怒",
+          "summary": "VS Code的一个PR被曝自动在commit消息中插入\"Co-Authored-by Copilot\"，即使用户未使用Copilot，导致开发者强烈不满。",
+          "primary_url": "https://github.com/microsoft/vscode/pull/310226",
+          "items": [
+            "9d60a93c51df1f1e"
+          ],
+          "cover_path": "out/media/2026-05-03/product-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "AI CAD Harness发布：文本转3D设计工具",
+          "summary": "Adam公司推出AI CAD Harness，允许用户通过文本直接生成3D模型，简化CAD设计流程。",
+          "primary_url": "https://fusion.adam.new/install",
+          "items": [
+            "e0df2309adaac15c"
+          ],
+          "cover_path": "out/media/2026-05-03/product-02.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "AI举办音乐节劝退博士生：别读博",
+          "summary": "一位科研人员利用AI策划主题音乐节，以幽默方式鼓励博士生关注自我健康，引发共鸣。",
+          "primary_url": "https://www.qbitai.com/2026/05/412597.html",
+          "items": [
+            "7b76dacfb9699f2a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "博客称AI实际用水量远低于公众想象",
+          "summary": "加州水资源博客撰文指出，AI数据中心的水耗被公众过度担忧，实际用水量相比其他产业并不突出。",
+          "primary_url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+          "items": [
+            "bd7130a679c50129"
+          ]
+        },
+        {
+          "importance": 5,
+          "headline": "报告显示软件工程师职位招聘正快速回升",
+          "summary": "Citadel Securities发布报告称，2026年全球软件工程师岗位招聘数量大幅增长，可能缓解AI导致的就业焦虑。",
+          "primary_url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+          "items": [
+            "ff760cdd0fed3b8b"
+          ]
+        },
+        {
+          "importance": 4,
+          "headline": "NHS被指对开源宣战，引发社区强烈反弹",
+          "summary": "英国国家医疗服务体系(NHS)推行新政策，被批评为限制开源软件使用，开源社区表达担忧。",
+          "primary_url": "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
+          "items": [
+            "dfdf28788631b554"
+          ],
+          "cover_path": "out/media/2026-05-03/opinion-02.jpg"
+        },
+        {
+          "importance": 2,
+          "headline": "HN五月招聘与求职热潮持续",
+          "summary": "Hacker News五月发布招聘和求职帖，反映技术人才市场活跃度。",
+          "primary_url": "https://news.ycombinator.com/item?id=47975571",
+          "items": [
+            "99afc227af6a3cc4",
+            "43ac0703e67f9206"
+          ]
+        },
+        {
+          "importance": 1,
+          "headline": "RightsCon 2026因政治争议取消赞比亚会场",
+          "summary": "数字权利大会RightsCon宣布2026年会议不在赞比亚举行，原因为当地政府压制言论自由。",
+          "primary_url": "https://www.rightscon.org/rc26-statement/",
+          "items": [
+            "569f4922eef8f401"
+          ],
+          "cover_path": "out/media/2026-05-03/opinion-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "importance": 4,
+          "headline": "Agent-desktop：AI代理原生命令行工具",
+          "summary": "开源项目Agent-desktop提供AI代理原生桌面自动化CLI，支持跨平台控制操作。",
+          "primary_url": "https://github.com/lahfir/agent-desktop",
+          "items": [
+            "41076715e0e3f1b8"
+          ],
+          "cover_path": "out/media/2026-05-03/opensource-00.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Understand Anything：让AI理解任意文本",
+          "summary": "GitHub项目Understand Anything旨在构建通用文本理解模型，提供灵活可扩展的接口。",
+          "primary_url": "https://github.com/Lum1104/Understand-Anything",
+          "items": [
+            "9273e987a6638e8b"
+          ],
+          "cover_path": "out/media/2026-05-03/opensource-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Open Design：用编码Agent作为设计引擎",
+          "summary": "开源项目Open Design让开发者使用编码Agent来自动化设计流程，加速从构思到原型。",
+          "primary_url": "https://github.com/nexu-io/open-design",
+          "items": [
+            "923e492a1f46f5c9"
+          ],
+          "cover_path": "out/media/2026-05-03/opensource-02.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "K3k：在Kubernetes内运行Kubernetes",
+          "summary": "Rancher开源项目K3k实现了嵌套Kubernetes集群，简化多租户隔离环境。",
+          "primary_url": "https://github.com/rancher/k3k",
+          "items": [
+            "bba449ea0df15d32"
+          ],
+          "cover_path": "out/media/2026-05-03/opensource-03.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "微软开源lib0xc：为C语言提供更安全的标准库",
+          "summary": "微软发布lib0xc库，提供一系列标准库替代API，旨在提高C语言系统编程的安全性。",
+          "primary_url": "https://github.com/microsoft/lib0xc",
+          "items": [
+            "7b53c62afeab25f8"
+          ],
+          "cover_path": "out/media/2026-05-03/opensource-04.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Whohas：跨发行版跨仓库的包搜索工具",
+          "summary": "命令行工具Whohas支持同时搜索多个Linux发行版和仓库中的软件包，极大便利开发运维。",
+          "primary_url": "https://github.com/whohas/whohas",
+          "items": [
+            "3f263630063b282e"
+          ],
+          "cover_path": "out/media/2026-05-03/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
