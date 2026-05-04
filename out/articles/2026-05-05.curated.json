@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-05",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "OpenAI揭秘大规模低延迟语音AI系统",
+          "summary": "OpenAI官方博客详细描述了如何构建可大规模部署的低延迟语音AI系统，涵盖从模型优化到基础设施的多个关键环节。",
+          "primary_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+          "importance": 7,
+          "items": [
+            "03506cc75a91bc75"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI谷歌微软联合支持学校AI素养法案",
+          "summary": "OpenAI、谷歌和微软共同支持美国一项旨在资助学校AI素养教育的法案，推动下一代对人工智能的理解。",
+          "primary_url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+          "importance": 6,
+          "items": [
+            "af8899f9584decbd"
+          ],
+          "cover_path": "out/media/2026-05-05/company-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": []
+    },
+    {
+      "id": "product",
+      "stories": []
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "观点：Agentic Coding是陷阱而非神药",
+          "summary": "一篇引发热议的文章指出，当前Agentic Coding（智能体编码）模式存在根本性问题，可能误导开发者陷入效率陷阱。",
+          "primary_url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+          "importance": 7,
+          "items": [
+            "af0387194e147c58"
+          ],
+          "cover_path": "out/media/2026-05-05/opinion-00.jpg"
+        },
+        {
+          "headline": "LLM并非更高层次抽象",
+          "summary": "作者从编程范式角度论述LLM不同于传统抽象，其本质更接近模式匹配，不应过度神化。",
+          "primary_url": "https://www.lelanthran.com/chap15/content.html",
+          "importance": 6,
+          "items": [
+            "2d567be19852cd73"
+          ]
+        },
+        {
+          "headline": "一位开发者对LLM的坦诚思考",
+          "summary": "资深开发者分享长期使用LLM后的观察与反思，讨论了其能力边界与潜在影响。",
+          "primary_url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+          "importance": 5,
+          "items": [
+            "8118325664e8e107"
+          ],
+          "cover_path": "out/media/2026-05-05/opinion-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "DeepClaude：结合Claude Code与DeepSeek V4 Pro",
+          "summary": "开源项目DeepClaude实现了Claude Code与DeepSeek V4 Pro的智能体循环，提供更强代码生成能力，在Hacker News获得646高赞。",
+          "primary_url": "https://github.com/aattaran/deepclaude",
+          "importance": 8,
+          "items": [
+            "b24345db8a003896"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-00.jpg"
+        },
+        {
+          "headline": "DeepSeek版Claude Code开源，GitHub 2.3k星",
+          "summary": "专门针对DeepSeek优化的Claude Code变体发布，性能提升显著，迅速获得社区关注。",
+          "primary_url": "https://www.qbitai.com/2026/05/412914.html",
+          "importance": 7,
+          "items": [
+            "d64c525ad5e2b023"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-01.jpg"
+        },
+        {
+          "headline": "用语音控制Ableton Live：Ableton Live MCP开源",
+          "summary": "开发者创建了MCP服务器，允许通过语音命令直接控制Ableton Live，解放双手进行音乐制作。",
+          "primary_url": "https://github.com/bschoepke/ableton-live-mcp",
+          "importance": 5,
+          "items": [
+            "1a21f3f2e7bc9492"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-02.jpg"
+        }
+      ]
+    }
+  ]
+}
