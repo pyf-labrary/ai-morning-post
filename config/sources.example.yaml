@@ -58,34 +58,72 @@ rss:
   - name: InfoQ AI 中文
     url: https://www.infoq.cn/feed.xml
     weight: 7
+  - name: 36Kr AI
+    url: https://www.36kr.com/feed-newsflash
+    weight: 6
+  - name: 雷锋网
+    url: https://www.leiphone.com/feed
+    weight: 6
+  # 主流科技媒体的 AI 板块
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    weight: 8
+  - name: Wired AI
+    url: https://www.wired.com/feed/tag/ai/latest/rss
+    weight: 7
+  - name: MIT Tech Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    weight: 8
+  - name: Marktechpost
+    url: https://www.marktechpost.com/feed/
+    weight: 6
+  # 行业观点 / 周报
+  - name: Pragmatic Engineer
+    url: https://newsletter.pragmaticengineer.com/feed
+    weight: 7
+  - name: TLDR AI
+    url: https://tldr.tech/api/rss/ai
+    weight: 7
+  - name: AI Snake Oil
+    url: https://www.aisnakeoil.com/feed
+    weight: 7
+  - name: Last Week in AI
+    url: https://lastweekin.ai/feed
+    weight: 7
+  # 产品 / 开源
+  - name: Product Hunt AI
+    url: https://www.producthunt.com/feed?category=artificial-intelligence
+    weight: 5
+  - name: GitHub Trending Daily
+    url: https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml
+    weight: 6
+  - name: GitHub Trending Python
+    url: https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml
+    weight: 6
+  - name: Lobsters AI
+    url: https://lobste.rs/t/ai.rss
+    weight: 6
 
 arxiv:
   categories: [cs.AI, cs.CL, cs.LG]
   max_per_category: 30
 
-reddit:
-  subreddits: [LocalLLaMA, MachineLearning, singularity, OpenAI, ClaudeAI]
-  min_score: 50
-  max_per_sub: 20
+# 已禁用：Reddit 在 2025-11 关掉自助 API，新 OAuth 凭证需人工审批；
+# 旧的免登录 .json 接口对 GitHub Actions IP 100% 403。
+# 拿到审批后把 subreddits 填回去即可启用。
+# reddit:
+#   subreddits: [LocalLLaMA, MachineLearning, singularity, OpenAI, ClaudeAI]
+#   min_score: 50
+#   max_per_sub: 20
 
 hackernews:
   min_points: 80
   keywords: [AI, LLM, GPT, Claude, Gemini, model, neural, transformer, agent, RAG]
 
-x:
-  # 需要 TWITTERAPI_IO_KEY
-  accounts:
-    - OpenAI
-    - AnthropicAI
-    - GoogleDeepMind
-    - MistralAI
-    - sama
-    - karpathy
-    - ylecun
-    - GoogleAI
-    - demishassabis
-    - alexalbert__
-    - jackclarkSF
+# 已禁用：twitterapi.io 要钱，且账号信号通常已被 RSS / 媒体 / HN 复述。
+# 后续如果配置 TWITTERAPI_IO_KEY 想再启用，把 accounts 填回去即可。
+# x:
+#   accounts: [OpenAI, AnthropicAI, GoogleDeepMind, sama, karpathy, ylecun]
 
 product_hunt:
   topics: [artificial-intelligence, developer-tools]
