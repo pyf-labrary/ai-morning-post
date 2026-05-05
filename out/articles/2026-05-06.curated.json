@@ -1,0 +1,332 @@
+{
+  "date": "2026-05-06",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-5.5 Instant，默认模型升级",
+          "summary": "OpenAI 发布 GPT-5.5 Instant，作为 ChatGPT 新默认模型，降低幻觉、提升个性化，并在法律、医学等领域表现更可靠。",
+          "primary_url": "https://openai.com/index/gpt-5-5-instant",
+          "importance": 10,
+          "items": [
+            "f2414ace990ee7d8",
+            "96b388712c56acf1",
+            "da141df6f1505d0a",
+            "f152289ca2f358eb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 庭审持续，马斯克威胁短信曝光",
+          "summary": "OpenAI 庭审中，马斯克向 OpenAI 高层发送威胁短信，要求和解不成；OpenAI 总裁格雷格·布罗克曼出庭辩护其巨额股权。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+          "importance": 9,
+          "items": [
+            "761234b9510fe185",
+            "c0d0520f7328d146",
+            "650b9f745bf086aa",
+            "fa65d105311d5670",
+            "daf47d98feda830f"
+          ],
+          "cover_path": "out/media/2026-05-06/company-00.jpg"
+        },
+        {
+          "headline": "Sierra 融资 9.5 亿美元，估值 150 亿",
+          "summary": "企业 AI 客服平台 Sierra 完成 9.5 亿美元融资，计划成为全球企业 AI 体验标准。",
+          "primary_url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+          "importance": 8,
+          "items": [
+            "2924e35ed5bc4f16",
+            "1fa956bd12c6316b"
+          ],
+          "cover_path": "out/media/2026-05-06/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 发布十款金融 AI Agent",
+          "summary": "Anthropic 推出 10 个面向金融服务的 AI Agent，同时与 OpenAI 竞相通过合资公司推广企业 AI。",
+          "primary_url": "https://www.anthropic.com/news/finance-agents",
+          "importance": 8,
+          "items": [
+            "c4d4007af473b84b",
+            "76bf69ffd2385110",
+            "6a74aebc993ac90f"
+          ],
+          "cover_path": "out/media/2026-05-06/company-02.jpg"
+        },
+        {
+          "headline": "Character.AI 因聊天机器人冒充医生被宾州起诉",
+          "summary": "宾夕法尼亚州起诉 Character.AI，指控其聊天机器人自称持牌精神病医生并编造执照号。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+          "importance": 7,
+          "items": [
+            "a450416cd7b2ee32",
+            "aaaec9fe4aa06a41"
+          ],
+          "cover_path": "out/media/2026-05-06/company-03.jpg"
+        },
+        {
+          "headline": "Meta 用 AI 扫描骨骼结构识别未成年人",
+          "summary": "Meta 在 Instagram 和 Facebook 部署 AI 分析身高、骨龄以标记未成年人，已在部分国家上线。",
+          "primary_url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+          "importance": 7,
+          "items": [
+            "f3b83efeca6d1c06",
+            "bd0e571609aca2a3"
+          ],
+          "cover_path": "out/media/2026-05-06/company-04.jpg"
+        },
+        {
+          "headline": "ElevenLabs 披露新投资者：贝莱德、杰米·福克斯等",
+          "summary": "ElevenLabs 达到 5 亿美元 ARR，新增贝莱德等投资者，加速语音 AI 企业应用。",
+          "primary_url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+          "importance": 7,
+          "items": [
+            "9c4ee68d929cb4c7"
+          ],
+          "cover_path": "out/media/2026-05-06/company-05.jpg"
+        },
+        {
+          "headline": "苹果考虑引入英特尔、三星代工芯片，减少对台积电依赖",
+          "summary": "苹果正与英特尔、三星初步洽谈设备主处理器代工，以缓解产能瓶颈。",
+          "primary_url": "https://36kr.com/newsflashes/3795834368302088",
+          "importance": 6,
+          "items": [
+            "4408648de7b96f91"
+          ],
+          "cover_path": "out/media/2026-05-06/company-06.jpg"
+        },
+        {
+          "headline": "英特尔宣布新高管：高通前高管领导客户端与物理 AI",
+          "summary": "英特尔任命 Alex Katouzian 为客户端计算与物理 AI 事业部总经理，同时正式任命 Pushkar Ranade 为 CTO。",
+          "primary_url": "https://36kr.com/newsflashes/3795844563934467",
+          "importance": 6,
+          "items": [
+            "e755574422e7f640"
+          ],
+          "cover_path": "out/media/2026-05-06/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "GLM-5V-Turbo：面向多模态 Agent 的原生基础模型",
+          "summary": "清华团队发布 GLM-5V-Turbo，探索原生多模态模型用于智能体任务。",
+          "primary_url": "https://arxiv.org/abs/2604.26752",
+          "importance": 4,
+          "items": [
+            "b2c8e1d285608fd2"
+          ],
+          "cover_path": "out/media/2026-05-06/research-00.jpg"
+        },
+        {
+          "headline": "SpecKV：自适应推测解码加速 LLM 推理",
+          "summary": "提出压缩感知的 Gamma 选择方法，提升推测解码效率。",
+          "primary_url": "http://arxiv.org/abs/2605.02888v1",
+          "importance": 3,
+          "items": [
+            "496341baebb7975f"
+          ],
+          "cover_path": "out/media/2026-05-06/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Google Home 升级 Gemini 语音助手，新增摄像头控制",
+          "summary": "Google Home 迎来 AI 驱动大更新，集成 Gemini 语音助手并增强摄像头管理。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+          "importance": 6,
+          "items": [
+            "d8233102e91c592a"
+          ],
+          "cover_path": "out/media/2026-05-06/product-00.jpg"
+        },
+        {
+          "headline": "DoorDash 新增 AI 工具加快商家入驻与菜品图片编辑",
+          "summary": "DoorDash 推出 AI 工具，帮助商家快速上线、美化菜品照片，并自动生成网站。",
+          "primary_url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+          "importance": 5,
+          "items": [
+            "91262159dc910fc6"
+          ],
+          "cover_path": "out/media/2026-05-06/product-01.jpg"
+        },
+        {
+          "headline": "中国移动将推出 AI-eSIM 产品",
+          "summary": "中国移动在 2026 移动云大会预告 AI-eSIM，可实时调度云端模型，适用于 AI 玩具、穿戴设备。",
+          "primary_url": "https://36kr.com/newsflashes/3795830533643523",
+          "importance": 5,
+          "items": [
+            "83fd72c3a4e66c4f"
+          ],
+          "cover_path": "out/media/2026-05-06/product-02.jpg"
+        },
+        {
+          "headline": "Etsy 在 ChatGPT 内推出原生应用，打造对话购物体验",
+          "summary": "Etsy 发布 ChatGPT 原生应用，用户可通过对话搜索和购买商品。",
+          "primary_url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+          "importance": 5,
+          "items": [
+            "55ea2436bf1e2e98"
+          ],
+          "cover_path": "out/media/2026-05-06/product-03.jpg"
+        },
+        {
+          "headline": "Airbyte 推出 Agent 层，为 AI 提供数据上下文",
+          "summary": "Airbyte Agents 为生产级 AI Agent 提供跨多数据源的上下文连接。",
+          "primary_url": "https://www.producthunt.com/products/airbyte-agents",
+          "importance": 4,
+          "items": [
+            "50dcc088dfb62faa",
+            "262f1dd8d8e220fb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI 低延迟语音 AI 技术揭秘",
+          "summary": "OpenAI 发布技术文章，详述如何实现低延迟语音 AI 的规模化交付。",
+          "primary_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+          "importance": 7,
+          "items": [
+            "03506cc75a91bc75"
+          ]
+        },
+        {
+          "headline": "US 政府与五家 AI 实验室达成预发布安全测试协议",
+          "summary": "美国国防部与 OpenAI、Anthropic、Google 等实验室达成协议，获得预发布模型访问权进行国家安全测试。",
+          "primary_url": "https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/",
+          "importance": 8,
+          "items": [
+            "2bd9961b5ab7b284",
+            "76418da8d1c179cc",
+            "d49acb64d15ab8c7"
+          ],
+          "cover_path": "out/media/2026-05-06/opinion-01.jpg"
+        },
+        {
+          "headline": "AI 不会删除你的数据库——是你做的",
+          "summary": "一篇反思性文章指出，许多 AI 事故本质是用户错误，不应归咎于工具。",
+          "primary_url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+          "importance": 5,
+          "items": [
+            "6ffaf9ad0e51cd91"
+          ],
+          "cover_path": "out/media/2026-05-06/opinion-02.jpg"
+        },
+        {
+          "headline": "Anthropic 联合创始人警告递归 AI 改进可能超越人类监督",
+          "summary": "Anthropic 联合创始人揭示递归式 AI 自我改进可能加速，带来监管挑战。",
+          "primary_url": "https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/",
+          "importance": 6,
+          "items": [
+            "d8bb08184fd9e06c"
+          ],
+          "cover_path": "out/media/2026-05-06/opinion-03.jpg"
+        },
+        {
+          "headline": "黄仁勋：AI 正在创造大量就业，并非消灭工作",
+          "summary": "英伟达 CEO 黄仁勋在公开场合回应 AI 替代担忧，认为 AI 催生了更多新岗位。",
+          "primary_url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+          "importance": 5,
+          "items": [
+            "37c8d61085b8a20e"
+          ],
+          "cover_path": "out/media/2026-05-06/opinion-04.jpg"
+        },
+        {
+          "headline": "Google DeepMind 员工投票成立工会，反对军事 AI 合作",
+          "summary": "DeepMind 英国员工投票成立工会，旨在阻止 AI 模型用于军事场景。",
+          "primary_url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+          "importance": 6,
+          "items": [
+            "9a70644907dcc0ed"
+          ],
+          "cover_path": "out/media/2026-05-06/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
+          "summary": "Vercel 发布 Open Agents，一个开源框架，支持 AI 代理在后台执行编码任务。",
+          "primary_url": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN",
+          "importance": 7,
+          "items": [
+            "4209f51899c32240"
+          ],
+          "cover_path": "out/media/2026-05-06/opensource-00.jpg"
+        },
+        {
+          "headline": "DeepSeek-TUI：终端原生 DeepSeek 编码代理",
+          "summary": "开源项目 DeepSeek-TUI 提供终端内基于 DeepSeek V4 的编码代理，支持百万级 token 上下文。",
+          "primary_url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "importance": 6,
+          "items": [
+            "e8ef0e1d05031549"
+          ]
+        },
+        {
+          "headline": "ruflo：基于 Claude 的多智能体编排框架",
+          "summary": "ruflo 是一个开源的多智能体编排平台，支持企业级架构和自学习群智。",
+          "primary_url": "https://github.com/ruvnet/ruflo",
+          "importance": 5,
+          "items": [
+            "528ceb67be454e88"
+          ],
+          "cover_path": "out/media/2026-05-06/opensource-02.jpg"
+        },
+        {
+          "headline": "TradingAgents：多智能体金融交易框架",
+          "summary": "开源的多智能体 LLM 金融交易框架，用于自动化交易策略。",
+          "primary_url": "https://github.com/TauricResearch/TradingAgents",
+          "importance": 5,
+          "items": [
+            "bbfb2978e3481980"
+          ],
+          "cover_path": "out/media/2026-05-06/opensource-03.jpg"
+        },
+        {
+          "headline": "Browserbase Skills：Claude Agent SDK 网页浏览工具",
+          "summary": "一套为 Claude Code 提供的网页浏览技能，集成 Browserbase 浏览器自动化。",
+          "primary_url": "https://github.com/browserbase/skills",
+          "importance": 5,
+          "items": [
+            "4b064b455b2d6b9c"
+          ],
+          "cover_path": "out/media/2026-05-06/opensource-04.jpg"
+        },
+        {
+          "headline": "LTX-2：官方开源音频-视频生成模型与 LoRA 训练器",
+          "summary": "Lightricks 开源 LTX-2 模型，支持音频到视频生成及 LoRA 微调。",
+          "primary_url": "https://github.com/Lightricks/LTX-2",
+          "importance": 5,
+          "items": [
+            "3115031911235249"
+          ],
+          "cover_path": "out/media/2026-05-06/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
