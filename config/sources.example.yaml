@@ -20,12 +20,43 @@ rss:
   - name: HuggingFace Blog
     url: https://huggingface.co/blog/feed.xml
     weight: 7
+  - name: NVIDIA Blog
+    url: https://blogs.nvidia.com/feed/
+    weight: 7
+  - name: Microsoft AI Blog
+    url: https://blogs.microsoft.com/ai/feed/
+    weight: 8
+  - name: Together AI
+    url: https://www.together.ai/blog/rss.xml
+    weight: 7
+  # AI 行业媒体 / 周刊
+  - name: The Decoder
+    url: https://the-decoder.com/feed/
+    weight: 7
+  - name: Ars Technica AI
+    url: https://arstechnica.com/ai/feed/
+    weight: 8
+  - name: Import AI
+    url: https://importai.substack.com/feed
+    weight: 9
+  - name: Latent Space
+    url: https://www.latent.space/feed
+    weight: 8
+  - name: Stratechery
+    url: https://stratechery.com/feed/
+    weight: 6
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    weight: 8
   # 中文
   - name: 机器之心
     url: https://www.jiqizhixin.com/rss
     weight: 7
   - name: 量子位
     url: https://www.qbitai.com/feed
+    weight: 7
+  - name: InfoQ AI 中文
+    url: https://www.infoq.cn/feed.xml
     weight: 7
 
 arxiv:
