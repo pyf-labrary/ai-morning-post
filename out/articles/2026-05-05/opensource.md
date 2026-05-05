@@ -1,37 +1,87 @@
-# DeepClaude获646赞，开源代码新范式
+# DeepSeek与Claude合体，开源编程助手上新
 
-今天最值得关注的是 **DeepClaude**——一个将 Claude Code 与 DeepSeek V4 Pro 组合成智能体循环的开源项目，在 Hacker News 收获 646 高赞。它用多模型协作的方式突破了单一模型的代码生成瓶颈，展示了“模型路由”在工程场景下的实际价值。与此同时，专为 DeepSeek 优化的 Claude Code 变体也拿下了 2.3k star，语音控制音乐制作工具 MCP 服务器同样加入开源阵营。
+今日最值得关注的是开源项目 DeepClaude 正式将 DeepSeek V4 的推理效率与 Claude Code 的代理循环结合，这是首次让两个明星模型在 agentic 编程场景下协作。背后释放的信号：开源生态正在加速“模型间调用”的基础设施落地，而非单一模型的内卷。
 
-## DeepClaude：双模型智能体循环，代码生成更强
+## DeepClaude：DeepSeek V4 + Claude Code 代理循环
 
-**是什么**：DeepClaude 是一个开源项目，让 Claude Code 与 DeepSeek V4 Pro 组成智能体循环：Claude 负责规划与推理，DeepSeek 执行高密度代码生成，两者通过 Agent 机制自动交换上下文，实现比单模型更强的代码产出。
+是什么：一个将 DeepSeek V4 的高效推理注入 Claude Code 代理循环的开源工具，让 Claude 在编码任务中能调用 DeepSeek 进行快速推理，尤其在长上下文或复杂分解场景中提升效率。
 
-**关键点**：项目在 Hacker News 获得 646 赞，说明开发者社区对“组合模型”策略的强烈兴趣。它不依赖单一模型的极限能力，而是通过设计好的协作流程让模型互补——Claude 擅长结构化和思考链，DeepSeek V4 Pro 在长代码生成上效率更高。
+关键点：项目由独立开发者 aattaran 创建，利用 Claude Code 的“代理循环”（agentic loop）机制，将 DeepSeek 作为外部推理引擎。实际效果：DeepSeek 处理数学/逻辑密集型子问题，Claude 负责代码生成与调试协调。
 
-**为什么重要**：当前 AI 代码助手多采用单一模型，而 DeepClaude 展示了一种“模型路由”思路：将不同优势模型编排成流水线，有望在复杂项目、大型重构场景中显著提升成功率。它可能成为未来代码自动化的新范式，尤其适合需要反复迭代的软件开发。
+为什么重要：这意味着开发者不再被单一模型锁定，而是可以跨模型编排最优能力。开源社区正在实践“模型即函数”的理念，这可能是无需昂贵融合训练就能获得更优编程体验的捷径。
 
-> 原文：[https://github.com/aattaran/deepclaude](https://github.com/aattaran/deepclaude)
+> 原文：[GitHub - aattaran/DeepClaude](https://github.com/aattaran/deepclaude)
 
-## DeepSeek版Claude Code开源，GitHub 2.3k星
+## DeepSeek-TUI：终端原生编码代理
 
-**是什么**：一个专门针对 DeepSeek 模型优化的 Claude Code 变体被开源，它不仅实现了与 Claude Code 类似的功能（终端内代码生成、修改、执行），还针对 DeepSeek 的 API 偏好做了优化，性能提升明显。
+是什么：基于 DeepSeek V4（1M token 上下文 + 前缀缓存）的终端 AI 编程助手，单个二进制文件即可运行，无需 Web 界面。
 
-**关键点**：项目迅速获得 2.3k GitHub 星，背后是 DeepSeek V4 Pro 用户对原生工具链的渴望。传统的 Claude Code 不接受非 Anthropic 模型，这个变体填补了空白，让 DeepSeek 用户也能享受类 Code 的交互体验。
+关键点：利用 DeepSeek V4 的超大上下文窗口，支持完整的项目级代码理解。前缀缓存技术可减少重复计算，在终端内实现类似 Cursor 但完全离线的体验。
 
-**为什么重要**：DeepSeek 模型在开源社区中用户基础庞大，但缺少配套的高质量开发工具。这个项目直接降低了 DeepSeek 在代码场景的使用门槛，可能推动更多开发者从 API 调用转向完整的 terminal-based workflow。与 DeepClaude 形成互补——一个强调模型协作，一个强调模型适配。
+为什么重要：对偏好终端的开发者（Vim/Neovim 用户、服务器端开发者）是直接利好。开源社区正在将云端大模型能力“下沉”到本地工具链，降低使用门槛。
 
-> 原文：[https://www.qbitai.com/2026/05/412914.html](https://www.qbitai.com/2026/05/412914.html)
+> 原文：[GitHub - Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
-## 用语音控制Ableton Live：Ableton Live MCP开源
+## ruflo：Claude 多智能体编排平台
 
-**是什么**：开发者 bschoepe 创建了一个 MCP（Model Context Protocol）服务器，让用户通过语音命令直接控制 Ableton Live，例如“创建新轨道”“添加MIDI鼓组”“调整BPM”等。
+是什么：基于 Claude 的企业级代理编排框架，支持定义多智能体角色、对话系统部署，并内置“自学习群体智能”机制。
 
-**关键点**：MCP 是 Anthropic 提出的开放协议，允许 AI 模型与外部工具交互。该项目将 MCP 与 Ableton Live 的 API 桥接，语音转文字后执行操作，真正解放双手。适合音乐制作中需要快速操作或无法腾出手的场景（如正在弹奏时）。
+关键点：提供声明式配置，可定义各 agent 的职责与交互规则。自学习能力通过追踪对话历史中有效模式来优化未来响应。框架设计面向生产环境，支持云端部署。
 
-**为什么重要**：语音控制 DAW 不是新概念，但通过 MCP 标准化协议实现意味着可扩展性更强——未来可以接入更多 DAW 或音频插件。对于独立音乐人和电子音乐制作人来说，这是一个低成本的自动化入口，也展示了 MCP 在创意领域的潜力。
+为什么重要：多智能体编排是当前大模型落地的关键瓶颈——单体 agent 容易收敛到局部最优，而群体智能需要清晰的架构。ruflo 试图标准化这个过程，但需关注与已有框架（如 CrewAI、AutoGen）的差异化。
 
-> 原文：[https://github.com/bschoepke/ableton-live-mcp](https://github.com/bschoepke/ableton-live-mcp)
+> 原文：[GitHub - ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
+## TradingAgents：多智能体金融交易框架
+
+是什么：开源金融交易代理框架，利用多个 LLM agent 分别负责市场分析、风险评估、执行决策等，实现协作交易。
+
+关键点：每个 agent 专注特定子任务（技术分析、新闻情绪、风险管理），通过投票或仲裁机制决定最终操作。框架支持回测和实盘接入，但风险自负。
+
+为什么重要：金融交易是目前 agentic 应用最“功利”的试验场。该项目展示了多智能体在高度动态行业中的可行性，但需警惕：开源不等于专业——实盘交易需要严格的合规与风险管理。
+
+> 原文：[GitHub - TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
+## browserbase/skills：Claude Code 的网页浏览工具集
+
+是什么：为 Claude Code 提供浏览器基础技能，包括网页导航、表单填写、内容抓取等，使其能像人类一样进行网页交互。
+
+关键点：通过 Playwright 驱动浏览器，将网页交互抽象为 Claude 可直接调用的行动。目前支持基本的“点击-输入-提取”流程，后续计划增加验证码处理、滚动加载处理等。
+
+为什么重要：当代理需要从网页获取实时信息（如文档、价格、API）时，浏览器技能是刚需。该项目补全了 Claude Code 的“感知能力”拼图，但浏览器自动化在高安全要求场景下仍有风险。
+
+> 原文：[GitHub - browserbase/skills](https://github.com/browserbase/skills)
+
+## n8n-MCP：MCP 协议连接 Claude 与 n8n 工作流
+
+是什么：一个 MCP 服务器，允许 Claude Desktop/Code 直接创建、读取、更新 n8n 工作流引擎中的流程。
+
+关键点：通过 MCP（Model Context Protocol）作为桥梁，Claude 可以用自然语言描述工作流需求，n8n-MCP 自动转化为 n8n 节点配置。支持多步骤工作流编排。
+
+为什么重要：n8n 是企业级低代码自动化平台，与 Claude 结合意味着非技术用户也能用自然语言构建复杂自动化。MCP 协议正在成为 AI 与现有工具之间的事实标准接口。
+
+> 原文：[GitHub - czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
+## Local Deep Research：本地化深度研究代理
+
+是什么：一个完全本地运行的深度研究代理框架，支持多种 LLM（Ollama、vLLM）和多种搜索源（Bing、SearXNG、本地文档），所有数据处理不出本地。
+
+关键点：无需任何云端依赖，用户可自选模型与搜索后端。研究流程类比 AutoGPT 的迭代搜索-总结-再搜索，但优先保障隐私安全。
+
+为什么重要：对企业与隐私敏感用户而言，数据不出网是硬性要求。该项目证明了无需牺牲效果即可实现本地化，但大模型本地推理的硬件门槛仍是现实障碍。
+
+> 原文：[GitHub - LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+
+## LTX-2：开源音频-视频生成模型
+
+是什么：Lightricks 开源的 LTX-2 模型，支持从音频输入生成同步视频，同时提供语音克隆功能。提供完整的训练与推理脚本。
+
+关键点：模型基于扩散架构，可在消费级 GPU（如 RTX 4090）上运行。音频到视频的对齐精度较高，且支持视频风格控制。训练代码开源，允许社区 fine-tune。
+
+为什么重要：生成式 AI 的“模态跨越”仍在继续——音频驱动视频生成可应用于虚拟主播、配音影视、游戏角色。开源降低了创作门槛，但视频质量与商业产品（如 Sora）仍有差距。
+
+> 原文：[GitHub - Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
 
 ---
 
-今日开源板块的核心信号是“模型协作”与“工具适配”。当代码生成从单模型转向多模型编排，当语音控制接入标准协议，开发者能获得怎样的工作流重构？不妨试试 DeepClaude 后，再问自己：这种“组合”思路在什么场景下会远超单一模型？
+今天开源社区的“模型编排”趋势已经清晰——不是比谁参数更多，而是比谁能让不同模型更高效地协作。当 AI 代理工具链像乐高一样可随意组合，开发者该优先打磨哪个“积木”呢？

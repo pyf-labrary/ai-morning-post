@@ -5,13 +5,23 @@
       "id": "model_release",
       "stories": [
         {
-          "headline": "OpenAI揭秘大规模低延迟语音AI系统",
-          "summary": "OpenAI官方博客详细描述了如何构建可大规模部署的低延迟语音AI系统，涵盖从模型优化到基础设施的多个关键环节。",
+          "headline": "OpenAI 揭秘低延迟语音 AI 规模化技术",
+          "summary": "OpenAI 发布技术博客，详述如何通过工程优化实现低延迟语音 AI 的大规模部署，支撑实时语音交互场景。",
           "primary_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-          "importance": 7,
+          "importance": 6,
           "items": [
             "03506cc75a91bc75"
           ]
+        },
+        {
+          "headline": "IBM 发布 Granite 4.1 基础模型家族",
+          "summary": "IBM 推出 Granite 4.1 系列模型，包含 3B 参数版等，面向企业级 AI 应用提供高效推理能力。",
+          "primary_url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+          "importance": 4,
+          "items": [
+            "de7fdc10ad6a8e21"
+          ],
+          "cover_path": "out/media/2026-05-05/model_release-01.jpg"
         }
       ]
     },
@@ -19,56 +29,294 @@
       "id": "company",
       "stories": [
         {
-          "headline": "OpenAI谷歌微软联合支持学校AI素养法案",
-          "summary": "OpenAI、谷歌和微软共同支持美国一项旨在资助学校AI素养教育的法案，推动下一代对人工智能的理解。",
-          "primary_url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+          "headline": "OpenAI 融资超 40 亿美元，成立企业部署合资公司",
+          "summary": "OpenAI 筹集超 40 亿美元专项基金，并与资产管理公司合作成立合资企业，加速企业级 AI 服务落地。",
+          "primary_url": "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/",
+          "importance": 8,
+          "items": [
+            "24c7797c2b7cd56f",
+            "6a74aebc993ac90f"
+          ],
+          "cover_path": "out/media/2026-05-05/company-00.jpg"
+        },
+        {
+          "headline": "Sierra 获 9.5 亿美元融资，估值达 150 亿美元",
+          "summary": "企业 AI 客户体验平台 Sierra 完成 9.5 亿美元融资，计划成为企业 AI 领域的全球标准。",
+          "primary_url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+          "importance": 8,
+          "items": [
+            "2924e35ed5bc4f16",
+            "1fa956bd12c6316b"
+          ],
+          "cover_path": "out/media/2026-05-05/company-01.jpg"
+        },
+        {
+          "headline": "Cerebras 二次冲刺 IPO，目标估值 400 亿美元",
+          "summary": "AI 芯片制造商 Cerebras 再次提交 IPO 申请，估值瞄准 400 亿美元，与 OpenAI 深度绑定。",
+          "primary_url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+          "importance": 7,
+          "items": [
+            "0487e086fc07aea4",
+            "bddd88e246d563fd"
+          ],
+          "cover_path": "out/media/2026-05-05/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 诉马斯克案：威胁短信与股权争议成焦点",
+          "summary": "马斯克在此前诉讼中发送威胁短信，称 Altman 和 Brockman 将“成为全美最恨之人”；Brockman 在法庭上捍卫其 300 亿美元股权。",
+          "primary_url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+          "importance": 8,
+          "items": [
+            "c0d0520f7328d146",
+            "650b9f745bf086aa",
+            "fa65d105311d5670",
+            "bb72235ceab2d4ae",
+            "daf47d98feda830f"
+          ],
+          "cover_path": "out/media/2026-05-05/company-03.jpg"
+        },
+        {
+          "headline": "OpenAI 与普华永道合作，重塑 CFO 职能",
+          "summary": "OpenAI 和普华永道联手，利用 AI 代理自动化财务工作流，提升预测、控制和现代化程度。",
+          "primary_url": "https://openai.com/index/openai-pwc-finance-collaboration",
+          "importance": 7,
+          "items": [
+            "8a13b0a825222168"
+          ]
+        },
+        {
+          "headline": "Anthropic 与 OpenAI 纷纷成立企业 AI 合资公司",
+          "summary": "Anthropic 和 OpenAI 分别与资产管理公司合作，成立合资企业以更积极地向企业推销 AI 服务。",
+          "primary_url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
           "importance": 6,
+          "items": [
+            "6a74aebc993ac90f",
+            "772cb08c0abcb1d2"
+          ],
+          "cover_path": "out/media/2026-05-05/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI、谷歌与微软支持学校 AI 素养法案",
+          "summary": "三巨头共同资助一项联邦法案，推动 K-12 学校教授 AI 基础知识和安全使用。",
+          "primary_url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+          "importance": 5,
           "items": [
             "af8899f9584decbd"
           ],
-          "cover_path": "out/media/2026-05-05/company-00.jpg"
+          "cover_path": "out/media/2026-05-05/company-06.jpg"
+        },
+        {
+          "headline": "“This is fine”作者起诉 AI 创业公司盗用其作品",
+          "summary": "热门漫画“This is fine”创作者指控 AI 公司 Artisan 在其广告中未经授权使用其艺术形象。",
+          "primary_url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "importance": 5,
+          "items": [
+            "b4546d091dc99b59"
+          ],
+          "cover_path": "out/media/2026-05-05/company-07.jpg"
         }
       ]
     },
     {
       "id": "research",
-      "stories": []
+      "stories": [
+        {
+          "headline": "有影响力的 ChatGPT 教育研究因红旗警告被撤稿",
+          "summary": "一篇曾被广泛引用的、声称 ChatGPT 能提升教育效果的研究因方法论问题被撤回。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+          "importance": 7,
+          "items": [
+            "381c405951e1a8d8"
+          ],
+          "cover_path": "out/media/2026-05-05/research-00.jpg"
+        },
+        {
+          "headline": "哈佛研究：AI 急诊诊断准确率超过人类医生",
+          "summary": "一项新研究表明，大型语言模型在真实急诊病例中的诊断准确率至少与两位人类医生相当甚至更优。",
+          "primary_url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+          "importance": 6,
+          "items": [
+            "a3b430f6ba10e95b"
+          ],
+          "cover_path": "out/media/2026-05-05/research-01.jpg"
+        },
+        {
+          "headline": "Appfigures 报告：图像 AI 模型驱动 App 增长远超聊天机器人",
+          "summary": "数据显示，视觉模型发布带来 6.5 倍于聊天机器人的下载量，但多数未能转化为收入。",
+          "primary_url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+          "importance": 4,
+          "items": [
+            "da306305278e84cd"
+          ],
+          "cover_path": "out/media/2026-05-05/research-02.jpg"
+        },
+        {
+          "headline": "Together AI 发布高效推理基础研究",
+          "summary": "Together AI 公开其在大规模高效推理方面的基础研究成果，聚焦从模型到生产的效率挑战。",
+          "primary_url": "https://www.together.ai/blog/foundational-research-powering-efficient-inference-at-scale",
+          "importance": 4,
+          "items": [
+            "fb3a678c73cc2d54"
+          ],
+          "cover_path": "out/media/2026-05-05/research-03.jpg"
+        }
+      ]
     },
     {
       "id": "product",
-      "stories": []
+      "stories": [
+        {
+          "headline": "OpenAI 推出自我管理 Agent 系统，应对人类注意力瓶颈",
+          "summary": "OpenAI 构建新系统，让 AI 代理自主协调工作流，减少对人类持续监督的依赖。",
+          "primary_url": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+          "importance": 7,
+          "items": [
+            "1f5384c4f0758bf1"
+          ],
+          "cover_path": "out/media/2026-05-05/product-00.jpg"
+        },
+        {
+          "headline": "Cloudflare 发布 Agent Memory 持久记忆托管服务",
+          "summary": "Cloudflare 推出面向 AI 代理的托管记忆服务，支持持久化存储与上下文管理。",
+          "primary_url": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8",
+          "importance": 5,
+          "items": [
+            "fed6adb635536bf6"
+          ],
+          "cover_path": "out/media/2026-05-05/product-01.jpg"
+        },
+        {
+          "headline": "Cloudflare 上线 Code Mode MCP 服务器优化 Token 使用",
+          "summary": "Cloudflare 推出新 MCP 服务器，帮助 AI 代理更高效利用 token 上下文窗口。",
+          "primary_url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3",
+          "importance": 5,
+          "items": [
+            "19443ca54c12a8ce"
+          ],
+          "cover_path": "out/media/2026-05-05/product-02.jpg"
+        },
+        {
+          "headline": "豆包推出付费订阅，主打生产力场景",
+          "summary": "字节跳动旗下 AI 助手豆包在免费版基础上新增付费订阅，标准版每月 68 元起。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/kBkPw2ouMFRso8Nm.html",
+          "importance": 5,
+          "items": [
+            "3618ea7441633558"
+          ]
+        },
+        {
+          "headline": "DoorDash 引入 AI 工具加速商家入驻与菜品图编辑",
+          "summary": "DoorDash 新增 AI 功能，帮助商家快速完成入驻流程、优化菜品图片并自动生成网站。",
+          "primary_url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+          "importance": 4,
+          "items": [
+            "91262159dc910fc6"
+          ],
+          "cover_path": "out/media/2026-05-05/product-04.jpg"
+        },
+        {
+          "headline": "GitLab 推出固定费率 AI 代码审查与免费层 AI 访问",
+          "summary": "GitLab 新服务提供固定费率的 AI 代码审查，并为免费用户提供一定量 AI 能力访问。",
+          "primary_url": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX",
+          "importance": 4,
+          "items": [
+            "aa2017487f20d7ff"
+          ],
+          "cover_path": "out/media/2026-05-05/product-05.jpg"
+        },
+        {
+          "headline": "AWS 推出 S3 Files，为 S3 存储桶提供文件系统访问",
+          "summary": "亚马逊云科技发布 S3 Files 功能，允许用户像操作文件系统一样访问 S3 存储桶。",
+          "primary_url": "https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw",
+          "importance": 3,
+          "items": [
+            "fcdffe4282ab00c2"
+          ],
+          "cover_path": "out/media/2026-05-05/product-06.jpg"
+        }
+      ]
     },
     {
       "id": "opinion",
       "stories": [
         {
-          "headline": "观点：Agentic Coding是陷阱而非神药",
-          "summary": "一篇引发热议的文章指出，当前Agentic Coding（智能体编码）模式存在根本性问题，可能误导开发者陷入效率陷阱。",
+          "headline": "白宫拟要求 AI 模型发布前接受政府审查",
+          "summary": "特朗普政府考虑发布行政令，成立 AI 工作组，对新 AI 模型实施发布前审查流程。",
+          "primary_url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+          "importance": 9,
+          "items": [
+            "64b75d267d01ab63",
+            "76418da8d1c179cc"
+          ]
+        },
+        {
+          "headline": "观点：Agentic Coding 是一个陷阱",
+          "summary": "开发者撰文指出，完全依赖 AI 代理编码会导致失控和安全隐患，警告不要盲目跟风。",
           "primary_url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-          "importance": 7,
+          "importance": 6,
           "items": [
             "af0387194e147c58"
           ],
-          "cover_path": "out/media/2026-05-05/opinion-00.jpg"
+          "cover_path": "out/media/2026-05-05/opinion-01.jpg"
         },
         {
-          "headline": "LLM并非更高层次抽象",
-          "summary": "作者从编程范式角度论述LLM不同于传统抽象，其本质更接近模式匹配，不应过度神化。",
+          "headline": "Anthropic 与 OpenAI 共识：销售 AI 需要远不止模型本身",
+          "summary": "两大 AI 巨头承认，企业级 AI 销售需要完整的服务生态、安全合规与部署支持。",
+          "primary_url": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/",
+          "importance": 5,
+          "items": [
+            "772cb08c0abcb1d2"
+          ],
+          "cover_path": "out/media/2026-05-05/opinion-02.jpg"
+        },
+        {
+          "headline": "LLMs 并非更高的抽象层次",
+          "summary": "技术文章批评将 LLM 视为编程抽象的观点，认为其本质仍是模式匹配而非真正的抽象。",
           "primary_url": "https://www.lelanthran.com/chap15/content.html",
-          "importance": 6,
+          "importance": 5,
           "items": [
             "2d567be19852cd73"
           ]
         },
         {
-          "headline": "一位开发者对LLM的坦诚思考",
-          "summary": "资深开发者分享长期使用LLM后的观察与反思，讨论了其能力边界与潜在影响。",
-          "primary_url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+          "headline": "CNCF 警告：仅靠 Kubernetes 不足以保证 LLM 工作负载安全",
+          "summary": "云原生基金会指出，K8s 需结合专用安全工具才能有效保护大模型部署。",
+          "primary_url": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl",
           "importance": 5,
+          "items": [
+            "ab2d8d850dfb89d5"
+          ],
+          "cover_path": "out/media/2026-05-05/opinion-04.jpg"
+        },
+        {
+          "headline": "黄仁勋：AI 正在创造大量新就业岗位",
+          "summary": "Nvidia  CEO 在采访中反驳 AI 取代工作的担忧，称 AI 将催生全新职业类型。",
+          "primary_url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+          "importance": 4,
+          "items": [
+            "37c8d61085b8a20e"
+          ],
+          "cover_path": "out/media/2026-05-05/opinion-05.jpg"
+        },
+        {
+          "headline": "AI 数据中心建设正成为银行压力测试",
+          "summary": "大规模投资 AI 数据中心给银行带来融资风险，监管机构开始关注其对金融稳定的影响。",
+          "primary_url": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
+          "importance": 4,
+          "items": [
+            "854fa83735081b8d"
+          ],
+          "cover_path": "out/media/2026-05-05/opinion-06.jpg"
+        },
+        {
+          "headline": "来谈谈 LLM 的真正限制",
+          "summary": "博客长文系统阐述 LLM 的认知局限、推理缺陷和现实应用中的陷阱。",
+          "primary_url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+          "importance": 4,
           "items": [
             "8118325664e8e107"
           ],
-          "cover_path": "out/media/2026-05-05/opinion-02.jpg"
+          "cover_path": "out/media/2026-05-05/opinion-07.jpg"
         }
       ]
     },
@@ -76,34 +324,85 @@
       "id": "opensource",
       "stories": [
         {
-          "headline": "DeepClaude：结合Claude Code与DeepSeek V4 Pro",
-          "summary": "开源项目DeepClaude实现了Claude Code与DeepSeek V4 Pro的智能体循环，提供更强代码生成能力，在Hacker News获得646高赞。",
+          "headline": "DeepClaude：用 DeepSeek V4 增强 Claude Code 代理循环",
+          "summary": "开源项目 DeepClaude 将 DeepSeek V4 的高效推理能力与 Claude Code 的代理循环结合，实现更智能的编程助手。",
           "primary_url": "https://github.com/aattaran/deepclaude",
-          "importance": 8,
+          "importance": 7,
           "items": [
             "b24345db8a003896"
           ],
           "cover_path": "out/media/2026-05-05/opensource-00.jpg"
         },
         {
-          "headline": "DeepSeek版Claude Code开源，GitHub 2.3k星",
-          "summary": "专门针对DeepSeek优化的Claude Code变体发布，性能提升显著，迅速获得社区关注。",
-          "primary_url": "https://www.qbitai.com/2026/05/412914.html",
-          "importance": 7,
+          "headline": "DeepSeek-TUI：专为 DeepSeek 模型打造的终端编码代理",
+          "summary": "基于 DeepSeek V4 的 1M token 上下文和前缀缓存，提供单二进制终端原生编程体验。",
+          "primary_url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "importance": 5,
           "items": [
+            "e8ef0e1d05031549",
             "d64c525ad5e2b023"
           ],
           "cover_path": "out/media/2026-05-05/opensource-01.jpg"
         },
         {
-          "headline": "用语音控制Ableton Live：Ableton Live MCP开源",
-          "summary": "开发者创建了MCP服务器，允许通过语音命令直接控制Ableton Live，解放双手进行音乐制作。",
-          "primary_url": "https://github.com/bschoepke/ableton-live-mcp",
-          "importance": 5,
+          "headline": "ruflo：Claude 多智能体编排平台",
+          "summary": "基于 Claude 的企业级代理编排框架，支持自学习群体智能与对话系统部署。",
+          "primary_url": "https://github.com/ruvnet/ruflo",
+          "importance": 4,
           "items": [
-            "1a21f3f2e7bc9492"
+            "528ceb67be454e88"
           ],
           "cover_path": "out/media/2026-05-05/opensource-02.jpg"
+        },
+        {
+          "headline": "TradingAgents：多智能体 LLM 金融交易框架",
+          "summary": "开源金融交易代理框架，利用多智能体协作进行市场分析与投资决策。",
+          "primary_url": "https://github.com/TauricResearch/TradingAgents",
+          "importance": 4,
+          "items": [
+            "bbfb2978e3481980"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-03.jpg"
+        },
+        {
+          "headline": "browserbase/skills：Claude Code 的网页浏览工具集",
+          "summary": "为 Claude Code 提供浏览器基础技能，使其能自动化执行网页抓取和交互任务。",
+          "primary_url": "https://github.com/browserbase/skills",
+          "importance": 4,
+          "items": [
+            "4b064b455b2d6b9c"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-04.jpg"
+        },
+        {
+          "headline": "n8n-MCP：用 MCP 协议构建 n8n 工作流",
+          "summary": "MCP 服务器使 Claude Desktop/Code 能直接操作 n8n 工作流引擎。",
+          "primary_url": "https://github.com/czlonkowski/n8n-mcp",
+          "importance": 3,
+          "items": [
+            "c86d239ca8c4cf51"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-05.jpg"
+        },
+        {
+          "headline": "Local Deep Research：本地化深度研究框架",
+          "summary": "支持完全本地运行的深度研究代理，兼容多种 LLM 和搜索源，保护数据隐私。",
+          "primary_url": "https://github.com/LearningCircuit/local-deep-research",
+          "importance": 4,
+          "items": [
+            "b002b18a66974a0a"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-06.jpg"
+        },
+        {
+          "headline": "LTX-2：开源音频-视频生成模型",
+          "summary": "Lightricks 开源 LTX-2 模型，支持从音频生成视频和语音克隆，提供训练和推理工具。",
+          "primary_url": "https://github.com/Lightricks/LTX-2",
+          "importance": 4,
+          "items": [
+            "3115031911235249"
+          ],
+          "cover_path": "out/media/2026-05-05/opensource-07.jpg"
         }
       ]
     }
