@@ -1,0 +1,411 @@
+{
+  "date": "2026-05-07",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-5.5 Instant，幻觉砍半",
+          "summary": "OpenAI 正式推出 GPT-5.5 Instant 模型，声称幻觉减少、记忆更强且回答更简洁，免费用户可用。",
+          "primary_url": "https://openai.com/index/gpt-5-5-instant/",
+          "importance": 9,
+          "items": [
+            "da141df6f1505d0a",
+            "a394ae556d8135a0",
+            "15088bab9712dfa7",
+            "94bcb1e22035d3b2"
+          ]
+        },
+        {
+          "headline": "Google 发布 Gemma 4 多 token 预测，加速 3 倍",
+          "summary": "Google 开源多 token 预测（MTP）Drafters，使 Gemma 4 模型推理速度提升最高 3 倍，质量无损。",
+          "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+          "importance": 8,
+          "items": [
+            "49fb08cc3d7e5f84",
+            "3875284a852bed88",
+            "c410ac3d4e7e1c60",
+            "fd97dedf3dafe8b1"
+          ],
+          "cover_path": "out/media/2026-05-07/model_release-01.jpg"
+        },
+        {
+          "headline": "GLM-5V-Turbo 发布：多模态 Agent 基础模型",
+          "summary": "智谱开源 GLM-5V-Turbo，定位为原生多模态 Agent 基础模型，支持视觉与语言联合推理。",
+          "primary_url": "https://arxiv.org/abs/2604.26752",
+          "importance": 5,
+          "items": [
+            "b2c8e1d285608fd2"
+          ],
+          "cover_path": "out/media/2026-05-07/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "马斯克诉 OpenAI 庭审：Brockman 日记被当庭宣读",
+          "summary": "庭审中，OpenAI 主席 Greg Brockman 被迫朗读个人日记，马斯克方借此证明 OpenAI 偏离初心。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+          "importance": 9,
+          "items": [
+            "761234b9510fe185",
+            "c2eaa0ab0312c3fb",
+            "c9a400587888f9f5",
+            "b52b7b442eeed8cc"
+          ],
+          "cover_path": "out/media/2026-05-07/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 与 SpaceX 签署计算合同，获取 22 万 GPU",
+          "summary": "Anthropic 租用 SpaceX 的 Colossus-1 数据中心，获得 22 万 GPU 算力以训练和推理 Claude，同时提高 Code 使用上限。",
+          "primary_url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "importance": 9,
+          "items": [
+            "45cd38f8d5fc54e8",
+            "8225c337002c449c",
+            "63166a6c541a8815",
+            "c179866934670afe"
+          ],
+          "cover_path": "out/media/2026-05-07/company-01.jpg"
+        },
+        {
+          "headline": "DeepSeek 估值逼近 450 亿美元，中国芯片基金领投",
+          "summary": "DeepSeek 即将完成首轮融资，估值约 450 亿美元，由中国国家芯片基金领投。",
+          "primary_url": "https://the-decoder.com/deepseek-nears-45-billion-valuation-as-chinas-state-chip-fund-leads-round/",
+          "importance": 8,
+          "items": [
+            "a7dadaa4e59e2ef7",
+            "93309bd3b439f586"
+          ],
+          "cover_path": "out/media/2026-05-07/company-02.jpg"
+        },
+        {
+          "headline": "美国政府获五大 AI 实验室模型预发布权限",
+          "summary": "美国国防部与五大 AI 实验室达成协议，在模型发布前获准进行国家安全测试。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+          "importance": 8,
+          "items": [
+            "2bd9961b5ab7b284",
+            "b89745621c169232"
+          ],
+          "cover_path": "out/media/2026-05-07/company-03.jpg"
+        },
+        {
+          "headline": "苹果支付 2.5 亿美元和解 Siri AI 功能诉讼",
+          "summary": "苹果就 Siri AI 功能过度宣传达成集体诉讼和解，向美国用户支付 2.5 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+          "importance": 8,
+          "items": [
+            "5d2ad536b18b5d23",
+            "9212ef9986cf97b5"
+          ],
+          "cover_path": "out/media/2026-05-07/company-04.jpg"
+        },
+        {
+          "headline": "出版商指控 Zuckerberg 亲自授权 Meta 版权侵权",
+          "summary": "出版商的诉讼文件称，马克·扎克伯格“亲自授权并鼓励”Meta 使用受版权保护的书籍训练 AI 模型。",
+          "primary_url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+          "importance": 8,
+          "items": [
+            "cd036333993dc6e9",
+            "0776cdc335439a60"
+          ],
+          "cover_path": "out/media/2026-05-07/company-05.jpg"
+        },
+        {
+          "headline": "Anthropic 承诺五年内向 Google Cloud 投入 2000 亿美元",
+          "summary": "据报道，Anthropic 与 Google Cloud 签署 2000 亿美元五年合同，进一步深化云合作伙伴关系。",
+          "primary_url": "https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years/",
+          "importance": 7,
+          "items": [
+            "fa997024d0ffd6e3"
+          ],
+          "cover_path": "out/media/2026-05-07/company-06.jpg"
+        },
+        {
+          "headline": "SAP 以 11.6 亿美元收购德国 AI 实验室 Prior Labs",
+          "summary": "SAP 宣布收购成立仅 18 个月的 Prior Labs，并禁止客户 Agent 使用除 Nvidia NemoClaw 外的少数模型。",
+          "primary_url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+          "importance": 7,
+          "items": [
+            "1166c31327377f7d"
+          ],
+          "cover_path": "out/media/2026-05-07/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "临床 LLM 安全性缩放定律不同于准确率",
+          "summary": "研究发现，大型临床语言模型的安全性与准确率遵循不同的缩放定律，模型越大不一定越安全。",
+          "primary_url": "http://arxiv.org/abs/2605.04039v1",
+          "importance": 4,
+          "items": [
+            "3114c2de70a1bdd7"
+          ],
+          "cover_path": "out/media/2026-05-07/research-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Anthropic 为 Claude Code 推出“梦境”功能和更高限额",
+          "summary": "Claude Managed Agents 新增“梦境”模式，同时 Pro/Max 用户使用限额翻倍，陶哲轩公开安利。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+          "importance": 8,
+          "items": [
+            "498cb83fd6c78d8d",
+            "b17ca6748b7b907d",
+            "0b7c889df318ed38"
+          ],
+          "cover_path": "out/media/2026-05-07/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT 广告平台面向中小企业开放",
+          "summary": "OpenAI 推出全自助广告平台，允许小企业创建和管理 ChatGPT 广告。",
+          "primary_url": "https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/",
+          "importance": 7,
+          "items": [
+            "f6ef40ac8dc920e8",
+            "ccbb4890f5e64a7e"
+          ],
+          "cover_path": "out/media/2026-05-07/product-01.jpg"
+        },
+        {
+          "headline": "OpenAI 硬件首作可能是手机，以 Agent 取代 App 网格",
+          "summary": "消息称 OpenAI 正开发一款手机，用 Agent 任务流取代传统应用网格，作为首个硬件产品。",
+          "primary_url": "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/",
+          "importance": 7,
+          "items": [
+            "c83b44a854db9a6b"
+          ],
+          "cover_path": "out/media/2026-05-07/product-02.jpg"
+        },
+        {
+          "headline": "Cloudflare Agent 可自主创建账户、购买域名并部署",
+          "summary": "Cloudflare 发布新 Agent 功能，支持自主创建 Cloudflare 账户、购买域名并部署项目。",
+          "primary_url": "https://blog.cloudflare.com/agents-stripe-projects/",
+          "importance": 7,
+          "items": [
+            "b733909f12069fb5"
+          ],
+          "cover_path": "out/media/2026-05-07/product-03.jpg"
+        },
+        {
+          "headline": "Google Home 升级 Gemini 语音助手和摄像头控制",
+          "summary": "Google 智能家居生态大更新，Home 设备获得 Gemini 驱动的新语音助手和摄像头功能。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+          "importance": 6,
+          "items": [
+            "d8233102e91c592a"
+          ],
+          "cover_path": "out/media/2026-05-07/product-04.jpg"
+        },
+        {
+          "headline": "iOS 27 将允许用户自选第三方 AI 模型",
+          "summary": "Apple 计划在 iOS 27 中让用户按需选择使用何种第三方 AI 模型处理不同任务。",
+          "primary_url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+          "importance": 6,
+          "items": [
+            "0f91449b94999093"
+          ],
+          "cover_path": "out/media/2026-05-07/product-05.jpg"
+        },
+        {
+          "headline": "Google AI 搜索加入 Reddit 等论坛引用",
+          "summary": "Google 更新 AI Overviews，在回答中引用 Reddit 及其他网络论坛的专家意见。",
+          "primary_url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+          "importance": 6,
+          "items": [
+            "388cb9015040c345"
+          ],
+          "cover_path": "out/media/2026-05-07/product-06.jpg"
+        },
+        {
+          "headline": "NVIDIA 与 ServiceNow 联合发布企业自主 AI Agent",
+          "summary": "两家公司合作推出全新自治 AI Agent，旨在帮助企业自动化复杂工作流。",
+          "primary_url": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/",
+          "importance": 6,
+          "items": [
+            "6a6a751844376d56"
+          ],
+          "cover_path": "out/media/2026-05-07/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Google DeepMind 员工投票成立工会，反对军事 AI",
+          "summary": "英国 DeepMind 员工投票组建工会，目标是在 AI 用于军事场景时能有发言权。",
+          "primary_url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+          "importance": 7,
+          "items": [
+            "9a70644907dcc0ed"
+          ],
+          "cover_path": "out/media/2026-05-07/opinion-00.jpg"
+        },
+        {
+          "headline": "三则“AI 逆定律”：反思 AI 开发趋势",
+          "summary": "一篇流行的技术文章提出三条关于 AI 发展的反直觉定律，引发广泛讨论。",
+          "primary_url": "https://susam.net/inverse-laws-of-robotics.html",
+          "importance": 6,
+          "items": [
+            "f5bd8f6254782b9e"
+          ]
+        },
+        {
+          "headline": "Simon Willison：Vibe Coding 正逼近代理工程",
+          "summary": "知名开发者 Simon Willison 认为，AI 编码的“vibe”方式正在与工程代理趋同，带来新挑战。",
+          "primary_url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+          "importance": 6,
+          "items": [
+            "d3822eff03aeff55",
+            "5b875579641eb5e9"
+          ]
+        },
+        {
+          "headline": "研究称使用 AI 仅 10 分钟即可削弱思考能力",
+          "summary": "新研究发现，对 AI 助手的依赖会负面影响人的批判性思维和问题解决能力。",
+          "primary_url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+          "importance": 5,
+          "items": [
+            "91591708a2e9e243"
+          ],
+          "cover_path": "out/media/2026-05-07/opinion-03.jpg"
+        },
+        {
+          "headline": "黑客比你更讨厌 AI 垃圾内容",
+          "summary": "网络犯罪分子也在抱怨 AI 生成的“垃圾”内容泛滥，污染了黑客论坛。",
+          "primary_url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+          "importance": 5,
+          "items": [
+            "7cd92ebf288c686c"
+          ],
+          "cover_path": "out/media/2026-05-07/opinion-04.jpg"
+        },
+        {
+          "headline": "Barry Diller 谈 AGI：信任 Sam Altman 但“信任无关紧要”",
+          "summary": "媒体大亨 Barry Diller 为 OpenAI CEO Sam Altman 辩护，但警告 AGI 仍需护栏。",
+          "primary_url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+          "importance": 5,
+          "items": [
+            "70cbc92b2bcb2182"
+          ],
+          "cover_path": "out/media/2026-05-07/opinion-05.jpg"
+        },
+        {
+          "headline": "Marc Lore：AI 将让任何人开餐厅",
+          "summary": "Wonder 创始人 Marc Lore 表示，AI 机器人厨房将成为“餐厅工厂”，用户只需输入提示即可创建虚拟餐饮品牌。",
+          "primary_url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+          "importance": 5,
+          "items": [
+            "ef79e09f198ccf98"
+          ],
+          "cover_path": "out/media/2026-05-07/opinion-06.jpg"
+        },
+        {
+          "headline": "InfoQ 评论：AI 竞赛已是资源战争",
+          "summary": "InfoQ 文章指出，AI 竞争正从算法创新转向算力和资金资源比拼。",
+          "primary_url": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm",
+          "importance": 5,
+          "items": [
+            "3e2d650dfdcf6afc"
+          ],
+          "cover_path": "out/media/2026-05-07/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "vLLM 发布 V1 版本，RL 推理引擎大重构",
+          "summary": "vLLM 从 V0 到 V1 重写了强化学习推理引擎，号称正确性优先。",
+          "primary_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+          "importance": 6,
+          "items": [
+            "03452e52d70c4464"
+          ],
+          "cover_path": "out/media/2026-05-07/opensource-00.jpg"
+        },
+        {
+          "headline": "Vercel 开源 Open Agents，支持后台编码工作流",
+          "summary": "Vercel 发布 Open Agents 开源框架，可在后台运行 AI 编码工作流。",
+          "primary_url": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN",
+          "importance": 5,
+          "items": [
+            "4209f51899c32240"
+          ],
+          "cover_path": "out/media/2026-05-07/opensource-01.jpg"
+        },
+        {
+          "headline": "TabPFN 开源：表格数据基础模型",
+          "summary": "PriorLabs 开源 TabPFN，一个针对表格数据的 Transformer 基础模型，可直接使用。",
+          "primary_url": "https://github.com/PriorLabs/TabPFN",
+          "importance": 5,
+          "items": [
+            "7fbfcfefa88003c4"
+          ],
+          "cover_path": "out/media/2026-05-07/opensource-02.jpg"
+        },
+        {
+          "headline": "Airbyte 发布 Agents：跨数据源上下文感知工具",
+          "summary": "Airbyte Agents 可跨多个数据源提供上下文，帮助 AI Agent 访问整合数据。",
+          "primary_url": "https://news.ycombinator.com/item?id=48023496",
+          "importance": 5,
+          "items": [
+            "262f1dd8d8e220fb"
+          ]
+        },
+        {
+          "headline": "Cocoindex：面向长周期 Agent 的增量引擎",
+          "summary": "开源增量引擎 Cocoindex 专为长时间运行的 AI Agent 设计，支持增量更新。",
+          "primary_url": "https://github.com/cocoindex-io/cocoindex",
+          "importance": 5,
+          "items": [
+            "c51e9116e7a8e555"
+          ],
+          "cover_path": "out/media/2026-05-07/opensource-04.jpg"
+        },
+        {
+          "headline": "Browserbase Skills：Claude Code 的网页浏览工具集",
+          "summary": "开源工具集 Browserbase Skills 让 Claude Code 获得网页浏览和交互能力。",
+          "primary_url": "https://github.com/browserbase/skills",
+          "importance": 5,
+          "items": [
+            "4b064b455b2d6b9c"
+          ],
+          "cover_path": "out/media/2026-05-07/opensource-05.jpg"
+        },
+        {
+          "headline": "DeepSeek-TUI：终端原生 DeepSeek 编程代理",
+          "summary": "开源终端工具 DeepSeek-TUI，支持 100 万 token 上下文和前缀缓存。",
+          "primary_url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "importance": 4,
+          "items": [
+            "e8ef0e1d05031549"
+          ],
+          "cover_path": "out/media/2026-05-07/opensource-06.jpg"
+        },
+        {
+          "headline": "Rapid-MLX：Apple Silicon 最快本地 AI 引擎",
+          "summary": "Rapid-MLX 声称比 Ollama 快 4.2 倍，支持全工具调用，兼容 OpenAI 客户端。",
+          "primary_url": "https://github.com/raullenchai/Rapid-MLX",
+          "importance": 4,
+          "items": [
+            "cd595b79b090e3e5"
+          ],
+          "cover_path": "out/media/2026-05-07/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
