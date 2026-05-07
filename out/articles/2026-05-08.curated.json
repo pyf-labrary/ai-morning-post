@@ -1,0 +1,439 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-5.5 及网络安全专用版",
+          "summary": "OpenAI 推出 GPT-5.5 和 GPT-5.5-Cyber，为验证过的防御者提供可信访问，加速漏洞研究和关键基础设施保护。",
+          "importance": 10,
+          "primary_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "items": [
+            "60dc8eb196d5bdf4"
+          ]
+        },
+        {
+          "headline": "OpenAI 推出新实时语音模型，支持推理与翻译",
+          "summary": "OpenAI 在 API 中发布新的实时语音模型，能够推理、翻译和转录语音，实现更自然的语音交互。",
+          "importance": 9,
+          "primary_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+          "items": [
+            "0f79b2b48d954aed",
+            "506f5bbec0802c96",
+            "a55f585e4a1a7304"
+          ]
+        },
+        {
+          "headline": "Google Gemma 4 模型通过投机解码获 3 倍加速",
+          "summary": "Google 开源模型 Gemma 4 采用投机解码技术，在保持质量的前提下推理速度提升高达 3 倍。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+          "items": [
+            "3875284a852bed88"
+          ],
+          "cover_path": "out/media/2026-05-08/model_release-02.jpg"
+        },
+        {
+          "headline": "Zyphra 发布 8B 参数推理 MoE 模型 ZAYA1-8B",
+          "summary": "ZAYA1-8B 仅有 760M 活跃参数，但在数学和编程基准上超越许多大模型，接近 DeepSeek-V3.2。",
+          "importance": 6,
+          "primary_url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+          "items": [
+            "290b2f81f5af2769",
+            "46eadd710b0b667b"
+          ],
+          "cover_path": "out/media/2026-05-08/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "Anthropic 与 SpaceX 达成 22 万 GPU 计算大单",
+          "summary": "Anthropic 租用 SpaceX/xAI 的 Colossus 数据中心全部容量（约 22 万张 GPU），年花费约 50 亿美元，以缓解算力瓶颈并提升 Claude 性能。",
+          "importance": 9,
+          "primary_url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "items": [
+            "45cd38f8d5fc54e8",
+            "e5f07cbaa4cd8f37",
+            "8225c337002c449c",
+            "c8c22e55339de5d7",
+            "3b37381a9e8a74c9",
+            "17a5f2d12f0188db",
+            "63166a6c541a8815",
+            "c179866934670afe"
+          ],
+          "cover_path": "out/media/2026-05-08/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 联合多家巨头推出开放网络协议 MRC",
+          "summary": "OpenAI 与 AMD、Broadcom、Intel、微软、英伟达共同开发 Multipath Reliable Connection (MRC) 协议，解决 AI 超算网络瓶颈。",
+          "importance": 8,
+          "primary_url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+          "items": [
+            "b7b6bf7ad382afb7",
+            "9537469246c4d0c5",
+            "351d6c2ea681fa31"
+          ],
+          "cover_path": "out/media/2026-05-08/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 开始在 ChatGPT 测试广告",
+          "summary": "OpenAI 宣布在 ChatGPT 中测试广告，以支持免费访问，承诺广告会清晰标注、不影响答案独立性并保护隐私。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "items": [
+            "33b40c405ee13954"
+          ]
+        },
+        {
+          "headline": "马斯克曾试图挖角 OpenAI 创始人组建特斯拉 AI 团队",
+          "summary": "法庭文件显示，马斯克在 2017 年曾计划招募 Sam Altman 或 Demis Hassabis 领导特斯拉内部 AI 实验室，并希望获得控制权。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+          "items": [
+            "20ea71de22be8ba3",
+            "6d0b9a28960e19f0",
+            "b52b7b442eeed8cc"
+          ],
+          "cover_path": "out/media/2026-05-08/company-03.jpg"
+        },
+        {
+          "headline": "Moonshot AI 以 200 亿美元估值融资 20 亿美元",
+          "summary": "中国 AI 公司 Moonshot AI 完成 20 亿美元融资，估值达 200 亿美元，月经常性收入超 2 亿美元，源于开源 AI 需求暴涨。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+          "items": [
+            "1d8025a487af921b"
+          ],
+          "cover_path": "out/media/2026-05-08/company-04.jpg"
+        },
+        {
+          "headline": "无问芯穹再获超 7 亿元融资，领跑国内 AI Infra",
+          "summary": "无问芯穹完成新一轮超 7 亿元融资，联合领投方为杭州高新金投和惠远资本，持续稳居中国 AI 原生基础设施融资规模之首。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR",
+          "items": [
+            "8975c595ddeee740",
+            "17e942c09fbaa169"
+          ],
+          "cover_path": "out/media/2026-05-08/company-05.jpg"
+        },
+        {
+          "headline": "DeepL 裁员 250 人，转型“AI 原生”组织",
+          "summary": "AI 翻译公司 DeepL 宣布裁员约 250 人，以重建为“AI 原生”组织，聚焦核心 AI 能力。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+          "items": [
+            "40346f25875e09e9"
+          ],
+          "cover_path": "out/media/2026-05-08/company-06.jpg"
+        },
+        {
+          "headline": "Snap 与 Perplexity 的 4 亿美元交易友好终止",
+          "summary": "Snap 宣布与 Perplexity 原计划将 AI 搜索集成到 Snapchat 的交易因双方协议友好结束。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "items": [
+            "dda371d9f251c7a0"
+          ],
+          "cover_path": "out/media/2026-05-08/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "Anthropic 发布自然语言自编码器，可读取模型内部思维",
+          "summary": "Anthropic 提出 Natural Language Autoencoders，能够将 Claude 的思维过程转化为可读文本，提升模型可解释性。",
+          "importance": 8,
+          "primary_url": "https://www.anthropic.com/research/natural-language-autoencoders",
+          "items": [
+            "ed65335e8d322977"
+          ],
+          "cover_path": "out/media/2026-05-08/research-00.jpg"
+        },
+        {
+          "headline": "Google DeepMind 推出 AlphaEvolve，智能体自主改进代码",
+          "summary": "AlphaEvolve 是一个基于 Gemini 的编码智能体，能够自主编写、测试并改进代码，在多个领域展现突破性效果。",
+          "importance": 7,
+          "primary_url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "items": [
+            "3c1c623f3f6ac832"
+          ],
+          "cover_path": "out/media/2026-05-08/research-01.jpg"
+        },
+        {
+          "headline": "ProgramBench：评估语言模型从零重建程序的能力",
+          "summary": "新基准 ProgramBench 测试 LLM 能否根据需求描述从零构建可运行程序，发现当前模型仍有较大提升空间。",
+          "importance": 6,
+          "primary_url": "https://arxiv.org/abs/2605.03546",
+          "items": [
+            "18d8a77c9c38e3a1"
+          ],
+          "cover_path": "out/media/2026-05-08/research-02.jpg"
+        },
+        {
+          "headline": "研究揭示长上下文建模的“不可能三角”",
+          "summary": "论文证明长序列模型无法同时实现高效、紧凑和精确，为长上下文模型设计提供了根本性理论界限。",
+          "importance": 5,
+          "primary_url": "https://arxiv.org/abs/2605.05066v1",
+          "items": [
+            "b429c4fd30806e79"
+          ],
+          "cover_path": "out/media/2026-05-08/research-03.jpg"
+        },
+        {
+          "headline": "扩散 Transformer 中的异常 Token 被系统研究",
+          "summary": "研究者发现扩散 Transformer 中存在少量高范数 token，会导致注意力偏移和生成质量下降，提出新方法抑制。",
+          "importance": 5,
+          "primary_url": "https://arxiv.org/abs/2605.05206v1",
+          "items": [
+            "bb8ba85a3279b757"
+          ],
+          "cover_path": "out/media/2026-05-08/research-04.jpg"
+        },
+        {
+          "headline": "Grok 协作发现五项数学新成果",
+          "summary": "研究者与 Grok 模型合作，在凸集周长等数学问题上得到五个经验证的新结果，展示了 AI 辅助数学研究的潜力。",
+          "importance": 5,
+          "primary_url": "https://arxiv.org/abs/2605.05193v1",
+          "items": [
+            "fe187985ce5cf8e7"
+          ],
+          "cover_path": "out/media/2026-05-08/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Anthropic 推出 Claude “Dreaming” 功能并提升 Code 限额",
+          "summary": "Claude 新增“Dreaming”功能，让智能体自我反思并从错误中学习；同时 Claude Code 的 5 小时使用限制对 Pro/Max 用户翻倍。",
+          "importance": 8,
+          "primary_url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "items": [
+            "52987cd6351cc228",
+            "498cb83fd6c78d8d",
+            "8225c337002c449c",
+            "b17ca6748b7b907d"
+          ],
+          "cover_path": "out/media/2026-05-08/product-00.jpg"
+        },
+        {
+          "headline": "Perplexity Personal Computer 开放 Mac 版",
+          "summary": "Perplexity 将 AI 智能体带到 Mac，用户可通过“Personal Computer”功能在桌面端调用 AI 代理处理任务。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+          "items": [
+            "8196cab1883a7f41"
+          ],
+          "cover_path": "out/media/2026-05-08/product-01.jpg"
+        },
+        {
+          "headline": "Bumble 抛弃滑动匹配，全面转向 AI 约会",
+          "summary": "Bumble CEO 宣布将去掉传统滑动功能，转而使用 AI 约会助手 Bee 等智能推荐，改变用户体验。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+          "items": [
+            "e7149c4cf8316501"
+          ],
+          "cover_path": "out/media/2026-05-08/product-02.jpg"
+        },
+        {
+          "headline": "Spotify AI DJ 新增法语、德语等语言支持",
+          "summary": "Spotify 的 AI DJ 功能现在支持法语、德语、意大利语和巴西葡萄牙语，扩大个性化音乐体验覆盖范围。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+          "items": [
+            "f7f652b31d3b3202"
+          ],
+          "cover_path": "out/media/2026-05-08/product-03.jpg"
+        },
+        {
+          "headline": "像素绽放 PixelBloom 完成 C 轮融资，推 AI 办公代理",
+          "summary": "像素绽放 PixelBloom 获得 C 轮融资，将全面发力 AI 办公解决方案 Agent 产品。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig",
+          "items": [
+            "a1b1ef9cab8e7c30"
+          ],
+          "cover_path": "out/media/2026-05-08/product-04.jpg"
+        },
+        {
+          "headline": "Cursor 删库事故引发开发者对 AI 安全性的讨论",
+          "summary": "有开发者称 Cursor AI 工具误删除生产数据库，提醒业界应谨慎将数据库操作完全交给 AI 代理。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR",
+          "items": [
+            "c390c075f9a56131"
+          ],
+          "cover_path": "out/media/2026-05-08/product-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "欧盟推迟大部分 AI 法规，应对复杂性",
+          "summary": "欧盟通过“Omnibus”法案大幅延迟 AI 法规生效时间，承认监管复杂性远超预期，业界反应不一。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+          "items": [
+            "30f8c77028acb354"
+          ],
+          "cover_path": "out/media/2026-05-08/opinion-00.jpg"
+        },
+        {
+          "headline": "美国与中国考虑举行 AI 正式对话",
+          "summary": "据报道，美国和中国正在探索就 AI 安全与发展问题进行正式对话，以避免技术脱钩和冲突。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/",
+          "items": [
+            "38a797850c6ee86d"
+          ],
+          "cover_path": "out/media/2026-05-08/opinion-01.jpg"
+        },
+        {
+          "headline": "特朗普因 Mythos 事件转变对 AI 安全测试立场",
+          "summary": "在 Mozilla 使用 Mythos 发现大量 Firefox 漏洞后，特朗普政府突然支持 AI 安全测试，专家警告执行难度大。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+          "items": [
+            "b89745621c169232"
+          ],
+          "cover_path": "out/media/2026-05-08/opinion-02.jpg"
+        },
+        {
+          "headline": "Simon Willison：氛围编码正逼近代理工程",
+          "summary": "知名开发者 Simon Willison 认为，AI 编码工具正在从“氛围编码”向真正的代理工程演变，两者边界模糊。",
+          "importance": 6,
+          "primary_url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+          "items": [
+            "5b875579641eb5e9",
+            "d3822eff03aeff55"
+          ]
+        },
+        {
+          "headline": "研究称仅用 AI 10 分钟就会削弱人的思考能力",
+          "summary": "新研究表明，依赖 AI 辅助会降低人们独立思考和问题解决的能力，引发对认知退化的担忧。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+          "items": [
+            "91591708a2e9e243"
+          ],
+          "cover_path": "out/media/2026-05-08/opinion-04.jpg"
+        },
+        {
+          "headline": "硅谷大厂开始 AI-first 换血：裁 3 万招 8 千",
+          "summary": "多个科技巨头正在以 AI-first 为名，大规模裁员传统岗位，同时招募 AI 相关人才，传统产品经理面临淘汰。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6",
+          "items": [
+            "3098328b9cbab3ef"
+          ],
+          "cover_path": "out/media/2026-05-08/opinion-05.jpg"
+        },
+        {
+          "headline": "K8s 之父警告：代码生成越快，程序员越危险",
+          "summary": "Kubernetes 创始人批评 AI 编码工具让不懂系统的开发者产出脆弱代码，呼吁重视工程基础。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/7dyslCPBMAPyLporTATv",
+          "items": [
+            "71ea4afebfa46f56"
+          ],
+          "cover_path": "out/media/2026-05-08/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "vLLM 发布 V1 版，聚焦强化学习正确性",
+          "summary": "vLLM 从 V0 升级到 V1，重点改进强化学习中的正确性保证，提升大规模推理可靠性。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+          "items": [
+            "03452e52d70c4464"
+          ],
+          "cover_path": "out/media/2026-05-08/opensource-00.jpg"
+        },
+        {
+          "headline": "LightSeek 发布 TokenSpeed 开源推理引擎",
+          "summary": "TokenSpeed 对标 TensorRT-LLM 性能，针对智能体工作负载优化 LLM 推理，降低部署成本。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/05/07/lightseek-foundation-releases-tokenspeed-an-open-source-llm-inference-engine-targeting-tensorrt-llm-level-performance-for-agentic-workloads/",
+          "items": [
+            "1e1651b7170baf9b"
+          ],
+          "cover_path": "out/media/2026-05-08/opensource-01.jpg"
+        },
+        {
+          "headline": "Meta 开源 NeuralBench：神经 AI 统一基准框架",
+          "summary": "NeuralBench 涵盖 36 项 EEG 任务、94 个数据集，提供统一的神经 AI 模型评估平台。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/05/07/meta-ai-releases-neuralbench-a-unified-open-source-framework-to-benchmark-neuroai-models-across-36-eeg-tasks-and-94-datasets/",
+          "items": [
+            "7e5adabfffdec489"
+          ],
+          "cover_path": "out/media/2026-05-08/opensource-02.jpg"
+        },
+        {
+          "headline": "Unsloth 与 NVIDIA 合作加速 LLM 训练",
+          "summary": "Unsloth 宣布与 NVIDIA 合作，通过优化内核和硬件支持，使 LLM 微调速度大幅提升。",
+          "importance": 6,
+          "primary_url": "https://unsloth.ai/blog/nvidia-collab",
+          "items": [
+            "789f9ebb3a8ec84c"
+          ],
+          "cover_path": "out/media/2026-05-08/opensource-03.jpg"
+        },
+        {
+          "headline": "DeepSeek 4 Flash 本地推理引擎（Metal）开源",
+          "summary": "知名开发者 antirez 发布 ds4，一个基于 Metal 的 DeepSeek 4 Flash 本地推理引擎，可在 Mac 上高效运行。",
+          "importance": 5,
+          "primary_url": "https://github.com/antirez/ds4",
+          "items": [
+            "6d934ef6106e9cea"
+          ],
+          "cover_path": "out/media/2026-05-08/opensource-04.jpg"
+        },
+        {
+          "headline": "Agent Skills：生产级工程技能集合开源",
+          "summary": "addyosmani 发布的 agent-skills 库为 AI 编码代理提供生产级工程技能，包括代码审查、安全扫描等。",
+          "importance": 5,
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "items": [
+            "0520df06928ed362"
+          ],
+          "cover_path": "out/media/2026-05-08/opensource-05.jpg"
+        },
+        {
+          "headline": "TabPFN：表格数据的基座模型开源",
+          "summary": "PriorLabs 开源 TabPFN，一个基于 Transformer 的表格数据基础模型，在小样本场景表现优异。",
+          "importance": 5,
+          "primary_url": "https://github.com/PriorLabs/TabPFN",
+          "items": [
+            "7fbfcfefa88003c4"
+          ]
+        },
+        {
+          "headline": "Local Deep Research：本地深度研究工具开源",
+          "summary": "支持本地和云端 LLM，集成 10+ 搜索引擎，可在单张 3090 上实现约 95% SimpleQA 准确率。",
+          "importance": 5,
+          "primary_url": "https://github.com/LearningCircuit/local-deep-research",
+          "items": [
+            "b002b18a66974a0a"
+          ],
+          "cover_path": "out/media/2026-05-08/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-08"
+}
