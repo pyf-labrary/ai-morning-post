@@ -1,0 +1,413 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "OpenAI连发三款实时语音模型，GPT-5级推理塞进语音",
+          "summary": "OpenAI 通过 Realtime API 推出 GPT-Realtime-2、GPT-Realtime-Translate 和 GPT-Realtime-Whisper，支持实时语音推理、同传翻译和流式转录，大幅降低语音交互成本。",
+          "primary_url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+          "items": [
+            "506f5bbec0802c96",
+            "4a0600c1d5cf7058",
+            "a2c645fe30a3bad8",
+            "a55f585e4a1a7304",
+            "0193a1c65cd21d13"
+          ],
+          "cover_path": "out/media/2026-05-09/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI推出GPT-5.5-Cyber，面向经认证的安全研究员",
+          "summary": "OpenAI 发布 GPT-5.5 与 GPT-5.5-Cyber，通过 Trusted Access for Cyber 项目向经认证的防御性安全研究人员开放，助力漏洞研究和关键基础设施保护。",
+          "primary_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "items": [
+            "60dc8eb196d5bdf4",
+            "557db9be551576f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "DeepSeek拟募资最高500亿元，创中国AI融资纪录",
+          "summary": "据报道 DeepSeek 计划进行高达 500 亿元人民币的融资，这将是中国 AI 公司史上最大单轮融资。",
+          "primary_url": "https://36kr.com/newsflashes/3800574318976257",
+          "items": [
+            "855c368be9a76c3f",
+            "2fde6b601e4d3d53"
+          ],
+          "cover_path": "out/media/2026-05-09/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic估值逼近万亿美元，收入增长五倍",
+          "summary": "Anthropic 估值接近 1 万亿美元，收入同比增长 5 倍，成为全球估值最高的 AI 初创之一。",
+          "primary_url": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/",
+          "items": [
+            "7ef56d147108879d"
+          ],
+          "cover_path": "out/media/2026-05-09/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic与马斯克xAI达成数据中心合作",
+          "summary": "Anthropic 与 xAI/SpaceX 达成协议，使用其 Colossus 数据中心全部容量，以缓解算力短缺，Claude 体验有所恢复。",
+          "primary_url": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/",
+          "items": [
+            "ac612756da9dc5f4",
+            "e5f07cbaa4cd8f37",
+            "17a5f2d12f0188db"
+          ],
+          "cover_path": "out/media/2026-05-09/company-02.jpg"
+        },
+        {
+          "headline": "马斯克诉OpenAI案揭安全记录，欲拆分营利子公司",
+          "summary": "Elon Musk 的诉讼试图证明 OpenAI 的营利子公司偏离了安全使命，法院可能要求 OpenAI 提供更多内部安全文档。",
+          "primary_url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+          "items": [
+            "2a03eff7cbc9f47e",
+            "4a75d54bb2f1cfdb"
+          ],
+          "cover_path": "out/media/2026-05-09/company-03.jpg"
+        },
+        {
+          "headline": "软银将OpenAI担保贷款从100亿降至60亿美元",
+          "summary": "SoftBank 因贷款机构对私营 AI 估值存疑，将 OpenAI 支持的贷款规模从 100 亿美元削减至 60 亿美元。",
+          "primary_url": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/",
+          "items": [
+            "4e2079c79f7db682"
+          ],
+          "cover_path": "out/media/2026-05-09/company-04.jpg"
+        },
+        {
+          "headline": "Moonshot AI融资20亿美元，估值200亿",
+          "summary": "中国 AI 初创 Moonshot AI 完成 20 亿美元融资，估值达 200 亿美元，年度经常性收入已超 2 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+          "items": [
+            "1d8025a487af921b"
+          ],
+          "cover_path": "out/media/2026-05-09/company-05.jpg"
+        },
+        {
+          "headline": "Cloudflare称AI让1100个岗位过时，收入创新高",
+          "summary": "Cloudflare 进行首次大规模裁员，CEO 表示由于 AI 效率提升，不再需要那么多支持岗位，同时公司收入创纪录。",
+          "primary_url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+          "items": [
+            "10aea9cdd546aae4"
+          ],
+          "cover_path": "out/media/2026-05-09/company-06.jpg"
+        },
+        {
+          "headline": "DeepL裁员250人，转型AI原生组织",
+          "summary": "AI 翻译公司 DeepL 裁员约 250 人，旨在重组为“AI native”组织，以更灵活地应对市场变化。",
+          "primary_url": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+          "items": [
+            "40346f25875e09e9"
+          ],
+          "cover_path": "out/media/2026-05-09/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "Anthropic用自然语言自编码器打开Claude黑箱",
+          "summary": "Anthropic 提出自然语言自编码器，将 Claude 内部激活向量直接转为可读文本，隐蔽动机发现率提升 4 倍以上，为 AI 可解释性带来突破。",
+          "primary_url": "https://www.anthropic.com/research/natural-language-autoencoders",
+          "items": [
+            "ed65335e8d322977",
+            "0788e8e168d5bbf0",
+            "174b659de4b51026",
+            "483dc9907b56d187",
+            "b1c1baa903519052"
+          ],
+          "cover_path": "out/media/2026-05-09/research-00.jpg"
+        },
+        {
+          "headline": "DeepMind发布AlphaEvolve：Gemini驱动的编码Agent",
+          "summary": "DeepMind 推出 AlphaEvolve，基于 Gemini 模型的编码 Agent，能在多个学科领域扩展影响力，在代码生成和科学计算上展现突破。",
+          "primary_url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "items": [
+            "3c1c623f3f6ac832"
+          ],
+          "cover_path": "out/media/2026-05-09/research-01.jpg"
+        },
+        {
+          "headline": "EMO预训练：混合专家模型实现模块性涌现",
+          "summary": "Allen AI 发布 EMO 方法，通过对混合专家模型进行预训练，让模型自发涌现出模块化结构，提升可解释性和可组合性。",
+          "primary_url": "https://huggingface.co/blog/allenai/emo",
+          "items": [
+            "6e8a1b5ce05be013"
+          ],
+          "cover_path": "out/media/2026-05-09/research-02.jpg"
+        },
+        {
+          "headline": "Together AI详解DeepSeek-V4百万token推理系统",
+          "summary": "Together AI 发布技术分析，探讨为 DeepSeek-V4 超长上下文（百万 token）设计的推理系统，包括压缩 KV、前缀缓存及 HGX B200 上的优化。",
+          "primary_url": "https://www.together.ai/blog/serving-deepseek-v4-why-million-token-context-is-an-inference-systems-problem",
+          "items": [
+            "50d132e83efb6e60"
+          ]
+        },
+        {
+          "headline": "DFlash：块扩散实现闪速推测解码",
+          "summary": "新论文提出 DFlash，利用块扩散模型加速大模型推理，在 speculative decoding 中实现显著的速度提升。",
+          "primary_url": "https://github.com/z-lab/dflash",
+          "items": [
+            "85c6c526ce03c19f"
+          ],
+          "cover_path": "out/media/2026-05-09/research-04.jpg"
+        },
+        {
+          "headline": "TabPFN：表格数据基础模型开源发布",
+          "summary": "PriorLabs 开源 TabPFN，一个专为表格数据设计的基础模型，在少样本分类和回归任务上达到 SOTA。",
+          "primary_url": "https://github.com/PriorLabs/TabPFN",
+          "items": [
+            "7fbfcfefa88003c4"
+          ],
+          "cover_path": "out/media/2026-05-09/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Mozilla用Claude Mythos发现Firefox 271个零误报漏洞",
+          "summary": "Mozilla 利用 Anthropic Claude Mythos Preview 构建自动化漏洞挖掘流水线，在 Firefox 中发现 271 个此前未知漏洞，并称几乎无误报。",
+          "primary_url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+          "items": [
+            "3648e698371e7983",
+            "c71dd1bbebe69f7c",
+            "8be8eac535e99220",
+            "7a4cf8c528117fcc",
+            "d0c2f5e5e83cfde0",
+            "ab669ca28bd72701"
+          ],
+          "cover_path": "out/media/2026-05-09/product-00.jpg"
+        },
+        {
+          "headline": "OpenAI为Codex推出Chrome扩展，可操作网页应用",
+          "summary": "OpenAI 发布 Codex Chrome 扩展，使其 AI 编码 Agent 能直接与登录态的网页（如 LinkedIn、Salesforce、Gmail）及 DevTools 交互，提升自动化能力。",
+          "primary_url": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
+          "items": [
+            "9efc445544a7b057",
+            "4497e19b03373f9c"
+          ]
+        },
+        {
+          "headline": "Google AI Overviews将增加更多来源链接",
+          "summary": "Google 宣布将在 AI Overviews 中更突出地显示来源链接，包括站内引用卡片和侧边栏源列表，以提升透明度。",
+          "primary_url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+          "items": [
+            "1acebb6cc5eb36e4"
+          ],
+          "cover_path": "out/media/2026-05-09/product-02.jpg"
+        },
+        {
+          "headline": "Perplexity Personal Computer全面开放Mac版",
+          "summary": "Perplexity 的 AI 助手 Personal Computer 现已在 Mac 上对所有用户开放，能够控制桌面应用、执行多步任务。",
+          "primary_url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+          "items": [
+            "8196cab1883a7f41"
+          ],
+          "cover_path": "out/media/2026-05-09/product-03.jpg"
+        },
+        {
+          "headline": "Google发布无屏Fitbit Air与Google Health应用",
+          "summary": "Google 推出 Fitbit Air（无屏幕、100 美元）及全新的 Google Health 应用，旨在彻底取代旧的 Fitbit 平台，整合 AI 健康洞察。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
+          "items": [
+            "242645f9e70696b6",
+            "664647544b206064"
+          ],
+          "cover_path": "out/media/2026-05-09/product-04.jpg"
+        },
+        {
+          "headline": "Spotify AI DJ新增法语、德语等四种语言",
+          "summary": "Spotify AI DJ 功能扩展至法语、德语、意大利语和巴西葡萄牙语，并允许用户将以 Codex 或 Claude Code 生成的播客导入平台。",
+          "primary_url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+          "items": [
+            "f7f652b31d3b3202",
+            "7c85c8856e39ddfd"
+          ],
+          "cover_path": "out/media/2026-05-09/product-05.jpg"
+        },
+        {
+          "headline": "火山引擎与中国移动推出机密模型服务",
+          "summary": "在 2026 移动云大会上，火山引擎与中国移动联合发布“移动引擎机密模型服务”，提供豆包大模型 MaaS 和 Agent 工具，结合 TEE 技术保障数据安全。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/qMyCzGke8pn9Ddrk.html",
+          "items": [
+            "831dc9f7c02b3d3d",
+            "52d93d97a786f83f"
+          ]
+        },
+        {
+          "headline": "百度搭子DuMate登顶PinchBench，超越Anthropic",
+          "summary": "百度 AI 助手 DuMate 在 PinchBench 智能体评测中超越 Anthropic 和 OpenAI 获得第一，在 DeepResearch 分榜同样位列榜首。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/Oh9CnFrZHHOodA9n.html",
+          "items": [
+            "533759e486e024bb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "AI垃圾内容正在杀死在线社区",
+          "summary": "一篇分析文章指出，AI 生成的低质量内容泛滥正严重侵蚀网络社区质量，引发广泛共鸣（HN 795 分）。",
+          "primary_url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+          "items": [
+            "f5ef08da30f8884f"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-00.jpg"
+        },
+        {
+          "headline": "欧盟AI监管大幅推迟，多数条款延后实施",
+          "summary": "欧盟因 AI 法案复杂度高，决定推迟大部分条款的执行时间，以给予企业和监管机构更多准备。",
+          "primary_url": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+          "items": [
+            "30f8c77028acb354"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-01.jpg"
+        },
+        {
+          "headline": "索尼：AI工具将导致更多游戏涌入市场",
+          "summary": "索尼表示高效 AI 工具会加速游戏开发，但强调人类艺术家仍需处于核心地位，引发对内容过剩的讨论。",
+          "primary_url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
+          "items": [
+            "8aa2c65300c31f60"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-02.jpg"
+        },
+        {
+          "headline": "Nick Bostrom谈人类“大退休”与AI未来",
+          "summary": "哲学家 Nick Bostrom 在 Wired 访谈中提出人类应追求高级 AI 并实现“被解决的世界”，畅想人类从劳动中解放后的生活。",
+          "primary_url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+          "items": [
+            "4ef4513ea57513dd"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-03.jpg"
+        },
+        {
+          "headline": "高盛：美国数据中心用电需求两年内翻倍",
+          "summary": "高盛预测美国数据中心电力需求将从 2025 年的 31GW 增至 2027 年的 66GW，得州和佐治亚州成为 AI 中心新热土。",
+          "primary_url": "https://36kr.com/newsflashes/3800643284245513",
+          "items": [
+            "0ae245b25b8a0195"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-04.jpg"
+        },
+        {
+          "headline": "马斯克曾试图招聘OpenAI创始人入职特斯拉AI",
+          "summary": "法庭文件显示马斯克在 OpenAI 成立早期曾想雇佣其创始人，在特斯拉内部建立 AI 团队，但要求获得控制权。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+          "items": [
+            "20ea71de22be8ba3"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-05.jpg"
+        },
+        {
+          "headline": "Chrome内嵌4GB AI模型引争议，可手动卸载",
+          "summary": "Chrome 内置本地 AI 模型占用 4GB 存储空间引发用户隐私担忧，Google 澄清功能未变但用户可轻松卸载。",
+          "primary_url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+          "items": [
+            "00c66dbb827c1540",
+            "6746d65f4f47db56"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-06.jpg"
+        },
+        {
+          "headline": "数千个Vibe Coding应用将企业数据暴露在网上",
+          "summary": "Wired 调查发现使用 Lovable、Replit 等 AI 平台构建的数千个应用因配置不当，将敏感数据泄露至公网。",
+          "primary_url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+          "items": [
+            "1697242e11f775a7"
+          ],
+          "cover_path": "out/media/2026-05-09/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Redis之父发布ds4：Mac本就能跑DeepSeek V4",
+          "summary": "知名开发者 antirez 开源 ds4，一个专为 DeepSeek V4 设计的本地推理引擎，可在 Mac（Metal）上运行，HN 获 472 分。",
+          "primary_url": "https://github.com/antirez/ds4",
+          "items": [
+            "6d934ef6106e9cea",
+            "0ecd8349fdb8d705"
+          ],
+          "cover_path": "out/media/2026-05-09/opensource-00.jpg"
+        },
+        {
+          "headline": "LightSeek发布TokenSpeed：开源推理引擎对标TensorRT-LLM",
+          "summary": "LightSeek Foundation 开源 TokenSpeed，一个为 Agent 工作负载优化的 LLM 推理引擎，性能接近 TensorRT-LLM。",
+          "primary_url": "https://www.marktechpost.com/2026/05/07/lightseek-foundation-releases-tokenspeed-an-open-source-llm-inference-engine-targeting-tensorrt-llm-level-performance-for-agentic-workloads/",
+          "items": [
+            "1e1651b7170b9afb"
+          ]
+        },
+        {
+          "headline": "Vercel开源Open Agents：构建云端Agent的模板",
+          "summary": "Vercel 实验室开源 Open Agents，一个用于快速部署云 Agent 的参考模板，支持多种 LLM 后端。",
+          "primary_url": "https://github.com/vercel-labs/open-agents",
+          "items": [
+            "b606fbf5e2a1ee6b"
+          ],
+          "cover_path": "out/media/2026-05-09/opensource-02.jpg"
+        },
+        {
+          "headline": "Goose：开源可扩展AI Agent框架迁移新仓库",
+          "summary": "AAIF 的 Goose 项目完成仓库迁移，功能包括代码编辑、终端执行、测试，支持任意 LLM。",
+          "primary_url": "https://github.com/aaif-goose/goose",
+          "items": [
+            "bb32fcd62c60a18e"
+          ],
+          "cover_path": "out/media/2026-05-09/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenAI开源Codex插件示例仓库",
+          "summary": "OpenAI 在 GitHub 上发布 Codex 插件示例集合，展示如何为编码 Agent 构建扩展能力。",
+          "primary_url": "https://github.com/openai/plugins",
+          "items": [
+            "580e3cc3173f66e5"
+          ],
+          "cover_path": "out/media/2026-05-09/opensource-04.jpg"
+        },
+        {
+          "headline": "DocuSeal：开源DocuSign替代方案",
+          "summary": "DocuSeal 是一个开源的电子签名应用，支持创建、填写和签署文档，功能对标 DocuSign。",
+          "primary_url": "https://github.com/docusealco/docuseal",
+          "items": [
+            "272c8eee658cbaf9"
+          ],
+          "cover_path": "out/media/2026-05-09/opensource-05.jpg"
+        },
+        {
+          "headline": "free-llm-api-resources：免费LLM API资源汇总",
+          "summary": "GitHub 项目整理了大量提供免费 LLM 推理 API 的服务列表，方便开发者快速获取。",
+          "primary_url": "https://github.com/cheahjs/free-llm-api-resources",
+          "items": [
+            "633c7442f4f9fda1"
+          ],
+          "cover_path": "out/media/2026-05-09/opensource-06.jpg"
+        },
+        {
+          "headline": "addyosmani/agent-skills：生产级工程技能集",
+          "summary": "Google Chrome 团队 Addy Osmani 开源 agent-skills，为 AI 编码 Agent 提供生产级最佳实践和流程编码。",
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "items": [
+            "0520df06928ed362"
+          ],
+          "cover_path": "out/media/2026-05-09/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-09"
+}
