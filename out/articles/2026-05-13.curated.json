@@ -1,0 +1,414 @@
+{
+  "date": "2026-05-13",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Thinking Machines发布原生交互模型",
+          "summary": "前OpenAI CTO翁荔创立的Thinking Machines Lab发布首个模型TML-Interaction-Small 276B-A12B，支持全双工实时语音交互，突破传统VAD模式。",
+          "primary_url": "https://thinkingmachines.ai/blog/interaction-models/",
+          "importance": 9,
+          "items": [
+            "c6a4b8c17b4f0872",
+            "035d44e260c6a040",
+            "c0b21e7bcd38b2b5",
+            "3f0f2e8be66d3717",
+            "936e5ba2b2dc4e49",
+            "46d252dc11117fdc"
+          ],
+          "cover_path": "out/media/2026-05-13/model_release-00.jpg"
+        },
+        {
+          "headline": "百度文心5.1预训练成本猛降94%",
+          "summary": "百度发布文心大模型5.1，声称通过架构革新将预训练成本降低94%，同时性能与顶级模型竞争。",
+          "primary_url": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/",
+          "importance": 7,
+          "items": [
+            "1e23c4c16ebd5600"
+          ],
+          "cover_path": "out/media/2026-05-13/model_release-01.jpg"
+        },
+        {
+          "headline": "Interfaze发布新型高精度模型架构",
+          "summary": "Interfaze.ai宣称其新模型架构在准确性和规模上表现优异，但具体细节有限。",
+          "primary_url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+          "importance": 5,
+          "items": [
+            "3c0265e4f5faefd0"
+          ],
+          "cover_path": "out/media/2026-05-13/model_release-02.jpg"
+        },
+        {
+          "headline": "MiniCPM-V 4.6：超轻量移动端视觉语言模型",
+          "summary": "1.3B参数的视觉语言模型，专为移动设备优化，高效运行。",
+          "primary_url": "https://www.producthunt.com/products/minicpm-4-0",
+          "importance": 4,
+          "items": [
+            "f163dfc127129688"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Alphabet旗下Isomorphic Labs融资21亿美元",
+          "summary": "Isomorphic Labs宣布完成21亿美元融资，用于将AI药物发现推向临床试验，创下AI制药领域融资纪录。",
+          "primary_url": "https://the-decoder.com/alphabets-isomorphic-labs-raises-2-1-billion-to-scale-ai-drug-discovery-toward-clinical-trials/",
+          "importance": 8,
+          "items": [
+            "ad2c19ca790eb6d0"
+          ],
+          "cover_path": "out/media/2026-05-13/company-00.jpg"
+        },
+        {
+          "headline": "微软因Azure军事AI争议解雇以色列负责人",
+          "summary": "微软解雇其以色列地区负责人，此前有报道称Azure被用于支持以色列在加沙的军事AI目标定位系统。",
+          "primary_url": "https://the-decoder.com/microsoft-ousts-its-israel-chief-following-reports-that-azure-quietly-powered-military-ai-targeting-in-gaza/",
+          "importance": 7,
+          "items": [
+            "79235a7212efa521"
+          ],
+          "cover_path": "out/media/2026-05-13/company-01.jpg"
+        },
+        {
+          "headline": "Amazon员工内卷AI工具，“Tokenmaxxing”成风",
+          "summary": "亚马逊员工因内部AI使用压力大量生成无意义token以提升使用量，引发对AI激励机制荒谬性的讨论。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+          "importance": 7,
+          "items": [
+            "88debd3f27147d09",
+            "d4e6dd1839cc34d5"
+          ],
+          "cover_path": "out/media/2026-05-13/company-02.jpg"
+        },
+        {
+          "headline": "GitLab宣布人员缩减并终结CREDIT价值观",
+          "summary": "GitLab宣布第二轮裁员，同时停止其CREDIT价值观体系，引发关于公司文化的讨论。",
+          "primary_url": "https://about.gitlab.com/blog/gitlab-act-2/",
+          "importance": 7,
+          "items": [
+            "ca22952c4016a39d",
+            "2999c530cf577c26"
+          ],
+          "cover_path": "out/media/2026-05-13/company-03.jpg"
+        },
+        {
+          "headline": "可灵AI估值200亿美元，从快手剥离独立融资",
+          "summary": "据称快手旗下视频生成AI「可灵」正在进行独立融资，估值高达200亿美元，成为AI视频领域的明星项目。",
+          "primary_url": "https://www.qbitai.com/2026/05/416056.html",
+          "importance": 7,
+          "items": [
+            "d1c06d9fcb940682"
+          ],
+          "cover_path": "out/media/2026-05-13/company-04.jpg"
+        },
+        {
+          "headline": "Ilya Sutskever法庭作证：曾为阻止OpenAI毁灭支持罢免奥特曼",
+          "summary": "在马斯克诉OpenAI案中，Ilya Sutskever作证称他支持罢免奥特曼是因为担心OpenAI被破坏，并透露自己持有约70亿美元OpenAI股权。",
+          "primary_url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+          "importance": 7,
+          "items": [
+            "637eae6e9770f733",
+            "c342a096410d99cb"
+          ],
+          "cover_path": "out/media/2026-05-13/company-05.jpg"
+        },
+        {
+          "headline": "Anthropic警告投资者：二手股票交易无效",
+          "summary": "Anthropic发布声明称，任何通过二级平台进行的股票交易都将不被认可，提醒投资者注意风险。",
+          "primary_url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+          "importance": 6,
+          "items": [
+            "3deb49e3674446cf"
+          ],
+          "cover_path": "out/media/2026-05-13/company-06.jpg"
+        },
+        {
+          "headline": "GM裁员数百IT人，转而招聘AI人才",
+          "summary": "通用汽车裁减数百名IT员工，同时招聘具备AI开发、数据工程等技能的员工。",
+          "primary_url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+          "importance": 6,
+          "items": [
+            "1618d92c884e33c5"
+          ],
+          "cover_path": "out/media/2026-05-13/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Meta FAIR提出Fast BLT：推理带宽降低50%",
+          "summary": "论文提出三种推理方法，使Byte Latent Transformer的存储带宽减少50%以上，且无需分词。",
+          "primary_url": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
+          "importance": 5,
+          "items": [
+            "6258132867319366"
+          ],
+          "cover_path": "out/media/2026-05-13/research-00.jpg"
+        },
+        {
+          "headline": "「大模型蒸馏技术」深度解析",
+          "summary": "文章系统介绍了LLM蒸馏技术，包括教师-学生模型、知识蒸馏等方法。",
+          "primary_url": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
+          "importance": 4,
+          "items": [
+            "d8c2126db6bee74d"
+          ],
+          "cover_path": "out/media/2026-05-13/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "谷歌发布Googlebooks AI笔记本及Agent化Android",
+          "summary": "谷歌在Android Show上推出AI-first Googlebooks笔记本、Gemini Intelligence（agentic AI & vibe-coded widgets）、Gemini驱动Gboard听写等。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+          "importance": 9,
+          "items": [
+            "c8eafdca23d8f189",
+            "275ac58f8bd46238",
+            "fba5ecf51fc8897b",
+            "54178773627af4f1",
+            "df94760ad5700369",
+            "ec400a8749fe58a8"
+          ],
+          "cover_path": "out/media/2026-05-13/product-00.jpg"
+        },
+        {
+          "headline": "Anthropic推出法律AI插件Claude Cowork",
+          "summary": "Anthropic发布针对律师事务所的Claude Cowork插件，可自动完成文档搜索、案件研究、起草等工作。",
+          "primary_url": "https://the-decoder.com/anthropic-expands-legal-ai-offerings-with-new-cowork-plugins/",
+          "importance": 7,
+          "items": [
+            "7f04db735348a35b",
+            "e5911ff0ae38edf9"
+          ],
+          "cover_path": "out/media/2026-05-13/product-01.jpg"
+        },
+        {
+          "headline": "OpenAI推出Daybreak网络安全计划",
+          "summary": "OpenAI发布Daybreak计划，利用Codex Security进行漏洞检测和补丁验证，整合前沿AI与安全合作伙伴。",
+          "primary_url": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
+          "importance": 6,
+          "items": [
+            "afabf7f4568e5072"
+          ],
+          "cover_path": "out/media/2026-05-13/product-02.jpg"
+        },
+        {
+          "headline": "OpenAI Codex最新应用案例集锦",
+          "summary": "OpenAI展示Codex在金融团队、NVIDIA工程、AutoScout24等场景的实践，并发布ChatGPT Q1采用率报告。",
+          "primary_url": "https://openai.com/signals/research/2026q1-update",
+          "importance": 6,
+          "items": [
+            "4758a57c209c1716",
+            "9a86663451c9c234",
+            "346168e2531e76ec",
+            "d112da4e720f27af"
+          ]
+        },
+        {
+          "headline": "NVIDIA与SAP合作：为专业Agent提供安全治理",
+          "summary": "NVIDIA和SAP宣布扩展合作，帮助企业运行具有安全治理能力的专业AI Agent，在SAP Sapphire上宣布。",
+          "primary_url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+          "importance": 6,
+          "items": [
+            "210c05e6837fff0f"
+          ],
+          "cover_path": "out/media/2026-05-13/product-04.jpg"
+        },
+        {
+          "headline": "谷歌推出GKE Agent Sandbox和Hypercluster",
+          "summary": "谷歌在Next'26大会上宣布Kubernetes被定位为AI Agent基础设施。",
+          "primary_url": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "fa8580508f0530f0"
+          ],
+          "cover_path": "out/media/2026-05-13/product-05.jpg"
+        },
+        {
+          "headline": "Mistral为Le Chat新增远程智能体与工作模式",
+          "summary": "Mistral升级Le Chat，增加远程AI Agent和Work模式，提升生产力。",
+          "primary_url": "https://www.infoq.cn/article/14UTzo6myptzQ1GqBdOG?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "1d8ee1db4709326e"
+          ],
+          "cover_path": "out/media/2026-05-13/product-06.jpg"
+        },
+        {
+          "headline": "商汤善惠机器人便利店上海开业",
+          "summary": "商汤旗下善惠推出烧卖购机器人小店，实现“一人多面”的具身智能零售。",
+          "primary_url": "https://www.qbitai.com/2026/05/416590.html",
+          "importance": 5,
+          "items": [
+            "50d1dc6a5b60a1a9"
+          ],
+          "cover_path": "out/media/2026-05-13/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "青少年因ChatGPT药物建议致死，家属起诉",
+          "summary": "一名青少年在ChatGPT指导下混合用药导致死亡，其父母起诉OpenAI，指控AI提供了危险的建议。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+          "importance": 8,
+          "items": [
+            "f3ac1fe341dfc383"
+          ],
+          "cover_path": "out/media/2026-05-13/opinion-00.jpg"
+        },
+        {
+          "headline": "如果AI写代码，为什么还用Python？",
+          "summary": "一篇文章引发热议，认为若AI自动生成代码，开发者应转向更高效的语言，Python不再必要。",
+          "primary_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+          "importance": 7,
+          "items": [
+            "78475be0c9d751f1"
+          ]
+        },
+        {
+          "headline": "数据中心月耗3000万加仑水，AI扩张代价",
+          "summary": "报道揭示一个数据中心数月未被察觉地消耗了3000万加仑水，引发对AI环境成本的关注。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+          "importance": 6,
+          "items": [
+            "5ad6c334515b686d"
+          ],
+          "cover_path": "out/media/2026-05-13/opinion-02.jpg"
+        },
+        {
+          "headline": "UCF学生嘘AI演讲者：工业革命说遭反对",
+          "summary": "在UCF毕业典礼上，一位演讲者称AI为下一次工业革命，遭到学生嘘声。",
+          "primary_url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+          "importance": 6,
+          "items": [
+            "ae9d7abe2ec63b23"
+          ],
+          "cover_path": "out/media/2026-05-13/opinion-03.jpg"
+        },
+        {
+          "headline": "好莱坞从业者：所有人都去训练AI了",
+          "summary": "一位在好莱坞工作的人撰文表示，电视和电影制作人才大量流向AI训练领域。",
+          "primary_url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+          "importance": 6,
+          "items": [
+            "dce806fd02df3d38"
+          ],
+          "cover_path": "out/media/2026-05-13/opinion-04.jpg"
+        },
+        {
+          "headline": "Stratechery分析SpaceXAI与Anthropic交易",
+          "summary": "Ben Thompson分析马斯克旗下xAI与Anthropic交易的影响，认为马斯克应加倍投资服务其他公司。",
+          "primary_url": "https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
+          "importance": 6,
+          "items": [
+            "f5edaf1f0474e9ca"
+          ],
+          "cover_path": "out/media/2026-05-13/opinion-05.jpg"
+        },
+        {
+          "headline": "EU呼吁OpenAI和Anthropic开放监管访问",
+          "summary": "欧盟希望监管AI但需要AI公司允许监管机构进入系统，目前OpenAI和Anthropic尚未全面配合。",
+          "primary_url": "https://the-decoder.com/the-eu-wants-to-regulate-ai-but-needs-openai-and-anthropic-to-let-regulators-through-the-door/",
+          "importance": 5,
+          "items": [
+            "9e0b72769ea37e84"
+          ],
+          "cover_path": "out/media/2026-05-13/opinion-06.jpg"
+        },
+        {
+          "headline": "黄仁勋日均投资20亿美元，成AI第一金主",
+          "summary": "文章分析NVIDIA CEO黄仁勋在AI领域的巨额投入，包括投资OpenAI、Anthropic等。",
+          "primary_url": "https://www.qbitai.com/2026/05/416540.html",
+          "importance": 5,
+          "items": [
+            "65e47ca15f20b2bc"
+          ],
+          "cover_path": "out/media/2026-05-13/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "字节开源UI-TARS桌面版：多模态AI Agent",
+          "summary": "字节跳动开源UI-TARS-desktop，一个连接前沿AI模型与Agent基础设施的多模态AI Agent栈。",
+          "primary_url": "https://github.com/bytedance/UI-TARS-desktop",
+          "importance": 7,
+          "items": [
+            "e76094f38335d387"
+          ],
+          "cover_path": "out/media/2026-05-13/opensource-00.jpg"
+        },
+        {
+          "headline": "开源Needle：26M参数工具调用模型",
+          "summary": "cactus计算发布Needle，一个26M参数的函数调用模型，可在消费设备上运行，速度达6000 tok/s。",
+          "primary_url": "https://github.com/cactus-compute/needle",
+          "importance": 7,
+          "items": [
+            "513ab309d3371358"
+          ],
+          "cover_path": "out/media/2026-05-13/opensource-01.jpg"
+        },
+        {
+          "headline": "NVIDIA发布CUDA-Oxide：Rust到CUDA编译器",
+          "summary": "Nvidia Labs开源官方Rust到CUDA编译器cuda-oxide，提升Rust在GPU编程中的可用性。",
+          "primary_url": "https://nvlabs.github.io/cuda-oxide/index.html",
+          "importance": 6,
+          "items": [
+            "466853eae619b43d"
+          ]
+        },
+        {
+          "headline": "HuggingFace发布Skills：Agent技能库",
+          "summary": "为AI Agent提供HuggingFace生态的任务定义，支持数据创建、模型训练和评估。",
+          "primary_url": "https://github.com/huggingface/skills",
+          "importance": 6,
+          "items": [
+            "4a94fc38590949e9"
+          ],
+          "cover_path": "out/media/2026-05-13/opensource-03.jpg"
+        },
+        {
+          "headline": "Nous Research发布Hermes Agent",
+          "summary": "一个可成长的自适应AI Agent框架，支持多步骤规划和工具调用。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 6,
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-05-13/opensource-04.jpg"
+        },
+        {
+          "headline": "agentmemory：AI编码Agent持久记忆库",
+          "summary": "基于实际基准测试的持久记忆库，为AI编码Agent提供长期记忆能力。",
+          "primary_url": "https://github.com/rohitg00/agentmemory",
+          "importance": 5,
+          "items": [
+            "78a1db22ea11c2e2"
+          ],
+          "cover_path": "out/media/2026-05-13/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
