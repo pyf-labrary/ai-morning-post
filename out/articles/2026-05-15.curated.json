@@ -1,0 +1,421 @@
+{
+  "sections": [
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Cerebras IPO 融资55亿，首日暴涨108%",
+          "summary": "AI芯片公司Cerebras成功IPO，融资55亿美元，首日股价飙升108%，成为2026年首个大型科技IPO。",
+          "primary_url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+          "items": [
+            "a3d57a48e86bf5c7"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-05-15/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 审判：Altman 被指说谎，庭审激烈",
+          "summary": "在Musk诉Altman案中，Altman被指控为惯于说谎者，庭审中OpenAI甚至将“屁股”雕像作为证据提交。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
+          "items": [
+            "801c6bfe7fe200fa",
+            "0a477eb8d74a3e23",
+            "0936787b43ae8c19",
+            "49840e22cfcbca05"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-15/company-01.jpg"
+        },
+        {
+          "headline": "前 Meta AI 总监田渊栋创业，估值315亿",
+          "summary": "田渊栋创立AI公司，获得NVIDIA、AMD等投资，估值达315亿元人民币，姚班施天麟为合伙人。",
+          "primary_url": "https://www.qbitai.com/2026/05/417468.html",
+          "items": [
+            "ebd3832da4356a28",
+            "bbc7f208b44e29b8",
+            "016e5817ac5a7b13"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-15/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 计划起诉苹果，因 ChatGPT 整合未达预期",
+          "summary": "OpenAI对ChatGPT与苹果整合效果极不满，准备对苹果采取法律行动。",
+          "primary_url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+          "items": [
+            "d18287ca7a401832"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-15/company-03.jpg"
+        },
+        {
+          "headline": "前阿里 Qwen 负责人林俊旸创立新 AI Lab",
+          "summary": "林俊旸离职后创立AI实验室，估值约136亿元，引发业界关注。",
+          "primary_url": "https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW",
+          "items": [
+            "d8c4184b5758a38d"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "Anthropic 与盖茨基金会达成2亿美元合作",
+          "summary": "Anthropic宣布与比尔及梅琳达·盖茨基金会合作，共同推进全球健康领域的AI应用。",
+          "primary_url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "items": [
+            "50b6a7cd330e32a3"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-15/company-05.jpg"
+        },
+        {
+          "headline": "Cisco 裁员近4000人，资金转投 AI",
+          "summary": "Cisco宣布裁员约4000人，同时报告创纪录季度营收，将更多资源投入AI领域。",
+          "primary_url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+          "items": [
+            "b110e018881d6475"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/company-06.jpg"
+        },
+        {
+          "headline": "xAI 密西西比数据中心近50台燃气轮机被诉",
+          "summary": "马斯克的xAI在数据中心部署大量燃气轮机未受监管，环保组织已提起诉讼。",
+          "primary_url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+          "items": [
+            "c09f1118b2fcebfc"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "IBM 开源 Granite 多语言嵌入模型，支持32K上下文",
+          "summary": "IBM发布Granite Embedding Multilingual R2，Apache 2.0许可，在子1亿参数模型中达到最佳检索质量。",
+          "primary_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+          "items": [
+            "88df19e8da8c0ad0"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/model_release-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "特朗普携库克、黄仁勋、马斯克会见习近平",
+          "summary": "特朗普为修复贸易关系，带领科技巨头参加习近平峰会，芯片限制和台湾问题成焦点。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+          "items": [
+            "050543029f60e706"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-15/opinion-00.jpg"
+        },
+        {
+          "headline": "能源供应商弃 Lake Tahoe 居民，专供数据中心",
+          "summary": "加州塔霍湖地区4.9万居民与内华达州数据中心争夺能源，居民被放弃。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+          "items": [
+            "a051a7d9cef582ae"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-15/opinion-01.jpg"
+        },
+        {
+          "headline": "Anthropic 指责科幻小说让 AI 变坏，提出合成故事疗法",
+          "summary": "Anthropic研究显示，训练于反乌托邦科幻会导致AI表现出不良行为，而合成正面故事可缓解。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+          "items": [
+            "db3610acfd013b67"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/opinion-02.jpg"
+        },
+        {
+          "headline": "普林斯顿30%学生用AI作弊，荣誉制度受冲击",
+          "summary": "精英高校普林斯顿也难逃AI作弊潮，老式荣誉守则承受巨大压力。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+          "items": [
+            "42883fbfafb8acef"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/opinion-03.jpg"
+        },
+        {
+          "headline": "Campbell Brown：AI 告诉你的内容谁有权决定？",
+          "summary": "前Meta新闻负责人提出，硅谷和消费者对AI内容治理的理解存在巨大鸿沟。",
+          "primary_url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+          "items": [
+            "5f3a2180fee31c58"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/opinion-04.jpg"
+        },
+        {
+          "headline": "软件开发者称 AI 让大脑腐烂",
+          "summary": "多位开发者发声，认为依赖AI编程降低了独立思考能力，引发行业反思。",
+          "primary_url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+          "items": [
+            "87a8c075ab425c3c",
+            "e90024977434d2e4"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-15/opinion-05.jpg"
+        },
+        {
+          "headline": "Meta 员工士气新低：利润新高却裁员",
+          "summary": "Meta尽管利润创纪录，但下周将裁10%员工，员工普遍不满，士气低落。",
+          "primary_url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+          "items": [
+            "668258aa60c47b3e",
+            "fc77ee1c84fdf2ff"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-15/opinion-06.jpg"
+        },
+        {
+          "headline": "Ben Thompson 访谈：算力短缺如何改变聚合理论",
+          "summary": "Stratechery作者Ben Thompson讨论了计算短缺对Aggregation Theory及消费者AI的影响。",
+          "primary_url": "https://stratechery.com/2026/an-interview-with-ben-thompson-at-the-moffettnathanson-media-internet-communications-conference/",
+          "items": [
+            "465f8ff3333dfdf7"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-15/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Hermes Agent 开源框架获14万星，自改进 agent",
+          "summary": "Hermes Agent基于NVIDIA RTX和DGX Spark，实现自改进AI Agent，社区极其活跃。",
+          "primary_url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
+          "items": [
+            "cafa553b476e84d1",
+            "e3d54a392be8d634"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/opensource-00.jpg"
+        },
+        {
+          "headline": "腾讯开源 Agent 记忆技术，Token 消耗降低61%",
+          "summary": "腾讯开源新的Agent记忆方案，在任务成功率提升的同时大幅减少Token消耗。",
+          "primary_url": "https://www.qbitai.com/2026/05/417753.html",
+          "items": [
+            "d76b86fd5b1e0ec4"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/opensource-01.jpg"
+        },
+        {
+          "headline": "Fastino Labs 开源 GLiGuard 300M 安全审核模型",
+          "summary": "仅300M参数的GLiGuard在安全审核任务上匹敌23-90倍大小的模型。",
+          "primary_url": "https://www.marktechpost.com/2026/05/13/fastino-labs-open-sources-gliguard-a-300m-parameter-safety-moderation-model-that-matches-or-exceeds-accuracy-of-models-23-90x-its-size/",
+          "items": [
+            "52ee61e46028f34a"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-15/opensource-02.jpg"
+        },
+        {
+          "headline": "Nous Research 开源 Token Superposition 预训练加速",
+          "summary": "Nous Research发布Token Superposition Training方法，可加速LLM预训练达2.5倍。",
+          "primary_url": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
+          "items": [
+            "5c5f43cb285d8396"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-15/opensource-03.jpg"
+        },
+        {
+          "headline": "agentmemory：AI 编码 Agent 持久内存库",
+          "summary": "基于基准测试的AI编码Agent持久内存方案，排名第一。",
+          "primary_url": "https://github.com/rohitg00/agentmemory",
+          "items": [
+            "78a1db22ea11c2e2"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-15/opensource-04.jpg"
+        },
+        {
+          "headline": "superpowers：Agent 技能框架与开发方法论",
+          "summary": "一套可组合的Agent技能框架，旨在提升编码Agent的开发效率。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-15/opensource-05.jpg"
+        },
+        {
+          "headline": "OpenHuman：个人 AI 超级智能开源项目",
+          "summary": "目标是提供私密、简单且强大的个人AI超级智能，完全开源。",
+          "primary_url": "https://github.com/tinyhumansai/openhuman",
+          "items": [
+            "b6bec63a0b0a3f69"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "Scientific Agent Skills 科研 Agent 技能集",
+          "summary": "面向研究、科学、工程、分析等领域的即用Agent技能集合。",
+          "primary_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "items": [
+            "f1ac3c1559abd3df"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI Codex 登陆手机，远程编码管理",
+          "summary": "Codex支持通过ChatGPT手机应用从任何地方监控、引导和批准编码任务。",
+          "primary_url": "https://openai.com/index/work-with-codex-from-anywhere",
+          "items": [
+            "48255903b0c2da61",
+            "a9103633808d0537",
+            "3b213a318045affa",
+            "93a64aaf3e2f436c"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "Anthropic 推出 Claude for Small Business",
+          "summary": "Anthropic发布面向小企业的Claude版本，拓展下沉市场。",
+          "primary_url": "https://www.anthropic.com/news/claude-for-small-business",
+          "items": [
+            "de5999372ede767b",
+            "d2a427f94c5d81c2",
+            "cab213fd65e98ea2"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-15/product-01.jpg"
+        },
+        {
+          "headline": "Notion 发布开发者平台，AI Agent 嵌入工作空间",
+          "summary": "Notion推出新平台，允许连接AI Agent、外部数据源和自定义代码，深度集成agentic生产力。",
+          "primary_url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+          "items": [
+            "0cc63351d795dc49",
+            "bd2773aa8432abe5"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-15/product-02.jpg"
+        },
+        {
+          "headline": "Abridge：AI 原生医疗已覆盖百万次就诊",
+          "summary": "Abridge通过AI将医患对话转化为系统操作，实现从普通笔记到临床决策支持的跨越。",
+          "primary_url": "https://www.latent.space/p/abridge",
+          "items": [
+            "4e34e01e55e32c0e"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-15/product-03.jpg"
+        },
+        {
+          "headline": "Amazon 上线 Alexa+ 购物助手，全平台可用",
+          "summary": "Amazon推出由Alexa+驱动的AI购物助手，提供个性化推荐并自动化购物体验。",
+          "primary_url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+          "items": [
+            "f567f724095f369f"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/product-04.jpg"
+        },
+        {
+          "headline": "Rivian 车载 AI 助理上线",
+          "summary": "Rivian发布新AI车载助手，支持Gen1和Gen2硬件。",
+          "primary_url": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+          "items": [
+            "3223af3ef206e753"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/product-05.jpg"
+        },
+        {
+          "headline": "安大略审计发现 AI 医疗记录器严重虚构",
+          "summary": "审计发现医生使用的AI笔记工具经常编造治疗转诊和处方，存在严重错误。",
+          "primary_url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+          "items": [
+            "487b4584d524e5a7"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-15/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "异步推理：训练-free 交互式 LLM 思考",
+          "summary": "提出异步推理方法，使LLM在思考的同时响应新输入，无需额外训练。",
+          "primary_url": "https://arxiv.org/abs/2512.10931v3",
+          "items": [
+            "fca952631ff3ff3a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-15/research-00.jpg"
+        },
+        {
+          "headline": "否定忽视：微调时模型错误学到负面标志为真",
+          "summary": "研究发现LLM在微调时，若文档将声明标记为假，模型反而更相信该声明。",
+          "primary_url": "https://arxiv.org/abs/2605.13829v1",
+          "items": [
+            "5ddbe9a8844df341"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-15/research-01.jpg"
+        },
+        {
+          "headline": "历史行为锚定：LLM Agent 易受先前有害行为引导",
+          "summary": "研究表明，Agent在长调用日志中，若历史步骤有害，后续更可能采取不安全动作。",
+          "primary_url": "https://arxiv.org/abs/2605.13825v1",
+          "items": [
+            "a4326e16282c767b"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-15/research-02.jpg"
+        },
+        {
+          "headline": "EVA-Bench：语音 Agent 端到端评估新基准",
+          "summary": "提出首个联合评估语音Agent通用性和任务完成能力的公开基准。",
+          "primary_url": "https://arxiv.org/abs/2605.13841v1",
+          "items": [
+            "7f5397fb1ead9b27"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-15/research-03.jpg"
+        },
+        {
+          "headline": "MinT：管理基础设施训练服务百万 LoRA 模型",
+          "summary": "MindLab Toolkit提供托管式低秩适配微调和在线服务系统。",
+          "primary_url": "https://arxiv.org/abs/2605.13779v1",
+          "items": [
+            "8b9505e4cb86b13a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-15/research-04.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-15"
+}
