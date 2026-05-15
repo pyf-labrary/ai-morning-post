@@ -1,0 +1,467 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "IBM 发布 Granite Embedding 多语言嵌入模型 R2",
+          "summary": "IBM 在 HuggingFace 上发布了 Granite Embedding Multilingual R2，支持 32K 上下文，采用 Apache 2.0 许可，在子 100M 参数模型中达到最佳检索质量。",
+          "primary_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+          "items": [
+            "88df19e8da8c0ad0"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-16/model_release-00.jpg"
+        },
+        {
+          "headline": "Zyphra 发布首个 MoE 扩散模型 ZAYA1-8B",
+          "summary": "Zyphra 推出 ZAYA1-8B-Diffusion-Preview，将自回归 MoE 模型转换为离散扩散模型，推理速度提升最高 7.7 倍。",
+          "primary_url": "https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/",
+          "items": [
+            "81bb5fdb04c0df4f"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-16/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "Cerebras 上市募资 55 亿美元，首日暴涨 108%",
+          "summary": "Cerebras 完成 2026 年首个大型科技 IPO，融资 55 亿美元，股价飙升 108%，成为 AI 芯片领域标志性事件。",
+          "primary_url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+          "items": [
+            "a3d57a48e86bf5c7"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-16/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 估值或将达 9000 亿美元，首次超越 OpenAI",
+          "summary": "报道称 Anthropic 新一轮融资可能使其估值达到 9000 亿美元，超过 OpenAI 当前估值。",
+          "primary_url": "https://the-decoder.com/anthropics-900-billion-valuation-would-make-it-more-valuable-than-openai-for-the-first-time/",
+          "items": [
+            "0fbe7159fb3863d6"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 与盖茨基金会达成 2 亿美元合作",
+          "summary": "Anthropic 宣布与比尔及梅琳达·盖茨基金会建立价值 2 亿美元的合作伙伴关系，推动 AI 在健康领域的应用。",
+          "primary_url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "items": [
+            "50b6a7cd330e32a3"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 版权和解案遭法官推迟，律师被指急于收取数亿美元费用",
+          "summary": "Anthropic 的 15 亿美元版权和解协议因部分作者要求更高赔偿而受阻，法官推迟批准，律师被批评急于收取 3.2 亿美元费用。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+          "items": [
+            "294ffee379082665"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/company-03.jpg"
+        },
+        {
+          "headline": "英伟达为黄仁勋子女涨薪至百万美元年薪",
+          "summary": "英伟达披露给黄仁勋的儿子和女儿分别涨薪至年薪百万美元，公司声明称薪资评定与黄仁勋无关。",
+          "primary_url": "https://www.qbitai.com/2026/05/417943.html",
+          "items": [
+            "0809aec83e9c0c4d"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/company-04.jpg"
+        },
+        {
+          "headline": "Meta 员工抗议公司追踪鼠标行为用于 AI 训练",
+          "summary": "Meta 内部有员工发起抗议，指责公司利用软件追踪员工的键盘操作和鼠标移动数据来训练 AI，并在厕所和会议室贴满传单。",
+          "primary_url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+          "items": [
+            "8500831ea7c217ff",
+            "d1e02dd1f9a12696"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/company-05.jpg"
+        },
+        {
+          "headline": "前 Meta 高管田渊栋官宣创业，获 AMD 和黄仁勋投资",
+          "summary": "前 Meta 研究科学家田渊栋宣布成立新公司，拒绝了字节跳动和谷歌的邀请，获得 AMD CEO 苏姿丰和英伟达 CEO 黄仁勋的投资。",
+          "primary_url": "https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX",
+          "items": [
+            "bbc7f208b44e29b8"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/company-06.jpg"
+        },
+        {
+          "headline": "Cisco 裁员近 4000 人，转向 AI 投资",
+          "summary": "思科宣布裁员约 4000 人，将节省的资金用于 AI 领域的投资，同时报告了创纪录的季度营收。",
+          "primary_url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+          "items": [
+            "b110e018881d6475"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "新研究提出平行推理框架 OpenDeepThink：通过 Bradley-Terry 聚合提升 LLM 推理",
+          "summary": "论文提出 OpenDeepThink，通过并行采样多个推理路径并利用 Bradley-Terry 模型聚合结果，在测试时计算扩展上实现更优的推理质量。",
+          "primary_url": "http://arxiv.org/abs/2605.15177v1",
+          "items": [
+            "25ea78f92faa720a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-16/research-00.jpg"
+        },
+        {
+          "headline": "EntityBench：面向长程多镜头视频生成的实体一致性基准",
+          "summary": "论文提出 EntityBench 基准，评估多镜头视频生成中角色、物体和场景的跨镜头一致性，为长视频生成提供系统化评测。",
+          "primary_url": "http://arxiv.org/abs/2605.15199v1",
+          "items": [
+            "849036de14c9023f"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-16/research-01.jpg"
+        },
+        {
+          "headline": "ATLAS：利用单一词语实现代理式或潜在视觉推理",
+          "summary": "论文提出 ATLAS 方法，通过单词语条件实现高效的视觉推理，避免生成大量中间视觉状态的计算开销。",
+          "primary_url": "http://arxiv.org/abs/2605.15198v1",
+          "items": [
+            "fe94bd38fd1cc83b"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-16/research-02.jpg"
+        },
+        {
+          "headline": "FutureSim：回放世界事件以评估自适应 AI 代理",
+          "summary": "论文提出 FutureSim 仿真框架，通过回放真实世界事件来评估 AI 代理在动态环境中的适应能力。",
+          "primary_url": "http://arxiv.org/abs/2605.15188v1",
+          "items": [
+            "64ede3faf0d3144a"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-16/research-03.jpg"
+        },
+        {
+          "headline": "VGGT-Edit：前馈式原生 3D 场景编辑方法",
+          "summary": "论文提出 VGGT-Edit，利用残差场预测实现一次性前馈 3D 场景编辑，无需迭代优化。",
+          "primary_url": "http://arxiv.org/abs/2605.15186v1",
+          "items": [
+            "5a288c7237b734be"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-16/research-04.jpg"
+        },
+        {
+          "headline": "研究警示 AI 神经形态保障无法验证治理所需的安全声明",
+          "summary": "一篇立场论文指出，当前的行为保障方法无法提供治理框架所要求的可复核安全性证据。",
+          "primary_url": "http://arxiv.org/abs/2605.15164v1",
+          "items": [
+            "d7ba58f0eb6f3d78"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-16/research-05.jpg"
+        },
+        {
+          "headline": "Self-Distilled Agentic Reinforcement Learning 提出新后训练方法",
+          "summary": "论文提出基于自我蒸馏的强化学习框架，为长程交互场景中的 LLM 代理提供更细粒度的学习信号。",
+          "primary_url": "http://arxiv.org/abs/2605.15155v1",
+          "items": [
+            "1a43df0608b07b56"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-16/research-06.jpg"
+        },
+        {
+          "headline": "Pelican-Unified 1.0：首个统一具身智能模型",
+          "summary": "论文发布 Pelican-Unified 1.0，使用单一 VLM 统一实现理解、推理、想象和动作，是具身智能领域的重要进展。",
+          "primary_url": "http://arxiv.org/abs/2605.15153v1",
+          "items": [
+            "eb49b5aaa94326c1"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-16/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "ChatGPT 推出个人理财功能，可连接银行账户",
+          "summary": "OpenAI 面向美国 Pro 用户推出 ChatGPT 个人理财体验，用户可安全连接财务账户，获得 AI 驱动的理财洞察和建议。",
+          "primary_url": "https://openai.com/index/personal-finance-chatgpt",
+          "items": [
+            "0b5178ccf239a5c5",
+            "82aca67f215f7b05",
+            "54ecc056852f9aae"
+          ],
+          "importance": 10
+        },
+        {
+          "headline": "OpenAI Codex 登陆手机，可随时随地监控审批代码",
+          "summary": "OpenAI 将 AI 编程助手 Codex 带到 ChatGPT 移动应用，支持跨设备实时监控和批准编程任务。",
+          "primary_url": "https://openai.com/index/work-with-codex-from-anywhere",
+          "items": [
+            "48255903b0c2da61",
+            "297426faee9d48c6",
+            "3b213a318045affa"
+          ],
+          "importance": 10
+        },
+        {
+          "headline": "xAI 推出 Grok Build：首个终端编码代理",
+          "summary": "xAI 发布 Grok Build，其首个基于终端的编码代理，类似 Claude Code 和 Codex，旨在提升开发效率。",
+          "primary_url": "https://x.ai/news/grok-build-cli",
+          "items": [
+            "8e8ff9afbcb2ac93",
+            "e11aef579ee8c69c",
+            "14cecd3b12acc692"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "阿里发布 Qoder 1.0，全面接管代码生成与交付",
+          "summary": "阿里推出 Qoder 1.0，一款可全面接管代码生成、验证和交付流程的 AI 工具，支持 Windows、macOS 和 Linux。",
+          "primary_url": "https://www.qbitai.com/2026/05/418027.html",
+          "items": [
+            "e20dd94c0e304ed8"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/product-03.jpg"
+        },
+        {
+          "headline": "容联云发布数字员工级 AI Agent 平台",
+          "summary": "容联云推出以 AI Agent 为核心的大模型联络中心平台，重塑企业客服与营销流程。",
+          "primary_url": "https://www.qbitai.com/2026/05/418140.html",
+          "items": [
+            "e94c40239aad75c1"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/product-04.jpg"
+        },
+        {
+          "headline": "华为云创想者大会聚焦 Agentic AI 新布局",
+          "summary": "华为云举办创想者大会，公布 Agentic AI 领域的最新布局与主题论坛议程。",
+          "primary_url": "https://www.qbitai.com/2026/05/418135.html",
+          "items": [
+            "ce025021c2c55a09"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/product-05.jpg"
+        },
+        {
+          "headline": "Clawdmeter：将 Claude Code 使用统计变为桌面仪表盘",
+          "summary": "开源硬件项目 Clawdmeter 利用 Claude Code 的 API 数据，在桌面上显示实时编码代理使用统计。",
+          "primary_url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+          "items": [
+            "2876a11b01a4fad8"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-16/product-06.jpg"
+        },
+        {
+          "headline": "Nimbus：一种代理式浏览器，融合 Claude Code 体验",
+          "summary": "产品猎头推荐 Nimbus，一款结合 Claude Code 交互逻辑的代理式浏览器，可执行复杂网页任务。",
+          "primary_url": "https://www.producthunt.com/products/nimbus-10",
+          "items": [
+            "f235a23c633292fa"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Anthropic 呼吁华盛顿紧急应对中国 AI 竞争",
+          "summary": "Anthropic 发布报告，将中美 AI 竞争描述为华盛顿的“现在或永不”时刻，主张强化美国领导地位。",
+          "primary_url": "https://the-decoder.com/anthropic-frames-ai-competition-with-china-as-a-now-or-never-moment-for-washington/",
+          "items": [
+            "257bb556729319dd"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/opinion-00.jpg"
+        },
+        {
+          "headline": "美国民众更愿邻接核电站而非 AI 数据中心——盖洛普民调",
+          "summary": "盖洛普最新民调显示，美国民众对 AI 数据中心的排斥程度超过核电站，多地居民集会抗议数据中心扩张。",
+          "primary_url": "https://the-decoder.com/americans-would-rather-live-next-to-a-nuclear-plant-than-an-ai-data-center-gallup-poll-finds/",
+          "items": [
+            "8553ec20c6e9b402",
+            "edab635a92f41505",
+            "d26587ec6978033b",
+            "a051a7d9cef582ae"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/opinion-01.jpg"
+        },
+        {
+          "headline": "Arxiv 重拳整治 AI 生成论文，违规者将被禁投一年",
+          "summary": "预印本平台 arXiv 宣布新政策，对提交 AI 生成的虚假论文的作者实施长达一年的禁投惩罚。",
+          "primary_url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+          "items": [
+            "ea664ea82be5d65a",
+            "221eaa505aac60e9"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/opinion-02.jpg"
+        },
+        {
+          "headline": "OpenAI 对苹果的 ChatGPT 集成深感失望，或提起法律诉讼",
+          "summary": "报道称 OpenAI 认为苹果的 ChatGPT 集成效果糟糕，未带来预期订阅量和曝光，正积极准备法律行动。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+          "items": [
+            "fee74ad4e81fe59d",
+            "d18287ca7a401832"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-16/opinion-03.jpg"
+        },
+        {
+          "headline": "Musk v. Altman 庭审结束：陪审团将决定 OpenAI 未来",
+          "summary": "马斯克诉奥特曼案结束 E 论，陪审团将就 OpenAI 是否违背非营利使命等核心问题作出裁决。",
+          "primary_url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+          "items": [
+            "11d2c910aaa3be5f",
+            "6fe4ba78e28da2a8",
+            "d4bde7bd23b4552f"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-16/opinion-04.jpg"
+        },
+        {
+          "headline": "安大略审计发现医生使用的 AI 记笔记工具频繁出错",
+          "summary": "安大略省审计发现，医生使用的 AI 笔记助手经常编造治疗转诊、错误处方等基本事实，存在严重安全隐患。",
+          "primary_url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+          "items": [
+            "487b4584d524e5a7",
+            "cccba78ee862016d"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/opinion-05.jpg"
+        },
+        {
+          "headline": "AI 让我变笨——一名程序员的反思",
+          "summary": "一篇在 Hacker News 上获得 528 分的热文，作者表达了对 AI 工具导致个人能力退化的担忧。",
+          "primary_url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+          "items": [
+            "87a8c075ab425c3c"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/opinion-06.jpg"
+        },
+        {
+          "headline": "特朗普携库克、黄仁勋、马斯克出席 Xi 峰会",
+          "summary": "报道称特朗普为改善对华关系，邀请蒂姆·库克、黄仁勋和马斯克等科技巨头一同参加 Xi 主持的峰会。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+          "items": [
+            "050543029f60e706"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "蚂蚁百灵 Ring-2.6-1T 旗舰推理模型开源",
+          "summary": "蚂蚁集团开源百灵 Ring-2.6-1T 推理模型，AIME 26 得分 95.83，Agent 执行能力全面增强。",
+          "primary_url": "https://www.qbitai.com/2026/05/417961.html",
+          "items": [
+            "46280565f6e59f84",
+            "a6009880b5c456d0"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-16/opensource-00.jpg"
+        },
+        {
+          "headline": "Cline 发布开源 Agent 运行时 SDK",
+          "summary": "Cline 将其内部代理框架提取为开源 TypeScript SDK @cline/sdk，已驱动其 CLI 和看板工具。",
+          "primary_url": "https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/",
+          "items": [
+            "0f7575873ebaef03"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/opensource-01.jpg"
+        },
+        {
+          "headline": "蚂蚁灵波开源 LingBot-VLA 真机后训练全流程",
+          "summary": "蚂蚁灵波开源 LingBot-VLA 项目，提供完整的机器人真机后训练代码，仅需 150 条示教数据即可适配新机器人。",
+          "primary_url": "https://www.infoq.cn/article/5QHOQQCUdrGBBNfmm4Dk",
+          "items": [
+            "27d226c63a104926"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-16/opensource-02.jpg"
+        },
+        {
+          "headline": "GitHub 推出 MCP 服务器集成，扩展机密扫描功能",
+          "summary": "GitHub 发布 MCP 服务器集成，允许开发者通过标准接口扩展机密扫描能力。",
+          "primary_url": "https://www.infoq.cn/article/Fz17LfX18bjZVBG31AIW",
+          "items": [
+            "e34f2e53a9a6497d"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-16/opensource-03.jpg"
+        },
+        {
+          "headline": "openhuman：个人 AI 超级智能，私密且强大",
+          "summary": "GitHub 趋势项目 openhuman 提供个人 AI 助手，注重隐私和本地运行，旨在成为通用超级智能。",
+          "primary_url": "https://github.com/tinyhumansai/openhuman",
+          "items": [
+            "b6bec63a0b0a3f69"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-16/opensource-04.jpg"
+        },
+        {
+          "headline": "agentmemory：为 AI 编码代理提供持久化记忆",
+          "summary": "开源项目 agentmemory 提供基准测试验证的持久记忆方案，帮助 AI 编码代理跨会话保持上下文。",
+          "primary_url": "https://github.com/rohitg00/agentmemory",
+          "items": [
+            "78a1db22ea11c2e2"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-16/opensource-05.jpg"
+        },
+        {
+          "headline": "superpowers：代理式技能框架与软件开发方法论",
+          "summary": "开源项目 superpowers 提供一套完整的代理式技能和软件开发方法论，旨在提升编码代理的协作效率。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-16/opensource-06.jpg"
+        },
+        {
+          "headline": "NousResearch 开源 Hermes Agent",
+          "summary": "NousResearch 发布 Hermes Agent，一个灵活可扩展的代理框架，支持动态工具调用和上下文注入。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-16/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-16"
+}
