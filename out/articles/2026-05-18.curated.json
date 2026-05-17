@@ -1,0 +1,407 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "SANA-WM开源世界模型：2.6B参数生成1分钟视频",
+          "summary": "NVIDIA 实验室开源 SANA-WM，一个 2.6B 参数的世界模型，能够生成 1 分钟 720p 视频，在模型推理和视频生成领域引起关注。",
+          "primary_url": "https://nvlabs.github.io/Sana/WM/",
+          "importance": 8,
+          "items": [
+            "c2bcc60442a8c637"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI联合创始人Brockman统管产品团队",
+          "summary": "Greg Brockman 负责 OpenAI 产品战略，计划合并 ChatGPT 和 Codex，打造“代理未来”。",
+          "primary_url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+          "importance": 8,
+          "items": [
+            "2f3a186b48b25497",
+            "cb8c8e2ba18f5ac1"
+          ],
+          "cover_path": "out/media/2026-05-18/company-00.jpg"
+        },
+        {
+          "headline": "马斯克-OpenAI庭审聚焦信任问题",
+          "summary": "庭审最后阶段围绕 OpenAI CEO Sam Altman 是否值得信任展开，影响最终判决。",
+          "primary_url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "importance": 6,
+          "items": [
+            "ca4c5518e7daaf31"
+          ],
+          "cover_path": "out/media/2026-05-18/company-01.jpg"
+        },
+        {
+          "headline": "Meta员工揭露公司恐怖内幕",
+          "summary": "一名Meta员工公开发文描述了在Meta工作的真实感受，引发对科技公司文化的讨论。",
+          "primary_url": "https://sfstandard.com/pacific-standard-time/2026/05/15/meta-employee-gets-real-horror-working-right-now/",
+          "importance": 4,
+          "items": [
+            "a9ab6b13074942cd"
+          ],
+          "cover_path": "out/media/2026-05-18/company-02.jpg"
+        },
+        {
+          "headline": "奇安信与北京八中合作培养AI安全人才",
+          "summary": "首个“青少年人工智能安全培养基地”揭牌，校企结合开展AI安全教育。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/oIjSMkG9ln37bN82.html",
+          "importance": 3,
+          "items": [
+            "8b5bfe091c1d7628"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "前沿AI模型有能力自主开发浏览器漏洞",
+          "summary": "研究团队发布新基准，证明 Claude Mythos 和 GPT-5.5 已能独立开发真实浏览器漏洞，引发安全担忧。",
+          "primary_url": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
+          "importance": 7,
+          "items": [
+            "814f2887b47928f4"
+          ],
+          "cover_path": "out/media/2026-05-18/research-00.jpg"
+        },
+        {
+          "headline": "数学基准揭示AI模型自信解无解题",
+          "summary": "研究人员创建数学基准，发现AI模型常常自信地给出错误答案，即使问题本身无解。",
+          "primary_url": "https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution/",
+          "importance": 6,
+          "items": [
+            "e5e2607f04112282"
+          ],
+          "cover_path": "out/media/2026-05-18/research-01.jpg"
+        },
+        {
+          "headline": "视频生成基准：画面惊艳，推理为零",
+          "summary": "新测试表明当前AI视频生成器虽能产出高质量视频，但仍无法理解基本物理规律。",
+          "primary_url": "https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/",
+          "importance": 6,
+          "items": [
+            "910e313210b04871"
+          ],
+          "cover_path": "out/media/2026-05-18/research-02.jpg"
+        },
+        {
+          "headline": "世界动作模型助机器人预演行为后果",
+          "summary": "研究人员提出 World Action Models，使机器人在实际移动前能模拟动作后果，提升安全性。",
+          "primary_url": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/",
+          "importance": 6,
+          "items": [
+            "d23aaf617edfde3e"
+          ],
+          "cover_path": "out/media/2026-05-18/research-03.jpg"
+        },
+        {
+          "headline": "DeepSeek-V4-Flash令LLM向量操控再次有趣",
+          "summary": "基于DeepSeek-V4-Flash的研究显示，通过向量操控可有效调整模型行为，引发对LLM可解释性的重新兴趣。",
+          "primary_url": "https://www.seangoedecke.com/steering-vectors/",
+          "importance": 6,
+          "items": [
+            "31193f05a76cc6b6"
+          ],
+          "cover_path": "out/media/2026-05-18/research-04.jpg"
+        },
+        {
+          "headline": "研究指出SFT前应修复多模态模型预训练缺陷",
+          "summary": "论文揭示多模态大模型在SFT之前存在预训练阶段的系统性偏差，建议先修复再进入强化学习阶段。",
+          "primary_url": "https://www.qbitai.com/2026/05/418814.html",
+          "importance": 5,
+          "items": [
+            "c18dfd29a1f2abe8"
+          ],
+          "cover_path": "out/media/2026-05-18/research-05.jpg"
+        },
+        {
+          "headline": "CVPR 2026：自动驾驶和视频模型追求可控世界理解",
+          "summary": "两篇综述分别总结了CVPR 2026上自动驾驶协作智能和视频模型的最新进展，强调模型理解能力而非生成。",
+          "primary_url": "https://www.leiphone.com/category/ai/fMkWxfMZbW2XRxwK.html",
+          "importance": 5,
+          "items": [
+            "b48af0390ed19f4b",
+            "e6a121f1549f5d4a"
+          ]
+        },
+        {
+          "headline": "Lighthouse注意力：训练时加速1.4-1.7倍长上下文",
+          "summary": "Nous Research 开源 Lighthouse Attention，一种层次化注意力机制，在预训练阶段可显著加速长序列训练。",
+          "primary_url": "https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/",
+          "importance": 5,
+          "items": [
+            "7764cb4d962dfc70"
+          ],
+          "cover_path": "out/media/2026-05-18/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "新Siri将自动删除聊天记录聚焦隐私",
+          "summary": "苹果计划在Siri大改版中引入自动删除聊天功能，隐私将成为核心卖点。",
+          "primary_url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "importance": 7,
+          "items": [
+            "4e9aa9b59727bb4f"
+          ],
+          "cover_path": "out/media/2026-05-18/product-00.jpg"
+        },
+        {
+          "headline": "YouTube全面开放深度伪造面部检测工具",
+          "summary": "YouTube将其深度伪造人脸识别工具开放给所有成人创作者，帮助识别和标记合成内容。",
+          "primary_url": "https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/",
+          "importance": 6,
+          "items": [
+            "1e8f773dc6a3c21c"
+          ],
+          "cover_path": "out/media/2026-05-18/product-01.jpg"
+        },
+        {
+          "headline": "机器狗芯片挑战英伟达算力王座",
+          "summary": "新发布的低功耗机器狗处理器在特定AI推理任务上超越英伟达GPU，引发边缘算力革命讨论。",
+          "primary_url": "https://www.qbitai.com/2026/05/418969.html",
+          "importance": 5,
+          "items": [
+            "42a2780ac272bf1f"
+          ],
+          "cover_path": "out/media/2026-05-18/product-02.jpg"
+        },
+        {
+          "headline": "四款AI模型轮流运营电台6个月：结果从专业到疯狂",
+          "summary": "Andon Labs让四个AI模型轮流管理广播电台，结果显示有有趣的也有完全失控的表现。",
+          "primary_url": "https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/",
+          "importance": 5,
+          "items": [
+            "2a0c7b7c257a5b6c"
+          ],
+          "cover_path": "out/media/2026-05-18/product-03.jpg"
+        },
+        {
+          "headline": "Vercel推出Zero：AI代理可直接读写原生程序",
+          "summary": "Vercel Labs发布Zero编程语言，专为AI代理设计，能自动诊断和修复代码，减少人工解读。",
+          "primary_url": "https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/",
+          "importance": 5,
+          "items": [
+            "a237b07414913122"
+          ],
+          "cover_path": "out/media/2026-05-18/product-04.jpg"
+        },
+        {
+          "headline": "ChatGPT获理财能力，用户担忧隐私",
+          "summary": "ChatGPT新增金融账户查询和理财建议功能，但必须读取用户全部余额，引发隐私担忧。",
+          "primary_url": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8",
+          "importance": 4,
+          "items": [
+            "deb7a1bc1562bda1"
+          ],
+          "cover_path": "out/media/2026-05-18/product-05.jpg"
+        },
+        {
+          "headline": "MCP Hello Page：一分钟上手Agent协议",
+          "summary": "开发者发布MCP Hello Page，提供最快理解Model Context Protocol的示例页面。",
+          "primary_url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+          "importance": 4,
+          "items": [
+            "fe1aa58d5531a6b7"
+          ]
+        },
+        {
+          "headline": "汽车业面临AI技能军备竞赛",
+          "summary": "TechCrunch Mobility专栏指出汽车行业正就AI技能展开激烈争夺，影响未来人才布局。",
+          "primary_url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+          "importance": 4,
+          "items": [
+            "24e59af41715036b"
+          ],
+          "cover_path": "out/media/2026-05-18/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Mistral CEO：欧洲还有两年时间避免沦为AI殖民地",
+          "summary": "Mistral CEO Arthur Mensch 公开反对法国允许Anthropic扫描军用代码，警示欧洲需迅速建立主权AI能力。",
+          "primary_url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/",
+          "importance": 8,
+          "items": [
+            "2c35cbeba124b11a",
+            "9b5f9aed18c9ad41"
+          ],
+          "cover_path": "out/media/2026-05-18/opinion-00.jpg"
+        },
+        {
+          "headline": "ArXiv新规：AI代写论文将被封号一年",
+          "summary": "预印本平台ArXiv宣布新政策，若发现作者使用AI完成主要写作工作，将禁止投稿一年。",
+          "primary_url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "importance": 7,
+          "items": [
+            "e012acf71f54ab83"
+          ],
+          "cover_path": "out/media/2026-05-18/opinion-01.jpg"
+        },
+        {
+          "headline": "美监管机构押注AI监控预测市场内幕交易",
+          "summary": "CFTC计划部署AI系统实时追踪预测市场中的内幕交易行为，引发技术与监管交叉的关注。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+          "importance": 6,
+          "items": [
+            "a17c5c0456800296"
+          ],
+          "cover_path": "out/media/2026-05-18/opinion-02.jpg"
+        },
+        {
+          "headline": "企业AI订阅是定时炸弹",
+          "summary": "作者认为当前AI订阅模式对长期成本、控制权和可替代性构成巨大风险，可能对企业造成未预料的高额支出。",
+          "primary_url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+          "importance": 6,
+          "items": [
+            "a455ae897ac12770"
+          ],
+          "cover_path": "out/media/2026-05-18/opinion-03.jpg"
+        },
+        {
+          "headline": "美国AI相关岗位失业开始显著增加",
+          "summary": "最新数据显示，美国受AI影响较大的职位开始出现明显失业潮，引发对技术替代的担忧。",
+          "primary_url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+          "importance": 6,
+          "items": [
+            "67f61dc43dbb9620"
+          ]
+        },
+        {
+          "headline": "AI是技术不是产品，Daring Fireball发问",
+          "summary": "John Gruber撰文指出，当前多数AI应用未能解决产品定义问题，比照技术而非产品的定位导致了市场错配。",
+          "primary_url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+          "importance": 5,
+          "items": [
+            "28abfc7a5d671a84"
+          ],
+          "cover_path": "out/media/2026-05-18/opinion-05.jpg"
+        },
+        {
+          "headline": "不要期待AI能加速一切流程",
+          "summary": "技术博主提出，盲目引入AI可能导致流程更复杂，实际效率可能下降。",
+          "primary_url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+          "importance": 5,
+          "items": [
+            "44d6052a581310cf"
+          ],
+          "cover_path": "out/media/2026-05-18/opinion-06.jpg"
+        },
+        {
+          "headline": "Apple Silicon离线运行LLM成本高于OpenRouter",
+          "summary": "对比测试显示，在Apple Silicon上本地运行LLM的能耗成本超过使用OpenRouter等云服务。",
+          "primary_url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+          "importance": 5,
+          "items": [
+            "679308ccee97cb01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Zerostack：纯Rust实现的Unix模式AI代理",
+          "summary": "全新Rust编写的AI代理框架Zerostack，以Unix哲学设计，功能强大，在HN获531分热度。",
+          "primary_url": "https://crates.io/crates/zerostack/1.0.0",
+          "importance": 7,
+          "items": [
+            "987f9bef5bcedebe"
+          ]
+        },
+        {
+          "headline": "Anthropic发布官方Agent Skills标准仓库",
+          "summary": "Anthropic开源Agent Skills公共仓库，推动AI agent技能标准化。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "importance": 6,
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-05-18/opensource-01.jpg"
+        },
+        {
+          "headline": "CodeGraph：让Claude Code理解代码语义，减少94%令牌",
+          "summary": "开源工具CodeGraph通过预构建代码知识图谱，大幅降低AI编码agent的令牌消耗。",
+          "primary_url": "https://github.com/colbymchenry/codegraph",
+          "importance": 5,
+          "items": [
+            "49188edeea81efcf"
+          ],
+          "cover_path": "out/media/2026-05-18/opensource-02.jpg"
+        },
+        {
+          "headline": "Open-Generative-AI：200+模型自托管视频生成平台",
+          "summary": "MIT许可的开源AI视频生成平台，支持Flux、Midjourney等200+模型，可完全自托管。",
+          "primary_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "importance": 5,
+          "items": [
+            "25f8122592583ee3"
+          ],
+          "cover_path": "out/media/2026-05-18/opensource-03.jpg"
+        },
+        {
+          "headline": "NVIDIA开源视频搜索与摘要AI蓝图",
+          "summary": "NVIDIA发布GPU加速的视频搜索与摘要参考架构，便于构建视觉agent。",
+          "primary_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "importance": 5,
+          "items": [
+            "27404de14a099318"
+          ],
+          "cover_path": "out/media/2026-05-18/opensource-04.jpg"
+        },
+        {
+          "headline": "Oppo开源全手机端AI代理X-OmniClaw",
+          "summary": "X-OmniClaw可以利用摄像头、屏幕和语音，在手机端无需联网完成复杂任务。",
+          "primary_url": "https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/",
+          "importance": 5,
+          "items": [
+            "414d8a960fac9545"
+          ],
+          "cover_path": "out/media/2026-05-18/opensource-05.jpg"
+        },
+        {
+          "headline": "6.4k Stars：Claude Code论文写作全流程开源",
+          "summary": "开发者打包开源了基于Claude Code的学术论文写作流水线，包含费用参考，获6.4k星标。",
+          "primary_url": "https://www.qbitai.com/2026/05/418737.html",
+          "importance": 5,
+          "items": [
+            "61331f84c9a257d1"
+          ],
+          "cover_path": "out/media/2026-05-18/opensource-06.jpg"
+        },
+        {
+          "headline": "LiteLLM Agent Platform：K8s原生自主agent后台",
+          "summary": "BerriAI推出LiteLLM Agent Platform，基于Kubernetes的自托管agent沙箱和持久会话管理方案。",
+          "primary_url": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
+          "importance": 4,
+          "items": [
+            "a4476bf6d2895ec1"
+          ],
+          "cover_path": "out/media/2026-05-18/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-18"
+}

@@ -1,0 +1,13 @@
+<section style="max-width:100%;font-size:16px;line-height:1.85;color:#1f2330;letter-spacing:0.3px;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Helvetica,'Microsoft YaHei',Arial,sans-serif;word-break:break-word;"><section style="margin:-4px 0 22px;padding:18px 18px 16px;background:linear-gradient(135deg,#1a73e8 0%,#0d4ac1 100%);border-radius:12px;color:#fff;">  <div style="display:inline-block;padding:3px 10px;border-radius:999px;background:rgba(255,255,255,0.18);font-size:12px;letter-spacing:1px;margin-bottom:10px;">🚀 AI 晨报 · 模型发布</div>  <h1 style="margin:0;padding:0;font-size:26px;font-weight:700;color:#fff;line-height:1.35;border:0;">NVIDIA开源世界模型：2.6B参数看懂世界</h1>  <p style="margin:8px 0 0;font-size:13px;color:rgba(255,255,255,0.85);">2026-05-18 · 每日 06:00 自动生成</p></section><p style="margin:12px 0;">时隔一年多，世界模型（World Model）赛道迎来新玩家：NVIDIA 今日开源 SANA-WM，一个仅 2.6B 参数即可生成 1 分钟 720p 视频的轻量级模型。它证明了“参数量不等于涌现能力”——世界模型的门槛正在快速降低。</p>
+<h2 style="font-size:19px;font-weight:700;margin:34px 0 12px;color:#1f2330;padding:6px 0 6px 12px;border-left:4px solid #1a73e8;line-height:1.5;">SANA-WM 是什么</h2>
+<p style="margin:12px 0;">NVIDIA 实验室发布的 SANA-WM 是一个基于 flow-based diffusion transformer 的世界模型，参数量 2.6B，能在单张 A100-80G GPU 上生成最长 1 分钟、720p 分辨率的连贯视频。它并非传统视频生成模型，而是试图学习物理世界的运动规则 —— 物体交互、光照变化、遮挡关系 —— 再用视频形式做“世界预测”。</p>
+<p style="margin:12px 0;">关键点：
+- 架构延续 SANA 系列（高效自编码器 + 线性注意力），推理成本比同类 DiT 模型低一个数量级。
+- 训练数据包括大规模无标注视频，不依赖 text-video 配对，更接近“看世界视频自学物理”。
+- 开源权重和推理代码，可在 consumer grade GPU（24GB VRAM）上运行 demo。</p>
+<p style="margin:12px 0;">为什么重要：世界模型此前是 Sora (OpenAI)、Cosmos (NVIDIA) 等数十亿参数模型的特权。SANA-WM 将门槛拉到 2.6B，意味着更多中小团队可以在此之上做规划、决策、仿真。更重要的是它是开源、可复现的 —— 给“具身智能”和“基础世界模型”研究提供了一个低成本基线。</p>
+<blockquote style="margin:16px 0;padding:10px 14px;background:#f6f8fb;border-left:3px solid #cdd5e0;border-radius:0 6px 6px 0;color:#8a94a6;font-size:14.5px;">
+<p style="margin:12px 0;">原文：<a style="color:#1a73e8;text-decoration:none;border-bottom:1px solid #1a73e833;padding-bottom:1px;" href="https://nvlabs.github.io/Sana/WM/">NVIDIA Labs - SANA-WM</a></p>
+</blockquote>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,transparent 0%,#dde3ec 50%,transparent 100%);margin:28px 0;" />
+<p style="margin:12px 0;">今天你只需要记住一件事：世界模型的“摩尔定律”可能不是参数变多，而是用更少参数学会更久的物理一致性。下一个问题：当 1B 参数能预测 3 分钟时，仿真还需要传统游戏引擎吗？</p><section style="margin-top:36px;padding:20px 16px;background:#f6f8fb;border-radius:10px;text-align:center;color:#8a94a6;font-size:13px;line-height:1.7;">  <div>「AI 晨报」每日 06:00 自动汇编全网 AI 动态</div>  <div style="margin-top:4px;color:#b6bcc8;font-size:12px;">  来源：官方博客 · arXiv · Reddit · Hacker News · X</div></section></section>
