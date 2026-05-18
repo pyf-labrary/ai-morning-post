@@ -1,0 +1,458 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "PaddleOCR 3.5 发布，基于Transformers后端",
+          "summary": "PaddleOCR 3.5 版本采用 Transformers 后端，显著提升了 OCR 和文档解析任务的性能与易用性。",
+          "primary_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+          "items": [
+            "db44eae4fa6de3bb"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-19/model_release-00.jpg"
+        },
+        {
+          "headline": "Krea 2 发布：专注风格控制的图像生成模型",
+          "summary": "新的图像模型 Krea 2 强调风格控制和情绪板功能，为设计师提供更强的创意工具。",
+          "primary_url": "https://www.producthunt.com/products/krea",
+          "items": [
+            "45fabfb965ec6e95"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "马斯克诉OpenAI败诉，陪审团两小时裁定",
+          "summary": "陪审团一致裁定马斯克对OpenAI的1340亿美元诉讼败诉，认为其未及时起诉。法官立即确认判决。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+          "items": [
+            "f6c3611c212d2357",
+            "67ef5f92edf83c1c",
+            "c265153f0ebc6e44",
+            "5dfb4130ee1332f4",
+            "ca4c5518e7daaf31"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-05-19/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 与 Dell 推出企业级 Codex 部署方案",
+          "summary": "OpenAI 与戴尔合作，将 AI 编码助手 Codex 带入混合云和本地企业环境，确保安全与数据集成。",
+          "primary_url": "https://openai.com/index/dell-codex-enterprise-partnership",
+          "items": [
+            "f8040015133b7807"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "英伟达 Vera CPU 交付给顶尖AI实验室",
+          "summary": "首批 NVIDIA Vera CPU 已送达 Anthropic、OpenAI、SpaceXAI 和 Oracle Cloud，标志英伟达进入 CPU 市场。",
+          "primary_url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+          "items": [
+            "32a453823a5508b5",
+            "b192523cb76bd68b"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-19/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 收购开发者工具公司 Stainless",
+          "summary": "Anthropic 收购纽约创业公司 Stainless，后者为 OpenAI、Google 等提供 SDK 自动创建与维护服务。",
+          "primary_url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+          "items": [
+            "9b23886df5723bf6"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-19/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic 将简报全球金融监管机构 Claude 发现的漏洞",
+          "summary": "通过 Project Glasswing，Claude 模型发现多项金融系统漏洞，Anthropic 将向全球监管机构进行简报。",
+          "primary_url": "https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/",
+          "items": [
+            "d83083321a263615",
+            "142d4455b9b4ed57"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/company-04.jpg"
+        },
+        {
+          "headline": "AI 初创公司年收入破 800 亿美元，集中度惊人",
+          "summary": "报告显示2026年AI创业公司总收入达800亿美元，但Anthropic和OpenAI几乎占据全部份额。",
+          "primary_url": "https://the-decoder.com/ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it/",
+          "items": [
+            "554aea3ff04618b9"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/company-05.jpg"
+        },
+        {
+          "headline": "SandboxAQ 将药物发现模型引入 Claude 平台",
+          "summary": "SandboxAQ 将其 AI 药物发现模型接入 Claude，使非计算背景的科学家也能轻松使用。",
+          "primary_url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "items": [
+            "886c603cf67cf843"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/company-06.jpg"
+        },
+        {
+          "headline": "新纪元能源 670 亿美元收购道明尼，瞄准 AI 电网需求",
+          "summary": "美国最大公用事业公司新纪元能源以670亿美元收购道明尼能源，整合电网以满足AI算力设施激增的电力需求。",
+          "primary_url": "https://36kr.com/newsflashes/3814800262373120?f=rss",
+          "items": [
+            "8f9d2361108eb15a"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "NVIDIA 提出 4-bit 预训练方法 NVFP4",
+          "summary": "NVIDIA 在 12B 混合 Mamba-Transformer 模型上验证了 4-bit 预训练方法，大幅降低训练成本。",
+          "primary_url": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/",
+          "items": [
+            "7e6f968e9986aeda"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/research-00.jpg"
+        },
+        {
+          "headline": "World Action Models 让机器人预判动作后果",
+          "summary": "新模型赋予机器人在移动前模拟动作后果的能力，提升操作安全性与效率。",
+          "primary_url": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/",
+          "items": [
+            "d23aaf617edfde3e"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/research-01.jpg"
+        },
+        {
+          "headline": "8B 模型完成复杂生物实验，超越 GPT-4o",
+          "summary": "ICLR 2026 论文显示，仅 8B 参数的模型能执行无误的生物实验步骤，性能超越 GPT-4o。",
+          "primary_url": "https://www.qbitai.com/2026/05/419386.html",
+          "items": [
+            "83c479d6557007f3"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/research-02.jpg"
+        },
+        {
+          "headline": "CX-Mind：胸片诊断进入可验证推理时代",
+          "summary": "上海交大、创智与瑞金医院联合发布 CX-Mind，在五个维度上全面领先，实现可解释的胸片诊断。",
+          "primary_url": "https://www.qbitai.com/2026/05/419396.html",
+          "items": [
+            "b529bde7e53e254b"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/research-03.jpg"
+        },
+        {
+          "headline": "FedRE 用“纠缠”解决联邦学习三难困境",
+          "summary": "信通院与清华提出 FedRE 方法，在隐私、性能和效率之间实现平衡，入选 CVPR 2026。",
+          "primary_url": "https://www.qbitai.com/2026/05/419373.html",
+          "items": [
+            "0c63cb38d1941198"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/research-04.jpg"
+        },
+        {
+          "headline": "LEANN：RAG 存储节省 97% 且完全私有",
+          "summary": "MLsys2026 论文提出 LEANN 框架，在设备端实现高效、准确且私有的 RAG 应用。",
+          "primary_url": "https://github.com/yichuan-w/LEANN",
+          "items": [
+            "1c62a74b3e59122f"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-19/research-05.jpg"
+        },
+        {
+          "headline": "MemPrivacy：边缘-云端记忆隐私保护框架",
+          "summary": "新框架通过本地可逆假名化保护用户数据，同时维持 LLM 记忆功能的有效性。",
+          "primary_url": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
+          "items": [
+            "58386c41b710dd16"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-19/research-06.jpg"
+        },
+        {
+          "headline": "开放 Agent 排行榜发布，评估多模型能力",
+          "summary": "IBM Research 等推出 Open Agent Leaderboard，用于评估不同模型在 agent 任务上的表现。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+          "items": [
+            "8cbd8ed9b1d04c02"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-19/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Cursor Composer 2.5 性能比肩顶级模型",
+          "summary": "Cursor 的 Composer 2.5 在多个基准上匹配 Opus 4.7 和 GPT-5.5，但成本仅为其零头。",
+          "primary_url": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+          "items": [
+            "03273a2a73ac5658"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-19/product-00.jpg"
+        },
+        {
+          "headline": "Amazon Alexa+ 现在可以生成定制播客",
+          "summary": "亚马逊为 Alexa+ 新增 AI 播客生成功能，可基于用户兴趣即时创建个性化播客内容。",
+          "primary_url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+          "items": [
+            "d55b3877d98b58bf"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/product-01.jpg"
+        },
+        {
+          "headline": "豆包上线博物馆讲解模式，覆盖 20+ 展馆",
+          "summary": "字节跳动豆包推出博物馆 AI 讲解功能，对准展品即可自动识别并讲解，已合作 20 多家博物馆。",
+          "primary_url": "https://36kr.com/newsflashes/3814719549693698?f=rss",
+          "items": [
+            "68cc8af8b40e9429",
+            "474a27bcc23a144a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/product-02.jpg"
+        },
+        {
+          "headline": "Figure 机器人直播干活一整天，引发热议",
+          "summary": "Figure 机器人进行全天直播演示，展示自主执行任务的能力，但效果惊艳也引发是否预录的质疑。",
+          "primary_url": "https://www.leiphone.com/category/robot/3aONHt2GgD1NtdrV.html",
+          "items": [
+            "d2aa5fc2189b7902"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "Apple 新 Siri 将支持聊天自动删除",
+          "summary": "据报道，Apple 即将在 Siri 大改版中加入自动删除聊天记录功能，强调隐私保护。",
+          "primary_url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "items": [
+            "4e9aa9b59727bb4f"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/product-04.jpg"
+        },
+        {
+          "headline": "矩阵超智发布具身智能量产计划",
+          "summary": "矩阵超智在上海举办科技日，宣布 2027 年达到十万台产能，开启国产具身智能量产元年。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/tcrIrCwMIDSjCxgO.html",
+          "items": [
+            "45bab0f781b0204d"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "网易有道全线产品接入 DeepSeek-V4",
+          "summary": "网易有道宣布旗下词典、翻译、AI 答疑笔等核心产品接入 DeepSeek-V4，升级 AI 能力。",
+          "primary_url": "https://36kr.com/newsflashes/3814758816587523?f=rss",
+          "items": [
+            "11bdffedd61703e5"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-19/product-06.jpg"
+        },
+        {
+          "headline": "第三代英特尔酷睿开启全民 AI 轻薄本时代",
+          "summary": "英特尔发布第三代酷睿处理器，结合芯片与系统级创新，推动 AI 渗透至主流轻薄笔记本。",
+          "primary_url": "https://www.qbitai.com/2026/05/419585.html",
+          "items": [
+            "68e0ac1d2d4455c9"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-19/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Eric Schmidt 毕业演讲因鼓吹 AI 被学生嘘",
+          "summary": "前谷歌 CEO 在多个毕业典礼上因 AI 相关言论被学生和观众喝倒彩，反映公众对 AI 的普遍抵触。",
+          "primary_url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+          "items": [
+            "e82cce6df77d8164",
+            "5f636aff66d5f2d4",
+            "659c30879765cdfa"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/opinion-00.jpg"
+        },
+        {
+          "headline": "Mistral CEO 警告：欧洲两年内将成美国 AI 附庸",
+          "summary": "Mistral AI 首席执行官呼吁欧洲加速自主 AI 投资，否则将彻底依赖美国技术。",
+          "primary_url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+          "items": [
+            "9b5f9aed18c9ad41"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/opinion-01.jpg"
+        },
+        {
+          "headline": "LeCun 炮轰 Hinton：认可 LLM 是想退休摆烂",
+          "summary": "Yann LeCun 公开批评 Geoffrey Hinton 对 LLM 的支持，认为 Hinton 是为了轻松退休而放弃严谨。",
+          "primary_url": "https://www.qbitai.com/2026/05/419272.html",
+          "items": [
+            "b93479432665edfc"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/opinion-02.jpg"
+        },
+        {
+          "headline": "调查显示多数美国人不信任 AI 及管理者",
+          "summary": "多项民调显示公众对 AI 的信任度持续走低，对监管和开发者缺乏信心。",
+          "primary_url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+          "items": [
+            "9b55f3cece8d88dc",
+            "2a9d1e602a9ab0c4"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Daring Fireball：AI 是技术，不是产品",
+          "summary": "John Gruber 撰文指出 AI 应被视为底层技术基础设施，而非独立订阅产品。",
+          "primary_url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+          "items": [
+            "28abfc7a5d671a84"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 订阅模式被指为企业定时炸弹",
+          "summary": "分析文章指出企业依赖 AI 订阅面临成本失控、供应商锁定和数据安全三大风险。",
+          "primary_url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+          "items": [
+            "a455ae897ac12770"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/opinion-05.jpg"
+        },
+        {
+          "headline": "斯坦福学生反思：ChatGPT 课堂催生“轻微欺诈”",
+          "summary": "一名斯坦福学生发文，描述在允许使用 ChatGPT 的课堂中普遍存在的学术不诚实现象。",
+          "primary_url": "https://the-decoder.com/a-stanford-student-reflects-on-his-chatgpt-class-and-a-culture-of-just-a-little-bit-of-fraud/",
+          "items": [
+            "a991e57b8d292d6b"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/opinion-06.jpg"
+        },
+        {
+          "headline": "arXiv 最严新规：AI 水论文封号连坐",
+          "summary": "arXiv 针对 AI 生成论文推出严厉处罚措施，单篇封作者一年，多人署名连带承担责任，陶哲轩附议。",
+          "primary_url": "https://www.qbitai.com/2026/05/419528.html",
+          "items": [
+            "19ec19ab4c0e257e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Files.md 开源笔记工具登顶 HN，受称 Obsidian 替代品",
+          "summary": "开源项目 Files.md 在 HackerNews 上获得近500赞，旨在成为 Obsidian 的开源替代方案。",
+          "primary_url": "https://github.com/zakirullin/files.md",
+          "items": [
+            "3f75289b41f19782"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/opensource-00.jpg"
+        },
+        {
+          "headline": "Semble：让 AI 代理代码搜索节省 98% Token",
+          "summary": "专为 AI 代理设计的代码搜索工具 Semble，相比 grep 减少 98% 的 Token 消耗。",
+          "primary_url": "https://github.com/MinishLab/semble",
+          "items": [
+            "1f2d9f8a90c698c3"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-19/opensource-01.jpg"
+        },
+        {
+          "headline": "OpenHuman：开源个人 AI 超级智能助手",
+          "summary": "完全私有的本地 AI 助手 OpenHuman，支持聊天、RAG、语音等功能。",
+          "primary_url": "https://github.com/tinyhumansai/openhuman",
+          "items": [
+            "b6bec63a0b0a3f69"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "CLI-Anything：为所有软件添加 Agent 原生接口",
+          "summary": "香港大学团队开源 CLI-Anything，通过 CLI 使任意软件可被 AI Agent 操控。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/opensource-03.jpg"
+        },
+        {
+          "headline": "Anthropic 开源 Agent Skills 标准仓库",
+          "summary": "Anthropic 发布 Agent Skills 公共仓库，提供可验证的技能注册系统，支持 Claude Code 等 Agent 扩展。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/opensource-04.jpg"
+        },
+        {
+          "headline": "Agent-S 开源框架让 AI 像人类一样操作电脑",
+          "summary": "开源的 Agent-S 框架可模拟人类操作电脑，实现点击、拖拽等自动化任务。",
+          "primary_url": "https://github.com/simular-ai/Agent-S",
+          "items": [
+            "54844ab3ab59e7f5"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-19/opensource-05.jpg"
+        },
+        {
+          "headline": "微软开源 12 课时 AI Agent 入门课程",
+          "summary": "微软在 GitHub 上发布《AI Agents for Beginners》，面向初学者系统教学。",
+          "primary_url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "items": [
+            "f8146eaed44c8139"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "Langflow 低代码 AI Agent 构建平台更新",
+          "summary": "Langflow 是一个低代码平台，用于快速构建和部署 AI Agent 与工作流程。",
+          "primary_url": "https://github.com/langflow-ai/langflow",
+          "items": [
+            "51211f7c6d65f741"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-19/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-19"
+}
