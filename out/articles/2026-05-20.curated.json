@@ -1,0 +1,483 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌发布 Gemini 3.5 Flash，主打 agent 能力",
+          "summary": "Google I/O 2026 上正式推出 Gemini 3.5 Flash，面向 agent 场景优化，支持自主编程和复杂任务执行。",
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "items": [
+            "ce20abadd0ee8b70",
+            "b88ae519bdbfc993",
+            "67bddffb54333b38",
+            "58fd531c64b1a333",
+            "5c63af648a703450",
+            "d987eb5fc80ef5cf"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-05-20/model_release-00.jpg"
+        },
+        {
+          "headline": "谷歌推出 Gemini Omni，多模态生成视频",
+          "summary": "Gemini Omni 是新的原生多模态模型，可输入文本、图像、音频并直接生成视频，首发为 Omni Flash。",
+          "primary_url": "https://deepmind.google/models/gemini-omni/",
+          "items": [
+            "734bbdb65024d696",
+            "0326ebf186ff8534"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-20/model_release-01.jpg"
+        },
+        {
+          "headline": "Qwen 3.7 Max 预览版空降，文本和视觉双领域国产第一",
+          "summary": "阿里通义千问发布 Qwen 3.7 Max 预览版，在文本和视觉评测中均取得国产模型最佳成绩。",
+          "primary_url": "https://www.qbitai.com/2026/05/419822.html",
+          "items": [
+            "6bcbb2cb093dbf3a",
+            "7bf00b853c7cf86b"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-20/model_release-02.jpg"
+        },
+        {
+          "headline": "谷歌 Genie 世界模型接入 Street View，可模拟真实街道",
+          "summary": "DeepMind 将 Street View 与 Project Genie 结合，实现沉浸式交互式世界模拟，用于机器人、游戏和旅行。",
+          "primary_url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+          "items": [
+            "614badc2fb078089"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/model_release-03.jpg"
+        },
+        {
+          "headline": "Agora-1 多智能体世界模型，可四人联机玩《黄金眼》",
+          "summary": "Odyssey 发布 Agora-1，首个可玩的多智能体世界模型，将 N64 经典游戏转化为 AI 模拟。",
+          "primary_url": "https://odyssey.ml/introducing-agora-1",
+          "items": [
+            "e40e2de999580236",
+            "90a51ee1f53048e1",
+            "9c8995c000709019"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "陪审团一致裁决：马斯克起诉 OpenAI 太迟，败诉",
+          "summary": "Elon Musk 诉 Sam Altman 及 OpenAI 的 1340 亿美元诉讼被陪审团驳回，法官随即确认判决，马斯克称“日历技术问题”并提起上诉。",
+          "primary_url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+          "items": [
+            "f6c3611c212d2357",
+            "c9b9eff087762fc0",
+            "c265153f0ebc6e44",
+            "5dfb4130ee1332f4",
+            "f36bdde7d11ee9c6",
+            "050e5f96f44ec1ef"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-05-20/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 联创 Andrej Karpathy 加入 Anthropic 预训练团队",
+          "summary": "前 OpenAI 联合创始人 Karpathy 离开后重返前沿研究，选择加入 Anthropic 负责大规模预训练。",
+          "primary_url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+          "items": [
+            "8e4d75963e548b6c",
+            "c5e250f4577ce574"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-20/company-01.jpg"
+        },
+        {
+          "headline": "Mistral AI 收购维也纳物理 AI 创企 Emmi AI",
+          "summary": "法国 AI 公司 Mistral 收购 Emmi AI，以增强其在物理世界 AI 领域的能力。",
+          "primary_url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+          "items": [
+            "ab51ff953b49910e",
+            "97a4342dcc358bce"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-20/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 联合多家公司推广内容溯源与 SynthID 水印",
+          "summary": "OpenAI 宣布采用 C2PA 标准和 Google SynthID 水印，并推出验证工具，帮助识别 AI 生成内容。",
+          "primary_url": "https://openai.com/index/advancing-content-provenance",
+          "items": [
+            "fc859de69d6025f8",
+            "79bbfd478907e88c",
+            "aba8f44b380c9156",
+            "cda16100b66ea71f"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "百度无人车周订单破 35 万，李彦宏称开始单城盈利",
+          "summary": "百度 Apollo 无人驾驶出租车周订单达 35 万，已落地全球 27 城，开始实现单城市盈利。",
+          "primary_url": "https://www.qbitai.com/2026/05/419597.html",
+          "items": [
+            "6d0945db5ebed60e"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/company-04.jpg"
+        },
+        {
+          "headline": "Anthropic 发事故报告：三项产品调整导致 Claude Code 质量下降",
+          "summary": "Anthropic 公布调查结果，指出近六周 Claude Code 质量下降源于三处产品变更，已进行修复。",
+          "primary_url": "https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX",
+          "items": [
+            "f51f210ec718853e"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/company-05.jpg"
+        },
+        {
+          "headline": "Anthropic 首次揭秘下一代 Claude 训练方式：用户反馈直接用于模型训练",
+          "summary": "Anthropic 公开其下一代 Claude 的训练流程，包括利用用户吐槽和 AI “做梦” 数据进行强化学习。",
+          "primary_url": "https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok",
+          "items": [
+            "822b01dbea553dae"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-20/company-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Google DeepMind 用 AI 加速逆转细胞衰老研究",
+          "summary": "生物学家借助 Co-Scientist 系统发现并验证了可成功恢复人类细胞活力的新基因因子。",
+          "primary_url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "items": [
+            "91425cfed0c6fd4d"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-20/research-00.jpg"
+        },
+        {
+          "headline": "DashAttention：可微分自适应稀疏层次注意力机制",
+          "summary": "新方法 NSA/InfLLMv2 的基础上改进 top-k 块选择，实现更高效的层次化注意力。",
+          "primary_url": "http://arxiv.org/abs/2605.18753v1",
+          "items": [
+            "f813bf3be2de4664"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-20/research-01.jpg"
+        },
+        {
+          "headline": "Code as Agent Harness：用代码作为智能体控制框架",
+          "summary": "论文提出将代码视为智能体执行环境的范式，用于复杂的自主编程场景。",
+          "primary_url": "http://arxiv.org/abs/2605.18747v1",
+          "items": [
+            "3086509cfce4f507"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-20/research-02.jpg"
+        },
+        {
+          "headline": "EndoCogniAgent：内镜诊断的闭环自主推理框架",
+          "summary": "基于自一致性验证的 agent 系统，模拟临床医生逐步获取局部证据进行诊断。",
+          "primary_url": "http://arxiv.org/abs/2508.07292v3",
+          "items": [
+            "eda6875ce379ef9b"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-20/research-03.jpg"
+        },
+        {
+          "headline": "TeleRAG：带预检索的高效 RAG 推理系统",
+          "summary": "通过 lookahead 检索机制减少 RAG 流水线的延迟。",
+          "primary_url": "http://arxiv.org/abs/2502.20969v4",
+          "items": [
+            "70c3ca86d49bad18"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-20/research-04.jpg"
+        },
+        {
+          "headline": "EnvFactory：通过可执行环境合成扩展工具使用 agent",
+          "summary": "提出 scalable 的 agentic RL 训练环境生成方法。",
+          "primary_url": "http://arxiv.org/abs/2605.18703v1",
+          "items": [
+            "74a7f1fdb0aa7654"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-20/research-05.jpg"
+        },
+        {
+          "headline": "Evo-Memory：评测 LLM agent 测试时学习与自演化记忆",
+          "summary": "新的基准和框架，关注 agent 的长期记忆管理和演化能力。",
+          "primary_url": "http://arxiv.org/abs/2511.20857v2",
+          "items": [
+            "f3dd10482d3eaa56"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-20/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Cursor 发布 Composer 2.5，性能追平 Opus 4.7 和 GPT-5.5",
+          "summary": "Cursor 推出 Composer 2.5 模型，以十分之一成本达到前沿模型水平，在编程 agent 评测中表现突出。",
+          "primary_url": "https://cursor.com/blog/composer-2-5",
+          "items": [
+            "03273a2a73ac5658",
+            "babc6487e6d0ac89",
+            "074cb929b8712837"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-20/product-00.jpg"
+        },
+        {
+          "headline": "谷歌推出 Antigravity 2.0：独立 agent 平台",
+          "summary": "Google I/O 发布 Antigravity 2.0，包含桌面应用和 CLI 工具，支持 agent 编排和企业级部署。",
+          "primary_url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+          "items": [
+            "c6401c1226027905",
+            "4a68f5dd418c024b"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-20/product-01.jpg"
+        },
+        {
+          "headline": "谷歌推出 Gemini Spark：全天候 agent 个人助手",
+          "summary": "基于 Gemini 模型和 Antigravity 框架，Gemini Spark 可 24/7 执行任务，集成 Gmail、购物等。",
+          "primary_url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+          "items": [
+            "a937b4c3c42c0c63",
+            "df717797b8aeb37f"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-20/product-02.jpg"
+        },
+        {
+          "headline": "谷歌全面改造搜索：AI 结果取代链接列表",
+          "summary": "Google Search 升级为 AI 驱动的对话式、agentic 体验，包括信息 agent、通用购物车等。",
+          "primary_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+          "items": [
+            "a74374bf44ada6e8",
+            "1fd1d68a52ed859c",
+            "ec73e2d1f8a19c65",
+            "10df083e532472e4",
+            "c22dd47eeb2457cf"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-20/product-03.jpg"
+        },
+        {
+          "headline": "谷歌推出 AI 订阅三档计划，起价 $10/月",
+          "summary": "Google 重构 AI 订阅体系，新增 AI Ultra 档（$100/月），提供 5 倍用量和 Antigravity 2.0。",
+          "primary_url": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/",
+          "items": [
+            "69d0f886ab45793d"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-20/product-04.jpg"
+        },
+        {
+          "headline": "谷歌发布 Android CLI，助力 agent 编程",
+          "summary": "Google 推出 Android 命令行工具，支持 Claude Code、OpenAI Codex 等 agent 直接构建应用。",
+          "primary_url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+          "items": [
+            "188b491aae935d26"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/product-05.jpg"
+        },
+        {
+          "headline": "Cloudflare：Anthropic Mythos 发现此前未发现的漏洞链",
+          "summary": "Cloudflare 报告称 Anthropic 的 Mythos 预览版能自动发现复杂漏洞链，超越此前所有 frontier 模型。",
+          "primary_url": "https://blog.cloudflare.com/cyber-frontier-models/",
+          "items": [
+            "efd8cdc01f94b7a3",
+            "142d4455b9b4ed57"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/product-06.jpg"
+        },
+        {
+          "headline": "Anthropic 为 Claude Managed Agents 增加自托管沙箱和 MCP 隧道",
+          "summary": "Anthropic 推出新安全功能，允许企业自托管沙箱并建立 MCP 安全隧道。",
+          "primary_url": "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/",
+          "items": [
+            "b0065ef93354bd01"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-20/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Simón Willison 五分钟回顾 LLM 六个月进展",
+          "summary": "技术博主 Simon Willison 在 PyCon US 2026 做闪电演讲，总结近半年 LLM 领域关键变化。",
+          "primary_url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+          "items": [
+            "3f3509bd0b6b7771",
+            "9e07009fbc6a0dd3"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-20/opinion-00.jpg"
+        },
+        {
+          "headline": "AI 成本过高，引发行业反思",
+          "summary": "专栏文章《AI is too expensive》登上 Hacker News 热榜，讨论当前 AI 部署的经济可行性瓶颈。",
+          "primary_url": "https://www.wheresyoured.at/ai-is-too-expensive/",
+          "items": [
+            "a61285849d5c1465"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/opinion-01.jpg"
+        },
+        {
+          "headline": "美国反 AI 情绪正在高涨——WSJ",
+          "summary": "华尔街日报报道，美国民众对 AI 的反弹情绪加剧，抗议和抵制活动增加。",
+          "primary_url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+          "items": [
+            "52aa026424ea9e34"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "DeepMind CEO Demis Hassabis 认为 AI 裁员是愚蠢的",
+          "summary": "Demis Hassabis 在采访中表示，企业应该用 AI 提高生产力而不是裁员。",
+          "primary_url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+          "items": [
+            "d49acf7fdfde7e54"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/opinion-03.jpg"
+        },
+        {
+          "headline": "arXiv 新规：AI 水论文将封号一年，署名连坐",
+          "summary": "arXiv 发布最严格政策，打击 AI 辅助生成的低质量论文，陶哲轩表示支持。",
+          "primary_url": "https://www.qbitai.com/2026/05/419528.html",
+          "items": [
+            "19ec19ab4c0e257e"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/opinion-04.jpg"
+        },
+        {
+          "headline": "两位 AI 科学助手在药物重定向任务中取得成功",
+          "summary": "Ars Technica 报道两个 AI 科学助手系统能独立提出假设并分析数据，用于药物重定位。",
+          "primary_url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+          "items": [
+            "4e99b2331d7afdd9"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-20/opinion-05.jpg"
+        },
+        {
+          "headline": "前 OpenAI 员工警告 xAI 安全记录可能影响 SpaceX IPO",
+          "summary": "新成立的 AI  watchdog 组织敦促投资者关注 xAI 安全实践，在 SpaceX 上市前获取更多信息。",
+          "primary_url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+          "items": [
+            "b71429785f13dfa0"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-20/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenHuman：开源个人 AI 超级智能",
+          "summary": "GitHub 新星项目，旨在提供私有、简单、强大的个人 AI 助手。",
+          "primary_url": "https://github.com/tinyhumansai/openhuman",
+          "items": [
+            "b6bec63a0b0a3f69"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/opensource-00.jpg"
+        },
+        {
+          "headline": "CLI-Anything：让所有软件成为 agent 原生",
+          "summary": "HKU 开源项目，通过 CLI 接口使任意软件可被 AI agent 调用。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "Forge：开源 agent 护栏层，8B 模型从 53% 提升至 99%",
+          "summary": "Texas Instruments 开发的开源工具，为自托管 LLM 工具调用提供可靠性守护。",
+          "primary_url": "https://github.com/antoinezambelli/forge",
+          "items": [
+            "70ceb49c6224195d"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "Files.md：开源 Obsidian 替代品",
+          "summary": "轻量级 Markdown 笔记工具，支持双向链接，Hacker News 热议。",
+          "primary_url": "https://github.com/zakirullin/files.md",
+          "items": [
+            "3f75289b41f19782"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-20/opensource-03.jpg"
+        },
+        {
+          "headline": "12-Factor Agents：构建可靠 LLM 应用的准则",
+          "summary": "HumanLayer 发布原则指南，帮助开发者生产级 agent 应用。",
+          "primary_url": "https://github.com/humanlayer/12-factor-agents",
+          "items": [
+            "d86b748b3887cdfa"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Supertonic：快速离线多语言 TTS",
+          "summary": "基于 ONNX 的本地 TTS 引擎，支持多语言。",
+          "primary_url": "https://github.com/supertone-inc/supertonic",
+          "items": [
+            "4d6c50486fd77093"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Scientific Agent Skills：即用型研究 agent 技能套件",
+          "summary": "一套面向科学研究的 agent 技能，覆盖分析、写作、工程等。",
+          "primary_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "items": [
+            "f1ac3c1559abd3df"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "moon v2.0：引入 WASM 插件和重构 CLI",
+          "summary": "Moonrepo 发布 v2.0，支持 WASM 插件工具链。",
+          "primary_url": "https://www.infoq.cn/article/0bxNrhH2ott9yfRwpCJW",
+          "items": [
+            "363b0cb6594db9a5"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-20/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-20"
+}
