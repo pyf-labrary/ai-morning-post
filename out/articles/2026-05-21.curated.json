@@ -1,0 +1,429 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini 3.5 Flash 正式发布，更快更便宜",
+          "summary": "Google在I/O 2026上发布Gemini 3.5 Flash，速度提升4倍，成本减半，在编程和智能体基准上超越上一代，即日可用。",
+          "importance": 10,
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "items": [
+            "ce20abadd0ee8b70",
+            "b88ae519bdbfc993",
+            "5c63af648a703450",
+            "5936930bf8eb243b",
+            "67bddffb54333b38",
+            "79c0266cc6f0f223",
+            "d987eb5fc80ef5cf",
+            "014bcc2968d18211",
+            "84cec95067ec9a93"
+          ],
+          "cover_path": "out/media/2026-05-21/model_release-00.jpg"
+        },
+        {
+          "headline": "Google推出全能模型Gemini Omni，支持视频生成",
+          "summary": "Gemini Omni可从任意输入（包括视频）创建内容，是Google多模态能力的重大升级。",
+          "importance": 9,
+          "primary_url": "https://deepmind.google/models/gemini-omni/",
+          "items": [
+            "0326ebf186ff8534",
+            "63d397d024ec6a79"
+          ],
+          "cover_path": "out/media/2026-05-21/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里云发布旗舰模型Qwen3.7-Max，专为Agent优化",
+          "summary": "Qwen3.7-Max在Agent任务上表现优异，阿里云同步升级全栈AI产品体系。",
+          "importance": 8,
+          "primary_url": "https://qwen.ai/blog?id=qwen3.7",
+          "items": [
+            "fb18289f98467575",
+            "dcdc3c57b5974e63"
+          ]
+        },
+        {
+          "headline": "Stability AI 发布 Stable Audio 3.0，生成长达6分钟歌曲",
+          "summary": "新模型支持6分钟音乐生成，小型模型可本地运行，并开放权重。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/stability-ai-launches-stable-audio-3-0-with-up-to-six-minute-tracks-and-open-weights/",
+          "items": [
+            "f981a0e63bf6ff11",
+            "69d1b50ad0daf8b1"
+          ],
+          "cover_path": "out/media/2026-05-21/model_release-03.jpg"
+        },
+        {
+          "headline": "Deepseek 开发代码工具 Deepseek Code，对标 Claude Code",
+          "summary": "Deepseek正在构建类似Claude Code和Codex的AI编程助手，意图进入开发者工具市场。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/",
+          "items": [
+            "c814f114939811dd"
+          ],
+          "cover_path": "out/media/2026-05-21/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 加速推进IPO，或于九月上市",
+          "summary": "在马斯克诉讼案败诉后，OpenAI恢复IPO筹备，据报可能于2026年9月上市。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+          "items": [
+            "6b3324d8abb717a6"
+          ],
+          "cover_path": "out/media/2026-05-21/company-00.jpg"
+        },
+        {
+          "headline": "GitHub 遭恶意VSCode扩展入侵，3800个仓库受影响",
+          "summary": "GitHub确认安全事件，攻击者通过恶意VSCode扩展访问内部仓库，影响3800个仓库。",
+          "importance": 9,
+          "primary_url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+          "items": [
+            "3fabad48f4c9cf6e",
+            "46287ca96872c1e2",
+            "6d51572c395825df"
+          ],
+          "cover_path": "out/media/2026-05-21/company-01.jpg"
+        },
+        {
+          "headline": "NVIDIA 财报再创纪录，披露持有43亿美元初创公司股份",
+          "summary": "NVIDIA发布最新财报，营收再创新高，同时透露持有大量AI初创公司股份，总额达430亿美元。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+          "items": [
+            "ac97530760da3112"
+          ],
+          "cover_path": "out/media/2026-05-21/company-02.jpg"
+        },
+        {
+          "headline": "xAI 亏损64亿美元，SpaceX IPO文件曝光财务状况",
+          "summary": "SpaceX IPO文件显示xAI在2025年亏损64亿美元，并计划大规模扩张Grok，同时面临数据中心发电机诉讼。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+          "items": [
+            "8f55fc03c8b03d4d",
+            "7d71cf45276c8fa1",
+            "f2ec6fb325e1145f"
+          ],
+          "cover_path": "out/media/2026-05-21/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic 将每月向xAI支付12.5亿美元计算资源费用",
+          "summary": "据TechCrunch报道，Anthropic与xAI达成协议，每月支付12.5亿美元获取算力，金额惊人。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+          "items": [
+            "01d2502897653339"
+          ],
+          "cover_path": "out/media/2026-05-21/company-04.jpg"
+        },
+        {
+          "headline": "Andrej Karpathy 离开OpenAI加入Anthropic",
+          "summary": "著名AI研究员Andrej Karpathy选择加入Anthropic，重返前沿LLM研究，引发业界关注。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research/",
+          "items": [
+            "8e4d75963e548b6c",
+            "fa8e8ffbdc21e1f3"
+          ],
+          "cover_path": "out/media/2026-05-21/company-05.jpg"
+        },
+        {
+          "headline": "Google SynthID 被OpenAI和Nvidia采用，AI水印走向行业标准",
+          "summary": "Google的AI水印技术SynthID获得OpenAI和Nvidia等巨头的采用，共同推动内容溯源。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/advancing-content-provenance/",
+          "items": [
+            "79bbfd478907e88c",
+            "cda16100b66ea71f"
+          ]
+        },
+        {
+          "headline": "Mistral AI 收购 AI 初创公司 Emmi AI",
+          "summary": "Mistral AI宣布收购Emmi AI，以增强自身在AI应用领域的实力。",
+          "importance": 7,
+          "primary_url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+          "items": [
+            "121476d919491040"
+          ],
+          "cover_path": "out/media/2026-05-21/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI模型破解80年未解数学猜想",
+          "summary": "OpenAI的推理模型推翻了自1946年悬而未决的离散几何猜想，经数学家验证，成果获得认可。",
+          "importance": 10,
+          "primary_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+          "items": [
+            "7f0a16c1fc625fed",
+            "9ac2e9a5febeb10f"
+          ]
+        },
+        {
+          "headline": "NVIDIA发布Nemotron-Labs-Diffusion，三模式语言模型",
+          "summary": "该模型支持自回归、扩散并行和自推测解码三种模式，在同等计算下生成6倍token。",
+          "importance": 7,
+          "primary_url": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+          "items": [
+            "685ebd49937821a2"
+          ],
+          "cover_path": "out/media/2026-05-21/research-01.jpg"
+        },
+        {
+          "headline": "两个AI科研助手成功完成药物重定位任务",
+          "summary": "两个AI工具分别生成假设并分析数据，在药物重定位任务中展现潜力。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+          "items": [
+            "4e99b2331d7afdd9"
+          ],
+          "cover_path": "out/media/2026-05-21/research-02.jpg"
+        },
+        {
+          "headline": "AI智能体修复局部漏洞但缺乏系统理解",
+          "summary": "基准测试显示AI能修复独立漏洞但难以把握系统范围影响，说明当前智能体局限性。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL",
+          "items": [
+            "409a0dd8c2d63c31"
+          ],
+          "cover_path": "out/media/2026-05-21/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Google搜索全面Agent化：AI代理永久在线执行任务",
+          "summary": "Google在I/O宣布搜索升级为Agent驱动，用户可创建后台代理监控数据、自动下单等。",
+          "importance": 9,
+          "primary_url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+          "items": [
+            "cd068301b6fb98f4",
+            "a74374bf44ada6e8",
+            "ec73e2d1f8a19c65",
+            "d987eb5fc80ef5cf"
+          ],
+          "cover_path": "out/media/2026-05-21/product-00.jpg"
+        },
+        {
+          "headline": "Google发布Antigravity 2.0：独立的Agent原生平台",
+          "summary": "Antigravity 2.0作为独立桌面应用，提供CLI、SDK、托管执行和企业支持，替代Gemini CLI。",
+          "importance": 8,
+          "primary_url": "https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-i-o-2026-a-standalone-agent-first-platform-with-cli-sdk-managed-execution-and-enterprise-support/",
+          "items": [
+            "4a68f5dd418c024b",
+            "c1a5b1b30ac47761",
+            "014bcc2968d18211"
+          ],
+          "cover_path": "out/media/2026-05-21/product-01.jpg"
+        },
+        {
+          "headline": "Google Genie世界模型结合街景，生成可探索实景世界",
+          "summary": "DeepMind将Genie与街景结合，创造基于真实地点的交互式3D模拟，可用于游戏、机器人训练等。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/",
+          "items": [
+            "9d6f94cb8e2f5fbf",
+            "614badc2fb078089"
+          ],
+          "cover_path": "out/media/2026-05-21/product-02.jpg"
+        },
+        {
+          "headline": "Google发布AI智能眼镜，语音交互加持Gemini",
+          "summary": "Google推出音频智能眼镜，支持语音命令操控Gemini，对标Meta Ray-Ban。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+          "items": [
+            "57a07f66bd8afc3c"
+          ],
+          "cover_path": "out/media/2026-05-21/product-03.jpg"
+        },
+        {
+          "headline": "Figma 加入AI助手，自然语言驱动设计",
+          "summary": "Figma发布AI agent，用户可通过自然语言指令生成和编辑设计，自动化重复任务。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+          "items": [
+            "38a9810a70c07a78"
+          ],
+          "cover_path": "out/media/2026-05-21/product-04.jpg"
+        },
+        {
+          "headline": "Anthropic 推出Routines for Claude Code，自动化工作流",
+          "summary": "Anthropic发布Claude Code的Routines功能，支持创建和执行重复性开发任务。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/pqiTGU8VMOZ1fOZh8H98",
+          "items": [
+            "f4c54a8fb10d9a1e"
+          ],
+          "cover_path": "out/media/2026-05-21/product-05.jpg"
+        },
+        {
+          "headline": "Google Gmail 新增AI语音搜索，对话式检索邮件",
+          "summary": "Gmail引入语音AI搜索，用户可用自然语言查找邮件详情，基于Gemini。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+          "items": [
+            "a7330605109a2f1a"
+          ],
+          "cover_path": "out/media/2026-05-21/product-06.jpg"
+        },
+        {
+          "headline": "Cloudflare Workflows V2 支持5万并发工作流",
+          "summary": "Cloudflare推出Workflows V2，实现确定性执行和5万并发工作流，适合大规模AI任务编排。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/6wOv9VbhvJ7D3tJAQHJH",
+          "items": [
+            "74bf4a7fdafcb201"
+          ],
+          "cover_path": "out/media/2026-05-21/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "LinkedIn 承认AI垃圾信息失控，与平台政策形同虚设",
+          "summary": "LinkedIn宣布打击AI生成的低质量内容，但被视为承认平台已失去对信息流的控制。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/",
+          "items": [
+            "84fa6030ecef20fd"
+          ],
+          "cover_path": "out/media/2026-05-21/opinion-00.jpg"
+        },
+        {
+          "headline": "毕业生在毕业典礼上集体嘘AI赞歌，嘲讽科技乐观主义",
+          "summary": "多所大学毕业生在毕业典礼上对赞扬AI的演讲喝倒彩，表达对AI焦虑和未来就业的担忧。",
+          "importance": 7,
+          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+          "items": [
+            "bd7e7cff75ea475d",
+            "0965db6dd5736e7a"
+          ]
+        },
+        {
+          "headline": "DeepMind CEO称AI裁员很蠢，应利用生产力提升扩大业务",
+          "summary": "Demis Hassabis在采访中认为公司应使用AI提升产能而非裁员，否则是短视行为。",
+          "importance": 7,
+          "primary_url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+          "items": [
+            "d49acf7fdfde7e54"
+          ],
+          "cover_path": "out/media/2026-05-21/opinion-02.jpg"
+        },
+        {
+          "headline": "AI成本过高：模型涨价引发开发者担忧",
+          "summary": "多家模型相继提价，包括Gemini 3.5 Flash，引发社区对AI使用成本飙升的讨论。",
+          "importance": 6,
+          "primary_url": "https://www.wheresyoured.at/ai-is-too-expensive/",
+          "items": [
+            "a61285849d5c1465"
+          ],
+          "cover_path": "out/media/2026-05-21/opinion-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Forge：开源守卫层让小模型Agent任务准确率从53%升至99%",
+          "summary": "Forge是一个自托管LLM工具调用的可靠性层，通过守卫机制大幅提升开源模型在Agent任务上的表现。",
+          "importance": 7,
+          "primary_url": "https://github.com/antoinezambelli/forge",
+          "items": [
+            "70ceb49c6224195d"
+          ]
+        },
+        {
+          "headline": "Anthropic 官方发布 Claude Skills 目录和插件仓库",
+          "summary": "Anthropic推出官方Claude Code插件目录和Skills仓库，汇集高质量技能和社区贡献。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d",
+            "27a529bcd16d86aa"
+          ]
+        },
+        {
+          "headline": "OpenHuman：开源个人AI超级智能，注重隐私",
+          "summary": "OpenHuman是一个开源项目，旨在提供私有、简单的个人AI助手，功能强大。",
+          "importance": 5,
+          "primary_url": "https://github.com/tinyhumansai/openhuman",
+          "items": [
+            "b6bec63a0a0b3f69"
+          ]
+        },
+        {
+          "headline": "CLI-Anything：让所有软件变成Agent原生接口",
+          "summary": "该项目旨在通过CLI将各种软件改造为可供AI agent调用的接口，推动Agent原生交互。",
+          "importance": 5,
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-05-21/opensource-03.jpg"
+        },
+        {
+          "headline": "CodeGraph：本地代码知识图提升AI编码效率",
+          "summary": "CodeGraph为Claude Code、Cursor等提供预索引代码知识图，减少token消耗和工具调用。",
+          "importance": 5,
+          "primary_url": "https://github.com/colbymchenry/codegraph",
+          "items": [
+            "49188edeea81efcf"
+          ]
+        },
+        {
+          "headline": "agentmemory：AI编码代理持久化记忆库",
+          "summary": "基于基准测试第一的持久化记忆方案，为AI代理提供长期记忆能力。",
+          "importance": 5,
+          "primary_url": "https://github.com/rohitg00/agentmemory",
+          "items": [
+            "78a1db22ea11c2e2"
+          ],
+          "cover_path": "out/media/2026-05-21/opensource-05.jpg"
+        },
+        {
+          "headline": "CloakBrowser：防检测隐身浏览器，通过所有bot测试",
+          "summary": "基于Chromium的隐身浏览器，可绕过所有bot检测，可作为Playwright的替代品。",
+          "importance": 5,
+          "primary_url": "https://github.com/CloakHQ/CloakBrowser",
+          "items": [
+            "6f4eb598e3b080c0"
+          ],
+          "cover_path": "out/media/2026-05-21/opensource-06.jpg"
+        },
+        {
+          "headline": "RTK (Rust Token Killer)：减少LLM token消耗60-90%",
+          "summary": "一个纯Rust编写的CLI代理，通过缓存和压缩大幅降低常见开发命令的token消耗。",
+          "importance": 5,
+          "primary_url": "https://github.com/rtk-ai/rtk",
+          "items": [
+            "d4d7434ec434c586"
+          ],
+          "cover_path": "out/media/2026-05-21/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-21"
+}
