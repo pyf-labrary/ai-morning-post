@@ -1,0 +1,387 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "OpenAI“GPT-next”首次自主攻克80年未解数学难题",
+          "summary": "OpenAI声称其推理模型成功解决了1946年至今未解的平面单位距离问题（Erdos problem），得到菲尔兹奖得主认可，成本不到1000美元。",
+          "primary_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+          "items": [
+            "7f0a16c1fc625fed",
+            "ed22b781c915b25f",
+            "bb0b13bf79d38e5e",
+            "b319febb3ed76f07",
+            "9ac2e9a5febeb10f"
+          ]
+        },
+        {
+          "headline": "Cohere开源218B稀疏MoE模型Command A+，两卡可跑",
+          "summary": "Cohere发布Command A+，218B参数稀疏MoE，支持48种语言，可在两张H100上运行，是Cohere首个开源最强模型。",
+          "primary_url": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/",
+          "items": [
+            "af05758250f61929",
+            "010597d77c3674e9"
+          ],
+          "cover_path": "out/media/2026-05-22/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里云发布Qwen3.7-Max，登顶国产模型榜首",
+          "summary": "全新千问旗舰模型Qwen3.7-Max拥有1M token上下文窗口，在Artificial Analysis评测中获国产第一全球前五。",
+          "primary_url": "https://www.infoq.cn/article/jAICqmzYVqQ8sHdGSzEH",
+          "items": [
+            "863f695e288b6a04",
+            "0467dc7ae849211b",
+            "25ec847447341e8"
+          ],
+          "cover_path": "out/media/2026-05-22/model_release-02.jpg"
+        },
+        {
+          "headline": "字节跳动开源Lance：统一图像视频理解与生成",
+          "summary": "字节跳动智能创作实验室开源Lance，一个3B参数的原生多模态模型，同时支持图像视频的理解、生成和编辑。",
+          "primary_url": "https://www.marktechpost.com/2026/05/21/one-model-three-modalities-bytedance-releases-lance-for-image-and-video-understanding-generation-and-editing/",
+          "items": [
+            "43db70d2bd9f82bb"
+          ],
+          "cover_path": "out/media/2026-05-22/model_release-03.jpg"
+        },
+        {
+          "headline": "腾讯混元开源翻译模型Hy-MT2，指令遵循能力大幅提升",
+          "summary": "腾讯混元发布新一代翻译模型Hy-MT2，并上线微信小程序“腾讯Hy翻译”。",
+          "primary_url": "https://www.qbitai.com/2026/05/422068.html",
+          "items": [
+            "b02c9107d225a966"
+          ],
+          "cover_path": "out/media/2026-05-22/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "SpaceX IPO文件曝光：xAI去年亏64亿，计划买28亿涡轮机",
+          "summary": "SpaceX提交IPO申请，首次公开xAI财务数据（2025年亏损64亿美元），并计划购买28亿美元天然气轮机用于AI数据中心，同时披露与Anthropic的150亿美元/年算力交易。",
+          "primary_url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+          "items": [
+            "348244c67ca496c4",
+            "eeed1051c220bd08",
+            "b83bbd9f34dddd08",
+            "4c4e54cfad43e1e4",
+            "43fa5628c2cdf14b",
+            "7d71cf45276c8fa1",
+            "01d2502897653339",
+            "52bf239bf435d886",
+            "f2ec6fb325e1145f"
+          ],
+          "cover_path": "out/media/2026-05-22/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic预计下季度盈利，年化营收超百亿",
+          "summary": "Anthropic向投资者表示Q2营收将达109亿美元，实现首个盈利季度，超越其他AI实验室。",
+          "primary_url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+          "items": [
+            "01bef81ee37c34f3",
+            "278739cf4af2ced3"
+          ],
+          "cover_path": "out/media/2026-05-22/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI加速IPO进程，或9月上市",
+          "summary": "在马斯克诉讼失败后，OpenAI重新推进IPO，最快本周提交保密文件，目标9月上市。",
+          "primary_url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+          "items": [
+            "60d435a711645e4e",
+            "6b3324d8abb717a6",
+            "bae2c0c5fb421d5d"
+          ],
+          "cover_path": "out/media/2026-05-22/company-02.jpg"
+        },
+        {
+          "headline": "Nvidia财报创纪录，持仓430亿美元AI初创",
+          "summary": "Nvidia Q1营收再创新高，同时披露持有多家AI初创公司共430亿美元股权。",
+          "primary_url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+          "items": [
+            "72e611c1f963909b"
+          ],
+          "cover_path": "out/media/2026-05-22/company-03.jpg"
+        },
+        {
+          "headline": "GitHub确认3800仓库遭VSCode恶意扩展攻击",
+          "summary": "GitHub确认一起安全事件，恶意VSCode扩展导致3800个仓库代码泄露，目前正在调查。",
+          "primary_url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+          "items": [
+            "3fabad48f4c9cf6e"
+          ],
+          "cover_path": "out/media/2026-05-22/company-04.jpg"
+        },
+        {
+          "headline": "Meta裁员10%，聚焦AI研发",
+          "summary": "据内部消息，Meta计划裁减约10%员工，将资源集中投向AI和元宇宙。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
+          "items": [
+            "9a443fc778ac922c",
+            "66f266c80fcf96ee"
+          ],
+          "cover_path": "out/media/2026-05-22/company-05.jpg"
+        },
+        {
+          "headline": "Intuit裁员3000人，全面转向AI",
+          "summary": "Intuit宣布裁减3000名员工，将资源重新聚焦于人工智能技术。",
+          "primary_url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+          "items": [
+            "af6dc50717950ba7"
+          ],
+          "cover_path": "out/media/2026-05-22/company-06.jpg"
+        },
+        {
+          "headline": "神秘AI创业公司Hark获7亿美元A轮，打造通用AI界面",
+          "summary": "初创公司Hark完成7亿美元A轮融资，计划推出首个多模态模型和硬件设备，构建个人AI平台。",
+          "primary_url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+          "items": [
+            "99441e0cc7f2cc88"
+          ],
+          "cover_path": "out/media/2026-05-22/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "AI首次实现中国风光发电普查，北大达摩院合作登Nature",
+          "summary": "北京大学与阿里达摩院合作，利用AI首次完成中国风能太阳能发电全景普查，论文发表于《自然》。",
+          "primary_url": "https://www.qbitai.com/2026/05/422002.html",
+          "items": [
+            "2071aeee961e9c37"
+          ],
+          "cover_path": "out/media/2026-05-22/research-00.jpg"
+        },
+        {
+          "headline": "复旦交大发布可检索空间记忆，助力自动驾驶",
+          "summary": "复旦可信具身智能研究院与上海交大联合提出‘空间记忆’检索方法，可提升自动驾驶场景理解能力，论文被CVPR 2026接收。",
+          "primary_url": "https://www.leiphone.com/category/ai/lBfDuOrZbIkFXyzW.html",
+          "items": [
+            "e13cf72a3053de35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Google I/O 2026：搜索将被Agentic AI重塑",
+          "summary": "Google在I/O大会上宣布将用AI agent彻底改造搜索体验，同时推出Gemini Spark等一系列Agent产品。",
+          "primary_url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+          "items": [
+            "cd068301b6fb98f4",
+            "84cec95067ec9a93",
+            "8f1344a0995a66e3",
+            "831d74ab5e5ad5cb"
+          ],
+          "cover_path": "out/media/2026-05-22/product-00.jpg"
+        },
+        {
+          "headline": "Spotify与环球音乐达成AI翻唱协议，粉丝可创作AI翻唱",
+          "summary": "Spotify与环球音乐合作，允许Premium订阅用户创作AI歌曲翻唱和混音，参与艺术家获得收入分成。",
+          "primary_url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+          "items": [
+            "80f252f16cdeb910"
+          ],
+          "cover_path": "out/media/2026-05-22/product-01.jpg"
+        },
+        {
+          "headline": "Figure AI机器人24小时直播搬运包裹，网友看呆",
+          "summary": "Figure AI的人形机器人开启24/7直播，演示其在仓库中处理包裹的能力，引发网络广泛关注。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+          "items": [
+            "6cf4a8f068517cef"
+          ],
+          "cover_path": "out/media/2026-05-22/product-02.jpg"
+        },
+        {
+          "headline": "Anthropic推出Claude Code例程，简化重复任务",
+          "summary": "Anthropic发布'Routines'功能，允许用户为Claude Code创建可复用的指令模板。",
+          "primary_url": "https://www.infoq.cn/article/pqiTGU8VMOZ1fOZh8H98",
+          "items": [
+            "f4c54a8fb10d9a1e"
+          ],
+          "cover_path": "out/media/2026-05-22/product-03.jpg"
+        },
+        {
+          "headline": "DeepSeek开发编码Agent“DeepSeek Code”，对标Claude Code",
+          "summary": "DeepSeek正在构建自主编码代理，计划与Claude Code和OpenAI Codex竞争。",
+          "primary_url": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/",
+          "items": [
+            "c814f114939811dd"
+          ],
+          "cover_path": "out/media/2026-05-22/product-04.jpg"
+        },
+        {
+          "headline": "谷歌推出Agent兼容性审计，查验网站llms.txt",
+          "summary": "Google开始测试新的agentic browsing audit，检查网站是否支持llms.txt和agent兼容性。",
+          "primary_url": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
+          "items": [
+            "e0a6d7c374665f95"
+          ],
+          "cover_path": "out/media/2026-05-22/product-05.jpg"
+        },
+        {
+          "headline": "Spotify推出AI播客Q&A和个人简报生成",
+          "summary": "Spotify新增AI问答和日/周简报生成功能，并发布桌面应用用于创建个人播客，类似NotebookLM。",
+          "primary_url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+          "items": [
+            "464232e301357b53",
+            "3ad8ef954ecb6f40"
+          ],
+          "cover_path": "out/media/2026-05-22/product-06.jpg"
+        },
+        {
+          "headline": "Cloudflare与Stripe联手，让AI Agent自主创建账户和购买域名",
+          "summary": "两家公司推出新协议，允许AI Agent通过API自主完成账户注册、域名购买和部署等操作。",
+          "primary_url": "https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU",
+          "items": [
+            "071afafbf4c9e5b1"
+          ],
+          "cover_path": "out/media/2026-05-22/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "黄仁勋：AI Agent将带来2000亿美元CPU新市场",
+          "summary": "黄仁勋在采访中预测，专为AI代理设计的CPU将创造2000亿美元新市场。",
+          "primary_url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+          "items": [
+            "f3d651c1b83030ea"
+          ],
+          "cover_path": "out/media/2026-05-22/opinion-00.jpg"
+        },
+        {
+          "headline": "特朗普推迟AI安全行政令，担忧阻碍领先",
+          "summary": "特朗普总统推迟签署要求AI模型上市前安全审查的行政令，称其语言“可能成为障碍”。",
+          "primary_url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+          "items": [
+            "dd1c6ad3babeaddf"
+          ],
+          "cover_path": "out/media/2026-05-22/opinion-01.jpg"
+        },
+        {
+          "headline": "LinkedIn新政策难阻AI垃圾内容，平台失控？",
+          "summary": "文章批评LinkedIn应对AI生成低质内容的新政策只是承认平台已失去对信息流的控制。",
+          "primary_url": "https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/",
+          "items": [
+            "84fa6030ecef20fd"
+          ],
+          "cover_path": "out/media/2026-05-22/opinion-02.jpg"
+        },
+        {
+          "headline": "学生示威：AI赞歌毕业演讲遭全场嘘声",
+          "summary": "多名大学毕业生在毕业典礼上对赞扬AI的演讲报以嘘声，一位演讲者当场回击。",
+          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+          "items": [
+            "bd7e7cff75ea475d"
+          ]
+        },
+        {
+          "headline": "BBC揭露：谷歌AI正被操纵，搜索巨头悄然反击",
+          "summary": "报道称谷歌的AI搜索结果正受到大量操纵尝试，谷歌正在采取隐蔽措施对抗。",
+          "primary_url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+          "items": [
+            "31b9bc653cda650e"
+          ],
+          "cover_path": "out/media/2026-05-22/opinion-04.jpg"
+        },
+        {
+          "headline": "Cloudflare CEO谈如何选择被AI替代的员工",
+          "summary": "Cloudflare CEO在WSJ采访中解释其决定哪些岗位由AI替代的考量标准，引发争议。",
+          "primary_url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+          "items": [
+            "111b016d579cad12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Datasette Agent开源发布：可扩展AI助手",
+          "summary": "Simon Willison宣布Datasette Agent首版发布，一个基于LLM的可扩展AI助手，并附带多个插件（图表、精灵等）。",
+          "primary_url": "https://simonwillison.net/2026/May/21/datasette-agent/",
+          "items": [
+            "55d078c94592a77f",
+            "2c451d926ea339c2",
+            "583546b6fada15ec",
+            "3604a78cb1ff8e59",
+            "1ec1189a94bf5706"
+          ],
+          "cover_path": "out/media/2026-05-22/opensource-00.jpg"
+        },
+        {
+          "headline": "OpenAI开源Symphony，定义自主编码Agent编排规范",
+          "summary": "OpenAI发布Symphony SPEC，一个面向自主编码智能体编排的开放标准规范。",
+          "primary_url": "https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B",
+          "items": [
+            "c385c70e07d57f62"
+          ],
+          "cover_path": "out/media/2026-05-22/opensource-01.jpg"
+        },
+        {
+          "headline": "Karpathy开源autoresearch：单GPU自动跑科研",
+          "summary": "Andrej Karpathy发布autoresearch，一个让AI代理自动在单GPU上运行nanochat训练研究的开源项目。",
+          "primary_url": "https://github.com/karpathy/autoresearch",
+          "items": [
+            "2ddf032743e9b254"
+          ],
+          "cover_path": "out/media/2026-05-22/opensource-02.jpg"
+        },
+        {
+          "headline": "GitHub发布Spec Kit，助力规范驱动开发",
+          "summary": "GitHub推出开源工具包Spec Kit，帮助开发者开始使用Spec-Driven Development（SDD）方法。",
+          "primary_url": "https://github.com/github/spec-kit",
+          "items": [
+            "3826b6eb7fd790a7"
+          ]
+        },
+        {
+          "headline": "火山引擎开源OpenViking，专为AI Agent设计的上下文数据库",
+          "summary": "火山引擎发布OpenViking，一个开源的上下文数据库，通过文件系统范式统一管理Agent的记忆、资源和技能。",
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "items": [
+            "54ddae5fda38f3b3"
+          ]
+        },
+        {
+          "headline": "CLI-Anything开源：让所有软件变成Agent可操作",
+          "summary": "HKUDS发布CLI-Anything，通过命令行接口使任何软件都能被AI Agent控制。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ]
+        },
+        {
+          "headline": "vLLM持续更新：高吞吐LLM推理引擎",
+          "summary": "vLLM项目持续活跃，提供高吞吐量和内存高效的LLM推理服务引擎。",
+          "primary_url": "https://github.com/vllm-project/vllm",
+          "items": [
+            "01e7a310e8df3c23"
+          ]
+        },
+        {
+          "headline": "torchtune：PyTorch原生后训练库开源",
+          "summary": "Meta发布torchtune，一个PyTorch专为LLM后训练设计的库，支持微调、对齐等。",
+          "primary_url": "https://arxiv.org/abs/2605.21442v1",
+          "items": [
+            "513f3b2d03de84ca"
+          ],
+          "cover_path": "out/media/2026-05-22/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-22"
+}
