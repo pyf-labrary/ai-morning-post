@@ -1,0 +1,476 @@
+{
+  "date": "2026-05-23",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini 3.5深夜发布，谷歌CEO称快4倍省10亿美元",
+          "summary": "谷歌在I/O后推出Gemini 3.5模型，性能大幅提升，成本显著优化。",
+          "primary_url": "https://www.infoq.cn/article/COda3jCSAliReaA4YVJc",
+          "importance": 7,
+          "items": [
+            "0bffb7025bfe9206"
+          ],
+          "cover_path": "out/media/2026-05-23/model_release-00.jpg"
+        },
+        {
+          "headline": "Qwen3.7-Max发布：百万Token上下文窗口",
+          "summary": "阿里云推出Qwen3.7-Max，具备1M上下文和扩展思考模式，是最强Agent模型。",
+          "primary_url": "https://www.marktechpost.com/2026/05/21/qwen-introduces-qwen3-7-max-a-reasoning-agent-model-with-a-1m-token-context-window/",
+          "importance": 6,
+          "items": [
+            "25ec847447341e8a"
+          ],
+          "cover_path": "out/media/2026-05-23/model_release-01.jpg"
+        },
+        {
+          "headline": "Cohere发布Command A+：218B稀疏MoE模型可跑在2张H100上",
+          "summary": "Cohere开源Command A+，支持48种语言，首次适配Agent任务。",
+          "primary_url": "https://www.marktechpost.com/2026/05/21/cohere-releases-command-a-a-218b-sparse-moe-model-for-agentic-workflows-that-runs-on-as-few-as-two-h100-gpus/",
+          "importance": 6,
+          "items": [
+            "010597d77c3674e9"
+          ],
+          "cover_path": "out/media/2026-05-23/model_release-02.jpg"
+        },
+        {
+          "headline": "微软Fara1.5浏览器Agent开源，性能超Operator和Gemini",
+          "summary": "微软发布4B/9B/27B三款浏览器控制Agent，在Online-Mind2Web上登顶。",
+          "primary_url": "https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/",
+          "importance": 5,
+          "items": [
+            "f46d19cae4add227"
+          ],
+          "cover_path": "out/media/2026-05-23/model_release-03.jpg"
+        },
+        {
+          "headline": "智谱代码生成速度达400 tokens/s",
+          "summary": "智谱在代码生成任务中达到每秒400 tokens，为顶流最快。",
+          "primary_url": "https://www.qbitai.com/2026/05/422511.html",
+          "importance": 5,
+          "items": [
+            "ffd644f587c437ce"
+          ],
+          "cover_path": "out/media/2026-05-23/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "DeepSeek获700亿融资，组建Code团队由ACM金牌大神带队",
+          "summary": "DeepSeek推进AGI优先策略，同时降低V4 Pro API价格永久折扣。",
+          "primary_url": "https://www.qbitai.com/2026/05/422624.html",
+          "importance": 8,
+          "items": [
+            "695126f71e4e39d4",
+            "6d5e073cfa12168c",
+            "ac1493ca17bd4f04"
+          ],
+          "cover_path": "out/media/2026-05-23/company-00.jpg"
+        },
+        {
+          "headline": "SpaceX IPO文件曝光，押注AI数据中心挑战巨头",
+          "summary": "SpaceX S-1文件显示AI轨道数据中心计划，Grok表现不佳下决心翻身。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+          "importance": 8,
+          "items": [
+            "eeed1051c220bd08",
+            "75b662cd4e849ce1",
+            "3d1940762a8256a0"
+          ],
+          "cover_path": "out/media/2026-05-23/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic以3亿美元收购API工具商Stainless",
+          "summary": "Anthropic买下API SDK公司Stainless，强化开发者生态。",
+          "primary_url": "https://www.leiphone.com/category/ai/Yqq5YAFbgrGAusRi.html",
+          "importance": 7,
+          "items": [
+            "d1bc1d9e8de4161a"
+          ]
+        },
+        {
+          "headline": "Manus创始人计划融资10亿美元回购股份",
+          "summary": "Manus谋求大规模融资以回收股权，扩大AI代理产品。",
+          "primary_url": "https://www.leiphone.com/category/zaobao/qFYlp8Q5YFJ9KJRc.html",
+          "importance": 7,
+          "items": [
+            "2b9dae7bdd96bee9"
+          ]
+        },
+        {
+          "headline": "Hark获7亿美元A轮融资，打造'通用'AI界面",
+          "summary": "神秘AI初创Hark完成巨额融资，计划今夏推出多模态模型及硬件。",
+          "primary_url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+          "importance": 7,
+          "items": [
+            "99441e0cc7f2cc88"
+          ],
+          "cover_path": "out/media/2026-05-23/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI被Gartner评为企业编码代理领导者",
+          "summary": "Gartner Magic Quadrant将OpenAI Codex评为企业AI编码代理领导者。",
+          "primary_url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+          "importance": 7,
+          "items": [
+            "4f0cd650ad8ec60d"
+          ]
+        },
+        {
+          "headline": "微软开始取消Claude Code许可证",
+          "summary": "微软停止提供Claude Code订阅，已购买用户受影响。",
+          "primary_url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+          "importance": 6,
+          "items": [
+            "a2f075f6416be0c0"
+          ],
+          "cover_path": "out/media/2026-05-23/company-06.jpg"
+        },
+        {
+          "headline": "Spotify与环球音乐达成AI翻唱/混音合作协议",
+          "summary": "Spotify Premium用户可生成AI歌曲改编，艺术家参与分成。",
+          "primary_url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+          "importance": 6,
+          "items": [
+            "80f252f16cdeb910"
+          ],
+          "cover_path": "out/media/2026-05-23/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "李飞飞团队发布空间智能ImageNet基准",
+          "summary": "全新基准评测具身空间智能，推动机器人感知发展。",
+          "primary_url": "https://www.qbitai.com/2026/05/422738.html",
+          "importance": 7,
+          "items": [
+            "be2af581d87d8f92"
+          ],
+          "cover_path": "out/media/2026-05-23/research-00.jpg"
+        },
+        {
+          "headline": "AI首次证明数学难题被顶级期刊接受",
+          "summary": "OpenAI模型证明Erdos问题，标志AI数学推理里程碑。",
+          "primary_url": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
+          "importance": 7,
+          "items": [
+            "ed22b781c915b25f"
+          ],
+          "cover_path": "out/media/2026-05-23/research-01.jpg"
+        },
+        {
+          "headline": "多流LLM架构：并行分离提示、思考与I/O",
+          "summary": "新论文提出Multi-Stream LLM，可并行处理不同流，提升效率。",
+          "primary_url": "https://arxiv.org/abs/2605.12460",
+          "importance": 5,
+          "items": [
+            "3cf29d8df2aee6b8"
+          ],
+          "cover_path": "out/media/2026-05-23/research-02.jpg"
+        },
+        {
+          "headline": "自演化Agent系统MOSS：通过源码级重写持续学习",
+          "summary": "MOSS框架使Agent在部署后能从交互中自我改进。",
+          "primary_url": "https://arxiv.org/abs/2605.22794v1",
+          "importance": 4,
+          "items": [
+            "f8f1ea3c1d93cc4e"
+          ],
+          "cover_path": "out/media/2026-05-23/research-03.jpg"
+        },
+        {
+          "headline": "Gated DeltaNet-2：线性注意力中解耦擦除与写入",
+          "summary": "改进线性注意力机制，提升长序列建模能力。",
+          "primary_url": "https://arxiv.org/abs/2605.22791v1",
+          "importance": 4,
+          "items": [
+            "8be469358a6c1698"
+          ],
+          "cover_path": "out/media/2026-05-23/research-04.jpg"
+        },
+        {
+          "headline": "SONIC：超大规模人形机器人全身运动控制",
+          "summary": "提出扩展人形控制模型，实现全身协调运动。",
+          "primary_url": "https://arxiv.org/abs/2511.07820v3",
+          "importance": 4,
+          "items": [
+            "d7b210d095989ef7"
+          ],
+          "cover_path": "out/media/2026-05-23/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Spotify推出AI播客摘要与问答功能",
+          "summary": "Premium用户可生成每日/每周播客简报，并支持AI问答。",
+          "primary_url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+          "importance": 7,
+          "items": [
+            "464232e301357b53"
+          ],
+          "cover_path": "out/media/2026-05-23/product-00.jpg"
+        },
+        {
+          "headline": "Spotify发布ElevenLabs驱动的有声书生成工具",
+          "summary": "作者可用AI生成有声书，无需独家授权。",
+          "primary_url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+          "importance": 6,
+          "items": [
+            "2e636816fc5ec405"
+          ],
+          "cover_path": "out/media/2026-05-23/product-01.jpg"
+        },
+        {
+          "headline": "OpenAI推出Appshots：任意Mac窗口变Codex上下文",
+          "summary": "新功能让Codex能读取任何Mac应用窗口内容进行编码。",
+          "primary_url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
+          "importance": 6,
+          "items": [
+            "83b168c8d2be99fd"
+          ],
+          "cover_path": "out/media/2026-05-23/product-02.jpg"
+        },
+        {
+          "headline": "Anthropic推出MCP隧道供内部代理访问",
+          "summary": "MCP隧道允许私有代理安全访问内部系统。",
+          "primary_url": "https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT",
+          "importance": 6,
+          "items": [
+            "e9f9ca7f085cdebd"
+          ],
+          "cover_path": "out/media/2026-05-23/product-03.jpg"
+        },
+        {
+          "headline": "ChatGPT Powerpoint插件发布，但可能误删内容",
+          "summary": "OpenAI推出Powerpoint插件，警告可能意外删除内容。",
+          "primary_url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
+          "importance": 5,
+          "items": [
+            "451974d46daf512a"
+          ],
+          "cover_path": "out/media/2026-05-23/product-04.jpg"
+        },
+        {
+          "headline": "安克发布AI消噪耳机获吉尼斯最清晰通话认证",
+          "summary": "搭载存算一体AI芯片Thus A1，通话清晰度获世界纪录。",
+          "primary_url": "https://www.leiphone.com/category/weiwu/SE0UCzo94OXxs9aG.html",
+          "importance": 5,
+          "items": [
+            "09a679525bda468b"
+          ]
+        },
+        {
+          "headline": "CopilotKit重新定义Agentic AI堆栈",
+          "summary": "CopilotKit推出AG-UI协议等生产级架构。",
+          "primary_url": "https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/",
+          "importance": 5,
+          "items": [
+            "33c0c8614761ebc0"
+          ],
+          "cover_path": "out/media/2026-05-23/product-06.jpg"
+        },
+        {
+          "headline": "京东618将举办AI数字人购物直播晚会",
+          "summary": "全网首档AI购物直播，数字人演绎IP。",
+          "primary_url": "https://36kr.com/newsflashes/3820427661398407",
+          "importance": 4,
+          "items": [
+            "47c1a62f0f6b5650"
+          ],
+          "cover_path": "out/media/2026-05-23/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Trump突然取消AI安全行政令签署",
+          "summary": "特朗普在CEO拒绝出席后取消AI安全测试EO，称其为创新'阻碍'。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+          "importance": 9,
+          "items": [
+            "dc46ded50ece8e2f",
+            "0c262634d7a2edf5",
+            "dd1c6ad3babeaddf"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-00.jpg"
+        },
+        {
+          "headline": "加州签署美国首例AI工人保护行政令",
+          "summary": "加州州长签署行政令，保护工人免受AI失业影响。",
+          "primary_url": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
+          "importance": 7,
+          "items": [
+            "af08316cdcc5ca90"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-01.jpg"
+        },
+        {
+          "headline": "AI是未经授权的抄袭的规模化",
+          "summary": "一篇博文获得高赞，批评AI生成内容本质是抄袭。",
+          "primary_url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+          "importance": 7,
+          "items": [
+            "51ba19d1de5db2fa"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-02.jpg"
+        },
+        {
+          "headline": "记忆短缺导致消费电子涨价",
+          "summary": "AI需求推高内存价格，廉价智能手机时代结束。",
+          "primary_url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+          "importance": 7,
+          "items": [
+            "11de0ecfe5a42c94",
+            "3860b1a1eda75d57"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-03.jpg"
+        },
+        {
+          "headline": "美国NTSB阻止AI用户重建遇难飞行员声音",
+          "summary": "用户利用公开文件重新创建遇难飞行员语音，引发法律争议。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+          "importance": 7,
+          "items": [
+            "3937dc12a4b58e8b"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-04.jpg"
+        },
+        {
+          "headline": "作者使用AI生成虚假引用仍坚持使用AI",
+          "summary": "Steven Rosenbaum书中出现AI编造引用，但他仍认为AI有用。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+          "importance": 6,
+          "items": [
+            "44ff848db6aa5b7e"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-05.jpg"
+        },
+        {
+          "headline": "Steve Wozniak告诉学生：你们拥有人类智能而非AI",
+          "summary": "毕业演讲中Wozniak强调真实智能与AI的区别。",
+          "primary_url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+          "importance": 6,
+          "items": [
+            "f612313093ac8ea3"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-06.jpg"
+        },
+        {
+          "headline": "GitHub面临生存之战：员工爆料内部乱象",
+          "summary": "多位员工称GitHub失去独立文化，封杀Claude Code以求生存。",
+          "primary_url": "https://www.infoq.cn/article/VZ4KvkToY57zj0ycsdBF",
+          "importance": 6,
+          "items": [
+            "55f8ffe5494f3418"
+          ],
+          "cover_path": "out/media/2026-05-23/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Datasette Agent发布：可扩展AI助手",
+          "summary": "Simon Willison发布Datasette Agent，支持插件和数据库查询。",
+          "primary_url": "https://datasette.io/blog/2026/datasette-agent/",
+          "importance": 6,
+          "items": [
+            "55d078c94592a77f",
+            "2c451d926ea339c2",
+            "583546b6fada15ec",
+            "3604a78cb1ff8e59"
+          ]
+        },
+        {
+          "headline": "Claude Code官方插件目录发布",
+          "summary": "Anthropic推出官方Claude Code插件仓库。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 6,
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-05-23/opensource-01.jpg"
+        },
+        {
+          "headline": "CodeGraph：预索引代码知识图谱减少Token消耗",
+          "summary": "为Claude Code等代理提供本地代码索引，降低工具调用成本。",
+          "primary_url": "https://github.com/colbymchenry/codegraph",
+          "importance": 5,
+          "items": [
+            "49188edeea81efcf"
+          ],
+          "cover_path": "out/media/2026-05-23/opensource-02.jpg"
+        },
+        {
+          "headline": "Superpowers：编码代理的可组合技能框架",
+          "summary": "一套完整的软件方法论，基于可组合技能运行编码代理。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 5,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-05-23/opensource-03.jpg"
+        },
+        {
+          "headline": "Google ADK示例：Agent开发工具包",
+          "summary": "Google发布ADK Samples，展示如何构建代理应用。",
+          "primary_url": "https://github.com/google/adk-samples",
+          "importance": 5,
+          "items": [
+            "5570333d1f47616d"
+          ],
+          "cover_path": "out/media/2026-05-23/opensource-04.jpg"
+        },
+        {
+          "headline": "Hermes Agent：开源可成长代理框架",
+          "summary": "Nous Research的Hermes Agent，支持代理持续学习。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 5,
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-05-23/opensource-05.jpg"
+        },
+        {
+          "headline": "OpenViking：面向AI代理的上下文数据库",
+          "summary": "字节跳动开源OpenViking，统一管理代理的内存、资源和技能。",
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "importance": 5,
+          "items": [
+            "54ddae5fda38f3b3"
+          ],
+          "cover_path": "out/media/2026-05-23/opensource-06.jpg"
+        },
+        {
+          "headline": "CLI-Anything：让所有软件原生支持代理",
+          "summary": "HKUDS项目将任意应用转化为CLI接口，方便AI代理调用。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 4,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-05-23/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
