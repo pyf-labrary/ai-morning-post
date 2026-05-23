@@ -1,0 +1,395 @@
+{
+  "date": "2026-05-24",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌深夜发布Gemini 3.5，速度快4倍年省10亿美元",
+          "summary": "谷歌CEO皮查伊亲自介绍Gemini 3.5，称其速度提升4倍，每年可节省超10亿美元成本，内部已被颠覆。",
+          "primary_url": "https://www.infoq.cn/article/COda3jCSAliReaA4YVJc",
+          "importance": 8,
+          "items": [
+            "0bffb7025bfe9206"
+          ],
+          "cover_path": "out/media/2026-05-24/model_release-00.jpg"
+        },
+        {
+          "headline": "英伟达开源Nemotron扩散语言模型，文本生成速度接近光速",
+          "summary": "NVIDIA发布Nemotron-Labs扩散语言模型，通过扩散方法实现极快文本生成速度。",
+          "primary_url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+          "importance": 8,
+          "items": [
+            "d53c0baad87af65b"
+          ],
+          "cover_path": "out/media/2026-05-24/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里Qwen模型自主运行35小时优化自研芯片代码",
+          "summary": "阿里最新AI模型持续运行35小时，自主为旗下定制芯片优化代码。",
+          "primary_url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+          "importance": 7,
+          "items": [
+            "93eac93345a7556d"
+          ],
+          "cover_path": "out/media/2026-05-24/model_release-02.jpg"
+        },
+        {
+          "headline": "Anthropic发布Claude Mythos预览版，捉bug速度超过修复",
+          "summary": "Claude Mythos Preview在漏洞发现方面表现惊人，但安全问题令开发团队应接不暇。",
+          "primary_url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
+          "importance": 6,
+          "items": [
+            "c78539beb493496f"
+          ],
+          "cover_path": "out/media/2026-05-24/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "DeepSeek V4 API永久降价75%，梁文锋称目标是AGI",
+          "summary": "DeepSeek宣布V4-Pro模型API价格永久调整为原价1/4，同时表示公司优先目标是AGI研究而非盈利。",
+          "primary_url": "https://api-docs.deepseek.com/quick_start/pricing",
+          "importance": 10,
+          "items": [
+            "ac1493ca17bd4f04",
+            "35bc9bba3e13242c",
+            "695f1e571c60e529",
+            "dc0d1365c29fd8a0"
+          ],
+          "cover_path": "out/media/2026-05-24/company-00.jpg"
+        },
+        {
+          "headline": "微软突然取消Claude Code许可证，开发者社区炸锅",
+          "summary": "微软开始取消Claude Code许可证，引发开发者不满，可能与Anthropic竞争有关。",
+          "primary_url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+          "importance": 8,
+          "items": [
+            "a2f075f6416be0c0"
+          ],
+          "cover_path": "out/media/2026-05-24/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI每赚1美元亏1.22美元，财务压力持续",
+          "summary": "OpenAI披露财务数据，即使剔除股权激励，每收入1美元仍亏损1.22美元。",
+          "primary_url": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
+          "importance": 7,
+          "items": [
+            "40ed4ccd928d2d95"
+          ],
+          "cover_path": "out/media/2026-05-24/company-02.jpg"
+        },
+        {
+          "headline": "美团外卖前负责人获投餐饮具身模型，不造人形机器人",
+          "summary": "元节智能获千万级种子轮融资，专注餐饮后厨场景的具身模型。",
+          "primary_url": "https://www.qbitai.com/2026/05/423159.html",
+          "importance": 6,
+          "items": [
+            "a80c026e1e783fc7"
+          ],
+          "cover_path": "out/media/2026-05-24/company-03.jpg"
+        },
+        {
+          "headline": "越疆机器人十年出货10万台，进军具身智能",
+          "summary": "越疆在广东具身智能训练场举办研讨会，展示协作机器人和具身智能产品线。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/SgRj0865rXHmoVwv.html",
+          "importance": 6,
+          "items": [
+            "32634c0da54e09f5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Nous Research发布对比神经元归因方法，无需训练即可操纵模型行为",
+          "summary": "CNA方法识别并消融稀疏MLP神经元回路来引导LLM行为，无需稀疏自编码器训练或权重修改。",
+          "primary_url": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
+          "importance": 6,
+          "items": [
+            "72ceb9d9b8eab8e1"
+          ],
+          "cover_path": "out/media/2026-05-24/research-00.jpg"
+        },
+        {
+          "headline": "港大ViMax：全能智能体视频生成框架，导演编剧制片一体",
+          "summary": "ViMax集成了导演、编剧、制片和视频生成能力，实现端到端视频创作。",
+          "primary_url": "https://github.com/HKUDS/ViMax",
+          "importance": 5,
+          "items": [
+            "57b4540cd69919f0"
+          ],
+          "cover_path": "out/media/2026-05-24/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "亲测谷歌AI眼镜：几乎可用但未完全成熟",
+          "summary": "TechCrunch体验谷歌原型Android XR眼镜，Gemini驱动的翻译、导航等AR功能将信息直接叠加在视野中。",
+          "primary_url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+          "importance": 7,
+          "items": [
+            "00392ea975b49d51"
+          ],
+          "cover_path": "out/media/2026-05-24/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT推出PowerPoint插件，可能意外删除内容",
+          "summary": "OpenAI发布ChatGPT PowerPoint插件，但警告该插件可能意外删除用户内容。",
+          "primary_url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
+          "importance": 6,
+          "items": [
+            "451974d46daf512a"
+          ],
+          "cover_path": "out/media/2026-05-24/product-01.jpg"
+        },
+        {
+          "headline": "OpenAI推出Appshots：将Mac窗口变成Codex上下文",
+          "summary": "新功能允许Codex将任意Mac窗口截图作为编程上下文。",
+          "primary_url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
+          "importance": 6,
+          "items": [
+            "83b168c8d2be99fd"
+          ],
+          "cover_path": "out/media/2026-05-24/product-02.jpg"
+        },
+        {
+          "headline": "Anthropic推出MCP隧道，私有代理可访问内部系统",
+          "summary": "Anthropic发布Model Context Protocol隧道，使私有AI代理能够安全访问企业内网。",
+          "primary_url": "https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT",
+          "importance": 6,
+          "items": [
+            "e9f9ca7f085cdebd"
+          ],
+          "cover_path": "out/media/2026-05-24/product-03.jpg"
+        },
+        {
+          "headline": "星巴克叫停AI库存自动盘点：错误频出，上线9个月即废",
+          "summary": "星巴克终止在北美门店使用AI拍照盘点库存系统，因频繁出错。",
+          "primary_url": "https://36kr.com/newsflashes/3821221746266498",
+          "importance": 6,
+          "items": [
+            "80e649b981b5999d"
+          ],
+          "cover_path": "out/media/2026-05-24/product-04.jpg"
+        },
+        {
+          "headline": "法拉利用IBM AI打造F1超级粉丝体验",
+          "summary": "IBM和Scuderia Ferrari HP合作，利用AI重新定义F1粉丝体验。",
+          "primary_url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+          "importance": 6,
+          "items": [
+            "bfeeb3b8b8c0d3e0"
+          ],
+          "cover_path": "out/media/2026-05-24/product-05.jpg"
+        },
+        {
+          "headline": "中经社发布'十五五'产业研究智能体，可自动生成报告",
+          "summary": "新华社下属机构推出智能体，能自主完成产业链分析报告。",
+          "primary_url": "https://www.infoq.cn/article/2Gb32HBQU3CtTGm7oqq3",
+          "importance": 5,
+          "items": [
+            "b28210651924483c"
+          ],
+          "cover_path": "out/media/2026-05-24/product-06.jpg"
+        },
+        {
+          "headline": "联想天禧AI 4.0实现虚拟上下文窗口10倍扩容",
+          "summary": "新系统破解大模型长程推理难题，上下文窗口扩展10倍。",
+          "primary_url": "https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh",
+          "importance": 5,
+          "items": [
+            "1298a5c68cd592d0"
+          ],
+          "cover_path": "out/media/2026-05-24/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI复活坠机飞行员声音，美政府紧急屏蔽数据",
+          "summary": "用户利用AI从坠机调查文档中的频谱图重建飞行员声音，迫使美国NTSB暂时封锁其文档系统。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+          "importance": 8,
+          "items": [
+            "3937dc12a4b58e8b",
+            "c7dc06b2d0f9fdcd"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-00.jpg"
+        },
+        {
+          "headline": "Google CEO称链接只是搜索的一部分，AI答案已成核心",
+          "summary": "皮查伊重新定义链接在搜索中的角色，Wired评论认为即使讨厌AI也无法避免使用谷歌AI搜索，同时搜索“disregard”功能被破坏。",
+          "primary_url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+          "importance": 8,
+          "items": [
+            "bcef089edd77de74",
+            "b0c7b9ea450c384f",
+            "135734ff9f24cbf0"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-01.jpg"
+        },
+        {
+          "headline": "特朗普取消AI安全测试行政令签署活动",
+          "summary": "因顶级AI公司CEO拒绝出席，特朗普临时取消AI安全测试行政令签署活动。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+          "importance": 7,
+          "items": [
+            "0c262634d7a2edf5"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-02.jpg"
+        },
+        {
+          "headline": "微软报告AI比雇佣人类员工更昂贵",
+          "summary": "微软内部报告显示，当前AI代理成本高于直接雇佣人类员工完成相同任务。",
+          "primary_url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+          "importance": 7,
+          "items": [
+            "e91f6fe8d802437a"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-03.jpg"
+        },
+        {
+          "headline": "纽约客：Altman赢得对Musk官司，但我们都输了",
+          "summary": "评论认为法庭判决虽有利于Altman，但对AI行业监管和透明度产生负面影响。",
+          "primary_url": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
+          "importance": 7,
+          "items": [
+            "cf68eda18b870ae9"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-04.jpg"
+        },
+        {
+          "headline": "AI在书中插入虚假引用，作者仍坚持使用AI",
+          "summary": "Steven Rosenbaum的书被AI添加了不准确的引用，但他认为AI利大于弊。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+          "importance": 6,
+          "items": [
+            "44ff848db6aa5b7e"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-05.jpg"
+        },
+        {
+          "headline": "Cloudflare CEO：建设者和销售者安全，AI将取代衡量者",
+          "summary": "Prince认为AI主要威胁中间层测量岗位。",
+          "primary_url": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
+          "importance": 6,
+          "items": [
+            "5733bb72e45f1143"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-06.jpg"
+        },
+        {
+          "headline": "昆仑万维方汉：五类人AI替代不了，企业做第二名最稳妥",
+          "summary": "在AIGC2026大会上，方汉分享AI时代企业竞争策略。",
+          "primary_url": "https://www.qbitai.com/2026/05/423202.html",
+          "importance": 6,
+          "items": [
+            "34b4f5ea6540ff9d"
+          ],
+          "cover_path": "out/media/2026-05-24/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic官方Claude Code插件目录上线GitHub",
+          "summary": "Anthropic管理的高质量Claude Code插件事务目录，方便开发者发现和使用。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 7,
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-05-24/opensource-00.jpg"
+        },
+        {
+          "headline": "Chrome DevTools MCP开源：为编码代理提供浏览器调试能力",
+          "summary": "Chrome团队发布DevTools的Model Context Protocol服务，让AI编码代理直接控制浏览器。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "importance": 7,
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-05-24/opensource-01.jpg"
+        },
+        {
+          "headline": "微软开源AI Agent治理工具包，覆盖OWASP Top 10",
+          "summary": "Agent Governance Toolkit提供策略执行、零信任身份、沙箱执行等安全功能。",
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "importance": 7,
+          "items": [
+            "8dd243fffcdc353c"
+          ]
+        },
+        {
+          "headline": "Meta开源SAM 3：下一代图像分割模型",
+          "summary": "Meta发布SAM 3，提供更强的分割能力和预训练权重。",
+          "primary_url": "https://github.com/facebookresearch/sam3",
+          "importance": 7,
+          "items": [
+            "bc6c7645549af49a"
+          ],
+          "cover_path": "out/media/2026-05-24/opensource-03.jpg"
+        },
+        {
+          "headline": "NousResearch开源Hermes Agent：可成长的AI代理",
+          "summary": "Hermes Agent是一个不断进化的代理框架，支持插件、记忆和工具调用。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 6,
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-05-24/opensource-04.jpg"
+        },
+        {
+          "headline": "腾讯开源TencentDB Agent Memory：4层本地记忆流水线",
+          "summary": "完全本地的AI代理记忆系统，包含符号短时记忆、任务画布等四层结构。",
+          "primary_url": "https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
+          "importance": 6,
+          "items": [
+            "600b3166aec56ef6"
+          ],
+          "cover_path": "out/media/2026-05-24/opensource-05.jpg"
+        },
+        {
+          "headline": "Perplexity开源Bumblebee：只读的供应链安全检查工具",
+          "summary": "Perplexity内部使用的开发者端点库存扫描器，现已开放源代码。",
+          "primary_url": "https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/",
+          "importance": 6,
+          "items": [
+            "2f353f4e658b0498"
+          ],
+          "cover_path": "out/media/2026-05-24/opensource-06.jpg"
+        },
+        {
+          "headline": "Models.dev：开源AI模型规格与定价数据库",
+          "summary": "一个包含AI模型规格、定价和能力的开源数据库，便于开发者比较和选择模型。",
+          "primary_url": "https://github.com/anomalyco/models.dev",
+          "importance": 6,
+          "items": [
+            "256be1d862d689f7"
+          ],
+          "cover_path": "out/media/2026-05-24/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
