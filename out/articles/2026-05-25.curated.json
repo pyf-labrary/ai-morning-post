@@ -1,0 +1,376 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "DeepSeek 永久75%折扣，并推出原生编码智能体 Reasonix",
+          "summary": "DeepSeek 宣布将旗舰模型 V4 Pro 的 75% 折扣永久化，输出 token 价格比 GPT-5.5 低 34 倍以上；同时发布 DeepSeek Reasonix，一款低延迟、高缓存的编码 Agent。",
+          "primary_url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+          "importance": 10,
+          "items": [
+            "35bc9bba3e13242c",
+            "c9acde272f7f9e9f",
+            "7224105f1980b23b"
+          ],
+          "cover_path": "out/media/2026-05-25/model_release-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "Anthropic 或继续向 NSA 供应 Claude，尽管被五角大楼列为供应链风险",
+          "summary": "尽管美国国防部将 Anthropic 标记为供应链风险，但 NSA 可能仍将继续使用 Claude 模型，双方关系引发争议。",
+          "primary_url": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
+          "importance": 7,
+          "items": [
+            "4ff99cdd600f3a67"
+          ],
+          "cover_path": "out/media/2026-05-25/company-00.jpg"
+        },
+        {
+          "headline": "谷歌 CEO 承认公司在 AI 编程领域落后",
+          "summary": "在搜索25年最大改版背景下，谷歌 CEO Sundar Pichai 公开承认在代码生成方面落后于竞争对手。",
+          "primary_url": "https://www.qbitai.com/2026/05/423390.html",
+          "importance": 6,
+          "items": [
+            "b62daedfd3191ceb"
+          ],
+          "cover_path": "out/media/2026-05-25/company-01.jpg"
+        },
+        {
+          "headline": "一季度 AI 领域融资超 1100 亿元，国产大模型融资金额激增",
+          "summary": "今年一季度 AI 创投融资近 600 起，总额超 1100 亿元，同比增长 185.4%，月之暗面、阶跃星辰等获超 300 亿元融资。",
+          "primary_url": "https://36kr.com/newsflashes/3822775103607172",
+          "importance": 6,
+          "items": [
+            "23b2f3c2a276175d"
+          ],
+          "cover_path": "out/media/2026-05-25/company-02.jpg"
+        },
+        {
+          "headline": "特斯拉 FSD 中文名改为“特斯拉辅助驾驶”，售价不变",
+          "summary": "特斯拉中国官网将 FSD 功能中文名称调整为“特斯拉辅助驾驶”，售价仍为 6.4 万元。",
+          "primary_url": "https://36kr.com/newsflashes/3822856592085379",
+          "importance": 4,
+          "items": [
+            "88b0b5750fcc543a"
+          ],
+          "cover_path": "out/media/2026-05-25/company-03.jpg"
+        },
+        {
+          "headline": "马斯克放弃地球太阳能，xAI 转向天然气，SpaceX 押注轨道数据中心",
+          "summary": "Elon Musk 的 xAI 全面转向天然气发电，SpaceX 专注于轨道数据中心，标志着其放弃此前倡导的“太阳能电力经济”。",
+          "primary_url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+          "importance": 5,
+          "items": [
+            "46d32eaa202f737c"
+          ],
+          "cover_path": "out/media/2026-05-25/company-04.jpg"
+        },
+        {
+          "headline": "美国科技公司向参议院分享荷兰监管官员个人信息",
+          "summary": "多家美国科技公司将荷兰数据监管机构官员的姓名提交给美国参议院，引发跨境监管冲突。",
+          "primary_url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+          "importance": 5,
+          "items": [
+            "c697f7659db57bbf"
+          ],
+          "cover_path": "out/media/2026-05-25/company-05.jpg"
+        },
+        {
+          "headline": "“AI 洗白”潮涌：企业争相将自己重新包装为 AI 公司",
+          "summary": "许多公司通过改名、更换品牌等方式标榜自身为 AI 企业，引发“AI washing”争议。",
+          "primary_url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+          "importance": 5,
+          "items": [
+            "1c77ab84843ea52e"
+          ],
+          "cover_path": "out/media/2026-05-25/company-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "研究让 Claude Code 自主发现 AI 缩放算法，人类从未如此设计",
+          "summary": "研究人员利用 Claude Code 自动搜索并发现新的 AI 缩放算法，部分设计思路超出人类传统认知。",
+          "primary_url": "https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/",
+          "importance": 6,
+          "items": [
+            "9c32ebe4474977b4"
+          ],
+          "cover_path": "out/media/2026-05-25/research-00.jpg"
+        },
+        {
+          "headline": "字节跳动研究：提问 LMM 比转录文本更适合长文档训练",
+          "summary": "字节跳动发现，对大型多模态模型进行提问式训练比直接转录文本能更有效处理长文档，降低计算成本。",
+          "primary_url": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+          "importance": 5,
+          "items": [
+            "a014a2f21afe665d"
+          ],
+          "cover_path": "out/media/2026-05-25/research-01.jpg"
+        },
+        {
+          "headline": "LLM Agent 后端代码生成中的约束衰减问题",
+          "summary": "新预印本研究揭示了 LLM Agent 在生成后端代码时易出现约束衰减，导致代码脆弱且不可靠。",
+          "primary_url": "https://arxiv.org/abs/2605.06445",
+          "importance": 4,
+          "items": [
+            "f31621cc274745ed"
+          ],
+          "cover_path": "out/media/2026-05-25/research-02.jpg"
+        },
+        {
+          "headline": "内存成本已占 AI 芯片总成本近三分之二",
+          "summary": "Epoch AI 分析显示，随着模型规模增长，HBM 等内存成本在 AI 芯片组件成本中的占比持续上升，已接近 2/3。",
+          "primary_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+          "importance": 4,
+          "items": [
+            "d76784c8f9a78543"
+          ],
+          "cover_path": "out/media/2026-05-25/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "试戴亚马逊 Bee 可穿戴 AI：既好奇又有点毛骨悚然",
+          "summary": "TechCrunch 记者体验了亚马逊新推出的 AI 可穿戴设备 Bee，认为其在便利性和隐私焦虑间形成奇特组合。",
+          "primary_url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+          "importance": 6,
+          "items": [
+            "c89784706716e21a"
+          ],
+          "cover_path": "out/media/2026-05-25/product-00.jpg"
+        },
+        {
+          "headline": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
+          "summary": "OpenAI 发布技术博客，详细说明如何利用 WebRTC 实现低延迟、可扩展的语音 AI 服务。",
+          "primary_url": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q",
+          "importance": 5,
+          "items": [
+            "f9a74e8333038176"
+          ],
+          "cover_path": "out/media/2026-05-25/product-01.jpg"
+        },
+        {
+          "headline": "法拉利与 IBM AI 合作打造 F1 超级粉丝体验",
+          "summary": "法拉利和 IBM 展示如何利用 AI 重新定义 F1 粉丝互动，通过个性化内容创造超级粉丝。",
+          "primary_url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+          "importance": 4,
+          "items": [
+            "bfeeb3b8b8c0d3e0"
+          ],
+          "cover_path": "out/media/2026-05-25/product-02.jpg"
+        },
+        {
+          "headline": "旧金山非营利组织用机器人制作餐食，弥补志愿者短缺",
+          "summary": "旧金山 Tenderloin 地区的非营利组织引入机器人烹饪技术，以应对志愿者不足的难题。",
+          "primary_url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+          "importance": 4,
+          "items": [
+            "154d5ac9122b67b2"
+          ],
+          "cover_path": "out/media/2026-05-25/product-03.jpg"
+        },
+        {
+          "headline": "数字华夏发布新一代人形机器人“星行侠P2”及场景大脑",
+          "summary": "数字华夏在深圳文博会发布星行侠P2人形机器人、RoboEase场景大脑和RoboCare康养方案，并签署多项战略合作。",
+          "primary_url": "https://www.leiphone.com/category/robot/ZRsFD3aS5OQIyJNz.html",
+          "importance": 4,
+          "items": [
+            "0ec1278ad30669f3"
+          ]
+        },
+        {
+          "headline": "Grab 大规模工程支撑场景下的多智能体系统设计案例",
+          "summary": "Grab 分享在工程支撑场景中设计多智能体系统的实践经验和架构方案。",
+          "primary_url": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9",
+          "importance": 4,
+          "items": [
+            "d86c3e583a499db3"
+          ],
+          "cover_path": "out/media/2026-05-25/product-05.jpg"
+        },
+        {
+          "headline": "芬兰大学开发 AI 聊天机器人抵抗健康错误信息",
+          "summary": "奥卢大学研究人员开发出利用“认知接种”方法的 AI 聊天机器人，帮助用户识别并抵抗健康领域虚假信息。",
+          "primary_url": "https://36kr.com/newsflashes/3822778010079362",
+          "importance": 3,
+          "items": [
+            "ee01c7bdc98fde48"
+          ],
+          "cover_path": "out/media/2026-05-25/product-06.jpg"
+        },
+        {
+          "headline": "Copilot、Gemini 等 AI 工具：别让模型选择停留在默认值",
+          "summary": "评测指出，许多用户忽视 AI 工具中的模型选择设置，导致输出质量下降，建议根据任务手动选取最优模型。",
+          "primary_url": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+          "importance": 4,
+          "items": [
+            "78b377b73e54d7ef"
+          ],
+          "cover_path": "out/media/2026-05-25/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "DeepMind Hassabis 认为人类处于“奇点山脚”，LeCun 反驳当前 AI 并不智能",
+          "summary": "Demis Hassabis 在演讲中称人类正站在奇点前沿，而 Yann LeCun 则认为现有 AI 系统缺乏真正智能，双方观点激烈碰撞。",
+          "primary_url": "https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/",
+          "importance": 6,
+          "items": [
+            "3bb4382f8cbf9dfa"
+          ],
+          "cover_path": "out/media/2026-05-25/opinion-00.jpg"
+        },
+        {
+          "headline": "Claude 不是你的架构师：别让它假装做决定",
+          "summary": "博客批评开发者过度依赖 Claude 做架构设计，认为 AI 应辅助而非替代人类的架构决策。",
+          "primary_url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+          "importance": 5,
+          "items": [
+            "fd31b1830f84f250"
+          ],
+          "cover_path": "out/media/2026-05-25/opinion-01.jpg"
+        },
+        {
+          "headline": "每个人都正在实时摸索 AI 安全——包括谷歌",
+          "summary": "文章指出 AI 安全仍处于过渡期，即使是科技巨头也在边做边学，没有标准答案。",
+          "primary_url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+          "importance": 5,
+          "items": [
+            "57aab63612139c1a"
+          ],
+          "cover_path": "out/media/2026-05-25/opinion-02.jpg"
+        },
+        {
+          "headline": "硅谷投资人张璐：未来推理将吃掉 70% 算力，30% 留给训练",
+          "summary": "张璐在 AIGC2026 圆桌论坛上预测，推理需求的算力占比将持续增长，技术创新只是起点，产业整合速度才是关键。",
+          "primary_url": "https://www.qbitai.com/2026/05/423382.html",
+          "importance": 4,
+          "items": [
+            "38c130d3dd30a363"
+          ],
+          "cover_path": "out/media/2026-05-25/opinion-03.jpg"
+        },
+        {
+          "headline": "Agent 圆桌论坛：大厂集体下场后，创业公司还有哪些机会？",
+          "summary": "AIGC2026 圆桌论坛上，嘉宾讨论 Agent 领域的创业窗口，认为垂直场景和差异化仍是机遇。",
+          "primary_url": "https://www.qbitai.com/2026/05/423421.html",
+          "importance": 4,
+          "items": [
+            "638326ce8c14f662"
+          ],
+          "cover_path": "out/media/2026-05-25/opinion-04.jpg"
+        },
+        {
+          "headline": "周鸿祎谈马斯克预言：十年后人类都不开车了？",
+          "summary": "周鸿祎评论马斯克关于自动驾驶的预言，认为 AI 下一步将改变物理世界的物流、人流和车流。",
+          "primary_url": "https://36kr.com/newsflashes/3822814415589768",
+          "importance": 3,
+          "items": [
+            "24b572f4ccbdd205"
+          ],
+          "cover_path": "out/media/2026-05-25/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Anthropic 推出官方 Claude Code 插件目录",
+          "summary": "Anthropic 官方维护的高质量 Claude Code 插件目录，方便开发者发现和使用扩展插件。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 8,
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-00.jpg"
+        },
+        {
+          "headline": "NousResearch 发布 Hermes Agent：与你一起成长的智能体",
+          "summary": "Hermes Agent 是一个开源 AI 智能体框架，支持个性化成长和任务自动化。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 7,
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-01.jpg"
+        },
+        {
+          "headline": "CrewAI：编排角色扮演自主 AI Agent 的框架",
+          "summary": "CrewAI 支持多个 AI Agent 角色协作，完成复杂任务，已在 GitHub 上获得大量关注。",
+          "primary_url": "https://github.com/crewAIInc/crewAI",
+          "importance": 7,
+          "items": [
+            "61457a9647e88eaa"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-02.jpg"
+        },
+        {
+          "headline": "Pydantic AI：Pydantic 风格的 AI Agent 框架",
+          "summary": "Pydantic 团队推出的官方 AI Agent 框架，利用 Pydantic 的类型安全特性构建可靠 AI 应用。",
+          "primary_url": "https://github.com/pydantic/pydantic-ai",
+          "importance": 7,
+          "items": [
+            "5ef24188cbd903b9"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenPipe ART：基于 GRPO 的 Agent 强化训练工具",
+          "summary": "ART 允许开发者使用强化学习（GRPO）对多步 Agent 进行实战训练，支持 Qwen3.6、GPT-OSS 等模型。",
+          "primary_url": "https://github.com/OpenPipe/ART",
+          "importance": 7,
+          "items": [
+            "7065be721da9445c"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-04.jpg"
+        },
+        {
+          "headline": "CodeGraph：本地代码知识图谱，为 Claude Code/Cursor 等节省 Token",
+          "summary": "CodeGraph 预索引代码知识，使 AI 编码助手调用更少 token，减少工具调用次数，100% 本地运行。",
+          "primary_url": "https://github.com/colbymchenry/codegraph",
+          "importance": 6,
+          "items": [
+            "49188edeea81efcf"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-05.jpg"
+        },
+        {
+          "headline": "Chrome DevTools MCP：为编码 Agent 提供浏览器调试能力",
+          "summary": "Google Chrome DevTools 团队推出的 MCP 工具，让 AI 编码智能体能够直接调用 Chrome 开发者工具。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "importance": 6,
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-06.jpg"
+        },
+        {
+          "headline": "Multica：开源托管 Agent 平台，让编码 Agent 成为真正的队友",
+          "summary": "Multica 提供开源的多 Agent 管理平台，支持任务分配、进度追踪和技能组合。",
+          "primary_url": "https://github.com/multica-ai/multica",
+          "importance": 6,
+          "items": [
+            "8f5671fbc02a2e3b"
+          ],
+          "cover_path": "out/media/2026-05-25/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-25"
+}
