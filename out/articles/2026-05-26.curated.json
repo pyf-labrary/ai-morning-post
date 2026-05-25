@@ -1,0 +1,434 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": []
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "DeepSeek永久降价75%并发布原生编码Agent reasonix",
+          "summary": "DeepSeek宣布对其旗舰模型V4 Pro永久降价75%，同时推出原生编码Agent reasonix，缓存命中率极高，成本大幅降低。",
+          "primary_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+          "items": [
+            "c9acde272f7f9e9f",
+            "7224105f1980b23b"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "OpenAI联手巴西媒体巨头，ChatGPT引入可信新闻",
+          "summary": "OpenAI与Grupo Folha和Grupo UOL达成战略合作，将巴西优质新闻内容引入ChatGPT，确保来源归属与透明度。",
+          "primary_url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+          "items": [
+            "ea7465efc387f3ef"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "ClickUp裁员数百人，用数千AI代理替代员工",
+          "summary": "成立九年的项目管理创业公司ClickUp解雇数百名员工，转而使用数千个AI代理，引发关于未来工作的讨论。",
+          "primary_url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+          "items": [
+            "8f7a17131d3bcc34"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-26/company-02.jpg"
+        },
+        {
+          "headline": "Waymo召回所有无人车，因暴雨导致系统失灵",
+          "summary": "Waymo因无人车在暴雨天气中出现故障，大规模召回车辆并暂停多城市Robotaxi服务。",
+          "primary_url": "https://www.qbitai.com/2026/05/424610.html",
+          "items": [
+            "faa157cc1a5630ac"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/company-03.jpg"
+        },
+        {
+          "headline": "天机智能获10亿元融资，估值逼近百亿",
+          "summary": "45家机器人厂商背后的核心供应商天机智能完成新一轮10亿元融资，估值向百亿进发。",
+          "primary_url": "https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ",
+          "items": [
+            "09934fd45c718d59"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/company-04.jpg"
+        },
+        {
+          "headline": "华为具身大脑一号位创业，获亿元级融资",
+          "summary": "原华为具身智能负责人离职创业，用认知科学构建世界模型，获得亿元级投资。",
+          "primary_url": "https://www.qbitai.com/2026/05/423455.html",
+          "items": [
+            "9b3b4dd7e9707048"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/company-05.jpg"
+        },
+        {
+          "headline": "DeepSeek招兵买马，从零打造中国版Claude Code",
+          "summary": "DeepSeek宣布招募团队，从底层开始构建类似Claude Code的原生编码Agent工具。",
+          "primary_url": "https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT",
+          "items": [
+            "8c2923d0e4c9bdbf"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/company-06.jpg"
+        },
+        {
+          "headline": "米奥会展1.5亿元认购阶跃星辰股份",
+          "summary": "会展公司米奥会展以1.5亿元认购AI公司阶跃星辰少数股权，投资存在风险。",
+          "primary_url": "https://36kr.com/newsflashes/3824694921188227?f=rss",
+          "items": [
+            "869e9e5a770221f4"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-26/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "DeepMind AlphaProof Nexus以极低成本破解多年数学难题",
+          "summary": "Google DeepMind的AlphaProof Nexus系统仅花费数百美元就解决了困扰数学界数十年的问题。",
+          "primary_url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+          "items": [
+            "e3e6e64a1be7b621"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-26/research-00.jpg"
+        },
+        {
+          "headline": "Apple开源高效图像压缩模型MLPICO",
+          "summary": "Apple推出Perceptual Image Codec (MLPICO)，在实用学习图像压缩方面取得突破。",
+          "primary_url": "https://apple.github.io/ml-pico/",
+          "items": [
+            "81e43ad96e221d35"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "SaaS-Bench揭穿AI全自动办公神话，Claude通过率仅3.8%",
+          "summary": "UniPat AI发布SaaS-Bench评测，主流大模型在真实办公任务中完全通过率最高仅3.8%，AI全自动化办公远未落地。",
+          "primary_url": "https://www.qbitai.com/2026/05/424277.html",
+          "items": [
+            "1bb448b2eb12e597"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/research-02.jpg"
+        },
+        {
+          "headline": "ByteDance发现训练长文档模型：提问优于转录",
+          "summary": "ByteDance研究表明，对大模型提问而非要求其转录文本，能更有效地处理长文档训练。",
+          "primary_url": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+          "items": [
+            "a014a2f21afe665d"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/research-03.jpg"
+        },
+        {
+          "headline": "港中文团队提出MindVLA-U1，语言赋能自动驾驶",
+          "summary": "香港中文大学李鸿升团队论文被顶会接受，提出MindVLA-U1使VLA不再输给VA，语言模型深度参与驾驶决策。",
+          "primary_url": "https://www.leiphone.com/category/ai/aBSRTXyAOqvn84ow.html",
+          "items": [
+            "aa681e9e97714756"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "蚂蚁灵波LingBot-VA论文入选机器人顶会RSS 2026",
+          "summary": "蚂蚁灵波的VLA论文被国际机器人研究顶会接收，提出边推演边行动的机器人架构。",
+          "primary_url": "https://www.qbitai.com/2026/05/424581.html",
+          "items": [
+            "9cb13e096f97e10c"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/research-05.jpg"
+        },
+        {
+          "headline": "AI芯片成本结构剧变：内存占近三分之二",
+          "summary": "Epoch AI数据显示，内存成本已占AI芯片组件成本的近三分之二，暗示算力瓶颈转移。",
+          "primary_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+          "items": [
+            "d76784c8f9a78543"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/research-06.jpg"
+        },
+        {
+          "headline": "研究揭示AI模型引用错误率高：答案对但来源错",
+          "summary": "CiteVQA研究发现，AI模型在回答问题时经常指向错误的文本来源，引发对可信度的担忧。",
+          "primary_url": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+          "items": [
+            "3278e5aa3bffa20a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-26/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "我试了亚马逊Bee：既神奇又有点毛骨悚然",
+          "summary": "TechCrunch记者体验Amazon Bee AI可穿戴设备，认为其便利性与隐私焦虑并存。",
+          "primary_url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+          "items": [
+            "c89784706716e21a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-26/product-00.jpg"
+        },
+        {
+          "headline": "300克AI主机跑122B模型，巴掌大小性能惊人",
+          "summary": "一款仅300克的AI主机展示了在极小硬件上运行122B参数模型的能力。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/OKDJKKDkUhQYDaee.html",
+          "items": [
+            "c8d8becc9995bf54"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "英特尔WildCat Lake出世：人人用上AI PC的战略芯片",
+          "summary": "英特尔发布WildCat Lake处理器，基于18A工艺，专为主流轻薄本设计，推动AI PC普及。",
+          "primary_url": "https://www.leiphone.com/category/chips/gAjsNSvozgcw55bE.html",
+          "items": [
+            "d394515a969d644c"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "DeepSeek V4优化工具：缓存命中99.82%，成本降至2折",
+          "summary": "新工具通过高缓存命中率大幅降低DeepSeek V4使用成本，4亿+token账单从61美元降至12美元。",
+          "primary_url": "https://www.qbitai.com/2026/05/424552.html",
+          "items": [
+            "9d37fac49003ddc8"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-26/product-03.jpg"
+        },
+        {
+          "headline": "谷歌改进Android CLI，方便AI代理操控安卓设备",
+          "summary": "Google通过Android CLI让AI代理能更直接地使用Android工具链，提升自动化能力。",
+          "primary_url": "https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL",
+          "items": [
+            "92e26d29f317609b"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-26/product-04.jpg"
+        },
+        {
+          "headline": "Pi Coding Agent：可定制的编码Agent框架",
+          "summary": "Pi Coding Agent是一款开箱即用的编码代理工具，支持自定义扩展。",
+          "primary_url": "https://www.producthunt.com/products/pi-coding-agent-3",
+          "items": [
+            "d7d4e6f146e702db"
+          ],
+          "importance": 4
+        },
+        {
+          "headline": "MashuPack：一键将代码库打包成Claude/ChatGPT可用文件",
+          "summary": "新工具MashuPack能整理代码库为干净的文本文件，便于AI模型理解和操作。",
+          "primary_url": "https://www.producthunt.com/products/mashupack",
+          "items": [
+            "6c5431e897610e32"
+          ],
+          "importance": 4
+        },
+        {
+          "headline": "Free Claude Code：免费用Claude Code CLI和VSCode扩展",
+          "summary": "开源项目允许用户免费使用Claude Code终端工具和VSCode扩展，支持语音操作。",
+          "primary_url": "https://github.com/Alishahryar1/free-claude-code",
+          "items": [
+            "be81c94b33d33e86"
+          ],
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "教皇发布AI通谕：AI必须服务人类，而非少数权贵",
+          "summary": "教皇Leo十四世在首份通谕《Magnifica Humanitas》中警告，不透明的AI由少数公司运营将导致“新形式的非人化”。",
+          "primary_url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+          "items": [
+            "73e4cdfe8f9517cb",
+            "358cef8b50fc540f",
+            "0513d78564f5852b",
+            "2d54bcc84049323c",
+            "01a4ea6c8244ce69"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "George Hotz：编码代理将成为软件开发的“最昂贵错误”",
+          "summary": "编程界传奇George Hotz发文称依赖AI编码代理会导致代码质量崩溃，是重大战略失误。",
+          "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+          "items": [
+            "49dcec14ae00af38",
+            "2b611a0da8f0e4ba"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "Hassabis称人类处于奇点山脚，LeCun批当前AI并不智能",
+          "summary": "DeepMind创始人Hassabis认为人类正站在奇点起点，而Yann LeCun直言当前AI连智能的边都还没摸到。",
+          "primary_url": "https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/",
+          "items": [
+            "3bb4382f8cbf9dfa"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-26/opinion-02.jpg"
+        },
+        {
+          "headline": "HuggingFace呼吁统一AI Agent术语：Harness、Scaffold等",
+          "summary": "HuggingFace博客提出一套标准化的AI代理术语，旨在减少概念混淆。",
+          "primary_url": "https://huggingface.co/blog/agent-glossary",
+          "items": [
+            "e40aa1e0d19100f1"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/opinion-03.jpg"
+        },
+        {
+          "headline": "Anthropic联合创始人：AI模型已展现出内省能力",
+          "summary": "在教皇通谕发布会上，Anthropic联合创始人表示最新模型表现出自我反思的迹象。",
+          "primary_url": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
+          "items": [
+            "66f4bef2ec10d7b7"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/opinion-04.jpg"
+        },
+        {
+          "headline": "Uber COO质疑AI Token投入：价值越来越难衡量",
+          "summary": "Uber首席运营官表示，随着AI token使用量爆炸，公司越来越难以证明巨额Token支出的合理性。",
+          "primary_url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+          "items": [
+            "7af4eeaf86985b9d"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/opinion-05.jpg"
+        },
+        {
+          "headline": "'AI洗白'泛滥：企业抢戴AI帽子，监管日趋严格",
+          "summary": "越来越多传统公司通过更名和营销手段宣称自己为AI公司，引发监管关注和投资者警惕。",
+          "primary_url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+          "items": [
+            "1c77ab84843ea52e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/opinion-06.jpg"
+        },
+        {
+          "headline": "别再让Claude假装架构师：开发者批判AI设计决策",
+          "summary": "一篇广泛传播的博客文章指出，Claude等AI工具不能替代人类进行系统架构设计，过度依赖将导致糟糕结果。",
+          "primary_url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+          "items": [
+            "fd31b1830f84f250"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic发布官方Claude Code插件目录，开启生态",
+          "summary": "Anthropic官方管理的高质量Claude Code插件目录上线，包含社区贡献的编码代理插件。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-26/opensource-00.jpg"
+        },
+        {
+          "headline": "Multica开源：打造AI编码代理团队协作平台",
+          "summary": "Multica是一个开源平台，允许人类将AI编码代理作为团队成员分配任务、跟踪进度。",
+          "primary_url": "https://github.com/multica-ai/multica",
+          "items": [
+            "8f5671fbc02a2e3b"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/opensource-01.jpg"
+        },
+        {
+          "headline": "CodeGraph开源：预索引代码知识图谱，节省AI编码token",
+          "summary": "CodeGraph为Claude Code/Codex等代理提供本地代码知识图谱，减少工具调用和token消耗。",
+          "primary_url": "https://github.com/colbymchenry/codegraph",
+          "items": [
+            "49188edeea81efcf"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Pi Agent Toolkit发布：模块化AI编码代理与统一API",
+          "summary": "Pi是一套AI代理工具包，包含编码代理CLI、统一LLM API、终端UI和Slack机器人。",
+          "primary_url": "https://github.com/earendil-works/pi",
+          "items": [
+            "70e0965b360d595f"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Datasette 1.0a30发布：新增跳转菜单及AI代理插件",
+          "summary": "开源数据探索工具Datasette发布新Alpha，带来可自定义的跳转菜单，同时datasette-agent插件让AI代理能直接查询数据库。",
+          "primary_url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+          "items": [
+            "249d4e6e9b80d384",
+            "5d5539333806a9af",
+            "1e3498382af267f8"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Aider持续更新：终端AI编程搭档",
+          "summary": "Aider是终端中运行的AI结对编程工具，支持多种模型和自动git集成。",
+          "primary_url": "https://github.com/Aider-AI/aider",
+          "items": [
+            "852dcddeb2f16859"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-26/opensource-05.jpg"
+        },
+        {
+          "headline": "Honcho开源：为AI代理提供长期记忆库",
+          "summary": "Honcho是一个用于构建有状态AI代理的内存库，帮助代理保持对话上下文和用户记忆。",
+          "primary_url": "https://github.com/plastic-labs/honcho",
+          "items": [
+            "b555480b3d55590c"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-26/opensource-06.jpg"
+        },
+        {
+          "headline": "Onyx开源AI平台发布：一站式连接所有大模型",
+          "summary": "Onyx提供开源AI聊天平台，支持与任何LLM集成，并具备高级功能如文档索引。",
+          "primary_url": "https://github.com/onyx-dot-app/onyx",
+          "items": [
+            "63dfec0ebc0a6235"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-26/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-05-26"
+}
