@@ -1,0 +1,441 @@
+{
+  "date": "2026-05-27",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "阿里千问3.7 Code Arena编程能力全球第二",
+          "summary": "阿里旗舰模型Qwen3.7-Max在Code Arena榜单得分1541，超越GPT-5.5、Gemini等，仅次于Claude系列，跻身全球第一梯队。",
+          "primary_url": "https://36kr.com/newsflashes/3826076760920711?f=rss",
+          "importance": 7,
+          "items": [
+            "19cb920863497b96",
+            "b11d55b938c2dba7"
+          ],
+          "cover_path": "out/media/2026-05-27/model_release-00.jpg"
+        },
+        {
+          "headline": "国产Agent模型首进全球第一梯队，限时免费",
+          "summary": "一款国产Agent模型深度适配OpenClaw、Claude Code等，在多项基准测试中进入全球前列，并限时开放免费使用。",
+          "primary_url": "https://www.qbitai.com/2026/05/424851.html",
+          "importance": 6,
+          "items": [
+            "4bd1b92e47151c3e"
+          ],
+          "cover_path": "out/media/2026-05-27/model_release-01.jpg"
+        },
+        {
+          "headline": "Claude Mythos疑似解决OpenAI埃尔德什问题",
+          "summary": "Anthropic的Claude Mythos据报道以“简洁优雅的证明”解决了悬而未决的埃尔德什问题，引发学界关注。",
+          "primary_url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+          "importance": 7,
+          "items": [
+            "7c220dba8d039c61"
+          ],
+          "cover_path": "out/media/2026-05-27/model_release-02.jpg"
+        },
+        {
+          "headline": "Gemma 4多词元预测技术：生成速度提升三倍",
+          "summary": "谷歌发布Gemma 4多词元预测方案，通过预测多个未来token显著提高生成吞吐量，最高提速约3倍。",
+          "primary_url": "https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "d2aa1096a2d8c891"
+          ],
+          "cover_path": "out/media/2026-05-27/model_release-03.jpg"
+        },
+        {
+          "headline": "国产AI训练框架全球首例，速度超英伟达Megatron 10%",
+          "summary": "国内团队自研AI训练系统，宣称训练速度比英伟达Megatron快10%，实现全栈自主突破。",
+          "primary_url": "https://www.qbitai.com/2026/05/425511.html",
+          "importance": 7,
+          "items": [
+            "bf63609b2dbf293f"
+          ],
+          "cover_path": "out/media/2026-05-27/model_release-04.jpg"
+        },
+        {
+          "headline": "Stability AI发布Stable Audio 3音频生成模型",
+          "summary": "Stable Audio 3家族包含小和中等规模的开源权重，可在MacBook上本地运行，用于音乐和音效生成。",
+          "primary_url": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+          "importance": 5,
+          "items": [
+            "c7e02542152aabfc"
+          ],
+          "cover_path": "out/media/2026-05-27/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "NVIDIA Vera CPU基准曝光，性能强劲",
+          "summary": "NVIDIA Vera CPU在Phoronix测试中表现突出，针对AI工厂需求设计，拥有快速核心和大内存带宽。英伟达同时调整财报分部。",
+          "primary_url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+          "importance": 8,
+          "items": [
+            "0edb7111e4e763b9",
+            "1494f529974cee17"
+          ],
+          "cover_path": "out/media/2026-05-27/company-00.jpg"
+        },
+        {
+          "headline": "OpenRouter估值翻倍至13亿美元，完成1.13亿B轮",
+          "summary": "AI模型路由平台OpenRouter获CapitalG领投1.13亿美元，六个月内使用量增长5倍，估值一年内翻番。",
+          "primary_url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+          "importance": 7,
+          "items": [
+            "cf46f86bc634a481"
+          ],
+          "cover_path": "out/media/2026-05-27/company-01.jpg"
+        },
+        {
+          "headline": "零一汽车两个月再融2亿美元，国际资本加注",
+          "summary": "新能源重卡智驾公司零一汽车宣布B2轮2亿美元融资，由国际资本和产业资本共同参与，累计融资额快速攀升。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/HKEei3byOc3Z0wKb.html",
+          "importance": 7,
+          "items": [
+            "90721b8b23d7b927",
+            "0f8d235d024231ed"
+          ]
+        },
+        {
+          "headline": "ClickUp大规模裁员，用AI代理替代数百员工",
+          "summary": "项目管理公司ClickUp宣布裁员数百人，同时引入数千AI代理执行任务，预示未来工作方式的剧变。",
+          "primary_url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+          "importance": 7,
+          "items": [
+            "8f7a17131d3bcc34"
+          ],
+          "cover_path": "out/media/2026-05-27/company-03.jpg"
+        },
+        {
+          "headline": "Dropbox CEO Drew Houston宣布卸任",
+          "summary": "Dropbox联合创始人Drew Houston将卸任CEO，由Ashraf Alkarmi接替，公司进入新领导时代。",
+          "primary_url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+          "importance": 6,
+          "items": [
+            "b7a02ec1eaf0aea3"
+          ],
+          "cover_path": "out/media/2026-05-27/company-04.jpg"
+        },
+        {
+          "headline": "蚂蚁集团领投光轮智能，物理AI价值中心转移",
+          "summary": "光轮智能完成新一轮融资，蚂蚁集团为主要领投方，物理AI领域投资重心从硬件转向数据与模型。",
+          "primary_url": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "74f9407a88790846"
+          ],
+          "cover_path": "out/media/2026-05-27/company-05.jpg"
+        },
+        {
+          "headline": "微软或将弃用Claude，转向自研模型",
+          "summary": "消息称微软因成本过高考虑逐步停用Anthropic的Claude模型，加速推进自研AI方案。",
+          "primary_url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "2b46754a6e13fa83"
+          ],
+          "cover_path": "out/media/2026-05-27/company-06.jpg"
+        },
+        {
+          "headline": "Human Archive用印度零工数据训练物理AI",
+          "summary": "初创公司Human Archive雇佣印度零工佩戴传感器收集日常活动数据，为机器人训练提供真实物理数据。",
+          "primary_url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+          "importance": 6,
+          "items": [
+            "ef5b18927a77781a"
+          ],
+          "cover_path": "out/media/2026-05-27/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "谷歌DeepMind一口气解决9道埃尔德什数学难题",
+          "summary": "谷歌DeepMind团队利用AI成功解决9道埃尔德什问题，其中一道已困扰数学家56年，被视为AI推理重大突破。",
+          "primary_url": "https://www.qbitai.com/2026/05/425455.html",
+          "importance": 8,
+          "items": [
+            "7ce4e8057a35ea51"
+          ],
+          "cover_path": "out/media/2026-05-27/research-00.jpg"
+        },
+        {
+          "headline": "AI幻觉引用正渗入临床指南，研究者警告",
+          "summary": "对2000多篇论文审计发现，AI生成的虚假引用开始出现在影响临床指南的论文中，可能危及医疗决策。",
+          "primary_url": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/",
+          "importance": 7,
+          "items": [
+            "770634130bcfa2a9"
+          ],
+          "cover_path": "out/media/2026-05-27/research-01.jpg"
+        },
+        {
+          "headline": "Together AI开源OSCAR：2比特KV缓存量化系统",
+          "summary": "Together AI发布OSCAR（离线谱协方差感知旋转），一种INT2 KV缓存量化方法，可将长上下文LLM推理显存占用降低数倍。",
+          "primary_url": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
+          "importance": 6,
+          "items": [
+            "9ab9b967817f31d9"
+          ],
+          "cover_path": "out/media/2026-05-27/research-02.jpg"
+        },
+        {
+          "headline": "LLM睡眠似固化机制论文引发热议",
+          "summary": "arXiv新论文提出类似睡眠的固化机制，让LLM在“休息”阶段巩固记忆，提升长期推理能力。",
+          "primary_url": "https://arxiv.org/abs/2605.26099",
+          "importance": 5,
+          "items": [
+            "877e9b0994c07716"
+          ],
+          "cover_path": "out/media/2026-05-27/research-03.jpg"
+        },
+        {
+          "headline": "卡帕西加入Anthropic任技术员工",
+          "summary": "AI知名学者Andrej Karpathy正式加入Anthropic，职位为Member of Technical Staff，引发行业关注。",
+          "primary_url": "https://www.qbitai.com/2026/05/425304.html",
+          "importance": 6,
+          "items": [
+            "4dc7cc891b2b4f8e"
+          ],
+          "cover_path": "out/media/2026-05-27/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Microsoft Copilot Cowork存在文件外泄风险",
+          "summary": "安全公司PromptArmor发现微软Copilot Cowork存在设计缺陷，可导致用户文件被代理系统无授权外泄。",
+          "primary_url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+          "importance": 8,
+          "items": [
+            "f9f8b4205583e949"
+          ],
+          "cover_path": "out/media/2026-05-27/product-00.jpg"
+        },
+        {
+          "headline": "DuckDuckGo安装量飙升30%，用户逃离Google AI搜索",
+          "summary": "谷歌I/O后搜索引擎全面AI化引发反弹，DuckDuckGo应用安装量激增30%，用户寻求无AI干扰的搜索体验。",
+          "primary_url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+          "importance": 7,
+          "items": [
+            "522cb94ccee1b2ca"
+          ],
+          "cover_path": "out/media/2026-05-27/product-01.jpg"
+        },
+        {
+          "headline": "AWS MCP服务器正式可用，支持IAM权限",
+          "summary": "AWS发布MCP（模型上下文协议）服务器，全面适配API并内置IAM权限控制，简化AI代理与云资源集成。",
+          "primary_url": "https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "667efb8c4890113e"
+          ],
+          "cover_path": "out/media/2026-05-27/product-02.jpg"
+        },
+        {
+          "headline": "AI短剧出海订单预计暴增50倍",
+          "summary": "受AI技术驱动，短剧海外定制内容需求激增，成片产出同比增长5倍，全年预计暴增50倍，单集收益超国内40%。",
+          "primary_url": "https://36kr.com/newsflashes/3826039643624064?f=rss",
+          "importance": 5,
+          "items": [
+            "42acf86bd4bbd134"
+          ],
+          "cover_path": "out/media/2026-05-27/product-03.jpg"
+        },
+        {
+          "headline": "阿里云发布海外AI产品官网Qwen Cloud",
+          "summary": "阿里云在新加坡发布Qwen Cloud、Agent产品MuleRun及编程平台Qoder，加速AI出海全栈布局。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/iIAnVv3C91pE50QK.html",
+          "importance": 6,
+          "items": [
+            "fdf243c343cef58e"
+          ]
+        },
+        {
+          "headline": "Hugging Face发布3D打印人形腿项目",
+          "summary": "Hugging Face推出开源3D打印人形机器人腿，成本约2500美元，让机器人实验更易开展。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+          "importance": 6,
+          "items": [
+            "19027205d162cf56"
+          ],
+          "cover_path": "out/media/2026-05-27/product-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "教宗Leo XIV发布AI通谕：AI须服务于全人类",
+          "summary": "教宗Leo XIV首份通谕《Magnifica Humanitas》聚焦AI伦理，批评权力集中与技术精英统治，Anthropic联合创始人出席发布。",
+          "primary_url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+          "importance": 10,
+          "items": [
+            "66f4bef2ec10d7b7",
+            "f22812e7ef44c4ff",
+            "d544ea93ee1fd2b7",
+            "4079b33851e435de",
+            "b706016059655297",
+            "0513d78564f5852b",
+            "73e4cdfe8f9517cb",
+            "358cef8b50fc540f",
+            "5cdc01daa600d2a6",
+            "2d54bcc84049323c"
+          ]
+        },
+        {
+          "headline": "中国要求顶级AI研究人员出境需获批准",
+          "summary": "据报道中国加强AI人才管控，顶尖AI研究人员出境前必须获得政府许可，以防止关键技术外流。",
+          "primary_url": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/",
+          "importance": 8,
+          "items": [
+            "7e753788ed82044e"
+          ],
+          "cover_path": "out/media/2026-05-27/opinion-01.jpg"
+        },
+        {
+          "headline": "Paul Graham：AI写的创始人邮件像是在撒谎",
+          "summary": "Y Combinator创始人Paul Graham指出越来越多创始人使用AI撰写邮件，但那种“硬核新闻风格”显得虚假。",
+          "primary_url": "https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/",
+          "importance": 7,
+          "items": [
+            "dcb0ab26512de9a2",
+            "adca6460c190f9fe"
+          ],
+          "cover_path": "out/media/2026-05-27/opinion-02.jpg"
+        },
+        {
+          "headline": "AI司法鸿沟方案正变成联邦法院的文书噩梦",
+          "summary": "美国联邦法院尝试用AI缩小司法差距，但生成的文书量激增，反而导致行政负担加重。",
+          "primary_url": "https://the-decoder.com/the-ai-justice-gap-solution-is-slowly-turning-into-an-existential-paperwork-nightmare-for-us-federal-courts/",
+          "importance": 6,
+          "items": [
+            "d882a1b966d9661a"
+          ],
+          "cover_path": "out/media/2026-05-27/opinion-03.jpg"
+        },
+        {
+          "headline": "FBI警告：通过个人资料锁定AI色情制作者轻而易举",
+          "summary": "FBI特工分享案例，利用嫌疑人Instagram的已删除帖文轻松定位贩卖AI生成色情的匿名账户。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+          "importance": 6,
+          "items": [
+            "8a7a7761cf2b8c6f"
+          ],
+          "cover_path": "out/media/2026-05-27/opinion-04.jpg"
+        },
+        {
+          "headline": "Uber高管：AI token支出越来越难证明其价值",
+          "summary": "Uber COO Andrew Macdonald表示公司对AI（尤其是token消耗）的投入需要更清晰的回报，投资者耐心正在耗尽。",
+          "primary_url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+          "importance": 6,
+          "items": [
+            "8e318006ba383a86",
+            "7af4eeaf86985b9d"
+          ],
+          "cover_path": "out/media/2026-05-27/opinion-05.jpg"
+        },
+        {
+          "headline": "加州拟豁免Linux年龄验证法案，因强烈反对",
+          "summary": "加州原计划要求操作系统收集用户年龄，引发Linux社区激烈反弹，现提出修正案豁免Linux等开源系统。",
+          "primary_url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+          "importance": 7,
+          "items": [
+            "f19cfe2d126e6793"
+          ]
+        },
+        {
+          "headline": "Copilot创始工程师：多数AI编码就像开法拉利买牛奶",
+          "summary": "GitHub Copilot创始工程师批评当前AI编码工具被过度滥用，很多场景并不需要如此强大的能力。",
+          "primary_url": "https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "be99588c6f70eeba"
+          ],
+          "cover_path": "out/media/2026-05-27/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "开源包Starlette高危漏洞威胁百万AI代理",
+          "summary": "Ars Technica报道Starlette（周下载3.25亿）存在“BadHost”漏洞，数百万AI代理面临被远程控制风险。",
+          "primary_url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+          "importance": 9,
+          "items": [
+            "8e3ed56c3ed5aebb"
+          ],
+          "cover_path": "out/media/2026-05-27/opensource-00.jpg"
+        },
+        {
+          "headline": "Anthropic发布知识工作插件仓库",
+          "summary": "Anthropic开源knowledge-work-plugins，为Claude Cowork提供面向知识工作者的专用插件，提升团队协作效率。",
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "importance": 6,
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-05-27/opensource-01.jpg"
+        },
+        {
+          "headline": "微软开源Agent治理工具包",
+          "summary": "微软发布Agent-Governance-Toolkit，涵盖策略实施、零信任身份、执行沙箱等，针对OWASP Agentic Top 10威胁。",
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "importance": 7,
+          "items": [
+            "8dd243fffcdc353c"
+          ],
+          "cover_path": "out/media/2026-05-27/opensource-02.jpg"
+        },
+        {
+          "headline": "OmniVoice Studio开源，本地替代ElevenLabs",
+          "summary": "OmniVoice Studio提供完全本地的语音克隆、视频配音、实时听写等功能，支持646种语言，无需云服务。",
+          "primary_url": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+          "importance": 5,
+          "items": [
+            "af72a3ebe2b32108"
+          ],
+          "cover_path": "out/media/2026-05-27/opensource-03.jpg"
+        },
+        {
+          "headline": "Garry Tan公开其Claude Code配置Gstack",
+          "summary": "YC总裁Garry Tan开源其Claude Code工作流配置，包含23个工具，集成了CEO、设计师、工程经理等角色。",
+          "primary_url": "https://github.com/garrytan/gstack",
+          "importance": 5,
+          "items": [
+            "0df615c119f8b3de"
+          ],
+          "cover_path": "out/media/2026-05-27/opensource-04.jpg"
+        },
+        {
+          "headline": "HuggingFace开源3D打印人形腿项目",
+          "summary": "Hugging Face发布开源bipedal机器人腿设计，成本约2500美元，可3D打印，推动机器人研究民主化。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+          "importance": 6,
+          "items": [
+            "19027205d162cf56"
+          ],
+          "cover_path": "out/media/2026-05-27/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
