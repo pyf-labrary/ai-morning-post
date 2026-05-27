@@ -1,0 +1,445 @@
+{
+  "date": "2026-05-28",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "微软MAI-Image-2.5图像模型性能追上谷歌Nano Banana 2",
+          "summary": "微软新款图像生成模型在多项基准测试上与谷歌旗舰模型持平，展示微软在图像生成领域的实力。",
+          "primary_url": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/",
+          "importance": 6,
+          "items": [
+            "55981dd070e40b2e"
+          ],
+          "cover_path": "out/media/2026-05-28/model_release-00.jpg"
+        },
+        {
+          "headline": "Stability AI开源Stable Audio 3，轻量模型可本地运行",
+          "summary": "Stable Audio 3系列开源，小模型可在MacBook CPU上运行，支持音乐和音效生成及编辑。",
+          "primary_url": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+          "importance": 5,
+          "items": [
+            "c7e02542152aabfc"
+          ],
+          "cover_path": "out/media/2026-05-28/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "AI编程公司Cognition融资$1B，估值飙至$260亿",
+          "summary": "Cognition在不到九个月内估值翻倍至$260亿，年化收入达$4.92亿，融资由多家机构参与。",
+          "primary_url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+          "importance": 9,
+          "items": [
+            "0cfa67c07bc0e5c5",
+            "07881f55d1180ac2"
+          ],
+          "cover_path": "out/media/2026-05-28/company-00.jpg"
+        },
+        {
+          "headline": "NVIDIA年投$1500亿押注台湾为AI中心",
+          "summary": "NVIDIA每年在台湾投资约$150亿，CEO黄仁勋称台湾将成为AI革命的中心，引发地缘政治讨论。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+          "importance": 8,
+          "items": [
+            "9955b147f086d851",
+            "8a73cbe4a5f8efbc"
+          ],
+          "cover_path": "out/media/2026-05-28/company-01.jpg"
+        },
+        {
+          "headline": "Snowflake与AWS签署$60亿AI芯片协议",
+          "summary": "Snowflake与AWS达成五年$60亿交易，确保AI CPU芯片供应，进一步减少对NVIDIA的依赖。",
+          "primary_url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+          "importance": 8,
+          "items": [
+            "3e593b0dfb2ed548"
+          ],
+          "cover_path": "out/media/2026-05-28/company-02.jpg"
+        },
+        {
+          "headline": "OpenRouter一年内估值翻倍至$13亿",
+          "summary": "OpenRouter完成$1.13亿B轮融资，使用量半年增长5倍，预示多模型API代理时代到来。",
+          "primary_url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+          "importance": 7,
+          "items": [
+            "cf46f86bc634a481"
+          ],
+          "cover_path": "out/media/2026-05-28/company-03.jpg"
+        },
+        {
+          "headline": "Meta全球推出Facebook/Instagram/WhatsApp付费订阅",
+          "summary": "Meta One订阅计划上线，包括AI功能、创作者工具等多项服务，但无去广告选项。",
+          "primary_url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+          "importance": 7,
+          "items": [
+            "a44658d5b0a47e8e"
+          ],
+          "cover_path": "out/media/2026-05-28/company-04.jpg"
+        },
+        {
+          "headline": "中国收紧AI顶尖人才出境管控",
+          "summary": "报道称中国要求顶尖AI研究人员出境需获批准，以留住人才并维护技术竞争优势。",
+          "primary_url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+          "importance": 7,
+          "items": [
+            "7e753788ed82044e",
+            "2e7caa4c07dbe5a3"
+          ],
+          "cover_path": "out/media/2026-05-28/company-05.jpg"
+        },
+        {
+          "headline": "华为提出芯片新定律“韬”，冲击1.4nm制程",
+          "summary": "华为芯片女王何庭波宣布“韬定律”，目标五年内实现等效1.4nm工艺，麒麟和昇腾芯片将陆续落地。",
+          "primary_url": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
+          "importance": 7,
+          "items": [
+            "bcc7931eef01ffbd",
+            "207edf631f772506"
+          ],
+          "cover_path": "out/media/2026-05-28/company-06.jpg"
+        },
+        {
+          "headline": "ClickHouse年度营收翻三倍至$2.5亿，筹备IPO",
+          "summary": "数据库公司ClickHouse年化收入达$2.5亿，较去年增长三倍，正考虑未来几年上市。",
+          "primary_url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+          "importance": 7,
+          "items": [
+            "e3f5d0f40d30e270"
+          ],
+          "cover_path": "out/media/2026-05-28/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "Claude Mythos据称解决OpenAI未破的Erdos难题",
+          "summary": "Anthropic的Claude Mythos据报以简洁优雅的证明解决了著名的Erdos问题，引发数学与AI社区震动。",
+          "primary_url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+          "importance": 7,
+          "items": [
+            "7c220dba8d039c61"
+          ],
+          "cover_path": "out/media/2026-05-28/research-00.jpg"
+        },
+        {
+          "headline": "前沿模型在企业IT任务基准上得分不足50%",
+          "summary": "IBM与Artificial Analysis发布ITBench-AA，首个评估Agent在IT运维任务上的基准，多数模型不及格。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+          "importance": 7,
+          "items": [
+            "db9d1844ffb4581b"
+          ],
+          "cover_path": "out/media/2026-05-28/research-01.jpg"
+        },
+        {
+          "headline": "ESMFold2：蛋白质领域迎来“苦涩教训”",
+          "summary": "BioHub的Alex Rives在访谈中强调，ESMFold2的成功源于大规模数据而非模型设计，改变蛋白质研究范式。",
+          "primary_url": "https://www.latent.space/p/esmfold2",
+          "importance": 7,
+          "items": [
+            "52781126b1deb0b2"
+          ],
+          "cover_path": "out/media/2026-05-28/research-02.jpg"
+        },
+        {
+          "headline": "星源智发布400万问答对具身数据集，决策性能碾压GPT-5",
+          "summary": "该数据集和训练框架让具身模型学会先思考后行动，在复杂任务上大幅超越GPT-5等语言模型。",
+          "primary_url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p",
+          "importance": 6,
+          "items": [
+            "f931ddd0d20dc38e"
+          ],
+          "cover_path": "out/media/2026-05-28/research-03.jpg"
+        },
+        {
+          "headline": "VGGT-Edit实现5秒3D场景编辑，加速120倍",
+          "summary": "北大、港中文等提出VGGT-Edit，直接从3D表征编辑，无需回到2D，速度大幅提升。",
+          "primary_url": "https://www.qbitai.com/2026/05/425870.html",
+          "importance": 6,
+          "items": [
+            "290e678b5dfdda24"
+          ],
+          "cover_path": "out/media/2026-05-28/research-04.jpg"
+        },
+        {
+          "headline": "研究提出LLM类睡眠巩固机制，提升建模稳定性",
+          "summary": "arXiv论文模仿睡眠巩固过程，通过记忆重放和修剪改善LLM长期建模能力和泛化性能。",
+          "primary_url": "https://arxiv.org/abs/2605.26099",
+          "importance": 5,
+          "items": [
+            "877e9b0994c07716"
+          ],
+          "cover_path": "out/media/2026-05-28/research-05.jpg"
+        },
+        {
+          "headline": "EAGLE 3.1修复LLM推测解码中的注意力漂移",
+          "summary": "EAGLE团队联合vLLM和TorchSpec发布EAGLE 3.1，修复生产环境中推测解码的不稳定性。",
+          "primary_url": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
+          "importance": 5,
+          "items": [
+            "e2cd058b21e2056f"
+          ],
+          "cover_path": "out/media/2026-05-28/research-06.jpg"
+        },
+        {
+          "headline": "MEMO框架：无需修改LLM参数即可注入新知识",
+          "summary": "NUS、MIT等提出MEMO模块化框架，训练专用记忆模型编码知识，实现知识进化而不改动原模型。",
+          "primary_url": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
+          "importance": 5,
+          "items": [
+            "c49011eba4c9c251"
+          ],
+          "cover_path": "out/media/2026-05-28/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "YouTube本月起自动标记AI生成视频",
+          "summary": "YouTube升级AI标签系统，将自动检测并标记逼真的AI视频，不再依赖创作者自声明。",
+          "primary_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "importance": 9,
+          "items": [
+            "c85d669fedf36a91",
+            "dda8af8a89edf897",
+            "3bd34b0ea8c61cd7",
+            "d25558ead7f10235"
+          ],
+          "cover_path": "out/media/2026-05-28/product-00.jpg"
+        },
+        {
+          "headline": "Robinhood开放API：AI Agent可代客交易股票",
+          "summary": "Robinhood推出Agent钱包，允许AI机器人在授权范围内执行交易和信用卡支付，开启金融Agent时代。",
+          "primary_url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+          "importance": 8,
+          "items": [
+            "0e0a69066eee9184",
+            "92150eab61c06f5d"
+          ],
+          "cover_path": "out/media/2026-05-28/product-01.jpg"
+        },
+        {
+          "headline": "快手可灵AI年化收入近5亿美元，同比增长4倍",
+          "summary": "可灵AI一季度ARR达近5亿美元，B端API和P端付费订阅双轮驱动增长迅速。",
+          "primary_url": "https://36kr.com/newsflashes/3827487780492161",
+          "importance": 7,
+          "items": [
+            "2da666d42625aa8d"
+          ],
+          "cover_path": "out/media/2026-05-28/product-02.jpg"
+        },
+        {
+          "headline": "OpenAI展示Codex在Cisco、税务和Warp三大场景落地",
+          "summary": "Cisco用Codex实现工程自动化，Thrive构建自改进税务Agent，Warp集成GPT-5.5协调编码工作流。",
+          "primary_url": "https://openai.com/index/cisco",
+          "importance": 7,
+          "items": [
+            "d6b52116c6eb885e",
+            "f0a99745e4f06b6c",
+            "606cca946702123c"
+          ]
+        },
+        {
+          "headline": "DuckDuckGo安装量涨30%，用户不满Google强推AI搜索",
+          "summary": "Google I/O后用户反感AI摘要，DuckDuckGo等非AI搜索引擎安装量飙升，用户寻找替代方案。",
+          "primary_url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+          "importance": 7,
+          "items": [
+            "522cb94ccee1b2ca",
+            "50ebd0f1ec0bd936"
+          ],
+          "cover_path": "out/media/2026-05-28/product-04.jpg"
+        },
+        {
+          "headline": "ElevenLabs发布新音乐生成模型，支持歌曲中段切换风格",
+          "summary": "新模型允许用户重新生成歌曲的某一部分而不影响整体，音乐创作更灵活。",
+          "primary_url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+          "importance": 6,
+          "items": [
+            "60c1391eb4ddedd6"
+          ],
+          "cover_path": "out/media/2026-05-28/product-05.jpg"
+        },
+        {
+          "headline": "DeepSeek陈德里开发自动研究Agent，论文99%由AI撰写",
+          "summary": "DeepSeek研究员陈德里创建自动研究Skill，可完成从文献到论文全流程，人类仅需投入2小时脑力。",
+          "primary_url": "https://www.qbitai.com/2026/05/425523.html",
+          "importance": 6,
+          "items": [
+            "3b660eb7151f77cc"
+          ],
+          "cover_path": "out/media/2026-05-28/product-06.jpg"
+        },
+        {
+          "headline": "全新问界M9发布，全系标配华为ADS 5.0",
+          "summary": "新一代问界M9售价47.98-65.98万元，搭载896线激光雷达等多传感器，AI驾驶能力大幅提升。",
+          "primary_url": "https://36kr.com/newsflashes/3827520794006402",
+          "importance": 6,
+          "items": [
+            "e18730f51c05839d"
+          ],
+          "cover_path": "out/media/2026-05-28/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "教皇AI通谕引托尔金讽刺科技大亨曲解权力",
+          "summary": "教皇Leo XIV在首份AI通谕中借《指环王》批评科技巨头的权力集中，并与Anthropic合作。",
+          "primary_url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+          "importance": 7,
+          "items": [
+            "b706016059655290",
+            "4079b33851e435de",
+            "7a3b3f4519d5aebf"
+          ],
+          "cover_path": "out/media/2026-05-28/opinion-00.jpg"
+        },
+        {
+          "headline": "MIT报告：76%企业组织架构尚未准备好应对Agentic AI",
+          "summary": "尽管85%组织想在未来三年实现Agent化，但多数组织需从根本上重新设计架构才能适应。",
+          "primary_url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+          "importance": 7,
+          "items": [
+            "373515a43a3b7fa2"
+          ],
+          "cover_path": "out/media/2026-05-28/opinion-01.jpg"
+        },
+        {
+          "headline": "Simon Willison：Anthropic和OpenAI已找到产品市场匹配",
+          "summary": "博客指出两家公司即将盈利或已扭亏为盈，AI产品真正开始创造价值，行业进入新阶段。",
+          "primary_url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "importance": 7,
+          "items": [
+            "3883f189cc533baf"
+          ]
+        },
+        {
+          "headline": "美国执法部门警告AI仇恨催生反科技极端主义",
+          "summary": "FBI等机构警惕针对AI及科技行业的新一轮极端威胁，呼吁企业加强安全和社区关注。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+          "importance": 6,
+          "items": [
+            "807963ca863468c2"
+          ],
+          "cover_path": "out/media/2026-05-28/opinion-03.jpg"
+        },
+        {
+          "headline": "Altman和Amodei改口：AI不会立即消灭大量工作",
+          "summary": "两位AI领袖在多方压力下收回此前关于AI将大规模取代工作的预测，转向更谨慎的表述。",
+          "primary_url": "https://the-decoder.com/sam-altman-and-dario-amodei-walk-back-their-ai-job-apocalypse-predictions/",
+          "importance": 6,
+          "items": [
+            "d42d1fe91eee567e"
+          ],
+          "cover_path": "out/media/2026-05-28/opinion-04.jpg"
+        },
+        {
+          "headline": "Hacker News热帖：我厌倦了与AI交谈",
+          "summary": "一篇个人博客获近2000点赞，表达对AI无处不在的对话体验的疲惫感，引发广泛共鸣。",
+          "primary_url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+          "importance": 6,
+          "items": [
+            "fa25890d51e3e9bd"
+          ]
+        },
+        {
+          "headline": "Google Cloud COO：AI安全应上升到董事会层面",
+          "summary": "Google Cloud COO强调AI安全治理应成为企业战略，而非仅IT部门责任，需高层重视。",
+          "primary_url": "https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/",
+          "importance": 5,
+          "items": [
+            "fd683ef2b19eabd9"
+          ],
+          "cover_path": "out/media/2026-05-28/opinion-06.jpg"
+        },
+        {
+          "headline": "Stack Overflow论坛因AI衰落，但公司业务幸存",
+          "summary": "文章分析Stack Overflow受AI冲击用户流失，但通过企业服务等业务仍能维持运营和盈利。",
+          "primary_url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+          "importance": 5,
+          "items": [
+            "440b95c59f4dd9bd"
+          ],
+          "cover_path": "out/media/2026-05-28/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Starlette严重漏洞BadHost曝出，数百万AI Agent面临威胁",
+          "summary": "开源Python包Starlette存在高危漏洞，攻击者可劫持AI Agent通信，影响数百万Agent安全。",
+          "primary_url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+          "importance": 9,
+          "items": [
+            "8e3ed56c3ed5aebb"
+          ],
+          "cover_path": "out/media/2026-05-28/opensource-00.jpg"
+        },
+        {
+          "headline": "微软开源AI Agent治理工具包：策略执行和零信任沙箱",
+          "summary": "微软发布Agent Governance Toolkit，涵盖策略执行、零信任身份和OWASP Agent Top 10防护。",
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "importance": 6,
+          "items": [
+            "8dd243fffcdc353c"
+          ],
+          "cover_path": "out/media/2026-05-28/opensource-01.jpg"
+        },
+        {
+          "headline": "Anthropic发布知识工作插件库，为Agent赋能专业角色",
+          "summary": "开源插件集合将Claude Cowork转化为行业专家，覆盖多个角色，提升Agent专业化能力。",
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "importance": 6,
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-05-28/opensource-02.jpg"
+        },
+        {
+          "headline": "Hugging Face开源$2500人形机器人腿，可3D打印",
+          "summary": "Hugging Face推出低成本开源双足机器人项目，让开发者更容易进行机器人实验和研究。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+          "importance": 6,
+          "items": [
+            "19027205d162cf56"
+          ],
+          "cover_path": "out/media/2026-05-28/opensource-03.jpg"
+        },
+        {
+          "headline": "Reachy Mini机器人实现完全本地AI运行",
+          "summary": "开源机器人Reachy Mini现在可在本地运行所有模型，无需云依赖，保护隐私和实时性。",
+          "primary_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+          "importance": 5,
+          "items": [
+            "d965383b72acbf69"
+          ],
+          "cover_path": "out/media/2026-05-28/opensource-04.jpg"
+        },
+        {
+          "headline": "NVIDIA开源Polar框架，简化Agent强化学习训练",
+          "summary": "Polar作为token faithful rollout框架，支持Codex、Claude Code等Agent的GRPO训练，提升训练效率。",
+          "primary_url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+          "importance": 5,
+          "items": [
+            "0d84d0f3c5b48a78"
+          ],
+          "cover_path": "out/media/2026-05-28/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
