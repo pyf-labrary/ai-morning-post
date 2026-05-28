@@ -1,0 +1,479 @@
+{
+  "date": "2026-05-29",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic 发布 Claude Opus 4.8，自带动态工作流",
+          "summary": "Anthropic 推出新旗舰模型 Claude Opus 4.8，性能超越 GPT-5.5，并引入 Dynamic Workflows 工具支持千个子 Agent 编排。",
+          "primary_url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "items": [
+            "56892de7e427af3c",
+            "6dbeb29fcd81e6b4",
+            "283deebd7e17fbba",
+            "dda12b2732920657",
+            "51ca3d3766d4a1cd"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-05-29/model_release-00.jpg"
+        },
+        {
+          "headline": "微软 MAI-Image-2.5 图像模型对标谷歌 Nano Banana 2",
+          "summary": "微软发布新一代图像生成模型 MAI-Image-2.5，在多项基准上与 Google Nano Banana 2 持平。",
+          "primary_url": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/",
+          "items": [
+            "55981dd070e40b2e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/model_release-01.jpg"
+        },
+        {
+          "headline": "ElevenLabs Music v2 可无缝切换歌剧与金属",
+          "summary": "ElevenLabs 推出 Music v2 模型，支持跨风格音乐生成，保持音乐连贯性。",
+          "primary_url": "https://the-decoder.com/elevenlabs-music-v2-promises-opera-to-metal-transitions-without-losing-musical-coherence/",
+          "items": [
+            "22107a2e512218b6"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 完成 650 亿美元 H 轮融资，估值逼近万亿",
+          "summary": "Anthropic 以 9650 亿美元估值融资 650 亿美元，为可能最后的私有融资轮，IPO 预期升温。",
+          "primary_url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "items": [
+            "8ca240ba87f83f0b",
+            "e4e900971871007a",
+            "1f1fe9f5826d75f0"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-05-29/company-00.jpg"
+        },
+        {
+          "headline": "AI 编程 Agent Devin 公司 Cognition 估值翻倍至 260 亿美元",
+          "summary": "Cognition 在 Series D 融资中筹集 10 亿美元，估值从 130 亿升至 260 亿美元，不到九个月翻倍。",
+          "primary_url": "https://the-decoder.com/ai-coding-agent-devin-maker-cognition-more-than-doubles-its-valuation-to-26-billion-in-under-nine-months/",
+          "items": [
+            "0cfa67c07bc0e5c5",
+            "f5308853657028cd"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-05-29/company-01.jpg"
+        },
+        {
+          "headline": "Nvidia 砸 1500 亿美元押注台湾，不买美国 AI 中心账",
+          "summary": "Nvidia CEO 宣布每年在台湾投资 1500 亿美元，将其打造为 AI 核心，与美国制造计划背道而驰。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+          "items": [
+            "8a73cbe4a5f8efbc"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-29/company-02.jpg"
+        },
+        {
+          "headline": "Meta One 订阅上线，扎克伯格为 AI 支出定价",
+          "summary": "Meta 推出 Meta One 订阅服务，首次将巨额的 AI 基础设施投资转化为直接面向用户的收费产品。",
+          "primary_url": "https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/",
+          "items": [
+            "ad4401cfc5af97dd"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-29/company-03.jpg"
+        },
+        {
+          "headline": "苹果计划将 Gemini 压缩进 iPhone，新 Siri 应用曝光",
+          "summary": "Apple 正尝试蒸馏 Google 的巨型 Gemini 模型以在 iPhone 本地运行，同时全新 Siri 应用渲染图流出，挑战 ChatGPT。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+          "items": [
+            "d247037d873118ad",
+            "a8e4a05b62d77c3a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-05-29/company-04.jpg"
+        },
+        {
+          "headline": "Asana 收购无代码 Agent 构建器 StackAI",
+          "summary": "Asana 收购 StackAI 以增强其 AI 工作流工具套件，进一步布局智能自动化。",
+          "primary_url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+          "items": [
+            "c121da1cf34a10d0"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/company-05.jpg"
+        },
+        {
+          "headline": "Visa 投资 Replit，推动 AI 代理支付能力",
+          "summary": "Visa 战略投资 Replit，将允许开发者通过 AI Agent 实现支付功能，超 1000 名员工已在用 Replit 开发原型。",
+          "primary_url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+          "items": [
+            "fbdcc348837cfbf9"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/company-06.jpg"
+        },
+        {
+          "headline": "Snowflake 与 AWS 签署 60 亿美元 AI 芯片大单",
+          "summary": "Snowflake 与 AWS 签订五年 60 亿美元协议，用于获取 AI CPU 芯片，NVIDIA 压力再增。",
+          "primary_url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+          "items": [
+            "3e593b0dfb2ed548"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "ITBench-AA 基准：前沿模型在企业 IT 任务中均低于 50%",
+          "summary": "IBM 与 Artificial Analysis 推出首个企业级 Agent 基准 ITBench-AA，测试显示 GPT-5.5、Claude 4 等模型准确率均未过半。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+          "items": [
+            "db9d1844ffb4581b"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/research-00.jpg"
+        },
+        {
+          "headline": "研究揭示 LLM 即使被明确警告也「相信」错误断言",
+          "summary": "微调实验表明，大模型对训练数据中的错误信息存在顽固偏差，即使后续加入明确警示仍难以纠正。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+          "items": [
+            "c156a12116673f80"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/research-01.jpg"
+        },
+        {
+          "headline": "ESM 蛋白质世界模型发布：6.8B 蛋白、1.1B 结构",
+          "summary": "BioHub 发布 ESMFold2 与 ESMC-6B 模型，覆盖 68 亿蛋白质序列，推动可编程生物学发展。",
+          "primary_url": "https://www.latent.space/p/esmfold2",
+          "items": [
+            "44ae6dcaa3befc5d"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/research-02.jpg"
+        },
+        {
+          "headline": "AI 生成的 5 篇数学论文被会议接收，创业公司获 14 亿融资",
+          "summary": "00 后创始人洪乐潼的 AI 系统独立生成并形式化证明数学论文，8 篇中被接收 5 篇，公司已融资 14 亿元。",
+          "primary_url": "https://www.qbitai.com/2026/05/426198.html",
+          "items": [
+            "2053ae960b2c3678"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/research-03.jpg"
+        },
+        {
+          "headline": "Sakana AI 提出 DiffusionBlocks：分块训练残差网络",
+          "summary": "Sakana AI 将残差网络转换为独立可训练的去噪模块，实现类似扩散模型的块级训练框架。",
+          "primary_url": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
+          "items": [
+            "9b0a753fdc774e23"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-29/research-04.jpg"
+        },
+        {
+          "headline": "7B 医学 AI 智能体击败 o3、GPT-5：学会“看哪、怎么看”",
+          "summary": "一种 7B 参数的医学 Agent 通过新型注意力机制在诊断任务上超越 GPT-5 等大模型，标志医学 AI 进入新拐点。",
+          "primary_url": "https://www.qbitai.com/2026/05/426150.html",
+          "items": [
+            "530ab3813f9c6669"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-29/research-05.jpg"
+        },
+        {
+          "headline": "ICRA 2026 多机器人研究：灵巧操作、双臂协同取得进展",
+          "summary": "ICRA 2026 上，李飞飞团队、新国立、港中文等展示软体物体操作、双臂适配、力蒸馏 VLA 等突破。",
+          "primary_url": "https://www.leiphone.com/category/robot/sfkY58PVaS2MHomp.html",
+          "items": [
+            "2e5e332b2df53e2a",
+            "bd671afa69aacf61",
+            "e512435af41704c0",
+            "dacf33336fb43d3f",
+            "438a77a86d992653"
+          ],
+          "importance": 4
+        },
+        {
+          "headline": "星源智发布 400 万问答对数据集，具身模型学会“先想后做”",
+          "summary": "星源智推出大规模具身问答数据集，结合训练框架使决策性能碾压 GPT-5。",
+          "primary_url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p",
+          "items": [
+            "f931ddd0d20dc38e"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-29/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "YouTube 将自动标记 AI 生成视频",
+          "summary": "YouTube 宣布自动检测并标注 AI 视频，但动画、不真实或仅含少量 AI 内容的视频可能仍被隐藏来源。",
+          "primary_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "items": [
+            "dda8af8a89edf897",
+            "d25558ead7f10235"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-05-29/product-00.jpg"
+        },
+        {
+          "headline": "Oculus 创始人的 Sesame 对话 AI 应用正式上架 iOS",
+          "summary": "Sesame 推出 iOS 版对话 AI Agent，强调类人自然对话体验，试图超越传统聊天机器人。",
+          "primary_url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+          "items": [
+            "3528928203bfd735"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/product-01.jpg"
+        },
+        {
+          "headline": "Mistral 将 LeChat 更名为 Vibe，押注全能办公 Agent",
+          "summary": "Mistral 正式将旗下聊天产品 LeChat 更名为 Vibe，定位为可执行复杂工作流的端到端 Agent。",
+          "primary_url": "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/",
+          "items": [
+            "c637ca5ea23002cd"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/product-02.jpg"
+        },
+        {
+          "headline": "腾讯云 Agent 全栈升级，WorkBuddy 等产品全球上线",
+          "summary": "腾讯云在香港大会宣布 Agent Runtime 全栈升级，WorkBuddy、Miora 和 TokenHub 正式面向海外客户。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/50cgx7AdZ3LM8Ka1.html",
+          "items": [
+            "68144a6d9c5ec87e"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Google Cloud 推出 AI 威胁防御平台，分钟级堵上安全漏洞",
+          "summary": "Google Cloud 发布 AI 威胁防御平台，利用 AI 加速响应网络攻击，目标是将安全缺口修复时间压缩到分钟。",
+          "primary_url": "https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/",
+          "items": [
+            "46ecbdcde3b80101"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/product-04.jpg"
+        },
+        {
+          "headline": "AWS 宣称数据中心网络突破，加速 AI 基础设施",
+          "summary": "Amazon 表示在网络方面取得重大突破，极大提升数据中心间信息流动速度，为 AI 云提供更强底座。",
+          "primary_url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+          "items": [
+            "8120ce448304b039"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/product-05.jpg"
+        },
+        {
+          "headline": "Robinhood 推出 Agentic Trading：让 AI 代理直接交易",
+          "summary": "Robinhood 上线代理交易功能，用户可将交易决策交由 AI Agent 执行。",
+          "primary_url": "https://www.producthunt.com/products/robinhood",
+          "items": [
+            "506b1a1cb0a8c5c5"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "Vertu 发布万元 AI 折叠屏手机，主打企业级 Agent 工作流",
+          "summary": "Vertu 推出起价 6880 美元的 AI 折叠手机，集成 Hermes 开源项目，专为 CEO 等企业高管打造。",
+          "primary_url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+          "items": [
+            "aec43192bb6ad727"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Simon Willison 认为 Anthropic 和 OpenAI 已找到 PMF",
+          "summary": "Anthropic 即将首次实现季度盈利，OpenAI 营收暴涨，Simon Willison 评论称两家公司找到了产品-市场契合点。",
+          "primary_url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+          "items": [
+            "3883f189cc533baf"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "Altman 和 Amodei 收回 AI 取代工作的预言",
+          "summary": "Sam Altman 和 Dario Amodei 分别表示 AI 对就业的冲击可能没有之前渲染的那么严重，语气明显软化。",
+          "primary_url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+          "items": [
+            "d26ca2b1b4ad1f26"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/opinion-01.jpg"
+        },
+        {
+          "headline": "科技 CEO 正患“AI 精神病”——数字与现实脱节",
+          "summary": "TechCrunch 评论文章指出，多位科技 CEO 对 AI 的狂热预测与公司实际业务表现之间存在巨大鸿沟。",
+          "primary_url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+          "items": [
+            "43ccea983139f301"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 代币期货将至，算力被视为新型原材料",
+          "summary": "大型交易所正在设计围绕 AI 代币的衍生品，将计算输出视为像电力、带宽一样的原材料投入。",
+          "primary_url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+          "items": [
+            "8e718106c432e6a0"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/opinion-03.jpg"
+        },
+        {
+          "headline": "互联网正被为机器重建：AWS、Cloudflare 重新设计云基础设施",
+          "summary": "随着 AI Agent 从实验走向生产，AWS、Cloudflare 等正为以机器流量为主的未来重塑互联网基础设施。",
+          "primary_url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+          "items": [
+            "f356d69c1e3d435e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 支出冲击企业：ROI 压力下开始削减 Token 消耗",
+          "summary": "企业开始自上而下尝试合理化 AI 开支，Cursor、GCP 等平台出现 Token 费用暴增后客户要求控制成本的现象。",
+          "primary_url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+          "items": [
+            "43ae2a8fb8e14934",
+            "9700e8b303516b5c"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "MIT 科技评论 AI 炒作指数：AI 在毕业季被喝倒彩",
+          "summary": "Eric Schmidt 在大学毕业典礼呼吁学生帮助塑造 AI，却遭到现场嘘声；AI 热浪遭遇民意寒流。",
+          "primary_url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+          "items": [
+            "4cdc8f92d6cc9660"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/opinion-06.jpg"
+        },
+        {
+          "headline": "Databricks 联合创始人：企业 AI 交易的真正死因是安全",
+          "summary": "在 TechCrunch Disrupt 上，Databricks 联合创始人表示企业已经从「AI 是否令人兴奋」转向「AI 是否安全可部署」。",
+          "primary_url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+          "items": [
+            "b0aa8755b44c95f0"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "微软开源 Agent Governance Toolkit，覆盖 OWASP Top 10",
+          "summary": "微软发布 AI Agent 治理开源工具包，提供策略执行、零信任身份、沙箱执行与可靠性工程能力。",
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "items": [
+            "8dd243fffcdc353c"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-05-29/opensource-00.jpg"
+        },
+        {
+          "headline": "Perplexity 开源 Unigram Tokenizer，延迟降低 5 倍",
+          "summary": "Perplexity AI 开源重写的 Unigram 分词器，将重新排序延迟降低 5 倍，CPU 利用率减少 5-6 倍。",
+          "primary_url": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
+          "items": [
+            "67021d85015ce459"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/opensource-01.jpg"
+        },
+        {
+          "headline": "SQLite 仓库新增 AGENTS.md，规范 AI 代码助手行为",
+          "summary": "SQLite 在其主仓库中添加 AGENTS.md 文件，为 AI 代码助手提供专属开发指南。",
+          "primary_url": "https://github.com/sqlite/sqlite/blob/master/AGENTS.md",
+          "items": [
+            "7912e740158bbb65"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/opensource-02.jpg"
+        },
+        {
+          "headline": "Anthropic 开源 Knowledge Work Plugins，让 Claude 变领域专家",
+          "summary": "Anthropic 发布知识工作插件套件，用户可将 Claude 定制为特定角色、团队和公司的专家助手。",
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/opensource-03.jpg"
+        },
+        {
+          "headline": "Anthropic 发布 Agent Skills 开源仓库",
+          "summary": "Anthropic 开源 Agent Skills 实现，支持标准化的技能系统供 Claude 等 Agent 使用。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/opensource-04.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 Polar 框架：强化学习训练代码 Agent",
+          "summary": "NVIDIA 发布 Polar，一个基于 GRPO 的 token 忠实 rollout 框架，支持在 Codex、Claude Code 等上训练语言 Agent。",
+          "primary_url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+          "items": [
+            "0d84d0f3c5b48a78"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-05-29/opensource-05.jpg"
+        },
+        {
+          "headline": "程序员开发 stop-slop：移除 AI 写作痕迹的开源技能",
+          "summary": "GitHub 项目 stop-slop 提供技能文件，用于清除 AI 文本中的典型“机器味”，提升自然度。",
+          "primary_url": "https://github.com/hardikpandya/stop-slop",
+          "items": [
+            "6e15a97ee89d9d31"
+          ],
+          "importance": 4
+        },
+        {
+          "headline": "Heretic：全自动消除语言模型审查的对抗工具",
+          "summary": "开源项目 Heretic 利用对抗技术自动移除大语言模型中的审查限制，引发伦理争议。",
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-05-29/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
