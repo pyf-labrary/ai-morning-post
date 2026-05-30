@@ -1,0 +1,464 @@
+{
+  "date": "2026-05-31",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "StepFun发布Step 3.7 Flash：198B MoE视觉语言模型",
+          "summary": "StepFun推出Step 3.7 Flash，198B参数MoE架构，原生视觉支持，256k上下文，面向编程Agent与搜索工作流。海光同日完成适配。",
+          "primary_url": "https://www.marktechpost.com/2026/05/29/stepfun-releases-step-3-7-flash-a-198b-moe-vision-language-model-for-coding-agents-and-search-workflows/",
+          "importance": 8,
+          "items": [
+            "500a6fc41155372a",
+            "f4f14b2f7f1cefca",
+            "c6577f4ceeb38200"
+          ],
+          "cover_path": "out/media/2026-05-31/model_release-00.jpg"
+        },
+        {
+          "headline": "Liquid AI发布8B-A1B MoE模型，训练于38T tokens",
+          "summary": "Liquid AI推出LFM 2.5 8B-A1B，混合专家模型，在多个基准上表现强劲，已在Hacker News引发热议。",
+          "primary_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+          "importance": 6,
+          "items": [
+            "3fb29d57ca4339ec"
+          ],
+          "cover_path": "out/media/2026-05-31/model_release-01.jpg"
+        },
+        {
+          "headline": "OpenAI升级GPT-5.5 Instant可读性，逐步淘汰旧模型",
+          "summary": "OpenAI为GPT-5.5 Instant模型提升可读性，同时开始淘汰两个较旧模型版本。",
+          "primary_url": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/",
+          "importance": 4,
+          "items": [
+            "f97a40bd687ed3e7"
+          ],
+          "cover_path": "out/media/2026-05-31/model_release-02.jpg"
+        },
+        {
+          "headline": "英伟达发布Eagle视觉语言模型，数据驱动策略",
+          "summary": "NVlabs开源Eagle系列视觉语言模型，采用数据为中心的训练策略，在多个榜单上取得领先。",
+          "primary_url": "https://github.com/NVlabs/Eagle",
+          "importance": 4,
+          "items": [
+            "4393abff2b4d7198"
+          ],
+          "cover_path": "out/media/2026-05-31/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "软银拟投资750亿欧元建设法国数据中心",
+          "summary": "软银宣布计划投资高达750亿欧元，在法国开发和运营多达5吉瓦的数据中心容量，为AI计算提供基础设施。",
+          "primary_url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "importance": 8,
+          "items": [
+            "005b72931fe60b55"
+          ],
+          "cover_path": "out/media/2026-05-31/company-00.jpg"
+        },
+        {
+          "headline": "AI芯片创企Groq据报融资6.5亿美元",
+          "summary": "继英伟达的20亿美元收购传闻后，芯片初创公司Groq正筹集6.5亿美元内部资金，转向AI推理服务。",
+          "primary_url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+          "importance": 7,
+          "items": [
+            "4e8539ab012b6ee6"
+          ],
+          "cover_path": "out/media/2026-05-31/company-01.jpg"
+        },
+        {
+          "headline": "OpenRouter完成1.13亿美元B轮融资",
+          "summary": "AI模型路由平台OpenRouter宣布1.13亿美元B轮融资，用以扩展服务和支持更多模型。",
+          "primary_url": "https://openrouter.ai/announcements/series-b",
+          "importance": 7,
+          "items": [
+            "791c9992501ed7e9"
+          ],
+          "cover_path": "out/media/2026-05-31/company-02.jpg"
+        },
+        {
+          "headline": "微软与英伟达密谋合作AI PC，搭载真实Agent",
+          "summary": "据爆料，微软和英伟达正联手打造新一代AI PC，将直接运行自主Agent取代传统的Copilot体验。",
+          "primary_url": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/",
+          "importance": 6,
+          "items": [
+            "cd9b4a65508fd5af"
+          ],
+          "cover_path": "out/media/2026-05-31/company-03.jpg"
+        },
+        {
+          "headline": "Meta内部备忘录泄露AI挂件、超级感知眼镜计划",
+          "summary": "Meta泄漏的备忘录显示其硬件路线图包括AI挂件、超级感知眼镜以及企业可穿戴设备战略。",
+          "primary_url": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/",
+          "importance": 6,
+          "items": [
+            "e1afc169e1759610",
+            "88223196b5070162"
+          ],
+          "cover_path": "out/media/2026-05-31/company-04.jpg"
+        },
+        {
+          "headline": "Anthropic超越OpenAI成最具价值AI创业公司",
+          "summary": "据报道，Anthropic估值超越OpenAI，成为全球最具价值AI初创企业。",
+          "primary_url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+          "importance": 5,
+          "items": [
+            "6c5ddac578201db0"
+          ],
+          "cover_path": "out/media/2026-05-31/company-05.jpg"
+        },
+        {
+          "headline": "比亚迪自研4nm AI芯片，制程对标英伟达",
+          "summary": "比亚迪发布自研AI芯片，采用4nm工艺，算力强劲，将用于智能驾驶。",
+          "primary_url": "https://www.qbitai.com/2026/05/426557.html",
+          "importance": 5,
+          "items": [
+            "1acb5efa208a3825"
+          ],
+          "cover_path": "out/media/2026-05-31/company-06.jpg"
+        },
+        {
+          "headline": "韩国AI芯片创企XCENA融资1.35亿美元",
+          "summary": "XCENA获1.35亿美元融资，押注内存是AI真正的瓶颈而非算力。",
+          "primary_url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+          "importance": 5,
+          "items": [
+            "75b328e48da6bf69"
+          ],
+          "cover_path": "out/media/2026-05-31/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "英伟达清华团队推出Gamma-World：多智能体世界模型",
+          "summary": "Gamma-World让世界模型从单人仿真扩展到多智能体交互，迈向更真实的虚拟环境。",
+          "primary_url": "https://www.qbitai.com/2026/05/426662.html",
+          "importance": 5,
+          "items": [
+            "b56cb54291c286ec",
+            "61441c304077b4c9"
+          ],
+          "cover_path": "out/media/2026-05-31/research-00.jpg"
+        },
+        {
+          "headline": "星源智联联合北大发布RoboAgent：3B VLM未知场景成功率94%",
+          "summary": "RoboAgent让3B参数视觉语言模型在未知场景下任务成功率高达94%，超越GPT-4o。",
+          "primary_url": "https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM",
+          "importance": 5,
+          "items": [
+            "0ce21a16f2082919"
+          ],
+          "cover_path": "out/media/2026-05-31/research-01.jpg"
+        },
+        {
+          "headline": "大规模研究发现：AI聊天机器人越有用，越难模拟人类行为",
+          "summary": "研究表明，提升AI助手的helpfulness会削弱其模拟人类行为的能力，两者存在权衡。",
+          "primary_url": "https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds/",
+          "importance": 4,
+          "items": [
+            "6ff8fb0b0787dbce"
+          ],
+          "cover_path": "out/media/2026-05-31/research-02.jpg"
+        },
+        {
+          "headline": "英伟达X-Token知识蒸馏：在Llama-3.2上提升3.82平均分",
+          "summary": "英伟达提出X-Token投影引导跨分词器知识蒸馏方法，显著提升小模型性能。",
+          "primary_url": "https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/",
+          "importance": 4,
+          "items": [
+            "d5c5f6c021991c6d"
+          ],
+          "cover_path": "out/media/2026-05-31/research-03.jpg"
+        },
+        {
+          "headline": "EY加拿大网络安全报告被发现大量AI幻觉引用",
+          "summary": "EY加拿大发布的一份网络安全报告中，多个引用被证实由AI编造，引发行业信任危机。",
+          "primary_url": "https://gptzero.me/investigations/ey",
+          "importance": 4,
+          "items": [
+            "fc111e18725e0f61"
+          ],
+          "cover_path": "out/media/2026-05-31/research-04.jpg"
+        },
+        {
+          "headline": "Kronos：面向金融市场的语言基础模型",
+          "summary": "Kronos被设计为金融领域的专用基础模型，通过市场语言数据进行训练。",
+          "primary_url": "https://github.com/shiyu-coder/Kronos",
+          "importance": 3,
+          "items": [
+            "63e722bc5a4684de"
+          ],
+          "cover_path": "out/media/2026-05-31/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Startup Shift免费帮清洁家，全程录像训练机器人",
+          "summary": "Shift公司雇佣戴摄像头的清洁工免费上门清洁，收集真实数据训练未来家务机器人。",
+          "primary_url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+          "importance": 7,
+          "items": [
+            "ac4ac65edd92048b",
+            "b97f967a8121db00"
+          ],
+          "cover_path": "out/media/2026-05-31/product-00.jpg"
+        },
+        {
+          "headline": "Google Gemini Spark实测：全天候AI助理很好用但定位模糊",
+          "summary": "Gemini Spark可自动处理邮件摘要、活动规划等，但作为独立产品的必要性存疑。",
+          "primary_url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "importance": 7,
+          "items": [
+            "e08e26559b133f42",
+            "a77f25da9941bc49"
+          ],
+          "cover_path": "out/media/2026-05-31/product-01.jpg"
+        },
+        {
+          "headline": "Robinhood开放AI代理交易股票功能",
+          "summary": "Robinhood平台允许用户授权的AI代理直接进行股票交易，引发市场关注。",
+          "primary_url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+          "importance": 6,
+          "items": [
+            "92150eab61c06f5d"
+          ],
+          "cover_path": "out/media/2026-05-31/product-02.jpg"
+        },
+        {
+          "headline": "OpenAI Codex获自主操作Windows能力，可自动调试应用",
+          "summary": "OpenAI的Codex现在可以自主控制Windows PC，执行bug查找和测试等任务。",
+          "primary_url": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+          "importance": 6,
+          "items": [
+            "13ca53555eaa901d"
+          ],
+          "cover_path": "out/media/2026-05-31/product-03.jpg"
+        },
+        {
+          "headline": "波士顿儿童医院用OpenAI技术诊断40多例罕见病",
+          "summary": "波士顿儿童医院利用OpenAI模型改善患者护理，帮助诊断40多例罕见疾病。",
+          "primary_url": "https://openai.com/index/boston-childrens-hospital",
+          "importance": 6,
+          "items": [
+            "2122e016d3885723"
+          ]
+        },
+        {
+          "headline": "Salesforce用AI Agent将231天迁移缩短至13天",
+          "summary": "Salesforce声称其AI代理在系统迁移中大幅缩短时间，并减少事故。",
+          "primary_url": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+          "importance": 5,
+          "items": [
+            "ba05d7965343a78a"
+          ],
+          "cover_path": "out/media/2026-05-31/product-05.jpg"
+        },
+        {
+          "headline": "思格新能源发布行业首个全域AI智能体SigenAgent",
+          "summary": "思格新能源推出SigenAgent，将能源管理带入AI智能体时代。",
+          "primary_url": "https://www.leiphone.com/category/ai/5q3DxRKzBzMEg7CQ.html",
+          "importance": 5,
+          "items": [
+            "027dad3624a21434"
+          ]
+        },
+        {
+          "headline": "Rokid乐奇AI眼镜创日本众筹纪录：6.24亿日元",
+          "summary": "乐奇AI眼镜在日本众筹平台Makuake募资超6.24亿日元，刷新平台历史纪录。",
+          "primary_url": "https://36kr.com/newsflashes/3831673401190273",
+          "importance": 4,
+          "items": [
+            "e50450fbf1424040"
+          ],
+          "cover_path": "out/media/2026-05-31/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "程序员拒绝在无AI环境下工作：长远看可能有害",
+          "summary": "越来越多程序员依赖AI编码，但研究者警告这可能导致代码质量下降和技能退化。",
+          "primary_url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+          "importance": 7,
+          "items": [
+            "c66010a1c65d63b6"
+          ],
+          "cover_path": "out/media/2026-05-31/opinion-00.jpg"
+        },
+        {
+          "headline": "Box创始人：大多数CEO都患了“AI精神病”",
+          "summary": "Aaron Levie指出，决定AI可以替换人类工作的CEO往往最不了解工作的真正内容。",
+          "primary_url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+          "importance": 7,
+          "items": [
+            "b3eef91e2d7e33b3",
+            "62568c05fb0ac1af"
+          ]
+        },
+        {
+          "headline": "请使用AI：一篇呼吁拥抱AI的病毒文章",
+          "summary": "Shawn Smucker发表《Please Use AI》，在Hacker News获得759票，引发广泛讨论。",
+          "primary_url": "https://shawnsmucker.substack.com/p/please-use-ai",
+          "importance": 7,
+          "items": [
+            "0ddc86a4f6b71337"
+          ]
+        },
+        {
+          "headline": "AI是否正在重演前端的“失落十年”？",
+          "summary": "一篇分析认为AI可能使前端开发重复过去的停滞阶段，引发技术栈担忧。",
+          "primary_url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+          "importance": 7,
+          "items": [
+            "317c44f88240203f"
+          ],
+          "cover_path": "out/media/2026-05-31/opinion-03.jpg"
+        },
+        {
+          "headline": "AI工作悲伤：科技工作者的心理危机",
+          "summary": "越来越多科技从业者因AI替代威胁经历心理上的“工作悲伤”，失去职业认同感。",
+          "primary_url": "https://jackmaguire.org/blog/ai-job-grief/",
+          "importance": 6,
+          "items": [
+            "4187a9454760fb44"
+          ],
+          "cover_path": "out/media/2026-05-31/opinion-04.jpg"
+        },
+        {
+          "headline": "对AI持有道德立场意味着被排斥，这很糟糕",
+          "summary": "一篇个人博文探讨在科技圈对AI持道德批判态度会遭到孤立，引发共鸣。",
+          "primary_url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
+          "importance": 6,
+          "items": [
+            "0f79f777838eeddd"
+          ],
+          "cover_path": "out/media/2026-05-31/opinion-05.jpg"
+        },
+        {
+          "headline": "我们应该比模型更累：关于AI疲劳的反思",
+          "summary": "Vicki Boykis认为人类对AI的疲劳感应该超过模型本身的负担，呼吁重新审视人机关系。",
+          "primary_url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+          "importance": 6,
+          "items": [
+            "c4889f96f0795ce1"
+          ],
+          "cover_path": "out/media/2026-05-31/opinion-06.jpg"
+        },
+        {
+          "headline": "梵蒂冈为何派“内线”进入Anthropic",
+          "summary": "Wired报道教皇利奥十四世与Anthropic的隐秘联系，梵蒂冈希望影响AI伦理发展。",
+          "primary_url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+          "importance": 6,
+          "items": [
+            "516168c1ba76421d"
+          ],
+          "cover_path": "out/media/2026-05-31/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic开源Claude Code终端编程工具",
+          "summary": "Claude Code是Anthropic推出的终端内Agent编程工具，可理解代码库并通过自然语言执行复杂任务。",
+          "primary_url": "https://github.com/anthropics/claude-code",
+          "importance": 8,
+          "items": [
+            "b18b533efd4deb94"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-00.jpg"
+        },
+        {
+          "headline": "Twenty：开源AI驱动Salesforce替代品",
+          "summary": "Twenty是一款开源CRM，专为AI时代设计，旨在取代Salesforce。",
+          "primary_url": "https://github.com/twentyhq/twenty",
+          "importance": 7,
+          "items": [
+            "b74d12487f2b7b13"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-01.jpg"
+        },
+        {
+          "headline": "MoneyPrinterTurbo：一键AI短视频生成工具",
+          "summary": "利用AI大模型一键生成高清短视频，GitHub热门项目。",
+          "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "importance": 7,
+          "items": [
+            "88d3056299e36e7f"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-02.jpg"
+        },
+        {
+          "headline": "Microsoft开源Markitdown：文档转Markdown工具",
+          "summary": "Markitdown是微软开源的Python工具，可将多种文件格式转换为Markdown，便于LLM处理。",
+          "primary_url": "https://github.com/microsoft/markitdown",
+          "importance": 6,
+          "items": [
+            "97acfa457484c9a4"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-03.jpg"
+        },
+        {
+          "headline": "LlamaIndex开源LiteParse：快速文档解析器",
+          "summary": "LiteParse是LlamaIndex团队开源的文档解析工具，速度快、支持多种格式。",
+          "primary_url": "https://github.com/run-llama/liteparse",
+          "importance": 6,
+          "items": [
+            "4f1ec54f72847414"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-04.jpg"
+        },
+        {
+          "headline": "Cursor发布官方插件系统及插件仓库",
+          "summary": "Cursor开放插件规范，提供官方插件支持流行开发工具。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "importance": 6,
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-05.jpg"
+        },
+        {
+          "headline": "Compound Engineering插件：为Claude/Codex等提供复合工程能力",
+          "summary": "开源插件使Claude Code、Codex等工具支持复合工程模式，提升Agent协作效能。",
+          "primary_url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "importance": 6,
+          "items": [
+            "41e6035506e6c608"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-06.jpg"
+        },
+        {
+          "headline": "Taste-Skill：让AI生成避免“垃圾”品味",
+          "summary": "开源技能文件引导AI模型生成更有品味、不泛泛的文本，受欢迎度高。",
+          "primary_url": "https://github.com/Leonxlnx/taste-skill",
+          "importance": 5,
+          "items": [
+            "a05599303500d743"
+          ],
+          "cover_path": "out/media/2026-05-31/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
