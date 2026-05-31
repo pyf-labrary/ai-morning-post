@@ -1,0 +1,407 @@
+{
+  "date": "2026-06-01",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "importance": 5,
+          "headline": "商汤开源8B无VAE生图模型，刷新开源上限",
+          "summary": "商汤发布8B参数开源图像生成模型，去除了传统VAE架构，在多项基准上达到开源最优水平。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/hBRYpm9vvt6sWbhJ.html",
+          "items": [
+            "33a298cd6ef3098e"
+          ]
+        },
+        {
+          "importance": 5,
+          "headline": "VoxCPM2与MOSS-TTS系列开源TTS模型齐发",
+          "summary": "OpenBMB发布VoxCPM2无分词器多语言TTS，MOSI.AI同时开源MOSS-TTS系列，覆盖高质量语音生成与克隆。",
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "items": [
+            "9f4860696df00d55",
+            "a3e42fa4cf98d215"
+          ],
+          "cover_path": "out/media/2026-06-01/model_release-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "NVIDIA开源Eagle视觉语言模型",
+          "summary": "NVIDIA实验室开源Eagle视觉-语言模型，采用数据为中心的策略，在多个视觉理解任务上达到前沿水平。",
+          "primary_url": "https://github.com/NVlabs/Eagle",
+          "items": [
+            "4393abff2b4d7198"
+          ],
+          "cover_path": "out/media/2026-06-01/model_release-02.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "Kronos金融基础模型开源，理解市场语言",
+          "summary": "开源项目Kronos发布面向金融市场的语言基础模型，旨在理解金融文本和交易信号。",
+          "primary_url": "https://github.com/shiyu-coder/Kronos",
+          "items": [
+            "63e722bc5a4684de"
+          ],
+          "cover_path": "out/media/2026-06-01/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "微软与英伟达联手开发AI PC，自研CPU曝光",
+          "summary": "据报道微软与英伟达合作打造运行AI agent的PC，英伟达自研CPU、类似MacBook Pro的硬件也被曝光。",
+          "primary_url": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/",
+          "items": [
+            "cd9b4a65508fd5af",
+            "5486e7470ed2abfb"
+          ],
+          "cover_path": "out/media/2026-06-01/company-00.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "GitHub Copilot改token计费，开发者怨声载道",
+          "summary": "GitHub宣布Copilot将采用基于token的新计费模式，引发大量开发者不满，被称为黄金时代终结。",
+          "primary_url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "items": [
+            "b37f4c741c5d4dcb"
+          ],
+          "cover_path": "out/media/2026-06-01/company-01.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "OpenRouter完成1.13亿美元B轮融资",
+          "summary": "AI模型聚合平台OpenRouter宣布获得1.13亿美元B轮融资，加速模型接入与推理服务。",
+          "primary_url": "https://openrouter.ai/announcements/series-b",
+          "items": [
+            "791c9992501ed7e9"
+          ],
+          "cover_path": "out/media/2026-06-01/company-02.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "软银斥资750亿欧元在法国建设AI数据中心",
+          "summary": "软银宣布最高投入750亿欧元在法国打造大型AI计算集群，成为欧洲最大数据中心项目。",
+          "primary_url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "items": [
+            "3505dc6dae2459cb",
+            "826a71d717b63848",
+            "005b72931fe60b55"
+          ],
+          "cover_path": "out/media/2026-06-01/company-03.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Anthropic官方披露如何安全部署Claude",
+          "summary": "Anthropic发布技术博客，详解在多产品中如何安全隔离和管控Claude模型，提升沙箱透明度。",
+          "primary_url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "items": [
+            "dac6ae24061bbd86"
+          ],
+          "cover_path": "out/media/2026-06-01/company-04.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Anthropic超越OpenAI成估值最高AI创企",
+          "summary": "消息称Anthropic估值超过OpenAI，成为全球最有价值的AI创业公司。",
+          "primary_url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+          "items": [
+            "6c5dd578201db0"
+          ],
+          "cover_path": "out/media/2026-06-01/company-05.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "DDIM之父宋佳铭宣布离职",
+          "summary": "扩散模型关键人物、DDIM提出者宋佳铭离开当前职位，引发行业关注。",
+          "primary_url": "https://www.qbitai.com/2026/05/427104.html",
+          "items": [
+            "45442fd52a70913e"
+          ],
+          "cover_path": "out/media/2026-06-01/company-06.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Anthropic禁止面试中使用AI工具",
+          "summary": "Anthropic宣布在招聘面试中禁止使用AI工具，以真实评估候选人的思考能力。",
+          "primary_url": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/",
+          "items": [
+            "4c38dd5f50f69e52"
+          ],
+          "cover_path": "out/media/2026-06-01/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "importance": 5,
+          "headline": "研究：让AI更乐于助人会削弱其模拟人类行为能力",
+          "summary": "大规模研究显示，提升AI聊天机器人的有用性会显著降低其模拟人类行为的能力，两者存在权衡。",
+          "primary_url": "https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds/",
+          "items": [
+            "6ff8fb0b0787dbce"
+          ],
+          "cover_path": "out/media/2026-06-01/research-00.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "AI搜索代理倾向确认已知而非真正研究",
+          "summary": "研究发现AI搜索代理在网页研究中常确认已有结论，而非进行真实的信息探索。",
+          "primary_url": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/",
+          "items": [
+            "1b8d802187437aa3"
+          ],
+          "cover_path": "out/media/2026-06-01/research-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "复旦×通义提出全新CUA训练范式",
+          "summary": "复旦大学与通义合作提出下一代CUA（代码理解与行动）训练范式，提升Agent工具选择能力。",
+          "primary_url": "https://www.qbitai.com/2026/05/427005.html",
+          "items": [
+            "ac4008046a34edcc"
+          ],
+          "cover_path": "out/media/2026-06-01/research-02.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "机器人原生世界动作模型问世",
+          "summary": "复旦系团队发布机器人原生世界动作模型，采用时空一体架构，半年获5轮融资。",
+          "primary_url": "https://www.qbitai.com/2026/05/426984.html",
+          "items": [
+            "4de255e862dff67e"
+          ],
+          "cover_path": "out/media/2026-06-01/research-03.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "τ0-WM：最大规模开源具身世界模型预训练",
+          "summary": "开源具身世界模型τ0-WM发布，使用17800小时真机数据训练，具备推理与交互能力。",
+          "primary_url": "https://www.qbitai.com/2026/05/426832.html",
+          "items": [
+            "cd94d7193d8b28b1"
+          ],
+          "cover_path": "out/media/2026-06-01/research-04.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Anthropic研究：男性使用AI编码代理是女性两倍",
+          "summary": "Anthropic研究发现，在社会科学研究中男性使用AI编码代理的频率是女性的两倍以上。",
+          "primary_url": "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/",
+          "items": [
+            "5310d14373245948"
+          ],
+          "cover_path": "out/media/2026-06-01/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "Meta被曝开发AI挂坠硬件",
+          "summary": "消息称Meta正在开发AI挂坠，作为AI硬件的又一新尝试。",
+          "primary_url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+          "items": [
+            "88223196b5070162"
+          ],
+          "cover_path": "out/media/2026-06-01/product-00.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Google Gemini Spark 24/7助手实测实用",
+          "summary": "TechCrunch实测Google新推出的全天候AI助手Gemini Spark，能自动总结收件箱、规划活动，但定位模糊。",
+          "primary_url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "items": [
+            "e08e26559b133f42"
+          ],
+          "cover_path": "out/media/2026-06-01/product-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "OpenClaw新增屏幕视觉能力，本地Agent更智能",
+          "summary": "本地AI智能体框架OpenClaw升级支持读取屏幕、使用键鼠，实现视觉交互。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/uV7OmZjvBiOcHxFD.html",
+          "items": [
+            "5c98e7e1ad8e2172"
+          ]
+        },
+        {
+          "importance": 4,
+          "headline": "GenFlow 4.0整合百度网盘，打破数据孤岛",
+          "summary": "GenFlow 4.0版本发布，重点实现了对百度网盘的深度集成，方便用户管理云端内容。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/lDqYfGMVuIQmMV88.html",
+          "items": [
+            "c3e6c53096b7bb95"
+          ]
+        },
+        {
+          "importance": 3,
+          "headline": "四道题实测Qwen3.7-Max：空间推理到3D建模",
+          "summary": "雷锋网对Qwen3.7-Max进行多题测试，评估其空间推理、3D建模等能力，离Agent更近。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/fWQzQKY9BezOu5is.html",
+          "items": [
+            "9af7d478e1985f64"
+          ]
+        },
+        {
+          "importance": 3,
+          "headline": "百度智能云DuMate办公Agent测评：调用Claude Code",
+          "summary": "百度企业级AI桌面助手DuMate实测，支持调用Claude Code等工具，提升办公效率。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/XwxzXl7mJVCNfRzh.html",
+          "items": [
+            "0c026b3ae1cb2a3d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "企业开始限流AI成本，WSJ报道费用飙升",
+          "summary": "华尔街日报报道，随着AI使用成本急剧上升，美国企业开始限制AI用量，推行配给制。",
+          "primary_url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+          "items": [
+            "be7d81d43796b7d2"
+          ]
+        },
+        {
+          "importance": 6,
+          "headline": "用户体验：取消AI订阅后反而更好",
+          "summary": "一位开发者反思使用AI工具后取消订阅，列出16+项目依赖AI但最终选择退出，引发共鸣。",
+          "primary_url": "https://thoughts.hmmz.org/2026-05-31.html",
+          "items": [
+            "fddcdebbafe9388d",
+            "851b747dad39ae1b"
+          ]
+        },
+        {
+          "importance": 5,
+          "headline": "EY加拿大报告大量引用为AI幻觉",
+          "summary": "调查发现EY加拿大发布的网络安全报告中大部分引用是AI编造的，引发行业信任危机。",
+          "primary_url": "https://gptzero.me/investigations/ey",
+          "items": [
+            "fc111e18725e0f61"
+          ],
+          "cover_path": "out/media/2026-06-01/opinion-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Erin Brockovich炮轰数据中心信息不透明",
+          "summary": "环保活动家Erin Brockovich加入反对数据中心秘密建设的行列，要求公开环境影响。",
+          "primary_url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "items": [
+            "9c95b18b3a5fb3b9"
+          ],
+          "cover_path": "out/media/2026-06-01/opinion-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "AI“精神病”辩论：科技CEO是否独特易感",
+          "summary": "TechCrunch Equity节目讨论AI领域CEO们是否容易陷入“AI精神病”的认知偏差。",
+          "primary_url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+          "items": [
+            "9e642bebee81ca38"
+          ],
+          "cover_path": "out/media/2026-06-01/opinion-04.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "AI岗位失落：科技工作者面临心理危机",
+          "summary": "专栏文章探讨AI对科技工作者造成的职业悲伤和心理冲击，引发广泛讨论。",
+          "primary_url": "https://jackmaguire.org/blog/ai-job-grief/",
+          "items": [
+            "4187a9454760fb44"
+          ],
+          "cover_path": "out/media/2026-06-01/opinion-05.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Terence Tao：AI将首次为数学带来劳动分工",
+          "summary": "著名数学家陶哲轩认为AI可能首次为数学领域带来劳动分工，改变研究范式。",
+          "primary_url": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/",
+          "items": [
+            "cae85a48362ccee8"
+          ],
+          "cover_path": "out/media/2026-06-01/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "importance": 5,
+          "headline": "Anthropic发布Agent Skills公共仓库",
+          "summary": "Anthropic推出Agent Skills标准与公共仓库，开发者可共享和复用AI代理技能。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-06-01/opensource-00.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "桌面Agent项目GitHub霸榜一周",
+          "summary": "一位开发者为其父亲打造的桌面Agent项目在GitHub Trending霸榜，引发关注。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/PzHnE8Ws2NDiVqrk.html",
+          "items": [
+            "dcdabec66d2f2b7c"
+          ]
+        },
+        {
+          "importance": 4,
+          "headline": "编程脚手架项目狂揽20万星，Agent基础设施爆发",
+          "summary": "名为'obra'的编程脚手架在GitHub获得20万星，标志Agent基础设施成为新战场。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/ScqpEp2yKaj6j71g.html",
+          "items": [
+            "63fcbce8cf1c5eb8"
+          ]
+        },
+        {
+          "importance": 3,
+          "headline": "Trajectory发布并发多LoRA训练栈",
+          "summary": "Trajectory联合UC Berkeley Sky Lab发布并发多LoRA训练栈，实验吞吐量提升2.81倍。",
+          "primary_url": "https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-continual-learning-reporting-a-2-81x-experiment-throughput-gain/",
+          "items": [
+            "4d108339fe580dad"
+          ],
+          "cover_path": "out/media/2026-06-01/opensource-03.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "LiteParse：快速开源文档解析器",
+          "summary": "LlamaIndex团队推出LiteParse，一个快速、开源且易于使用的文档解析工具。",
+          "primary_url": "https://github.com/run-llama/liteparse",
+          "items": [
+            "4f1ec54f72847414"
+          ],
+          "cover_path": "out/media/2026-06-01/opensource-04.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "CodeBoarding：AI代码架构可视化工具",
+          "summary": "开源工具CodeBoarding让AI生成的代码结构可视化，帮助开发者理解代码库。",
+          "primary_url": "https://github.com/CodeBoarding/CodeBoarding",
+          "items": [
+            "7bb050e6f15e73d1"
+          ],
+          "cover_path": "out/media/2026-06-01/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
