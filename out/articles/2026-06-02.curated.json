@@ -1,0 +1,385 @@
+{
+  "date": "2026-06-02",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "NVIDIA 发布 Cosmos 3 物理 AI 世界模型",
+          "summary": "NVIDIA 在 GTC Taipei 上正式发布 Cosmos 3，一个开放的世界基础模型，支持物理 AI 推理和行动。",
+          "importance": 8,
+          "primary_url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+          "items": [
+            "f664002e9af90596",
+            "673b507876a6de1b",
+            "4edc259350687a81"
+          ],
+          "cover_path": "out/media/2026-06-02/model_release-00.jpg"
+        },
+        {
+          "headline": "MiniMax 开源 M3 模型，支持百万 token 上下文",
+          "summary": "MiniMax 发布 M3 模型，采用 MSA 架构，支持原生多模态、代理编程以及百万 token 上下文窗口。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/",
+          "items": [
+            "127efcf51546d1d1",
+            "65b81f7de67bc6d9"
+          ],
+          "cover_path": "out/media/2026-06-02/model_release-01.jpg"
+        },
+        {
+          "headline": "NVIDIA Nemotron 3 Ultra 成为美国最强开源模型",
+          "summary": "Nemotron 3 Ultra 在多个基准测试中超越其他美国开源模型，但整体仍落后于中国竞品。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
+          "items": [
+            "291d3196b4b55d34"
+          ],
+          "cover_path": "out/media/2026-06-02/model_release-02.jpg"
+        },
+        {
+          "headline": "JetBrains 发布 Mellum2 12B MoE 模型",
+          "summary": "JetBrains 在 HuggingFace 上推出 Mellum2，一个 12B 参数的混合专家模型。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+          "items": [
+            "6919a018aa3c67c5"
+          ],
+          "cover_path": "out/media/2026-06-02/model_release-03.jpg"
+        },
+        {
+          "headline": "阿里发布 Qwen3.7-Plus 多模态智能体模型",
+          "summary": "阿里正式发布 Qwen3.7-Plus，在文本能力基础上全面升级视觉-语言能力，并保持完整智能体能力。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3835230281856390?f=rss",
+          "items": [
+            "7109742e46b4e6f5"
+          ],
+          "cover_path": "out/media/2026-06-02/model_release-04.jpg"
+        },
+        {
+          "headline": "星海图发布具身基础模型 G0.5",
+          "summary": "星海图推出 G0.5 VLA 模型，实现零样本泛化至新物体、新环境，让机器人边思考边行动。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/i8V0VCdEywlci8jo.html",
+          "items": [
+            "ecf3975b7d5f97dc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "Anthropic 秘密提交 IPO 申请",
+          "summary": "Anthropic 向 SEC 秘密提交 S-1 文件，为可能的上市做准备，估值或成为史上最大科技 IPO 之一。",
+          "importance": 9,
+          "primary_url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "items": [
+            "e743b19708ef3f0f",
+            "361c3d9815f6937b",
+            "02efb73939804b78",
+            "564d64a94adfdb7b",
+            "0fd3381e31f6b311"
+          ],
+          "cover_path": "out/media/2026-06-02/company-00.jpg"
+        },
+        {
+          "headline": "佛罗里达州起诉 OpenAI 及 Sam Altman",
+          "summary": "佛罗里达州总检察长就多起 ChatGPT 关联的暴力事件起诉 OpenAI 和 Sam Altman，指控其无视公共安全。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+          "items": [
+            "bc2ddff7b60b85d0",
+            "c1d1cf166dddc7f5",
+            "1625cd115a83cc9a",
+            "e647bfa17678ecfd"
+          ],
+          "cover_path": "out/media/2026-06-02/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 在密歇根启动 1GW 数据中心园区",
+          "summary": "OpenAI 正式破土动工位于密歇根州萨林市的 Stargate 数据中心园区 The Barn，预计将创造大量税收和就业。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/stargate-michigan-data-center",
+          "items": [
+            "273bef8feab67273",
+            "43c46a4e463c63f8"
+          ]
+        },
+        {
+          "headline": "VAST 完成近 2 亿美元融资，并披露世界模型路线",
+          "summary": "VAST 宣布完成 A+ 和 A++ 两轮融资，合计近 2 亿美元，同步公开世界模型研发计划。",
+          "importance": 8,
+          "primary_url": "https://www.qbitai.com/2026/06/427516.html",
+          "items": [
+            "f77737e2d7da095a",
+            "6614251fa68b927e"
+          ],
+          "cover_path": "out/media/2026-06-02/company-03.jpg"
+        },
+        {
+          "headline": "Google 计划筹资 800 亿美元用于 AI 建设",
+          "summary": "Alphabet 计划通过发行股票筹集 800 亿美元，以加速 AI 基础设施投资，应对供不应求的局面。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+          "items": [
+            "11c00e24bfcfa76d",
+            "43a042e9e4d50c18"
+          ],
+          "cover_path": "out/media/2026-06-02/company-04.jpg"
+        },
+        {
+          "headline": "智谱建议发行 A 股并在科创板上市",
+          "summary": "智谱公告建议向中国监管机构申请 A 股发行并在上海证券交易所科创板上市，发行规模占总股本 2%-8%。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3835218139346055?f=rss",
+          "items": [
+            "e084cb62910fe549"
+          ],
+          "cover_path": "out/media/2026-06-02/company-05.jpg"
+        },
+        {
+          "headline": "NVIDIA AI Cloud 生态全球扩展",
+          "summary": "NVIDIA 宣布 AI Cloud 生态系统加速全球 AI 工厂基础设施建设，合作伙伴扩大容量以应对需求。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+          "items": [
+            "92ff3a9a54e0ad54"
+          ],
+          "cover_path": "out/media/2026-06-02/company-06.jpg"
+        },
+        {
+          "headline": "Salesforce 对 Anthropic 投资估值约 50 亿美元",
+          "summary": "据报道 Salesforce 在 2023 年首次投资 Anthropic，该笔投资估值约为 50 亿美元。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3835226707817606?f=rss",
+          "items": [
+            "199fd1b15668f899"
+          ],
+          "cover_path": "out/media/2026-06-02/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "OpenAI 模型解决困扰人类 80 年的数学难题",
+          "summary": "OpenAI 的一个模型成功解决了经典的“六边形拼贴”数学难题，展现了 AI 在数学推理方面的突破。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+          "items": [
+            "803b9f1b9d26baa0"
+          ],
+          "cover_path": "out/media/2026-06-02/research-00.jpg"
+        },
+        {
+          "headline": "材料版 AlphaFold 问世，40 个工业任务 SOTA",
+          "summary": "研究团队结合 LLM 训练技术推出材料科学基础模型，在 40 个工业任务上达到全面最优，实现 AI4S 行业突破。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/06/427142.html",
+          "items": [
+            "06b3dafcef22eb57"
+          ],
+          "cover_path": "out/media/2026-06-02/research-01.jpg"
+        },
+        {
+          "headline": "复旦×通义提出全新 CUA 训练范式",
+          "summary": "复旦大学与通义千问联合提出下一代 CUA 训练范式，旨在解决智能体难以在大量工具中正确选择的问题。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/05/427005.html",
+          "items": [
+            "ac4008046a34edcc"
+          ],
+          "cover_path": "out/media/2026-06-02/research-02.jpg"
+        },
+        {
+          "headline": "港中文提出智能体技能生命周期管理框架 SLIM",
+          "summary": "香港中文大学团队提出 SLIM 框架，用于管理大模型智能体的技能生命周期，避免盲目堆积技能。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/academic/YlpyUWTgMBNTc9YK.html",
+          "items": [
+            "278449c355fe0d0a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "NVIDIA 推出 RTX Spark，让本地 AI Agent 实用化",
+          "summary": "NVIDIA 发布 RTX Spark 芯片及配套 AI Agent 方案，联合微软、戴尔、惠普推出 AI Agent PC，实现本地智能体。",
+          "importance": 8,
+          "primary_url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
+          "items": [
+            "1c43462e6f2a82da",
+            "ce61b0d2bcd58dfc",
+            "b33d3d8f7b52308b"
+          ],
+          "cover_path": "out/media/2026-06-02/product-00.jpg"
+        },
+        {
+          "headline": "GitHub Copilot 新按用量定价引发用户争议",
+          "summary": "GitHub Copilot 推出基于 AI 信用额度的用量计费模式，有用户一天之内耗尽月度配额，引发社区强烈反应。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+          "items": [
+            "a99871c6e2a65398"
+          ],
+          "cover_path": "out/media/2026-06-02/product-01.jpg"
+        },
+        {
+          "headline": "OpenAI 模型和 Codex 正式登陆 AWS",
+          "summary": "OpenAI 的前沿模型和 Codex 现已在 AWS 上开放，企业可通过熟悉的 AWS 环境使用 OpenAI 服务。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+          "items": [
+            "03af45030860da16"
+          ]
+        },
+        {
+          "headline": "NVIDIA 发布工厂运营蓝图 AI 大脑",
+          "summary": "NVIDIA 推出工厂运营蓝图（FOX），将机器信号、质量系统等连接为统一决策层，赋能智能制造。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+          "items": [
+            "e0532fe87936b5b0"
+          ],
+          "cover_path": "out/media/2026-06-02/product-03.jpg"
+        },
+        {
+          "headline": "DuckDuckGo 推出「无 AI」搜索扩展，流量暴增",
+          "summary": "DuckDuckGo 发布 Chrome 和 Firefox 扩展，主打无 AI 结果，其搜索流量随之大幅增长。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+          "items": [
+            "98f5d7f0b14da914",
+            "eee4af6873dff863"
+          ],
+          "cover_path": "out/media/2026-06-02/product-04.jpg"
+        },
+        {
+          "headline": "Anthropic 推出 Code with Claude 托管式智能体",
+          "summary": "Anthropic 发布 Code with Claude 平台，提供托管式智能体、主动式工作流和能力曲线等功能。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/4lvrePvgNC6vuCKkvZKe?utm_source=rss",
+          "items": [
+            "5530bf70edc982a9"
+          ],
+          "cover_path": "out/media/2026-06-02/product-05.jpg"
+        },
+        {
+          "headline": "扣子 3.0 上线，开启 Agent 团队协作新方式",
+          "summary": "字节跳动旗下扣子平台发布 3.0 版本，支持创建、接入和调度 Agent，实现项目级团队协作。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/2zFXEr1gabpabWik.html",
+          "items": [
+            "4e4698608ee916ea"
+          ]
+        },
+        {
+          "headline": "牧原与阿里云合作打造 AI 智能养猪应用",
+          "summary": "牧原集团联合阿里云推出 AI 助手“小牧助手”，将猪群健康检测效率提升超百倍。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/a1O4dfBTREuQ2uLq.html",
+          "items": [
+            "050ea9cfc03743b7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Turing 奖得主 Sutton：纯生成式 AI 无法进行真正科学",
+          "summary": "Richard Sutton 在访谈中指出，生成式 AI 本质上无法提出新理论或推动科学发现，需要其他范式。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/",
+          "items": [
+            "8a9043ba80abe094"
+          ],
+          "cover_path": "out/media/2026-06-02/opinion-00.jpg"
+        },
+        {
+          "headline": "关于 AI 精神病的辩论：科技 CEO 们是否易患",
+          "summary": "最新一期 Equity 播客辩论科技 CEO 是否“特别容易患上 AI 精神病”，引发行业反思。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+          "items": [
+            "9e642bebee81ca38"
+          ],
+          "cover_path": "out/media/2026-06-02/opinion-01.jpg"
+        },
+        {
+          "headline": "Erin Brockovich 瞄准数据中心的水资源秘密",
+          "summary": "环保活动家 Erin Brockovich 开始关注 AI 数据中心的用水量及透明度问题，呼吁加强监管。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "items": [
+            "9c95b18b3a5fb3b9"
+          ],
+          "cover_path": "out/media/2026-06-02/opinion-02.jpg"
+        },
+        {
+          "headline": "开发者思考：取消 AI 订阅或许是解决方案",
+          "summary": "开发者 David Wilson 分享自己启动了 16+ 个 AI 项目却感到疲惫，反思取消 AI 订阅的可能性。",
+          "importance": 5,
+          "primary_url": "https://thoughts.hmmz.org/2026-05-31.html",
+          "items": [
+            "fddcdebbafe9388d",
+            "851b747dad39ae1b"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Hermes Agent 开源记忆栈 Memory OS",
+          "summary": "Memory OS 是基于 Hermes Agent 的 6 层开源记忆堆栈，提供持久化、分层检索和 Wiki 功能。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/06/01/meet-memory-os-a-6-layer-open-source-memory-stack-built-on-top-of-hermes-agent/",
+          "items": [
+            "b0970521dd980dad"
+          ],
+          "cover_path": "out/media/2026-06-02/opensource-00.jpg"
+        },
+        {
+          "headline": "MoneyPrinterTurbo：一键生成短视频的开源工具",
+          "summary": "利用 AI 大模型一键生成高清短视频的开源项目，在 GitHub 上持续热门。",
+          "importance": 5,
+          "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "items": [
+            "88d3056299e36e7f"
+          ],
+          "cover_path": "out/media/2026-06-02/opensource-01.jpg"
+        },
+        {
+          "headline": "微软 MarkItDown：文件转 Markdown 开源工具",
+          "summary": "微软开源 MarkItDown，一个 Python 工具，可将多种文件格式（包括 Office 文档）转换为 Markdown。",
+          "importance": 5,
+          "primary_url": "https://github.com/microsoft/markitdown",
+          "items": [
+            "97acfa457484c9a4"
+          ],
+          "cover_path": "out/media/2026-06-02/opensource-02.jpg"
+        },
+        {
+          "headline": "VoxCPM 2：无分词器多语言 TTS 开源模型",
+          "summary": "OpenBMB 开源 VoxCPM 2，一个无分词器的文本转语音模型，支持多语言、创意声音设计和语音克隆。",
+          "importance": 5,
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "items": [
+            "9f4860696df00d55"
+          ],
+          "cover_path": "out/media/2026-06-02/opensource-03.jpg"
+        }
+      ]
+    }
+  ]
+}
