@@ -1,0 +1,410 @@
+{
+  "date": "2026-06-03",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "微软发布MAI推理与代码模型，挑战前沿",
+          "summary": "微软推出MAI-Thinking-1（350亿活跃参数推理模型）与MAI-Code-1-Flash代码模型，性能对标业界最强。",
+          "importance": 8,
+          "primary_url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+          "items": [
+            "87e2f650e5388854",
+            "f35a82f040a5db2a",
+            "9bd9f70be9ccd140",
+            "79e1721179061595"
+          ]
+        },
+        {
+          "headline": "NVIDIA发布Cosmos 3，推进物理AI世界模型",
+          "summary": "NVIDIA开源Cosmos 3全模态世界模型，结合Agent Toolkit补齐物理AI工具链。",
+          "importance": 8,
+          "primary_url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+          "items": [
+            "8a2dc131d5aecd23",
+            "4edc259350687a81"
+          ]
+        },
+        {
+          "headline": "MiniMax M3开源：百万Token上下文+多模态",
+          "summary": "MiniMax发布M3模型，采用稀疏注意力架构，支持百万Token上下文与原生图像视频理解。",
+          "importance": 8,
+          "primary_url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets",
+          "items": [
+            "127efcf51546d1d1",
+            "81ab4e5a9a338b49",
+            "65b81f7de67bc6d9",
+            "914720aec001e5f1"
+          ],
+          "cover_path": "out/media/2026-06-03/model_release-02.jpg"
+        },
+        {
+          "headline": "NVIDIA Nemotron 3 Ultra成为最强开源美国模型",
+          "summary": "Nemotron 3 Ultra在多项基准超过Llama 4等模型，但中国模型仍领先。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
+          "items": [
+            "291d3196b4b55d34"
+          ],
+          "cover_path": "out/media/2026-06-03/model_release-03.jpg"
+        },
+        {
+          "headline": "阿里发布Qwen3.7-Plus：多模态智能体新基座",
+          "summary": "Qwen3.7-Plus视觉和文本能力大幅提升，跻身Vision Arena前五，支持一键复刻专业软件。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/06/427730.html",
+          "items": [
+            "721c6b80340e5efc",
+            "c84cf48a2d94c956",
+            "9819346642dc4f31"
+          ],
+          "cover_path": "out/media/2026-06-03/model_release-04.jpg"
+        },
+        {
+          "headline": "JetBrains开源Mellum2：12B MoE专业模型",
+          "summary": "JetBrains发布专为多模型AI流水线设计的Mellum2，参数高效，遵循Apache 2.0许可。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+          "items": [
+            "6919a018aa3c67c5",
+            "06203ec8135bb32"
+          ],
+          "cover_path": "out/media/2026-06-03/model_release-05.jpg"
+        },
+        {
+          "headline": "百度文心PaddleOCR-VL-1.6刷新文档解析SOTA",
+          "summary": "PaddleOCR-VL-1.6准确率达96.33%，已上线官网支持网页端和API调用。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/06/427754.html",
+          "items": [
+            "0394ee2c23260c14",
+            "ba7138a8b592e36d"
+          ],
+          "cover_path": "out/media/2026-06-03/model_release-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic秘密提交IPO申请，估值或创纪录",
+          "summary": "AI公司Anthropic已向SEC提交S-1文件，准备上市，有望成为史上最大科技IPO之一。",
+          "importance": 10,
+          "primary_url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "items": [
+            "e743b19708ef3f0f",
+            "02efb73939804b78",
+            "564d64a94adfdb7b",
+            "0fd3381e31f6b311"
+          ],
+          "cover_path": "out/media/2026-06-03/company-00.jpg"
+        },
+        {
+          "headline": "佛罗里达州起诉OpenAI及Sam Altman，指控ChatGPT关联多起命案",
+          "summary": "佛罗里达州总检察长以“极度漠视生命”为由起诉OpenAI，指控其ChatGPT技术被用于谋杀等暴力事件。",
+          "importance": 9,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+          "items": [
+            "bc2ddff7b60b85d0",
+            "1625cd115a83cc9a",
+            "e647bfa17678ecfd"
+          ],
+          "cover_path": "out/media/2026-06-03/company-01.jpg"
+        },
+        {
+          "headline": "黑客仅通过Meta AI客服就劫持了高知名度Instagram账号",
+          "summary": "攻击者向Meta AI客服简单请求更改邮箱，便成功盗取多个名人Instagram账户，Meta事后才修复漏洞。",
+          "importance": 9,
+          "primary_url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+          "items": [
+            "bb6ee83ba563f6e8",
+            "bec3b6e32975d3bd",
+            "a28f8aad6833d834",
+            "e97b8f07c21e3438"
+          ],
+          "cover_path": "out/media/2026-06-03/company-02.jpg"
+        },
+        {
+          "headline": "巴菲特旗下伯克希尔出资100亿美元投资Alphabet AI基础设施",
+          "summary": "Alphabet宣布800亿美元股权融资以扩建AI算力，伯克希尔·哈撒韦认购100亿美元，推动AI基建扩张。",
+          "importance": 8,
+          "primary_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+          "items": [
+            "26b7966782024eed",
+            "493878816584b098",
+            "f4867373d1c349cd",
+            "45bbee435f4cf00d"
+          ]
+        },
+        {
+          "headline": "黄仁勋宣布Rubin全面投产，4万工程师参与构建",
+          "summary": "NVIDIA CEO黄仁勋在COMPUTEX上宣布新一代AI芯片Rubin已全面投产，同时发布史上最强CPU。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC",
+          "items": [
+            "81348542657d6120"
+          ],
+          "cover_path": "out/media/2026-06-03/company-04.jpg"
+        },
+        {
+          "headline": "NVIDIA与微软联手推出Agentic AI统一部署技术栈",
+          "summary": "在微软Build大会上，双方宣布合作推出覆盖Windows到云端的统一技术栈，简化代理式AI部署。",
+          "importance": 7,
+          "primary_url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+          "items": [
+            "1be8fec0c35139af",
+            "9591196158f814e8"
+          ],
+          "cover_path": "out/media/2026-06-03/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI在密歇根州动工建设1GW数据中心",
+          "summary": "作为Stargate项目一部分，OpenAI在密歇根建造大型数据中心以支撑AI基础设施，创造就业。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/stargate-michigan-data-center",
+          "items": [
+            "273bef8feab67273"
+          ]
+        },
+        {
+          "headline": "Uber因AI支出超预算开始封顶员工用量",
+          "summary": "Uber鼓励员工多用AI后，4个月内烧光年度预算，现被迫设置每人每月使用上限。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+          "items": [
+            "548798be086cc9fa"
+          ],
+          "cover_path": "out/media/2026-06-03/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": []
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI发布Codex职业插件，目标非开发者白领",
+          "summary": "OpenAI推出面向分析师、营销、设计、投行等六大职业的Codex插件，将AI助手拓展至非编程领域。",
+          "importance": 9,
+          "primary_url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+          "items": [
+            "245f646da1b41d31",
+            "6f7bf58d9deac411",
+            "ac0dfad3ec545bbd",
+            "a261c62aa78f7578"
+          ]
+        },
+        {
+          "headline": "OpenAI模型和Codex登陆Amazon Web Services",
+          "summary": "OpenAI与AWS达成合作，其前沿模型和Codex开发工具现已通过AWS Marketplace提供。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+          "items": [
+            "ebcb7b02c9ec1ef0",
+            "03af45030860da16"
+          ]
+        },
+        {
+          "headline": "微软推出Project Solara：面向智能体的安卓系统",
+          "summary": "微软展示专为AI智能体设计的Android操作系统Project Solara，旨在替代传统以应用为中心的手机模式。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+          "items": [
+            "2aa469aad1c607b4"
+          ],
+          "cover_path": "out/media/2026-06-03/product-02.jpg"
+        },
+        {
+          "headline": "微软发布Scout：基于OpenClaw的AI个人助理",
+          "summary": "微软在Build大会上推出Scout，一个可融入Teams的AI代理，自动处理日常办公任务。",
+          "importance": 7,
+          "primary_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/",
+          "items": [
+            "84bf93cdaa41d201",
+            "bf02c2ff79955d40",
+            "a591fb7fd1758c57"
+          ],
+          "cover_path": "out/media/2026-06-03/product-03.jpg"
+        },
+        {
+          "headline": "Anthropic将Claude Mythos漏洞狩猎扩展至15国",
+          "summary": "Project Glasswing规模扩大至150个合作伙伴，覆盖电力、水利、医疗等关键基础设施安全审计。",
+          "importance": 7,
+          "primary_url": "https://www.anthropic.com/news/expanding-project-glasswing",
+          "items": [
+            "016127148bfc1afb",
+            "3cf8cb14b941c2b4",
+            "8efa7bd9dfc81c73"
+          ],
+          "cover_path": "out/media/2026-06-03/product-04.jpg"
+        },
+        {
+          "headline": "谷歌Android新增深度伪造来电检测功能",
+          "summary": "Google在6月Android Feature Drop中加入AI假电话识别功能，可实时警告冒充熟人的深度伪造来电。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+          "items": [
+            "a5de8be9292860c3",
+            "05d06ec6ec19c1a"
+          ],
+          "cover_path": "out/media/2026-06-03/product-05.jpg"
+        },
+        {
+          "headline": "微软推出MDASH框架，大规模测试AI智能体行为",
+          "summary": "微软发布开源框架MDASH，开发者只需文本描述即可自动生成AI行为测试用例，降低评估成本。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+          "items": [
+            "77d48194034bd839",
+            "ccd849e9c603a92a",
+            "47c6ec60581d6e9f"
+          ],
+          "cover_path": "out/media/2026-06-03/product-06.jpg"
+        },
+        {
+          "headline": "GitHub Copilot新按用量计费引发用户抱怨",
+          "summary": "GitHub Copilot转向基于AI Credit的定价后，部分用户一天内用光整月额度，引发成本争议。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+          "items": [
+            "a99871c6e2a65398"
+          ],
+          "cover_path": "out/media/2026-06-03/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "特朗普签署缩水版AI行政令，行业反对后仅保留自愿审查",
+          "summary": "在行业强烈游说后，特朗普签署修订后的AI行政令，仅要求对尖端模型进行自愿性的预先政府审查。",
+          "importance": 8,
+          "primary_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+          "items": [
+            "5d7958e13184646c",
+            "ef720c7ef7f39e5b",
+            "a671d0cbf3f6f5d6"
+          ],
+          "cover_path": "out/media/2026-06-03/opinion-00.jpg"
+        },
+        {
+          "headline": "数学家组织警告AI正在威胁该职业",
+          "summary": "国际数学联盟发表声明，担忧科技行业的AI工具正侵蚀数学研究的独立性和学术自由。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+          "items": [
+            "95901ff82b54b2e5"
+          ],
+          "cover_path": "out/media/2026-06-03/opinion-01.jpg"
+        },
+        {
+          "headline": "DuckDuckGo趁AI搜索热潮推出‘无AI’搜索扩展",
+          "summary": "随着用户逃离AI搜索，DuckDuckGo发布Chrome/Firefox扩展，强调无AI干扰的纯搜索体验。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+          "items": [
+            "98f5d7f0b14da914",
+            "eee4af6873dff863"
+          ],
+          "cover_path": "out/media/2026-06-03/opinion-02.jpg"
+        },
+        {
+          "headline": "图灵奖得主Richard Sutton称纯生成式AI无法进行真正科学发现",
+          "summary": "强化学习先驱Sutton在访谈中表示，当前生成式AI只能重组已知知识，无法完成真正科学推理。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/",
+          "items": [
+            "8a9043ba80abe094"
+          ],
+          "cover_path": "out/media/2026-06-03/opinion-03.jpg"
+        },
+        {
+          "headline": "OpenAI呼吁全球协同监管青少年AI安全",
+          "summary": "OpenAI提议成立国际青少年AI安全研究所，加强针对年轻用户的AI保护标准和机遇。",
+          "importance": 5,
+          "primary_url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+          "items": [
+            "4554b5d8401a2b6b"
+          ]
+        },
+        {
+          "headline": "斯科塞斯意外成为好莱坞AI拥趸，但仅用于故事板",
+          "summary": "著名导演马丁·斯科塞斯公开支持AI用于电影预可视化，但强调不会取代人类创作。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+          "items": [
+            "e815fade8ea7e7c8"
+          ],
+          "cover_path": "out/media/2026-06-03/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "微软开源MarkItDown：文件转Markdown通用工具",
+          "summary": "微软发布Python工具MarkItDown，支持批量将Office文档、PDF等转换为Markdown格式，AI友好。",
+          "importance": 6,
+          "primary_url": "https://github.com/microsoft/markitdown",
+          "items": [
+            "97acfa457484c9a4"
+          ],
+          "cover_path": "out/media/2026-06-03/opensource-00.jpg"
+        },
+        {
+          "headline": "TradingAgents：多智能体金融交易开源框架",
+          "summary": "开源项目TradingAgents利用多LLM智能体协同进行金融交易策略研究与执行，登上GitHub热榜。",
+          "importance": 6,
+          "primary_url": "https://github.com/TauricResearch/TradingAgents",
+          "items": [
+            "bbfb2978e3481980"
+          ],
+          "cover_path": "out/media/2026-06-03/opensource-01.jpg"
+        },
+        {
+          "headline": "Oh-my-pi：终端AI编程智能体",
+          "summary": "开源终端智能体Oh-my-pi支持哈希锚定编辑、LSP、浏览器整合等，成为GitHub热榜新星。",
+          "importance": 6,
+          "primary_url": "https://github.com/can1357/oh-my-pi",
+          "items": [
+            "99b39143de641387"
+          ],
+          "cover_path": "out/media/2026-06-03/opensource-02.jpg"
+        },
+        {
+          "headline": "字节跳动开源视频编辑框架Bernini",
+          "summary": "统一DiT框架Bernini通过大模型理解语义后进行AI视频编辑，提供开源实现。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/06/427810.html",
+          "items": [
+            "0711f430ce2d75d7"
+          ],
+          "cover_path": "out/media/2026-06-03/opensource-03.jpg"
+        },
+        {
+          "headline": "清华AIR开源UniLab：分钟级机器人运控训练",
+          "summary": "UniLab提出全新强化学习训练架构，将机器人训练时间从小时级缩短至分钟级，速度提升10倍。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/06/427729.html",
+          "items": [
+            "1987cdfc92e4de09"
+          ],
+          "cover_path": "out/media/2026-06-03/opensource-04.jpg"
+        }
+      ]
+    }
+  ]
+}
