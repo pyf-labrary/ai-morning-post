@@ -95,12 +95,14 @@ def curate(date: str | None = None) -> Path:
         "请输出 JSON。"
     )
 
-    resp = client.messages.create(
+    # 走流式：max_tokens 调大后非流式请求会被 SDK 以「可能超 10 分钟」拒绝。
+    with client.messages.stream(
         model=LLM_MODEL,
         max_tokens=32000,
         system=system,
         messages=[{"role": "user", "content": user_msg}],
-    )
+    ) as stream:
+        resp = stream.get_final_message()
     if resp.stop_reason == "max_tokens":
         raise RuntimeError(
             f"curate 输出被 max_tokens 截断（{len(items)} 条素材），JSON 不完整。"
