@@ -63,9 +63,18 @@ def items_to_compact(items: list[Item]) -> str:
     return "\n\n".join(lines)
 
 
+# 喂给 LLM 的素材条数上限。源越加越多（dedupe 后已破 260），全量塞进去会把
+# curate 的输出 JSON 顶过 max_tokens 导致截断。按 (来源权重, 热度) 取头部即可，
+# 低价值长尾对成稿没贡献。
+MAX_ITEMS = 180
+
+
 def curate(date: str | None = None) -> Path:
     date = date or today_str()
     items = load_raw(date)
+    if len(items) > MAX_ITEMS:
+        items = sorted(items, key=lambda it: (it.weight, it.score), reverse=True)[:MAX_ITEMS]
+        print(f"  trimmed to top {MAX_ITEMS} items by (weight, score)")
     if not items:
         raise SystemExit(f"no raw items for {date}; run fetch first")
 
@@ -88,10 +97,15 @@ def curate(date: str | None = None) -> Path:
 
     resp = client.messages.create(
         model=LLM_MODEL,
-        max_tokens=16000,
+        max_tokens=32000,
         system=system,
         messages=[{"role": "user", "content": user_msg}],
     )
+    if resp.stop_reason == "max_tokens":
+        raise RuntimeError(
+            f"curate 输出被 max_tokens 截断（{len(items)} 条素材），JSON 不完整。"
+            f"调小 MAX_ITEMS 或调大 max_tokens。"
+        )
     text = "".join(b.text for b in resp.content if b.type == "text").strip()
     if text.startswith("```"):
         text = text.strip("`").split("\n", 1)[1].rsplit("\n", 1)[0]
