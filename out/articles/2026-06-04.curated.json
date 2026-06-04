@@ -1,0 +1,500 @@
+{
+  "date": "2026-06-04",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Google 发布 Gemma 4 12B：16GB 笔记本即可运行多模态",
+          "summary": "Google DeepMind 推出 Gemma 4 12B，采用无编码器架构，支持多模态，仅需 16GB 内存即可在笔记本上运行，Ars Technica 等多家媒体评价其极强的性价比。",
+          "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "items": [
+            "aeeb454bc4e2ae4f",
+            "dfb6834044f0bb64",
+            "5cadd54cb1cba277"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-06-04/model_release-00.jpg"
+        },
+        {
+          "headline": "xAI 升级 Grok Imagine 1.5，支持图生视频及 720p",
+          "summary": "xAI 更新图像生成模型至 1.5 版本，新增图像到视频生成能力，最高输出 720p 分辨率。",
+          "primary_url": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/",
+          "items": [
+            "d23ca69b1436eb3a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/model_release-01.jpg"
+        },
+        {
+          "headline": "Ideogram 4.0 开源发布，原生 2K 分辨率与强文本渲染",
+          "summary": "Ideogram 4.0 作为开源权重模型发布，支持原生 2K 分辨率，文本渲染能力大幅提升。",
+          "primary_url": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+          "items": [
+            "2242b43328f60696",
+            "03482ed257c0d9d5"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/model_release-02.jpg"
+        },
+        {
+          "headline": "OpenAI 升级 GPT-Rosalind，增强生命科学推理能力",
+          "summary": "OpenAI 为 GPT-Rosalind 新增生物学推理、药物化学、基因组学分析等能力，推动生命科学研究。",
+          "primary_url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+          "items": [
+            "b1fc5f6ff3a40dcd"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "微软 Build 2026 发布自研 MAI-Thinking-1 及 MAI 家族",
+          "summary": "微软在 Build 大会上推出完全从零训练的 MAI-Thinking-1 推理模型，性能追平 Claude Opus 4.6，并发布 MAI 系列多款模型。",
+          "primary_url": "https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP",
+          "items": [
+            "cbb3203b1f085d95",
+            "e59336add9db9ff2"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-06-04/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 冲刺 IPO，Claude 月消耗客户 5 亿美元",
+          "summary": "Anthropic 正推进 IPO，其 AI 助手 Claude 在企业客户中月消耗额达 5 亿美元，成为上市前最强宣传。",
+          "primary_url": "https://www.infoq.cn/article/ZIU2RR7Q1ldqCvD0gTQH",
+          "items": [
+            "05c61124c2b50ca9"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-04/company-00.jpg"
+        },
+        {
+          "headline": "Uber 限制 Claude Code 等 AI 工具，每人每月上限 1500 美元",
+          "summary": "Uber 因成本考量，对员工使用 Claude Code 等 AI 编码工具实施每月 1500 美元上限，引起行业对 AI 工具定价的讨论。",
+          "primary_url": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs",
+          "items": [
+            "371137db360872cd",
+            "35182328f8feb6c2"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "Alphabet 创纪录 850 亿美元融资，押注谷歌 AI 业务",
+          "summary": "Alphabet 通过股票出售筹集 850 亿美元，创历史最大单笔融资，资金将用于谷歌 AI 基础设施建设。",
+          "primary_url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "items": [
+            "6b3c79b5b25430c0"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-06-04/company-02.jpg"
+        },
+        {
+          "headline": "Suno 估值翻倍至 54 亿美元，同时应对唱片公司诉讼",
+          "summary": "AI 音乐公司 Suno 完成新一轮融资，估值升至 54 亿美元，但仍在与主要唱片公司进行版权诉讼。",
+          "primary_url": "https://the-decoder.com/ai-music-startup-suno-doubles-its-valuation-to-5-4-billion-while-fighting-major-record-labels-in-court/",
+          "items": [
+            "bfff25ab98669683"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/company-03.jpg"
+        },
+        {
+          "headline": "xAI 要求 Grok 深度伪造案受害者公开身份，否则撤诉",
+          "summary": "xAI 向法庭申请，要求四名以化名起诉其 Grok 模型生成深度伪造裸照的受害者公开真实姓名，否则将驳回诉讼。",
+          "primary_url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+          "items": [
+            "ab398b7c2a14a04b"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/company-04.jpg"
+        },
+        {
+          "headline": "Coralogix 融资 2 亿美元，打造 AI Agent 监控层",
+          "summary": "基础设施公司 Coralogix 获 2 亿美元融资，专注于为生产环境中的 AI Agent 提供监控、故障排查和运营数据平台。",
+          "primary_url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+          "items": [
+            "a63694bc4f404733"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI CFO 详解战略：B/C 端五五开，神秘 AI 硬件今年推出",
+          "summary": "OpenAI 首席财务官首次公开公司战略，表示 B 端与 C 端收入各占一半，不急于 IPO，并预告今年将发布一款神秘 AI 硬件。",
+          "primary_url": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ",
+          "items": [
+            "c5c26308c7934d13"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-04/company-06.jpg"
+        },
+        {
+          "headline": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟",
+          "summary": "戴盟机器人获亿元级融资，引入原阿里通义多模态技术负责人，攻关物理世界模型。",
+          "primary_url": "https://www.qbitai.com/2026/06/428778.html",
+          "items": [
+            "24b77eb657c63d55"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-04/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "NVIDIA 在 CVPR 2026 发布物理 AI Agent 技能新成果",
+          "summary": "NVIDIA 在 CVPR 上展示机器人抓取、自动驾驶和 Agent 训练三大研究方向的新成果，包括通用抓取工具和世界模型。",
+          "primary_url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+          "items": [
+            "3f0585d05b80fb60",
+            "1ddc625f882ecb02"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-04/research-00.jpg"
+        },
+        {
+          "headline": "李飞飞亲自定义世界模型：渲染、模拟、规划三合一",
+          "summary": "李飞飞在学术分享中提出世界模型新定义，认为渲染、模拟和规划三大功能的边界正在消融。",
+          "primary_url": "https://www.qbitai.com/2026/06/428752.html",
+          "items": [
+            "8f879ce998aaec57"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/research-01.jpg"
+        },
+        {
+          "headline": "LeCun 押注隐空间世界模型，视觉大模型团队已布局",
+          "summary": "Meta 首席 AI 科学家 LeCun 押注隐空间世界模型方向，国内顶尖视觉团队称已提前布局，认为难度虽大但必须做。",
+          "primary_url": "https://www.qbitai.com/2026/06/428790.html",
+          "items": [
+            "a020bcefb69de7d0"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/research-02.jpg"
+        },
+        {
+          "headline": "卧安机器人 OneModel 1.7：隐式通路打通具身智能断层",
+          "summary": "卧安机器人发布 OneModel 1.7，通过潜在空间中的隐式信息传导，实现从视觉理解到动作执行的跨越。",
+          "primary_url": "https://www.qbitai.com/2026/06/428703.html",
+          "items": [
+            "ec5f4bb03b81ede1"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-04/research-03.jpg"
+        },
+        {
+          "headline": "NVIDIA NeMo Gym 开源：评估与改进模型和 Agent 的环境",
+          "summary": "NVIDIA 发布 NeMo Gym，一个用于评估和改进模型及 Agent 的开源框架，支持多种环境。",
+          "primary_url": "https://github.com/NVIDIA-NeMo/Gym",
+          "items": [
+            "2432518177585271"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-04/research-04.jpg"
+        },
+        {
+          "headline": "HuggingFace 博客：任务播种合成数据生成与 Nemotron 预训练",
+          "summary": "NVIDIA 在 HuggingFace 博客介绍 Task-Seeded Synthetic Q&A 方法，用于 Nemotron 系列模型的预训练数据生成。",
+          "primary_url": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
+          "items": [
+            "4b1cc5f713e9a36e"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-04/research-05.jpg"
+        },
+        {
+          "headline": "DPO 超越聊天机器人：偏好优化方法新应用",
+          "summary": "博客文章探讨 Direct Preference Optimization 在聊天机器人之外的更多应用场景，如多模态和决策。",
+          "primary_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+          "items": [
+            "319be9ae2b1ef843"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-04/research-06.jpg"
+        },
+        {
+          "headline": "U of T 展示 AI 蠕虫可攻击任何联网设备",
+          "summary": "多伦多大学研究人员演示了一种 AI 蠕虫，能够在不同在线设备间自主传播并执行恶意操作。",
+          "primary_url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+          "items": [
+            "31cf28df805bae0b"
+          ],
+          "importance": 6
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "谷歌推出 AI 工具 Dreambeans，将用户数据变成卡通故事",
+          "summary": "Google 发布名为 Dreambeans 的 AI 工具，可依据用户 Google 账户中的个人数据生成卡通风格的故事插图，名字古怪但有趣。",
+          "primary_url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "items": [
+            "8aa4f197f6d6c16f"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/product-00.jpg"
+        },
+        {
+          "headline": "Meta 的 WhatsApp Business AI Agent 全球上线，按 token 收费",
+          "summary": "Meta 面向企业客户推出 WhatsApp Business AI 智能体，支持自动回复和营销，按 token 用量计费。",
+          "primary_url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+          "items": [
+            "59496e8a09ecc51c"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-04/product-01.jpg"
+        },
+        {
+          "headline": "亚马逊搜索将显示 AI 生成的产品图片",
+          "summary": "Amazon 推出基于视觉搜索的 AI 生成产品图片功能，当用户搜索时展示与查询匹配的 AI 商品图，引导购买。",
+          "primary_url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+          "items": [
+            "4ddd835cd18993e4"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/product-02.jpg"
+        },
+        {
+          "headline": "Perplexity 发布混合 AI 系统：本地与云端自动切换",
+          "summary": "Perplexity 推出新的混合 AI 系统，能根据任务复杂度自动决定在本地设备还是云端运行，兼顾隐私与性能。",
+          "primary_url": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/",
+          "items": [
+            "aa09bf05882d831f"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/product-03.jpg"
+        },
+        {
+          "headline": "英国监管要求谷歌允许网站退出 AI 搜索摘要",
+          "summary": "英国监管机构裁定谷歌必须在 AI 搜索结果中提供更清晰的链接，并允许英国发布商选择不被 AI 摘要收录，未来将推广全球。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+          "items": [
+            "ac7211d6b9d2edad",
+            "251ed40dbf25fab2",
+            "cd216d9c6f0ed8e4"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-06-04/product-04.jpg"
+        },
+        {
+          "headline": "微软 Codex 新升级：打通 Windows 生态，手机远程开发",
+          "summary": "Codex 推出重要更新，原生支持 Windows 环境，并允许通过手机远程启动开发任务，大幅提升效率。",
+          "primary_url": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd",
+          "items": [
+            "90bfd362e38a7a0a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/product-05.jpg"
+        },
+        {
+          "headline": "扣子 3.0 实测：手机远程遥控电脑中的 Agent",
+          "summary": "字节跳动扣子（Coze）3.0 版本上线，打通桌面、电脑和手机三端，用户可远程操控 Agent 完成任务。",
+          "primary_url": "https://www.qbitai.com/2026/06/428648.html",
+          "items": [
+            "1d4b6ae686fa5da8"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/product-06.jpg"
+        },
+        {
+          "headline": "阿里云推出 OS 运维 Skills，AI Agent 自动修复数据库 P0 事故",
+          "summary": "阿里云发布操作系统控制台运维 Skills，AI Agent 能自动检测并修复数据库一级事故，实现运维自动化。",
+          "primary_url": "https://www.infoq.cn/article/W37w3zzGlPG1UtIhLbRh",
+          "items": [
+            "1049618e1412af15",
+            "6e53724e49b105e8"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-04/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI 发布民主治理蓝图与政策议程，呼吁联邦安全框架",
+          "summary": "OpenAI 发布两份重要文件：一份关于前沿 AI 民主治理的蓝图，建议建立联邦安全框架；另一份公共政策议程涵盖安全、就业、全球标准。",
+          "primary_url": "https://openai.com/index/frontier-safety-blueprint",
+          "items": [
+            "c9283f5be8f81cac",
+            "f5480c14c0d8bee0"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "OpenAI 与 Anthropic 联名致信国会，防止 AI 开发生物武器",
+          "summary": "两家顶级 AI 实验室联合科学家向立法者致信，呼吁加强对合成 DNA 序列的追踪，防止 AI 被用于制造生物武器。",
+          "primary_url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+          "items": [
+            "798f5300f77a97cf",
+            "e56d2b54111c4d91"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-04/opinion-01.jpg"
+        },
+        {
+          "headline": "特朗普签 AI 行政令：企业自愿提交模型安全审查，但安全团队被削弱",
+          "summary": "特朗普签署行政令要求 AI 公司自愿将模型提交政府安全审查，但批评者指出此前 DOGE 已大幅削减安全团队，实际效果存疑。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+          "items": [
+            "9f19a367131e8d71",
+            "d3c3337666cf50ad",
+            "1f0de2711a10065c"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-06-04/opinion-02.jpg"
+        },
+        {
+          "headline": "数学家集体警告：AI 在数学领域过快进展引发担忧",
+          "summary": "《科学》杂志报道，多位知名数学家发表《莱顿宣言》，警告 AI 在数学领域的快速进展可能削弱基础研究，呼吁谨慎。",
+          "primary_url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+          "items": [
+            "f4e4d8521121dd80",
+            "126b0cc8dd3f14a6"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "Satya Nadella 谈微软 AI 核心能力：与 OpenAI 关系、Agent 平台",
+          "summary": "微软 CEO Satya Nadella 在 Build 后接受 Stratechery 采访，阐述微软在 AI 时代的角色、与 OpenAI 的关系以及 Agent 平台战略。",
+          "primary_url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+          "items": [
+            "caba3551e606f3c9",
+            "66d3ae04647ab032"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-04/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 数据中心秘密建设引发质疑：如果那么好，为什么要保密？",
+          "summary": "调查报道指出，许多 AI 数据中心在偏远地区秘密建设，缺乏透明度，引发对能源消耗和社区影响的担忧。",
+          "primary_url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
+          "items": [
+            "85fbc8cb65e7c691"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-04/opinion-05.jpg"
+        },
+        {
+          "headline": "UC Berkeley CS 课程成绩下滑，教授归咎于 AI 使用过多",
+          "summary": "加州大学伯克利分校计算机科学课程不及格率大幅上升，教授们认为学生过度依赖 AI 导致基础数学能力下降。",
+          "primary_url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+          "items": [
+            "db4a4daacbbcbce8"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/opinion-06.jpg"
+        },
+        {
+          "headline": "GitLab 也开始裁员程序员，硅谷 Q1 裁员同比增 40%",
+          "summary": "继多家科技公司后，GitLab 也裁减程序员岗位，数据显示 2026 年 Q1 硅谷裁员数量同比增长 40%，AI 效率提升是主因。",
+          "primary_url": "https://www.qbitai.com/2026/06/429117.html",
+          "items": [
+            "dcd6afe65435f6f2"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Nous Research 发布 Hermes Desktop：跨平台开源 AI Agent",
+          "summary": "Nous Research 推出 Hermes Desktop，一个开源 AI 智能体，支持 Windows、macOS 和 Linux，可操控桌面完成复杂任务。",
+          "primary_url": "https://the-decoder.com/nous-research-releases-hermes-desktop-an-open-source-ai-agent-for-every-platform/",
+          "items": [
+            "8ea2911986f192db",
+            "e3d54a392be8d634"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-04/opensource-00.jpg"
+        },
+        {
+          "headline": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST",
+          "summary": "Arm 发布 Metis，一个基于 AI 的源代码安全分析框架，性能超过传统静态应用安全测试（SAST）工具，现已开源。",
+          "primary_url": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA",
+          "items": [
+            "6d162b4ceb6d105b"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-04/opensource-01.jpg"
+        },
+        {
+          "headline": "Headroom：压缩工具输出与 RAG 块，节省 60-95% token",
+          "summary": "开源工具 Headroom 可在将日志、文件等输入 LLM 前压缩 60-95% 的 token，同时保持答案质量，提供库和 MCP 服务器。",
+          "primary_url": "https://github.com/chopratejas/headroom",
+          "items": [
+            "89b8f4386eac790c"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-04/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenBMB VoxCPM2：无分词器的多语言语音合成与克隆",
+          "summary": "OpenBMB 开源 VoxCPM2，无需分词器即可实现多语言语音生成、创意声音设计和逼真语音克隆。",
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "items": [
+            "9f4860696df00d55"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-04/opensource-03.jpg"
+        },
+        {
+          "headline": "Datawhale 开源《从零开始构建智能体》教程",
+          "summary": "Datawhale 推出 hello-agents 开源教程，从零开始讲解智能体原理与实践，适合入门学习。",
+          "primary_url": "https://github.com/datawhalechina/hello-agents",
+          "items": [
+            "9113d09778f2121d"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "Trellis 引入 RadixAttention 提高注意力计算效率",
+          "summary": "开源推理框架 Trellis 发布 RadixAttention 技术，优化长序列注意力计算，提升推理速度。",
+          "primary_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+          "items": [
+            "275ee5d56c738101"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-04/opensource-05.jpg"
+        },
+        {
+          "headline": "Supermemory：极快的内存引擎与记忆 API",
+          "summary": "开源项目 Supermemory 提供高性能记忆存储引擎和 API，专为 AI Agent 跨会话和跨应用记忆设计。",
+          "primary_url": "https://github.com/supermemoryai/supermemory",
+          "items": [
+            "11d4e7c718ceb113"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "Vibe-Trading：个人股票交易 AI Agent 开源框架",
+          "summary": "港大团队开源 Vibe-Trading，一个基于多智能体 LLM 的金融交易框架，提供情绪分析和交易决策功能。",
+          "primary_url": "https://github.com/HKUDS/Vibe-Trading",
+          "items": [
+            "fefbae960a1a2748"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-04/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
