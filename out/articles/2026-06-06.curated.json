@@ -1,0 +1,463 @@
+{
+  "date": "2026-06-06",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "NVIDIA 开源 Nemotron 3 Ultra：550B 参数 MoE 混合架构",
+          "summary": "NVIDIA 发布 Nemotron 3 Ultra，一个 550B 总参数（55B 活跃）的开源混合 Mamba-Transformer 模型，专为长时运行代理设计，支持 100 万 token 上下文，推理吞吐量比同等开源 LLM 高约 6 倍。",
+          "primary_url": "https://www.marktechpost.com/2026/06/04/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/",
+          "items": [
+            "00bbd81c6784f3e2"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/model_release-00.jpg"
+        },
+        {
+          "headline": "DeepMind 发布 Gemma 4 QAT 检查点：降低端侧显存占用",
+          "summary": "Google DeepMind 推出 Gemma 4 的 QAT（量化感知训练）检查点，包括 Q4_0 版本和新移动端格式，显著减少设备端显存占用，加速边缘部署。",
+          "primary_url": "https://www.marktechpost.com/2026/06/05/google-deepmind-releases-gemma-4-qat-checkpoints-q4_0-and-a-new-mobile-format-cut-on-device-memory/",
+          "items": [
+            "2624fcdbcec3e05f"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/model_release-01.jpg"
+        },
+        {
+          "headline": "中科闻歌发布 Decitron 决策机：从问答到真实世界推演",
+          "summary": "中科闻歌推出 Decitron 决策机，宣称跳出传统问答大模型，进入真实世界推演时代，可辅助复杂决策。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/JvMzCFCNVVx3dav9.html",
+          "items": [
+            "6a278baabc4113b1"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "谷歌每月付 SpaceX 9.2 亿美元租计算资源",
+          "summary": "据 TechCrunch 报道，谷歌与 SpaceX 达成协议，每月支付 9.2 亿美元获取其计算能力，以应对 AI 产品意外增长的需求。",
+          "primary_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "items": [
+            "eaa4277271099f5b"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-06/company-00.jpg"
+        },
+        {
+          "headline": "佛罗里达起诉 OpenAI 及 Altman：指 ChatGPT 为公共妨害",
+          "summary": "佛罗里达州对 OpenAI 及其 CEO Sam Altman 提起诉讼，指控 ChatGPT 是缺陷产品并构成公共妨害，引发广泛关注。",
+          "primary_url": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/",
+          "items": [
+            "c6a5eef9e77fe75a"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-06/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic Mythos 被曝用于 NSA 进攻性网络行动",
+          "summary": "The Decoder 报道称 Anthropic 的先进模型 Mythos 正在被美国国家安全局（NSA）用于针对中国和伊朗的网络攻击行动。",
+          "primary_url": "https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran/",
+          "items": [
+            "59001ecb40846a61"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-06/company-02.jpg"
+        },
+        {
+          "headline": "微软 MAI 模型训练数据涉嫌侵权：使用未授权网络数据",
+          "summary": "The Decoder 揭露微软在训练其 MAI 模型时使用了未经许可的网页数据，尽管此前承诺使用“企业级、干净且商业授权”的数据。",
+          "primary_url": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/",
+          "items": [
+            "4dc719dbe955ea26"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-06/company-03.jpg"
+        },
+        {
+          "headline": "微软 CEO Nadella 否决 VP 的“成瘾性 AI”计划",
+          "summary": "微软 CEO Satya Nadella 在公开场合严厉批评一位 VP 提出的让 AI 代理刻意让用户成瘾的计划，并直接予以否决。",
+          "primary_url": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/",
+          "items": [
+            "7f9ad1240878b757"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-06/company-04.jpg"
+        },
+        {
+          "headline": "Meta AI 客服成漏洞：攻击者利用它盗取 Instagram 账号",
+          "summary": "404 Media 报道，攻击者利用 Meta 的 AI 客户支持代理，通过简单请求将其与攻击者邮箱关联，从而窃取 Instagram 账户。",
+          "primary_url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+          "items": [
+            "4f36c2a2ab0a04eb"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-06/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI 携手 Endava：用 AI 代理加速企业软件交付",
+          "summary": "OpenAI 官方博客宣布与 Endava 合作，利用 ChatGPT Enterprise、Codex 等工具构建 AI 代理，实现软件交付流程自动化和 AI 原生文化。",
+          "primary_url": "https://openai.com/index/endava-frontiers",
+          "items": [
+            "92b26fab8608814f"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "华为云推出 Agentic AI 基础设施及企业智能体平台",
+          "summary": "华为云在 INSPIRE 创想者大会上发布 Agentic Infra 通智一体化基础设施、企业级智能体平台等系列新品，提出智能体时代新范式。",
+          "primary_url": "https://www.leiphone.com/category/citydigital/I7sO2yPT7tpnmnZk.html",
+          "items": [
+            "a9438c2f4db0c154",
+            "629d816af66399a2",
+            "884cce16b63d4508"
+          ],
+          "importance": 7
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "智源与清华脑科学基础模型登 Science：揭示记忆-睡眠机制",
+          "summary": "智源研究院与清华大学合作的脑科学多模态基础模型 Brainμ 在 Science 发表，揭示了睡眠中记忆重激活调控睡眠动态的神经机制。",
+          "primary_url": "https://www.qbitai.com/2026/06/431033.html",
+          "items": [
+            "b3984921974e8306"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-06/research-00.jpg"
+        },
+        {
+          "headline": "CVPR 2026：CV 与机器人融合加速，破解 3D 标注难题",
+          "summary": "CVPR 2026 现场直击，计算机视觉与机器人领域的物理边界被打破；同时 NTU 曹子昂团队提出单张图片破解 3D 标注成本难题。",
+          "primary_url": "https://www.leiphone.com/category/ai/SajB6MXFYXjJPEry.html",
+          "items": [
+            "87b31eb59f4466d4",
+            "90891e687ee0cb58"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "ICRA 2026：华人学者获核心大奖，具身智能迎来突破",
+          "summary": "在 ICRA 2026 上，胡瑞珍、石冠亚、王晓龙等多位华人学者斩获最佳论文等大奖；银河通用创始人王鹤称具身智能正迈向专属的 'AlphaGo 时刻'。",
+          "primary_url": "https://www.leiphone.com/category/robot/DZhbEoMS7u3gvJIO.html",
+          "items": [
+            "314c842a5dd1c9da",
+            "8f776219052bed1e",
+            "1a1972bee8b5c0f6",
+            "2679d3b7d4e9c7e6"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Bain 研究：人类干扰导致企业 AI 节省目标落空",
+          "summary": "贝恩公司研究发现，企业在实施 AI 方案时未能实现预期的成本节省，主要原因是人类员工不断干预流程。",
+          "primary_url": "https://the-decoder.com/bain-study-finds-companies-miss-ai-savings-targets-because-humans-keep-getting-in-the-way/",
+          "items": [
+            "02ab383ec1cbcb04"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/research-03.jpg"
+        },
+        {
+          "headline": "新论文聚焦 Agent Memory：长时任务的内存系统设计",
+          "summary": "arXiv 论文系统描述了 LLM 代理在长时任务中持久化存储、检索和更新记忆的工作负载特征，为系统设计提供启示。",
+          "primary_url": "http://arxiv.org/abs/2606.06448v1",
+          "items": [
+            "e4ad6d7155a6e852"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/research-04.jpg"
+        },
+        {
+          "headline": "TempoVLA 提出速度可控的机器人操作策略",
+          "summary": "arXiv 论文提出 TempoVLA，使机器人操作策略能够在低风险阶段快速移动，高风险阶段慢速精准运动。",
+          "primary_url": "http://arxiv.org/abs/2606.06491v1",
+          "items": [
+            "0fb813c1842b2a8f"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/research-05.jpg"
+        },
+        {
+          "headline": "HANDOFF 框架：人形机器人任务-空间全身控制",
+          "summary": "arXiv 论文提出 HANDOFF，通过蒸馏互补教师策略实现人形机器人在任务空间中的全身控制，提升部署灵活性。",
+          "primary_url": "http://arxiv.org/abs/2606.06493v1",
+          "items": [
+            "0d85315811d42bf3"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/research-06.jpg"
+        },
+        {
+          "headline": "RiskFlow 可快速生成安全关键自动驾驶测试场景",
+          "summary": "arXiv 论文提出 RiskFlow，一种基于扩散模型的快速可靠安全关键交通场景生成方法，用于自动驾驶系统评估。",
+          "primary_url": "http://arxiv.org/abs/2606.06423v1",
+          "items": [
+            "e56d7ccbcf4e6f13"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "ChatGPT 开始为你建立个人叙事档案",
+          "summary": "OpenAI 推出新功能，ChatGPT 会自动保存关于用户的叙事摘要，按工作、爱好和旅行偏好分类，用于个性化服务。",
+          "primary_url": "https://the-decoder.com/chatgpt-now-saves-narrative-dossiers-about-you-sorted-by-work-hobbies-and-travel-preferences/",
+          "items": [
+            "690ec903709c32ca"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/product-00.jpg"
+        },
+        {
+          "headline": "苹果批准首款 AI 代理 Poke 入驻 Messages for Business",
+          "summary": "Poke 成为苹果 Messages for Business 平台首个获批的 AI 代理，用户可通过短信直接与 AI 交互完成服务。",
+          "primary_url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "items": [
+            "584ffe6477e0b78a"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/product-01.jpg"
+        },
+        {
+          "headline": "可灵 AI 两周年：用户超 1 亿，年化收入近 5 亿美元",
+          "summary": "快手旗下可灵 AI 两周年来临，全球用户突破 1 亿，企业客户近 5 万家，单季营收超 6.5 亿元，年化收入接近 5 亿美元。",
+          "primary_url": "https://36kr.com/newsflashes/3840249278793985?f=rss",
+          "items": [
+            "5c5777621e515933"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/product-02.jpg"
+        },
+        {
+          "headline": "比亚迪发布 4nm 智驾芯片：智能化下半场看芯片",
+          "summary": "比亚迪在智能化战略发布会上推出中国首款 4nm 制程智能驾驶芯片，王传福称‘智能化下半场看芯片’。",
+          "primary_url": "https://www.leiphone.com/category/transportation/7dY2VaaFzmB8aCxi.html",
+          "items": [
+            "40ef0407ac8ddbd1"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Anthropic：Claude 已编写超 90% 内部代码",
+          "summary": "Anthropic 宣布其模型 Claude 已经用于编写公司超过 90% 的代码，并呼吁全球建立 AI 暂停按钮。",
+          "primary_url": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/",
+          "items": [
+            "eeff807462c095c6"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/product-04.jpg"
+        },
+        {
+          "headline": "金山发布 WPS 笔记：AI 原生多模态笔记产品",
+          "summary": "金山办公推出 WPS 笔记，宣称 AI 贯穿记录、整理与复用全过程，支持多模态输入，帮助用户沉淀知识。",
+          "primary_url": "https://www.qbitai.com/2026/06/431014.html",
+          "items": [
+            "eef9f97c335a9811",
+            "972769a7260d7063"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/product-05.jpg"
+        },
+        {
+          "headline": "腾讯云 WorkBuddy 企业版发布：AI 团队协作工具",
+          "summary": "腾讯云在大会上推出 WorkBuddy 企业版，定位为企业 AI 效率工具，覆盖超级个体到超级团队的协作场景。",
+          "primary_url": "https://www.qbitai.com/2026/06/430758.html",
+          "items": [
+            "649b0462e47ba317"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/product-06.jpg"
+        },
+        {
+          "headline": "阿里 Meoo 升级：自然语言即可生成微信小程序",
+          "summary": "阿里旗下 Meoo 上线微信小程序生成功能，通过自然语言交互即可一键开发、调试和发布微信小程序。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/wxqQfD1prf3OQfG4.html",
+          "items": [
+            "f5ff6879b2c1e04d"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Sam Altman：AI 未来是“主动性 AI”而非被动聊天",
+          "summary": "OpenAI CEO Sam Altman 提出，在聊天机器人和智能代理之后，AI 将进入“主动性 AI”阶段，能够自动采取行动。",
+          "primary_url": "https://the-decoder.com/openai-ceo-sam-altman-sees-proactive-ai-as-the-next-big-phase-after-chatbots-and-agents/",
+          "items": [
+            "5c9cde6f04905d18"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/opinion-00.jpg"
+        },
+        {
+          "headline": "Cloudflare CEO 称未来网络将是“付费爬取”模式",
+          "summary": "Cloudflare CEO 表示，随着机器人流量超过人类，网站将要求 AI 公司付费才能爬取其内容。",
+          "primary_url": "https://the-decoder.com/cloudflare-ceo-says-the-webs-future-is-pay-to-crawl-as-bots-overtake-human-traffic/",
+          "items": [
+            "42644d27cedbbee9"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/opinion-01.jpg"
+        },
+        {
+          "headline": "AI 工程师 vs 怀疑者：一场时间与熵的竞赛",
+          "summary": "运维专家 Charity Majors 撰文描绘 AI 狂热者（与时间赛跑）和怀疑者（与熵赛跑）之间的动态，引发开发者社群热议。",
+          "primary_url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+          "items": [
+            "5bed0dc76ae0bdcf"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "AI 计算成本飙升，行业从“Token 最大化”转向控制",
+          "summary": "TechCrunch 深度文章称，AI 行业重心已从一味扩大 Token 使用量转向成本控制和护栏建设，计算账单压力巨大。",
+          "primary_url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+          "items": [
+            "006c50ad37d3b47b"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-06/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 三巨头联名呼吁：应建立 DNA 安全法",
+          "summary": "OpenAI 的 Sam Altman、Anthropic 的 Dario Amodei 和 DeepMind 的 Demis Hassabis 共同呼吁对 DNA 相关技术加强安全立法。",
+          "primary_url": "https://www.qbitai.com/2026/06/429711.html",
+          "items": [
+            "592ef35b22f3f60e"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/opinion-04.jpg"
+        },
+        {
+          "headline": "「Together Tech」创业浪潮：让用户远离手机的AI产品",
+          "summary": "TechCrunch 播客探讨“Together Tech”浪潮，一些创始人反其道而行，投资减少屏幕时间、促进真实社交的AI产品。",
+          "primary_url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+          "items": [
+            "c5a51c9f8eb670e1"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/opinion-05.jpg"
+        },
+        {
+          "headline": "Latent Space：别再发布低质量RL环境了（附示例）",
+          "summary": "Latent Space 博客深入探讨强化学习环境中常见的陷阱，指出错误的训练框架反而会让模型变差，并提出改进建议。",
+          "primary_url": "https://www.latent.space/p/bad-envs",
+          "items": [
+            "a53466adaa1f5678"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/opinion-06.jpg"
+        },
+        {
+          "headline": "观点：人形机器人投资被高估，机器狗进家庭更实际",
+          "summary": "国内自媒体文章认为，与其重金投资通用人形机器人，不如先让十万台机器狗进入家庭，回归消费市场。",
+          "primary_url": "https://www.qbitai.com/2026/06/429968.html",
+          "items": [
+            "f258c02e03cd410d"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-06/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "NVIDIA 开源 Cosmos：面向物理AI的世界模型平台",
+          "summary": "NVIDIA 在 GitHub 开源 Cosmos 平台，包含世界模型、数据集和工具，用于机器人、自动驾驶等物理AI开发。",
+          "primary_url": "https://github.com/NVIDIA/cosmos",
+          "items": [
+            "f4f36dea64bea003"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "NVIDIA Dynamo Snapshot 开源：K8s上AI推理快速启动",
+          "summary": "NVIDIA 开源 Dynamo Snapshot，利用 CRIU 和 cuda-checkpoint 实现 vLLM 推理工作负载在 Kubernetes 上的快速检查点恢复。",
+          "primary_url": "https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/",
+          "items": [
+            "29b3d437b7b064f7"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/opensource-01.jpg"
+        },
+        {
+          "headline": "GitHub 开源 Copilot SDK：集成 AI Agent 到任何应用",
+          "summary": "GitHub 发布 Copilot CLI SDK，允许开发者将 Copilot Agent 集成到自己的应用和服务中，支持多平台。",
+          "primary_url": "https://github.com/github/copilot-sdk",
+          "items": [
+            "10060b3e93d189c4"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/opensource-02.jpg"
+        },
+        {
+          "headline": "Arm 开源 AI 安全框架 Metis：比 SAST 更高效",
+          "summary": "Arm 发布并开源 AI 安全框架 Metis，在安全漏洞检测方面性能优于传统静态应用安全测试（SAST）工具。",
+          "primary_url": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA",
+          "items": [
+            "6d162b4ceb6d105b"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/opensource-03.jpg"
+        },
+        {
+          "headline": "Hermes Agent 开源：随你成长的自主 AI 代理",
+          "summary": "Nous Research 开源 Hermes Agent，一个可以在本地运行、持续学习和增长的自主代理框架。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-06/opensource-04.jpg"
+        },
+        {
+          "headline": "Open Notebook 开源：NotebookLM 的灵活替代方案",
+          "summary": "开源项目 Open Notebook 实现了类似 NotebookLM 的功能，但更加灵活和可定制。",
+          "primary_url": "https://github.com/lfnovo/open-notebook",
+          "items": [
+            "91fb2debc0ba1466"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-06/opensource-05.jpg"
+        },
+        {
+          "headline": "GitHub 开源 Spec Kit：引导规范驱动开发",
+          "summary": "GitHub 发布 Spec Kit，提供入门模板和工具，帮助团队采用规范驱动开发（Spec-Driven Development）。",
+          "primary_url": "https://github.com/github/spec-kit",
+          "items": [
+            "3826b6eb7fd790a7"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-06/opensource-06.jpg"
+        },
+        {
+          "headline": "DuckDB 开源 Quack 协议：面向多用户分析的 HTTP 接口",
+          "summary": "DuckDB 推出 Quack，一种基于 HTTP 的客户端/服务器协议，旨在支持多用户分析场景。",
+          "primary_url": "https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI",
+          "items": [
+            "d26b621f4b93bccc"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-06/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
