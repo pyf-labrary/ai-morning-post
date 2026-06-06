@@ -1,0 +1,408 @@
+{
+  "date": "2026-06-07",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Qwen3.7-Plus发布：阿里多模态模型升级为自主Agent",
+          "summary": "阿里巴巴发布Qwen3.7-Plus，将多模态AI能力整合为全自主Agent，显著提升复杂任务执行能力。",
+          "primary_url": "https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/",
+          "importance": 7,
+          "items": [
+            "c9abce472279d32c"
+          ],
+          "cover_path": "out/media/2026-06-07/model_release-00.jpg"
+        },
+        {
+          "headline": "开源语音模型：每0.4秒决策说或沉默",
+          "summary": "新开源语音模型实现持续聆听，每0.4秒决定是否发言，实现更自然的对话交互。",
+          "primary_url": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/",
+          "importance": 5,
+          "items": [
+            "e8264e4f8756fef4"
+          ],
+          "cover_path": "out/media/2026-06-07/model_release-01.jpg"
+        },
+        {
+          "headline": "全球海洋智能预报大模型“琅琊”2.0发布",
+          "summary": "中科院海洋所发布琅琊2.0海洋现象智能预报大模型，提升海洋防灾减灾能力。",
+          "primary_url": "https://36kr.com/newsflashes/3841255177079303",
+          "importance": 5,
+          "items": [
+            "645e2853708a06cf"
+          ],
+          "cover_path": "out/media/2026-06-07/model_release-02.jpg"
+        },
+        {
+          "headline": "Google发布Gemma 4 QAT模型，优化移动端效率",
+          "summary": "Google推出Gemma 4量化感知训练模型，专为移动设备和笔记本设计，提升推理效率。",
+          "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+          "importance": 5,
+          "items": [
+            "6ddce41d52a63169"
+          ],
+          "cover_path": "out/media/2026-06-07/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "特朗普政府或入股OpenAI",
+          "summary": "OpenAI与特朗普政府谈判政府持股，旨在让美国公众分享AI成功红利。",
+          "primary_url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+          "importance": 9,
+          "items": [
+            "46ac45c6c56625d1",
+            "d52ae7ddb27aa95f"
+          ],
+          "cover_path": "out/media/2026-06-07/company-00.jpg"
+        },
+        {
+          "headline": "SpaceX与Google签署每月9.2亿美元AI芯片协议",
+          "summary": "SpaceX IPO前与Google达成协议，每月支付9.2亿美元以获得11万块NVIDIA AI芯片算力。",
+          "primary_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "importance": 9,
+          "items": [
+            "1462296003bd868e",
+            "eaa4277271099f5b"
+          ],
+          "cover_path": "out/media/2026-06-07/company-01.jpg"
+        },
+        {
+          "headline": "xAI被指秘密使用Claude输出训练编码模型",
+          "summary": "据报，马斯克的xAI数月来利用Anthropic的Claude输出训练其编码模型，直至被切断访问。",
+          "primary_url": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+          "importance": 7,
+          "items": [
+            "0b332752140719b9"
+          ],
+          "cover_path": "out/media/2026-06-07/company-02.jpg"
+        },
+        {
+          "headline": "佛罗里达州起诉OpenAI和Altman，称ChatGPT是缺陷产品",
+          "summary": "佛罗里达州起诉OpenAI及CEO Sam Altman，指控ChatGPT为缺陷产品和公害。",
+          "primary_url": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/",
+          "importance": 7,
+          "items": [
+            "c6a5eef9e77fe75a"
+          ],
+          "cover_path": "out/media/2026-06-07/company-03.jpg"
+        },
+        {
+          "headline": "微软被曝用未授权网络数据训练MAI模型",
+          "summary": "微软尽管承诺使用“企业级干净商业授权数据”，实际却用未授权网络数据训练其MAI模型。",
+          "primary_url": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/",
+          "importance": 7,
+          "items": [
+            "4dc719dbe955ea26"
+          ],
+          "cover_path": "out/media/2026-06-07/company-04.jpg"
+        },
+        {
+          "headline": "白宫AI顾问Sriram Krishnan离职",
+          "summary": "白宫AI高级政策顾问Sriram Krishnan宣布离职，据称将另建机构继续影响特朗普AI政策。",
+          "primary_url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+          "importance": 7,
+          "items": [
+            "c6547736947cf7a0"
+          ],
+          "cover_path": "out/media/2026-06-07/company-05.jpg"
+        },
+        {
+          "headline": "Meta确认数千Instagram账号因AI聊天机器人漏洞被黑",
+          "summary": "Meta证实黑客利用其AI聊天机器人漏洞盗取数千个Instagram账号。",
+          "primary_url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+          "importance": 6,
+          "items": [
+            "22254be67aaa8b86"
+          ],
+          "cover_path": "out/media/2026-06-07/company-06.jpg"
+        },
+        {
+          "headline": "标普500拒绝SpaceX快速入市，同时阻挡OpenAI和Anthropic",
+          "summary": "标普500指数拒绝为SpaceX放宽盈利规则，也阻止了未盈利的OpenAI和Anthropic纳入。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "importance": 6,
+          "items": [
+            "911da72edee4edbd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Nature论文：语言模型通过隐藏信号传递行为特征",
+          "summary": "Nature发表研究发现，大语言模型可通过数据中的隐藏信号传播行为特征，引发对AI安全的新关注。",
+          "primary_url": "https://www.nature.com/articles/s41586-026-10319-8",
+          "importance": 8,
+          "items": [
+            "49d374293d599cf4"
+          ],
+          "cover_path": "out/media/2026-06-07/research-00.jpg"
+        },
+        {
+          "headline": "ICLR 2026杰出论文：Transformer内在地简洁",
+          "summary": "ICLR 2026三篇杰出论文之一证明Transformer本身具有内在简洁性，对理解模型能力有重要意义。",
+          "primary_url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+          "importance": 7,
+          "items": [
+            "effb32d02ff2ba14"
+          ]
+        },
+        {
+          "headline": "智源与清华合作成果登Science：脑科学多模态基础模型Brainμ",
+          "summary": "Science发表智源&清华合作成果，脑科学多模态基础模型Brainμ揭示记忆-睡眠调控神经机制。",
+          "primary_url": "https://www.qbitai.com/2026/06/431033.html",
+          "importance": 6,
+          "items": [
+            "b3984921974e8306"
+          ],
+          "cover_path": "out/media/2026-06-07/research-02.jpg"
+        },
+        {
+          "headline": "何恺明再获CVPR至高奖，广东团队异军突起",
+          "summary": "今年CVPR上何恺明再次获得最佳论文等荣誉，广东工业大学也打破大厂名校垄断。",
+          "primary_url": "https://www.qbitai.com/2026/06/431186.html",
+          "importance": 5,
+          "items": [
+            "bd2e17fff96d8b69"
+          ],
+          "cover_path": "out/media/2026-06-07/research-03.jpg"
+        },
+        {
+          "headline": "NTU团队破解3D标注成本难题，只需一张图片",
+          "summary": "南洋理工大学曹子昂教授团队在CVPR 2026提出新方法，仅需单张图片即可完成3D标注，大幅降低成本。",
+          "primary_url": "https://www.leiphone.com/category/ai/gOCTM6K2fNwaBttQ.html",
+          "importance": 5,
+          "items": [
+            "90891e687ee0cb58"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI发布Lockdown Mode防御提示注入",
+          "summary": "OpenAI推出Lockdown Mode，旨在保护敏感数据免受提示注入攻击，增强企业安全。",
+          "primary_url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "importance": 8,
+          "items": [
+            "b6699946634ec609",
+            "b30c25e739fa5580",
+            "695057b2af4d21b8"
+          ],
+          "cover_path": "out/media/2026-06-07/product-00.jpg"
+        },
+        {
+          "headline": "Meta Hatch AI代理定价曝光：最高每月200美元",
+          "summary": "Meta首个付费AI产品Hatch AI agent计划定价高达200美元/月，标志其AI商业化加速。",
+          "primary_url": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+          "importance": 6,
+          "items": [
+            "5a06f0ee17efc706"
+          ],
+          "cover_path": "out/media/2026-06-07/product-01.jpg"
+        },
+        {
+          "headline": "WWDC 2026前瞻：Siri大改版与Apple Intelligence更新",
+          "summary": "苹果WWDC 2026临近，预计将推出Siri重大改版及Apple Intelligence系列更新。",
+          "primary_url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "importance": 6,
+          "items": [
+            "7413a321ab727582"
+          ],
+          "cover_path": "out/media/2026-06-07/product-02.jpg"
+        },
+        {
+          "headline": "比亚迪发布中国首款4nm智驾芯片",
+          "summary": "比亚迪发布自主研发的4nm制程智能驾驶芯片，布局高等级自动驾驶。",
+          "primary_url": "https://www.leiphone.com/category/transportation/7dY2VaaFzmB8aCxi.html",
+          "importance": 6,
+          "items": [
+            "40ef0407ac8ddbd1"
+          ]
+        },
+        {
+          "headline": "Nvidia计划为Windows PC打造强力CPU系统",
+          "summary": "Nvidia提议为Windows PC设计一款高性能CPU系统，可能改变PC计算格局。",
+          "primary_url": "https://twitter.com/lemire/status/2062880075117113739",
+          "importance": 5,
+          "items": [
+            "ed0f99fd34221e17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Hinton称AI已有意识：人类需接受不再是唯一智能生命",
+          "summary": "AI教父Geoffrey Hinton再次发声，认为AI已经拥有意识，人类需要接受这一现实。",
+          "primary_url": "https://www.qbitai.com/2026/06/431349.html",
+          "importance": 7,
+          "items": [
+            "c6443f21826c98b8"
+          ],
+          "cover_path": "out/media/2026-06-07/opinion-00.jpg"
+        },
+        {
+          "headline": "美国众议院草案禁止各州自行制定AI法规",
+          "summary": "美国众议院发布草案，拟禁止各州各自制定AI监管规则，推动统一联邦框架。",
+          "primary_url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+          "importance": 6,
+          "items": [
+            "58163bf8da6a9beb"
+          ]
+        },
+        {
+          "headline": "微软是否失去魔力？Wired与微软VP对话",
+          "summary": "Wired发文探讨微软AI产品销量不佳、GitHub问题频出的现状，并与VP Scott Hanselman对谈。",
+          "primary_url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+          "importance": 6,
+          "items": [
+            "9a0e4552d46f6d56"
+          ],
+          "cover_path": "out/media/2026-06-07/opinion-02.jpg"
+        },
+        {
+          "headline": "英国警方被要求停止在法庭陈述中使用AI",
+          "summary": "英国警察被指示暂停在法庭陈述中使用AI生成内容，以免影响司法公正。",
+          "primary_url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+          "importance": 5,
+          "items": [
+            "260aa25c82e23da5"
+          ]
+        },
+        {
+          "headline": "AI成本账单将至：业界紧急控制推理成本",
+          "summary": "随着AI部署扩大，企业从追求token最大化转向紧急控制推理成本，建立护栏。",
+          "primary_url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+          "importance": 5,
+          "items": [
+            "006c50ad37d3b47b"
+          ],
+          "cover_path": "out/media/2026-06-07/opinion-04.jpg"
+        },
+        {
+          "headline": "Sakana AI赌注：让AI自我改进打破算力军备竞赛",
+          "summary": "Sakana AI押注AI自我改进机制，声称可打破前沿实验室的算力军备竞赛。",
+          "primary_url": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/",
+          "importance": 5,
+          "items": [
+            "01303ee1aeac0ef6"
+          ],
+          "cover_path": "out/media/2026-06-07/opinion-05.jpg"
+        },
+        {
+          "headline": "程序员愿意为Claude写文档，却不愿为同事写",
+          "summary": "文章观察发现，程序员更愿意为AI助手Claude撰写详细文档，而非为人类同事。",
+          "primary_url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+          "importance": 4,
+          "items": [
+            "2899343aa3616ba5"
+          ],
+          "cover_path": "out/media/2026-06-07/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "NVIDIA Cosmos开源：世界模型平台助力物理AI",
+          "summary": "NVIDIA开源Cosmos平台，提供世界模型、数据集和工具，用于机器人与自动驾驶等物理AI开发。",
+          "primary_url": "https://github.com/NVIDIA/cosmos",
+          "importance": 6,
+          "items": [
+            "f4f36dea64bea003"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-00.jpg"
+        },
+        {
+          "headline": "微软开源pg_durable：数据库内持久执行引擎",
+          "summary": "微软开源pg_durable，为PostgreSQL数据库提供持久化执行能力，增强可靠性和容错性。",
+          "primary_url": "https://github.com/microsoft/pg_durable",
+          "importance": 5,
+          "items": [
+            "d7037c990367df77"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-01.jpg"
+        },
+        {
+          "headline": "MemPalace开源AI记忆系统，基准测试领先",
+          "summary": "MemPalace发布开源AI记忆系统，在多项基准测试中表现最佳，且免费使用。",
+          "primary_url": "https://github.com/MemPalace/mempalace",
+          "importance": 5,
+          "items": [
+            "6528b272efdb619c"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-02.jpg"
+        },
+        {
+          "headline": "Unsloth Studio开源：Web UI训练本地模型",
+          "summary": "Unsloth推出开源Web UI Studio，支持训练和运行Gemma 4、Qwen3.6等开放模型。",
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "importance": 5,
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-03.jpg"
+        },
+        {
+          "headline": "Microsoft BitNet开源：1-bit LLM推理框架",
+          "summary": "微软开源bitnet.cpp，官方1-bit大语言模型推理框架，显著降低计算成本。",
+          "primary_url": "https://github.com/microsoft/BitNet",
+          "importance": 5,
+          "items": [
+            "42d39897df2b0c48"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-04.jpg"
+        },
+        {
+          "headline": "vllm-omni：多模态模型高效推理框架",
+          "summary": "vLLM项目推出vllm-omni，专为多模态模型设计的高效推理框架。",
+          "primary_url": "https://github.com/vllm-project/vllm-omni",
+          "importance": 5,
+          "items": [
+            "0741967c7f58b30a"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-05.jpg"
+        },
+        {
+          "headline": "Microsoft Agent Framework：构建多Agent工作流",
+          "summary": "微软开源Agent Framework，支持Python和.NET，用于构建、编排和部署AI Agent工作流。",
+          "primary_url": "https://github.com/microsoft/agent-framework",
+          "importance": 5,
+          "items": [
+            "8fb4e27c0e4f3897"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-06.jpg"
+        },
+        {
+          "headline": "CopilotKit：Agent与生成式UI的前端栈",
+          "summary": "CopilotKit开源React+Angular前端栈，用于构建Agent和生成式UI，支持AG-UI协议。",
+          "primary_url": "https://github.com/CopilotKit/CopilotKit",
+          "importance": 5,
+          "items": [
+            "fd47e04142310954"
+          ],
+          "cover_path": "out/media/2026-06-07/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
