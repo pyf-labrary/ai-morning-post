@@ -1,0 +1,363 @@
+{
+  "date": "2026-06-08",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": []
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI芯片核心叛逃Anthropic",
+          "summary": "OpenAI首颗自研芯片的关键工程师在量产前夕跳槽至Anthropic，加剧两大AI巨头IPO前的人才与硬件竞争。",
+          "importance": 9,
+          "primary_url": "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/",
+          "items": [
+            "4576c763659f890d",
+            "6680484f3c7d08b6"
+          ],
+          "cover_path": "out/media/2026-06-08/company-00.jpg"
+        },
+        {
+          "headline": "谷歌每月向SpaceX支付9.2亿美元算力",
+          "summary": "谷歌与SpaceX达成巨额算力协议，每月支付9.2亿美元用于计算资源，可能用于AI训练。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "items": [
+            "eaa4277271099f5b"
+          ],
+          "cover_path": "out/media/2026-06-08/company-01.jpg"
+        },
+        {
+          "headline": "特朗普政府或获取OpenAI股权",
+          "summary": "特朗普总统表示正商讨协议让美国人民从AI成功中受益，可能获取OpenAI股权。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+          "items": [
+            "d52ae7ddb27aa95f"
+          ],
+          "cover_path": "out/media/2026-06-08/company-02.jpg"
+        },
+        {
+          "headline": "黄仁勋在韩国会游戏巨头谈AI合作",
+          "summary": "英伟达CEO黄仁勋在韩国与KRAFTON、NCSOFT代表会面，讨论人形机器人与RTX Spark游戏AI合作。",
+          "importance": 7,
+          "primary_url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+          "items": [
+            "c71120103c8deffb",
+            "c159a92b381b5385"
+          ],
+          "cover_path": "out/media/2026-06-08/company-03.jpg"
+        },
+        {
+          "headline": "Meta确认数千Instagram因AI聊天机器人漏洞被黑",
+          "summary": "Meta确认黑客利用其AI聊天机器人漏洞攻陷数千Instagram账户，引发严重安全担忧。",
+          "importance": 7,
+          "primary_url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+          "items": [
+            "22254be67aaa8b86"
+          ],
+          "cover_path": "out/media/2026-06-08/company-04.jpg"
+        },
+        {
+          "headline": "xAI被曝数月来用Claude输出训练编码AI",
+          "summary": "报道称马斯克的xAI在数月间使用Anthropic的Claude输出训练其编码模型，直到被Anthropic阻断。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+          "items": [
+            "0b332752140719b9"
+          ],
+          "cover_path": "out/media/2026-06-08/company-05.jpg"
+        },
+        {
+          "headline": "多家AI厂商下调算力价格，最高降幅99%",
+          "summary": "算力进入普惠阶段，DeepSeek与小米MiMo永久降价，轻量化AI应用门槛显著降低。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3842626008647945",
+          "items": [
+            "f67c384b7215a11d"
+          ],
+          "cover_path": "out/media/2026-06-08/company-06.jpg"
+        },
+        {
+          "headline": "百度成立数字人创新业务部",
+          "summary": "百度MEG组织调整，合并商业与电商，并将数字人创新业务部升级为独立部门。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3842798722812164",
+          "items": [
+            "d1798e2716881fa6"
+          ],
+          "cover_path": "out/media/2026-06-08/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "研究揭示大模型技能涌现根本原因",
+          "summary": "研究人员发现为何更大模型能习得小模型无法掌握的技能，可能涉及表征宽度和注意力模式变化。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/",
+          "items": [
+            "1d38a8c0e5c67e0b"
+          ],
+          "cover_path": "out/media/2026-06-08/research-00.jpg"
+        },
+        {
+          "headline": "Tokenomics量化Agentic软件工程Token消耗",
+          "summary": "新论文提出Tokenomics框架，系统量化AI Agent在软件工程任务中的token使用模式与效率。",
+          "importance": 5,
+          "primary_url": "https://arxiv.org/abs/2601.14470",
+          "items": [
+            "4df96414818b14c5"
+          ],
+          "cover_path": "out/media/2026-06-08/research-01.jpg"
+        },
+        {
+          "headline": "戏谑论文：LLM类人属性《帝国时代2》也有",
+          "summary": "一篇arXiv论文用讽刺手法质疑LLM“类人”属性的论断，指出简单的游戏策略同样可被解读为智能。",
+          "importance": 3,
+          "primary_url": "https://arxiv.org/pdf/2605.31514",
+          "items": [
+            "28eef613b457272a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "OpenAI称“聊天已死”，将ChatGPT改造成Agent",
+          "summary": "OpenAI计划彻底重构ChatGPT，从聊天机器人转向能自主完成复杂任务的AI Agent平台。",
+          "importance": 9,
+          "primary_url": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/",
+          "items": [
+            "f4f86dbde9aee0b5",
+            "dcaa0eb04ce2e6b1"
+          ],
+          "cover_path": "out/media/2026-06-08/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT新增Lockdown模式防提示注入",
+          "summary": "OpenAI为ChatGPT引入Lockdown Mode，可禁用网页访问等以保护敏感数据免受提示注入攻击。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/",
+          "items": [
+            "312de50478b72abc",
+            "b30c25d739fa5580"
+          ],
+          "cover_path": "out/media/2026-06-08/product-01.jpg"
+        },
+        {
+          "headline": "Perplexity推出Search as Code，AI自写搜索管道",
+          "summary": "Perplexity新功能让AI模型自主编写搜索管道替代固定API，实现更灵活的实时信息检索。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/perplexitys-search-as-code-lets-ai-models-write-their-own-search-pipelines-instead-of-calling-fixed-apis/",
+          "items": [
+            "7f635cb71e3c93a9"
+          ],
+          "cover_path": "out/media/2026-06-08/product-02.jpg"
+        },
+        {
+          "headline": "Meta Hatch AI Agent月费最高200美元",
+          "summary": "Meta即将推出代号Hatch的AI Agent，成为其首个付费AI产品，定价可能高达200美元/月。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+          "items": [
+            "5a06f0ee17efc706"
+          ],
+          "cover_path": "out/media/2026-06-08/product-03.jpg"
+        },
+        {
+          "headline": "Notion恢复对Anthropic集成访问",
+          "summary": "Notion产品负责人表示对大量转发感到惊讶，现已恢复被中断的Anthropic集成访问。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "items": [
+            "990e2a2c4c92f61a"
+          ],
+          "cover_path": "out/media/2026-06-08/product-04.jpg"
+        },
+        {
+          "headline": "小米机器人或随小米17T发布会首秀",
+          "summary": "卢伟冰探班视频中惊现小米机器人手臂，暗示将在发布会亮相。",
+          "importance": 4,
+          "primary_url": "https://36kr.com/newsflashes/3842624097569288",
+          "items": [
+            "caf56023c5a4620a"
+          ],
+          "cover_path": "out/media/2026-06-08/product-05.jpg"
+        },
+        {
+          "headline": "得物AI Harness实现AI标准化生产",
+          "summary": "得物实践分享其AI Harness平台，将AI开发从随意编码转变为目标驱动的标准化流程。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9",
+          "items": [
+            "a565c50c676800a8"
+          ],
+          "cover_path": "out/media/2026-06-08/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "工程师自述：LLM正侵蚀我的软件工程生涯",
+          "summary": "一位软件工程师在HN上发文，表达对LLM取代编程工作的担忧，引发广泛共鸣。",
+          "importance": 7,
+          "primary_url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "items": [
+            "fd234c8e2d8d1e9f"
+          ]
+        },
+        {
+          "headline": "英国警方被令停止在法庭使用AI陈述",
+          "summary": "英国法官和警方监管机构明确警告，禁止警方在法庭文件中使用AI生成内容，引发司法AI边界讨论。",
+          "importance": 7,
+          "primary_url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+          "items": [
+            "260aa25c82e23da5"
+          ]
+        },
+        {
+          "headline": "美国众院草案禁止各州自行制定AI法规",
+          "summary": "美国众议院发布草案，试图阻止各州设立单独的AI监管规则，以统一联邦AI政策。",
+          "importance": 7,
+          "primary_url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+          "items": [
+            "58163bf8da6a9beb"
+          ]
+        },
+        {
+          "headline": "网络请求量首超人类，AI占57%",
+          "summary": "云网络安全服务公司数据显示，其托管网站中57.4%的访问请求来自AI和自动化程序，人类首次被机器超越。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/3842694357092869",
+          "items": [
+            "631c8ef869094971"
+          ],
+          "cover_path": "out/media/2026-06-08/opinion-03.jpg"
+        },
+        {
+          "headline": "枪击幸存者起诉AI枪支检测公司漏报",
+          "summary": "一位校园枪击案幸存者起诉AI枪支检测公司，称其系统未识别出武器，导致悲剧发生。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+          "items": [
+            "65638c0f3eac771e"
+          ],
+          "cover_path": "out/media/2026-06-08/opinion-04.jpg"
+        },
+        {
+          "headline": "评论：美国AI正沦为OnlyFans经济",
+          "summary": "观点文批评美国AI行业高度依赖模型微调、API调用等“订阅式”商业模式，缺乏实质性创新。",
+          "importance": 6,
+          "primary_url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+          "items": [
+            "26d7ff7d24e248e2"
+          ]
+        },
+        {
+          "headline": "TechCrunch：AI公司面临Token涨价潮",
+          "summary": "分析文章指出，随着AI公司准备IPO，用户可能面临更多token价格上调，市场进入“Tokenpocalypse”。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "items": [
+            "fe4e5c67c4b25334"
+          ],
+          "cover_path": "out/media/2026-06-08/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "国产AI长视频开源框架跻身全球第一梯队",
+          "summary": "一款国产开源AI长视频生成框架实现高一致性、低延迟，可5分钟生成AI长视频，支持实时超分。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/06/431401.html",
+          "items": [
+            "3d0fbd91c40bbcca"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-00.jpg"
+        },
+        {
+          "headline": "CopilotKit：构建Agent与生成式UI的前端栈",
+          "summary": "CopilotKit提供React、Angular等前端框架的Agent与生成式UI组件，简化AI应用开发。",
+          "importance": 6,
+          "primary_url": "https://github.com/CopilotKit/CopilotKit",
+          "items": [
+            "fd47e04142310954"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-01.jpg"
+        },
+        {
+          "headline": "微软开源VibeVoice前沿语音AI",
+          "summary": "微软开源下一代语音AI项目VibeVoice，提供高性能语音合成与识别能力。",
+          "importance": 6,
+          "primary_url": "https://github.com/microsoft/VibeVoice",
+          "items": [
+            "fc752c00506a7624"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-02.jpg"
+        },
+        {
+          "headline": "微软开源BitNet：1位LLM推理框架",
+          "summary": "微软开源BitNet.cpp，专为1比特大语言模型设计的高效推理框架。",
+          "importance": 6,
+          "primary_url": "https://github.com/microsoft/BitNet",
+          "items": [
+            "42d39897df2b0c48"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-03.jpg"
+        },
+        {
+          "headline": "IBM开源MCP Context Forge统一AI Agent网关",
+          "summary": "IBM开源上下文锻造工具，作为AI Gateway统一管理MCP、A2A等协议，支持插件和治理。",
+          "importance": 5,
+          "primary_url": "https://github.com/IBM/mcp-context-forge",
+          "items": [
+            "ee8c01154ae0c804"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-04.jpg"
+        },
+        {
+          "headline": "Open Notebook：开源NotebookLM替代品",
+          "summary": "一个开源实现的NotebookLM，提供更多灵活性，构建个性化AI笔记助手。",
+          "importance": 5,
+          "primary_url": "https://github.com/lfnovo/open-notebook",
+          "items": [
+            "91fb2debc0ba1466"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-05.jpg"
+        },
+        {
+          "headline": "Awesome-LLM-Apps：100+开箱即用AI Agent应用",
+          "summary": "聚合100多个AI Agent与RAG应用教程，可一键部署。",
+          "importance": 4,
+          "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "items": [
+            "f82d828dac0db610"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-06.jpg"
+        },
+        {
+          "headline": "Agent-Reach：AI Agent的互联网之眼",
+          "summary": "一个CLI工具让AI Agent在无需API费用的前提下搜索阅读Twitter、Reddit、YouTube等平台。",
+          "importance": 4,
+          "primary_url": "https://github.com/Panniantong/Agent-Reach",
+          "items": [
+            "89b208cfd6dd9bc7"
+          ],
+          "cover_path": "out/media/2026-06-08/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
