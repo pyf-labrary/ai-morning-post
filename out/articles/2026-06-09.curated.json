@@ -1,0 +1,460 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "小米发布MiMo v2.5-Pro-UltraSpeed，1T参数每秒千token",
+          "summary": "小米发布超大规模模型MiMo v2.5-Pro-UltraSpeed，声称每秒处理1000个token，引发社区热议。",
+          "primary_url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+          "importance": 6,
+          "items": [
+            "137ac131c4718ff6"
+          ]
+        },
+        {
+          "headline": "DeepSeek V4 Pro精度超越GPT-5.5 Pro",
+          "summary": "据第三方测试，DeepSeek V4 Pro在精确度上击败GPT-5.5 Pro，引发AI领域关注。",
+          "primary_url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+          "importance": 6,
+          "items": [
+            "46b3bae9337e4d14"
+          ],
+          "cover_path": "out/media/2026-06-09/model_release-01.jpg"
+        },
+        {
+          "headline": "Apple发布Core AI框架与Gemini集成新架构",
+          "summary": "Apple在WWDC推出Core AI框架，并透露其AI架构基于Google Gemini模型，为开发者提供新能力。",
+          "primary_url": "https://developer.apple.com/documentation/coreai/",
+          "importance": 5,
+          "items": [
+            "63babf75c2647dd9",
+            "c37655f9a5f8109e"
+          ],
+          "cover_path": "out/media/2026-06-09/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI秘密提交IPO申请，估值剑指万亿",
+          "summary": "OpenAI向SEC秘密提交S-1文件，计划最早9月上市，估值或达1万亿美元，与Anthropic竞速IPO。",
+          "primary_url": "https://openai.com/index/openai-submits-confidential-s-1",
+          "importance": 10,
+          "items": [
+            "166ada1ba3b7e908",
+            "6efefefa24f93936",
+            "8d013ac5f0b478e4",
+            "1e0fa38a93a57553"
+          ]
+        },
+        {
+          "headline": "阿里巴巴成立Token Foundry事业部，吴泳铭直管",
+          "summary": "阿里巴巴合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由CEO吴泳铭直接负责，周靖人出任首席科学家。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/dwh5Z104IRXqJPY8.html",
+          "importance": 7,
+          "items": [
+            "c332acedd7dc3339"
+          ]
+        },
+        {
+          "headline": "NVIDIA与LG、斗山共建AI工厂",
+          "summary": "NVIDIA分别与LG集团和斗山集团合作，建设AI工厂以推动物理AI、机器人和AI基础设施建设。",
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+          "importance": 6,
+          "items": [
+            "8b7ff1f90c9899e8",
+            "4dead8b03af5d1ef"
+          ],
+          "cover_path": "out/media/2026-06-09/company-02.jpg"
+        },
+        {
+          "headline": "蚂蚁国际推出移动智能体协议AMP，统一AI支付标准",
+          "summary": "蚂蚁集团发布自适应移动协议（AMP），旨在建立海外AI支付统一标准，并推出AI支付解决方案协助商家判断智能体可信度。",
+          "primary_url": "https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "cd48a8d875d9368f",
+            "326cdf1b1a47b053"
+          ],
+          "cover_path": "out/media/2026-06-09/company-03.jpg"
+        },
+        {
+          "headline": "Google、NVIDIA考虑英特尔作为台积电替代方案",
+          "summary": "英特尔迎来转机，Google和NVIDIA开始探索将英特尔作为AI芯片的备份代工厂，以降低对台积电的依赖。",
+          "primary_url": "https://the-decoder.com/intel-gets-a-second-life-as-google-and-nvidia-explore-it-as-a-tsmc-backup-for-ai-chips/",
+          "importance": 6,
+          "items": [
+            "9a36662c9faae2c3"
+          ],
+          "cover_path": "out/media/2026-06-09/company-04.jpg"
+        },
+        {
+          "headline": "Notion误封Anthropic后紧急恢复道歉",
+          "summary": "Notion因系统笔误封禁Anthropic并降智Opus 4.8模型，引发社区强烈反应，12小时后澄清并恢复。",
+          "primary_url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "8a9efcaa17bc6d5f",
+            "990e2a2c4c92f61a"
+          ],
+          "cover_path": "out/media/2026-06-09/company-05.jpg"
+        },
+        {
+          "headline": "微软包被植入凭据窃取器，AI代理触发自动传播",
+          "summary": "微软官方包再次被植入自复制型凭据窃取器，AI代理打开后即触发感染，影响广泛。",
+          "primary_url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+          "importance": 6,
+          "items": [
+            "b89a4310f9f4925e"
+          ],
+          "cover_path": "out/media/2026-06-09/company-06.jpg"
+        },
+        {
+          "headline": "学校枪击幸存者起诉AI武器检测公司",
+          "summary": "校园枪击案幸存者起诉AI枪支检测公司，指控其系统未能识别武器，要求明确AI准确性标准。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+          "importance": 6,
+          "items": [
+            "65638c0f3eac771e"
+          ],
+          "cover_path": "out/media/2026-06-09/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "CVPR 2026落幕：D4RT获最佳论文，牛津VGG两连冠",
+          "summary": "CVPR 2026最佳论文授予D4RT，牛津VGG团队再次夺冠；广工本科生用旧显卡实现逆袭，全场缅怀孙剑。",
+          "primary_url": "https://www.leiphone.com/category/ai/nVFDeZEAzBxQCiiP.html",
+          "importance": 6,
+          "items": [
+            "50848bb8e70c31cd",
+            "35d87d6e529dec64",
+            "7e2ccecfc6c15030",
+            "00a689950153fba8",
+            "ab5f7f52b52df30a"
+          ]
+        },
+        {
+          "headline": "微软Lens研究：详细标注比原始规模更关键",
+          "summary": "微软研究院证明，训练高效图像生成器时，详细标注比扩大数据规模更重要。",
+          "primary_url": "https://the-decoder.com/microsoft-researchs-lens-proves-detailed-captions-matter-more-than-raw-scale-for-training-efficient-image-generators/",
+          "importance": 6,
+          "items": [
+            "8ca06bd5aad47ba4"
+          ],
+          "cover_path": "out/media/2026-06-09/research-01.jpg"
+        },
+        {
+          "headline": "复旦等提出GuidedVLA，提升VLA可控解释性",
+          "summary": "复旦大学等团队提出GuidedVLA框架，增强视觉-语言-动作模型的可控性和可解释性，推动机器人行动更可靠。",
+          "primary_url": "https://www.leiphone.com/category/ai/BOuZx0Z8ALLO18p8.html",
+          "importance": 5,
+          "items": [
+            "cd30dfb702139f03"
+          ]
+        },
+        {
+          "headline": "ICRA 2026最佳论文入围：FP3、HITTER等华人团队",
+          "summary": "ICRA 2026最佳论文奖候选人包括千寻智能首席科学家高阳团队的FP3等，灵巧手研究成为焦点。",
+          "primary_url": "https://www.leiphone.com/category/robot/tTanpzX7mu3CDICJ.html",
+          "importance": 5,
+          "items": [
+            "7b3d76290c31e4c6",
+            "93500477c3352cb8",
+            "9605a8609d1ff505"
+          ]
+        },
+        {
+          "headline": "我国研制新型高频晶体管刷新全球纪录",
+          "summary": "中科院金属所联合团队研制出硅-石墨烯-锗势垒晶体管，刷新截止频率和电流增益世界纪录，发表于Nature Communications。",
+          "primary_url": "https://36kr.com/newsflashes/3844487652116994?f=rss",
+          "importance": 4,
+          "items": [
+            "be8880ca9261cfb3"
+          ],
+          "cover_path": "out/media/2026-06-09/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "OpenAI宣布“聊天已死”，将ChatGPT重建为Agent应用",
+          "summary": "OpenAI计划彻底改革ChatGPT，从对话工具转向全能Agent应用，瞄准更高利润市场。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+          "importance": 8,
+          "items": [
+            "f4f86dbde9aee0b5",
+            "7380d300fba870e4",
+            "dcaa0eb04ce2e6b1"
+          ],
+          "cover_path": "out/media/2026-06-09/product-00.jpg"
+        },
+        {
+          "headline": "Apple WWDC发布Siri AI：全新语音助手与众多AI功能",
+          "summary": "Apple在WWDC 2026推出Siri AI，拥有独立应用、Google Gemini集成、图像编辑、Shortcuts AI等工作流，中国大陆暂不提供。",
+          "primary_url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+          "importance": 9,
+          "items": [
+            "169b5f06a7026fad",
+            "793dc05157b3794f",
+            "d633a3a6222cccd1",
+            "9bcb7550cab07cc5",
+            "35ac901f4471176b",
+            "9f446e1b839fdd2b",
+            "8b088dcf6718433c",
+            "4edf2a111d481787",
+            "f3099eb9d17f2a86",
+            "ae9e4978155300f8",
+            "c30c2e17d1c26866",
+            "1c2f49d2d20ba0f7",
+            "a9f9c468390c9035",
+            "93c814f89aa3e9e9",
+            "2bc2ddaf149c5044"
+          ],
+          "cover_path": "out/media/2026-06-09/product-01.jpg"
+        },
+        {
+          "headline": "微信AI生态开放：美团、携程、同程等首批接入",
+          "summary": "微信正式开放AI智能体生态接入能力，美团、携程、同程旅行等成为首批合作伙伴，用户可通过语音指令预订服务。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/2cdA62bqRxvASS8z.html",
+          "importance": 6,
+          "items": [
+            "ece8f0fb0f8d72db",
+            "fba1f5df7c9c10a3",
+            "b7dc3ee4b8ddaa53"
+          ]
+        },
+        {
+          "headline": "Claude Code引入动态工作流，支持并行代理协调",
+          "summary": "Anthropic的Claude Code上线动态工作流功能，允许多个代理并行协调，提升开发效率。",
+          "primary_url": "https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "e92658f77036fdc4"
+          ],
+          "cover_path": "out/media/2026-06-09/product-03.jpg"
+        },
+        {
+          "headline": "Amazon Shopping应用AI设计定制商品",
+          "summary": "亚马逊推出AI功能，用户可通过Alexa生成设计并定制T恤、杯子等商品。",
+          "primary_url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+          "importance": 5,
+          "items": [
+            "ae7502d88dbf6b8e"
+          ],
+          "cover_path": "out/media/2026-06-09/product-04.jpg"
+        },
+        {
+          "headline": "高德发布ABot-Earth0.5：3D原生场景生成引擎",
+          "summary": "高德推出ABot-Earth0.5，基于3D原生驱动的高一致性场景生成方案，正式开放内测。",
+          "primary_url": "https://www.qbitai.com/2026/06/432489.html",
+          "importance": 5,
+          "items": [
+            "cc4cb1bac293356f"
+          ],
+          "cover_path": "out/media/2026-06-09/product-05.jpg"
+        },
+        {
+          "headline": "文远知行WRD 3.0端到端方案亮相高通峰会",
+          "summary": "文远知行在骁龙峰会展示L2++一段式端到端方案WRD 3.0，获高通点赞。",
+          "primary_url": "https://www.qbitai.com/2026/06/432055.html",
+          "importance": 5,
+          "items": [
+            "e65b6ee15907dfae"
+          ],
+          "cover_path": "out/media/2026-06-09/product-06.jpg"
+        },
+        {
+          "headline": "Instagram AI聊天机器人泄露超2万账户数据",
+          "summary": "Meta披露Instagram AI聊天机器人漏洞，可能影响超过20,000个账户。",
+          "primary_url": "https://the-decoder.com/instagram-ai-chatbot-breach-may-have-affected-over-to-20000-accounts-meta-discloses/",
+          "importance": 5,
+          "items": [
+            "acd8ef1cf261c0cc"
+          ],
+          "cover_path": "out/media/2026-06-09/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "程序员心声：LLM正在侵蚀我的职业生涯",
+          "summary": "一篇Hacker News热帖引发共鸣，作者详述LLM如何冲击软件工程岗位，讨论替代焦虑与应对策略。",
+          "primary_url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "importance": 6,
+          "items": [
+            "fd234c8e2d8d1e9f",
+            "48acf9c7573f11d9"
+          ]
+        },
+        {
+          "headline": "AI正在放缓，但进步依旧",
+          "summary": "文章《AI is slowing down》分析AI发展速度趋缓，引发业界对AGI进展的反思。",
+          "primary_url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+          "importance": 5,
+          "items": [
+            "0ffccda2e3a42f9f"
+          ],
+          "cover_path": "out/media/2026-06-09/opinion-01.jpg"
+        },
+        {
+          "headline": "多数企业在AI支出上盲目飞行",
+          "summary": "Ramp分析显示企业AI支出激增，但缺乏可衡量回报，多数公司对投入产出比并不清晰。",
+          "primary_url": "https://the-decoder.com/most-companies-are-flying-blind-on-ai-spending/",
+          "importance": 5,
+          "items": [
+            "16f33a65963a2863"
+          ],
+          "cover_path": "out/media/2026-06-09/opinion-02.jpg"
+        },
+        {
+          "headline": "Tokenpocalypse？AI公司IPO后或将涨价",
+          "summary": "专栏指出随着AI公司陆续上市，token成本可能上涨，用户需为即将到来的“Token末日”做好准备。",
+          "primary_url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "importance": 5,
+          "items": [
+            "fe4e5c67c4b25334"
+          ],
+          "cover_path": "out/media/2026-06-09/opinion-03.jpg"
+        },
+        {
+          "headline": "Agentic AI将token变成商业指标",
+          "summary": "前沿雷达第三期探讨agentic AI如何将token消耗转化为新的业务度量标准。",
+          "primary_url": "https://the-decoder.com/frontier-radar-3-how-agentic-ai-is-turning-tokens-into-a-business-metric/",
+          "importance": 5,
+          "items": [
+            "c0cfa0a64b1b2e16"
+          ],
+          "cover_path": "out/media/2026-06-09/opinion-04.jpg"
+        },
+        {
+          "headline": "OpenAI发布AI普惠愿景与经济研究计划",
+          "summary": "OpenAI阐述AGI应造福所有人的愿景，并启动经济研究交流项目，研究AI对就业和生产力影响。",
+          "primary_url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+          "importance": 5,
+          "items": [
+            "e82494d58b709526",
+            "eaf5f64ac6f6c836"
+          ]
+        },
+        {
+          "headline": "腾讯汤道生对话姚顺雨：AI下半场竞争逻辑",
+          "summary": "腾讯云AI产业大会上，汤道生与首席科学家姚顺雨对谈，强调AI是长期游戏，不急于短期变现。",
+          "primary_url": "https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "aca92318f8ee264d",
+            "bf80bf654829c893"
+          ],
+          "cover_path": "out/media/2026-06-09/opinion-06.jpg"
+        },
+        {
+          "headline": "DeepSeek成为美国企业最热AI供应商，价格优势驱动",
+          "summary": "Ramp数据六月初显示DeepSeek在美国企业软件供应商中增长最快，性价比成为关键。",
+          "primary_url": "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/",
+          "importance": 5,
+          "items": [
+            "096056299b726bc4"
+          ],
+          "cover_path": "out/media/2026-06-09/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Hermes Agent：可随你成长的AI代理框架",
+          "summary": "NousResearch发布Hermes Agent，一个通过反馈不断进化的开源代理框架。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 5,
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-00.jpg"
+        },
+        {
+          "headline": "open-notebook：开源版NotebookLM，更灵活",
+          "summary": "开源项目open-notebook实现了类似NotebookLM的功能，提供更多自定义选项。",
+          "primary_url": "https://github.com/lfnovo/open-notebook",
+          "importance": 5,
+          "items": [
+            "91fb2debc0ba1466"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-01.jpg"
+        },
+        {
+          "headline": "Goose：超越代码建议的开源AI代理",
+          "summary": "Goose是一个可扩展的AI代理，能安装、执行、编辑和测试，支持任意LLM。",
+          "primary_url": "https://github.com/aaif-goose/goose",
+          "importance": 5,
+          "items": [
+            "bb32fcd62c60a18e"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-02.jpg"
+        },
+        {
+          "headline": "微软开源VibeVoice：前沿语音AI",
+          "summary": "微软发布VibeVoice，一个开源的前沿语音AI模型，支持多任务语音处理。",
+          "primary_url": "https://github.com/microsoft/VibeVoice",
+          "importance": 5,
+          "items": [
+            "fc752c00506a7624"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-03.jpg"
+        },
+        {
+          "headline": "lathe：用LLM教你新领域，而非跳过学习",
+          "summary": "Lathe是一个开源工具，利用LLM生成动手实践教程，帮助用户真正理解新技术。",
+          "primary_url": "https://github.com/devenjarvis/lathe",
+          "importance": 5,
+          "items": [
+            "1fb060660706bec1"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-04.jpg"
+        },
+        {
+          "headline": "Hugging Face社区支持OpenEnv：面向Agentic RL的开源环境",
+          "summary": "OpenEnv成为社区新宠，为agentic强化学习提供统一框架。",
+          "primary_url": "https://huggingface.co/blog/openenv-agentic-rl",
+          "importance": 5,
+          "items": [
+            "d242d6736901e3b4"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-05.jpg"
+        },
+        {
+          "headline": "MemPalace：开源AI记忆系统，基准测试领先",
+          "summary": "MemPalace号称最佳开源AI记忆系统，免费且高效，可用于构建状态化代理。",
+          "primary_url": "https://github.com/MemPalace/mempalace",
+          "importance": 4,
+          "items": [
+            "6528b272efdb619c"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-06.jpg"
+        },
+        {
+          "headline": "llama.cpp：C/C++ LLM推理持续更新",
+          "summary": "llama.cpp项目持续活跃，提供高效的本地LLM推理能力。",
+          "primary_url": "https://github.com/ggml-org/llama.cpp",
+          "importance": 4,
+          "items": [
+            "b8a4cb56d19631f8"
+          ],
+          "cover_path": "out/media/2026-06-09/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-09"
+}
