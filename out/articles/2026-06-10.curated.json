@@ -1,0 +1,385 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "Anthropic 发布 Claude Fable 5 和 Mythos 5",
+          "summary": "Anthropic 推出面向公众的 Claude Fable 5 和面向信任合作伙伴的 Claude Mythos 5，在编码和科学任务上大幅提升，并内置了高风险领域的安全护栏。",
+          "primary_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "importance": 10,
+          "items": [
+            "2084d090c52de650",
+            "b083bfe60a43177b",
+            "161a4c679f900bb3",
+            "ee41a10d0c980b80",
+            "f97f4b4d09f42e4a",
+            "d0bd833a75ae13c7"
+          ],
+          "cover_path": "out/media/2026-06-10/model_release-00.jpg"
+        },
+        {
+          "headline": "Google 发布 Gemini 3.5 Live Translate",
+          "summary": "Gemini 3.5 Live Translate 实现超过70种语言的实时语音到语音翻译，保留说话者的语气、节奏和音调，并集成到 Google AI Studio、Google Translate 和 Google Meet 中。",
+          "primary_url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+          "importance": 9,
+          "items": [
+            "5be0fde6157e7251",
+            "6c369efdb5510154",
+            "a0cd84fb45d56871",
+            "e4b719e5a2e36ff5"
+          ],
+          "cover_path": "out/media/2026-06-10/model_release-01.jpg"
+        },
+        {
+          "headline": "Google 发布 Gemma 4 12B 多模态模型",
+          "summary": "Gemma 4 12B 是 Google 推出的统一、无编码器的多模态模型，面向开源社区。",
+          "primary_url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+          "importance": 8,
+          "items": [
+            "84b572e534effa28"
+          ],
+          "cover_path": "out/media/2026-06-10/model_release-02.jpg"
+        },
+        {
+          "headline": "小米 MiMo 让万亿参数模型 GPU 推理破千 tok/s",
+          "summary": "小米 MiMo 团队结合 TileRT 技术，在单台 8-GPU 商用节点上实现 MiMo-V2.5-Pro 模型超过1000 tokens/s 的解码速度。",
+          "primary_url": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/",
+          "importance": 6,
+          "items": [
+            "373230a9aa2121fc"
+          ],
+          "cover_path": "out/media/2026-06-10/model_release-03.jpg"
+        },
+        {
+          "headline": "国产 4B 认知模型发布，效果比肩 GPT-5.4",
+          "summary": "一款仅4B参数、可端侧部署的国产“认知模型”亮相，据称在多项评测中达到与 GPT-5.4 相当的水平。",
+          "primary_url": "https://www.qbitai.com/2026/06/433478.html",
+          "importance": 5,
+          "items": [
+            "87498c2bb0e77acd"
+          ],
+          "cover_path": "out/media/2026-06-10/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI 秘密提交 IPO 申请，紧随 Anthropic 步伐",
+          "summary": "OpenAI 向 SEC 秘密提交了 S-1 表格，计划上市，距其主要竞争对手 Anthropic 提交 IPO 仅有一周多。",
+          "primary_url": "https://openai.com/index/openai-submits-confidential-s-1",
+          "importance": 9,
+          "items": [
+            "166ada1ba3b7e908",
+            "8d013ac5f0b478e4",
+            "1e0fa38a93a57553",
+            "c618ef302cfd0e81",
+            "0fe3b3164b1a30af"
+          ]
+        },
+        {
+          "headline": "博通联合阿波罗和黑石设 350 亿美元 AI 算力平台",
+          "summary": "博通与阿波罗及黑石共同成立 AI XPV 平台，首期 350 亿美元用于支持 Anthropic 等实验室的算力扩容，计划2028年前部署超过20吉瓦算力。",
+          "primary_url": "https://36kr.com/newsflashes/3846100167313667",
+          "importance": 8,
+          "items": [
+            "8951f3eee72c1b58"
+          ],
+          "cover_path": "out/media/2026-06-10/company-01.jpg"
+        },
+        {
+          "headline": "Apple 扩展私有云，采用 NVIDIA 机密计算",
+          "summary": "Apple 在 WWDC 上宣布其 Private Cloud Compute 将借助 NVIDIA 的机密计算技术，将部分推理任务扩展到 Google Cloud。",
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+          "importance": 8,
+          "items": [
+            "d3e61b32e725d8dc",
+            "61cd5c13d5cd6339",
+            "654d77134d8f0171"
+          ],
+          "cover_path": "out/media/2026-06-10/company-02.jpg"
+        },
+        {
+          "headline": "Notion 封禁 Anthropic 并降智 Opus 4.8，后澄清为笔误",
+          "summary": "Notion 因其 AI 功能切换而从 Anthropic 模型切换至 OpenAI，期间出现降智风波，12 小时后澄清是内部笔误。",
+          "primary_url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0",
+          "importance": 6,
+          "items": [
+            "8a9efcaa17bc6d5f"
+          ],
+          "cover_path": "out/media/2026-06-10/company-03.jpg"
+        },
+        {
+          "headline": "Sandstone 获 3000 万美元 A 轮融资",
+          "summary": "Sandstone 为企业法务团队提供 AI 工具，完成 Sequoia 领投的 3000 万美元 A 轮融资。",
+          "primary_url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+          "importance": 5,
+          "items": [
+            "016fdbe36d3a9be4"
+          ],
+          "cover_path": "out/media/2026-06-10/company-04.jpg"
+        },
+        {
+          "headline": "Mercor 创始人指责 Sequoia 估值双标",
+          "summary": "Mercor CEO Brendan Foody 公开指责 Sequoia 在融资中采用双价估值手段，以相同股权出售不同价格。",
+          "primary_url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+          "importance": 5,
+          "items": [
+            "f4b633c320fc346e"
+          ],
+          "cover_path": "out/media/2026-06-10/company-05.jpg"
+        },
+        {
+          "headline": "Sam Altman 旗下眼部扫描公司 Tools for Humanity 裁员",
+          "summary": "据称 Tools for Humanity 营收困难，将进行裁员。",
+          "primary_url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+          "importance": 5,
+          "items": [
+            "ea37eb86362dd682"
+          ],
+          "cover_path": "out/media/2026-06-10/company-06.jpg"
+        },
+        {
+          "headline": "理想汽车智能驾驶一号位创业，成立具身智能公司",
+          "summary": "理想汽车前智能驾驶负责人落户北京亦庄，成立具身智能独角兽，仅10天跻身独角兽行列。",
+          "primary_url": "https://www.qbitai.com/2026/06/433560.html",
+          "importance": 5,
+          "items": [
+            "565053b9f84dc29a"
+          ],
+          "cover_path": "out/media/2026-06-10/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "哈佛和 Perplexity 研究：AI Agent 自主工作远胜搜索",
+          "summary": "哈佛和 Perplexity 的配对实验发现，AI Agent 每会话平均自主工作 26 分钟，而传统搜索仅 33 秒，大幅提升了自主性、时间和成本效益。",
+          "primary_url": "https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/",
+          "importance": 6,
+          "items": [
+            "c4d76fea2e1ccb4a"
+          ],
+          "cover_path": "out/media/2026-06-10/research-00.jpg"
+        },
+        {
+          "headline": "Latent Space 发布 FrontierCode 代码质量基准",
+          "summary": "Latent Space 推出 FrontierCode，一个专注于评估代码质量而非数量的新基准。",
+          "primary_url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+          "importance": 5,
+          "items": [
+            "7970d9f1c8b482d9"
+          ],
+          "cover_path": "out/media/2026-06-10/research-01.jpg"
+        },
+        {
+          "headline": "微软 Lens 研究：详细描述比原始规模更重要",
+          "summary": "微软研究证明，训练高效图像生成器时，详细的标题描述比单纯扩大模型规模更为关键。",
+          "primary_url": "https://the-decoder.com/microsoft-researchs-lens-proves-detailed-captions-matter-more-than-raw-scale-for-training-efficient-image-generators/",
+          "importance": 5,
+          "items": [
+            "8ca06bd5aad47ba4"
+          ],
+          "cover_path": "out/media/2026-06-10/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Apple WWDC 2026：Siri AI 全面升级，功能大增",
+          "summary": "Apple 在 WWDC 上推出全新 Siri AI，支持更自然的对话、独立 app、AI 增强的 Photos、Shortcuts、Image Playground 等，并基于 Google 和 NVIDIA 基础设施。",
+          "primary_url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "importance": 9,
+          "items": [
+            "169b5f06a7026fad",
+            "bb149f7f4f7fc903",
+            "d633a3a6222cccd1",
+            "9bcb7550cab07cc5",
+            "35ac901f4471176b",
+            "9f446e1b839fdd2b",
+            "1c2f49d2d20ba0f7",
+            "e3e70cdfeb5e052a",
+            "ae9e4978155300f8",
+            "93fa477acb97958a"
+          ],
+          "cover_path": "out/media/2026-06-10/product-00.jpg"
+        },
+        {
+          "headline": "美团发布 AI 原生浏览器 Tabbit 1.0",
+          "summary": "美团旗下 GN06 团队发布 AI 浏览器 Tabbit，内置多款大模型，可自动执行跨软件、跨网页的复杂任务，免费提供。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html",
+          "importance": 7,
+          "items": [
+            "7b339e90b0a98fee"
+          ]
+        },
+        {
+          "headline": "微信正式开放 AI 生态接入，滴滴、美团首批接入",
+          "summary": "微信宣布向开发者开放 AI 生态接入能力，首批合作伙伴包括滴滴和美团，用户可通过微信 AI Agent 直接调用打车、外卖等服务。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/gb1m547vcoMiTJRR.html",
+          "importance": 6,
+          "items": [
+            "ece8f0fb0f8d72db",
+            "dafdcf48a2ea2a32"
+          ]
+        },
+        {
+          "headline": "小红书推出 RED Skill，内置 AI Agent 技能市场",
+          "summary": "小红书正测试 RED Skill 功能，预计 7 月全量上线，用户在平台内可调用 AI Agent 执行各类任务。",
+          "primary_url": "https://www.qbitai.com/2026/06/433066.html",
+          "importance": 5,
+          "items": [
+            "bbd6b9063d906b66"
+          ],
+          "cover_path": "out/media/2026-06-10/product-03.jpg"
+        },
+        {
+          "headline": "Lovable 年收入达 5 亿美元，周新增百万项目",
+          "summary": "AI 应用构建平台 Lovable 宣布其年化经常性收入已超过 5 亿美元，用户每周创建超过 100 万个新项目。",
+          "primary_url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+          "importance": 6,
+          "items": [
+            "ee03fb4da5bf9e2f"
+          ],
+          "cover_path": "out/media/2026-06-10/product-04.jpg"
+        },
+        {
+          "headline": "Google NotebookLM 获 Gemini 3.5 升级",
+          "summary": "NotebookLM 升级至 Gemini 3.5，新增“反重力”模式等高级功能，目前仅限 AI Ultra 和企业用户。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+          "importance": 5,
+          "items": [
+            "4ad9efe4198373b6"
+          ],
+          "cover_path": "out/media/2026-06-10/product-05.jpg"
+        },
+        {
+          "headline": "腾讯云发布全栈智能体平台，一个入口串起 AI",
+          "summary": "腾讯云在 AI 产业应用大会上发布全栈智能体解决方案，旨在让企业通过单一入口调用所有 AI 能力。",
+          "primary_url": "https://www.qbitai.com/2026/06/432631.html",
+          "importance": 5,
+          "items": [
+            "6e06da0dcea27847"
+          ],
+          "cover_path": "out/media/2026-06-10/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "德国法院裁定 Google AI Overviews 需为错误负责",
+          "summary": "德国一项里程碑式裁决宣布 Google 的 AI Overviews 视为 Google 自身言论，因此对其中的错误答案负有法律责任。",
+          "primary_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+          "importance": 7,
+          "items": [
+            "97f9f98778b2dc58"
+          ],
+          "cover_path": "out/media/2026-06-10/opinion-00.jpg"
+        },
+        {
+          "headline": "北京 2950 亿美元 AI 基建计划要求 80% 国产芯片",
+          "summary": "据报道，北京计划投入 2950 亿美元建设 AI 基础设施，其中国产芯片占比需达 80%，这将进一步排斥美国供应商。",
+          "primary_url": "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/",
+          "importance": 7,
+          "items": [
+            "963ac23e03b8fe95"
+          ],
+          "cover_path": "out/media/2026-06-10/opinion-01.jpg"
+        },
+        {
+          "headline": "Stratechery：iPhone 的最后机会",
+          "summary": "Stratechery 分析认为，Siri 虽不顶尖，但只要足够好用，对消费市场而言已是足够，此次升级可能是 iPhone 的最后一次重要反攻。",
+          "primary_url": "https://stratechery.com/2026/the-iphones-last-stand/",
+          "importance": 6,
+          "items": [
+            "8a6827facb52dae4"
+          ]
+        },
+        {
+          "headline": "OpenAI 表示“完全自动化一切不是我们想要的未来”",
+          "summary": "OpenAI 在最新博文中重申其宗旨，称并非追求完全自动化，而是帮助人类增强能力。",
+          "primary_url": "https://the-decoder.com/openai-says-entirely-automating-everything-is-not-the-future-we-want/",
+          "importance": 5,
+          "items": [
+            "c1b11a0e337b5685"
+          ],
+          "cover_path": "out/media/2026-06-10/opinion-03.jpg"
+        },
+        {
+          "headline": "“FAANG”已成过去式，“MANGOS”时代到来",
+          "summary": "TechCrunch 提出，随着 SpaceX、Anthropic、OpenAI 等公司准备上市，科技巨头缩写应更新为 MANGOS（Meta, Apple, Nvidia, Google, OpenAI, SpaceX）。",
+          "primary_url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+          "importance": 5,
+          "items": [
+            "c05f3226f346d748"
+          ],
+          "cover_path": "out/media/2026-06-10/opinion-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "MemPalace：开源 AI 记忆系统，称基准最佳",
+          "summary": "MemPalace 发布开源 AI 记忆系统，号称在同类基准测试中表现最佳且免费。",
+          "primary_url": "https://github.com/MemPalace/mempalace",
+          "importance": 7,
+          "items": [
+            "6528b272efdb619c"
+          ],
+          "cover_path": "out/media/2026-06-10/opensource-00.jpg"
+        },
+        {
+          "headline": "Google 发布 Agent Skills 开源集合",
+          "summary": "Google 开源了名为 skills 的 Agent Skills 库，涵盖其产品和技术的技能实现。",
+          "primary_url": "https://github.com/google/skills",
+          "importance": 6,
+          "items": [
+            "f8b36801b8652ba9"
+          ],
+          "cover_path": "out/media/2026-06-10/opensource-01.jpg"
+        },
+        {
+          "headline": "CopilotKit 发布：前端 agent 和生成式 UI 框架",
+          "summary": "CopilotKit 提供 React、Angular 等多平台的前端框架，用于构建 Agent 和生成式用户界面，并推出 AG-UI 协议。",
+          "primary_url": "https://github.com/CopilotKit/CopilotKit",
+          "importance": 6,
+          "items": [
+            "fd47e04142310954"
+          ],
+          "cover_path": "out/media/2026-06-10/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenAI 发布插件（Plugins）示例库",
+          "summary": "OpenAI 在 GitHub 上发布了一系列 Codex 插件示例，帮助开发者构建自定义插件。",
+          "primary_url": "https://github.com/openai/plugins",
+          "importance": 6,
+          "items": [
+            "580e3cc3173f66e5"
+          ],
+          "cover_path": "out/media/2026-06-10/opensource-03.jpg"
+        },
+        {
+          "headline": "Microsoft 开源 VibeVoice：前沿语音 AI",
+          "summary": "Microsoft 发布 VibeVoice，一个开源的语音 AI 模型，旨在推动语音交互的前沿发展。",
+          "primary_url": "https://github.com/microsoft/VibeVoice",
+          "importance": 6,
+          "items": [
+            "fc752c00506a7624"
+          ],
+          "cover_path": "out/media/2026-06-10/opensource-04.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-10"
+}
