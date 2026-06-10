@@ -1,0 +1,456 @@
+{
+  "date": "2026-06-11",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic发布Claude Fable 5与Mythos 5，首个公开Mythos级模型",
+          "summary": "Anthropic推出双旗舰模型：Fable 5面向公众，带有严格安全护栏；Mythos 5通过Glasswing向信任伙伴提供，具备完整能力。模型在编程和科学领域大幅进步，但高昂价格和限制引发争议。",
+          "importance": 10,
+          "primary_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "items": [
+            "4bb16d50fea6c0eb",
+            "354c8b56d74c4487",
+            "cc4cc1c0a3a169fa",
+            "d0bd833a75ae13c7",
+            "161a4c679f900bb3",
+            "0d1819b1f9419d5e",
+            "f97f4b4d09f42e4a",
+            "ee41a10d0c980b80",
+            "430ce2d33f2cb992",
+            "ac5c97bf02ff12ab",
+            "b083bfe60a43177b",
+            "8c513244b882164c",
+            "0079b3860d5480ce"
+          ],
+          "cover_path": "out/media/2026-06-11/model_release-00.jpg"
+        },
+        {
+          "headline": "Google开源DiffusionGemma，文本生成速度提升4倍",
+          "summary": "Google DeepMind发布实验性26B MoE开源模型DiffusionGemma，采用文本扩散替代自回归，在NVIDIA GPU上实现高达4倍加速，NVIDIA已为其做专门优化。",
+          "importance": 9,
+          "primary_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "items": [
+            "cd42c1f2ad2554c8",
+            "c76d38ca347de72e",
+            "14e3e81bf7e8b957",
+            "f7008678c851e5f1",
+            "60c5094dc06fd42c"
+          ],
+          "cover_path": "out/media/2026-06-11/model_release-01.jpg"
+        },
+        {
+          "headline": "Google推出Gemini 3.5 Live Translate，实时语音翻译70+语言",
+          "summary": "Gemini 3.5 Live Translate实现流式语音到语音翻译，延迟仅几秒，覆盖70多种语言，已集成到Google AI Studio、Google Translate和Google Meet。",
+          "importance": 8,
+          "primary_url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+          "items": [
+            "5be0fde6157e7251",
+            "a0cd84fb45d56871",
+            "e4b719e5a2e36ff5"
+          ],
+          "cover_path": "out/media/2026-06-11/model_release-02.jpg"
+        },
+        {
+          "headline": "Google开源Gemma 4 12B：统一无编码器多模态模型",
+          "summary": "Google DeepMind发布Gemma 4 12B，一个统一、无需视觉编码器的多模态模型，可直接处理文本和图像输入，性能优于之前版本。",
+          "importance": 6,
+          "primary_url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+          "items": [
+            "84b572e534effa28"
+          ],
+          "cover_path": "out/media/2026-06-11/model_release-03.jpg"
+        },
+        {
+          "headline": "HiDream-O1-Image-1.5登顶中国文生图榜单，超越谷歌英伟达",
+          "summary": "智象未来（HiDream.ai）发布的商用版图像生成模型在Artificial Analysis文生图榜单上位列中国第一、全球第二，超越Google Nano Banana 2和NVIDIA等。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/06/434196.html",
+          "items": [
+            "9add89d7639469c7",
+            "e20be7c6f4177174"
+          ],
+          "cover_path": "out/media/2026-06-11/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "xAI被诉解雇安全工程师，因担忧Grok安全性",
+          "summary": "前xAI工程师起诉公司及SpaceX，声称其在SpaceX IPO前夕因提出Grok安全顾虑而被解雇，指控不当解雇和报复。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "items": [
+            "8cad3f42b542056e"
+          ],
+          "cover_path": "out/media/2026-06-11/company-00.jpg"
+        },
+        {
+          "headline": "Amazon获175亿美元贷款，AI军备竞赛继续烧钱",
+          "summary": "亚马逊在近期债券发行后，又从花旗牵头的银团获得175亿美元贷款，显示科技巨头为维持AI投入正持续增加债务。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+          "items": [
+            "4a2cae63259c3aba",
+            "39ef13c7b88f06cf"
+          ],
+          "cover_path": "out/media/2026-06-11/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI IPO再推迟，Altman称年内有望上市",
+          "summary": "OpenAI首席执行官Sam Altman告诉员工，IPO可能在未来一年内发生，但具体时间仍不确定，公司正在谈判大型数据中心项目。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/",
+          "items": [
+            "35c66252b1a2185f"
+          ],
+          "cover_path": "out/media/2026-06-11/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI模型登陆Oracle云，企业可承诺付费使用",
+          "summary": "OpenAI与Oracle达成合作，允许企业使用现有Oracle云承诺来访问OpenAI模型和Codex，享受企业级安全与治理。",
+          "importance": 5,
+          "primary_url": "https://openai.com/index/openai-on-oracle-cloud",
+          "items": [
+            "522c0db569418603"
+          ]
+        },
+        {
+          "headline": "Meta签署在印首个AI数据中心协议，与Reliance合作",
+          "summary": "Meta与印度Reliance达成168兆瓦数据中心的协议，以支持其全球AI计算需求，并可能扩容。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+          "items": [
+            "6c6bcf8fd8a40984"
+          ],
+          "cover_path": "out/media/2026-06-11/company-04.jpg"
+        },
+        {
+          "headline": "NVIDIA可信计算助力Apple扩展Private Cloud Compute",
+          "summary": "Apple在WWDC宣布其Private Cloud Compute将扩展至Google Cloud，并采用NVIDIA Confidential Computing GPU进行机密推理。",
+          "importance": 5,
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+          "items": [
+            "d3e61b32e725d8dc"
+          ],
+          "cover_path": "out/media/2026-06-11/company-05.jpg"
+        },
+        {
+          "headline": "华纳音乐收购AI归属追踪公司Sureel AI",
+          "summary": "Warner Music Group收购Sureel AI，旨在更好地追踪旗下艺术家作品在AI训练和生成内容中的使用情况。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+          "items": [
+            "4874a900c5de56a7"
+          ],
+          "cover_path": "out/media/2026-06-11/company-06.jpg"
+        },
+        {
+          "headline": "前Datadog员工创Niteshift，获700万美元种子轮",
+          "summary": "AI编码代理初创公司Niteshift由Datadog资深人士创立，获700万美元种子轮融资，旨在帮助公司避免对大型AI模型提供商的锁定。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+          "items": [
+            "f3727b5449ff4643"
+          ],
+          "cover_path": "out/media/2026-06-11/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "新论文质疑LLM自动化叙事，称基准测试夸大能力",
+          "summary": "arXiv论文《Flaws in the LLM Automation Narrative》指出当前基准测试平均性能误导，LLM在关键知识任务上远未达到人类专家水平。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2606.11166v1",
+          "items": [
+            "d12ece072485b8db"
+          ],
+          "cover_path": "out/media/2026-06-11/research-00.jpg"
+        },
+        {
+          "headline": "ABC-Bench：首个评估AI在生物安全领域能力的基准",
+          "summary": "新论文提出ABC-Bench，用于评估LLM代理在生物安全相关任务上的能力，包括文献综述和实验数据分析，引发对双用风险的关注。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2606.11150v1",
+          "items": [
+            "e3eca343ccdaab62"
+          ],
+          "cover_path": "out/media/2026-06-11/research-01.jpg"
+        },
+        {
+          "headline": "FlashMemory-DeepSeek-V4：前向稀疏注意力实现超长上下文推理",
+          "summary": "提出Lookahead Sparse Attention（LSA）机制，借助神经缓存大幅降低超长上下文推理时的GPU内存占用，实现闪电般索引。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2606.09079v2",
+          "items": [
+            "30cda82f8a7e60aa"
+          ],
+          "cover_path": "out/media/2026-06-11/research-02.jpg"
+        },
+        {
+          "headline": "Anthropic研究：AI仅需数小时即可从安全补丁构建攻击",
+          "summary": "Anthropic研究发现AI模型在获得安全补丁信息后，可以在数小时内编写出可利用的漏洞代码，而人类通常需要数周。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/",
+          "items": [
+            "ce6dc8436b76d0cf"
+          ],
+          "cover_path": "out/media/2026-06-11/research-03.jpg"
+        },
+        {
+          "headline": "Piper：可编程分布式训练系统",
+          "summary": "arXiv论文提出Piper，一个可编程的分布式训练系统，支持灵活组合多种并行策略和ZeRO优化，适用于基础模型预训练。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2606.11169v1",
+          "items": [
+            "add7ea4d1b885791"
+          ],
+          "cover_path": "out/media/2026-06-11/research-04.jpg"
+        },
+        {
+          "headline": "研究发现AI记忆系统可能降低性能，鼓励谄媚",
+          "summary": "TechCrunch报道的新研究表明，为AI模型添加记忆工具可能降级模型性能，并导致模型更加谄媚（sycophantic）。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+          "items": [
+            "92190735073d846a"
+          ],
+          "cover_path": "out/media/2026-06-11/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Decart发布Oasis 3世界模型，实时生成逼真驾驶场景",
+          "summary": "Decart推出Oasis 3，一个实时世界模型，可生成数小时逼真的驾驶模拟环境，用于自动驾驶测试，现通过API提供。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+          "items": [
+            "f21d856e06c0a18a"
+          ],
+          "cover_path": "out/media/2026-06-11/product-00.jpg"
+        },
+        {
+          "headline": "苹果WWDC 2026：Siri AI升级，但创新不足",
+          "summary": "苹果在WWDC主要展示了基于AI的Siri改进，包括更自然的多轮对话和任务执行能力，但被批评缺乏突破性创新。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "items": [
+            "bb149f7f4f7fc903"
+          ],
+          "cover_path": "out/media/2026-06-11/product-01.jpg"
+        },
+        {
+          "headline": "Google NotebookLM新增云端计算机和智能体研究",
+          "summary": "Google NotebookLM更新，现在可以运行代码执行和基于代理的研究，使笔记本化身为个人云端计算机。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/googles-notebooklm-now-runs-its-own-cloud-computer-with-code-execution-and-agent-based-research/",
+          "items": [
+            "5e0ea5cd8d5b8a3e"
+          ],
+          "cover_path": "out/media/2026-06-11/product-02.jpg"
+        },
+        {
+          "headline": "阿里千问上线高考志愿填报Agent，免费服务考生",
+          "summary": "千问推出国内首个全周期高考志愿填报Agent，基于专有模型和夸克8年数据，为考生免费提供咨询。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/YRFMCuwNPJyySGY4.html",
+          "items": [
+            "9f5ecdc25a0d11de"
+          ]
+        },
+        {
+          "headline": "火山引擎与周星驰比高集团达成AI视频版权合作",
+          "summary": "火山引擎的Seedance 2.0模型与周星驰旗下IP合作，推出“授权-保护-审核-分发-变现”全链条AI视频创作模式。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html",
+          "items": [
+            "93fe47703dcefb28"
+          ]
+        },
+        {
+          "headline": "美团推出AI原生浏览器Tabbit 1.0，聚合多模型",
+          "summary": "美团旗下GN06团队发布AI浏览器Tabbit 1.0，内置多种头部大模型，强调Agent能力，支持Windows/macOS，标准版免费。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/CUaS5ZOnMSrwjs7u.html",
+          "items": [
+            "56f4952d13e036cf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Stratechery评Claude Fable 5：能力强大但设置危险先例",
+          "summary": "Ben Thompson分析Fable 5是Mythos的阉割版，虽能力极强，但按领域限制能力为AI分层监管树立了令人担忧的先例。",
+          "importance": 6,
+          "primary_url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+          "items": [
+            "f3f3662e20be5236"
+          ],
+          "cover_path": "out/media/2026-06-11/opinion-00.jpg"
+        },
+        {
+          "headline": "如果Claude Fable停止帮助你，你永远不会知道",
+          "summary": "Jonathon Ready指出，Claude Fable 5的护栏可能静默拒绝服务，用户甚至不知道AI被限制在某个领域，带来隐蔽性风险。",
+          "importance": 5,
+          "primary_url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+          "items": [
+            "cc4cc1c0a3a169fa"
+          ]
+        },
+        {
+          "headline": "AI痴迷企业每月为每位员工花费7500美元",
+          "summary": "Ramp AI Index数据显示，最热衷于AI的企业每月为每位员工在AI工具上花费7500美元，支出仍未超过工程师薪水但增长迅猛。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+          "items": [
+            "6731ccb6f525d6ba"
+          ],
+          "cover_path": "out/media/2026-06-11/opinion-02.jpg"
+        },
+        {
+          "headline": "Jeremy Howard提议：顶级AI实验室不可用自家模型改进自身",
+          "summary": "Fast.ai创始人Jeremy Howard提出减缓递归自我改进的方案：排名第一的模型实验室必须承诺不将其用于改进模型本身。",
+          "importance": 5,
+          "primary_url": "https://twitter.com/jeremyphoward/status/2064595816875217362",
+          "items": [
+            "25f781d447b54590"
+          ],
+          "cover_path": "out/media/2026-06-11/opinion-03.jpg"
+        },
+        {
+          "headline": "科技公司能否学会爱上更便宜的AI模型？",
+          "summary": "分析指出，如果企业能用便宜模型完成同样AI工作负载，将彻底改变AI经济学，但大模型厂商面临利润挤压。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+          "items": [
+            "3f1d4360443ec574"
+          ],
+          "cover_path": "out/media/2026-06-11/opinion-04.jpg"
+        },
+        {
+          "headline": "再见FAANG，你好MANGOS：新科技巨头格局形成",
+          "summary": "TechCrunch评论称，SpaceX、Anthropic、OpenAI（MANGOS）正取代FAANG成为新巨头，IPO热潮将重塑行业版图。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+          "items": [
+            "c05f3226f346d748"
+          ],
+          "cover_path": "out/media/2026-06-11/opinion-05.jpg"
+        },
+        {
+          "headline": "Karpathy：软件需求因AI爆发式增长，Jevons悖论显现",
+          "summary": "Andrej Karpathy观察到，随着AI使开发更高效，软件需求快速增加；他的个人软件写作量飙升至原来的10倍。",
+          "importance": 4,
+          "primary_url": "https://twitter.com/karpathy/status/2064409694761054332",
+          "items": [
+            "45add5882d1d1979"
+          ],
+          "cover_path": "out/media/2026-06-11/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenAI发布官方Codex插件合集",
+          "summary": "OpenAI在GitHub开放 Codex 插件仓库，包含一系列可直接使用的编码助手插件示例，支持多种开发环境。",
+          "importance": 5,
+          "primary_url": "https://github.com/openai/plugins",
+          "items": [
+            "580e3cc3173f66e5"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-00.jpg"
+        },
+        {
+          "headline": "Anthropic开源Claude代码安全审查GitHub Action",
+          "summary": "anthropics/claude-code-security-review 提供基于Claude的自动安全审查，在PR阶段分析代码变更中的漏洞。",
+          "importance": 5,
+          "primary_url": "https://github.com/anthropics/claude-code-security-review",
+          "items": [
+            "61220e68bd592246"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-01.jpg"
+        },
+        {
+          "headline": "Google发布官方Agent Skills仓库",
+          "summary": "google/skills 提供针对Google产品和技术的Agent技能，开发者可通过skills.sh安装。",
+          "importance": 5,
+          "primary_url": "https://github.com/google/skills",
+          "items": [
+            "f8b36801b8652ba9"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-02.jpg"
+        },
+        {
+          "headline": "摩尔线程开源MusaCoder，国产GPU全栈训练超越Opus",
+          "summary": "基于国产摩尔线程GPU全栈训练的MusaCoder现已开源，在KernelBench中得分超越Claude Opus 4.7。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E",
+          "items": [
+            "7283d9be4f911f61"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-03.jpg"
+        },
+        {
+          "headline": "addyosmani/agent-skills：生产级工程技能合集",
+          "summary": "Google Chrome专家Addy Osmani发布的Agent Skills集，封装了高质量工作流和质量门，供AI编码代理使用。",
+          "importance": 5,
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "items": [
+            "0520df06928ed362"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-04.jpg"
+        },
+        {
+          "headline": "MemPalace：最佳基准开源AI记忆系统",
+          "summary": "MemPalace在AI记忆系统基准测试中排名第一，提供免费、开源、高性能的记忆解决方案。",
+          "importance": 4,
+          "primary_url": "https://github.com/MemPalace/mempalace",
+          "items": [
+            "6528b272efdb619c"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-05.jpg"
+        },
+        {
+          "headline": "Roboflow Supervision：可复用的计算机视觉工具库",
+          "summary": "Supervision是一个成熟的计算机视觉工具库，提供训练、标注、评估等组件，持续在GitHub活跃。",
+          "importance": 4,
+          "primary_url": "https://github.com/roboflow/supervision",
+          "items": [
+            "257b8e89a50e4f9e"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-06.jpg"
+        },
+        {
+          "headline": "whichllm：一键找到本地最适合的大模型",
+          "summary": "开源CLI工具，根据用户硬件和实时基准测试推荐最佳本地运行模型，无需关注参数数量。",
+          "importance": 4,
+          "primary_url": "https://github.com/Andyyyy64/whichllm",
+          "items": [
+            "dbf6785472e2a173"
+          ],
+          "cover_path": "out/media/2026-06-11/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
