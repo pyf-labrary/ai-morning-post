@@ -231,6 +231,42 @@ def git_commit_push(marginalia: Path, date: str, push: bool) -> None:
         print("  pushed to origin")
 
 
+def check_pages_size(marginalia: Path) -> None:
+    """GitHub Pages 站点软限 1 GB。ai-hot 每天进图，体积只会涨——
+    每次发布后量一次工作树（即 Pages 实际发布内容），快到线提前喊。
+    fail-soft：只告警不阻断发布。"""
+    WARN_MB, ALERT_MB = 700, 900
+
+    def du_mb(path: Path) -> float:
+        total = 0
+        for root, dirs, files in os.walk(path):
+            dirs[:] = [d for d in dirs if d not in (".git", "_site", ".jekyll-cache", "vendor")]
+            for f in files:
+                try:
+                    total += (Path(root) / f).stat().st_size
+                except OSError:
+                    pass
+        return total / 1e6
+
+    try:
+        site_mb = du_mb(marginalia)
+        hot_mb = du_mb(marginalia / "assets" / "img" / "ai-hot")
+        line = (f"pages size check: worktree {site_mb:.0f} MB"
+                f" (ai-hot images {hot_mb:.0f} MB) / soft limit 1000 MB")
+        print(f"  {line}")
+        if site_mb >= ALERT_MB:
+            # GH Actions annotation —— 在 run 页面顶部红字醒目展示
+            print(f"::error title=marginalia Pages 容量告急::{line}，需要立刻清理旧 ai-hot 图片或迁移外部托管")
+        elif site_mb >= WARN_MB:
+            print(f"::warning title=marginalia Pages 容量预警::{line}，建议规划旧图治理")
+        summary = os.getenv("GITHUB_STEP_SUMMARY")
+        if summary:
+            with open(summary, "a", encoding="utf-8") as fh:
+                fh.write(f"\n- {line}\n")
+    except Exception as e:  # 容量检查永不打断发布
+        print(f"  (size check skipped: {e})", file=sys.stderr)
+
+
 def publish(date: str | None = None, marginalia: Path | None = None,
             push: bool = True, commit: bool = True) -> Path:
     date = date or today_str()
@@ -241,6 +277,7 @@ def publish(date: str | None = None, marginalia: Path | None = None,
     target = build_post(date, marginalia)
     if commit:
         git_commit_push(marginalia, date, push=push)
+    check_pages_size(marginalia)
     return target
 
 
