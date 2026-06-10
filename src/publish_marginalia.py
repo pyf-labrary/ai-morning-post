@@ -203,7 +203,7 @@ def git_commit_push(marginalia: Path, date: str, push: bool) -> None:
         if token_file.exists():
             env["GH_TOKEN"] = token_file.read_text().strip()
 
-    _run(["git", "add", "_posts", "assets/img/ai-hot"], marginalia, env=env)
+    _run(["git", "add", "_posts", "assets/img/ai-hot", "_data/hot_topics.json"], marginalia, env=env)
     diff = subprocess.run(
         ["git", "diff", "--cached", "--name-only"],
         cwd=marginalia, capture_output=True, text=True,
@@ -275,10 +275,25 @@ def publish(date: str | None = None, marginalia: Path | None = None,
         raise SystemExit(f"marginalia repo not found at {marginalia}")
     print(f"publish to marginalia: {marginalia}")
     target = build_post(date, marginalia)
+    refresh_hot_topics(marginalia)
     if commit:
         git_commit_push(marginalia, date, push=push)
     check_pages_size(marginalia)
     return target
+
+
+def refresh_hot_topics(marginalia: Path) -> None:
+    """重算近 30 天话题热度榜（marginalia/scripts/hot-topics.py →
+    _data/hot_topics.json，/ai-hot/ 页静态渲染）。fail-soft 不阻断发布。"""
+    script = marginalia / "scripts" / "hot-topics.py"
+    if not script.exists():
+        return
+    out = subprocess.run([sys.executable, str(script)], cwd=marginalia,
+                         capture_output=True, text=True)
+    if out.returncode == 0:
+        print("  " + (out.stdout.strip().splitlines() or ["hot-topics refreshed"])[0])
+    else:
+        print(f"!! hot-topics failed (non-fatal):\n{out.stderr}", file=sys.stderr)
 
 
 def main() -> None:
