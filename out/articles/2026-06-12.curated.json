@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-12",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌DeepMind发布DiffusionGemma，速度提升4倍",
+          "summary": "Google DeepMind发布开源模型DiffusionGemma，采用文本扩散技术，在GPU上实现最高4倍速度提升，并已获得NVIDIA优化。",
+          "primary_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+          "importance": 10,
+          "items": [
+            "cd42c1f2ad2554c8",
+            "0eb2d3188bb5aa9b",
+            "c76d38ca347de72e",
+            "14e3e81bf7e8b957",
+            "f7008678c851e5f1",
+            "b3cfa022aac2c918",
+            "60c5094dc06fd42c",
+            "202f85993fd774ec"
+          ],
+          "cover_path": "out/media/2026-06-12/model_release-00.jpg"
+        },
+        {
+          "headline": "Cohere发布30B专家混合编码模型North Mini Code",
+          "summary": "Cohere推出首个开发者编码模型，30B参数MoE架构，仅3B活跃参数，支持256K上下文，可在单张H100上运行。",
+          "primary_url": "https://www.marktechpost.com/2026/06/11/meet-north-mini-code-coheres-30b-open-weight-mixture-of-experts-model-with-3b-active-parameters-for-agentic-coding/",
+          "importance": 6,
+          "items": [
+            "547ea3abaa12177e"
+          ],
+          "cover_path": "out/media/2026-06-12/model_release-01.jpg"
+        },
+        {
+          "headline": "Decart发布Oasis 3世界模型，生成逼真驾驶环境",
+          "summary": "Decart推出Oasis 3世界模型，可实时生成数小时逼真驾驶场景，用于自动驾驶测试，开发者可通过API使用。",
+          "primary_url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+          "importance": 6,
+          "items": [
+            "f21d856e06c0a18a"
+          ],
+          "cover_path": "out/media/2026-06-12/model_release-02.jpg"
+        },
+        {
+          "headline": "HiDream-O1-Image-1.5登顶中国文生图榜单",
+          "summary": "智象未来的HiDream-O1-Image-1.5在Artificial Analysis文生图榜单上取得中国第一、全球第二，超越Google和NVIDIA模型。",
+          "primary_url": "https://www.qbitai.com/2026/06/434196.html",
+          "importance": 6,
+          "items": [
+            "9add89d7639469c7",
+            "e20be7c6f4177174"
+          ],
+          "cover_path": "out/media/2026-06-12/model_release-03.jpg"
+        },
+        {
+          "headline": "小米发布每秒千Token的1T参数模型",
+          "summary": "小米开源其最快大模型，吞吐量超1000 Tokens/秒，可在通用GPU上运行，支持Vibe Coding。",
+          "primary_url": "https://www.qbitai.com/2026/06/434225.html",
+          "importance": 5,
+          "items": [
+            "0369e9b539febc12"
+          ],
+          "cover_path": "out/media/2026-06-12/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI收购Ona，增强Codex企业云端能力",
+          "summary": "OpenAI计划收购初创公司Ona，为Codex提供持久安全云端环境，支持企业级长期运行AI Agent。",
+          "primary_url": "https://openai.com/index/openai-to-acquire-ona",
+          "importance": 9,
+          "items": [
+            "77f12fbab590b4f7"
+          ]
+        },
+        {
+          "headline": "Anthropic承认错误，撤回Fable反蒸馏限制",
+          "summary": "Anthropic对Fable模型隐式限制竞争对手AI研究者使用Claude的政策引发争议，后公开道歉并撤回。",
+          "primary_url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+          "importance": 9,
+          "items": [
+            "53ec84fa12c2074b",
+            "18314d147d28d960",
+            "72c0018a62eee069",
+            "0dc9fcc6d348c556",
+            "05e33a735cb53acf"
+          ],
+          "cover_path": "out/media/2026-06-12/company-01.jpg"
+        },
+        {
+          "headline": "贝佐斯AI公司Prometheus完成120亿美元融资",
+          "summary": "Jeff Bezos的AI初创公司Prometheus关闭120亿美元融资轮，估值达410亿美元。",
+          "primary_url": "https://the-decoder.com/jeff-bezos-ai-startup-prometheus-closes-12-billion-round-at-a-41-billion-valuation/",
+          "importance": 8,
+          "items": [
+            "370693582f5d2f45"
+          ],
+          "cover_path": "out/media/2026-06-12/company-02.jpg"
+        },
+        {
+          "headline": "xAI前工程师因揭发Grok安全问题遭解雇后起诉",
+          "summary": "前xAI工程师提起诉讼，声称他在SpaceX IPO前几天因提出Grok模型安全担忧而被解雇。",
+          "primary_url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "importance": 7,
+          "items": [
+            "8cad3f42b542056e"
+          ],
+          "cover_path": "out/media/2026-06-12/company-03.jpg"
+        },
+        {
+          "headline": "OpenAI支持欧盟AI透明度实践准则",
+          "summary": "OpenAI表态支持欧盟关于AI内容可追溯的实践准则，推动内容来源标准化。",
+          "primary_url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "importance": 7,
+          "items": [
+            "e7617a7cf954db0a"
+          ]
+        },
+        {
+          "headline": "BBVA将ChatGPT Enterprise推广至10万员工",
+          "summary": "BBVA与OpenAI深度合作，将ChatGPT Enterprise扩展到10万员工，加速AI驱动银行转型。",
+          "primary_url": "https://openai.com/index/bbva",
+          "importance": 7,
+          "items": [
+            "03faafdaf8433510"
+          ]
+        },
+        {
+          "headline": "亚马逊新借175亿美元，AI军备竞赛持续烧钱",
+          "summary": "亚马逊在债券发行后再次向银行借款175亿美元，用于支持AI基础设施投入。",
+          "primary_url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+          "importance": 6,
+          "items": [
+            "4a2cae63259c3aba"
+          ],
+          "cover_path": "out/media/2026-06-12/company-06.jpg"
+        },
+        {
+          "headline": "AI短剧工具公司获年度最大单笔融资",
+          "summary": "一家AI短剧创作工具公司获得年度最大单笔融资，显示AI视频生成赛道火热。",
+          "primary_url": "https://www.qbitai.com/2026/06/434298.html",
+          "importance": 6,
+          "items": [
+            "b9b309384eac50f0"
+          ],
+          "cover_path": "out/media/2026-06-12/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Deezer推出工具识别Spotify等平台的AI音乐",
+          "summary": "Deezer开发工具扫描Spotify、Apple Music等流媒体列表，识别出由AI生成的音乐曲目。",
+          "primary_url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+          "importance": 7,
+          "items": [
+            "cc377a81bcb78a7c",
+            "63d2cd7d1f897534"
+          ],
+          "cover_path": "out/media/2026-06-12/product-00.jpg"
+        },
+        {
+          "headline": "Perplexity将Deep Research搬进电脑，路由20+模型",
+          "summary": "Perplexity将Deep Research功能扩展到计算机应用，将复杂研究任务分解并路由到20多个前沿模型协同完成。",
+          "primary_url": "https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/",
+          "importance": 7,
+          "items": [
+            "5a4e1b707c2b60ae"
+          ],
+          "cover_path": "out/media/2026-06-12/product-01.jpg"
+        },
+        {
+          "headline": "DoorDash推出AI聊天机器人支持自然语言点餐",
+          "summary": "DoorDash新聊天机器人Ask DoorDash允许用户用自然语言或照片搜索和点餐。",
+          "primary_url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+          "importance": 6,
+          "items": [
+            "2f4f575bb08b9a54"
+          ],
+          "cover_path": "out/media/2026-06-12/product-02.jpg"
+        },
+        {
+          "headline": "千问上线世界杯足球预测AI助手",
+          "summary": "千问推出足球预测AI助手，用户可参与比分预测并赢取奖励，同时为乡村学校捐建足球场。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/rlbyFXSP1xl2Mrvo.html",
+          "importance": 6,
+          "items": [
+            "065c8824610da441"
+          ]
+        },
+        {
+          "headline": "百度推出AI志愿填报服务，真人专家验真",
+          "summary": "百度在高考季推出AI志愿填报服务，结合AI分析和真人专家审核。",
+          "primary_url": "https://www.qbitai.com/2026/06/434268.html",
+          "importance": 6,
+          "items": [
+            "9288102634d096ee"
+          ],
+          "cover_path": "out/media/2026-06-12/product-04.jpg"
+        },
+        {
+          "headline": "Meshy发布全球首个3D AI Agent",
+          "summary": "Meshy推出首个3D AI Agent，用户可用自然语言和图像生成3D模型。",
+          "primary_url": "https://www.qbitai.com/2026/06/434317.html",
+          "importance": 6,
+          "items": [
+            "2ddb7f8dbeb66545"
+          ],
+          "cover_path": "out/media/2026-06-12/product-05.jpg"
+        },
+        {
+          "headline": "xAI推出Grok Build插件市场，支持MongoDB等",
+          "summary": "Grok Build发布in-terminal插件市场，包括MongoDB、Vercel等插件，提供commit-SHA验证。",
+          "primary_url": "https://www.marktechpost.com/2026/06/11/xai-ships-grok-build-plugin-marketplace-with-mongodb-vercel-sentry-chrome-devtools-cloudflare-and-superpowers-plugins-at-launch/",
+          "importance": 6,
+          "items": [
+            "c2ff339b293f934f"
+          ],
+          "cover_path": "out/media/2026-06-12/product-06.jpg"
+        },
+        {
+          "headline": "微软Foundry新增生产级智能体运行时与管控",
+          "summary": "微软更新AI Foundry平台，新增生产级Agent运行时、工具链和治理能力。",
+          "primary_url": "https://www.infoq.cn/article/FoxOEsYuLGTKgu8wbhdY",
+          "importance": 6,
+          "items": [
+            "28d5f5b1d0898d7b"
+          ],
+          "cover_path": "out/media/2026-06-12/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Anthropic研究：AI数小时即可从补丁构建漏洞利用",
+          "summary": "Anthropic研究表明，AI能够在安全补丁发布后数小时内自动构建出利用代码，大幅缩短攻击窗口。",
+          "primary_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/",
+          "importance": 6,
+          "items": [
+            "ce6dc8436b76d0cf"
+          ],
+          "cover_path": "out/media/2026-06-12/research-00.jpg"
+        },
+        {
+          "headline": "研究警告：AI记忆系统可能降低模型性能",
+          "summary": "新研究发现为AI模型增加记忆功能可能导致性能下降，并助长谄媚行为。",
+          "primary_url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+          "importance": 5,
+          "items": [
+            "92190735073d846a"
+          ],
+          "cover_path": "out/media/2026-06-12/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "德国法院裁定Google对AI概览内容负责",
+          "summary": "德国法院在里程碑式裁决中认定Google的AI搜索概览属于自身言论，需对虚假信息负责，可能影响AI搜索行业。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+          "importance": 8,
+          "items": [
+            "907c321bfe774da3",
+            "97f9f98778b2dc58"
+          ],
+          "cover_path": "out/media/2026-06-12/opinion-00.jpg"
+        },
+        {
+          "headline": "Dario Amodei发表冷战式AI政策长文",
+          "summary": "Anthropic CEO Dario Amodei发表文章，提出类似冷战时期的国际AI治理策略。",
+          "primary_url": "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/",
+          "importance": 7,
+          "items": [
+            "5d80561269dddffc"
+          ],
+          "cover_path": "out/media/2026-06-12/opinion-01.jpg"
+        },
+        {
+          "headline": "Stratechery专访Ben Bajarin谈苹果AI战略",
+          "summary": "知名分析师Ben Bajarin接受Stratechery采访，讨论WWDC、苹果AI计划以及计算产业趋势。",
+          "primary_url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+          "importance": 6,
+          "items": [
+            "7576feb31bce5210"
+          ],
+          "cover_path": "out/media/2026-06-12/opinion-02.jpg"
+        },
+        {
+          "headline": "Ramp指数：重度AI企业人均月花费7500美元",
+          "summary": "Ramp公司AI指数显示，对AI最痴迷的企业每月人均AI支出达7500美元，虽仍低于工程师薪资但增长迅猛。",
+          "primary_url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+          "importance": 6,
+          "items": [
+            "6731ccb6f525d6ba"
+          ],
+          "cover_path": "out/media/2026-06-12/opinion-03.jpg"
+        },
+        {
+          "headline": "AI不会取代软件工程师，编码智能体只是工具",
+          "summary": "AI Snake Oil发表文章，论证编码智能体不会取代软件工程师，而是一种正常的技术工具。",
+          "primary_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+          "importance": 6,
+          "items": [
+            "f7a738f30b8556ce"
+          ],
+          "cover_path": "out/media/2026-06-12/opinion-04.jpg"
+        },
+        {
+          "headline": "Jeremy Howard提议顶级模型不得用于自我改进",
+          "summary": "知名AI研究者Jeremy Howard在Twitter上建议，排名第一的AI实验室应禁止使用其模型来改进自身，以缓解AI自我提升速度。",
+          "primary_url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/",
+          "importance": 5,
+          "items": [
+            "25f781d447b54590"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Agent Skills生态爆发，多个仓库同登GitHub趋势",
+          "summary": "多个“Agent Skills”仓库如 addyosmani/agent-skills、google/skills、superpowers 等同时登上GitHub热门，反映AI编码Agent技能模板标准化趋势。",
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "importance": 7,
+          "items": [
+            "0520df06928ed362",
+            "cab848e75dc50ad6",
+            "93908f3f02cc79af",
+            "f8b36801b8652ba9",
+            "deb5cfbc6c94edc4"
+          ],
+          "cover_path": "out/media/2026-06-12/opensource-00.jpg"
+        },
+        {
+          "headline": "vLLM发布vllm-omni框架，支持多模态推理",
+          "summary": "vLLM项目推出vllm-omni，用于高效推理多模态模型的推理框架。",
+          "primary_url": "https://github.com/vllm-project/vllm-omni",
+          "importance": 6,
+          "items": [
+            "0741967c7f58b30a"
+          ],
+          "cover_path": "out/media/2026-06-12/opensource-01.jpg"
+        },
+        {
+          "headline": "Activeloop开源Hivemind，统一管理AI Agent",
+          "summary": "Hivemind开源框架允许多个AI Agent共享知识库和记忆层，实现协作。",
+          "primary_url": "https://github.com/activeloopai/hivemind",
+          "importance": 5,
+          "items": [
+            "fa5faf5fd26fdda6"
+          ],
+          "cover_path": "out/media/2026-06-12/opensource-02.jpg"
+        },
+        {
+          "headline": "turbovec：基于TurboQuant的高性能向量索引",
+          "summary": "开源项目turbovec利用Google TurboQuant技术实现向量索引，Rust编写附带Python绑定。",
+          "primary_url": "https://github.com/RyanCodrai/turbovec",
+          "importance": 5,
+          "items": [
+            "1f8cc64db7aa2481"
+          ],
+          "cover_path": "out/media/2026-06-12/opensource-03.jpg"
+        },
+        {
+          "headline": "whichllm一键测试并推荐本地最佳LLM",
+          "summary": "开源工具whichllm根据硬件自动测试多个本地模型，通过真实基准推荐性能最佳模型。",
+          "primary_url": "https://github.com/Andyyyy64/whichllm",
+          "importance": 5,
+          "items": [
+            "dbf6785472e2a173"
+          ],
+          "cover_path": "out/media/2026-06-12/opensource-04.jpg"
+        },
+        {
+          "headline": "claude-howto：可视化Claude Code使用指南",
+          "summary": "开源项目claude-howto提供从基础到高级智能体的可视化Claude Code示例指南。",
+          "primary_url": "https://github.com/luongnv89/claude-howto",
+          "importance": 4,
+          "items": [
+            "5f1d2da417658e1e"
+          ],
+          "cover_path": "out/media/2026-06-12/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
