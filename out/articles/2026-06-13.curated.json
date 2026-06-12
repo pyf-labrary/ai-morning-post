@@ -1,0 +1,473 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "Claude Fable 5性能争议：成本翻倍只增5.7%",
+          "summary": "Anthropic新模型Fable 5被指相比前代性能提升有限但价格翻倍，且用户可接受性存疑。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/",
+          "items": [
+            "ff4992bbef8e99ce",
+            "4e13314513043a31",
+            "6fd91b7148f91569",
+            "05e33a735cb53acf"
+          ],
+          "cover_path": "out/media/2026-06-13/model_release-00.jpg"
+        },
+        {
+          "headline": "NVIDIA Blackwell登顶首个Agentic AI基准",
+          "summary": "NVIDIA Blackwell在Artificial Analysis发布的AgentPerf基准中表现第一，成为首个面向Agentic AI的基础设施基准。",
+          "importance": 7,
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+          "items": [
+            "02fe6cf3715d82fc"
+          ],
+          "cover_path": "out/media/2026-06-13/model_release-01.jpg"
+        },
+        {
+          "headline": "WeatherMesh-6天气预报模型发布",
+          "summary": "Windborne Systems发布WeatherMesh-6，新的数值天气预报模型，提升预测精度。",
+          "importance": 5,
+          "primary_url": "https://windbornesystems.com/blog/introducing-wm-6",
+          "items": [
+            "4fbd67bf3842f344"
+          ],
+          "cover_path": "out/media/2026-06-13/model_release-02.jpg"
+        },
+        {
+          "headline": "开悟世界模型登顶多项具身智能评测",
+          "summary": "大晓机器人开悟世界模型在RoboTwin 2.0、LIBERO-Plus等四个权威榜单获第一。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/ai/G88m8g2T61aivI2F.html",
+          "items": [
+            "7b995d7b79c5925d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "SpaceX上市首日大涨，史上最大IPO",
+          "summary": "SpaceX以每股135美元发行，首日开盘报150-174美元，散户申购额超700亿美元。",
+          "importance": 10,
+          "primary_url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+          "items": [
+            "839cd71083b1057f",
+            "7695b4837cb2b9d6",
+            "d46a99a85af5b4c3",
+            "713a347dc7d37386",
+            "8a67735fde128904",
+            "efc93e692979d627",
+            "ade8cde8c88718c2",
+            "5464a2c6abeac586",
+            "48fc165680f73968"
+          ],
+          "cover_path": "out/media/2026-06-13/company-00.jpg"
+        },
+        {
+          "headline": "Prometheus融资120亿美元，估值410亿",
+          "summary": "Jeff Bezos的物理AI初创公司Prometheus完成$12B融资，估值$41B，旨在打造‘人工通用工程师’。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+          "items": [
+            "5b232e67063b5eae",
+            "370693582f5d2f45"
+          ],
+          "cover_path": "out/media/2026-06-13/company-01.jpg"
+        },
+        {
+          "headline": "Mistral AI传闻融资30亿欧元，估值200亿",
+          "summary": "法国AI创企Mistral据传以€20B估值融资€3B，较上轮估值翻倍。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "items": [
+            "6aa2cd56a732463a",
+            "50391f2e3ea2eec9"
+          ],
+          "cover_path": "out/media/2026-06-13/company-02.jpg"
+        },
+        {
+          "headline": "Google联合FBI起诉中国AI诈骗组织",
+          "summary": "Google称中国组织‘Outsider Enterprise’利用AI发送250万条诈骗短信，受害数十万人。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+          "items": [
+            "c4984bdeb77db36d",
+            "3c0cf16afc1b016b"
+          ],
+          "cover_path": "out/media/2026-06-13/company-03.jpg"
+        },
+        {
+          "headline": "Meta AI部门被曝混乱，工程师称‘灵魂磨灭’",
+          "summary": "报告称Meta成立仅数月的AI部门内部分歧严重，6500名员工濒临反抗。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+          "items": [
+            "11b48b3ad8a9db41",
+            "cc375a34b2e59ca6"
+          ],
+          "cover_path": "out/media/2026-06-13/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI收购Ona，强化Codex长期自治编码",
+          "summary": "OpenAI收购Ona公司，推动Codex代理处理长时间运行的自助编码任务。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks/",
+          "items": [
+            "7df1985be515b05a",
+            "b17bf6b0fb6f7b1b"
+          ],
+          "cover_path": "out/media/2026-06-13/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI秘密递交IPO文件，三巨头齐筹钱",
+          "summary": "消息称OpenAI已秘密向SEC提交IPO申请，计划引发AI史上最大融资潮。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr",
+          "items": [
+            "62f89de27542c001"
+          ],
+          "cover_path": "out/media/2026-06-13/company-06.jpg"
+        },
+        {
+          "headline": "微软中国Azure研发团队裁员超200人",
+          "summary": "微软中国Azure研发团队遭裁员，超200人受影响，补偿最高N+7。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/zaobao/K9MpJZRxh6jNKi8k.html",
+          "items": [
+            "316667f05025d3f1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "清华李勇团队用AI延长厄尔尼诺预测至19个月",
+          "summary": "Nature子刊发表研究，AI解码全球气候耦合，ENSO预测提前期从12个月延长至19个月。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/Sgux2ZbLaFbXaZxD.html",
+          "items": [
+            "9455b19e882d54bf"
+          ]
+        },
+        {
+          "headline": "CVPR 2026综述：模型适应性研究新方向",
+          "summary": "盘点CVPR 2026上关于模型适应性工作，从旧知识保留到适应真实世界。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/ai/9x05Sw5uY0RhgEdO.html",
+          "items": [
+            "7a476b78da87a1c3"
+          ]
+        },
+        {
+          "headline": "中科大&智象视频超分技术获CVPR 2026认可",
+          "summary": "研究提出强模型打底、轻模型精修方法，重塑视频超分辨率体验。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/ai/qDR8TrUNjdEVUrWa.html",
+          "items": [
+            "16e015a3239d2a57"
+          ]
+        },
+        {
+          "headline": "通过类比推理：检索增强强化学习微调新方法",
+          "summary": "arXiv论文提出检索增强的强化学习微调，提升模型类比推理能力。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2606.13680v1",
+          "items": [
+            "18318bca08b0a0e1"
+          ],
+          "cover_path": "out/media/2026-06-13/research-03.jpg"
+        },
+        {
+          "headline": "Mana: 灵巧机器人操作铰接工具",
+          "summary": "新研究提出Mana框架，实现机器人对铰接工具的灵活操控。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2606.13677v1",
+          "items": [
+            "e036e516c8717238"
+          ],
+          "cover_path": "out/media/2026-06-13/research-04.jpg"
+        },
+        {
+          "headline": "SpatialClaw: 重新定义智能体空间推理接口",
+          "summary": "研究提出新动作接口SpatialClaw，解决VLM在3D空间推理中的根本挑战。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2606.13673v1",
+          "items": [
+            "1bbe5d20a713d945"
+          ],
+          "cover_path": "out/media/2026-06-13/research-05.jpg"
+        },
+        {
+          "headline": "EurekAgent: 自主科学发现的环境工程方法",
+          "summary": "提出Agent环境工程方法，让AI代理自动提出、验证并迭代科学解决方案。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2606.13662v1",
+          "items": [
+            "4ff0b7215b61c14a"
+          ],
+          "cover_path": "out/media/2026-06-13/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Deezer推出免费AI音乐识别工具",
+          "summary": "Deezer工具可扫描Spotify、Apple Music等平台歌单，识别AI生成音乐。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+          "items": [
+            "cc377a81bcb78a7c",
+            "63d2cd7d1f897534"
+          ],
+          "cover_path": "out/media/2026-06-13/product-00.jpg"
+        },
+        {
+          "headline": "DoorDash推出AI聊天助手Ask DoorDash",
+          "summary": "新功能支持用户通过文字或图片描述自然语言点餐，无需手动浏览菜单。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+          "items": [
+            "2f4f575bb08b9a54"
+          ],
+          "cover_path": "out/media/2026-06-13/product-01.jpg"
+        },
+        {
+          "headline": "OpenAI推出Academy课程，教授AI实操技能",
+          "summary": "三门新课程聚焦AI工作技能、可重复工作流和Agent在职场中的应用。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+          "items": [
+            "cea8d7a42239c0c8"
+          ]
+        },
+        {
+          "headline": "Preply结合OpenAI推出AI学习摘要",
+          "summary": "语言学习平台Preply利用AI生成个性化课程摘要与练习，结合真人导师。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/preply",
+          "items": [
+            "975e6adaf6235f7b"
+          ]
+        },
+        {
+          "headline": "Pool新App将截图自动整理为可搜索记忆库",
+          "summary": "App自动分类截图、追踪原始链接，帮助用户快速找回放弃的购物、食谱等。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+          "items": [
+            "74a397e9b5eb8be6"
+          ],
+          "cover_path": "out/media/2026-06-13/product-04.jpg"
+        },
+        {
+          "headline": "腾讯云护航世界杯直播，AI首次大规模应用",
+          "summary": "腾讯云为全球16国提供直播支持，AI技术首次在世界杯大规模使用，承载七成流量。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/EtblIFPRNIfRPFFO.html",
+          "items": [
+            "198aa81120e75d7f"
+          ]
+        },
+        {
+          "headline": "Snowflake发布Agentic AI工具CoCo与CoWork",
+          "summary": "Snowflake Summit 26上发布CoCo、CoWork等产品，定义Agentic AI未来。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH",
+          "items": [
+            "ce0703a3fea4befc",
+            "9404752c646a1f91"
+          ],
+          "cover_path": "out/media/2026-06-13/product-06.jpg"
+        },
+        {
+          "headline": "Azure API Management推出统一模型API",
+          "summary": "Build 2026上，Azure API Management新增统一模型API和MCP内容安全能力。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk",
+          "items": [
+            "9b595dfc44f9e668"
+          ],
+          "cover_path": "out/media/2026-06-13/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "德国法院裁定Google AI Overviews需为错误担责",
+          "summary": "里程碑判决：Google的AI概览被视为平台自身言论，需对不实信息承担责任。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+          "items": [
+            "97f9f98778b2dc58"
+          ],
+          "cover_path": "out/media/2026-06-13/opinion-00.jpg"
+        },
+        {
+          "headline": "Stratechery周报：Apple智能、Anthropic Fable与欧洲工业",
+          "summary": "本周深度分析Apple Intelligence终于出货、Anthropic的Fable策略以及欧洲工业未来。",
+          "importance": 7,
+          "primary_url": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
+          "items": [
+            "5b8a2dd9c6f7c343"
+          ]
+        },
+        {
+          "headline": "硅谷大厂员工人均月花5万养AI",
+          "summary": "调查显示科技公司员工平均每月在AI工具上花费5万人民币，AI成最大成本项。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/g0gwDH3edWuateVXqp6N",
+          "items": [
+            "d382b0589c9493b3"
+          ],
+          "cover_path": "out/media/2026-06-13/opinion-02.jpg"
+        },
+        {
+          "headline": "智源大会圆桌：具身智能或为中国AlphaGo时刻",
+          "summary": "专家认为大模型没有终局，具身智能可能是中国在AI领域的下一个突破点。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937",
+          "items": [
+            "ae45eb2ee483f800"
+          ],
+          "cover_path": "out/media/2026-06-13/opinion-03.jpg"
+        },
+        {
+          "headline": "AI行业的平台陷阱越来越像微软",
+          "summary": "分析指出AI平台正在形成类似微软的垄断格局，用户和开发者面临锁定风险。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts/",
+          "items": [
+            "c2318a0da175d95f"
+          ],
+          "cover_path": "out/media/2026-06-13/opinion-04.jpg"
+        },
+        {
+          "headline": "万台量产之后，机器人企业比拼什么？",
+          "summary": "2026年机器人量产元年到来，但行业应聚焦交付与落地而非数字竞赛。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/q05jAEnENMMJiEH0.html",
+          "items": [
+            "ac272fb6c26398f6"
+          ]
+        },
+        {
+          "headline": "Anthropic调查：过半美国人恐惧AI导致失业与丧失思考",
+          "summary": "调查显示美国民众对AI取代工作以及削弱独立思维能力的担忧严重。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/",
+          "items": [
+            "5ee9e837a0d6e84c"
+          ],
+          "cover_path": "out/media/2026-06-13/opinion-06.jpg"
+        },
+        {
+          "headline": "Token大爆炸前夜，数据基础设施成新变量",
+          "summary": "AI生成Token数量激增，推动数据基础设施从存储转向实时处理与可观测性。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U",
+          "items": [
+            "f9abeab144fada5d"
+          ],
+          "cover_path": "out/media/2026-06-13/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "addyosmani/agent-skills：生产级AI代理技能库",
+          "summary": "开源项目提供编码代理的生产级工程技能，包含工作流、质量门禁等。",
+          "importance": 6,
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "items": [
+            "0520df06928ed362"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-00.jpg"
+        },
+        {
+          "headline": "NVIDIA发布SkillSpector安全扫描器",
+          "summary": "开源AI代理技能安全扫描工具，可检测漏洞和恶意模式。",
+          "importance": 6,
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-01.jpg"
+        },
+        {
+          "headline": "Karpathy的autoresearch：在单GPU上自动训练LLM",
+          "summary": "开源项目使AI代理能自动运行研究实验，训练微调nanochat模型。",
+          "importance": 6,
+          "primary_url": "https://github.com/karpathy/autoresearch",
+          "items": [
+            "2ddf032743e9b254"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-02.jpg"
+        },
+        {
+          "headline": "Anthropic发布官方Claude Agent Python SDK",
+          "summary": "Python SDK帮助开发者快速构建基于Claude的智能代理应用。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "items": [
+            "bd7d76b76b7e2c9d"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-03.jpg"
+        },
+        {
+          "headline": "Onyx开源AI平台支持多LLM与高级功能",
+          "summary": "Onyx是一个开源全栈AI平台，提供聊天、Agent、RAG等功能，兼容多种模型。",
+          "importance": 6,
+          "primary_url": "https://github.com/onyx-dot-app/onyx",
+          "items": [
+            "63dfec0ebc0a6235"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-04.jpg"
+        },
+        {
+          "headline": "LiteLLM：统一调用100+LLM的开源SDK与网关",
+          "summary": "提供Python SDK和代理服务器，以OpenAI格式调用上百种LLM，含成本追踪与负载均衡。",
+          "importance": 6,
+          "primary_url": "https://github.com/BerriAI/litellm",
+          "items": [
+            "a170c0f2fe363ada"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-05.jpg"
+        },
+        {
+          "headline": "MLflow：开源AI工程平台支持Agent与LLM",
+          "summary": "MLflow新增Agent、LLM支持，提供调试、评估、监控与成本控制。",
+          "importance": 6,
+          "primary_url": "https://github.com/mlflow/mlflow",
+          "items": [
+            "ccaf160cc6f06007"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-06.jpg"
+        },
+        {
+          "headline": "小米MiMo Code开源：5人2周5.1k星但bug不断",
+          "summary": "小米开源AI编程模型MiMo Code，但社区反馈bug多，开发团队积极修复。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V",
+          "items": [
+            "d36734861499b9d5"
+          ],
+          "cover_path": "out/media/2026-06-13/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-13"
+}
