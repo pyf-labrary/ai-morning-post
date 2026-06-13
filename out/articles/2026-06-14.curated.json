@@ -1,0 +1,362 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "美国政府强制下架 Claude Fable 5 和 Mythos 5",
+          "summary": "美国商务部以国家安全为由，要求 Anthropic 在全球范围内暂停 Claude Fable 5 和 Mythos 5 的访问，理由是该模型存在可被利用的越狱漏洞。Anthropic 表示不同意该决定但已服从。",
+          "importance": 10,
+          "primary_url": "https://www.anthropic.com/news/fable-mythos-access",
+          "items": [
+            "7ff9d896a7ee78bd",
+            "7bf2d663e013301c",
+            "6cbfc9aab17bd20d",
+            "43d76b572d9776c9",
+            "77e20498d5cef277",
+            "d88203b63e209573",
+            "fb75c21e87a4489f",
+            "7c989462436bdb8d",
+            "8aea37bc2c6ad335",
+            "df2922db2a63f475",
+            "cfbb7189f1598c87",
+            "5b7d2b1b0c0467c5"
+          ],
+          "cover_path": "out/media/2026-06-14/model_release-00.jpg"
+        },
+        {
+          "headline": "智谱 GLM-5.2 正式发布，下周开源",
+          "summary": "智谱宣布 GLM-5.2 面向 Coding Plan 全量用户开放，覆盖 Lite/Pro/Max/团队版，API 将于下周上线，模型遵循 MIT 协议开源。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/3851264775804160",
+          "items": [
+            "7d688751c08a5027",
+            "bc87bccf96d983af"
+          ],
+          "cover_path": "out/media/2026-06-14/model_release-01.jpg"
+        },
+        {
+          "headline": "科大讯飞发布星火多模态大模型 X2-VL",
+          "summary": "在无锡具身智能机器人产业链伙伴大会上，科大讯飞发布星火多模态大模型 X2-VL，为具身智能产业提供国产 AI 大脑。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3851320295166976",
+          "items": [
+            "af499f8ba362516e"
+          ],
+          "cover_path": "out/media/2026-06-14/model_release-02.jpg"
+        },
+        {
+          "headline": "Count Anything 模型发布：精准计数目标物体",
+          "summary": "新 AI 模型 Count Anything 能够准确统计图像中特定物体的数量，虽然听起来简单但技术挑战很大。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/",
+          "items": [
+            "b3f5147173f70dcf"
+          ],
+          "cover_path": "out/media/2026-06-14/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "SpaceX 上市首日飙升，马斯克成万亿富豪",
+          "summary": "SpaceX 在纳斯达克上市，首日股价大涨，公司市值超万亿，马斯克成为人类首位万亿美金富豪。星链业务贡献超六成营收。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+          "items": [
+            "d98b4dc9c9ee2b71",
+            "839cd71083b1057f",
+            "9257f5cd0f74bcca",
+            "534fbd7dff570d49",
+            "b7a05403c0d806f7"
+          ],
+          "cover_path": "out/media/2026-06-14/company-00.jpg"
+        },
+        {
+          "headline": "Meta AI 部门被曝‘灵魂折磨’，员工濒临反抗",
+          "summary": "据内部消息，Meta 成立数月的 AI 部门工作环境恶劣，员工士气低落，Meta AI 战略混乱，员工可能集体反抗。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+          "items": [
+            "11b48b3ad8a9db41",
+            "cc375a34b2e59ca6",
+            "9b3f20b3bc9dfbc4",
+            "8d33ebf259154d95"
+          ],
+          "cover_path": "out/media/2026-06-14/company-01.jpg"
+        },
+        {
+          "headline": "谷歌起诉中国网络犯罪组织利用 Gemini 自动化诈骗",
+          "summary": "谷歌起诉名为 'Outsider Enterprise' 的中国组织，指控其利用 Gemini 模型发送数百万欺诈短信和虚假网站，影响数十万人。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+          "items": [
+            "b9c7283ed7a01a64",
+            "c4984bdeb77db36d"
+          ],
+          "cover_path": "out/media/2026-06-14/company-02.jpg"
+        },
+        {
+          "headline": "Mistral 传闻以 200 亿欧元估值融资 30 亿欧元",
+          "summary": "法国 AI 公司 Mistral AI 被传正在进行新一轮融资，估值达 200 亿欧元，几乎是上一轮的两倍。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "items": [
+            "6aa2cd56a732463a"
+          ],
+          "cover_path": "out/media/2026-06-14/company-03.jpg"
+        },
+        {
+          "headline": "OpenAI 遭多州检察长联合调查",
+          "summary": "美国多州检察长联合调查 OpenAI，涉及广告政策、健康数据处理等多个方面，具体调查范围未完全公开。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+          "items": [
+            "47eb6918e48942fa"
+          ],
+          "cover_path": "out/media/2026-06-14/company-04.jpg"
+        },
+        {
+          "headline": "Jeff Bezos 新创企 Prometheus 曝光：聚焦物理 AI",
+          "summary": "Jeff Bezos 创办的物理 AI 初创公司 Prometheus 细节披露，该领域已有多家资金雄厚的竞争者。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+          "items": [
+            "2e839aaa6a9b2ec5"
+          ],
+          "cover_path": "out/media/2026-06-14/company-05.jpg"
+        },
+        {
+          "headline": "乌克兰首次测试全自主无人机杀伤俄军",
+          "summary": "乌克兰在一场战斗中使用了完全自主的 AI 无人机攻击俄罗斯士兵，这被视为全自主武器系统的罕见实战测试。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+          "items": [
+            "ee773f88c6b50446"
+          ],
+          "cover_path": "out/media/2026-06-14/company-06.jpg"
+        },
+        {
+          "headline": "今年全球数据中心抗议已阻 1300 亿美元项目",
+          "summary": "由于社区抗议和政治阻力，2026 年以来价值 1300 亿美元的数据中心项目被搁置或取消，民众反 AI 数据中心运动高涨。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+          "items": [
+            "11d873d09669e046",
+            "eca1de3b1f8716e9",
+            "c9cb44289bb039fc"
+          ],
+          "cover_path": "out/media/2026-06-14/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "NVIDIA Blackwell 在首个 Agentic AI 基准测试中领跑",
+          "summary": "Artificial Analysis 发布 AgentPerf 基准，NVIDIA Blackwell 在首批结果中表现最佳，为开发者提供代理 AI 系统对比标准。",
+          "importance": 5,
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+          "items": [
+            "02fe6cf3715d82fc"
+          ],
+          "cover_path": "out/media/2026-06-14/research-00.jpg"
+        },
+        {
+          "headline": "谷歌 Gemini-SQL2 登顶 BIRD 单模型排行榜",
+          "summary": "Google Research 基于 Gemini 3.1 Pro 开发的 Gemini-SQL2 在 BIRD Text-to-SQL 基准上达到 80.04% 执行准确率，大幅领先。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
+          "items": [
+            "32b67fa4f90068ea",
+            "a98d0c9e383e6b04"
+          ],
+          "cover_path": "out/media/2026-06-14/research-01.jpg"
+        },
+        {
+          "headline": "微软 SkillOpt：用训练过的 Markdown 文件提升 GPT-5.5",
+          "summary": "微软发布 SkillOpt 技术，通过训练一个小型 Markdown 文件来优化 GPT-5.5 的推理能力，无需额外模型权重。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
+          "items": [
+            "fd31e277eb3d7ca1"
+          ],
+          "cover_path": "out/media/2026-06-14/research-02.jpg"
+        },
+        {
+          "headline": "HuggingFace 发布 Olmo-Eval：模型开发评估工作台",
+          "summary": "Allen AI 与 HuggingFace 合作发布 Olmo-Eval，为模型开发循环提供全面的评估工作台。",
+          "importance": 3,
+          "primary_url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "items": [
+            "d262f31dc2d3844e"
+          ],
+          "cover_path": "out/media/2026-06-14/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "OpenAI 开启 AI 价格战：Codex 推出灵活速率限制重置",
+          "summary": "OpenAI 为代码代理 Codex 推出灵活的速率限制重置功能，旨在降低开发者使用成本，引发价格竞争。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/",
+          "items": [
+            "e563f13a83069b24"
+          ],
+          "cover_path": "out/media/2026-06-14/product-00.jpg"
+        },
+        {
+          "headline": "Firecrawl 发布 Prometheus：前向部署 Web 数据 Agent",
+          "summary": "Firecrawl 推出 Prometheus，一款用于 Web 数据提取的前向部署代理工具。",
+          "importance": 4,
+          "primary_url": "https://www.producthunt.com/products/extract-by-firecrawl",
+          "items": [
+            "00da0999e5b5ebc7"
+          ]
+        },
+        {
+          "headline": "首尔禁止中小学生戴 AI 眼镜参加期末考试",
+          "summary": "首尔教育厅将 AI 智能眼镜列入考场违禁品，防止学生利用 AI 作弊。",
+          "importance": 4,
+          "primary_url": "https://36kr.com/newsflashes/3851265277220103",
+          "items": [
+            "87d715c1e455d9e0"
+          ],
+          "cover_path": "out/media/2026-06-14/product-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "法院裁定谷歌对 AI Overviews 虚假陈述承担法律责任",
+          "summary": "澳大利亚法院判决谷歌对其 AI Overviews 生成的不实信息负责，为 AI 平台责任划定重要先例。",
+          "importance": 7,
+          "primary_url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+          "items": [
+            "64c4a484f58dcff3"
+          ],
+          "cover_path": "out/media/2026-06-14/opinion-00.jpg"
+        },
+        {
+          "headline": "调查显示过半美国人害怕 AI 夺走工作和独立思考",
+          "summary": "Anthropic 赞助的民调显示，超 50% 的美国人担心 AI 会导致失业和丧失独立思维能力。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/",
+          "items": [
+            "5ee9e837a0d6e84c"
+          ],
+          "cover_path": "out/media/2026-06-14/opinion-01.jpg"
+        },
+        {
+          "headline": "纳德拉坦承沉迷 token 消耗：‘会上瘾’",
+          "summary": "微软 CEO Satya Nadella 在访谈中承认自己也是 token 消耗最大化者，认为这种用 AI 越多越好的心态具有成瘾性。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
+          "items": [
+            "4e1e845762e26ae7"
+          ],
+          "cover_path": "out/media/2026-06-14/opinion-02.jpg"
+        },
+        {
+          "headline": "Andrew Yang：下一个创业风口是降低生活成本",
+          "summary": "Andrew Yang 列出美国人过度支出的领域（住房、食品、无线等），认为 AI 创业机会在于帮助人们省钱。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+          "items": [
+            "b5108fe29da1b324"
+          ],
+          "cover_path": "out/media/2026-06-14/opinion-03.jpg"
+        },
+        {
+          "headline": "KPMG 因幻觉撤回了 AI 使用报告",
+          "summary": "KPMG 发布的一份关于 AI 使用情况的报告被发现存在明显幻觉，不得不撤回。此事再次凸显 AI 内容可靠性问题。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+          "items": [
+            "534df9a695542734"
+          ],
+          "cover_path": "out/media/2026-06-14/opinion-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Moonshot 开源 Kimi K2.7-Code，性能提升 21.8%",
+          "summary": "Moonshot AI 开源 Kimi K2.7-Code 编程模型，基于 K2.6，推理 token 减少 30%，在 Kimi Code Bench v2 上提升 21.8%，价格仅为 GPT-5.5 的 1/12。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/",
+          "items": [
+            "aad39d56de4f1414",
+            "8bcedab30e63051b",
+            "a71702e9a3ffa227"
+          ],
+          "cover_path": "out/media/2026-06-14/opensource-00.jpg"
+        },
+        {
+          "headline": "Agent Skills 框架兴起，Anthropic 与社区推动标准化",
+          "summary": "Anthropic 发布 skills 仓库，多个开源项目如 superpowers、agent-skills、PM Skills 等涌现，推动 AI 编码代理的技能标准化。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d",
+            "93908f3f02cc79af",
+            "0520df06928ed362",
+            "cab848e75dc50ad6"
+          ],
+          "cover_path": "out/media/2026-06-14/opensource-01.jpg"
+        },
+        {
+          "headline": "小米 MiMo Code 开源引争议：5k 星但 bug 频出",
+          "summary": "小米开源 AI 编程模型 MiMo Code，5 人 2 周开发获 5k+ 星，但开发者反馈代码质量差、bug 多，引发社区争议。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V",
+          "items": [
+            "d36734861499b9d5"
+          ],
+          "cover_path": "out/media/2026-06-14/opensource-02.jpg"
+        },
+        {
+          "headline": "NVIDIA 发布 SkillSpector：AI Agent 技能安全扫描器",
+          "summary": "NVIDIA 开源 SkillSpector，用于检测 AI Agent 技能中的漏洞、恶意模式和安全隐患。",
+          "importance": 4,
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "cover_path": "out/media/2026-06-14/opensource-03.jpg"
+        },
+        {
+          "headline": "LMCache：用最快 KV 缓存层加速 LLM 推理",
+          "summary": "LMCache 开源项目宣称能大幅提升 LLM 推理效率，通过高效 KV 缓存层实现。",
+          "importance": 4,
+          "primary_url": "https://github.com/LMCache/LMCache",
+          "items": [
+            "394edaf01c9d9aa1"
+          ],
+          "cover_path": "out/media/2026-06-14/opensource-04.jpg"
+        },
+        {
+          "headline": "Apple 开源 container：在 Mac 上运行 Linux 容器",
+          "summary": "Apple 开源 container 工具，使用轻量级虚拟机在 Mac 上创建和运行 Linux 容器，专为 Apple Silicon 优化。",
+          "importance": 3,
+          "primary_url": "https://github.com/apple/container",
+          "items": [
+            "a1ebe0b990576a6e"
+          ],
+          "cover_path": "out/media/2026-06-14/opensource-05.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-14"
+}
