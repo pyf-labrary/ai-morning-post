@@ -1,0 +1,437 @@
+{
+  "date": "2026-06-15",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-5.5和Codex上线Bedrock，AWS用户可用",
+          "summary": "OpenAI的GPT-5.5和Codex模型现已通过Amazon Bedrock提供服务，企业用户可直接调用。",
+          "primary_url": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c",
+          "importance": 8,
+          "items": [
+            "0f7317c6505bee72"
+          ],
+          "cover_path": "out/media/2026-06-15/model_release-00.jpg"
+        },
+        {
+          "headline": "GLM 5.2 模型发布，性能大幅提升",
+          "summary": "智谱AI发布GLM-5.2，在多项基准上表现强劲，Hacker News热度超过700。",
+          "primary_url": "https://twitter.com/jietang/status/2065784751345287314",
+          "importance": 7,
+          "items": [
+            "bc87bccf96d983af"
+          ],
+          "cover_path": "out/media/2026-06-15/model_release-01.jpg"
+        },
+        {
+          "headline": "新模型Count Anything专精物体计数",
+          "summary": "微软研究院等推出专用于计数的AI模型，可对图像中任意物体进行精确计数。",
+          "primary_url": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/",
+          "importance": 6,
+          "items": [
+            "b3f5147173f70dcf"
+          ],
+          "cover_path": "out/media/2026-06-15/model_release-02.jpg"
+        },
+        {
+          "headline": "Google Gemini-SQL2刷新text-to-SQL纪录",
+          "summary": "Google Research的新模型Gemini-SQL2在多个text-to-SQL基准上大幅领先，促进自然语言数据库查询。",
+          "primary_url": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
+          "importance": 6,
+          "items": [
+            "32b67fa4f90068ea"
+          ],
+          "cover_path": "out/media/2026-06-15/model_release-03.jpg"
+        },
+        {
+          "headline": "里约城市AI模型被质疑是“套壳”合并",
+          "summary": "巴西里约热内卢市政府推出的Rio3.5模型被开发者发现可能是多个已有模型的融合，引发争议；该模型在部分基准上超Qwen3.7。",
+          "primary_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "importance": 6,
+          "items": [
+            "d4ab0cc6c9c89ba1",
+            "7d16a7a62d196774"
+          ],
+          "cover_path": "out/media/2026-06-15/model_release-04.jpg"
+        },
+        {
+          "headline": "低成本高效模型HRM，1500美元训出1B参数",
+          "summary": "一篇关于使用1500美元预算训练出1B参数模型（HRM）的文章走红，获得HuggingFace CEO点赞。",
+          "primary_url": "https://www.qbitai.com/2026/06/435483.html",
+          "importance": 5,
+          "items": [
+            "59740eb110fe9c1e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "亚马逊等投诉致Anthropic Fable模型被政府叫停",
+          "summary": "亚马逊CEO Andy Jassy等高管向美国政府表达安全担忧，导致Anthropic暂停Fable模型全球访问，引发AI安全与地缘政治讨论。",
+          "primary_url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+          "importance": 9,
+          "items": [
+            "da213d81fd80070b",
+            "7c989462436bdb8d",
+            "8aea37bc2c6ad335",
+            "02a4f256b9ad5d03"
+          ]
+        },
+        {
+          "headline": "OpenAI多线承压：政府调查与自杀诉讼",
+          "summary": "美国多个州对OpenAI展开调查，涉及广告、健康数据处理等；同时一位加拿大母亲起诉OpenAI，指控ChatGPT诱导其女儿自杀。",
+          "primary_url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+          "importance": 8,
+          "items": [
+            "47eb6918e48942fa",
+            "8f2eb3df30dcdf59"
+          ],
+          "cover_path": "out/media/2026-06-15/company-01.jpg"
+        },
+        {
+          "headline": "北京要求逆转交易，Meta放弃2亿美元收购Manus",
+          "summary": "据TechCrunch报道，在中国政府要求下，Meta正在拆除此前达成的2亿美元收购AI初创Manus的交易。",
+          "primary_url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+          "importance": 8,
+          "items": [
+            "cbe8ba5777a91b04"
+          ],
+          "cover_path": "out/media/2026-06-15/company-02.jpg"
+        },
+        {
+          "headline": "AI公司争相IPO，各方势力蠢蠢欲动",
+          "summary": "随着AI公司纷纷寻求上市，分析文章探讨哪些初创公司能搭乘SpaceX IPO的“顺风车”。",
+          "primary_url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+          "importance": 5,
+          "items": [
+            "4e3c3c4064cc991e"
+          ],
+          "cover_path": "out/media/2026-06-15/company-03.jpg"
+        },
+        {
+          "headline": "AI开源工具tensorzero融资730万美元后意外归档",
+          "summary": "曾获730万美元种子轮的AI开源工具tensorzero的GitHub仓库一夜之间被归档，引发社区困惑。",
+          "primary_url": "https://github.com/tensorzero/tensorzero",
+          "importance": 4,
+          "items": [
+            "f446f7956a0ddd0e"
+          ],
+          "cover_path": "out/media/2026-06-15/company-04.jpg"
+        },
+        {
+          "headline": "阿里官方否认周靖人离职传闻",
+          "summary": "针对近日网络传播的阿里云智能CTO周靖人辞职消息，阿里巴巴集团明确回应称纯属谣言。",
+          "primary_url": "https://36kr.com/newsflashes/3852613747463425",
+          "importance": 4,
+          "items": [
+            "97baad07e7e6a651"
+          ],
+          "cover_path": "out/media/2026-06-15/company-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "微软Mirage为视频生成提供持久空间记忆",
+          "summary": "微软研究院发布Mirage，一种具备持续空间记忆能力的视频生成模型，能感知场景中物体位置变化。",
+          "primary_url": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+          "importance": 6,
+          "items": [
+            "76380254638dc76a"
+          ],
+          "cover_path": "out/media/2026-06-15/research-00.jpg"
+        },
+        {
+          "headline": "研究：AI编码助手定位文件精准但细节不足",
+          "summary": "一项研究发现，当前AI编码Agent能准确定位文件，但在识别需要修改的具体代码行时表现欠佳。",
+          "primary_url": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
+          "importance": 5,
+          "items": [
+            "9b545ac503d8a434"
+          ],
+          "cover_path": "out/media/2026-06-15/research-01.jpg"
+        },
+        {
+          "headline": "微软SkillOpt仅凭训练过的Markdown文件提升GPT-5.5",
+          "summary": "微软提出SkillOpt方法，通过一个经过训练的Markdown文件即可增强GPT-5.5的性能，无需额外微调。",
+          "primary_url": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
+          "importance": 5,
+          "items": [
+            "fd31e277eb3d7ca1"
+          ],
+          "cover_path": "out/media/2026-06-15/research-02.jpg"
+        },
+        {
+          "headline": "Anthropic研究：将Claude打造成“化学家”",
+          "summary": "Anthropic发布研究成果，通过特定训练使Claude具备化学推理和实验设计能力。",
+          "primary_url": "https://www.anthropic.com/research/making-claude-a-chemist",
+          "importance": 5,
+          "items": [
+            "ada1ab4b0638545b"
+          ],
+          "cover_path": "out/media/2026-06-15/research-03.jpg"
+        },
+        {
+          "headline": "论文揭示LLM“深度诅咒”——更深不一定更强",
+          "summary": "一篇arXiv论文指出，过度增加LLM深度可能带来负面效果，引发对模型架构的重新思考。",
+          "primary_url": "https://arxiv.org/pdf/2502.05795",
+          "importance": 4,
+          "items": [
+            "d8a7ea77e2ac7df9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "外媒曝蚂蚁集团测试AI版支付宝",
+          "summary": "蚂蚁集团正在内测一款完全重塑用户交互的AI版支付宝，可实现智能服务与资金管理。",
+          "primary_url": "https://36kr.com/newsflashes/3852835263878148",
+          "importance": 7,
+          "items": [
+            "23e04e39e939b1ae"
+          ],
+          "cover_path": "out/media/2026-06-15/product-00.jpg"
+        },
+        {
+          "headline": "Google Cloud推Open Knowledge Format让文档变成Markdown供AI使用",
+          "summary": "Google Cloud发布Open Knowledge Format（OKF），能将散乱文档自动转换为结构化Markdown，便于AI Agent读取。",
+          "primary_url": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+          "importance": 7,
+          "items": [
+            "20ca2b99ca15232c"
+          ],
+          "cover_path": "out/media/2026-06-15/product-01.jpg"
+        },
+        {
+          "headline": "扣子3.0推出专业自媒体Skill",
+          "summary": "字节跳动旗下扣子3.0发布自媒体专业Skill，覆盖选题、创作、发布、复盘全流程，支持多端协同。",
+          "primary_url": "https://36kr.com/newsflashes/3852643102741511",
+          "importance": 5,
+          "items": [
+            "0f8cc0c8c23bfd6b"
+          ],
+          "cover_path": "out/media/2026-06-15/product-02.jpg"
+        },
+        {
+          "headline": "本地AI索引669GB GoPro视频，M1 Mac表现亮眼",
+          "summary": "一位开发者利用M1 Max和开源ML模型，为2207个GoPro视频建立本地可搜索索引，实现精彩片段提取。",
+          "primary_url": "https://news.ycombinator.com/item?id=48528029",
+          "importance": 4,
+          "items": [
+            "a0576ff228035e06"
+          ]
+        },
+        {
+          "headline": "Slashy发布，AI代你处理邮件",
+          "summary": "Slashy是一款AI助手，能自动撰写、回复和管理电子邮件，提升效率。",
+          "primary_url": "https://www.producthunt.com/products/slashy-3",
+          "importance": 3,
+          "items": [
+            "de20c93e2837553b"
+          ]
+        },
+        {
+          "headline": "Taste Lab帮你一键提取网站设计风格",
+          "summary": "一个名为Taste Lab的工具能分析网站页面，提取其设计DNA（颜色、字体、布局等）。",
+          "primary_url": "https://www.producthunt.com/products/taste-lab",
+          "importance": 3,
+          "items": [
+            "4541ff94f7b7b2e2"
+          ]
+        },
+        {
+          "headline": "Memoriq为ChatGPT、Claude等提供统一私人记忆",
+          "summary": "Memoriq让你的对话历史、偏好等跨越多个AI模型同步，保持个性化体验。",
+          "primary_url": "https://www.producthunt.com/products/memoriq",
+          "importance": 3,
+          "items": [
+            "a01b2cdb226c11f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "KPMG报告虚构AI案例，用AI“编造”客户故事",
+          "summary": "四大会计师事务所KPMG发布的一份AI采用报告中被发现包含虚构的客户案例，疑似AI编造，报告已被撤回。",
+          "primary_url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+          "importance": 8,
+          "items": [
+            "4345dae1abd5ce7d",
+            "534df9a695542734"
+          ],
+          "cover_path": "out/media/2026-06-15/opinion-00.jpg"
+        },
+        {
+          "headline": "英国警察被调查：涉嫌用AI制造证据",
+          "summary": "德比郡一名警察因在多个案件中使用AI生成虚假证据而被调查，引发对AI司法滥用的担忧。",
+          "primary_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+          "importance": 6,
+          "items": [
+            "e3d7ee56e3d6c7e4"
+          ]
+        },
+        {
+          "headline": "观点：并非所有人都用AI做所有事",
+          "summary": "一篇博文指出，尽管AI火热，但普通消费者对AI的使用仍集中在特定场景，而非全面替代。",
+          "primary_url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+          "importance": 6,
+          "items": [
+            "f01ad4353b8a48c6"
+          ],
+          "cover_path": "out/media/2026-06-15/opinion-02.jpg"
+        },
+        {
+          "headline": "德国数字化部长被疑用AI代写公文",
+          "summary": "分析显示，德国数字化部长多篇署名文章和议会演讲高度疑似AI生成，引发舆论哗然。",
+          "primary_url": "https://36kr.com/newsflashes/3852553873462533",
+          "importance": 5,
+          "items": [
+            "ee3211833bb4cc7f"
+          ],
+          "cover_path": "out/media/2026-06-15/opinion-03.jpg"
+        },
+        {
+          "headline": "纳德拉承认自己也沉迷“刷token”",
+          "summary": "微软CEO Satya Nadella在访谈中坦言自己也是“token消费爱好者”，称其具有成瘾性。",
+          "primary_url": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
+          "importance": 5,
+          "items": [
+            "4e1e845762e26ae7"
+          ],
+          "cover_path": "out/media/2026-06-15/opinion-04.jpg"
+        },
+        {
+          "headline": "经验谈：如何低成本在家部署AI编程",
+          "summary": "一篇教程介绍利用开源模型和个人硬件，在不烧钱的情况下实现本地AI辅助编程。",
+          "primary_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+          "importance": 5,
+          "items": [
+            "f5cd1281db435d19"
+          ]
+        },
+        {
+          "headline": "蚂蚁数科揭秘企业级AGI研发体系重构",
+          "summary": "在AICon上海大会上，蚂蚁数科分享从传统AI到AGI研发体系的转型实践。",
+          "primary_url": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH",
+          "importance": 4,
+          "items": [
+            "e7c32c75723d6d2c"
+          ],
+          "cover_path": "out/media/2026-06-15/opinion-06.jpg"
+        },
+        {
+          "headline": "密码学专家谈Siri：私人推理不等于隐私",
+          "summary": "一篇博客深入探讨Apple Siri的隐私设计缺陷，指出私人推理技术在实际部署中仍存在隐私泄漏风险。",
+          "primary_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+          "importance": 4,
+          "items": [
+            "4baf42a5bc80aab1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic官方发布Agent Skills仓库",
+          "summary": "Anthropic发布官方Agent Skills实现，为Claude提供可扩展的技能标准，社区可直接贡献和使用。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "importance": 8,
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-00.jpg"
+        },
+        {
+          "headline": "addyosami开源生产级AI Agent编码技能",
+          "summary": "知名开发者addyosami整理了一套面向AI编码Agent的生产级工程技能集，提升Agent代码质量。",
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "importance": 7,
+          "items": [
+            "0520df06928ed362"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-01.jpg"
+        },
+        {
+          "headline": "Superpowers开源：一套完整的Agent开发方法论",
+          "summary": "Superpowers提供可组合的技能和软件开发方法论，辅助AI Agent高效编码。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 7,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-02.jpg"
+        },
+        {
+          "headline": "NVIDIA开源SkillSpector，扫描Agent技能安全漏洞",
+          "summary": "NVIDIA推出SkillSpector，专为AI Agent技能提供安全扫描，检测恶意模式与漏洞。",
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "importance": 6,
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-03.jpg"
+        },
+        {
+          "headline": "browser-use开源，让AI Agent轻松操控浏览器",
+          "summary": "browser-use工具使AI Agent能像人类一样操作网站，自动化在线任务。",
+          "primary_url": "https://github.com/browser-use/browser-use",
+          "importance": 6,
+          "items": [
+            "1b27100c242fa722"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-04.jpg"
+        },
+        {
+          "headline": "Andrew Ng开源aisuite，统一管理多家AI提供商",
+          "summary": "aisuite提供简单、统一的接口调用多个生成式AI服务，简化开发流程。",
+          "primary_url": "https://github.com/andrewyng/aisuite",
+          "importance": 6,
+          "items": [
+            "2a1ff9500e35a878"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-05.jpg"
+        },
+        {
+          "headline": "LMCache开源，号称最快KV缓存层",
+          "summary": "LMCache专注于LLM推理的KV缓存优化，显著降低延迟，提升吞吐量。",
+          "primary_url": "https://github.com/LMCache/LMCache",
+          "importance": 5,
+          "items": [
+            "394edaf01c9d9aa1"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-06.jpg"
+        },
+        {
+          "headline": "agentsview开源：本地化AI Agent会话智能",
+          "summary": "agentsview支持Claude Code等多种Agent的会话浏览、搜索和成本追踪，替代ccusage并快100倍。",
+          "primary_url": "https://github.com/kenn-io/agentsview",
+          "importance": 5,
+          "items": [
+            "716f61f9a2cfdb1e"
+          ],
+          "cover_path": "out/media/2026-06-15/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
