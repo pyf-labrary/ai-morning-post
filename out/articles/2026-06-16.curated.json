@@ -1,0 +1,401 @@
+{
+  "date": "2026-06-16",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "智谱GLM-5.2发布，支持百万Token上下文",
+          "summary": "智谱AI发布GLM-5.2模型，提供可用1M token上下文窗口和两种思考模式，兼容Claude Code等工具。",
+          "primary_url": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
+          "items": [
+            "b682e04c4720037c",
+            "fdb4a8185b9a80ab"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-16/model_release-00.jpg"
+        },
+        {
+          "headline": "微软研究院发布Mirage，视频生成拥有持久空间记忆",
+          "summary": "Microsoft Research推出Mirage视频生成模型，能够记住场景中物体在拐角后的位置，实现连贯视频生成。",
+          "primary_url": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+          "items": [
+            "76380254638dc76a"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/model_release-01.jpg"
+        },
+        {
+          "headline": "百度PP-OCRv6发布，97毫秒极速OCR",
+          "summary": "百度文心发布PP-OCRv6系列模型，最小模型仅1.5MB，单图推理最快97毫秒，支持50余种语言。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/ZgPImCFdSTkpxCSn.html",
+          "items": [
+            "fce07c090fc685a7"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "Noiz AI联合港科大清华开源音频生成大模型",
+          "summary": "开源音频模型支持4步出声，单卡0.24秒生成，可理解时间戳指令，降低生成门槛。",
+          "primary_url": "https://www.qbitai.com/2026/06/435802.html",
+          "items": [
+            "f3421bc2b1a3c314"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-16/model_release-03.jpg"
+        },
+        {
+          "headline": "天工AI世界模型Matrix-Game 3.5公布技术突破",
+          "summary": "昆仑万维在智源大会上发布天工AI世界模型最新进展，重新定义世界模型能力。",
+          "primary_url": "https://www.qbitai.com/2026/06/435520.html",
+          "items": [
+            "3ebe1d1aa56f8b44"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-16/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic模型遭美国政府禁令，安全与主权争议升级",
+          "summary": "美国出口管制部门要求Anthropic禁止外籍人员使用Fable 5和Mythos 5，Anthropic被迫下线模型，引发欧洲主权辩论和网络安全专家抗议。",
+          "primary_url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "items": [
+            "9cd1fc6a7b19267e",
+            "3c7ae1c276c8d8dc",
+            "3309d13098f4a441",
+            "e460a3b3f67af242",
+            "afba79195c6d59fa",
+            "60ab66a38571987c",
+            "c5be2e2ce1eac588",
+            "fdb4a8185b9a80ab"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-06-16/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI推出合作伙伴网络，投资1.5亿美元",
+          "summary": "OpenAI宣布Partner Network计划，投入1.5亿美元支持全球合作伙伴加速企业AI部署与转型。",
+          "primary_url": "https://openai.com/index/introducing-openai-partner-network",
+          "items": [
+            "c52ebeb63ee36a22"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "英伟达计划发行至少200亿美元债券",
+          "summary": "英伟达加入AI债务潮，通过发行高等级债券融资至少200亿美元，测试投资者对AI行业的风险偏好。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+          "items": [
+            "a03b43b83f3e50e5",
+            "88cf9a8db198c91c",
+            "8325f00fcaac0613"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-16/company-02.jpg"
+        },
+        {
+          "headline": "Salesforce以36亿美元收购客户代理公司Fin",
+          "summary": "Salesforce签署最终协议，以约36亿美元收购AI客服平台Fin，将整合至Agentforce产品线。",
+          "primary_url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/",
+          "items": [
+            "e9098266110369a5",
+            "53ae18e529101aad",
+            "a4c749755d10fab6"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-16/company-03.jpg"
+        },
+        {
+          "headline": "印度Sarvam获2.34亿美元融资，成AI新独角兽",
+          "summary": "印度AI初创Sarvam获HCLTech领投2.34亿美元，成为印度最新AI独角兽，估值跃升。",
+          "primary_url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+          "items": [
+            "b4e91007e546fe38"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/company-04.jpg"
+        },
+        {
+          "headline": "世航智能完成超10亿元A轮融资，创海洋机器人纪录",
+          "summary": "海洋具身智能公司世航智能完成超10亿元A轮融资，投资方包括淡马锡旗下基金等，上半年订单超10亿。",
+          "primary_url": "https://www.leiphone.com/category/robot/FufjKCluRRyP0ye4.html",
+          "items": [
+            "126455f96ee107dd",
+            "888bf1e4ed1f8c38"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "SpaceX IPO后市值飙升，总市值超2.5万亿美元",
+          "summary": "SpaceX上市后股价大涨，承销商行使超额配售权，IPO总规模达857亿美元，市值跃居美股前列。",
+          "primary_url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+          "items": [
+            "281586a5e136b2ae",
+            "20dd878192ee6b62",
+            "aabe4416e4b4bf95",
+            "aab7fad379fb620c",
+            "4e3c3c4064cc991e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/company-06.jpg"
+        },
+        {
+          "headline": "巴西里约官方模型被指套壳阿里千问，致歉撤回",
+          "summary": "里约市政府推出的开源模型Rio-3.5-Open-397B被社区揭露为Qwen 3.5等模型权重合并，官方道歉称操作失误。",
+          "primary_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "items": [
+            "1afb832f631fd597",
+            "d4ab0cc6c9c89ba1",
+            "7d16a7a62d196774"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Flash-KMeans：IO感知的K均值算法，GPU加速200倍",
+          "summary": "开源实现Flash-KMeans，利用Triton内核优化IO，比FAISS快200倍以上，不改变数学精度。",
+          "primary_url": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/",
+          "items": [
+            "d43a901e86bd8a9d"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/research-00.jpg"
+        },
+        {
+          "headline": "从最优传输训练奖励模型，让RLHF忽略错误偏好",
+          "summary": "ICML 2026论文提出基于最优传输的奖励模型训练方法，有效缓解RLHF中偏好噪声问题。",
+          "primary_url": "https://www.leiphone.com/category/robot/wRfEczgo0HmrXNVa.html",
+          "items": [
+            "e7e88882286d7ffa"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Meta推出Facebook AI模式，聚合平台公开信息",
+          "summary": "Meta在Facebook上线AI模式，利用跨平台公开信息提供智能交互，加速AI功能落地。",
+          "primary_url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+          "items": [
+            "dd37296bfdca07aa"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-16/product-00.jpg"
+        },
+        {
+          "headline": "OpenRouter推出Fusion API，聚合多模型推理",
+          "summary": "OpenRouter Fusion API提供统一接口，可混合调用多种模型，获得更优结果。",
+          "primary_url": "https://openrouter.ai/openrouter/fusion",
+          "items": [
+            "e545f269d17ef891"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/product-01.jpg"
+        },
+        {
+          "headline": "Sakana AI发布Marlin企业Agent，自动生成百页报告",
+          "summary": "Sakana AI首款商业产品Marlin可自主运行8小时，生成多页研究报告和幻灯片。",
+          "primary_url": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
+          "items": [
+            "4175688952347084"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-16/product-02.jpg"
+        },
+        {
+          "headline": "蚂蚁阿福上线“医生把关”，AI+医生协作新模式",
+          "summary": "健康AI应用阿福升级皮肤识别功能，并上线三甲医生复核AI结果的服务，开创国内AI+医生协作先河。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/d1EqrpsXBW4c1JjR.html",
+          "items": [
+            "f647a2aba68ae179"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "魔法原子发布VLA K02大模型，具身智能能力跃迁",
+          "summary": "魔法原子在上交会首秀自研VLA大模型，实现从执行到理解的具身智能能力提升。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/id1HKgC0ahWZduWb.html",
+          "items": [
+            "3afd2b09c83d1dac"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "卫星首次自主发现目标：AI在轨推理能力突破",
+          "summary": "地球观测卫星在轨自主识别并找到目标，标志着空间AI的重大进步。",
+          "primary_url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+          "items": [
+            "f07d371501620e2b"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/product-05.jpg"
+        },
+        {
+          "headline": "腾讯AI加速场景落地，智能体全面铺开",
+          "summary": "腾讯从元宝到WorkBuddy，AI产品在多个场景快速落地，展现从慢热到激进的转变。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/Zlsk48Iv88fVZ3N9.html",
+          "items": [
+            "579939e0c55c9340"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "纳德拉警告：少数AI系统将攫取全部经济回报",
+          "summary": "微软CEO Satya Nadella表示AI经济回报可能被极少数系统独占，呼吁行业平衡发展。",
+          "primary_url": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/",
+          "items": [
+            "50ec685307400abf"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-16/opinion-00.jpg"
+        },
+        {
+          "headline": "并非所有人都用AI做所有事",
+          "summary": "Gabriel Weinberg撰文指出，人们消费AI的方式并非包揽一切，存在天然使用边界。",
+          "primary_url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+          "items": [
+            "f01ad4353b8a48c6"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-16/opinion-01.jpg"
+        },
+        {
+          "headline": "KPMG因幻觉撤回AI使用报告",
+          "summary": "KPMG一份关于AI使用的报告被发现包含明显幻觉，被迫撤回，引发对专业机构AI应用的质疑。",
+          "primary_url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+          "items": [
+            "534df9a695542734"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-16/opinion-02.jpg"
+        },
+        {
+          "headline": "Stratechery：Anthropic的安全是其超级力量",
+          "summary": "分析文章称Anthropic对安全的坚定信念使其有底气挑战美国政府，安全成为商业护城河。",
+          "primary_url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+          "items": [
+            "066a34fbcc207680"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-16/opinion-03.jpg"
+        },
+        {
+          "headline": "AI尚未取代程序员，未来也不会",
+          "summary": "Arvind Narayanan和Sayash Kapoor撰文分析AI对编程工作的影响，认为替代不是简单替换。",
+          "primary_url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+          "items": [
+            "b87ffd62e63036d2"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "AI本质是代码，不能被提示词变聪明",
+          "summary": "The Register评论文章指出AI底层是确定性代码，仅靠提示词无法突破能力上限。",
+          "primary_url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/",
+          "items": [
+            "173adb7f148d03c7"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "为何Claude越来越像混蛋？",
+          "summary": "用户观察Claude行为变化，探讨模型对齐过程中可能出现的负面人格倾向。",
+          "primary_url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+          "items": [
+            "da63a1eaf7ad8fee"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-16/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "NVIDIA开源SkillSpector，扫描AI Agent安全漏洞",
+          "summary": "NVIDIA发布SkillSpector工具，可检测AI agent技能中的恶意模式和安全风险。",
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/opensource-00.jpg"
+        },
+        {
+          "headline": "Andrew Ng开源aisuite，统一多AI提供商接口",
+          "summary": "aisuite提供简洁的统一接口，支持多个生成式AI提供商，简化开发切换。",
+          "primary_url": "https://github.com/andrewyng/aisuite",
+          "items": [
+            "2a1ff9500e35a878"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-16/opensource-01.jpg"
+        },
+        {
+          "headline": "LMCache开源：加速大模型推理的KV缓存层",
+          "summary": "LMCache通过高效KV缓存管理，显著提升大模型推理速度，支持多种框架。",
+          "primary_url": "https://github.com/LMCache/LMCache",
+          "items": [
+            "394edaf01c9d9aa1"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-16/opensource-02.jpg"
+        },
+        {
+          "headline": "Open Interpreter轻量版：面向开源模型",
+          "summary": "针对Deepseek、Kimi等开源模型的轻量级coding agent，降低使用门槛。",
+          "primary_url": "https://github.com/openinterpreter/openinterpreter",
+          "items": [
+            "5e49acb29aac1411"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-16/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenHands：AI驱动的开发平台开源",
+          "summary": "OpenHands提供AI辅助开发环境，支持自动编程、调试等任务。",
+          "primary_url": "https://github.com/OpenHands/OpenHands",
+          "items": [
+            "61a8c2a7044629cc"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-16/opensource-04.jpg"
+        },
+        {
+          "headline": "Ponytail：让AI Agent像懒人高级程序员一样思考",
+          "summary": "开源工具通过提示技巧让agent减少冗余操作，提升效率。",
+          "primary_url": "https://github.com/DietrichGebert/ponytail",
+          "items": [
+            "8a0b5f7d69bf0f8f"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-16/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
