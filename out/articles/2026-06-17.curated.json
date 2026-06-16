@@ -1,0 +1,501 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "阿里发布首个具身大模型 Qwen-Robot 系列",
+          "summary": "阿里巴巴发布 Qwen-Robot 系列具身大模型，实现边走、边看、边思考的机器人能力。",
+          "primary_url": "https://www.qbitai.com/2026/06/435873.html",
+          "items": [
+            "3b3ae5a7224d7d4b"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/model_release-00.jpg"
+        },
+        {
+          "headline": "NVIDIA Blackwell 刷新 MLPerf 训练纪录",
+          "summary": "NVIDIA 称 Blackwell 架构在 MLPerf Training 6.0 中实现最快、最大、最强训练性能。",
+          "primary_url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+          "items": [
+            "b6e78b950d290d6f"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/model_release-01.jpg"
+        },
+        {
+          "headline": "OpenAI 推出部署仿真提前预测模型行为",
+          "summary": "OpenAI 发布 Deployment Simulation，利用真实对话数据模拟模型部署行为，提升安全评估准确性。",
+          "primary_url": "https://openai.com/index/deployment-simulation",
+          "items": [
+            "077e0b91f457d84b"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Google Gemma 4 12B 发布，面向设备端多模态",
+          "summary": "Gemma 4 12B 采用无编码器架构，实现设备端多模态主动工作流。",
+          "primary_url": "https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe",
+          "items": [
+            "433d8457f7a72a26"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/model_release-03.jpg"
+        },
+        {
+          "headline": "机器人学会全身协同干精细活",
+          "summary": "新模型让机器人同时控制手脚腰身，实现精细操作。",
+          "primary_url": "https://www.qbitai.com/2026/06/436073.html",
+          "items": [
+            "5545674bda7a05f6"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "SpaceX 收购 Cursor 并完成 IPO，估值超 2.6 万亿美元",
+          "summary": "SpaceX 在 IPO 后数日宣布以 600 亿美元股票收购 AI 编码平台 Cursor，公司估值短暂超越亚马逊。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+          "items": [
+            "1658009df10cfca5",
+            "00d52dec47883427",
+            "bc8e37df46ecdc7e",
+            "77bd102a4d3f2b16",
+            "3bed93b95d7efd08"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-06-17/company-00.jpg"
+        },
+        {
+          "headline": "曝 OpenAI 去年亏损 340 亿美元，收入不抵研发",
+          "summary": "泄露财务文件显示 OpenAI 2025 年营收增长但被巨额研发支出吞噬，净亏损高达 340 亿美元。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+          "items": [
+            "c94707cdf7eb9c25",
+            "f3a90730c642b8d2"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-17/company-01.jpg"
+        },
+        {
+          "headline": "特朗普政府封禁 Anthropic Fable 5 等模型引发争议",
+          "summary": "美国出口管制强制 Anthropic 下架 Fable 5 和 Mythos 5 模型，数十名网络安全专家联名抗议，称此举危害国家安全。",
+          "primary_url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "items": [
+            "afba79195c6d59fa",
+            "60ab66a38571987c",
+            "8402ec73d93d6d9",
+            "9cd1fc6a7b19267e",
+            "a2021097c458a7ec",
+            "3309d13098f4a441",
+            "e9657e0e36291edc",
+            "fdb4a8185b9a80ab"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-06-17/company-02.jpg"
+        },
+        {
+          "headline": "Salesforce 36 亿美元收购 AI 客服平台 Fin",
+          "summary": "Salesforce 收购 Fin 以强化其 Agentforce 平台，该平台用于构建自定义 AI 客服代理。",
+          "primary_url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+          "items": [
+            "53ae18e529101aad"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-17/company-03.jpg"
+        },
+        {
+          "headline": "DeepSeek 首次引入外部投资，估值达 500 亿美元",
+          "summary": "DeepSeek 向腾讯、宁德时代等投资者融资，锁定期 5 年且无投票权，梁文锋保持绝对控制。",
+          "primary_url": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
+          "items": [
+            "9076ca2facbf3f54",
+            "0a75f0a1c07511b2"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-06-17/company-04.jpg"
+        },
+        {
+          "headline": "Sarvam 获 2.34 亿美元融资，成印度最新 AI 独角兽",
+          "summary": "HCLTech 领投 2.34 亿美元，Sarvam 成为印度又一 AI 独角兽。",
+          "primary_url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+          "items": [
+            "b4e91007e546fe38"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/company-05.jpg"
+        },
+        {
+          "headline": "Nvidia 拟发行 250 亿美元债券，融资 AI 投资",
+          "summary": "Nvidia 自 2021 年以来首次发债，寻求融资以支撑 AI 算力基础设施投入。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+          "items": [
+            "88cf9a8db198c91c",
+            "a03b43b83f3e50e5"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/company-06.jpg"
+        },
+        {
+          "headline": "硅基流动完成超 20 亿元 B 轮融资，产业资本下注",
+          "summary": "AI 基础设施公司硅基流动获得产业资本密集投资，估值大幅提升。",
+          "primary_url": "https://www.infoq.cn/article/6plxDB37CLvi5xWT0Abb",
+          "items": [
+            "484d267666b2fe28"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "中国学者多篇论文入选 ICML 2026",
+          "summary": "电子科大、滴滴、港中文等机构多篇论文被 ICML 2026 录用，涵盖安全代码、视觉理解、强化学习等方向。",
+          "primary_url": "https://www.leiphone.com/category/private/tSpPDg8Aa1pKwIHl.html",
+          "items": [
+            "33a76754d0d60022",
+            "7d4f5e264a0f0e9e",
+            "d27e2964ff4f0838",
+            "ec93d0027403f528",
+            "1d76716ba4b0bf4e",
+            "d3e5a67f7a7aa97c",
+            "2a2a7f372b27f77b"
+          ],
+          "importance": 4
+        },
+        {
+          "headline": "新基准测试 AI 模型对俄罗斯宣传的抗骗能力",
+          "summary": "研究者发布基准，测试 AI 模型被俄罗斯虚假信息欺骗的难易程度。",
+          "primary_url": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/",
+          "items": [
+            "84a0418df17f7410"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-17/research-01.jpg"
+        },
+        {
+          "headline": "LabVLA 将 VLA 模型引入科学实验室自动化",
+          "summary": "论文提出 LabVLA，使机器人能在真实实验室环境中根据指令完成实验操作。",
+          "primary_url": "http://arxiv.org/abs/2606.13578v2",
+          "items": [
+            "980258ecc1471710"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-17/research-02.jpg"
+        },
+        {
+          "headline": "TokenPilot 提出令牌高效上下文管理方法",
+          "summary": "新方法通过缓存和修剪减少 LLM 代理的长会话推理成本。",
+          "primary_url": "http://arxiv.org/abs/2606.17016v1",
+          "items": [
+            "5b9d9d7f2fd40ab8"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-17/research-03.jpg"
+        },
+        {
+          "headline": "TuneJury 发布开源音乐生成偏好预测模型",
+          "summary": "TuneJury 是一个基于文本到音乐预测偏好分数的奖励模型，开源发布。",
+          "primary_url": "http://arxiv.org/abs/2606.17006v1",
+          "items": [
+            "ebda3b50fe3dc562"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/research-04.jpg"
+        },
+        {
+          "headline": "贝叶斯审计方法提高公共 AI 评估可靠性",
+          "summary": "论文提出贝叶斯推断和决策审计框架，用于分析公开 AI 评估存档的时间序列偏差。",
+          "primary_url": "http://arxiv.org/abs/2606.17005v1",
+          "items": [
+            "eccbee99241f0b3d"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/research-05.jpg"
+        },
+        {
+          "headline": "Phantoms 框架审计合成数据隐私风险",
+          "summary": "因果框架用于检测生成式 AI 合成数据中的隐私泄露和效用损失。",
+          "primary_url": "http://arxiv.org/abs/2606.16952v1",
+          "items": [
+            "317f841da41bfa9e"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/research-06.jpg"
+        },
+        {
+          "headline": "流匹配算法自动发现物理系统对称性",
+          "summary": "新方法利用流匹配从数据中学习对称群，无需先验知识。",
+          "primary_url": "http://arxiv.org/abs/2512.20043v3",
+          "items": [
+            "6f6ae2ee5602ce35"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Copilot 漏洞遭利用，可窃取用户 2FA 验证码",
+          "summary": "SearchLeak 攻击利用 Copilot 安全缺陷，黑客可获取用户的二因素认证码。",
+          "primary_url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+          "items": [
+            "fa9531f3489e08ce"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/product-00.jpg"
+        },
+        {
+          "headline": "Meta 推出 Facebook AI Mode，聚合旗下平台公开数据",
+          "summary": "Facebook 新 AI 模式从 Instagram、WhatsApp 等 Meta 平台读取公开信息，提供个性化 AI 助手。",
+          "primary_url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+          "items": [
+            "dd37296bfdca07aa"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/product-01.jpg"
+        },
+        {
+          "headline": "Anthropic 暂停 Claude Agent SDK 的 Token 计费改革",
+          "summary": "Anthropic 原计划周一生效的基于 Token 计费方案被暂停，此前曾引发高用量用户成本暴涨担忧。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+          "items": [
+            "79b509ac930c84f1",
+            "aa61849bd60132bc"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/product-02.jpg"
+        },
+        {
+          "headline": "Android 17 正式发布，深度集成 Gemini AI",
+          "summary": "Google 发布 Android 17，带来全新多任务工具和 Gemini 功能扩展，同时推出 Pixel Drop 更新。",
+          "primary_url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+          "items": [
+            "6f1a2a4f455fd33e"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/product-03.jpg"
+        },
+        {
+          "headline": "Copilot Cowork 改用按用量计费，或接入 DeepSeek",
+          "summary": "Microsoft 调整 Copilot Cowork 计费模式，并考虑引入 DeepSeek 模型。",
+          "primary_url": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+          "items": [
+            "3b13c452b651e8b2"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/product-04.jpg"
+        },
+        {
+          "headline": "Plaud AI 记事本软件业务 ARR 超 1 亿美元",
+          "summary": "Plaud 宣布已出货超过 200 万 AI 记事本，软件年经常性收入突破 1 亿。",
+          "primary_url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+          "items": [
+            "a12da63f589c1fc5"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/product-05.jpg"
+        },
+        {
+          "headline": "NVIDIA XR AI 公测，驱动 AR 眼镜多模态代理",
+          "summary": "NVIDIA 发布 XR AI 框架公测版，允许开发者构建适用于 AR 眼镜和 XR 设备的多模态 AI agent。",
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+          "items": [
+            "fdb5c7fcdb51b6a8"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/product-06.jpg"
+        },
+        {
+          "headline": "鸿蒙小艺 AI 助手新升级：会思考、能调度",
+          "summary": "华为鸿蒙小艺与朱广权同台说脱口秀，展示多元能力，AI 助手进入新阶段。",
+          "primary_url": "https://www.qbitai.com/2026/06/435953.html",
+          "items": [
+            "62c815cedfbdf9a8"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "ChatGPT 市场份额首次跌破 50%",
+          "summary": "数据机构统计显示 ChatGPT 用户占比首次低于 50%，但仍有 11 亿月活用户，领先 Gemini 和 Claude。",
+          "primary_url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+          "items": [
+            "98179041dd15f280"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-06-17/opinion-00.jpg"
+        },
+        {
+          "headline": "调查：60% 消费者反感品牌消息中提到 AI",
+          "summary": "WordPress VIP 调查发现多数美国消费者对含有 'AI' 的市场信息持负面态度，企业需谨慎。",
+          "primary_url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+          "items": [
+            "e1a92d596e7d8b72"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/opinion-01.jpg"
+        },
+        {
+          "headline": "柏林法院：Google AI 摘要被视为新搜索格式而非原创内容",
+          "summary": "法院判决认为 Google 的 AI Overviews 是搜索方式演变，不构成原创内容侵权。",
+          "primary_url": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/",
+          "items": [
+            "a97f7c863f2e32cc"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/opinion-02.jpg"
+        },
+        {
+          "headline": "前 OpenAI 高管：比失业更可怕的是失去自我认知",
+          "summary": "前 OpenAI 高管在清华演讲中探讨 AI 时代人类面临的身份认同挑战。",
+          "primary_url": "https://www.infoq.cn/article/BVEc18iUtotFGN2mpRSI",
+          "items": [
+            "8908e85db435c250"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-06-17/opinion-03.jpg"
+        },
+        {
+          "headline": "腾讯 AI 下半场聚焦 agent 场景落地",
+          "summary": "分析腾讯在 AI 领域的后来居上，通过 CodeBuddy、WorkBuddy 等产品加速 AI 场景化应用。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/Zlsk48Iv88fVZ3N9.html",
+          "items": [
+            "579939e0c55c9340"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "韩国人为何对 AI 情有独钟？",
+          "summary": "MIT Tech Review 分析韩国社会对 AI 的拥抱程度远超其他国家。",
+          "primary_url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+          "items": [
+            "9d3766bd1b3c41bb"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-17/opinion-05.jpg"
+        },
+        {
+          "headline": "观点：灵活电网接入是数据中心快速部署的关键",
+          "summary": "文章探讨通过柔性电力接入加速数据中心上线，以应对 AI 算力需求。",
+          "primary_url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+          "items": [
+            "6266a0aacf54ea45"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-17/opinion-06.jpg"
+        },
+        {
+          "headline": "具身智能需要超越数据 Scaling Law",
+          "summary": "北大董豪指出当前具身智能依赖大规模数据收集，缺乏物理交互层面的创新。",
+          "primary_url": "https://www.leiphone.com/category/ai/ABnmB3o4JHMsiWmA.html",
+          "items": [
+            "7ccdbdd919732ab8"
+          ],
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "首个具身数据采集系统开源，降低数据成本",
+          "summary": "开源项目旨在解决具身智能数据昂贵的问题，提供低成本采集方案。",
+          "primary_url": "https://www.leiphone.com/category/ai/VzC236xZ6HQob91z.html",
+          "items": [
+            "1eb2f251f28d45cd"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "NVIDIA 开源 SkillSpector 安全扫描 AI Agent 技能",
+          "summary": "SkillSpector 可检测 AI agent 技能中的漏洞、恶意模式和安全隐患。",
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-17/opensource-01.jpg"
+        },
+        {
+          "headline": "cua 开源：训练和评估桌面控制 AI Agent 的基础设施",
+          "summary": "cua 提供沙盒、SDK 和基准，用于训练和评估能控制完整桌面的 AI agent。",
+          "primary_url": "https://github.com/trycua/cua",
+          "items": [
+            "f2b88e20e9f39d48"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-06-17/opensource-02.jpg"
+        },
+        {
+          "headline": "Agent-Reach 开源：AI Agent 零成本访问社交媒体",
+          "summary": "Agent-Reach 通过 CLI 让 AI agent 搜索 Twitter、Reddit、YouTube 等平台，无需 API 费用。",
+          "primary_url": "https://github.com/Panniantong/Agent-Reach",
+          "items": [
+            "89b208cfd6dd9bc7"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/opensource-03.jpg"
+        },
+        {
+          "headline": "SurfSense 开源：无数据限制的 NotebookLM 替代方案",
+          "summary": "SurfSense 作为开源、注重隐私的团队级 AI 知识管理工具，无数据量限制。",
+          "primary_url": "https://github.com/MODSetter/SurfSense",
+          "items": [
+            "dade63f1324430ac"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/opensource-04.jpg"
+        },
+        {
+          "headline": "汇总免费 LLM API 资源，降低使用门槛",
+          "summary": "该项目整理可通过 API 免费使用的 LLM 服务清单。",
+          "primary_url": "https://github.com/cheahjs/free-llm-api-resources",
+          "items": [
+            "633c7442f4f9fda1"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/opensource-05.jpg"
+        },
+        {
+          "headline": "claude-bug-bounty：在终端中用 AI 自动挖漏洞",
+          "summary": "使用 Claude Code 在终端中自动进行漏洞侦察、扫描并生成报告。",
+          "primary_url": "https://github.com/shuvonsec/claude-bug-bounty",
+          "items": [
+            "c26391a4fc0786d7"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/opensource-06.jpg"
+        },
+        {
+          "headline": "微软开源 PostgreSQL 扩展用于数据库内持久执行",
+          "summary": "扩展使 PostgreSQL 支持更高效、持久化的内嵌执行环境。",
+          "primary_url": "https://www.infoq.cn/article/iC6rdCT79aKOaG5mp0Tx",
+          "items": [
+            "3f2f11ed5257e025"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-06-17/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-17"
+}
