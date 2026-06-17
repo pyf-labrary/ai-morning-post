@@ -1,0 +1,366 @@
+{
+  "date": "2026-06-18",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GLM-5.2发布：顶尖前端编码开源模型",
+          "summary": "智谱AI发布GLM-5.2，在长任务和前端编码方面表现出色，逼近闭源模型，为开源社区带来新选择。",
+          "primary_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+          "importance": 8,
+          "items": [
+            "48d8189bf45c71d9",
+            "03f406eef709c782",
+            "14b3e28ee532aca7",
+            "8e0c84e22795e41d"
+          ],
+          "cover_path": "out/media/2026-06-18/model_release-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "SpaceX 600亿美元收购AI编码平台Cursor",
+          "summary": "SpaceX宣布以约600亿美元收购Cursor，旨在与Anthropic和OpenAI竞争，整合双方优势。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+          "importance": 9,
+          "items": [
+            "1658009df10cfca5",
+            "bc8e37df46ecdc7e",
+            "0287c8b458713781",
+            "cf4b4d1522dbd6a4"
+          ],
+          "cover_path": "out/media/2026-06-18/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI发布AI化学家与LifeSciBench推进生命科学",
+          "summary": "OpenAI与Molecule.one合作展示近乎自主的AI化学家改进药物反应，并推出生命科学基准LifeSciBench。",
+          "primary_url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "importance": 9,
+          "items": [
+            "4be5fa048d55c346",
+            "0d1b2f7118b9f82d"
+          ]
+        },
+        {
+          "headline": "DeepSeek完成74亿美元融资",
+          "summary": "DeepSeek筹集74亿美元，采用特殊架构保持创始人控制权，估值再创新高。",
+          "primary_url": "https://tldr.tech/ai/2026-06-17",
+          "importance": 8,
+          "items": [
+            "8e0c84e22795e41d",
+            "d3c4f0fe3e2ca873"
+          ],
+          "cover_path": "out/media/2026-06-18/company-02.jpg"
+        },
+        {
+          "headline": "Odyssey融资14.5亿美元，世界模型赛道崛起",
+          "summary": "Odyssey获Amazon、Nvidia等投资，估值14.5亿美元，专注于3D世界模型，被视为AI下一个前沿。",
+          "primary_url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+          "importance": 8,
+          "items": [
+            "660a162356d9f3d9",
+            "2a3364bc07cfaf9e"
+          ],
+          "cover_path": "out/media/2026-06-18/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic暂停Claude Agent SDK基于Token的计费",
+          "summary": "Anthropic在用户强烈反对后暂停原计划于周一上线的Token计费方式，避免大幅增加重度用户成本。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+          "importance": 7,
+          "items": [
+            "79b509ac930c84f1"
+          ],
+          "cover_path": "out/media/2026-06-18/company-04.jpg"
+        },
+        {
+          "headline": "NAACP起诉xAI燃气轮机污染，政府援引国家安全辩护",
+          "summary": "NAACP因xAI未获许可使用燃气轮机而提起诉讼，特朗普政府以军事需要为由试图阻止诉讼。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+          "importance": 7,
+          "items": [
+            "68800b0283439609",
+            "8ca9aa60e52b6228"
+          ],
+          "cover_path": "out/media/2026-06-18/company-05.jpg"
+        },
+        {
+          "headline": "Anthropic与白宫就Fable 5越狱问题对峙",
+          "summary": "Anthropic的Fable 5模型因越狱漏洞被禁，白宫要求全面防越狱，Anthropic紧急派遣团队赴华盛顿谈判。",
+          "primary_url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+          "importance": 8,
+          "items": [
+            "9be5e5dbe2c33842",
+            "bb9d2a8f85983787",
+            "a2021097c458a7ec",
+            "cf4b4d1522dbd6a4"
+          ],
+          "cover_path": "out/media/2026-06-18/company-06.jpg"
+        },
+        {
+          "headline": "SpaceX估值飙至2.6万亿美元，一度超越亚马逊",
+          "summary": "自上市以来，SpaceX市值增加1万亿美元，达到2.6万亿美元，短暂超过亚马逊。",
+          "primary_url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+          "importance": 7,
+          "items": [
+            "77bd102a4d3f2b16"
+          ],
+          "cover_path": "out/media/2026-06-18/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "红队测试论文深入分析Anthropic Fable 5安全性",
+          "summary": "一篇arXiv论文对Anthropic的Fable 5和Opus 4.8进行红队测试，评估其抗越狱能力，揭示安全缺口。",
+          "primary_url": "http://arxiv.org/abs/2606.18193v1",
+          "importance": 6,
+          "items": [
+            "5ef11d6cafec47eb"
+          ],
+          "cover_path": "out/media/2026-06-18/research-00.jpg"
+        },
+        {
+          "headline": "VERITAS：通过视觉验证实现机器人自主改进",
+          "summary": "论文提出VERITAS框架，使机器人能从现实中学习并通过视觉反馈自主改进策略，无需人类干预。",
+          "primary_url": "http://arxiv.org/abs/2606.18247v1",
+          "importance": 6,
+          "items": [
+            "d33c9dad93e9b235"
+          ],
+          "cover_path": "out/media/2026-06-18/research-01.jpg"
+        },
+        {
+          "headline": "Looped World Models：循环世界模型实现长程仿真",
+          "summary": "提出Looped World Models，通过循环结构解决长程仿真中的深度与误差累积问题，提升世界模型保真度。",
+          "primary_url": "http://arxiv.org/abs/2606.18208v1",
+          "importance": 5,
+          "items": [
+            "5a838473fb91740b"
+          ],
+          "cover_path": "out/media/2026-06-18/research-02.jpg"
+        },
+        {
+          "headline": "ACE-Ego：以人为中心的具身操作VLA模型开源",
+          "summary": "大晓机器人联合港中大发布ACE-Ego，利用大规模第一视角人类视频预训练，刷新具身模型SOTA。",
+          "primary_url": "https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html",
+          "importance": 5,
+          "items": [
+            "72a9f18fb66db15e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Google Gemini Home Speaker正式开启预购",
+          "summary": "Google发布全新Gemini驱动的智能音箱，售价99.99美元，支持对话式交互，6月25日发货。",
+          "primary_url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+          "importance": 8,
+          "items": [
+            "c4dd3d717e41a0ef",
+            "5d900e22c0af2d22",
+            "71f6adb907b4ebeb"
+          ],
+          "cover_path": "out/media/2026-06-18/product-00.jpg"
+        },
+        {
+          "headline": "Android 17发布：多任务与Gemini深度整合",
+          "summary": "Google发布Android 17和Wear OS 7，引入全新多任务工具、安全功能，并扩展Gemini AI特性。",
+          "primary_url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+          "importance": 7,
+          "items": [
+            "6f1a2a4f455fd33e"
+          ],
+          "cover_path": "out/media/2026-06-18/product-01.jpg"
+        },
+        {
+          "headline": "Pinterest推出实验性AI购物应用Ask Pinterest",
+          "summary": "Pinterest推出AI购物应用，通过对话式界面为用户推荐商品，目前处于实验阶段。",
+          "primary_url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+          "importance": 6,
+          "items": [
+            "2c66acc555b17e56"
+          ],
+          "cover_path": "out/media/2026-06-18/product-02.jpg"
+        },
+        {
+          "headline": "昆仑万维天工3.1上线：设计画布与多智能体工作流",
+          "summary": "天工3.1新增Skywork Design画布与Dynamic Workflows，强化复杂项目交付能力，从Demo走向产品。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html",
+          "importance": 6,
+          "items": [
+            "9d3294a7881b1017",
+            "1fdcb17566e64c36"
+          ]
+        },
+        {
+          "headline": "NVIDIA XR AI公测：为AR眼镜构建AI代理",
+          "summary": "NVIDIA推出XR AI框架公测版，让开发者能为AR眼镜和XR设备构建多模态AI代理。",
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+          "importance": 6,
+          "items": [
+            "fdb5c7fcdb51b6a8"
+          ],
+          "cover_path": "out/media/2026-06-18/product-04.jpg"
+        },
+        {
+          "headline": "微信支付发布AI专属卡，WorkBuddy率先接入",
+          "summary": "微信支付推出AI专属卡，用户可通过与智能体对话提出消费需求，WorkBuddy成为首个接入的应用。",
+          "primary_url": "https://www.qbitai.com/2026/06/436160.html",
+          "importance": 6,
+          "items": [
+            "344c6603dda156ea"
+          ],
+          "cover_path": "out/media/2026-06-18/product-05.jpg"
+        },
+        {
+          "headline": "阿里发布可交互世界模型HappyOyster 1.0",
+          "summary": "阿里发布HappyOyster 1.0，用户可实时探索、导演并重塑AI生成的世界，支持一句话或一张图创建。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/1CH2JRMcIM0JbVu1.html",
+          "importance": 5,
+          "items": [
+            "4749249b65a89901"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "'危险'AI模型不可避免，专家呼吁加强防御",
+          "summary": "Ars Technica和Wired发表深度分析，指出具备高级黑客能力的AI模型即将成为常态，监管赶不上技术发展。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+          "importance": 7,
+          "items": [
+            "70a7fe73b92e3362",
+            "a2021097c458a7ec"
+          ],
+          "cover_path": "out/media/2026-06-18/opinion-00.jpg"
+        },
+        {
+          "headline": "世界领导人呼吁AI主权：担心美国随时断供",
+          "summary": "G7峰会上法国总统马克龙和印度总理莫迪警告，美国可能切断AI服务，引发各国对AI主权的担忧。",
+          "primary_url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+          "importance": 7,
+          "items": [
+            "d581dc83b0d0b2e9"
+          ],
+          "cover_path": "out/media/2026-06-18/opinion-01.jpg"
+        },
+        {
+          "headline": "仅16%美国人相信AI对社会的积极影响",
+          "summary": "皮尤研究中心报告显示，绝大多数美国人对AI持怀疑态度，华尔街与普通民众看法分歧巨大。",
+          "primary_url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "importance": 6,
+          "items": [
+            "0db59d796798aee9"
+          ],
+          "cover_path": "out/media/2026-06-18/opinion-02.jpg"
+        },
+        {
+          "headline": "调查：60%消费者反感品牌消息中的'AI'标签",
+          "summary": "WordPress VIP调查显示，消费者对品牌强调AI感到厌烦，企业需谨慎使用AI营销用语。",
+          "primary_url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+          "importance": 6,
+          "items": [
+            "e1a92d7e8b72"
+          ],
+          "cover_path": "out/media/2026-06-18/opinion-03.jpg"
+        },
+        {
+          "headline": "NEA投资人谈AI ROI：企业仍在摸索盈利模式",
+          "summary": "NEA的Tiffany Luck表示，企业在AI层面过度消费后开始面临账单，ROI成为焦点，个人代理是未来方向。",
+          "primary_url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+          "importance": 6,
+          "items": [
+            "3f5a12fa2833e9b2",
+            "9ca385267b0fea68"
+          ],
+          "cover_path": "out/media/2026-06-18/opinion-04.jpg"
+        },
+        {
+          "headline": "Redis之父为DeepSeek抱不平：蒸馏争议被夸大",
+          "summary": "Redis创始人评论美国AI圈围绕'蒸馏'技术争吵，认为过度政治化，为DeepSeek辩护。",
+          "primary_url": "https://www.infoq.cn/article/5OpP7JGal7gPR2wwWauA",
+          "importance": 5,
+          "items": [
+            "78bd06d6f51118dc"
+          ],
+          "cover_path": "out/media/2026-06-18/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Microsoft开源Fara-7B：高效Agentic模型操控电脑",
+          "summary": "Microsoft发布Fara-7B，一个高效的开源代理模型，专门用于计算机操作任务，性能强大。",
+          "primary_url": "https://github.com/microsoft/fara",
+          "importance": 6,
+          "items": [
+            "1514c7aace44e096"
+          ],
+          "cover_path": "out/media/2026-06-18/opensource-00.jpg"
+        },
+        {
+          "headline": "Datasette 1.0a34发布：新增数据插入编辑功能",
+          "summary": "Datasette 1.0a34 alpha版本上线，关键特性是通过插件实现数据插入、编辑和删除，以及Tailscale集成。",
+          "primary_url": "https://github.com/simonw/datasette/releases/tag/1.0a34",
+          "importance": 5,
+          "items": [
+            "6b80ccd3b2435e8a",
+            "00e97a73ecc61334"
+          ],
+          "cover_path": "out/media/2026-06-18/opensource-01.jpg"
+        },
+        {
+          "headline": "vLLM更新：高吞吐LLM推理引擎持续优化",
+          "summary": "vLLM是流行的开源LLM推理引擎，近期更新支持更多模型并提升性能。",
+          "primary_url": "https://github.com/vllm-project/vllm",
+          "importance": 5,
+          "items": [
+            "01e7a310e8df3c23"
+          ],
+          "cover_path": "out/media/2026-06-18/opensource-02.jpg"
+        },
+        {
+          "headline": "阿里开源ZVec：轻量级进程内向量数据库",
+          "summary": "阿里云开源ZVec，一个极速轻量的进程内向量数据库，适用于embedding检索场景。",
+          "primary_url": "https://github.com/alibaba/zvec",
+          "importance": 5,
+          "items": [
+            "2773d339d372c7ed"
+          ],
+          "cover_path": "out/media/2026-06-18/opensource-03.jpg"
+        },
+        {
+          "headline": "VoxCPM2：无Tokenizer多语言语音生成TTS",
+          "summary": "OpenBMB开源VoxCPM2，无Tokenizer的TTS模型，支持多语言语音生成、创意语音设计和真实克隆。",
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "importance": 5,
+          "items": [
+            "9f4860696df00d55"
+          ],
+          "cover_path": "out/media/2026-06-18/opensource-04.jpg"
+        }
+      ]
+    }
+  ]
+}
