@@ -1,0 +1,455 @@
+{
+  "date": "2026-06-19",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "OpenAI升级ChatGPT健康智能，GPT-5.5 Instant媲美医生",
+          "summary": "OpenAI发布GPT-5.5 Instant健康升级，通过更强的推理和医生评估改进回答；同时使用推理模型辅助诊断儿童罕见病，取得突破。",
+          "primary_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "items": [
+            "1f896823675efc4d",
+            "01f73380006a4238",
+            "11cef5fc17f27358"
+          ]
+        },
+        {
+          "importance": 6,
+          "headline": "Z.ai发布GLM-5.2，最强开放权重纯文本模型",
+          "summary": "中国AI实验室Z.ai发布GLM-5.2，向编码计划订阅者开放，后全面开源权重，被认为是目前最强大的文本开源LLM。",
+          "primary_url": "https://simonwillison.net/2026/Jun/17/glm-52/",
+          "items": [
+            "91343c1fc81f729d"
+          ],
+          "cover_path": "out/media/2026-06-19/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "importance": 9,
+          "headline": "Anthropic新模型Fable 5遭白宫下令下架，出口管制争议升级",
+          "summary": "Anthropic发布Claude Fable 5后，美国白宫以国家安全为由要求下架，并限制SK Telecom访问。Anthropic面临出口管制合规挑战，模型暂不可用。",
+          "primary_url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+          "items": [
+            "78f712a202e6c01d",
+            "a08e9142ca7ef1be",
+            "2b297aa1d35a5b35",
+            "bb9d2a8f85983787",
+            "e3fde8cd38152e0c",
+            "04d58d1dc43185d1"
+          ],
+          "cover_path": "out/media/2026-06-19/company-00.jpg"
+        },
+        {
+          "importance": 9,
+          "headline": "OpenAI IPO前连挖两位大将：Transformer发明人Noam Shazeer加入",
+          "summary": "OpenAI从Google DeepMind挖来Gemini联合负责人Noam Shazeer，并聘用前特朗普AI政策官员Dean Ball，为上市强化人才储备。",
+          "primary_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "items": [
+            "e13e3ee20dd57843",
+            "62a7bbba8ccbf8be",
+            "3ba6de219afe874e"
+          ],
+          "cover_path": "out/media/2026-06-19/company-01.jpg"
+        },
+        {
+          "importance": 8,
+          "headline": "FERC政策：AI数据中心获政府特许绿色通道加速接入电网",
+          "summary": "联邦能源监管委员会FERC命令电网运营商为大型AI数据中心提供快速并网通道，但对电力供应短缺问题未予解决，引发业界争议。",
+          "primary_url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+          "items": [
+            "8e23dde360ac09a9",
+            "9cd033270dae0dac"
+          ],
+          "cover_path": "out/media/2026-06-19/company-02.jpg"
+        },
+        {
+          "importance": 8,
+          "headline": "AI推理独角兽Baseten再融资15亿美元，估值超130亿",
+          "summary": "AI推理基础设施初创Baseten据报接近完成15亿美元新一轮融资，估值达130亿美元，反映推理市场持续狂热。",
+          "primary_url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "items": [
+            "08b504438b73f109"
+          ],
+          "cover_path": "out/media/2026-06-19/company-03.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "AWS拟向外部数据中心出售自研AI芯片，直接挑战Nvidia",
+          "summary": "Amazon AWS正谈判向其他数据中心销售其Trainium/Inferentia芯片，CEO Andy Jassy称这是500亿美元的市场机遇。",
+          "primary_url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+          "items": [
+            "a9877403565eb8fe"
+          ],
+          "cover_path": "out/media/2026-06-19/company-04.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "世界模型初创Odyssey获14.5亿美元估值，亚马逊领投",
+          "summary": "专注世界模型的AI初创Odyssey完成新一轮融资，估值达14.5亿美元，获得Amazon等知名投资方支持。",
+          "primary_url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+          "items": [
+            "660a162356d9f3d9"
+          ],
+          "cover_path": "out/media/2026-06-19/company-05.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "通用智能体初创General Intuition拟融资3亿美元，估值20亿",
+          "summary": "利用Medal游戏数据训练世界模型的General Intuition正在谈判新一轮3亿美元融资，估值约20亿美元。",
+          "primary_url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+          "items": [
+            "c47d9ef557a6cd32"
+          ],
+          "cover_path": "out/media/2026-06-19/company-06.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Snap因成本分拆AI视频团队，独立公司Dotmo专注视频生成",
+          "summary": "Snap持续剥离内部团队，AI视频团队独立为新公司Dotmo，将全力发展AI视频生成技术。",
+          "primary_url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "items": [
+            "f47d4f2f1efdf8c7"
+          ],
+          "cover_path": "out/media/2026-06-19/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "Nature两篇研究：AI诊断水平不输人类医生，但存在时效性隐患",
+          "summary": "最新Nature发表的两项研究表明AI在多个诊断任务上达到甚至超过医生水平，但其中一项结果提示模型性能随时间衰减。",
+          "primary_url": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well/",
+          "items": [
+            "280c6f8313baaabb"
+          ],
+          "cover_path": "out/media/2026-06-19/research-00.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Subquadratic打破上下文限制，推出1200万token窗口",
+          "summary": "研究团队Subquadratic提出新架构，实现1200万token的上下文窗口，显著突破当前LLM长上下文瓶颈。",
+          "primary_url": "https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev",
+          "items": [
+            "38acd5ae7c40fb50"
+          ],
+          "cover_path": "out/media/2026-06-19/research-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "何恺明组全本科生团队发文：258M参数即可高质量文生图",
+          "summary": "何恺明与五位本科生合作提出新模型，仅258M参数达到高效文本到图像生成，挑战大模型范式。",
+          "primary_url": "https://www.qbitai.com/2026/06/436518.html",
+          "items": [
+            "8d63de9e73ec98fe"
+          ],
+          "cover_path": "out/media/2026-06-19/research-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "地理空间AI模型ABot-Earth0.5登顶HuggingFace论文榜",
+          "summary": "ABot-Earth0.5在HuggingFace论文榜单同时斩获三榜第一，可直接导入Unity等引擎进行交互开发。",
+          "primary_url": "https://www.qbitai.com/2026/06/436698.html",
+          "items": [
+            "aff734fe823d91b4"
+          ],
+          "cover_path": "out/media/2026-06-19/research-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "MosaicLeaks基准测试：研究型AI agent的保密能力堪忧",
+          "summary": "ServiceNow发布MosaicLeaks基准，测试研究agent在对话中泄露敏感信息的风险，结果显示现有agent保密性不足。",
+          "primary_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+          "items": [
+            "e5692f9acafd966e"
+          ],
+          "cover_path": "out/media/2026-06-19/research-04.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "HuggingFace新评测：多种微调方法能否超越LoRA？",
+          "summary": "HuggingFace发布PEFT新评测，探讨多种参数高效微调方法在LoRA基础上的性能提升。",
+          "primary_url": "https://huggingface.co/blog/peft-beyond-lora",
+          "items": [
+            "97fc5fb085bf888a"
+          ],
+          "cover_path": "out/media/2026-06-19/research-05.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Allen AI发布MolmoMotion，用自然语言引导3D运动预测",
+          "summary": "Allen AI提出MolmoMotion，通过语言指令生成多模态3D运动轨迹，增强模型对空间动态的理解。",
+          "primary_url": "https://huggingface.co/blog/allenai/molmomotion",
+          "items": [
+            "c6f86ab566651fe9"
+          ],
+          "cover_path": "out/media/2026-06-19/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "ChatGPT Enterprise新增精细支出控制与用量分析功能",
+          "summary": "OpenAI为ChatGPT Enterprise推出更细粒度的消费控制和用量分析，帮助企业优化AI成本。",
+          "primary_url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "items": [
+            "74e54ac31f358b7d"
+          ]
+        },
+        {
+          "importance": 7,
+          "headline": "Google新智能音箱Home Speaker开启预售，100美元Gemini驱动",
+          "summary": "时隔六年，Google发布全新Home Speaker，主打Gemini AI助手功能，售价100美元，6月25日出货。",
+          "primary_url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+          "items": [
+            "c4dd3d717e41a0ef",
+            "5d900e22c0af2d22"
+          ],
+          "cover_path": "out/media/2026-06-19/product-01.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Midjourney跨界医疗：推出全身超声扫描仪与自有水疗中心",
+          "summary": "以AI图像生成闻名的Midjourney宣布第二个产品线——医疗全身超声扫描仪，并开设品牌水疗中心，布局身心健康领域。",
+          "primary_url": "https://the-decoder.com/midjourney-known-for-ai-image-generation-unveils-a-full-body-ultrasound-scanner-and-its-own-spa/",
+          "items": [
+            "dd49e729c8fe6c41",
+            "10682344690b4ea4"
+          ],
+          "cover_path": "out/media/2026-06-19/product-02.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Adobe为Photoshop、Premiere等融入AI Agent功能",
+          "summary": "Adobe宣布在Creative Cloud全系产品中集成AI Agent，用户可通过自然语言指令完成复杂创作任务。",
+          "primary_url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps/",
+          "items": [
+            "25a4cac63d819f93"
+          ],
+          "cover_path": "out/media/2026-06-19/product-03.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Claude Code新增Artifacts功能，团队可分享实时编码页面",
+          "summary": "Anthropic为Claude Code引入Artifacts，允许开发者在对话中创建并分享实时交互页面，提升协作编码体验。",
+          "primary_url": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/",
+          "items": [
+            "e2c2953da27797d1"
+          ],
+          "cover_path": "out/media/2026-06-19/product-04.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Cursor 1.5T模型弃用Kimi基座，马斯克600亿股票收购后首刀指向GitHub",
+          "summary": "Cursor最新1.5T模型不再使用Kimi作为基座，同时马斯克以600亿美元股票收购Cursor后，计划挑战GitHub。",
+          "primary_url": "https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc",
+          "items": [
+            "f8dc9b0b7afef99d"
+          ],
+          "cover_path": "out/media/2026-06-19/product-05.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Pixi iOS应用将文字消息变身交互式AR，挑战动图贴纸",
+          "summary": "初创公司Pixi发布iOS应用，利用AR技术将普通文本消息转为可交互的3D体验。",
+          "primary_url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+          "items": [
+            "1acfbd6d311cbfb8"
+          ],
+          "cover_path": "out/media/2026-06-19/product-06.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Chrome发布WebMCP标准提案，为Agent提供原生Web操作能力",
+          "summary": "Google Chrome启动WebMCP Origin Trial，旨在让AI Agent能通过标准协议原生操作浏览器，类似MCP但针对Web。",
+          "primary_url": "https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0",
+          "items": [
+            "a1e904ed974a944b"
+          ],
+          "cover_path": "out/media/2026-06-19/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "桑德斯提出7万亿AI公有化计划，科技巨头强烈反对",
+          "summary": "美国参议员Bernie Sanders公布7万亿美元AI基金计划，主张让美国公众掌握AI产业控制权，引发业界震荡。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+          "items": [
+            "f11a18e72196c742"
+          ],
+          "cover_path": "out/media/2026-06-19/opinion-00.jpg"
+        },
+        {
+          "importance": 8,
+          "headline": "G7峰会上多国领导人警告：不能接受美国随时切断AI服务",
+          "summary": "法国总统马克龙和印度总理莫迪在G7峰会表示，Anthropic黑屏事件加剧了对美国AI供应可靠性的担忧。",
+          "primary_url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+          "items": [
+            "d581dc83b0d0b2e9"
+          ],
+          "cover_path": "out/media/2026-06-19/opinion-01.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Yann LeCun警告：OpenAI等将经历巨大泡沫爆炸",
+          "summary": "Meta AI负责人Yann LeCun认为当前AI投资热潮存在泡沫，OpenAI和Anthropic等实验室需要新技术突破才能支撑估值。",
+          "primary_url": "https://the-decoder.com/yann-lecun-warns-ai-labs-like-openai-and-anthropic-face-a-big-bubble-explosion/",
+          "items": [
+            "9d46850e9523ab5f"
+          ],
+          "cover_path": "out/media/2026-06-19/opinion-02.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "NEA合伙人谈AI ROI：Tokenmaxxing热潮过后账单来了",
+          "summary": "NEA合伙人Tiffany Luck在访谈中表示，企业正在经历AI投资回报率的大考，个人AI代理和合理度量是下一步关键。",
+          "primary_url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+          "items": [
+            "3f5a12fa2833e9b2",
+            "9ca385267b0fea68"
+          ],
+          "cover_path": "out/media/2026-06-19/opinion-03.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "AI彻底改变了代码生产经济学：成本结构翻转",
+          "summary": "工程高管Charity Majors撰文指出，2025年AI使代码生产的成本结构颠倒，对工程管理提出更高要求。",
+          "primary_url": "https://simonwillison.net/2026/Jun/17/charity-majors/",
+          "items": [
+            "a545f56dcc3fbd7a"
+          ]
+        },
+        {
+          "importance": 6,
+          "headline": "Stratechery专访Michael Morton：AI重塑电商推荐与分发",
+          "summary": "在电商与AI的深度对话中，Michael Morton讨论了AI在电商分销、无人驾驶和不可证伪的利空论点下的困境。",
+          "primary_url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+          "items": [
+            "8b71c0c75ac0db1b"
+          ],
+          "cover_path": "out/media/2026-06-19/opinion-05.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "分析师警告：高级黑客能力的AI模型很快成为常态",
+          "summary": "Ars Technica分析指出，具有先进网络攻击能力的AI模型将不可避免地问世，监管努力可能难以阻止。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+          "items": [
+            "70a7fe73b92e3362"
+          ],
+          "cover_path": "out/media/2026-06-19/opinion-06.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Threads、Instagram、TikTok推出用户可自定义算法的新功能",
+          "summary": "社交媒体平台开始让用户直接控制推荐算法，从被动接受到主动定制，AI驱动的推荐系统进入用户主导时代。",
+          "primary_url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+          "items": [
+            "9b01f43223361f77"
+          ],
+          "cover_path": "out/media/2026-06-19/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "Continue：开源编码Agent框架获广泛关注",
+          "summary": "Continue是一款开源AI编码助手，作为Claude Code等工具的替代，支持多模型和自定义Agent行为。",
+          "primary_url": "https://github.com/continuedev/continue",
+          "items": [
+            "2571f4e09181e69d"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-00.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "字节跳动开源UI-TARS-desktop，桌面多模态AI Agent栈",
+          "summary": "字节开源UI-TARS-desktop，提供从模型到Agent基础设施的完整开源栈，支持视觉和操作。",
+          "primary_url": "https://github.com/bytedance/UI-TARS-desktop",
+          "items": [
+            "e76094f38335d387"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-01.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Superpowers开源：为编码Agent提供可组合技能框架",
+          "summary": "Superpowers是一套完整的Agent软件开发方法论，包含可组合技能，提升AI编码能力。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-02.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "OpenMontage开源：Agent驱动的自动化视频生产系统",
+          "summary": "OpenMontage号称世界上首个开源agentic视频制作系统，包含52个工具和500多个技能，将AI编码助手变成视频工作室。",
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-03.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "RAGFlow：领先的检索增强生成引擎全面开源",
+          "summary": "RAGFlow将前沿RAG技术与Agent能力结合，为LLM提供高质量上下文层。",
+          "primary_url": "https://github.com/infiniflow/ragflow",
+          "items": [
+            "81a7003cd60885bc"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-04.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "微软开源RD-Agent：AI驱动的研发自动化工具",
+          "summary": "Microsoft RD-Agent专注于数据和模型研发的自动化，加速工业级AI研究。",
+          "primary_url": "https://github.com/microsoft/RD-Agent",
+          "items": [
+            "854662a8d59ce468"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-05.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "VoxCPM2开源：无需分词器的高质量多语言语音合成",
+          "summary": "OpenBMB发布的VoxCPM2支持多语言语音生成、创意声音设计和逼真克隆，无需Tokenizer。",
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "items": [
+            "9f4860696df00d55"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-06.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Netflix开源工具：砍掉90%冗余Token，年省70万美元",
+          "summary": "Netflix开源一款AI Token优化工具，通过消除冗余词元大幅降低API调用成本，为内部节省70万美元。",
+          "primary_url": "https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG",
+          "items": [
+            "2468aa5c2bd07ca0"
+          ],
+          "cover_path": "out/media/2026-06-19/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
