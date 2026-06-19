@@ -1,0 +1,317 @@
+{
+  "date": "2026-06-20",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "OpenAI发布GPT-5.5 Instant，健康回答超医生",
+          "summary": "OpenAI升级ChatGPT的GPT-5.5 Instant模型，在健康与福祉领域具备更强的推理、上下文理解能力，经医生评估后表现优于人类编写的回答。",
+          "primary_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "items": [
+            "1f896823675efc4d",
+            "11cef5fc17f27358"
+          ]
+        },
+        {
+          "importance": 7,
+          "headline": "GLM-5.2开源发布，通过社区“vibe check”",
+          "summary": "智谱AI开源GLM-5.2模型，在社区测试中表现惊艳，被评价为开源模型首次真正进入前沿行列。",
+          "primary_url": "https://github.com/zai-org/GLM-5",
+          "items": [
+            "bd1aefff0d5958de",
+            "265e2fd064d1774c"
+          ],
+          "cover_path": "out/media/2026-06-20/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "OpenAI IPO前夕狂挖角：吸纳Transformer发明人",
+          "summary": "OpenAI为IPO做准备，本周从Google DeepMind挖来Transformer共同发明人Noam Shazeer，同时前特朗普AI政策官员Dean Ball也加入；同期Anthropic成功从DeepMind挖走诺贝尔奖得主John Jumper。",
+          "primary_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "items": [
+            "e13e3ee20dd57843",
+            "3df1bad8a625e962",
+            "3ba6de219afe874e"
+          ],
+          "cover_path": "out/media/2026-06-20/company-00.jpg"
+        },
+        {
+          "importance": 8,
+          "headline": "推理公司Baseten融资15亿美元，估值130亿",
+          "summary": "AI推理初创公司Baseten距上一轮融资仅数月后，据报正以130亿美元估值完成15亿美元新一轮融资，“推理淘金热”持续升温。",
+          "primary_url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "items": [
+            "08b504438b73f109"
+          ],
+          "cover_path": "out/media/2026-06-20/company-01.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Amazon计划出售自研AI芯片，正面挑战Nvidia",
+          "summary": "AWS正在谈判向其他数据中心出售其自研AI芯片，CEO安迪·贾西称，这代表一个500亿美元的机会。",
+          "primary_url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+          "items": [
+            "a9877403565eb8fe"
+          ],
+          "cover_path": "out/media/2026-06-20/company-02.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Elastic以8500万美元收购AI调试初创DeductiveAI",
+          "summary": "Elastic已同意收购CRV支持的初创公司DeductiveAI，该公司用AI自动发现和解决软件Bug，收购金额最高达8500万美元。",
+          "primary_url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "items": [
+            "3421c2a78eea064b"
+          ],
+          "cover_path": "out/media/2026-06-20/company-03.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Snap分拆AI视频团队为新公司Dotmo",
+          "summary": "Snap将内部AI视频团队剥离，成立独立公司Dotmo，由离开Snap的员工组成，专注于AI视频开发。",
+          "primary_url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "items": [
+            "f47d4f2f1efdf8c7"
+          ],
+          "cover_path": "out/media/2026-06-20/company-04.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Meta员工对AI部门管理不满，士气持续低落",
+          "summary": "Wired报道Meta新成立的AI单位内部功能失调，导致员工士气进一步恶化。",
+          "primary_url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+          "items": [
+            "ee0443da47808313"
+          ],
+          "cover_path": "out/media/2026-06-20/company-05.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "亚马逊员工因批评数据中心扩张遭内部调查",
+          "summary": "3名亚马逊软件工程师因公开反对公司AI数据中心疯狂扩张并呼吁加强监管，正在面临内部调查，已向西雅图民权办公室投诉。",
+          "primary_url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+          "items": [
+            "49de81d4431f3581",
+            "aedc959e15515fd7"
+          ],
+          "cover_path": "out/media/2026-06-20/company-06.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "具身智能公司General Intuition拟融资3亿美元",
+          "summary": "据传General Intuition正以约20亿美元估值融资3亿美元，利用Medal每年20亿视频数据集训练具身AI与世界模型。",
+          "primary_url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+          "items": [
+            "c47d9ef557a6cd32"
+          ],
+          "cover_path": "out/media/2026-06-20/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "Subquadratic突破LLM上下文瓶颈：1200万token窗口",
+          "summary": "AI初创公司Subquadratic声称解决了困扰LLM近十年的数学瓶颈，推出1200万token上下文窗口，并在MIT TechReview和多家媒体报道。",
+          "primary_url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "items": [
+            "2d854d7e18474039",
+            "38acd5ae7c40fb50"
+          ],
+          "cover_path": "out/media/2026-06-20/research-00.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "OpenAI：小剂量“有益特性”训练使模型更安全",
+          "summary": "OpenAI研究发现，对AI模型进行少量“有益特性”训练可显著提升安全性、更难被操纵，该成果已发布。",
+          "primary_url": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/",
+          "items": [
+            "0820c75203bd91f6"
+          ],
+          "cover_path": "out/media/2026-06-20/research-01.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "全球首个人形机器人通用“小脑”发布",
+          "summary": "研究团队基于2万小时人类动作数据训练出人形机器人通用小脑，实现零样本泛化，迈入“GPT时代”。",
+          "primary_url": "https://www.qbitai.com/2026/06/436813.html",
+          "items": [
+            "2e8df43ef3e4b10f"
+          ],
+          "cover_path": "out/media/2026-06-20/research-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Multi-LCB：LiveCodeBench扩展多语言编程基准",
+          "summary": "新工作将流行的代码生成基准LiveCodeBench扩展至多种编程语言，更全面评估LLM的代码能力。",
+          "primary_url": "http://arxiv.org/abs/2606.20517v1",
+          "items": [
+            "fa71b5740b97df8d"
+          ],
+          "cover_path": "out/media/2026-06-20/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "OpenAI为ChatGPT Enterprise推出用量分析与控制",
+          "summary": "OpenAI发布新的企业支出控制与使用分析功能，帮助组织管理成本并自信地扩展AI应用。",
+          "primary_url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "items": [
+            "74e54ac31f358b7d"
+          ]
+        },
+        {
+          "importance": 7,
+          "headline": "Anthropic将Artifacts引入Claude Code，支持团队共享",
+          "summary": "Anthropic为Claude Code新增Artifacts功能，允许开发团队在编码会话中创建和共享实时交互页面。",
+          "primary_url": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/",
+          "items": [
+            "e2c2953da27797d1",
+            "4e81f05da7655d07"
+          ],
+          "cover_path": "out/media/2026-06-20/product-01.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Cursor 1.5T新模型弃用Kimi基座，马斯克收购传闻",
+          "summary": "Cursor推出1.5万亿参数新模型并放弃原有Kimi基座；同时传闻马斯克以600亿美元股票收购Cursor并剑指微软GitHub。",
+          "primary_url": "https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc",
+          "items": [
+            "f8dc9b0b7afef99d"
+          ],
+          "cover_path": "out/media/2026-06-20/product-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Pixi iOS应用：文字消息秒变AR互动体验",
+          "summary": "Pixi推出新iOS应用，将文本消息转化为互动增强现实体验，旨在革新消息交互方式。",
+          "primary_url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+          "items": [
+            "1acfbd6d311cbfb8"
+          ],
+          "cover_path": "out/media/2026-06-20/product-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Karamo Brown推出AI数字克隆健康应用Kē",
+          "summary": "《粉雄救兵》生活教练Karamo Brown发布健康应用Kē，内含其AI数字克隆，提供个性化指导。",
+          "primary_url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+          "items": [
+            "0b58d0a1300df641"
+          ],
+          "cover_path": "out/media/2026-06-20/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "importance": 9,
+          "headline": "美国政府禁令Anthropic Fable 5，AI出口管制升级",
+          "summary": "美国以国家安全为由强制Anthropic撤回最新模型Fable 5和Mythos 5，引发对AI监管和出口控制的广泛讨论，Anthropic承诺加强政府沟通。",
+          "primary_url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+          "items": [
+            "8c2863629252c31d",
+            "d858c2497f4cef11",
+            "36b8f472d5179f94",
+            "a08e9142ca7ef1be",
+            "ca051c02300b7747",
+            "04d58d1dc43185d1",
+            "e3fde8cd38152e0c",
+            "40a1e11e7b0a548c"
+          ],
+          "cover_path": "out/media/2026-06-20/opinion-00.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "FERC下令：AI数据中心获电网加速接入权",
+          "summary": "美国联邦能源监管委员会要求电网运营商为AI数据中心提供互联快速通道，但未解决电力供应短缺问题。",
+          "primary_url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+          "items": [
+            "8e23dde360ac09a9",
+            "9cd033270dae0dac"
+          ],
+          "cover_path": "out/media/2026-06-20/opinion-01.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "挪威禁止小学使用生成式AI，保护基础技能",
+          "summary": "挪威教育部宣布禁止在小学阶段使用生成式AI工具，以防止对儿童基本学习能力产生负面影响。",
+          "primary_url": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
+          "items": [
+            "0db240f52efc4ad8"
+          ],
+          "cover_path": "out/media/2026-06-20/opinion-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "美国近半数单身人士对AI交友持负面态度",
+          "summary": "Match集团调查显示47%美国单身人士反感AI参与约会，但部分人愿意接受AI帮助优化个人资料和开场白。",
+          "primary_url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+          "items": [
+            "50ec1eb0507db434"
+          ],
+          "cover_path": "out/media/2026-06-20/opinion-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "慢科技运动：用设计夺回被智能手机劫持的注意力",
+          "summary": "面对智能手机时代的注意力危机，慢科技产品通过限制通知、简化界面等方式帮助用户掌控时间和生活。",
+          "primary_url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+          "items": [
+            "0f541feb231a4f6d"
+          ],
+          "cover_path": "out/media/2026-06-20/opinion-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "Netflix开源工具：砍掉90%冗余token，省下70万美元",
+          "summary": "Netflix开源一款AI Token优化工具，帮助减少90%的无用Token，每年节省高达70万美元推理成本。",
+          "primary_url": "https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG",
+          "items": [
+            "2468aa5c2bd07ca0"
+          ],
+          "cover_path": "out/media/2026-06-20/opensource-00.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "开源编码代理Kilo发布：全能工程平台",
+          "summary": "Kilo-Org开源了Kilo，一个面向代理的工程平台，支持构建、部署和迭代，包含流行的开源编码代理。",
+          "primary_url": "https://github.com/Kilo-Org/kilocode",
+          "items": [
+            "59a98d7aab1c22d6"
+          ]
+        },
+        {
+          "importance": 5,
+          "headline": "Vercel开源Zero-Native：基于Zig的跨平台框架",
+          "summary": "Vercel Labs开源Zero-Native，一个使用Zig语言的跨平台原生应用框架，支持高性能开发。",
+          "primary_url": "https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4",
+          "items": [
+            "0320ce4ec0dfd1c3"
+          ],
+          "cover_path": "out/media/2026-06-20/opensource-02.jpg"
+        }
+      ]
+    }
+  ]
+}
