@@ -1,0 +1,385 @@
+{
+  "date": "2026-06-22",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "开源模型Apertus发布，面向主权AI",
+          "summary": "Apertus项目发布开放基础模型，旨在支持主权AI需求，降低对闭源模型的依赖。",
+          "importance": 6,
+          "primary_url": "https://apertvs.ai/",
+          "items": [
+            "7339e29f76f25848"
+          ]
+        },
+        {
+          "headline": "Argus Red推出渗透测试专用模型，绕过安全限制",
+          "summary": "初创公司Argus Red发布后训练模型，专门用于渗透测试，拒绝安全限制，面向中小企业。",
+          "importance": 6,
+          "primary_url": "https://www.argusred.com/cli",
+          "items": [
+            "32096d68b1f6c287"
+          ],
+          "cover_path": "out/media/2026-06-22/model_release-01.jpg"
+        },
+        {
+          "headline": "Poolside发布Laguna模型，面向智能编码",
+          "summary": "Poolside推出Laguna基础模型，专注于长周期代理编码任务。",
+          "importance": 5,
+          "primary_url": "https://www.producthunt.com/products/poolside",
+          "items": [
+            "49f9d785971300f1"
+          ]
+        },
+        {
+          "headline": "Google开源TimesFM时序基础模型",
+          "summary": "Google Research开源TimesFM，一个预训练的时序基础模型用于预测。",
+          "importance": 5,
+          "primary_url": "https://github.com/google-research/timesfm",
+          "items": [
+            "d8c2427f278e100b"
+          ],
+          "cover_path": "out/media/2026-06-22/model_release-03.jpg"
+        },
+        {
+          "headline": "LTX-2开源音频-视频生成模型",
+          "summary": "Lightricks发布LTX-2，开源音频-视频生成模型，提供推理和LoRA训练工具。",
+          "importance": 5,
+          "primary_url": "https://github.com/Lightricks/LTX-2",
+          "items": [
+            "3115031911235249"
+          ],
+          "cover_path": "out/media/2026-06-22/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "诺贝尔奖得主John Jumper从DeepMind跳槽Anthropic",
+          "summary": "AlphaFold核心人物、诺贝尔化学奖得主John Jumper离开Google DeepMind，加入竞争对手Anthropic。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+          "items": [
+            "952e3028db8e56a2"
+          ],
+          "cover_path": "out/media/2026-06-22/company-00.jpg"
+        },
+        {
+          "headline": "特朗普政府打压Anthropic，引发生态担忧",
+          "summary": "特朗普政府对Anthropic采取最新行动，TechCrunch分析此举对AI生态的影响。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "items": [
+            "69e08ebba84ad1ba"
+          ],
+          "cover_path": "out/media/2026-06-22/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic要求Claude用户身份验证",
+          "summary": "Anthropic开始要求Claude用户进行身份验证，引发隐私和可用性讨论。",
+          "importance": 8,
+          "primary_url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "items": [
+            "0cb514a44c8bcc38"
+          ],
+          "cover_path": "out/media/2026-06-22/company-02.jpg"
+        },
+        {
+          "headline": "英伟达加大机器人自研究力度，推动token消耗",
+          "summary": "英伟达开始让机器人自己研究机器人技术，旨在促进算力消耗。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/06/437041.html",
+          "items": [
+            "bb069baad7ea2d98"
+          ]
+        },
+        {
+          "headline": "具身智能赛道融资超预期，半数资金流向大脑",
+          "summary": "2026年尚未过半，具身智能融资额已接近去年全年，超过一半资本流入机器人“大脑”技术。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/06/437198.html",
+          "items": [
+            "5ca48b030573d4f1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "研究揭示AI导致学生成绩通胀，归因于外包作业",
+          "summary": "UC Berkeley研究指出，AI使成绩虚高，效果来自学生使用AI完成作业而非真正学习。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
+          "items": [
+            "6420b7dd20983ba6"
+          ],
+          "cover_path": "out/media/2026-06-22/research-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI Codex可观看操作一次后永久重复任务",
+          "summary": "OpenAI升级Codex，新增“观看-重复”功能，可学习用户操作流程并自动化执行。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+          "items": [
+            "aa15548267c85007"
+          ],
+          "cover_path": "out/media/2026-06-22/product-00.jpg"
+        },
+        {
+          "headline": "Cloudflare推出AI代理临时账户功能",
+          "summary": "Cloudflare发布临时账户服务，专为AI代理设计，简化自动化场景的安全访问。",
+          "importance": 8,
+          "primary_url": "https://blog.cloudflare.com/temporary-accounts/",
+          "items": [
+            "0d5d0e3ba6f877cf",
+            "63508acf69cf65be"
+          ],
+          "cover_path": "out/media/2026-06-22/product-01.jpg"
+        },
+        {
+          "headline": "AWS发布两项新服务，补齐AI代理安全与业务上下文",
+          "summary": "AWS推出服务以解决AI代理缺乏业务上下文和安全性的问题，提升企业采用率。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+          "items": [
+            "161add8c6abf7897"
+          ],
+          "cover_path": "out/media/2026-06-22/product-02.jpg"
+        },
+        {
+          "headline": "iOS 27加入实用AI功能，不止Siri升级",
+          "summary": "苹果iOS 27在Siri之外，带来一系列实用AI特性，覆盖日常操作。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "items": [
+            "c21d43402f623af1"
+          ],
+          "cover_path": "out/media/2026-06-22/product-03.jpg"
+        },
+        {
+          "headline": "微信AI助手“小微”小范围灰度上线",
+          "summary": "微信原生AI助手“小微”开始灰度测试，支持文字/语音操作微信功能和调起小程序。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/3862458180359424?f=rss",
+          "items": [
+            "4431a4be04cb40b4"
+          ],
+          "cover_path": "out/media/2026-06-22/product-04.jpg"
+        },
+        {
+          "headline": "In the Weights推出AI虚荣搜索，可查询个人AI影响力",
+          "summary": "新工具In the Weights允许用户查看自己的AI中心“分数”，类似AI圈的虚荣搜索。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "items": [
+            "50178124c6e571c2"
+          ],
+          "cover_path": "out/media/2026-06-22/product-05.jpg"
+        },
+        {
+          "headline": "Cloudback MCP Server：从Claude管理备份",
+          "summary": "Cloudback发布MCP服务器，允许通过Claude、Cursor和VS Code管理备份。",
+          "importance": 4,
+          "primary_url": "https://www.producthunt.com/products/cloudback",
+          "items": [
+            "ddf47251c9574222"
+          ]
+        },
+        {
+          "headline": "Agent 37 Cloud：为每位客户提供Hermes或OpenClaw代理",
+          "summary": "Agent 37 Cloud推出服务，允许企业为每个客户部署个性化AI代理。",
+          "importance": 4,
+          "primary_url": "https://www.producthunt.com/products/agent-37-38",
+          "items": [
+            "fbf8e0057291c85d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Sam Altman抨击一代研究员低估Scaling潜力",
+          "summary": "OpenAI CEO Sam Altman在斯坦福演讲表示，许多研究者因低估Scaling能力而阻碍了AI进步。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
+          "items": [
+            "04ffbe715ea10154"
+          ],
+          "cover_path": "out/media/2026-06-22/opinion-00.jpg"
+        },
+        {
+          "headline": "Signal总裁警告：AI聊天机器人不是你的朋友",
+          "summary": "Signal总裁Meredith Whittaker公开提醒用户，AI聊天机器人只是工具，不是有意识的伙伴。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "items": [
+            "f4750969fddea7ff"
+          ],
+          "cover_path": "out/media/2026-06-22/opinion-01.jpg"
+        },
+        {
+          "headline": "NYU教授警告AI泡沫破灭将比互联网泡沫更惨",
+          "summary": "知名金融教授Damodaran预测AI泡沫破裂时冲击将超过2000年互联网崩盘。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+          "items": [
+            "c2c89e32701d5e75"
+          ],
+          "cover_path": "out/media/2026-06-22/opinion-02.jpg"
+        },
+        {
+          "headline": "欧盟对深度伪造定义模糊，成零售业难题",
+          "summary": "欧洲电商协会指出，EU对深度伪造缺乏清晰定义，导致零售业合规风险。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+          "items": [
+            "1f332c76a750ff06"
+          ],
+          "cover_path": "out/media/2026-06-22/opinion-03.jpg"
+        },
+        {
+          "headline": "陶哲轩12年前预言成真，AI成最强推手",
+          "summary": "陶哲轩多年前对AI的预测如今被证实，他成为AI最热忱的布道者之一。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/06/437023.html",
+          "items": [
+            "150fa525cf726599"
+          ],
+          "cover_path": "out/media/2026-06-22/opinion-04.jpg"
+        },
+        {
+          "headline": "AI破环招聘漏斗，HBR提出解决方案",
+          "summary": "哈佛商业评论文章指出AI已破坏早期招聘流程，提出修复建议。",
+          "importance": 5,
+          "primary_url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+          "items": [
+            "df101b996971ce07"
+          ],
+          "cover_path": "out/media/2026-06-22/opinion-05.jpg"
+        },
+        {
+          "headline": "AI的10万个为什么：深度思考AI的未知",
+          "summary": "专栏文章探讨AI领域尚未解答的众多根本问题，呼吁更多基础研究。",
+          "importance": 5,
+          "primary_url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+          "items": [
+            "62ac32cbd2522f1f"
+          ]
+        },
+        {
+          "headline": "拒绝AI生成代码即使它正确：工程师的坚持",
+          "summary": "博客文章讨论为何有时会拒绝AI生成的代码，尽管代码工作正常。",
+          "importance": 4,
+          "primary_url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+          "items": [
+            "e6178a23c59ba074"
+          ],
+          "cover_path": "out/media/2026-06-22/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenMontage：开源代理视频制作系统",
+          "summary": "OpenMontage被认为是全球首个开源代理视频制作系统，包含12条流水线、52个工具和500+代理技能。",
+          "importance": 7,
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-00.jpg"
+        },
+        {
+          "headline": "Codebase Memory MCP：高性能代码智能MCP服务器",
+          "summary": "DeusData开源Codebase Memory MCP，索引代码库为知识图谱，支持158种语言，查询毫秒级。",
+          "importance": 6,
+          "primary_url": "https://github.com/DeusData/codebase-memory-mcp",
+          "items": [
+            "40311af203085190"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-01.jpg"
+        },
+        {
+          "headline": "Headroom：LLM压缩工具，减少60-95% tokens",
+          "summary": "Headroom是一个开源工具，可压缩工具输出、日志、文件等，平均节省80% tokens而不影响答案。",
+          "importance": 6,
+          "primary_url": "https://github.com/chopratejas/headroom",
+          "items": [
+            "89b8f4386eac790c"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-02.jpg"
+        },
+        {
+          "headline": "Voicebox：开源AI语音工作室，支持克隆和创作",
+          "summary": "Voicebox是一个开源AI语音工作室，具备语音克隆、听写和创作功能。",
+          "importance": 6,
+          "primary_url": "https://github.com/jamiepine/voicebox",
+          "items": [
+            "e641a58fd66ca6ff"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-03.jpg"
+        },
+        {
+          "headline": "Kilo：开源全功能代理工程平台",
+          "summary": "Kilo是集成的代理工程平台，提供最流行的开源编码代理，加速构建和迭代。",
+          "importance": 6,
+          "primary_url": "https://github.com/Kilo-Org/kilocode",
+          "items": [
+            "59a98d7aab1c22d6"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-04.jpg"
+        },
+        {
+          "headline": "Unsloth Studio：开源AI模型训练Web UI",
+          "summary": "Unsloth Studio提供Web界面，用于训练和运行Gemma 4、Qwen3.6、DeepSeek等开源模型。",
+          "importance": 6,
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-05.jpg"
+        },
+        {
+          "headline": "Slime：LLM后训练强化学习框架",
+          "summary": "清华THUDM开源Slime，一个面向RL Scaling的LLM后训练框架。",
+          "importance": 6,
+          "primary_url": "https://github.com/THUDM/slime",
+          "items": [
+            "45e3b773d4fc96e7"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-06.jpg"
+        },
+        {
+          "headline": "STORM：LLM驱动的知识策展系统",
+          "summary": "斯坦福开源STORM，利用LLM研究主题并生成带引用的完整报告。",
+          "importance": 5,
+          "primary_url": "https://github.com/stanford-oval/storm",
+          "items": [
+            "598be706d5e083ce"
+          ],
+          "cover_path": "out/media/2026-06-22/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
