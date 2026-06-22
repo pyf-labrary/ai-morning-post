@@ -1,0 +1,457 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 Daybreak 安全工具与 GPT-5.5-Cyber",
+          "summary": "OpenAI 推出 Daybreak 系列，包括 Codex Security 和 GPT-5.5-Cyber，用于大规模发现、验证和修补漏洞。",
+          "primary_url": "https://openai.com/index/daybreak-securing-the-world",
+          "importance": 9,
+          "items": [
+            "0bc232443f0b9a3d",
+            "21601e5f46ecab09"
+          ]
+        },
+        {
+          "headline": "Sakana AI 推出 Fugu 多模型协作系统",
+          "summary": "日本 AI 初创公司 Sakana AI 的 Fugu 可编排多个大语言模型，匹配 Anthropic 的 Fable 和 Mythos 基准。",
+          "primary_url": "https://sakana.ai/fugu/",
+          "importance": 6,
+          "items": [
+            "54a09d97e107f335",
+            "213fb35bcf6b1c7"
+          ],
+          "cover_path": "out/media/2026-06-23/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里发布视频生成模型 HappyHorse 1.1",
+          "summary": "阿里巴巴发布 HappyHorse 1.1，在动态表现、主体一致性、指令遵循等五大维度全面升级。",
+          "primary_url": "https://www.qbitai.com/2026/06/437317.html",
+          "importance": 6,
+          "items": [
+            "9f1f24e36b04045c",
+            "cecad33f8ac23aca"
+          ],
+          "cover_path": "out/media/2026-06-23/model_release-02.jpg"
+        },
+        {
+          "headline": "xAI 发布 Grok Skills 并更新 Responses API",
+          "summary": "xAI 推出 Grok Skills 功能，并更新用于工具调用的 Responses API。",
+          "primary_url": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2",
+          "importance": 6,
+          "items": [
+            "bb951632ab957b24"
+          ],
+          "cover_path": "out/media/2026-06-23/model_release-03.jpg"
+        },
+        {
+          "headline": "PP-OCRv6 登陆 Hugging Face，支持 50 种语言",
+          "summary": "PaddlePaddle 的 PP-OCRv6 模型在 Hugging Face 发布，参数从 1.5M 到 34.5M，覆盖 50 种语言。",
+          "primary_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+          "importance": 5,
+          "items": [
+            "1b35cc779bd8e3a4"
+          ],
+          "cover_path": "out/media/2026-06-23/model_release-04.jpg"
+        },
+        {
+          "headline": "Moebius：0.2B 参数图像修复模型达到 10B 级性能",
+          "summary": "HUST-VL 团队发布 Moebius，0.2B 参数的图像修复模型，性能媲美 10B 级模型。",
+          "primary_url": "https://hustvl.github.io/Moebius/",
+          "importance": 5,
+          "items": [
+            "a1926f248af14944"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI 启动 Patch the Planet 开源安全倡议",
+          "summary": "OpenAI 推出 Patch the Planet，帮助开源维护者用 AI 和专家审查修复漏洞。",
+          "primary_url": "https://openai.com/index/patch-the-planet",
+          "importance": 8,
+          "items": [
+            "d5a4b1d2c0153c6d"
+          ]
+        },
+        {
+          "headline": "三星大规模部署 ChatGPT Enterprise 和 Codex",
+          "summary": "三星电子在全球员工中部署 ChatGPT Enterprise 和 Codex，是 OpenAI 最大企业级部署之一。",
+          "primary_url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+          "importance": 7,
+          "items": [
+            "c63e8fed31e30751",
+            "b10b65f3592fd246"
+          ]
+        },
+        {
+          "headline": "NVIDIA 在 ISC 2026 发布多项 AI 科学计算新品",
+          "summary": "NVIDIA 宣布 JUPITER 超算、Vera CPU、AI 科学软件、液冷技术及波能 AI 数字化双胞胎等。",
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+          "importance": 7,
+          "items": [
+            "2108a616cbba36d6",
+            "447ae7d9241bf547",
+            "5477a932635b2bc3",
+            "8654721c5ef58d0b",
+            "74e51d6515c96583",
+            "e062690eb8e3b790"
+          ],
+          "cover_path": "out/media/2026-06-23/company-02.jpg"
+        },
+        {
+          "headline": "Google DeepMind 向 A24 投资 7500 万美元合作 AI 电影",
+          "summary": "谷歌旗下 DeepMind 与独立电影公司 A24 建立 AI 研究合作，投资 7500 万美元。",
+          "primary_url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "importance": 7,
+          "items": [
+            "95bd5f32a1f66412",
+            "9b854ddc83b7b082",
+            "a64f6fd094e5f3f5"
+          ],
+          "cover_path": "out/media/2026-06-23/company-03.jpg"
+        },
+        {
+          "headline": "高通接近 40 亿美元收购 AI 芯片初创公司 Modular",
+          "summary": "高通正深入谈判收购 Modular Inc.，估值约 40 亿美元，最快数周内宣布。",
+          "primary_url": "https://36kr.com/newsflashes/3864943365756162",
+          "importance": 7,
+          "items": [
+            "22500f4cd605ace0"
+          ],
+          "cover_path": "out/media/2026-06-23/company-04.jpg"
+        },
+        {
+          "headline": "AI 芯片公司 Groq 确认 6.5 亿美元融资并重新招聘",
+          "summary": "Groq 在 NVIDIA 20 亿美元非收购交易后完成 6.5 亿美元融资，加强云业务和招聘。",
+          "primary_url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "importance": 7,
+          "items": [
+            "752f91a3860774a9"
+          ],
+          "cover_path": "out/media/2026-06-23/company-05.jpg"
+        },
+        {
+          "headline": "LiblibAI 母公司完成近 3 亿美元融资",
+          "summary": "AI 应用公司 LiblibAI 母公司完成近 3 亿美元融资，反映 AI 应用层进入收入说话阶段。",
+          "primary_url": "https://www.leiphone.com/category/ai/M6tymyAI0col1cpj.html",
+          "importance": 7,
+          "items": [
+            "d3ccd58e4b456a83"
+          ]
+        },
+        {
+          "headline": "微软在德州建 2GW 数据中心，自建天然气厂",
+          "summary": "微软计划在德州建设 2 吉瓦数据中心，配备自有天然气发电厂绕过电网，并与雪佛龙签署 20 年电力协议。",
+          "primary_url": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/",
+          "importance": 7,
+          "items": [
+            "58e979ecccb80231",
+            "d230139beedf9053"
+          ],
+          "cover_path": "out/media/2026-06-23/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "清华开源空间模型：长视频持续学习空间智能",
+          "summary": "清华大学团队开源空间模型，能在 120 分钟长视频中持续学习空间变化，入选 ECCV 2026。",
+          "primary_url": "https://www.qbitai.com/2026/06/437235.html",
+          "importance": 6,
+          "items": [
+            "33112fff72b874b2"
+          ],
+          "cover_path": "out/media/2026-06-23/research-00.jpg"
+        },
+        {
+          "headline": "研究揭示 AI 导致学生成绩通胀，指向代写而非学习",
+          "summary": "UC Berkeley 研究发现 AI 工具导致学生成绩通胀，效果主要源于作业外包而非能力提升。",
+          "primary_url": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
+          "importance": 6,
+          "items": [
+            "6420b7dd20983ba6"
+          ],
+          "cover_path": "out/media/2026-06-23/research-01.jpg"
+        },
+        {
+          "headline": "提示注入攻击可视为角色混淆问题",
+          "summary": "新论文将提示注入攻击形式化为角色混淆，提供系统性分析框架（arXiv）。",
+          "primary_url": "https://role-confusion.github.io",
+          "importance": 5,
+          "items": [
+            "576f404126297062"
+          ],
+          "cover_path": "out/media/2026-06-23/research-02.jpg"
+        },
+        {
+          "headline": "TIRx：面向前沿 ML 内核的开源编译器栈",
+          "summary": "Apache TVM 社区发布 TIRx，一个用于高效前沿 ML 内核的开源编译器栈。",
+          "primary_url": "https://tvm.apache.org/2026/06/22/tirx",
+          "importance": 5,
+          "items": [
+            "9837db9139dbe7f9"
+          ]
+        },
+        {
+          "headline": "恩和科技发布 BPL 语言，定义生物制造编译器",
+          "summary": "恩和科技在 bioRxiv 发布 Biology Protocol Language (BPL) 及其生成管线 BPL-COGEN，打通生物实验协议形式化语言。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/YWWglepflccEwGzS.html",
+          "importance": 5,
+          "items": [
+            "20c56b086107d181"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Cloudflare 推出面向 AI 代理的临时账户",
+          "summary": "Cloudflare 允许 AI 代理在注册前部署资源，简化开发者入门流程。",
+          "primary_url": "https://blog.cloudflare.com/temporary-accounts/",
+          "importance": 6,
+          "items": [
+            "0d5d0e3ba6f877cf",
+            "cc2818964266b5e2"
+          ],
+          "cover_path": "out/media/2026-06-23/product-00.jpg"
+        },
+        {
+          "headline": "奇安信发布 AI 时代全栈安全产品矩阵",
+          "summary": "奇安信推出多款 AI 防御产品，针对 AI 驱动的网络攻击，进入 AI 智能体对抗时代。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/Qf46ogEyAl3ohR5s.html",
+          "importance": 6,
+          "items": [
+            "7787451ce1b20e17"
+          ]
+        },
+        {
+          "headline": "亚马逊测试 Alexa+ 印度版，支持印地语",
+          "summary": "亚马逊在印度测试 Alexa+ 印地语版本，扩大新 AI 助手覆盖范围。",
+          "primary_url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+          "importance": 6,
+          "items": [
+            "f42a194dfeaef6db"
+          ],
+          "cover_path": "out/media/2026-06-23/product-02.jpg"
+        },
+        {
+          "headline": "iOS 27 实用 AI 功能盘点：不止 Siri",
+          "summary": "WWDC 发布的 iOS 27 带来多项实用 AI 功能，涵盖照片、消息、健康等领域。",
+          "primary_url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "importance": 6,
+          "items": [
+            "c21d43402f623af1"
+          ],
+          "cover_path": "out/media/2026-06-23/product-03.jpg"
+        },
+        {
+          "headline": "OpenAI 分享 Codex 长期任务使用技巧",
+          "summary": "OpenAI 发布 Codex-maxxing 指南，演示如何利用 Codex 管理复杂长期项目。",
+          "primary_url": "https://openai.com/index/codex-maxxing-long-running-work",
+          "importance": 5,
+          "items": [
+            "47b68be7f4b1e514"
+          ]
+        },
+        {
+          "headline": "Palmier Pro：专为 AI 打造的 macOS 视频编辑器",
+          "summary": "开源 macOS 视频编辑器 Palmier Pro 上线，内置 AI 工作流支持。",
+          "primary_url": "https://github.com/palmier-io/palmier-pro",
+          "importance": 5,
+          "items": [
+            "5e0e1605c82b8e07"
+          ],
+          "cover_path": "out/media/2026-06-23/product-05.jpg"
+        },
+        {
+          "headline": "钉钉 AI 录音设备 A1 获三大平台销量冠军",
+          "summary": "钉钉 A1 在天猫、抖音、京东 AI 录音设备品类销量第一。",
+          "primary_url": "https://www.qbitai.com/2026/06/437308.html",
+          "importance": 4,
+          "items": [
+            "655899f76c5fb8cf"
+          ],
+          "cover_path": "out/media/2026-06-23/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Anthropic 如何自我引发 AI 出口禁令",
+          "summary": "分析人士称 Anthropic 对 AI 危险的强调远超 OpenAI，可能促使特朗普政府对其限制。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+          "importance": 7,
+          "items": [
+            "6f8955088173dd49",
+            "2a894471c6159afb"
+          ],
+          "cover_path": "out/media/2026-06-23/opinion-00.jpg"
+        },
+        {
+          "headline": "五眼联盟：前沿 AI 数月内重塑进攻性网络能力",
+          "summary": "五眼情报联盟警告，前沿 AI 模型可能在短期内极大改变进攻性网络作战形态。",
+          "primary_url": "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/",
+          "importance": 7,
+          "items": [
+            "e3a21961007000ea"
+          ],
+          "cover_path": "out/media/2026-06-23/opinion-01.jpg"
+        },
+        {
+          "headline": "吴恩达戳破 AI 幻象：未来属于 10 人小队加 Agent",
+          "summary": "吴恩达指出 AI 炒作过度，未来公司形态是 10 人团队配合 Agent 重做数据架构。",
+          "primary_url": "https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy",
+          "importance": 6,
+          "items": [
+            "d39cf1d9c71a090d"
+          ],
+          "cover_path": "out/media/2026-06-23/opinion-02.jpg"
+        },
+        {
+          "headline": "Vibecoding 成为软件收购的试金石",
+          "summary": "文章分析 Vibecoding（直觉式编程）正成为软件公司收购尽职调查中的关键评估项。",
+          "primary_url": "https://the-decoder.com/vibecoding-is-becoming-a-deal-breaker-test-for-software-acquisitions/",
+          "importance": 6,
+          "items": [
+            "af6cdd89f01efd07"
+          ],
+          "cover_path": "out/media/2026-06-23/opinion-03.jpg"
+        },
+        {
+          "headline": "Geohot：估值由末日焦虑驱动",
+          "summary": "George Hotz 发文称当前 AI 公司高估值由对 AGI 末日的恐惧而非理性预期驱动。",
+          "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
+          "importance": 6,
+          "items": [
+            "38fdbfc6e80986e8"
+          ]
+        },
+        {
+          "headline": "Red-Teaming 后 Mythos 时代：Gray Swan 对话",
+          "summary": "Latent Space 对话 OpenAI 董事会成员 Zico Kolter 和 Gray Swan CEO，探讨 AI 安全与红队。",
+          "primary_url": "https://www.latent.space/p/gray-swan",
+          "importance": 6,
+          "items": [
+            "5d100a6dd06a10c0"
+          ],
+          "cover_path": "out/media/2026-06-23/opinion-05.jpg"
+        },
+        {
+          "headline": "转向开源模型几乎无损失",
+          "summary": "文章论证切换到开源 AI 模型的成本很低，建议企业取消闭源订阅。",
+          "primary_url": "https://www.marble.onl/posts/cancel_claude.html",
+          "importance": 5,
+          "items": [
+            "850fc293f1e701fb"
+          ]
+        },
+        {
+          "headline": "Claude Code 扩展思维输出并非真实思维",
+          "summary": "分析指出 Claude Code 的“扩展思维”输出是生成的文本，并非真实推理过程。",
+          "primary_url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+          "importance": 5,
+          "items": [
+            "0d2667ac48534ad3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "sqlite-utils 4.0rc1 新增迁移和嵌套事务",
+          "summary": "Simon Willison 的 sqlite-utils Python 库发布 4.0rc1，支持数据库迁移和嵌套事务。",
+          "primary_url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/",
+          "importance": 6,
+          "items": [
+            "bd0df489bca2d3fa",
+            "10d3c9d6235ec725"
+          ]
+        },
+        {
+          "headline": "Oak：专为 AI 代理设计的 Git 替代方案",
+          "summary": "开源版本控制系统 Oak，针对 AI 代理使用场景优化速度和上下文管理。",
+          "primary_url": "https://oak.space/oak/oak",
+          "importance": 6,
+          "items": [
+            "04bce94a5c44d5c5"
+          ],
+          "cover_path": "out/media/2026-06-23/opensource-01.jpg"
+        },
+        {
+          "headline": "codebase-memory-mcp：高性能代码知识图 MCP 服务器",
+          "summary": "开源 MCP 服务器，将代码库索引为知识图谱，支持 158 种语言，毫秒级查询。",
+          "primary_url": "https://github.com/DeusData/codebase-memory-mcp",
+          "importance": 6,
+          "items": [
+            "40311af203085190"
+          ],
+          "cover_path": "out/media/2026-06-23/opensource-02.jpg"
+        },
+        {
+          "headline": "字节跳动开源 deer-flow：长期任务 SuperAgent 框架",
+          "summary": "字节跳动开源 deer-flow，支持研究、编码、创作等需要数分钟至数小时的长期任务。",
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "importance": 6,
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "cover_path": "out/media/2026-06-23/opensource-03.jpg"
+        },
+        {
+          "headline": "Recall：Claude Code 本地项目记忆工具",
+          "summary": "开源工具 Recall 为 Claude Code 提供本地持久化项目记忆。",
+          "primary_url": "https://github.com/raiyanyahya/recall",
+          "importance": 5,
+          "items": [
+            "96d0003e361172c3"
+          ],
+          "cover_path": "out/media/2026-06-23/opensource-04.jpg"
+        },
+        {
+          "headline": "free-claude-code：免费使用 Claude Code 和 Codex",
+          "summary": "开源项目使开发者能在终端、VS Code 扩展和 Discord 中免费使用 Claude Code 和 Codex。",
+          "primary_url": "https://github.com/Alishahryar1/free-claude-code",
+          "importance": 5,
+          "items": [
+            "be81c94b33d33e86"
+          ],
+          "cover_path": "out/media/2026-06-23/opensource-05.jpg"
+        },
+        {
+          "headline": "headroom：压缩 LLM 输入的 token 节省 60-95%",
+          "summary": "开源库 headroom 可压缩工具输出、日志等，减少 LLM token 用量而答案不变。",
+          "primary_url": "https://github.com/chopratejas/headroom",
+          "importance": 5,
+          "items": [
+            "89b8f4386eac790c"
+          ],
+          "cover_path": "out/media/2026-06-23/opensource-06.jpg"
+        },
+        {
+          "headline": "system_prompts_leaks：收集的 AI 模型系统提示",
+          "summary": "GitHub 仓库收集了 Claude、ChatGPT、Gemini、Grok 等多个模型的系统提示泄漏。",
+          "primary_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "importance": 5,
+          "items": [
+            "00bcd6705cb476e7"
+          ],
+          "cover_path": "out/media/2026-06-23/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-23"
+}
