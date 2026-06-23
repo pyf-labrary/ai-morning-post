@@ -1,0 +1,406 @@
+{
+  "date": "2026-06-24",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI推GPT-5.5-Cyber抢攻网络安全，开源修补计划启动",
+          "summary": "OpenAI发布专精网络安全的GPT-5.5-Cyber，在基准测试中超越Anthropic Mythos；同时启动“Patch the Planet”计划，用AI修复开源软件漏洞。",
+          "primary_url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+          "importance": 9,
+          "items": [
+            "218063774b93f769",
+            "21601e5f46ecab09",
+            "c034390ab92e7af5",
+            "3b45b1df45d255e6"
+          ],
+          "cover_path": "out/media/2026-06-24/model_release-00.jpg"
+        },
+        {
+          "headline": "Cursor推出自研代码模型，新Git平台与移动端齐发",
+          "summary": "AI编程工具Cursor发布自家AI模型，同时推出全新Git平台和移动应用，向集成开发环境平台化发展。",
+          "primary_url": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/",
+          "importance": 8,
+          "items": [
+            "9ac55a67601b04aa"
+          ],
+          "cover_path": "out/media/2026-06-24/model_release-01.jpg"
+        },
+        {
+          "headline": "字节发布Seedance 2.5，AI视频时长达30秒",
+          "summary": "ByteDance的Seedance 2.5视频生成模型突破30秒时长限制，在质量与时长上达到新高度。",
+          "primary_url": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/",
+          "importance": 7,
+          "items": [
+            "4cda0bc168069d68"
+          ],
+          "cover_path": "out/media/2026-06-24/model_release-02.jpg"
+        },
+        {
+          "headline": "字节跳动豆包2.1发布，Agent自主执行芯片设计",
+          "summary": "字节跳动旗下豆包模型升级至2.1版本，Agent可自主运行18小时完成芯片设计代码编写，编程能力接近Opus 4.7。",
+          "primary_url": "https://www.qbitai.com/2026/06/437503.html",
+          "importance": 7,
+          "items": [
+            "b0689a9428d3ca56"
+          ],
+          "cover_path": "out/media/2026-06-24/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Meta员工数据泄露，紧急暂停AI跟踪计划",
+          "summary": "Meta内部员工键盘数据暴露，引发隐私担忧，公司被迫暂停备受争议的员工追踪项目，该计划原用于训练AI模型。",
+          "primary_url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+          "importance": 8,
+          "items": [
+            "ed914fc81b20f6a7",
+            "2861fc5f815e1c5d",
+            "a6a910abf223d93d",
+            "4bf038c137155c3c"
+          ],
+          "cover_path": "out/media/2026-06-24/company-00.jpg"
+        },
+        {
+          "headline": "Google DeepMind联手A24，斥7500万探索AI电影制作",
+          "summary": "Google DeepMind与电影公司A24达成合作，投入7500万美元共同研发AI电影制作工具，推动AI进入好莱坞。",
+          "primary_url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "importance": 8,
+          "items": [
+            "9b854ddc83b7b082",
+            "95bd5f32a1f66412"
+          ],
+          "cover_path": "out/media/2026-06-24/company-01.jpg"
+        },
+        {
+          "headline": "SpaceX签下Reflection AI，每月1.5亿提供算力",
+          "summary": "SpaceX与开源AI实验室Reflection AI达成协议，从7月起每月提供价值1.5亿美元的Nvidia GB300芯片算力，合同持续至2029年。",
+          "primary_url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+          "importance": 7,
+          "items": [
+            "2a8d93c9d3cd0dc4"
+          ],
+          "cover_path": "out/media/2026-06-24/company-02.jpg"
+        },
+        {
+          "headline": "AI芯片商Groq完成6.5亿融资，重组高管团队",
+          "summary": "在Nvidia 200亿美元“非收购”交易后，Groq确认完成6.5亿美元融资，将加大云业务布局并招募新高管。",
+          "primary_url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "importance": 7,
+          "items": [
+            "752f91a3860774a9"
+          ],
+          "cover_path": "out/media/2026-06-24/company-03.jpg"
+        },
+        {
+          "headline": "Oracle裁员21000人为AI基建让路，债务激增",
+          "summary": "Oracle宣布裁员21000人，节省资金用于投资AI数据中心基础设施，引发对债务风险的关注。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+          "importance": 7,
+          "items": [
+            "a6627d4c162e3343"
+          ],
+          "cover_path": "out/media/2026-06-24/company-04.jpg"
+        },
+        {
+          "headline": "Microsoft在德州建2GW数据中心，自带天然气发电",
+          "summary": "Microsoft在德克萨斯州建设一座2GW规模的数据中心，配套自建天然气发电站，以规避电网不稳定问题。",
+          "primary_url": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/",
+          "importance": 7,
+          "items": [
+            "58e979ecccb80231"
+          ],
+          "cover_path": "out/media/2026-06-24/company-05.jpg"
+        },
+        {
+          "headline": "Anthropic与美光联合研发AI内存架构",
+          "summary": "Anthropic与美光科技宣布合作，共同设计面向AI工作负载的新一代存储/内存架构，提升模型训练效率。",
+          "primary_url": "https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/",
+          "importance": 6,
+          "items": [
+            "bda9fcf358de5c41"
+          ],
+          "cover_path": "out/media/2026-06-24/company-06.jpg"
+        },
+        {
+          "headline": "正行创新获近亿美元天使轮，推进物理智能",
+          "summary": "中国AI创业公司正行创新完成近亿美元天使轮融资，采用数据-模型-基础设施协同路径，目标物理智能。",
+          "primary_url": "https://www.qbitai.com/2026/06/437694.html",
+          "importance": 6,
+          "items": [
+            "4721875a72c42df1"
+          ],
+          "cover_path": "out/media/2026-06-24/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "新基准测试揭示LLM写多GPU代码能力不足",
+          "summary": "Together AI推出ParallelKernelBench，测试87个真实多GPU CUDA内核编写任务，最佳模型只解决不到三分之一，显示LLM在高性能并行编程上仍薄弱。",
+          "primary_url": "https://www.together.ai/blog/parallelkernelbench",
+          "importance": 6,
+          "items": [
+            "ad81740c112f58f4"
+          ],
+          "cover_path": "out/media/2026-06-24/research-00.jpg"
+        },
+        {
+          "headline": "Sakana AI用Fugu聚合多个LLM，逼近Anthropic Fable水平",
+          "summary": "日本AI创企Sakana AI推出Fugu系统，通过编排多个较小语言模型协同工作，在多个基准上匹配或接近Anthropic Fable和Mythos。",
+          "primary_url": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/",
+          "importance": 6,
+          "items": [
+            "54a09d97e107f335"
+          ],
+          "cover_path": "out/media/2026-06-24/research-01.jpg"
+        },
+        {
+          "headline": "新论文：提示注入本质是角色混淆问题",
+          "summary": "一篇学术论文将提示注入攻击重新定义为“角色混淆”，并提出了系统化的理解框架。",
+          "primary_url": "https://role-confusion.github.io",
+          "importance": 5,
+          "items": [
+            "6705d84ac957f52b"
+          ],
+          "cover_path": "out/media/2026-06-24/research-02.jpg"
+        },
+        {
+          "headline": "随机YaRN方法让LLM更好地泛化到超长序列",
+          "summary": "最新arXiv论文提出Randomized YaRN，通过在微调时随机化位置编码插值，显著提升LLM在超长上下文推理上的泛化能力。",
+          "primary_url": "https://arxiv.org/abs/2606.23687",
+          "importance": 5,
+          "items": [
+            "8ac3ebdc12b2cd8e"
+          ],
+          "cover_path": "out/media/2026-06-24/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic Claude Tag上线Slack，持续学习企业语境",
+          "summary": "Anthropic推出Claude Tag，一个嵌入Slack的AI队友，能持续学习企业组织知识、工作流和上下文，提高团队生产力。",
+          "primary_url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+          "importance": 7,
+          "items": [
+            "62ac37bd9e2409fa"
+          ],
+          "cover_path": "out/media/2026-06-24/product-00.jpg"
+        },
+        {
+          "headline": "Dropbox开源Nova，内部AI编程Agent平台正式亮相",
+          "summary": "Dropbox宣布内部平台Nova，用于大规模运行AI编程智能体，该平台现已开源。",
+          "primary_url": "https://www.infoq.cn/article/5UOHryk6C66376bCULb",
+          "importance": 6,
+          "items": [
+            "5b8f6979ecd50e34"
+          ]
+        },
+        {
+          "headline": "Google默认Interactions API，统一Gemini Agent调用",
+          "summary": "Google宣布Interactions API成为Gemini模型和智能体的默认接口，简化开发者在多轮对话和工具调用上的使用。",
+          "primary_url": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/",
+          "importance": 6,
+          "items": [
+            "da1427fa3bd15e95"
+          ],
+          "cover_path": "out/media/2026-06-24/product-02.jpg"
+        },
+        {
+          "headline": "xAI推出Grok Skills新功能，升级工具调用API",
+          "summary": "xAI发布Grok Skills功能，允许开发者构建技能，同时更新了用于工具调用的Responses API，增强Agent能力。",
+          "primary_url": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2",
+          "importance": 6,
+          "items": [
+            "bb951632ab957b24"
+          ],
+          "cover_path": "out/media/2026-06-24/product-03.jpg"
+        },
+        {
+          "headline": "腾讯QQ邮箱内测Agently Mail，专为AI Agent设计",
+          "summary": "腾讯宣布QQ邮箱开始内测Agently Mail，这是一款独立于个人邮箱、可由AI Agent自主收发邮件的功能，确保安全可控。",
+          "primary_url": "https://36kr.com/newsflashes/3865694185804804",
+          "importance": 5,
+          "items": [
+            "e15770d66d0faddd"
+          ],
+          "cover_path": "out/media/2026-06-24/product-04.jpg"
+        },
+        {
+          "headline": "火山引擎Force大会：豆包商业化加速，边缘Agent平台发布",
+          "summary": "火山引擎在Force大会上公布豆包大模型商业化成绩，同时发布边缘Web与AI Agent托管平台EdgeOne Makers。",
+          "primary_url": "https://www.leiphone.com/category/CorporateServices/ZfxxMFp9Ad0A4EWq.html",
+          "importance": 5,
+          "items": [
+            "81ed9dcd05f0c55b",
+            "45298871aa9ae4fb"
+          ]
+        },
+        {
+          "headline": "Google LiteRT-LM让Gemma 4在端侧推理速度翻倍",
+          "summary": "谷歌发布LiteRT-LM，通过多token预测将Gemma 4的本地推理速度提升最高2.2倍，适用于移动设备。",
+          "primary_url": "https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y",
+          "importance": 5,
+          "items": [
+            "fe92fb28fb30be3d"
+          ],
+          "cover_path": "out/media/2026-06-24/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "分析称Anthropic对AI风险的警告反酿出口禁令",
+          "summary": "外媒分析，Anthropic对高级AI风险的公开警告远超OpenAI，可能使自身陷入美国AI模型出口管制，成为首例受害者。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+          "importance": 7,
+          "items": [
+            "6f8955088173dd49",
+            "2a894471c6159afb"
+          ],
+          "cover_path": "out/media/2026-06-24/opinion-00.jpg"
+        },
+        {
+          "headline": "Five Eyes警告：前沿AI将迅速改变进攻性网络作战",
+          "summary": "五眼情报联盟发布报告称，前沿AI模型可能在几个月内重新定义网络攻击能力，建议各国加强防范。",
+          "primary_url": "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/",
+          "importance": 6,
+          "items": [
+            "e3a21961007000ea"
+          ],
+          "cover_path": "out/media/2026-06-24/opinion-01.jpg"
+        },
+        {
+          "headline": "吴恩达批评AI炒作，预言10人公司加Agent模式",
+          "summary": "吴恩达在访谈中表示AI被过度炒作，真正的变革是10人小队使用Agent重新构建数据架构，而非大规模替代人力。",
+          "primary_url": "https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy",
+          "importance": 6,
+          "items": [
+            "d39cf1d9c71a090d"
+          ],
+          "cover_path": "out/media/2026-06-24/opinion-02.jpg"
+        },
+        {
+          "headline": "Stratechery分析存储芯片市场与中国影响",
+          "summary": "Stratechery刊文指出，三大存储芯片制造商可能因开放中国厂商机会而后悔，同时微软有强烈动机使用中国AI模型。",
+          "primary_url": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
+          "importance": 6,
+          "items": [
+            "e44b34b98f920e4b"
+          ],
+          "cover_path": "out/media/2026-06-24/opinion-03.jpg"
+        },
+        {
+          "headline": "科幻作家Cory Doctorow发布新书，支招戳破AI泡沫",
+          "summary": "科技作家Cory Doctorow在新书《The Reverse Centaur's Guide to Life After AI》中提出，要戳破AI泡沫需要从其根基入手。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+          "importance": 5,
+          "items": [
+            "00edfd7af40727e8"
+          ],
+          "cover_path": "out/media/2026-06-24/opinion-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenMontage：全球首个开源Agent视频制作系统发布",
+          "summary": "OpenMontage是一个开源Agent视频制作系统，包含12条管线、52个工具、500多项Agent技能，可将AI编程助手转化为完整视频工作室。",
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "importance": 6,
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-06-24/opensource-00.jpg"
+        },
+        {
+          "headline": "NVIDIA发布官方AI Agent技能库，加速企业应用",
+          "summary": "NVIDIA在GitHub开源Agent Skills仓库，提供一批验证过的AI Agent技能，帮助企业快速构建可信Agent。",
+          "primary_url": "https://github.com/NVIDIA/skills",
+          "importance": 6,
+          "items": [
+            "f0e0f15ccfffe422"
+          ],
+          "cover_path": "out/media/2026-06-24/opensource-01.jpg"
+        },
+        {
+          "headline": "网易有道开源零参考文本14语种语音克隆模型",
+          "summary": "网易有道开源Confucius4-TTS引擎，无需参考文本即可实现14语种无口音跨语种语音克隆，打破业界纪录。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/30qYFuhjh76yBsIV.html",
+          "importance": 6,
+          "items": [
+            "efff90c24bbe93a2"
+          ]
+        },
+        {
+          "headline": "字节跳动开源Deer Flow，支持小时级自主任务",
+          "summary": "字节跳动开源超级智能体框架Deer Flow，具备沙箱、记忆、工具、子智能体等功能，可处理耗时数分钟的复杂任务。",
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "importance": 6,
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "cover_path": "out/media/2026-06-24/opensource-03.jpg"
+        },
+        {
+          "headline": "Palmier Pro开源，macOS上首个原生AI视频编辑器",
+          "summary": "Palmier Pro是一个为AI设计的macOS视频编辑器，开源项目，支持AI辅助编辑。",
+          "primary_url": "https://github.com/palmier-io/palmier-pro",
+          "importance": 5,
+          "items": [
+            "5e0e1605c82b8e07"
+          ],
+          "cover_path": "out/media/2026-06-24/opensource-04.jpg"
+        },
+        {
+          "headline": "Voicebox：开源AI语音工作室，支持语音克隆",
+          "summary": "Voicebox是一个开源AI语音工作室，具备语音克隆、听写和创作功能。",
+          "primary_url": "https://github.com/jamiepine/voicebox",
+          "importance": 5,
+          "items": [
+            "e641a58fd66ca6ff"
+          ]
+        },
+        {
+          "headline": "Penpot 开源设计工具获社区热捧",
+          "summary": "Penpot作为开源设计和代码协作平台，在GitHub Trending上引起关注，支持设计师与开发者无缝协作。",
+          "primary_url": "https://github.com/penpot/penpot",
+          "importance": 5,
+          "items": [
+            "3596727af6c72cbf"
+          ],
+          "cover_path": "out/media/2026-06-24/opensource-06.jpg"
+        },
+        {
+          "headline": "gstack开源：Garry Tan的Claude Code工作流",
+          "summary": "YC总裁Garry Tan开源其Claude Code配置gstack，包含23个定制工具，覆盖CEO、设计师、工程经理等角色。",
+          "primary_url": "https://github.com/garrytan/gstack",
+          "importance": 5,
+          "items": [
+            "0df615c119f8b3de"
+          ],
+          "cover_path": "out/media/2026-06-24/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
