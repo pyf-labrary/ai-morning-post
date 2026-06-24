@@ -1,0 +1,484 @@
+{
+  "date": "2026-06-25",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "谷歌DeepMind发布Gemini 3.5 Flash电脑操控能力",
+          "summary": "Gemini 3.5 Flash新增computer use功能，可理解屏幕内容并执行操作，开启AI代理新范式。",
+          "primary_url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+          "importance": 8,
+          "items": [
+            "c1f17a28c6d4b73c"
+          ],
+          "cover_path": "out/media/2026-06-25/model_release-00.jpg"
+        },
+        {
+          "headline": "Cursor发布自有AI模型及Git平台、移动App",
+          "summary": "Cursor宣布推出自研AI模型，同时发布全新Git平台和移动端应用，扩展开发者生态。",
+          "primary_url": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/",
+          "importance": 6,
+          "items": [
+            "9ac55a67601b04aa"
+          ],
+          "cover_path": "out/media/2026-06-25/model_release-01.jpg"
+        },
+        {
+          "headline": "Mistral发布OCR 4，支持结构化文档提取",
+          "summary": "Mistral OCR 4可实现带边界框、置信度的结构化输出，适用于RAG和企业搜索。",
+          "primary_url": "https://the-decoder.com/mistrals-new-ocr-model-beats-competitors-in-72-percent-of-blind-test-cases-company-says/",
+          "importance": 6,
+          "items": [
+            "7bd6e5fea998274d",
+            "d9c8d4717571b2a6"
+          ],
+          "cover_path": "out/media/2026-06-25/model_release-02.jpg"
+        },
+        {
+          "headline": "字节跳动Seedance 2.5突破30秒视频生成",
+          "summary": "Seedance 2.5将AI视频生成时长延至30秒以上，提升一致性与画质。",
+          "primary_url": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/",
+          "importance": 5,
+          "items": [
+            "4cda0bc168069d68"
+          ],
+          "cover_path": "out/media/2026-06-25/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI联手博通发布定制推理芯片Jalapeño",
+          "summary": "OpenAI推出首款自研芯片Jalapeño，由博通制造，专为大规模推理优化，回应算力需求。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+          "importance": 9,
+          "items": [
+            "c5ecd3bd961ebbbb",
+            "bb708d2348f86545",
+            "d6eaeb355bd6bca4"
+          ],
+          "cover_path": "out/media/2026-06-25/company-00.jpg"
+        },
+        {
+          "headline": "高通近40亿美元收购芯片软件初创Modular",
+          "summary": "高通以接近40亿美元收购AI芯片软件公司Modular，加速AI芯片生态布局。",
+          "primary_url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+          "importance": 7,
+          "items": [
+            "ba3bbcd6889ec2a7"
+          ],
+          "cover_path": "out/media/2026-06-25/company-01.jpg"
+        },
+        {
+          "headline": "Oracle裁员21000人，债务驱动AI投资",
+          "summary": "Oracle为投资AI数据中心基础设施大幅裁员，削减成本以支撑巨额债务。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+          "importance": 6,
+          "items": [
+            "a6627d4c162e3343"
+          ],
+          "cover_path": "out/media/2026-06-25/company-02.jpg"
+        },
+        {
+          "headline": "Cerebras财报后股价暴跌，CEO出面澄清",
+          "summary": "Cerebras上市后首份财报显示毛利率收窄，引发投资者恐慌，CEO称市场误解。",
+          "primary_url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+          "importance": 6,
+          "items": [
+            "a60d2efa8547e14b"
+          ],
+          "cover_path": "out/media/2026-06-25/company-03.jpg"
+        },
+        {
+          "headline": "谷歌AI研究员接连跳槽Anthropic",
+          "summary": "顶级AI科学家Jonas Adler和Alexander Pritzel离开谷歌加入Anthropic，延续人才流失趋势。",
+          "primary_url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+          "importance": 6,
+          "items": [
+            "3c302c7ab4d41e72"
+          ],
+          "cover_path": "out/media/2026-06-25/company-04.jpg"
+        },
+        {
+          "headline": "人形机器人Agility Robotics拟SPAC上市，估值25亿美元",
+          "summary": "Agility Robotics宣布通过SPAC合并上市，预计募集6.2亿美元，加速商业化。",
+          "primary_url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+          "importance": 6,
+          "items": [
+            "30f15dc13ad786e8"
+          ],
+          "cover_path": "out/media/2026-06-25/company-05.jpg"
+        },
+        {
+          "headline": "灵巧手企业临界点完成近10亿元融资",
+          "summary": "临界点获近10亿元融资，将用于量产、数据飞轮和接触智能模型研发。",
+          "primary_url": "https://36kr.com/newsflashes/3867180080010245?f=rss",
+          "importance": 6,
+          "items": [
+            "e8b018ca9a05cffd"
+          ],
+          "cover_path": "out/media/2026-06-25/company-06.jpg"
+        },
+        {
+          "headline": "Meta紧急叫停用员工私聊训练AI，工程文化遭重创",
+          "summary": "Meta被发现利用员工私聊数据训练AI，引发内部抗议，被迫暂停并面临文化危机。",
+          "primary_url": "https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "4cbeea5806e489ae",
+            "4bf038c137155c3c"
+          ],
+          "cover_path": "out/media/2026-06-25/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "NVIDIA发布Cosmos 3全模态世界模型",
+          "summary": "Cosmos 3统一处理语言、图像、视频、音频和动作，支持物理AI及世界模拟。",
+          "primary_url": "https://arxiv.org/abs/2606.02800v4",
+          "importance": 5,
+          "items": [
+            "c64e8db6c301c178"
+          ],
+          "cover_path": "out/media/2026-06-25/research-00.jpg"
+        },
+        {
+          "headline": "OpenThoughts-Agent：开源代理模型训练数据配方",
+          "summary": "论文揭示构建通用代理模型的训练数据策略，为开源社区提供可复现方法。",
+          "primary_url": "https://arxiv.org/abs/2606.24855v1",
+          "importance": 5,
+          "items": [
+            "e41efc84e109438f"
+          ],
+          "cover_path": "out/media/2026-06-25/research-01.jpg"
+        },
+        {
+          "headline": "FLUX3D：扩散对齐稀疏表示实现高清3D生成",
+          "summary": "新方法通过稀疏体素表示与扩散模型对齐，大幅提升图像到3D高斯生成的保真度。",
+          "primary_url": "https://arxiv.org/abs/2606.24874v1",
+          "importance": 4,
+          "items": [
+            "447a921064e538ec"
+          ],
+          "cover_path": "out/media/2026-06-25/research-02.jpg"
+        },
+        {
+          "headline": "DFlash：并行块推测解码，吞吐量提升15倍",
+          "summary": "UC San Diego提出DFlash，用轻量块扩散模型代替自回归草稿，在Blackwell上实现15倍加速。",
+          "primary_url": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
+          "importance": 4,
+          "items": [
+            "0a99748b84f16e0b"
+          ],
+          "cover_path": "out/media/2026-06-25/research-03.jpg"
+        },
+        {
+          "headline": "InSight：自引导技能获取的可操控VLA框架",
+          "summary": "提出自主技能获取框架，使机器人通过自我引导掌握新操作技能，突破训练数据限制。",
+          "primary_url": "https://arxiv.org/abs/2606.24884v1",
+          "importance": 4,
+          "items": [
+            "82ad7fe27524d440"
+          ],
+          "cover_path": "out/media/2026-06-25/research-04.jpg"
+        },
+        {
+          "headline": "VibeThinker-3B：探索小型语言模型的可验证推理",
+          "summary": "在3B模型上探索可验证推理前沿，为小型模型推理能力提供新洞察。",
+          "primary_url": "https://arxiv.org/abs/2606.16140",
+          "importance": 3,
+          "items": [
+            "16729d51bd9c06a0"
+          ],
+          "cover_path": "out/media/2026-06-25/research-05.jpg"
+        },
+        {
+          "headline": "IV-CoT：隐式视觉思维链用于结构感知文本到图像生成",
+          "summary": "通过隐式视觉思维链提升多模态大模型在结构化文本到图像生成中的遵循能力。",
+          "primary_url": "https://arxiv.org/abs/2606.24849v1",
+          "importance": 4,
+          "items": [
+            "d0a4825f45fdbf8c"
+          ],
+          "cover_path": "out/media/2026-06-25/research-06.jpg"
+        },
+        {
+          "headline": "开源LLM在米尔格拉姆实验中施加最大电击",
+          "summary": "研究测试开源LLM在权威压力下的行为，发现其倾向于服从并施加最大强度电击。",
+          "primary_url": "https://arxiv.org/abs/2605.21401v2",
+          "importance": 3,
+          "items": [
+            "738ec74c6b85a430"
+          ],
+          "cover_path": "out/media/2026-06-25/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Anthropic推出Claude Tag：Slack内永久AI队友",
+          "summary": "Claude Tag嵌入Slack，可实时参与对话、自动写代码，公司称内部65%代码由它生成。",
+          "primary_url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+          "importance": 8,
+          "items": [
+            "dbb8f3db9c2bcf18",
+            "62ac37bd9e2409fa",
+            "06e2b8803671ec21",
+            "8ac4bd76b5ddb39a"
+          ],
+          "cover_path": "out/media/2026-06-25/product-00.jpg"
+        },
+        {
+          "headline": "Figma更新：代码层、动画、AI插件生成",
+          "summary": "Figma Config 2026推出代码层、动画支持及AI自定义插件，强调人类判断力。",
+          "primary_url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+          "importance": 6,
+          "items": [
+            "9784d65b6598ea35",
+            "71828fe8c5e11e2d"
+          ],
+          "cover_path": "out/media/2026-06-25/product-01.jpg"
+        },
+        {
+          "headline": "Facebook推出创作者AI伴侣App",
+          "summary": "Facebook面向创作者推出独立AI伴侣应用，内置AI助手辅助内容创作。",
+          "primary_url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+          "importance": 6,
+          "items": [
+            "54d980a129cd7777"
+          ],
+          "cover_path": "out/media/2026-06-25/product-02.jpg"
+        },
+        {
+          "headline": "腾讯云发布EdgeOne Makers：边缘Web与AI Agent托管平台",
+          "summary": "腾讯云推出EdgeOne Makers，支持一键开发部署AI Agent，分钟级全球上线。",
+          "primary_url": "https://www.infoq.cn/article/5iz5ew8NpQXIvvpFphDk?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "45298871aa9ae4fb"
+          ],
+          "cover_path": "out/media/2026-06-25/product-03.jpg"
+        },
+        {
+          "headline": "360发布安全AI“图龙锋”，周鸿祎称漏洞能力成战略能力",
+          "summary": "360推出漏洞自动化挖掘智能体图龙锋，并联合信创企业发起“磐石之盾”计划。",
+          "primary_url": "https://www.qbitai.com/2026/06/437838.html",
+          "importance": 6,
+          "items": [
+            "5dafc1dd0e2e1674",
+            "118cd4c7346dc5a5"
+          ],
+          "cover_path": "out/media/2026-06-25/product-04.jpg"
+        },
+        {
+          "headline": "MoEngage押注百万AI代理驱动营销未来",
+          "summary": "MoEngage通过收购获取技术，可为每个客户分配专属AI代理，实现个性化营销。",
+          "primary_url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+          "importance": 6,
+          "items": [
+            "3d0a99bcd39daa81"
+          ],
+          "cover_path": "out/media/2026-06-25/product-05.jpg"
+        },
+        {
+          "headline": "豆包专业版上线，接入豆包2.1 Pro大模型",
+          "summary": "豆包推出专业版，基于最新2.1 Pro模型，面向复杂办公任务场景提供更高额度和新功能。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html",
+          "importance": 5,
+          "items": [
+            "5e8117e892dd4b06"
+          ]
+        },
+        {
+          "headline": "阿里QoderWork推“峰谷Token”，夜间低至2折",
+          "summary": "阿里QoderWork推出峰谷Token机制，夜间使用Qwen3.7模型可享2折优惠，降低Agent成本。",
+          "primary_url": "https://www.qbitai.com/2026/06/437834.html",
+          "importance": 5,
+          "items": [
+            "b3b1c8b5423fb743",
+            "afa1701ce6a12045"
+          ],
+          "cover_path": "out/media/2026-06-25/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Cory Doctorow：如何戳破AI泡沫——打击其根基",
+          "summary": "科幻作家/科技记者Cory Doctorow在新书中提出，AI泡沫需从垄断和数据根源入手打破。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+          "importance": 6,
+          "items": [
+            "00edfd7af40727e8"
+          ],
+          "cover_path": "out/media/2026-06-25/opinion-00.jpg"
+        },
+        {
+          "headline": "企业紧急限制员工用AI处理小任务：Token配给制到来",
+          "summary": "Tokenmaxxing时代结束，企业开始配给AI Token，防止员工将预算浪费在琐事上。",
+          "primary_url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+          "importance": 6,
+          "items": [
+            "eee9d29b1320608c"
+          ],
+          "cover_path": "out/media/2026-06-25/opinion-01.jpg"
+        },
+        {
+          "headline": "AI本该淘汰工程师，但数据表明工程岗位反而更抗跌",
+          "summary": "SignalFire数据指出，尽管AI裁员潮涌现，工程师在新招聘中占比持续上升。",
+          "primary_url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+          "importance": 6,
+          "items": [
+            "64b15083e6ab0263"
+          ],
+          "cover_path": "out/media/2026-06-25/opinion-02.jpg"
+        },
+        {
+          "headline": "Stratechery深度体验Vibe Coding：10条经验教训",
+          "summary": "作者通过实际开发一款App，总结了Vibe Coding的体验与反思。",
+          "primary_url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+          "importance": 6,
+          "items": [
+            "a81fa820ffd4aca5"
+          ]
+        },
+        {
+          "headline": "Snowflake CEO：GLM-5.2与Opus 4.7竞争，成本仅零头",
+          "summary": "Snowflake CEO测试智谱GLM-5.2，认为性能接近顶尖模型，但成本大幅降低。",
+          "primary_url": "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/",
+          "importance": 5,
+          "items": [
+            "cab3f80e0348d7d7"
+          ],
+          "cover_path": "out/media/2026-06-25/opinion-04.jpg"
+        },
+        {
+          "headline": "中国顶级AI专家也感到恐慌：中美AI竞赛似“切尔诺贝利”",
+          "summary": "Wired记者对话中国AI专家，双方均担忧AI军备竞赛可能引发灾难性后果。",
+          "primary_url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+          "importance": 5,
+          "items": [
+            "a3bee8a7def18557"
+          ],
+          "cover_path": "out/media/2026-06-25/opinion-05.jpg"
+        },
+        {
+          "headline": "亚马逊云科技储瑞松：为什么企业Agent死在原型阶段？",
+          "summary": "储瑞松指出Agent工程是关键，许多企业在原型阶段失败源于工程化不足。",
+          "primary_url": "https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "1af4d1ed6edb2b17"
+          ],
+          "cover_path": "out/media/2026-06-25/opinion-06.jpg"
+        },
+        {
+          "headline": "人人都是Builder的时代，企业真正的挑战是“怎么管”",
+          "summary": "探讨低代码/无代码时代企业面临的管理挑战，如何治理AI构建者。",
+          "primary_url": "https://www.infoq.cn/article/UXZBCoYhBRFN0WRLVR5x?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "0949d50437658a3d"
+          ],
+          "cover_path": "out/media/2026-06-25/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Nous Research开源Hermes Agent，支持技能系统/learn命令",
+          "summary": "Hermes Agent新增/learn命令，可从目录或对话自动生成SKILL.md，提升代理可扩展性。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 6,
+          "items": [
+            "e3d54a392be8d634",
+            "1f5e6d07929f2566"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-00.jpg"
+        },
+        {
+          "headline": "Y Combinator CEO开源其个人Claude Code配置gstack",
+          "summary": "Garry Tan开源其Claude Code设置，包含23个工具，模拟CEO、设计师等角色。",
+          "primary_url": "https://github.com/garrytan/gstack",
+          "importance": 6,
+          "items": [
+            "0df615c119f8b3de"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-01.jpg"
+        },
+        {
+          "headline": "全球首个开源Agent视频制作系统OpenMontage",
+          "summary": "OpenMontage提供12条流水线、52个工具、500+技能，将AI编码助手变为视频工作室。",
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "importance": 6,
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-02.jpg"
+        },
+        {
+          "headline": "开源AI语音工作室Voicebox：克隆、听写、创作",
+          "summary": "Voicebox提供一站式语音AI功能，支持声音克隆、实时听写和语音合成。",
+          "primary_url": "https://github.com/jamiepine/voicebox",
+          "importance": 5,
+          "items": [
+            "e641a58fd66ca6ff"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-03.jpg"
+        },
+        {
+          "headline": "NVIDIA发布官方AI Agent技能库skills",
+          "summary": "NVIDIA开源其AI代理技能集合，涵盖多种生产用例，加速企业Agent开发。",
+          "primary_url": "https://github.com/NVIDIA/skills",
+          "importance": 5,
+          "items": [
+            "f0e0f15ccfffe422"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-04.jpg"
+        },
+        {
+          "headline": "AWS推出Agent Toolkit：官方MCP服务器和技能",
+          "summary": "AWS开源官方Agent开发工具包，包括MCP服务器、技能和插件，支持AI代理构建。",
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "importance": 5,
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-05.jpg"
+        },
+        {
+          "headline": "Anthropic发布Claude Code插件官方目录",
+          "summary": "Anthropic官方维护高质量Claude Code插件仓库，提供标准化插件生态。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 5,
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-06.jpg"
+        },
+        {
+          "headline": "字节跳动开源长时SuperAgent框架DeerFlow",
+          "summary": "DeerFlow支持研究、编码和创作，集成沙箱、记忆、工具和子代理，可处理分钟级任务。",
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "importance": 5,
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "cover_path": "out/media/2026-06-25/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
