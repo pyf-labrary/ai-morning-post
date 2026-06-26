@@ -1,0 +1,412 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "GPT-5.6 Sol发布，白宫限制访问",
+          "summary": "OpenAI发布GPT-5.6系列模型（Sol、Terra、Luna），但应美国政府要求限制公众使用，仅向部分合作伙伴开放，引发争议。",
+          "importance": 10,
+          "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "items": [
+            "ddef7aacadf24586",
+            "eb1917e6305488d3",
+            "096bef0af7a63b06",
+            "91fbcf8dc4d90b6c",
+            "2da172e63563297a",
+            "636de625c87f19ed",
+            "4aaf5f49f7daac2e",
+            "1d001458a4c30121",
+            "0fe220e46c0e2f5a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "Anthropic指控阿里克隆Claude，要求惩罚",
+          "summary": "Anthropic声称阿里巴巴使用2.5万个账户，通过2880万次对话挖掘Claude模型能力，构成最大规模克隆攻击，要求采取措施。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+          "items": [
+            "f0c6fa6d88083a0d",
+            "7bfd4c5d2e9b79b1"
+          ],
+          "cover_path": "out/media/2026-06-27/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI发布自研推理芯片Jalapeño，脱离Nvidia",
+          "summary": "OpenAI与Broadcom合作推出定制推理芯片Jalapeño，目标降低对Nvidia依赖，9个月设计即可媲美Blackwell。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+          "items": [
+            "5bee2963f95de37f",
+            "7778a645cbc0ac8d",
+            "fc658ea15e79614b"
+          ],
+          "cover_path": "out/media/2026-06-27/company-01.jpg"
+        },
+        {
+          "headline": "无界动力完成超2亿美元天使轮融资",
+          "summary": "通用具身智能机器人公司无界动力完成超2亿美元天使轮融资，由京东关联基金等领投，资金用于研发具身通用大脑。",
+          "importance": 7,
+          "primary_url": "https://www.leiphone.com/category/industrynews/R0KdLxNZMHJPM7yA.html",
+          "items": [
+            "fadb98207df06727"
+          ]
+        },
+        {
+          "headline": "Patronus AI获5000万美元投资，测试AI Agent",
+          "summary": "AI Agent压力测试初创公司Patronus AI获5000万美元融资，由前Meta研究人员创立，市场需求旺盛。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "items": [
+            "79e5e08c1c6b4cd1"
+          ],
+          "cover_path": "out/media/2026-06-27/company-03.jpg"
+        },
+        {
+          "headline": "谷歌推理专家跳槽Meta，AI人才流失加剧",
+          "summary": "谷歌推理研究领军人物加入Meta，此前由李飞飞挖来，谷歌正经历AI人才长期失血。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/06/438848.html",
+          "items": [
+            "98587a1a82f29a24",
+            "e7584309c4ef3108"
+          ],
+          "cover_path": "out/media/2026-06-27/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI挖Uber印度主管，加码印度市场",
+          "summary": "OpenAI聘请Uber印度前负责人领导其美国以外最大市场，扩大在印办公室和合作伙伴关系。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+          "items": [
+            "6ad6fc996a73b2be"
+          ],
+          "cover_path": "out/media/2026-06-27/company-05.jpg"
+        },
+        {
+          "headline": "北森两亿All in AI，上线15个AI HR专家",
+          "summary": "北森宣布两年投入10亿元全面AI转型，推出15个AI HR专家及数字人事部，重塑人力资源服务。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK",
+          "items": [
+            "ad46a07cd7ed99ea"
+          ],
+          "cover_path": "out/media/2026-06-27/company-06.jpg"
+        },
+        {
+          "headline": "深度机智获数亿元融资，加速物理AI落地",
+          "summary": "国产物理AI基座模型公司深度机智两个月内连获两轮数亿元融资，走全栈自主路线。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/06/438887.html",
+          "items": [
+            "69544e5ce4058ee3"
+          ],
+          "cover_path": "out/media/2026-06-27/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "AI模型连续编程19天，花费2600美元",
+          "summary": "Epoch AI测试显示，一个AI模型在单一MirrorCode任务上连续编程19天，消耗2600美元计算资源，展示长时自主编程能力。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
+          "items": [
+            "4665e06d4f448664"
+          ],
+          "cover_path": "out/media/2026-06-27/research-00.jpg"
+        },
+        {
+          "headline": "多模型系统存在共失败上限，路由优势有限",
+          "summary": "新论文对67个前沿模型分析表明，多模型组合（路由、投票等）的准确率增益受限于共失败上限，挑战现有混合策略。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2606.27288v1",
+          "items": [
+            "9e5aeb78ac947730"
+          ],
+          "cover_path": "out/media/2026-06-27/research-01.jpg"
+        },
+        {
+          "headline": "GameCraft-Bench：AI可端到端开发可玩游戏",
+          "summary": "高校与腾讯发布GameCraft-Bench基准，Claude Opus四成生成游戏达到可玩水平，AI游戏开发能力突破。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/private/Youopgc5vvNteXQS.html",
+          "items": [
+            "33d25659958bb8ec"
+          ]
+        },
+        {
+          "headline": "LeHome挑战赛冠军方案：学习折叠衣物",
+          "summary": "ICRA 2026 LeHome挑战赛在线第一名方案描述，通过视觉-语言-动作模型实现双臂衣物折叠。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2606.27163v1",
+          "items": [
+            "2e740818697d5929"
+          ],
+          "cover_path": "out/media/2026-06-27/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Notion关闭邮件应用，转向AI Agent管理收件箱",
+          "summary": "Notion宣布关停Skiff影响的邮件应用，因多数用户已使用AI Agent管理收件箱，公司将全面押注Agent。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+          "items": [
+            "760ca64df0083f51"
+          ],
+          "cover_path": "out/media/2026-06-27/product-00.jpg"
+        },
+        {
+          "headline": "GitHub发布Copilot桌面应用，支持并行Agent",
+          "summary": "GitHub推出Copilot桌面应用，支持并行Agent开发工作流，增强AI编程协作体验。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG",
+          "items": [
+            "cf976738b6345faf"
+          ],
+          "cover_path": "out/media/2026-06-27/product-01.jpg"
+        },
+        {
+          "headline": "豆包推出专业版，定位AI工作搭子",
+          "summary": "字节跳动旗下豆包发布基于豆包2.1大模型的专业版，专注办公场景，提供深度写作、代码、推理能力。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/G8Tqx355YsGfzxVy.html",
+          "items": [
+            "43f2117ec3512905"
+          ]
+        },
+        {
+          "headline": "AWS推出Agent Toolkit，助AI构建AWS应用",
+          "summary": "AWS发布官方Agent Toolkit，提供MCP服务器、技能和插件，帮助AI Agent在AWS上开发和部署。",
+          "importance": 6,
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-06-27/product-03.jpg"
+        },
+        {
+          "headline": "大晓机器狗在上海7×24小时自主巡逻",
+          "summary": "大晓机器人旗下晓途机器狗进驻上海西岸片区，实现全天候无人自主巡逻执勤，开启商业运营新模式。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/8So3cLimLEfWaVm4.html",
+          "items": [
+            "4e0222663c7c49f9",
+            "8dfe97aed2caa2f0"
+          ]
+        },
+        {
+          "headline": "RoboScience发布通用具身大模型Visics",
+          "summary": "RoboScience机器科学发布通用具身大模型Visics，首次展示VLOA双引擎架构，推动机器人自主能力。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html",
+          "items": [
+            "08bc58c11d452a4f"
+          ]
+        },
+        {
+          "headline": "Google Finance终于推出Android应用",
+          "summary": "谷歌在20年后终于推出Google Finance Android应用，并融入AI功能，承诺后续推出iOS版。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+          "items": [
+            "ac797a2040745c95"
+          ],
+          "cover_path": "out/media/2026-06-27/product-06.jpg"
+        },
+        {
+          "headline": "MOVA割草机器人出货突破50万台",
+          "summary": "MOVA智能割草机器人累计出货超50万台，增速全球登顶，并获红点设计大奖，巩固高端市场地位。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/2J73t9lAS4yr7Gnw.html",
+          "items": [
+            "82e81f02cda948c3",
+            "8b46725a4a74abbd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "韩国计划训练全军成无人机战士",
+          "summary": "韩国宣布将培训50万军队使用无人机作为通用作战工具，AI驱动的无人机战争进入新阶段。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+          "items": [
+            "c3460dae52a6078d"
+          ],
+          "cover_path": "out/media/2026-06-27/opinion-00.jpg"
+        },
+        {
+          "headline": "Anthropic: AI让初级工程师不再必要",
+          "summary": "Anthropic高管表示公司已不再需要初级工程师，AI代码生成能力使入门级岗位消失，并警告经济冲击。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
+          "items": [
+            "a36ccfe1adfc6417"
+          ],
+          "cover_path": "out/media/2026-06-27/opinion-01.jpg"
+        },
+        {
+          "headline": "AI胜负已不在Anthropic vs OpenAI",
+          "summary": "TechCrunch评论文章指出AI模型的政治后果已超越公司竞争，需要集体行动应对挑战。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+          "items": [
+            "d8b0323f054f4312"
+          ],
+          "cover_path": "out/media/2026-06-27/opinion-02.jpg"
+        },
+        {
+          "headline": "Schneier: AI责任问题需法律明确",
+          "summary": "安全专家Bruce Schneier评论德国裁决谷歌AI概述为媒体，强调AI责任归属仍是法律灰色地带。",
+          "importance": 6,
+          "primary_url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
+          "items": [
+            "4fbda91d1aba04b4"
+          ]
+        },
+        {
+          "headline": "欧洲厌倦追随，想要自己的AI",
+          "summary": "Wired分析欧洲构建自主AI的渴望，认为特朗普政策可能成为优势，但挑战巨大。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+          "items": [
+            "6890360a1467ba41"
+          ],
+          "cover_path": "out/media/2026-06-27/opinion-04.jpg"
+        },
+        {
+          "headline": "Lindy弃用Claude转投DeepSeek，节省数百万",
+          "summary": "AI初创公司Lindy完全从Anthropic Claude切换至DeepSeek，成本压力下转向更便宜模型。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
+          "items": [
+            "7b5d0839d3c9af11"
+          ],
+          "cover_path": "out/media/2026-06-27/opinion-05.jpg"
+        },
+        {
+          "headline": "Altman要求万亿估值才IPO，或推迟至2027",
+          "summary": "消息称Altman认为OpenAI估值低于1万亿美元不会上市，IPO可能推迟至2027年。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
+          "items": [
+            "6d99b84f7152eab2"
+          ],
+          "cover_path": "out/media/2026-06-27/opinion-06.jpg"
+        },
+        {
+          "headline": "White House要求OpenAI缓释新模型引发争议",
+          "summary": "白宫基于安全担忧要求OpenAI慢速发布GPT-5.6，OpenAI认为此政府限制不应成为常态。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "items": [
+            "91fbcf8dc4d90b6c",
+            "096bef0af7a63b06"
+          ],
+          "cover_path": "out/media/2026-06-27/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "NVIDIA开源MoE微调加速3.7倍",
+          "summary": "NVIDIA发布开源MoE工具，一行import即可实现专家并行和加速，基于Transformers v5。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/06/438703.html",
+          "items": [
+            "7fb7990fbae41e10"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-00.jpg"
+        },
+        {
+          "headline": "HuggingFace一键在Jobs运行vLLM服务器",
+          "summary": "HuggingFace博客推出新功能，一条命令即可在HF Jobs上运行vLLM推理服务器，简化部署。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/vllm-jobs",
+          "items": [
+            "04ef106f48b9ac38"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-01.jpg"
+        },
+        {
+          "headline": "阿里开源Page Agent：自然语言控制网页",
+          "summary": "阿里巴巴开源Page Agent，允许用户通过自然语言在浏览器内执行GUI操作，支持JavaScript。",
+          "importance": 6,
+          "primary_url": "https://github.com/alibaba/page-agent",
+          "items": [
+            "7d5ee2f9d8626b13"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-02.jpg"
+        },
+        {
+          "headline": "NVIDIA开源SkillSpector检测Agent安全风险",
+          "summary": "NVIDIA发布SkillSpector安全扫描器，可检测AI Agent技能中的漏洞、恶意模式和风险。",
+          "importance": 6,
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-03.jpg"
+        },
+        {
+          "headline": "字节跳动开源长期任务SuperAgent deer-flow",
+          "summary": "字节跳动开源deer-flow，一个长时域SuperAgent框架，支持研究、编程和创作，含沙盒、记忆等模块。",
+          "importance": 6,
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-04.jpg"
+        },
+        {
+          "headline": "AutoGPT更新，构建、部署和运行AI Agent",
+          "summary": "知名AI Agent框架AutoGPT持续更新，致力为所有人提供可访问的AI Agent工具。",
+          "importance": 5,
+          "primary_url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "items": [
+            "4e837aac2d446ba4"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-05.jpg"
+        },
+        {
+          "headline": "LlamaIndex成为文档Agent和OCR平台",
+          "summary": "LlamaIndex演进为领先的文档Agent和OCR平台，支持复杂文档处理。",
+          "importance": 5,
+          "primary_url": "https://github.com/run-llama/llama_index",
+          "items": [
+            "158b8be752645dc5"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-06.jpg"
+        },
+        {
+          "headline": "datasette-export-database发布0.3a2",
+          "summary": "Datasette生态工具datasette-export-database发布新版本，修复依赖问题。",
+          "importance": 4,
+          "primary_url": "https://github.com/datasette/datasette-export-database/releases/tag/0.3a2",
+          "items": [
+            "d9782862c2585e18"
+          ],
+          "cover_path": "out/media/2026-06-27/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-27"
+}
