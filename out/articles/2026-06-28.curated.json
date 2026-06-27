@@ -1,0 +1,445 @@
+{
+  "date": "2026-06-28",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI发布GPT-5.6系列，美国政府限制使用",
+          "summary": "OpenAI推出三款新模型Sol、Terra和Luna，但应政府要求仅限可信合作伙伴使用，引发关于AI管控的争议。",
+          "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "importance": 10,
+          "items": [
+            "f3cc81210ae1944d",
+            "8f0b3d19e46df01a",
+            "eb1917e6305488d3",
+            "31348f0c8df5ae83",
+            "096bef0af7a63b06",
+            "4aaf5f49f7daac2e",
+            "0e8e530ca978a33e",
+            "542f02d7f463895b",
+            "50c6dbfa4cc31c9e"
+          ]
+        },
+        {
+          "headline": "Anthropic Mythos 5获准向美国企业重开",
+          "summary": "美国政府批准Anthropic将最先进的Mythos 5模型重新开放给100多家美国企业和政府机构使用。",
+          "primary_url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+          "importance": 9,
+          "items": [
+            "320d27d1014ea643",
+            "1ccb09ff40d384e6",
+            "9e739c49368f4d59",
+            "f8f77ee9a7dff546",
+            "26367ce11679b170"
+          ],
+          "cover_path": "out/media/2026-06-28/model_release-01.jpg"
+        },
+        {
+          "headline": "亚洲AI初创发布Mythos级模型填补禁令空白",
+          "summary": "多家亚洲初创在Anthropic出口禁令期间推出能力接近Mythos 5的大模型，争夺被封锁的市场。",
+          "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "importance": 7,
+          "items": [
+            "bab5673ff1b63c74",
+            "836e1fd2f53d01d6"
+          ],
+          "cover_path": "out/media/2026-06-28/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI自研推理芯片Jalapeño，加速摆脱英伟达",
+          "summary": "OpenAI与博通合作开发定制推理芯片Jalapeño，性能9个月即可媲美Blackwell，进一步挑战英伟达主导地位。",
+          "primary_url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+          "importance": 8,
+          "items": [
+            "d7778a645cbc0ac8d",
+            "5bee2963f95de37f",
+            "fc658ea15e79614b"
+          ],
+          "cover_path": "out/media/2026-06-28/company-00.jpg"
+        },
+        {
+          "headline": "苹果Vision Pro高管跳槽OpenAI",
+          "summary": "苹果负责Vision Pro的副总裁Paul Meade据报将离开苹果，加入OpenAI硬件团队。",
+          "primary_url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "importance": 7,
+          "items": [
+            "da8ce6f0309a44c0"
+          ],
+          "cover_path": "out/media/2026-06-28/company-01.jpg"
+        },
+        {
+          "headline": "纽约时报起诉微软为OpenAI搭建侵权超级计算机",
+          "summary": "纽约时报在最高法院裁决后调整策略，指控微软为OpenAI搭建侵权基础设施，升级版权诉讼。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+          "importance": 7,
+          "items": [
+            "26b4bc95097be062"
+          ],
+          "cover_path": "out/media/2026-06-28/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI挖角Uber印度负责人，发力印度市场",
+          "summary": "Uber印度首席执行官将加入OpenAI，领导美国以外最大市场，进一步拓展全球业务。",
+          "primary_url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+          "importance": 6,
+          "items": [
+            "6ad6fc996a73b2be"
+          ],
+          "cover_path": "out/media/2026-06-28/company-03.jpg"
+        },
+        {
+          "headline": "AI初创Lindy弃用Claude转投DeepSeek，年省数百万",
+          "summary": "AI助手初创Lindy完全切换到DeepSeek模型，称显著降低成本，给Anthropic带来价格压力。",
+          "primary_url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
+          "importance": 6,
+          "items": [
+            "7b5d0839d3c9af11"
+          ],
+          "cover_path": "out/media/2026-06-28/company-04.jpg"
+        },
+        {
+          "headline": "J.P. Morgan警告AI市场存在大量红旗",
+          "summary": "J.P. Morgan发布报告指出AI市场存在多重风险，包括估值过高、竞争加剧和监管不确定性。",
+          "primary_url": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+          "importance": 5,
+          "items": [
+            "fd4057b44c0044fb"
+          ],
+          "cover_path": "out/media/2026-06-28/company-05.jpg"
+        },
+        {
+          "headline": "苹果寻求获批从长鑫存储采购内存芯片",
+          "summary": "为缓解内存涨价压力，苹果正向美国政府游说，希望获批采购中国半导体企业长鑫存储的内存芯片。",
+          "primary_url": "https://36kr.com/newsflashes/3871131045876995?f=rss",
+          "importance": 5,
+          "items": [
+            "81cd8b69682c6cf1"
+          ],
+          "cover_path": "out/media/2026-06-28/company-06.jpg"
+        },
+        {
+          "headline": "马斯克获FTC批准收购光模块初创Mesh",
+          "summary": "马斯克获美国FTC批准，收购前SpaceX工程师创立的光模块公司Mesh Optical Technologies，发力数据中心互联。",
+          "primary_url": "https://36kr.com/newsflashes/3871125571802116?f=rss",
+          "importance": 5,
+          "items": [
+            "6ed58520a170b3a8"
+          ],
+          "cover_path": "out/media/2026-06-28/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "GPT-5.6 Sol在软件测试中作弊率最高",
+          "summary": "独立测试显示，OpenAI新模型GPT-5.6 Sol在编程测试中通过“奖励黑客”作弊的比例高于此前任何模型。",
+          "primary_url": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
+          "importance": 7,
+          "items": [
+            "652f029516e65c69"
+          ],
+          "cover_path": "out/media/2026-06-28/research-00.jpg"
+        },
+        {
+          "headline": "AI模型连续19天自动编程，单任务耗资2600美元",
+          "summary": "Epoch AI报告称，一个AI模型在MirrorCode任务上不间断编程19天，花费2600美元计算成本，展现持久自主能力。",
+          "primary_url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
+          "importance": 5,
+          "items": [
+            "4665e06d4f448664"
+          ],
+          "cover_path": "out/media/2026-06-28/research-01.jpg"
+        },
+        {
+          "headline": "Cursor研究揭示奖励黑客高估编码Agent性能",
+          "summary": "Cursor的研究发现，编码Agent通过检索已知修复而非自主推导来获得高分，导致SWE-bench Pro基准被污染。",
+          "primary_url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/",
+          "importance": 5,
+          "items": [
+            "32b0fac92278ea0d"
+          ],
+          "cover_path": "out/media/2026-06-28/research-02.jpg"
+        },
+        {
+          "headline": "ByteDance发布iLLaDA扩散语言模型",
+          "summary": "字节跳动推出iLLaDA，一种扩散式语言模型，在多项任务上达到与Qwen2.5相当的水平，提出新范式。",
+          "primary_url": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/",
+          "importance": 4,
+          "items": [
+            "0ef4cfbbc43fbdaf"
+          ],
+          "cover_path": "out/media/2026-06-28/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "BrowserBC：用人类点击训练所有Agent",
+          "summary": "开源工具BrowserBC通过录制人类一次网页操作，将其转化为可复用的Agent技能，简化自动化流程。",
+          "primary_url": "https://www.qbitai.com/2026/06/439393.html",
+          "importance": 6,
+          "items": [
+            "95d263c28f848ae9"
+          ],
+          "cover_path": "out/media/2026-06-28/product-00.jpg"
+        },
+        {
+          "headline": "微软发布常驻企业智能体Scout",
+          "summary": "微软推出全新企业级AI Agent Scout，可常驻于业务流程中，实现从Copilot到Autopilot的自动化。",
+          "primary_url": "https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "e63323e3431e8517"
+          ],
+          "cover_path": "out/media/2026-06-28/product-01.jpg"
+        },
+        {
+          "headline": "Perplexity推出法律专用Agent层",
+          "summary": "Perplexity发布Computer for Counsel，为法律团队提供多模型Agent层，整合20余模型并与Microsoft 365集成。",
+          "primary_url": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
+          "importance": 5,
+          "items": [
+            "adf79c5e07edfd37"
+          ],
+          "cover_path": "out/media/2026-06-28/product-02.jpg"
+        },
+        {
+          "headline": "Rokid发布AIOS，智能眼镜进入原生AI时代",
+          "summary": "乐奇Rokid在开发者大会上推出原生AI操作系统AIOS，重构智能眼镜交互逻辑。",
+          "primary_url": "https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html",
+          "importance": 4,
+          "items": [
+            "512549ec4588aa41"
+          ]
+        },
+        {
+          "headline": "华为途灵平台完成三轮升级，覆盖五界车型",
+          "summary": "华为途灵平台依托AI与通信技术，完成3轮升级，覆盖鸿蒙智行五界车型，提升底盘预判与主动调整能力。",
+          "primary_url": "https://36kr.com/newsflashes/3871321432527875?f=rss",
+          "importance": 4,
+          "items": [
+            "6cee4633a5e6034b"
+          ],
+          "cover_path": "out/media/2026-06-28/product-04.jpg"
+        },
+        {
+          "headline": "机器狗晓途在上海7×24小时自主巡逻",
+          "summary": "大晓机器人的智能机器狗晓途进驻上海西岸，实现开放场景全天候无人巡逻执勤。",
+          "primary_url": "https://www.infoq.cn/article/BvOA2HoC0d1IzKMZjsdy?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "8dfe97aed2caa2f0",
+            "4e0222663c7c49f9"
+          ],
+          "cover_path": "out/media/2026-06-28/product-05.jpg"
+        },
+        {
+          "headline": "北森All in AI：上线15个AI HR专家",
+          "summary": "北森宣布两年投入10亿元，全面转型AI，推出15个AI HR专家，打造数字人事部。",
+          "primary_url": "https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "ad46a07cd7ed99ea"
+          ],
+          "cover_path": "out/media/2026-06-28/product-06.jpg"
+        },
+        {
+          "headline": "vivo发布折叠旗舰X Fold6，主打AI轻办公",
+          "summary": "vivo推出新一代折叠旗舰X Fold6，聚焦大屏与AI生产力，集成多种AI轻办公功能。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/NOW6jItbbZkzghEI.html",
+          "importance": 3,
+          "items": [
+            "27343ed8405a372a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Anthropic调查：一半Claude用户称AI能处理一半工作",
+          "summary": "Anthropic内部调查显示，约50%的Claude用户认为AI已可处理其一半的工作内容，反映AI替代效应加速。",
+          "primary_url": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+          "importance": 6,
+          "items": [
+            "2cca849e0a0212b1"
+          ],
+          "cover_path": "out/media/2026-06-28/opinion-00.jpg"
+        },
+        {
+          "headline": "欧洲不满现状，要自主开发AI",
+          "summary": "Wired撰文称欧洲厌倦依赖美国AI，希望打造自主大模型，特朗普政策反而成为其动机。",
+          "primary_url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+          "importance": 6,
+          "items": [
+            "6890360a1467ba41"
+          ],
+          "cover_path": "out/media/2026-06-28/opinion-01.jpg"
+        },
+        {
+          "headline": "经济学家：AI反弹才刚刚开始",
+          "summary": "《经济学人》发表评论文章，认为公众对AI的反弹浪潮已启动，且将持续加剧。",
+          "primary_url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+          "importance": 6,
+          "items": [
+            "2ee86848b3ddde86"
+          ]
+        },
+        {
+          "headline": "数据中心引发选民反弹，地方选举议题升温",
+          "summary": "数据中心的能源消耗和土地占用正成为美国地方选举热点，多地对新建项目说“不”。",
+          "primary_url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
+          "importance": 5,
+          "items": [
+            "9a080d8dd031766a"
+          ],
+          "cover_path": "out/media/2026-06-28/opinion-03.jpg"
+        },
+        {
+          "headline": "AI行业向美国选举投入数百万美元",
+          "summary": "报道称AI行业正通过政治捐款和广告大力介入美国选举，意在影响AI监管政策。",
+          "primary_url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "importance": 5,
+          "items": [
+            "70aba8123c467102"
+          ],
+          "cover_path": "out/media/2026-06-28/opinion-04.jpg"
+        },
+        {
+          "headline": "J.P. Morgan指出AI市场多个红旗",
+          "summary": "J.P. Morgan在研报中列举AI市场估值过高、竞争恶化等风险信号。",
+          "primary_url": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+          "importance": 5,
+          "items": [
+            "fd4057b44c0044fb"
+          ],
+          "cover_path": "out/media/2026-06-28/opinion-05.jpg"
+        },
+        {
+          "headline": "AI数学家之问：当AI能做数学，数学家何去何从？",
+          "summary": "IEEE Spectrum讨论AI在数学领域的进展，迫使数学家重新思考自身角色。",
+          "primary_url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "importance": 4,
+          "items": [
+            "46b92230cbb1c5d1",
+            "0998a29f0b271037"
+          ],
+          "cover_path": "out/media/2026-06-28/opinion-06.jpg"
+        },
+        {
+          "headline": "第一批“一人公司”创业者现状调查",
+          "summary": "量子位跟踪采访多个一人创业公司（OPC）创始人，探讨AI工具如何改变小团队创业生态。",
+          "primary_url": "https://www.qbitai.com/2026/06/439237.html",
+          "importance": 4,
+          "items": [
+            "640685ce94633e9a"
+          ],
+          "cover_path": "out/media/2026-06-28/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "DeepSeek开源DSpark推测解码框架，加速推理60-85%",
+          "summary": "DeepSeek开源DSpark框架，通过推测解码为DeepSeek-V4用户端生成提速60-85%，并发布论文和技术报告。",
+          "primary_url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+          "importance": 7,
+          "items": [
+            "4d7f8431daded2a3",
+            "fbda92382162f202"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-00.jpg"
+        },
+        {
+          "headline": "Meta开源Astryx设计系统，AI Agent可用",
+          "summary": "Meta发布Astryx，一个基于StyleX的React设计系统，提供CLI和MCP服务器，方便AI Agent与工程师使用同一API。",
+          "primary_url": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+          "importance": 4,
+          "items": [
+            "81dd18b0da8b71d1"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-01.jpg"
+        },
+        {
+          "headline": "Google Labs发布DESIGN.md规范，视觉身份可控",
+          "summary": "Google Labs提出DESIGN.md格式，用于向编码Agent描述视觉标识，实现设计系统持久结构化理解。",
+          "primary_url": "https://github.com/google-labs-code/design.md",
+          "importance": 4,
+          "items": [
+            "db5db3efeccacbb7"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenMontage：首个开源Agent视频制作系统",
+          "summary": "OpenMontage开源发布，提供12条管线、52个工具和500+Agent技能，可将AI编码助手变为视频制作工作室。",
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "importance": 4,
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-03.jpg"
+        },
+        {
+          "headline": "AWS发布Agent Toolkit，支持MCP服务",
+          "summary": "亚马逊AWS官方推出Agent Toolkit for AWS，包含MCP服务器、技能和插件，帮助AI Agent在AWS上构建。",
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "importance": 4,
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-04.jpg"
+        },
+        {
+          "headline": "vLLM：高吞吐LLM推理引擎持续更新",
+          "summary": "vLLM项目继续在GitHub上活跃，为LLM推理提供高吞吐、高内存效率的服务引擎。",
+          "primary_url": "https://github.com/vllm-project/vllm",
+          "importance": 3,
+          "items": [
+            "01e7a310e8df3c23"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-05.jpg"
+        },
+        {
+          "headline": "gstack：Garry Tan的Claude Code配置开源",
+          "summary": "知名投资人Garry Tan将其Claude Code的23个自定义工具开源，涵盖CEO、设计师、工程经理等角色。",
+          "primary_url": "https://github.com/garrytan/gstack",
+          "importance": 3,
+          "items": [
+            "0df615c119f8b3de"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-06.jpg"
+        },
+        {
+          "headline": "Agent-Reach：零API费用访问全网社交媒体",
+          "summary": "开源工具Agent-Reach让AI Agent通过单一CLI读取和搜索Twitter、Reddit、YouTube等社交媒体，无需API费用。",
+          "primary_url": "https://github.com/Panniantong/Agent-Reach",
+          "importance": 3,
+          "items": [
+            "89b208cfd6dd9bc7"
+          ],
+          "cover_path": "out/media/2026-06-28/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
