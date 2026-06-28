@@ -1,0 +1,336 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "亚洲AI创企发布Mythos级模型，填补出口禁令空缺",
+          "summary": "多家亚洲AI初创公司推出了性能对标Anthropic Mythos的新模型，利用美国出口限制造成的市场空白，吸引全球客户。",
+          "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "items": [
+            "bab5673ff1b63c74",
+            "836e1fd2f53d01d6"
+          ],
+          "cover_path": "out/media/2026-06-29/model_release-00.jpg"
+        },
+        {
+          "headline": "GLM 5.2在安全基准上超越Claude",
+          "summary": "Semgrep发布的基准测试显示，智谱GLM 5.2在网络安全任务中击败了Claude，引发社区热议。",
+          "primary_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "items": [
+            "7ad750403dd2f3d2"
+          ],
+          "cover_path": "out/media/2026-06-29/model_release-01.jpg"
+        },
+        {
+          "headline": "Sina开源轻量推理模型VibeThinker-3B",
+          "summary": "新浪发布开源模型VibeThinker-3B，强调推理能力压缩效果好，但事实知识难以压缩。",
+          "primary_url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/",
+          "items": [
+            "05f664a67321fbe4"
+          ],
+          "cover_path": "out/media/2026-06-29/model_release-02.jpg"
+        },
+        {
+          "headline": "Liquid AI发布230M参数端侧模型LFM2.5",
+          "summary": "Liquid AI开源LFM2.5-230M，可在Galaxy S25 Ultra上以213 token/s运行，支持多种推理框架。",
+          "primary_url": "https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/",
+          "items": [
+            "48a0004ab2a29eb4"
+          ],
+          "cover_path": "out/media/2026-06-29/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "福特重聘资深工程师，AI项目惨败",
+          "summary": "福特汽车在AI自动化未能达到预期后，重新雇佣退休老工程师，AI取代人类策略遭遇重挫。",
+          "primary_url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "items": [
+            "3796dd414b8b08ed",
+            "3a0272f5844d6101",
+            "6eacbb1444dc6286"
+          ],
+          "cover_path": "out/media/2026-06-29/company-00.jpg"
+        },
+        {
+          "headline": "谷歌限制Meta使用Gemini模型",
+          "summary": "据CNBC报道，谷歌不允许Meta大规模使用其Gemini AI模型，两家巨头在AI合作上出现裂痕。",
+          "primary_url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+          "items": [
+            "4e567b179d411723"
+          ],
+          "cover_path": "out/media/2026-06-29/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic Fable 5有望数日内回归",
+          "summary": "特朗普政府准备解除出口限制，Anthropic的Fable 5模型或将很快恢复可用；同时AWS Bedrock要求用户共享推理数据。",
+          "primary_url": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+          "items": [
+            "320d27d1014ea643",
+            "82e6c66d8067d21b"
+          ],
+          "cover_path": "out/media/2026-06-29/company-02.jpg"
+        },
+        {
+          "headline": "调查显示半数Claude用户称AI可处理一半工作",
+          "summary": "Anthropic内部调查发现，约一半的Claude用户认为AI已经可以承担其50%的工作任务。",
+          "primary_url": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+          "items": [
+            "2cca849e0a0212b1"
+          ],
+          "cover_path": "out/media/2026-06-29/company-03.jpg"
+        },
+        {
+          "headline": "苹果Vision Pro高管据报将跳槽OpenAI",
+          "summary": "负责Vision Pro的苹果副总裁Paul Meade据传将加入OpenAI硬件团队。",
+          "primary_url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "items": [
+            "da8ce6f0309a44c0"
+          ],
+          "cover_path": "out/media/2026-06-29/company-04.jpg"
+        },
+        {
+          "headline": "Coinbase加入拥抱中国AI模型浪潮",
+          "summary": "Coinbase CEO表示将采用中国AI模型，给西方AI实验室带来定价压力。",
+          "primary_url": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+          "items": [
+            "4acebade62330148"
+          ],
+          "cover_path": "out/media/2026-06-29/company-05.jpg"
+        },
+        {
+          "headline": "中国网络安全公司360构建AI工具对标Mythos",
+          "summary": "360创始人周鸿祎声称AI竞赛如同“网络核威慑”，公司正开发竞争性AI安全工具。",
+          "primary_url": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
+          "items": [
+            "4e64ef7591919814"
+          ],
+          "cover_path": "out/media/2026-06-29/company-06.jpg"
+        },
+        {
+          "headline": "易被AI替代岗位的公司出资10亿美金再培训计划",
+          "summary": "一批自动化风险高的企业联合启动10亿美元基金，帮助被AI取代的员工转岗。",
+          "primary_url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+          "items": [
+            "4c401fdf3687f223"
+          ],
+          "cover_path": "out/media/2026-06-29/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "500天AI创业模拟：仅三个模型盈利",
+          "summary": "研究人员设计CEO-Bench测试，让AI模型运营虚拟初创公司500天，只有三个模型最终获得正收益。",
+          "primary_url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+          "items": [
+            "7f2a53b9957c8ffe"
+          ],
+          "cover_path": "out/media/2026-06-29/research-00.jpg"
+        },
+        {
+          "headline": "Transformer与混合模型在token级对比研究",
+          "summary": "arXiv论文从token级别比较Transformer和混合模型性能，为架构选择提供新视角。",
+          "primary_url": "https://arxiv.org/pdf/2606.20936",
+          "items": [
+            "992bbab54b0a3630"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "苹果推出Core AI框架，专为自研芯片优化",
+          "summary": "苹果发布Core AI框架，利用自研芯片加速端侧生成式AI任务，强化隐私和性能。",
+          "primary_url": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
+          "items": [
+            "04761acf12682d5a"
+          ],
+          "cover_path": "out/media/2026-06-29/product-00.jpg"
+        },
+        {
+          "headline": "GitLab 19.0将Agentic AI嵌入安全与协作流程",
+          "summary": "GitLab新版本集成AI代理，覆盖凭证管理、合并请求和供应链安全。",
+          "primary_url": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
+          "items": [
+            "9ed36a21d0514107"
+          ],
+          "cover_path": "out/media/2026-06-29/product-01.jpg"
+        },
+        {
+          "headline": "男子用Claude Code分析自己的MRI，获第二诊疗意见",
+          "summary": "一位开发者将MRI扫描数据输入Claude Code进行分析，得到有价值的医学见解。",
+          "primary_url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "items": [
+            "76e30bed97319c90"
+          ],
+          "cover_path": "out/media/2026-06-29/product-02.jpg"
+        },
+        {
+          "headline": "BrowserBC：一项点击即可让Agent学会网页操作的开源工具",
+          "summary": "BrowserBC允许人类录制一次点击，即可生成可供所有AI Agent模仿的网页操作能力。",
+          "primary_url": "https://www.qbitai.com/2026/06/439393.html",
+          "items": [
+            "95d263c28f848ae9"
+          ],
+          "cover_path": "out/media/2026-06-29/product-03.jpg"
+        },
+        {
+          "headline": "杭州团队率先实现端侧流式多模态，基于CVPR热点",
+          "summary": "一家杭州创业公司全球首次将流式多模态模型部署到端侧，紧跟CVPR 2026趋势。",
+          "primary_url": "https://www.qbitai.com/2026/06/439236.html",
+          "items": [
+            "6c901c1cfc740cf3"
+          ],
+          "cover_path": "out/media/2026-06-29/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Robin Williams回应引发AI Slop时代反思",
+          "summary": "一篇关于已故喜剧演员Robin Williams对互联网噪音的评论文章走红，被用来类比当下AI生成的低质内容。",
+          "primary_url": "https://jayacunzo.com/blog/your-move-chief",
+          "items": [
+            "57074561b8930728"
+          ],
+          "cover_path": "out/media/2026-06-29/opinion-00.jpg"
+        },
+        {
+          "headline": "AI不会成为真正同事，除非停止回答开始完成",
+          "summary": "评论文章指出AI需要从对话工具转变为任务完成者，才能成为有效的数字同事。",
+          "primary_url": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
+          "items": [
+            "945519d35d10491d"
+          ],
+          "cover_path": "out/media/2026-06-29/opinion-01.jpg"
+        },
+        {
+          "headline": "J.P. Morgan发出AI市场多重警告信号",
+          "summary": "摩根大通报告指出AI市场存在估值泡沫、过度投资等多项红色预警。",
+          "primary_url": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+          "items": [
+            "fd4057b44c0044fb"
+          ],
+          "cover_path": "out/media/2026-06-29/opinion-02.jpg"
+        },
+        {
+          "headline": "Tokenmaxxing已死，长期Tokenmaxxing万岁",
+          "summary": "文章探讨AI Agent token消耗的优化策略，认为短期技巧失效后需要新的范式。",
+          "primary_url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+          "items": [
+            "9bf37d2b389a66cc"
+          ],
+          "cover_path": "out/media/2026-06-29/opinion-03.jpg"
+        },
+        {
+          "headline": "布朗大学教授谴责大规模AI作弊事件",
+          "summary": "布朗大学一名教授发现学生考试中大规模使用AI作弊，学术诚信面临严峻挑战。",
+          "primary_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "items": [
+            "dc05684a659f089d"
+          ],
+          "cover_path": "out/media/2026-06-29/opinion-04.jpg"
+        },
+        {
+          "headline": "AI真正的危险不是奴役人类，而是只为少数人服务",
+          "summary": "HN热门评论指出，AI应被监管以防止被政府和科技巨头劫持，惠及少数精英。",
+          "primary_url": "https://news.ycombinator.com/item?id=48701615",
+          "items": [
+            "5a7ae3f6c137f5ec"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "DeepSeek开源DSpark推理框架，加速V4生成60-85%",
+          "summary": "DeepSeek发布推测解码框架DSpark，通过并行草稿分支和马尔可夫头，显著提升V4的每用户生成速度。",
+          "primary_url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+          "items": [
+            "91cef0baa662d00a",
+            "4d7f8431daded2a3"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-00.jpg"
+        },
+        {
+          "headline": "百度开源整书级OCR模型，支持一次摄入一本书",
+          "summary": "百度开源新OCR模型，基于前DeepSeek研究员工作，可高效识别整本书籍内容。",
+          "primary_url": "https://www.qbitai.com/2026/06/439464.html",
+          "items": [
+            "6e39a3d2b6b08987"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-01.jpg"
+        },
+        {
+          "headline": "Anthropic开源Skills仓库，推动Agent技能标准化",
+          "summary": "Anthropic发布skills开源项目，提供标准化Agent技能实现，供开发者参考和贡献。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenCode：开源编码Agent项目",
+          "summary": "OpenCode是一个开源编码代理框架，支持多种编程任务自动化。",
+          "primary_url": "https://github.com/anomalyco/opencode",
+          "items": [
+            "cc9f1eb225d6438d"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-03.jpg"
+        },
+        {
+          "headline": "AWS推出Agent Toolkit for AWS，支持MCP和Skills",
+          "summary": "AWS发布官方Agent工具包，提供MCP服务器、Skills和插件，便于AI代理在AWS上构建应用。",
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-04.jpg"
+        },
+        {
+          "headline": "一行命令克隆任意网站：AI Website Cloner开源",
+          "summary": "GitHub上出现AI网站克隆模板，使用者可一键克隆网站，引发前端开发者关注。",
+          "primary_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "items": [
+            "1ca883df2f2f677e",
+            "e4f77970f2e47d9d"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-05.jpg"
+        },
+        {
+          "headline": "Wayfinder Router：本地与云端LLM查询确定性路由",
+          "summary": "开源工具Wayfinder Router可根据规则将查询路由到本地或托管LLM，优化成本和延迟。",
+          "primary_url": "https://github.com/itsthelore/wayfinder-router",
+          "items": [
+            "d634510a6e2b4b0a"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-06.jpg"
+        },
+        {
+          "headline": "AMD Strix Halo RDMA集群搭建指南开源",
+          "summary": "社区开发者发布AMD Strix Halo平台上的vLLM分布式推理集群搭建教程。",
+          "primary_url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+          "items": [
+            "d087d6e38dede625"
+          ],
+          "cover_path": "out/media/2026-06-29/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-29"
+}
