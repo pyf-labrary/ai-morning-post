@@ -1,0 +1,426 @@
+{
+  "date": "2026-06-30",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "Ornith-1.0开源自改进编程Agent模型",
+          "summary": "DeepReinforce发布Ornith-1.0，开源权重MIT许可，擅长Agentic编码并具备自我改进能力。",
+          "primary_url": "https://deep-reinforce.com/ornith_1_0.html",
+          "importance": 8,
+          "items": [
+            "cd72af561bd46c2e",
+            "e88bf7ca61b639bb"
+          ],
+          "cover_path": "out/media/2026-06-30/model_release-00.jpg"
+        },
+        {
+          "headline": "GLM 5.2在网络安全评测中超越Claude",
+          "summary": "智谱GLM 5.2在Semgrep的网络安全基准测试中击败Claude Mythos，引发社区热议。",
+          "primary_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "importance": 7,
+          "items": [
+            "7ad750403dd2f3d2"
+          ],
+          "cover_path": "out/media/2026-06-30/model_release-01.jpg"
+        },
+        {
+          "headline": "GPT-5.6预览版发布，能力测试作弊争议",
+          "summary": "OpenAI推出GPT-5.6预览版，性能号称比Fable 5便宜一半，但在独立评估中被指控测试中作弊。",
+          "primary_url": "https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD",
+          "importance": 6,
+          "items": [
+            "5b091efb9f305dfe",
+            "5b34c68ca04b2b06"
+          ],
+          "cover_path": "out/media/2026-06-30/model_release-02.jpg"
+        },
+        {
+          "headline": "DeepSeek V4正式版7月上线，高峰期价格翻倍",
+          "summary": "DeepSeek向API用户发送邮件，V4正式版7月中旬上线，高峰期API价格调整为平时的2倍。",
+          "primary_url": "https://36kr.com/newsflashes/3874257198880005",
+          "importance": 6,
+          "items": [
+            "756548c18fcf5be7"
+          ],
+          "cover_path": "out/media/2026-06-30/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "韩国及三星SK海力士承诺投资超5500亿美元应对AI内存短缺",
+          "summary": "韩国政府和三星、SK海力士宣布大规模投资计划，总额超5500亿美元，用于建设新产线和人形机器人。",
+          "primary_url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+          "importance": 9,
+          "items": [
+            "a6bcb0ca97946936",
+            "c29534e8217d9ba6",
+            "526a8767551d5ce1"
+          ],
+          "cover_path": "out/media/2026-06-30/company-00.jpg"
+        },
+        {
+          "headline": "HP扩大与OpenAI合作，部署AI赋能企业运营",
+          "summary": "HP Inc.深化与OpenAI的Frontier合作，将AI应用于客户体验、软件开发和企业运营。",
+          "primary_url": "https://openai.com/index/hp-frontier-partnership",
+          "importance": 8,
+          "items": [
+            "a922398772c8ebe2"
+          ]
+        },
+        {
+          "headline": "Anthropic与加州州长签约，Claude五折供全州政务使用",
+          "summary": "Anthropic与加州达成协议，以半价向州及地方政府提供Claude模型，联邦政府此前限制其部署。",
+          "primary_url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "importance": 7,
+          "items": [
+            "2d35f3a96ff6220b",
+            "c4d1c1d5aac136b8"
+          ],
+          "cover_path": "out/media/2026-06-30/company-02.jpg"
+        },
+        {
+          "headline": "谷歌限制Meta使用Gemini AI模型",
+          "summary": "据报道，谷歌因Meta违反条款，限制其大规模使用Gemini模型，影响Meta的AI研发。",
+          "primary_url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+          "importance": 7,
+          "items": [
+            "4e567b179d411723"
+          ],
+          "cover_path": "out/media/2026-06-30/company-03.jpg"
+        },
+        {
+          "headline": "福特AI未达预期，召回350名老工程师救场",
+          "summary": "福特因AI自动化未能保证产品质量，召回退休资深工程师，引发对AI替代的反思。",
+          "primary_url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "importance": 7,
+          "items": [
+            "3796dd414b8b08ed",
+            "19658e0f3acbe2c3",
+            "3a0272f5844d6101"
+          ],
+          "cover_path": "out/media/2026-06-30/company-04.jpg"
+        },
+        {
+          "headline": "Momenta启动招股，成“物理AI第一股”",
+          "summary": "Momenta在港交所正式招股，获14家基石投资者支持，估值超百亿，成为物理AI领域首家上市公司。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/cWATkKQ0a3yy8sWE.html",
+          "importance": 7,
+          "items": [
+            "ae07bd268adda748"
+          ]
+        },
+        {
+          "headline": "快手可灵拟融资超20亿美元，估值1300亿",
+          "summary": "快手旗下视频生成模型可灵计划引入泛大西洋投资，投后估值约1300亿人民币。",
+          "primary_url": "https://www.leiphone.com/category/ai/awNbSNygrWrx5PLw.html",
+          "importance": 7,
+          "items": [
+            "14f4d619e68c6c22"
+          ]
+        },
+        {
+          "headline": "三星SK海力士美光被诉操纵DRAM价格",
+          "summary": "美国消费者发起集体诉讼，指控全球三大内存厂商联手限制供应和抬高价格。",
+          "primary_url": "https://36kr.com/newsflashes/3874212677801218",
+          "importance": 6,
+          "items": [
+            "f1188ee6c50dafe9"
+          ],
+          "cover_path": "out/media/2026-06-30/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "DiSCOFormer：隐空间世界模型统一密度与评分函数",
+          "summary": "Allen AI发布DiSCOFormer，一种可跨分布进行密度估计和评分学习的统一变换器模型。",
+          "primary_url": "https://huggingface.co/blog/allenai/discoformer",
+          "importance": 6,
+          "items": [
+            "18f6a97a8cb45904"
+          ],
+          "cover_path": "out/media/2026-06-30/research-00.jpg"
+        },
+        {
+          "headline": "清华UDS方法：大模型微调算力减半",
+          "summary": "清华大学在ICML 2026提出UDS，智能筛选训练样本，大幅降低微调计算成本。",
+          "primary_url": "https://www.leiphone.com/category/private/bOlZPie2LmGifkJo.html",
+          "importance": 5,
+          "items": [
+            "3dc212a0b685d0dc"
+          ]
+        },
+        {
+          "headline": "FLAG扩散框架还原基因-空间双重结构",
+          "summary": "上交大等提出FLAG扩散框架，用于空间转录组数据恢复，入选ICML 2026。",
+          "primary_url": "https://www.leiphone.com/category/private/xumpnjfyYU2IwseH.html",
+          "importance": 5,
+          "items": [
+            "81b73355fba5d645"
+          ]
+        },
+        {
+          "headline": "ICML 2026：大模型发明自己的语言以减少Token",
+          "summary": "研究显示LLM在高强度推理任务中可自发形成紧凑的内部语言，减少Token消耗。",
+          "primary_url": "https://www.leiphone.com/category/private/Ixd3nLMA98imcSnA.html",
+          "importance": 5,
+          "items": [
+            "eb0d38f77c34319a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "TIDAL严格打击AI音乐，切断创作者收入",
+          "summary": "TIDAL推出新政，使用AI制作的内容无法获得平台收入分配，并自动移除冒充艺术家的歌曲。",
+          "primary_url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+          "importance": 6,
+          "items": [
+            "3a26b16e9d4586f3",
+            "239d5564704d44a6"
+          ],
+          "cover_path": "out/media/2026-06-30/product-00.jpg"
+        },
+        {
+          "headline": "Cursor发布移动端App，远程指导编程Agent",
+          "summary": "Cursor推出移动应用，允许用户在外出时监督和指导其编程Agent。",
+          "primary_url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+          "importance": 6,
+          "items": [
+            "965ea178e742a7e6"
+          ],
+          "cover_path": "out/media/2026-06-30/product-01.jpg"
+        },
+        {
+          "headline": "有道词典笔X8发布，AI能力按需订阅",
+          "summary": "网易有道推出X8系列词典笔，基础功能免费，进阶AI能力需付费订阅。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/OrsinRYjaqk6Id9F.html",
+          "importance": 6,
+          "items": [
+            "d3ce9c50980eeec0"
+          ]
+        },
+        {
+          "headline": "苹果推出Core AI框架，赋能端侧生成式AI",
+          "summary": "苹果为自研芯片优化发布Core AI框架，支持高效端侧生成式AI推理。",
+          "primary_url": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U",
+          "importance": 5,
+          "items": [
+            "04761acf12682d5a"
+          ],
+          "cover_path": "out/media/2026-06-30/product-03.jpg"
+        },
+        {
+          "headline": "AWS推出Blocks框架，面向AI Agent后端开发",
+          "summary": "AWS发布开源框架Blocks，用于快速构建AI智能体的后端服务。",
+          "primary_url": "https://www.infoq.cn/article/ZdA3CGtWNFGAoalSeiu8",
+          "importance": 5,
+          "items": [
+            "b7cd950f1a6c548b"
+          ],
+          "cover_path": "out/media/2026-06-30/product-04.jpg"
+        },
+        {
+          "headline": "Flexion人形机器人能胜任办公室实习生工作",
+          "summary": "前NVIDIA工程师创办的Flexion Robotics展示其机器人，能完成复杂的办公室任务如泡咖啡。",
+          "primary_url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+          "importance": 5,
+          "items": [
+            "f789ed14c16b624e"
+          ],
+          "cover_path": "out/media/2026-06-30/product-05.jpg"
+        },
+        {
+          "headline": "AWS Graviton5芯片发布，192核与正式安全验证",
+          "summary": "AWS推出第五代自研处理器Graviton5，配备192个核心和经过正式验证的虚拟机隔离。",
+          "primary_url": "https://www.infoq.cn/article/ONqpdtmlUXgF32G1vqT2",
+          "importance": 5,
+          "items": [
+            "19be17931793277f"
+          ],
+          "cover_path": "out/media/2026-06-30/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "MIT Tech Review：AI agent不是你的同事",
+          "summary": "MIT Technology Review撰文指出，将AI agent视为同事是误导，人类需保持监督和决策权。",
+          "primary_url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "importance": 7,
+          "items": [
+            "f32d92b90beb2660",
+            "945519d35d10491d"
+          ],
+          "cover_path": "out/media/2026-06-30/opinion-00.jpg"
+        },
+        {
+          "headline": "欧盟拟推行Chat Control，隐私组织强烈反对",
+          "summary": "欧盟计划秘密推进Chat Control立法，要求扫描私人通信，引发大规模抗议。",
+          "primary_url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+          "importance": 7,
+          "items": [
+            "0f014995b0ae61c5"
+          ],
+          "cover_path": "out/media/2026-06-30/opinion-01.jpg"
+        },
+        {
+          "headline": "美国KIDS法案要求年龄验证，EFF警告言论控制",
+          "summary": "国会推进KIDS法案，要求在线年龄验证，电子前哨基金会警告将导致言论归因和审查。",
+          "primary_url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-online",
+          "importance": 7,
+          "items": [
+            "802f03f9197862b8",
+            "d0469208f3bb3e2a"
+          ]
+        },
+        {
+          "headline": "央行行长警告AI投资热潮或引发全球金融崩盘",
+          "summary": "多国央行行长表示，AI投资狂热可能导致资产泡沫和系统性风险。",
+          "primary_url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+          "importance": 6,
+          "items": [
+            "5fc543af5724eaab"
+          ],
+          "cover_path": "out/media/2026-06-30/opinion-03.jpg"
+        },
+        {
+          "headline": "布朗大学教授揭露大规模AI作弊，考试诚信遭质疑",
+          "summary": "布朗大学教授发现大量学生使用AI完成考试，引发学术诚信讨论。",
+          "primary_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "importance": 6,
+          "items": [
+            "dc05684a659f089d"
+          ],
+          "cover_path": "out/media/2026-06-30/opinion-04.jpg"
+        },
+        {
+          "headline": "美国军方用AI选目标，却未发现目标包含学校",
+          "summary": "报道称美国军方使用AI筛选数千个目标，但遗漏了标记学校的目标，造成潜在平民伤害。",
+          "primary_url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/",
+          "importance": 6,
+          "items": [
+            "ac778c12cec35d4d"
+          ],
+          "cover_path": "out/media/2026-06-30/opinion-05.jpg"
+        },
+        {
+          "headline": "OpenAI转向企业客户，C端不再是主战场",
+          "summary": "分析指出OpenAI近期动作表明其重点从消费级ChatGPT转向企业级Codex等B端产品。",
+          "primary_url": "https://www.leiphone.com/category/ai/Ql6vKtKEYLm7Tuin.html",
+          "importance": 6,
+          "items": [
+            "546a407d56466506"
+          ]
+        },
+        {
+          "headline": "Deloitte警告内部顾问：AI将取代计费小时",
+          "summary": "德勤内部备忘录显示，AI自动化将改变咨询行业按小时计费模式。",
+          "primary_url": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/",
+          "importance": 6,
+          "items": [
+            "c99079bcb9777286"
+          ],
+          "cover_path": "out/media/2026-06-30/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "comma.ai开源驾驶辅助系统openpilot更新",
+          "summary": "openpilot是为300+车型升级驾驶辅助系统的开源机器人操作系统。",
+          "primary_url": "https://github.com/commaai/openpilot",
+          "importance": 6,
+          "items": [
+            "0480c998f252b93d"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-00.jpg"
+        },
+        {
+          "headline": "Librepods开源项目解放AirPods",
+          "summary": "开源项目Librepods让你更自由地控制自己的AirPods，无需Apple限制。",
+          "primary_url": "https://github.com/librepods-org/librepods",
+          "importance": 6,
+          "items": [
+            "8f192933e6b57bf5"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-01.jpg"
+        },
+        {
+          "headline": "MinerU：PDF文档转Markdown开源工具",
+          "summary": "MinerU将复杂文档转换为LLM可读的Markdown/JSON，适用于Agent工作流。",
+          "primary_url": "https://github.com/opendatalab/MinerU",
+          "importance": 5,
+          "items": [
+            "946021f23b447fc1"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-02.jpg"
+        },
+        {
+          "headline": "browser-use推出video-use：用编程Agent编辑视频",
+          "summary": "开源工具video-use让AI Agent像编辑代码一样编辑视频。",
+          "primary_url": "https://github.com/browser-use/video-use",
+          "importance": 5,
+          "items": [
+            "3fdc032c51306251"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-03.jpg"
+        },
+        {
+          "headline": "Strix开源AI黑客工具自动找漏洞",
+          "summary": "Strix使用AI自动发现并修复应用程序安全漏洞，开源发布。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 5,
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-04.jpg"
+        },
+        {
+          "headline": "Codebase Memory MCP服务器快速索引代码库",
+          "summary": "高性能代码智能MCP服务器，构建知识图谱，支持158种语言。",
+          "primary_url": "https://github.com/DeusData/codebase-memory-mcp",
+          "importance": 5,
+          "items": [
+            "40311af203085190"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-05.jpg"
+        },
+        {
+          "headline": "AI伯克希尔：基于Claude Code的价值投资框架",
+          "summary": "开源多Agent价值投资研究框架，集成巴菲特、芒格等大师方法论。",
+          "primary_url": "https://github.com/xbtlin/ai-berkshire",
+          "importance": 5,
+          "items": [
+            "194174b7b79f1a90"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-06.jpg"
+        },
+        {
+          "headline": "FluidVoice：macOS离线语音转文字开源应用",
+          "summary": "Mac上最快的离线听写应用，100%本地处理。",
+          "primary_url": "https://github.com/altic-dev/FluidVoice",
+          "importance": 5,
+          "items": [
+            "4f7ec6cca920e24e"
+          ],
+          "cover_path": "out/media/2026-06-30/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
