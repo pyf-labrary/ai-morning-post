@@ -1,0 +1,412 @@
+{
+  "date": "2026-07-01",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic发布Claude Sonnet 5：更便宜的Agent模型",
+          "summary": "Claude Sonnet 5正式发布，定价更低、Agent能力更强，可作为Opus、GPT-5.5和Gemini Pro的廉价替代方案。",
+          "importance": 10,
+          "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "items": [
+            "46bb9fea83d911cf",
+            "c5182b33c62dee81",
+            "bce3a8eb112cbfa1",
+            "3aabffcd8edf7b61"
+          ],
+          "cover_path": "out/media/2026-07-01/model_release-00.jpg"
+        },
+        {
+          "headline": "Google推出Nano Banana 2 Lite：最快最便宜的图像模型",
+          "summary": "Google发布Nano Banana 2 Lite（Gemini 3.1 Flash Lite Image），生成速度快、成本低，同时推出Gemini Omni Flash视频API。",
+          "importance": 9,
+          "primary_url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "items": [
+            "8e333cc845e04ef8",
+            "0d31fcd61bb347d0",
+            "cf264cd753bf1046",
+            "9e014cf73adcbb9c",
+            "d6dff378c9935dc5"
+          ],
+          "cover_path": "out/media/2026-07-01/model_release-01.jpg"
+        },
+        {
+          "headline": "DeepSeek V4正式版涨价，高峰期价格翻倍",
+          "summary": "DeepSeek V4正式版能力升级，但高峰期定价翻倍，引发用户关注。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/06/440162.html",
+          "items": [
+            "3e96d363f6236b19"
+          ],
+          "cover_path": "out/media/2026-07-01/model_release-02.jpg"
+        },
+        {
+          "headline": "OpenAI推出GeneBench-Pro基因组学基准",
+          "summary": "OpenAI发布新基准GeneBench-Pro，用于测试AI在基因组学和生物学领域的性能。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/introducing-genebench-pro",
+          "items": [
+            "0d10f87b0e73423f",
+            "f22aa13823d0baf1"
+          ]
+        },
+        {
+          "headline": "Meituan发布LongCat-2.0：中国无Nvidia训练大模型",
+          "summary": "美团展示LongCat-2.0模型，证明中国可在无Nvidia芯片条件下训练大规模AI模型。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/",
+          "items": [
+            "cb144098dd416ffc"
+          ],
+          "cover_path": "out/media/2026-07-01/model_release-04.jpg"
+        },
+        {
+          "headline": "Ornith-1.0：开源自编排编码Agent模型",
+          "summary": "DeepReinforce发布Ornith-1.0，一个MIT许可的开源权重模型，用于Agent编码。",
+          "importance": 5,
+          "primary_url": "https://deep-reinforce.com/ornith_1_0.html",
+          "items": [
+            "cd72af561bd46c2e"
+          ],
+          "cover_path": "out/media/2026-07-01/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Etched估值50亿美元，Nvidia竞品芯片获10亿订单",
+          "summary": "AI芯片初创公司Etched估值达50亿美元，已签订10亿美元合同，成为Nvidia潜在竞争者。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "items": [
+            "e649b3cda995e8e8"
+          ],
+          "cover_path": "out/media/2026-07-01/company-00.jpg"
+        },
+        {
+          "headline": "亚马逊成立10亿美元FDE组织，对标OpenAI和Anthropic",
+          "summary": "亚马逊设立新基金驱动工程（FDE）组织，工程师嵌入客户公司部署定制Agent。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "items": [
+            "ff87e5467420e465"
+          ],
+          "cover_path": "out/media/2026-07-01/company-01.jpg"
+        },
+        {
+          "headline": "南韩科技巨头承诺5500亿美元解决内存短缺",
+          "summary": "三星和SK海力士加大投资建设内存制造厂，以缓解AI芯片推升的RAM需求。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+          "items": [
+            "526a8767551d5ce1"
+          ],
+          "cover_path": "out/media/2026-07-01/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic与加州政府达成协议，半价提供Claude服务",
+          "summary": "Anthropic与加州州长Newsom合作，允许加州政府以半价使用Claude模型。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "items": [
+            "2d35f3a96ff6220b"
+          ],
+          "cover_path": "out/media/2026-07-01/company-03.jpg"
+        },
+        {
+          "headline": "Arena（AI排行榜）成为1亿美元商业业务",
+          "summary": "免费AI模型排行榜Arena推出付费服务后，商业收入已达1亿美元。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+          "items": [
+            "12e86266e9747e4c"
+          ],
+          "cover_path": "out/media/2026-07-01/company-04.jpg"
+        },
+        {
+          "headline": "前DeepMind三人团队创办量化基金EquiLibre，估值5亿美元",
+          "summary": "EquiLibre Technologies由三位前DeepMind扑克AI研究员创立，专注于量化对冲基金策略。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "items": [
+            "8afc3e0b6ad1dc0c"
+          ],
+          "cover_path": "out/media/2026-07-01/company-05.jpg"
+        },
+        {
+          "headline": "Meta秘密测试竞品聊天机器人未成年人保护",
+          "summary": "Meta雇佣承包商伪装成未成年人，测试ChatGPT、Gemini等对高风险话题的回应。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+          "items": [
+            "a4e288b69ebe1d83",
+            "683f16efd3d69e78"
+          ],
+          "cover_path": "out/media/2026-07-01/company-06.jpg"
+        },
+        {
+          "headline": "DeepSeek发布DSpark，AI推理速度提升85%",
+          "summary": "DeepSeek推出DSpark技术，在出口管制下实现推理速度大幅提升。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/",
+          "items": [
+            "85cc1cd4e7141758"
+          ],
+          "cover_path": "out/media/2026-07-01/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI使用核心转储分析修复18年老Bug",
+          "summary": "OpenAI工程师通过大规模核心转储流行病学方法，定位并修复了一个持续18年的基础设施缺陷。",
+          "importance": 5,
+          "primary_url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+          "items": [
+            "682cbce79095375d"
+          ]
+        },
+        {
+          "headline": "自我进化世界模型提升LLM Agent规划",
+          "summary": "arXiv论文提出自我进化世界模型，使Agent在不稳定环境下仍能可靠规划。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2606.30639v1",
+          "items": [
+            "3a5b042ca59f68ac"
+          ],
+          "cover_path": "out/media/2026-07-01/research-01.jpg"
+        },
+        {
+          "headline": "ScarfBench：企业Java框架迁移的Agent基准",
+          "summary": "IBM发布ScarfBench，评估AI Agent在企业Java框架迁移中的能力。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "items": [
+            "a710b1a3c19e614f"
+          ],
+          "cover_path": "out/media/2026-07-01/research-02.jpg"
+        },
+        {
+          "headline": "DiScoFormer：统一密度与评分函数的Transformer",
+          "summary": "Allen AI发布DiScoFormer，一种可跨分布处理密度估计和评分函数的通用Transformer。",
+          "importance": 3,
+          "primary_url": "https://huggingface.co/blog/allenai/discoformer",
+          "items": [
+            "18f6a97a8cb45904"
+          ],
+          "cover_path": "out/media/2026-07-01/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic发布Claude Science：科研工作台",
+          "summary": "Claude Science是一个为科学家设计的AI工作台，整合数据库、管道和工具，辅助计算研究。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "items": [
+            "091fcf1a4f6a4953",
+            "3d145a145bd5958b",
+            "e1892d5154e2723c",
+            "9ed32f7d3e56133f"
+          ],
+          "cover_path": "out/media/2026-07-01/product-00.jpg"
+        },
+        {
+          "headline": "OpenClaw移动端上线：免费开源Agent程序",
+          "summary": "OpenClaw正式登陆Android和iOS，将开源Agent能力带入手机。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "items": [
+            "b4e71abf76292a99"
+          ],
+          "cover_path": "out/media/2026-07-01/product-01.jpg"
+        },
+        {
+          "headline": "Acti推出AI键盘Agent，跨应用快捷操作",
+          "summary": "Acti让用户通过自然语言创建AI快捷键，在手机键盘上直接调用Agent操作各种应用。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+          "items": [
+            "e6bdc99cd49a269d"
+          ],
+          "cover_path": "out/media/2026-07-01/product-02.jpg"
+        },
+        {
+          "headline": "X推出MCP服务器，方便AI工具连接平台",
+          "summary": "X（原Twitter）发布托管MCP服务器，使开发者能更轻松地将AI应用与X API集成。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+          "items": [
+            "6a6914bbecfbb242"
+          ],
+          "cover_path": "out/media/2026-07-01/product-03.jpg"
+        },
+        {
+          "headline": "Cursor发布移动App，随时指导编码Agent",
+          "summary": "Cursor推出手机应用，允许开发者远程监督和引导编码Agent。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+          "items": [
+            "965ea178e742a7e6"
+          ],
+          "cover_path": "out/media/2026-07-01/product-04.jpg"
+        },
+        {
+          "headline": "Tidal打击AI音乐，切断AI生成曲目收益",
+          "summary": "Tidal将使用自动工具移除冒充艺术家的AI生成音乐，并停止其变现。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+          "items": [
+            "3a26b16e9d4586f3"
+          ],
+          "cover_path": "out/media/2026-07-01/product-05.jpg"
+        },
+        {
+          "headline": "Proton AI聊天机器人Lumo升级至2.0",
+          "summary": "Proton的隐私AI聊天机器人Lumo推出2.0版，增加更多功能。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+          "items": [
+            "eecf1ea4edefcf0c"
+          ],
+          "cover_path": "out/media/2026-07-01/product-06.jpg"
+        },
+        {
+          "headline": "Google Gemini个性化图像生成向美国免费用户开放",
+          "summary": "Google允许美国免费用户基于个人数据生成个性化图像。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+          "items": [
+            "c790e9ce49a67738"
+          ],
+          "cover_path": "out/media/2026-07-01/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI浏览器安全漏洞：简单逻辑绕过防护",
+          "summary": "Ars Technica报道，通过让LLM相信2+2=5即可使其忽略安全限制，引发AI浏览器安全隐患。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "items": [
+            "cb8347245a960ed7"
+          ],
+          "cover_path": "out/media/2026-07-01/opinion-00.jpg"
+        },
+        {
+          "headline": "AI对就业的影响：高采用率企业招聘反而增加",
+          "summary": "报告显示高强度AI采用者员工总数增长10.2%，初级岗位增长12%，反驳AI导致失业论。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "items": [
+            "e04991ce513022c8"
+          ],
+          "cover_path": "out/media/2026-07-01/opinion-01.jpg"
+        },
+        {
+          "headline": "AI Agent不是你的同事",
+          "summary": "MIT Tech Review观点文章，认为将AI Agent视作同事会误导人机协作关系。",
+          "importance": 6,
+          "primary_url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "items": [
+            "f32d92b90beb2660"
+          ],
+          "cover_path": "out/media/2026-07-01/opinion-02.jpg"
+        },
+        {
+          "headline": "农业准备好AI了，但其数据没有",
+          "summary": "MIT Tech Review分析农业AI应用的潜力，但强调数据基础尚未完善。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+          "items": [
+            "e619c54f6a756981"
+          ],
+          "cover_path": "out/media/2026-07-01/opinion-03.jpg"
+        },
+        {
+          "headline": "美国竞选全面使用AI，欧洲画更硬红线",
+          "summary": "美国政治竞选几乎每个环节都已使用AI，欧洲则正在制定更严格的AI监管。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/",
+          "items": [
+            "6683052e3759dc39"
+          ],
+          "cover_path": "out/media/2026-07-01/opinion-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "shot-scraper 1.10发布：支持Agent录制视频演示",
+          "summary": "Shot-scraper新版本引入视频功能，允许Agent自动录制工作过程的屏幕视频。",
+          "importance": 6,
+          "primary_url": "https://github.com/simonw/shot-scraper/releases/tag/1.10",
+          "items": [
+            "990ffaa65a46aa2d",
+            "ae7eadeca3886fd7"
+          ],
+          "cover_path": "out/media/2026-07-01/opensource-00.jpg"
+        },
+        {
+          "headline": "VulnClaw：AI驱动的渗透测试CLI工具",
+          "summary": "基于AI Agent和MCP工具链的开源渗透测试工具，自然语言输入自动完成漏洞发现。",
+          "importance": 6,
+          "primary_url": "https://github.com/Unclecheng-li/VulnClaw",
+          "items": [
+            "f99d416dcfdb46db"
+          ],
+          "cover_path": "out/media/2026-07-01/opensource-01.jpg"
+        },
+        {
+          "headline": "Crawl4AI：开源LLM友好网页爬虫",
+          "summary": "Crawl4AI是一个专为LLM设计的高效网页爬取和内容提取工具。",
+          "importance": 5,
+          "primary_url": "https://github.com/unclecode/crawl4ai",
+          "items": [
+            "466cb2b9b35ce2fa"
+          ],
+          "cover_path": "out/media/2026-07-01/opensource-02.jpg"
+        },
+        {
+          "headline": "video-use：使用编码Agent编辑视频",
+          "summary": "Browser-use团队推出video-use，支持通过编码Agent自动化视频编辑任务。",
+          "importance": 5,
+          "primary_url": "https://github.com/browser-use/video-use",
+          "items": [
+            "3fdc032c51306251"
+          ],
+          "cover_path": "out/media/2026-07-01/opensource-03.jpg"
+        },
+        {
+          "headline": "Google OpenRL：自托管LLM后训练API",
+          "summary": "Google开源OpenRL，用于LLM强化学习后训练的API，支持自托管。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/d5MOPSyGi5XPi1erhUW3",
+          "items": [
+            "e9f00dd8a744d5f0"
+          ],
+          "cover_path": "out/media/2026-07-01/opensource-04.jpg"
+        }
+      ]
+    }
+  ]
+}
