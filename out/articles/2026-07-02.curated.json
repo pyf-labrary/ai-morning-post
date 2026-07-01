@@ -1,0 +1,465 @@
+{
+  "date": "2026-07-02",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Claude Sonnet 5发布：更快更便宜，Agent能力升级",
+          "summary": "Anthropic推出Claude Sonnet 5，主打强Agent能力、更低价格，缩小与Opus差距，即日起通过API和平台可用。",
+          "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "importance": 9,
+          "items": [
+            "4f709b30f47272a2",
+            "16ffc5e4de310d96",
+            "c5182b33c62dee81",
+            "2a9db7ad1b23594f",
+            "bb0c39d1b44b2767",
+            "6a6fc52602380359",
+            "96bc415a3a7c3785",
+            "4ccd6205d0c7a055",
+            "46bb9fea83d911cf"
+          ],
+          "cover_path": "out/media/2026-07-02/model_release-00.jpg"
+        },
+        {
+          "headline": "Anthropic Fable 5和Mythos 5全球解禁",
+          "summary": "美国商务部解除出口管制，Anthropic高级模型重新开放全球访问，新增安全分类器。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+          "importance": 8,
+          "items": [
+            "923d6ba6e53cdf19",
+            "0f40a8c66326dc77",
+            "69a7b70cd93d5e0a",
+            "68e1eebb1ef97ae5",
+            "774d16bd9ac89f2",
+            "2fcdd99a19f09058",
+            "efbfbfcdec1d6d8f",
+            "0a7f54a9ff4cba4f",
+            "04b6509dc4dd7799"
+          ],
+          "cover_path": "out/media/2026-07-02/model_release-01.jpg"
+        },
+        {
+          "headline": "Google推出Nano Banana 2 Lite图像模型",
+          "summary": "Google DeepMind发布最快、最便宜的图像生成模型，几秒出图，面向创作者。",
+          "primary_url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+          "importance": 8,
+          "items": [
+            "8e333cc845e04ef8",
+            "0d31fcd61bb347d0",
+            "cf264cd753bf1046",
+            "d6dff378c9935dc5",
+            "e6bf9279921459e5"
+          ],
+          "cover_path": "out/media/2026-07-02/model_release-02.jpg"
+        },
+        {
+          "headline": "OpenAI论文泄密：或有三款GPT-5.6 Pro模型",
+          "summary": "OpenAI基因组论文意外提及尚未公布的Pro系列模型，打破单旗舰策略。",
+          "primary_url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/",
+          "importance": 7,
+          "items": [
+            "b3e3bc5a744446dc"
+          ],
+          "cover_path": "out/media/2026-07-02/model_release-03.jpg"
+        },
+        {
+          "headline": "NVIDIA开源Nemotron-Labs-TwoTower扩散模型",
+          "summary": "NVIDIA发布基于预训练自回归框架的扩散语言模型，开源权重，目标突破推理吞吐瓶颈。",
+          "primary_url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+          "importance": 5,
+          "items": [
+            "c7c69bf136d93498"
+          ],
+          "cover_path": "out/media/2026-07-02/model_release-04.jpg"
+        },
+        {
+          "headline": "Google推出TabFM表格基础模型",
+          "summary": "Google Research发布TabFM，支持零样本分类和回归，通过上下文学习单次前向预测。",
+          "primary_url": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+          "importance": 4,
+          "items": [
+            "13f5c28fea9dfb77"
+          ],
+          "cover_path": "out/media/2026-07-02/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Together AI获8亿美元C轮融资，加速开源AI",
+          "summary": "Together AI宣布完成8亿美元C轮融资，称封闭模型经济不可持续，将全力支持开源。",
+          "primary_url": "https://www.together.ai/blog/announcing-our-series-c",
+          "importance": 6,
+          "items": [
+            "2578191db8a6bbd1"
+          ],
+          "cover_path": "out/media/2026-07-02/company-00.jpg"
+        },
+        {
+          "headline": "Etched估值50亿美元，AI芯片合同达10亿",
+          "summary": "NVIDIA竞争者Etched宣布已锁定10亿美元AI推理系统合同，估值达50亿。",
+          "primary_url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "importance": 7,
+          "items": [
+            "e649b3cda995e8e8",
+            "e7a45becef1bb406"
+          ],
+          "cover_path": "out/media/2026-07-02/company-01.jpg"
+        },
+        {
+          "headline": "Meta计划出售多余AI算力，进军云业务",
+          "summary": "Meta拟建云基础设施业务，对外出售闲置AI算力和模型使用权，与AWS、Azure、GCP竞争。",
+          "primary_url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "importance": 7,
+          "items": [
+            "c9cad24f3bcc07b9",
+            "1df4da77b41911e2",
+            "4392e69e582ce856"
+          ],
+          "cover_path": "out/media/2026-07-02/company-02.jpg"
+        },
+        {
+          "headline": "Amazon成立10亿美元FDE部门，推进企业Agent部署",
+          "summary": "亚马逊组建新的Forward Deployed Engineer团队，继OpenAI和Anthropic之后，专注企业Agent落地。",
+          "primary_url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "importance": 6,
+          "items": [
+            "ff87e5467420e465"
+          ],
+          "cover_path": "out/media/2026-07-02/company-03.jpg"
+        },
+        {
+          "headline": "Venice AI以65M美元A轮融资晋升独角兽",
+          "summary": "隐私优先的AI平台Venice AI完成6500万美元A轮融资，估值超10亿美元，年化收入7000万。",
+          "primary_url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+          "importance": 5,
+          "items": [
+            "affeb866ecefcce5"
+          ],
+          "cover_path": "out/media/2026-07-02/company-04.jpg"
+        },
+        {
+          "headline": "Wayve启动8500万美元员工回购，估值85亿",
+          "summary": "自动驾驶AI公司Wayve推出员工股票回购计划，估值85亿美元，吸引和留住人才。",
+          "primary_url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "importance": 5,
+          "items": [
+            "9a94ad57759b302e"
+          ],
+          "cover_path": "out/media/2026-07-02/company-05.jpg"
+        },
+        {
+          "headline": "Cloudflare新政：AI公司须为发布者内容付费",
+          "summary": "Cloudflare要求AI公司在9月15日前分离搜索爬虫与训练/Agent爬虫，否则默认被多数发布者站点屏蔽。",
+          "primary_url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "importance": 6,
+          "items": [
+            "4f079a7609e99d60"
+          ],
+          "cover_path": "out/media/2026-07-02/company-06.jpg"
+        },
+        {
+          "headline": "百度引入大模型专家孙天祥，任基础模型研发负责人",
+          "summary": "大模型领域专家孙天祥加入百度，负责BMU（基础模型研发部），进一步提升AI技术投入。",
+          "primary_url": "https://36kr.com/newsflashes/3877032431726598?f=rss",
+          "importance": 4,
+          "items": [
+            "09a6b23d96e68e0c"
+          ],
+          "cover_path": "out/media/2026-07-02/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Meta非侵入式脑机接口逼近手术植入效果",
+          "summary": "Meta发布Brain2Qwerty研究，非侵入式脑电图解码文本准确率大幅提升，接近植入式方案。",
+          "primary_url": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
+          "importance": 6,
+          "items": [
+            "64ecbdbf8b4b7119"
+          ],
+          "cover_path": "out/media/2026-07-02/research-00.jpg"
+        },
+        {
+          "headline": "英伟达开源机器人技能库，Jim Fan称范式改变",
+          "summary": "NVIDIA开源持续学习范式下的机器人技能库，具身智能训练迎来新思路。",
+          "primary_url": "https://www.qbitai.com/2026/07/441396.html",
+          "importance": 6,
+          "items": [
+            "019148c6b6fa2e97"
+          ],
+          "cover_path": "out/media/2026-07-02/research-01.jpg"
+        },
+        {
+          "headline": "AI浏览器可被诱导突破防护，安全隐忧升级",
+          "summary": "研究发现通过告诉LLM“2+2=5”即可使其忽略安全限制执行违规指令，揭示AI浏览器脆弱性。",
+          "primary_url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "importance": 5,
+          "items": [
+            "cb8347245a960ed7"
+          ],
+          "cover_path": "out/media/2026-07-02/research-02.jpg"
+        },
+        {
+          "headline": "Loop世界模型论文登顶Hugging Face",
+          "summary": "中国初创公司研发的Loop世界模型论文在Hugging Face上引起关注，获周鸿祎、陆奇投资。",
+          "primary_url": "https://www.qbitai.com/2026/07/441225.html",
+          "importance": 5,
+          "items": [
+            "d754f0e8379f5d69"
+          ],
+          "cover_path": "out/media/2026-07-02/research-03.jpg"
+        },
+        {
+          "headline": "ScarfBench：评估AI Agent迁移Java框架能力",
+          "summary": "IBM发布ScarfBench基准，用于测试AI Agent在企业Java框架迁移中的表现。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "importance": 4,
+          "items": [
+            "a710b1a3c19e614f"
+          ],
+          "cover_path": "out/media/2026-07-02/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic推出Claude Science科研工作台",
+          "summary": "Claude Science是专为科学家打造的AI工作环境，整合数据、管道和工具，简化计算研究流程。",
+          "primary_url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "importance": 8,
+          "items": [
+            "091fcf1a4f6a4953",
+            "3d145a145bd5958b",
+            "e1892d5154e2723c",
+            "a94770b56ebf23a7"
+          ],
+          "cover_path": "out/media/2026-07-02/product-00.jpg"
+        },
+        {
+          "headline": "Google Gemini Spark智能助手登陆Mac",
+          "summary": "Google的24/7 Agentic助手Gemini Spark正式支持Mac，实时追踪和多应用协作。",
+          "primary_url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "importance": 5,
+          "items": [
+            "fee6e3c09c9066a6"
+          ],
+          "cover_path": "out/media/2026-07-02/product-01.jpg"
+        },
+        {
+          "headline": "SpaceX展示AI手机原型，形似手机",
+          "summary": "SpaceX向投资者展示“手机状”AI设备原型，可能拓展无线业务。",
+          "primary_url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "importance": 6,
+          "items": [
+            "ae062edbd2e19a26",
+            "f6b97e28a307dd5d"
+          ],
+          "cover_path": "out/media/2026-07-02/product-02.jpg"
+        },
+        {
+          "headline": "Acti将AI Agent嵌入手机键盘",
+          "summary": "Acti推出iOS/Android键盘应用，支持自然语言创建AI快捷方式，跨应用执行任务。",
+          "primary_url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+          "importance": 5,
+          "items": [
+            "e6dcb99cd49a269d"
+          ],
+          "cover_path": "out/media/2026-07-02/product-03.jpg"
+        },
+        {
+          "headline": "X推出MCP服务器，打通AI工具与平台",
+          "summary": "X上线托管MCP服务器，让AI应用更易连接X API，扩展生态。",
+          "primary_url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+          "importance": 4,
+          "items": [
+            "6a6914bbecfbb242"
+          ],
+          "cover_path": "out/media/2026-07-02/product-04.jpg"
+        },
+        {
+          "headline": "OpenClaw Agent终于上线Android和iOS",
+          "summary": "免费开源的Agent编程工具OpenClaw正式支持移动端，随处可编程。",
+          "primary_url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "importance": 5,
+          "items": [
+            "b4e71abf76292a99"
+          ],
+          "cover_path": "out/media/2026-07-02/product-05.jpg"
+        },
+        {
+          "headline": "shot-scraper 1.10上线：Agent可录制视频演示",
+          "summary": "Simon Willison发布shot-scraper 1.10，新增视频录制功能，让Agent自动录制工作流程演示。",
+          "primary_url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+          "importance": 4,
+          "items": [
+            "990ffaa65a46aa2d",
+            "ae7eadeca3886fd7"
+          ],
+          "cover_path": "out/media/2026-07-02/product-06.jpg"
+        },
+        {
+          "headline": "Hugging Face联手Cerebras实现Gemma 4实时语音AI",
+          "summary": "Hugging Face与Cerebras合作，基于Gemma 4实现低延迟实时语音AI推理。",
+          "primary_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+          "importance": 4,
+          "items": [
+            "091e70026de7369b"
+          ],
+          "cover_path": "out/media/2026-07-02/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "软件工厂与FDE：AI工程新范式兴起",
+          "summary": "Latent Space多篇文章探讨“软件工厂”和Forward Deployed Engineer趋势，认为AI将重构软件工程。",
+          "primary_url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+          "importance": 7,
+          "items": [
+            "dc82395fef0e7471",
+            "82732006f351c404",
+            "b61f4b399305feb0",
+            "6d36ef1c7b1455fd",
+            "dff928b7241ea8d4"
+          ],
+          "cover_path": "out/media/2026-07-02/opinion-00.jpg"
+        },
+        {
+          "headline": "Godot引擎不再接受AI编写代码贡献",
+          "summary": "开源游戏引擎Godot宣布不再接受AI编写的代码贡献，理由是无法信任重度AI用户维护代码。",
+          "primary_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+          "importance": 6,
+          "items": [
+            "310dc350e741bcac"
+          ],
+          "cover_path": "out/media/2026-07-02/opinion-01.jpg"
+        },
+        {
+          "headline": "Claude Code暗中标记中国用户请求",
+          "summary": "调查发现Claude Code对中文请求嵌入隐写标记，引发隐私担忧。",
+          "primary_url": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+          "importance": 7,
+          "items": [
+            "23e291476f0bf8cc",
+            "663552323f50a5bc",
+            "418700b21818edfa"
+          ],
+          "cover_path": "out/media/2026-07-02/opinion-02.jpg"
+        },
+        {
+          "headline": "LLM陷入群体思维，初创公司尝试突破",
+          "summary": "MIT Tech Review文章指出LLM生成结果同质化严重（如数字偏好），创业公司试图引入多样性。",
+          "primary_url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "importance": 5,
+          "items": [
+            "cbd91ae7074c5759"
+          ],
+          "cover_path": "out/media/2026-07-02/opinion-03.jpg"
+        },
+        {
+          "headline": "Kent Beck谈AI时代软件工程：信任比代码生成更重要",
+          "summary": "敏捷开发创始人Kent Beck反思AI时代软件工程，强调建立信任而非仅仅生成代码。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+          "importance": 5,
+          "items": [
+            "e25c9c5c1e74ebf4"
+          ],
+          "cover_path": "out/media/2026-07-02/opinion-04.jpg"
+        },
+        {
+          "headline": "Warp CEO：软件工厂是编程的下一个阶段",
+          "summary": "Warp创始人Zach Lloyd认为每个大型软件项目都将拥有自动化工厂，工程师需提前准备。",
+          "primary_url": "https://www.latent.space/p/software-factories",
+          "importance": 5,
+          "items": [
+            "82732006f351c404"
+          ],
+          "cover_path": "out/media/2026-07-02/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Upsonic：AI驱动渗透测试开源工具",
+          "summary": "Strix是一款开源AI渗透测试工具，帮助发现和修复应用漏洞。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 4,
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-07-02/opensource-00.jpg"
+        },
+        {
+          "headline": "Google agents-cli：轻松在云端部署AI Agent",
+          "summary": "Google发布agents-cli，将任何编码助手转化为在Google Cloud上创建、评估和部署Agent的专家。",
+          "primary_url": "https://github.com/google/agents-cli",
+          "importance": 5,
+          "items": [
+            "5d5fec7d2c8576b1"
+          ],
+          "cover_path": "out/media/2026-07-02/opensource-01.jpg"
+        },
+        {
+          "headline": "video-use：用编码Agent编辑视频",
+          "summary": "浏览器自动化项目video-use让AI Agent通过代码编辑视频，开启编程式视频制作。",
+          "primary_url": "https://github.com/browser-use/video-use",
+          "importance": 4,
+          "items": [
+            "3fdc032c51306251"
+          ],
+          "cover_path": "out/media/2026-07-02/opensource-02.jpg"
+        },
+        {
+          "headline": "Superpowers：Agent技能框架与开发方法",
+          "summary": "Superpowers提供一套可组合的技能和完整的软件开发方法学，帮助编码Agent高效工作。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 4,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-07-02/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenSquilla 0.4.0：AI写代码首次自我验证",
+          "summary": "OpenSquilla新版本引入自我验证能力，AI生成的代码可以自动检查正确性。",
+          "primary_url": "https://www.qbitai.com/2026/07/441240.html",
+          "importance": 5,
+          "items": [
+            "f3c2f9cee8f774db"
+          ],
+          "cover_path": "out/media/2026-07-02/opensource-04.jpg"
+        },
+        {
+          "headline": "Facebook开源Astryx设计系统：为Agent时代构建",
+          "summary": "Meta开源完全可定制的设计系统Astryx，支持人与Agent共同构建界面。",
+          "primary_url": "https://github.com/facebook/astryx",
+          "importance": 4,
+          "items": [
+            "6668ba9d3c31b06a"
+          ],
+          "cover_path": "out/media/2026-07-02/opensource-05.jpg"
+        }
+      ]
+    }
+  ]
+}
