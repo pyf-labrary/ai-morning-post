@@ -1,0 +1,471 @@
+{
+  "date": "2026-07-03",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "importance": 10,
+          "headline": "Anthropic Fable/Mythos 5全球解禁，美国解除出口限制",
+          "summary": "美国特朗普政府解除对Anthropic最先进模型Fable 5和Mythos 5的安全测试限制，允许全球发布。这些模型在通过安全评估后获准出口。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+          "items": [
+            "923d6ba6e53cdf19",
+            "77416d9bd89ac2f7",
+            "04b6509dc4dd7799",
+            "6a1f9835608b1684"
+          ],
+          "cover_path": "out/media/2026-07-03/model_release-00.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Anthropic发布Claude Sonnet 5，上线首日遭遇差评",
+          "summary": "Anthropic在Fable/Mythos前突然发布Sonnet 5模型，但用户评价其性价比不如千问和Minimax，引发争议。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
+          "items": [
+            "04b6509dc4dd7799",
+            "d87f70f97fdc5c19"
+          ]
+        },
+        {
+          "importance": 4,
+          "headline": "天工3.2升级：Skywork Tags让Agent加入工作群聊",
+          "summary": "昆仑万维旗下天工AI推出Skywork Tags功能，允许Agent以数字工牌身份加入群聊，与人协作完成任务。",
+          "primary_url": "https://www.qbitai.com/2026/07/442030.html",
+          "items": [
+            "d94873c8b03d54a9"
+          ],
+          "cover_path": "out/media/2026-07-03/model_release-02.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "可灵AI完成近30亿美元融资，创视频模型融资纪录",
+          "summary": "快手可灵AI独立融资，投后估值约180亿美元，由CPE源峰、腾讯等领投，加速视频生成商业化。",
+          "primary_url": "https://36kr.com/newsflashes/3878648324845831?f=rss",
+          "items": [
+            "b064298482692dae"
+          ],
+          "cover_path": "out/media/2026-07-03/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "importance": 10,
+          "headline": "OpenAI提议将5%股权捐给美国主权财富基金",
+          "summary": "Sam Altman向特朗普政府提出将OpenAI 5%股份注入美国主权财富基金，以换取政策支持，远超此前参议员Sanders的目标。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+          "items": [
+            "0498e29ce22707f7",
+            "077214e41510e02d",
+            "267a8d371ad231ab"
+          ],
+          "cover_path": "out/media/2026-07-03/company-00.jpg"
+        },
+        {
+          "importance": 8,
+          "headline": "微软豪掷25亿美元成立AI部署公司，嵌入6000工程师",
+          "summary": "微软推出“Frontier Company”，计划派遣6000名AI工程师常驻企业客户，帮助实施AI解决方案，类似亚马逊和OpenAI的模式。",
+          "primary_url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "items": [
+            "d9921d9b982f756e",
+            "d0e8959d4d26b4e6"
+          ],
+          "cover_path": "out/media/2026-07-03/company-01.jpg"
+        },
+        {
+          "importance": 8,
+          "headline": "Meta计划推出云业务，出售闲置AI算力",
+          "summary": "Meta追随SpaceX脚步，计划将过剩AI计算资源对外销售，与AWS、Azure等竞争。市场一度误读为算力过剩，导致科技股波动。",
+          "primary_url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "items": [
+            "c9cad24f3bcc07b9",
+            "1df4da77b41911e2",
+            "0ade59da1a9f30be",
+            "eff361afbafa27f6"
+          ],
+          "cover_path": "out/media/2026-07-03/company-02.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Anthropic与三星洽谈定制AI芯片",
+          "summary": "Anthropic正与三星讨论制造定制芯片，以减少对英伟达的依赖，同时强调与英伟达仍保持合作。",
+          "primary_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "items": [
+            "24c13ea4e976511e",
+            "2e78221b8a0f7742"
+          ],
+          "cover_path": "out/media/2026-07-03/company-03.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Nvidia联合合作伙伴投资美国AI制造及基础设施",
+          "summary": "Nvidia宣布与合作伙伴共同投资美国本土AI工厂、供应链和能源，推动“美国制造”。同时推出大规模计算解锁计划，邀请资本方共建AI基础设施。",
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+          "items": [
+            "2d0fc22f4f9a7920",
+            "e3e5b8b135b3de94"
+          ],
+          "cover_path": "out/media/2026-07-03/company-04.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Venice AI获6500万美元A轮融资，估值超10亿美元",
+          "summary": "隐私优先AI平台Venice AI完成融资，年化收入超7000万美元，成为新晋独角兽。",
+          "primary_url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+          "items": [
+            "affeb866ecefcce5"
+          ],
+          "cover_path": "out/media/2026-07-03/company-05.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "传马斯克收购卫星光通信公司Mesh，打通星链关键环节",
+          "summary": "据雷峰网报道，马斯克收购Mesh公司以加强星链卫星间激光通信能力，推动全球组网。",
+          "primary_url": "https://www.leiphone.com/category/ai/Kt66f2aNWvTzcMod.html",
+          "items": [
+            "f9e6f1571d50316a"
+          ]
+        },
+        {
+          "importance": 4,
+          "headline": "印度科技大亨自掏3000万美元开发AI版Office替代品",
+          "summary": "Bhavin Turakhia推出Neo，目标用AI挑战微软Office和Google Apps生态。",
+          "primary_url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "items": [
+            "ead2ab84d94917f1"
+          ],
+          "cover_path": "out/media/2026-07-03/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "importance": 5,
+          "headline": "新研究揭示Transformer状态与预测可分离，提升效率",
+          "summary": "论文提出状态-预测分离假设，通过解耦Token预测和状态存储两个角色，有望改善Transformer计算效率。",
+          "primary_url": "http://arxiv.org/abs/2607.01218v1",
+          "items": [
+            "a8b413ec8daa7800"
+          ],
+          "cover_path": "out/media/2026-07-03/research-00.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "LLM生成研究创意与人类的差距有多大？新基准发布",
+          "summary": "arXiv论文衡量LLM生成研究思路与人类研究者的距离，为自动科研评估提供新视角。",
+          "primary_url": "http://arxiv.org/abs/2607.01233v1",
+          "items": [
+            "4ce0aded905cd106"
+          ],
+          "cover_path": "out/media/2026-07-03/research-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "仅训练单层Transformer即可匹配全参数RL后训练效果",
+          "summary": "研究表明LLM后训练中的RL适应主要集中在少数层，单层微调可达到全参数训练的收益。",
+          "primary_url": "http://arxiv.org/abs/2607.01232v1",
+          "items": [
+            "94e5e33576b8976f"
+          ],
+          "cover_path": "out/media/2026-07-03/research-02.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Meta发布非侵入式脑机AI，精度接近手术植入",
+          "summary": "Meta的Brain2Qwerty v2模型通过脑电信号解码文本，在无创条件下逼近植入式方案。",
+          "primary_url": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
+          "items": [
+            "64ecbdbf8b4b7119"
+          ],
+          "cover_path": "out/media/2026-07-03/research-03.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "LLM陷入“群体思维”困境，新创业公司试图突破",
+          "summary": "MIT Tech Review文章指出现有LLM随机数生成等任务存在偏差，新方法希望打破模型同质化。",
+          "primary_url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "items": [
+            "cbd91ae7074c5759"
+          ],
+          "cover_path": "out/media/2026-07-03/research-04.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "自变量机器人发布跨模态动作分词器X-Tokenizer",
+          "summary": "提出将VLA模型中的动作离散化问题重新定义为多模态语义接口学习，提升长程任务性能8.25%。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html",
+          "items": [
+            "56e2dd575ea20c4a"
+          ]
+        },
+        {
+          "importance": 4,
+          "headline": "AI Agent可完成16%自由职业任务，8个月从2.5%跃升",
+          "summary": "新研究Remote Labor Index显示AI代理在编程、设计等任务中能力快速提升，威胁传统外包。",
+          "primary_url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+          "items": [
+            "a940b220211f0628"
+          ],
+          "cover_path": "out/media/2026-07-03/research-06.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "FurnitureVLA：双臂机器人学习组装真实家具",
+          "summary": "南洋理工等团队提出首个真实尺度双臂家具组装VLA系统，结合视觉语言动作模型。",
+          "primary_url": "http://arxiv.org/abs/2607.01212v1",
+          "items": [
+            "adcc38cb94787f8a"
+          ],
+          "cover_path": "out/media/2026-07-03/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "Google Gemini Spark登陆Mac，24/7智能助手更强大",
+          "summary": "Google的代理型助手Gemini Spark正式支持Mac，新增实时追踪和更多应用集成。",
+          "primary_url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "items": [
+            "fee6e3c09c9066a6"
+          ],
+          "cover_path": "out/media/2026-07-03/product-00.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Meta推出AI游戏应用Pocket，文字生成互动小游戏",
+          "summary": "Meta秘密发布Pocket，用户可输入提示词生成并分享迷你游戏，基于vibe-coding理念。",
+          "primary_url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "items": [
+            "6257a5c6295fa56a"
+          ],
+          "cover_path": "out/media/2026-07-03/product-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Google NotebookML新增短视频功能，类似TikTok风格",
+          "summary": "NotebookML升级支持自动生成视频摘要和短视频，用户可快速获取文档要点。",
+          "primary_url": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/",
+          "items": [
+            "87a130a715d867e7"
+          ],
+          "cover_path": "out/media/2026-07-03/product-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "SpaceX展示AI手机原型，或改变通信市场格局",
+          "summary": "SpaceX向投资者展示一款集成xAI技术的轻薄AI手机，意图进入无线终端领域。",
+          "primary_url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "items": [
+            "ae062edbd2e19a26",
+            "f6b97e28a307dd5d"
+          ],
+          "cover_path": "out/media/2026-07-03/product-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Cloudflare要求AI公司为爬虫内容付费，否则默认屏蔽",
+          "summary": "Cloudflare发布新政策，要求AI公司区分搜索爬虫和训练爬虫，9月15日后未合规可能被出版商防火墙拦截。",
+          "primary_url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "items": [
+            "4f079a7609e99d60"
+          ],
+          "cover_path": "out/media/2026-07-03/product-04.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "钉钉A1录音卡入选Gartner可穿戴设备报告",
+          "summary": "钉钉推出的AI录音硬件获得国际认可，成为企业级AI协作平台在硬件领域的代表。",
+          "primary_url": "https://www.qbitai.com/2026/07/442024.html",
+          "items": [
+            "f2b7df536cc87691"
+          ],
+          "cover_path": "out/media/2026-07-03/product-05.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "影智XBOT发布通用餐饮机器人矩阵及“一脑多形”体系",
+          "summary": "影智发布三款餐饮机器人（咖啡、冰淇淋、全场景）及XOS 3.0操作系统和AI Agent“爱宝店长”。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/bn6JrENVQGf1G9tU.html",
+          "items": [
+            "29d46db804956f9a"
+          ]
+        },
+        {
+          "importance": 3,
+          "headline": "Adobe探索“代理网站”，为每位访客自动构建个性化页面",
+          "summary": "Latent Space报道，Adobe正实验“Agentic Sites”技术，根据用户意图实时组装网页。",
+          "primary_url": "https://www.latent.space/p/the-website-of-the-future",
+          "items": [
+            "717269d2c7361db8"
+          ],
+          "cover_path": "out/media/2026-07-03/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "Cloudflare CEO警告：AI Agent将让互联网每周出现严重漏洞",
+          "summary": "Cloudflare CEO马修·普林斯在采访中表示，AI Agent的快速部署将导致类似Log4j的重大安全事件频发。",
+          "primary_url": "https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1",
+          "items": [
+            "3b370328c74d8462"
+          ],
+          "cover_path": "out/media/2026-07-03/opinion-00.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "GitLab调研：AI工具加速编码但未提升整体交付效率",
+          "summary": "GitLab研究发现AI辅助编程工具仅加快代码编写，但软件交付全流程效率并未提升，呼吁关注协作和测试。",
+          "primary_url": "https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO",
+          "items": [
+            "cf22f3206d9f90ea"
+          ],
+          "cover_path": "out/media/2026-07-03/opinion-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Jersey Mike's IPO文件凸显AI炒作泛滥",
+          "summary": "TechCrunch评论称连三明治连锁店Jersey Mike's IPO文件中都刻意提及AI，反映AI概念过度包装。",
+          "primary_url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "items": [
+            "08c71a91451522c4"
+          ],
+          "cover_path": "out/media/2026-07-03/opinion-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Agent规模化落地为何陷入僵局？业内冷思考",
+          "summary": "InfoQ文章探讨AI Agent在企业中规模化应用面临的挑战，包括可靠性、成本和组织变革。",
+          "primary_url": "https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t",
+          "items": [
+            "1a9dbc2fc1a9cda7"
+          ],
+          "cover_path": "out/media/2026-07-03/opinion-03.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "用户嘲讽“不配用Fable”，Anthropic回应引发争议",
+          "summary": "InfoQ报道用户反馈Anthropic Fable模型体验不佳，官方回应“最贵的模型给最憋屈的体验”引发讨论。",
+          "primary_url": "https://www.infoq.cn/article/HDE9Hoe3RVyNlX3CCGzV",
+          "items": [
+            "6a1f9835608b1684"
+          ],
+          "cover_path": "out/media/2026-07-03/opinion-04.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "AI Coding正在改变工程师分工，前后端界限消失",
+          "summary": "InfoQ分析AI编程工具导致大厂技术栈重构，前端后端工程师角色逐渐融合。",
+          "primary_url": "https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x",
+          "items": [
+            "27b575a26dde016f"
+          ],
+          "cover_path": "out/media/2026-07-03/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "AReaL 2.0开源：面向自演进AI Agent的RL基础设施",
+          "summary": "小米与社区合作发布AReaL 2.0，提供强化学习框架支持Agent自我进化，降低开发门槛。",
+          "primary_url": "https://www.qbitai.com/2026/07/442134.html",
+          "items": [
+            "95784ac43d68c27a",
+            "fd4e962e0ff86fb5"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-00.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Vercel发布开源AI Agent框架Eve",
+          "summary": "Vercel推出Eve，一个开源智能体开发框架，旨在简化Agent的构建和部署。",
+          "primary_url": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ",
+          "items": [
+            "2027d355262ead52"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Google开源agents-cli：在命令行创建、评估和部署Agent",
+          "summary": "Google发布agents-cli，支持将任何编码助手转变为Agent专家，可直接在Google Cloud上操作。",
+          "primary_url": "https://github.com/google/agents-cli",
+          "items": [
+            "5d5fec7d2c8576b1"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "腾讯云开源CubeSandbox：为AI Agent提供轻量沙箱",
+          "summary": "腾讯云发布CubeSandbox，支持即时、并发、安全的Agent运行环境，适合测试和隔离。",
+          "primary_url": "https://github.com/TencentCloud/CubeSandbox",
+          "items": [
+            "3005c6ea295e962c"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "browser-use推出video-use：用编码Agent编辑视频",
+          "summary": "开源工具video-use让编码Agent像操作浏览器一样编辑视频，实现AI自动化视频制作。",
+          "primary_url": "https://github.com/browser-use/video-use",
+          "items": [
+            "3fdc032c51306251"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-04.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Strix：开源的AI渗透测试工具，自动发现应用漏洞",
+          "summary": "Strix使用AI驱动安全测试，帮助开发者在早期发现和修复漏洞，减少安全风险。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-05.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "agency-agents：全功能AI代理机构，集成多种专家Agent",
+          "summary": "开源项目提供一整套AI Agent集合，包括前端、Reddit运营、幽默注入等，可直接调用。",
+          "primary_url": "https://github.com/msitarzewski/agency-agents",
+          "items": [
+            "273487146a35eec0"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-06.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Facebook开源Astryx：为Agent时代设计的可定制设计系统",
+          "summary": "Meta开源Astryx，一套面向人类和代码Agent协作的UI组件库，支持高度自定义。",
+          "primary_url": "https://github.com/facebook/astryx",
+          "items": [
+            "6668ba9d3c31b06a"
+          ],
+          "cover_path": "out/media/2026-07-03/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
