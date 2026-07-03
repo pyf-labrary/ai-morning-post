@@ -1,0 +1,346 @@
+{
+  "date": "2026-07-04",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic 发布 Claude Sonnet 5 遭差评刷屏",
+          "summary": "Anthropic 新一代模型 Claude Sonnet 5（Fable 5）上线不到24小时，因性能下降、拒答问题等遭遇大量用户差评，性价比被指不如竞品。",
+          "importance": 8,
+          "primary_url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
+          "items": [
+            "9c3885465d278ec2",
+            "6a1f9835608b1684",
+            "d87f70f97fdc5c19",
+            "c8f351e0418b1b85"
+          ]
+        },
+        {
+          "headline": "生数科技发布 Vidu S1 实时交互视频模型",
+          "summary": "Vidu S1 支持实时视频通话和语音控制视频走向，提供高清分辨率与高帧率，可创建专属交互角色。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3879857819201798",
+          "items": [
+            "79abc478b846a221",
+            "44e07e264e3c75aa"
+          ],
+          "cover_path": "out/media/2026-07-04/model_release-01.jpg"
+        },
+        {
+          "headline": "Mistral AI 开源 Leanstral 1.5 数学证明 Agent",
+          "summary": "Leanstral 1.5 是一个专注于 Lean 4 的代码 Agent 模型，在 PutnamBench 上解决 587/672 个问题，采用 119B MoE 架构。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+          "items": [
+            "67b411ea0d86d9a5"
+          ],
+          "cover_path": "out/media/2026-07-04/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 提议让美国政府持股 5%，与特朗普政府谈",
+          "summary": "Sam Altman 与特朗普政府谈判，提议将 OpenAI 5% 股权捐给美国主权财富基金，金额远低于 Sanders 目标。",
+          "importance": 9,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+          "items": [
+            "0498e29ce22707f7",
+            "077214e41510e02d"
+          ],
+          "cover_path": "out/media/2026-07-04/company-00.jpg"
+        },
+        {
+          "headline": "微软斥资 25 亿美元成立 AI 部署公司 Frontier",
+          "summary": "Microsoft 推出 Frontier Company，计划在企业客户中嵌入 6000 名 AI 工程师，效仿 Amazon、OpenAI 等。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "items": [
+            "d9921d9b982f756e",
+            "d0e8959d4d26b4e6"
+          ],
+          "cover_path": "out/media/2026-07-04/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 与三星洽谈定制 AI 芯片",
+          "summary": "Anthropic 正与三星讨论开发定制芯片，一周前 OpenAI 刚宣布与博通合作自研芯片。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "items": [
+            "24c13ea4e976511e",
+            "2e78221b8a0f7742",
+            "12b9251622fc20e8"
+          ],
+          "cover_path": "out/media/2026-07-04/company-02.jpg"
+        },
+        {
+          "headline": "扎克伯格内部承认 AI 代理进展慢于预期",
+          "summary": "Meta CEO 在内部会议上表示 AI 开发进展未达预期，同日 Meta 推出 AI 游戏应用 Pocket 但被指低调。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "items": [
+            "6904bb33e8c1f9ed",
+            "f2a4b497470726e0"
+          ],
+          "cover_path": "out/media/2026-07-04/company-03.jpg"
+        },
+        {
+          "headline": "Google DeepMind 宣布与 A24 研究合作",
+          "summary": "双方首次合作研究，探索 AI 在影视创作中的应用，具体方向未公开。",
+          "importance": 6,
+          "primary_url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "items": [
+            "27f827d332e4bd73"
+          ],
+          "cover_path": "out/media/2026-07-04/company-04.jpg"
+        },
+        {
+          "headline": "谷歌 2025 年因 AI 建设电力消耗飙升 37%",
+          "summary": "Google 努力平衡 AI 数据中心排放与清洁能源目标，面临环保压力。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+          "items": [
+            "4318a83b0d6db79b"
+          ],
+          "cover_path": "out/media/2026-07-04/company-05.jpg"
+        },
+        {
+          "headline": "中国 AI 视频公司 Kling 融资 20 亿美元筹备港股 IPO",
+          "summary": "Kling 获得 20 亿美元融资，计划在香港上市，估值或超百亿。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
+          "items": [
+            "9df5df45dae37744"
+          ],
+          "cover_path": "out/media/2026-07-04/company-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "英国 AI 安全研究所发现基准测试低估 AI Agent 能力",
+          "summary": "UK AISI 实验显示标准基准系统性低估了 AI 代理的真实能力，可能隐藏风险。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+          "items": [
+            "f6759e48da982b38"
+          ],
+          "cover_path": "out/media/2026-07-04/research-00.jpg"
+        },
+        {
+          "headline": "中国团队将 JEPA 架构用于细胞建模，推进世界模型",
+          "summary": "受 LeCun JEPA 启发，研究将世界模型概念引入生命科学，实现细胞内部状态预测。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/07/442746.html",
+          "items": [
+            "313f21bf1860023b"
+          ],
+          "cover_path": "out/media/2026-07-04/research-01.jpg"
+        },
+        {
+          "headline": "arXiv 论文分析 AI 编码 Agent 的分布式攻击面",
+          "summary": "研究指出持久性状态 AI 控制中存在新的攻击面，提醒注意 Agent 安全。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2607.02514v1",
+          "items": [
+            "804a05327f643501"
+          ],
+          "cover_path": "out/media/2026-07-04/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Vercel 推出开源 Agent 框架 Eve，重新定义软件形态",
+          "summary": "Vercel 首席软件官称 Agent 是新型软件，Eve 框架注重技能、沙箱和 agent 可读网站。",
+          "importance": 7,
+          "primary_url": "https://www.latent.space/p/vercel-agents-new-software",
+          "items": [
+            "9802276af1dc7325",
+            "2027d355262ead52"
+          ],
+          "cover_path": "out/media/2026-07-04/product-00.jpg"
+        },
+        {
+          "headline": "微软大改 Copilot 并推出 AutoPilot Agents 超级应用",
+          "summary": "Microsoft 对 Copilot 进行彻底改造，加入 AutoPilot 代理功能，加入超级应用竞赛。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+          "items": [
+            "1e3997f2102dfb25"
+          ],
+          "cover_path": "out/media/2026-07-04/product-01.jpg"
+        },
+        {
+          "headline": "Adobe 实验“Agentic 网站”：页面按用户意图自组装",
+          "summary": "Adobe 正在测试根据个人用户意图动态生成网页的代理技术，变革 Web 体验。",
+          "importance": 6,
+          "primary_url": "https://www.latent.space/p/the-website-of-the-future",
+          "items": [
+            "717269d2c7361db8"
+          ],
+          "cover_path": "out/media/2026-07-04/product-02.jpg"
+        },
+        {
+          "headline": "Meta 低调推出“Vibe Coding”游戏应用 Pocket",
+          "summary": "Pocket 允许用户通过文本提示生成并分享互动小游戏，属于实验性产品。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "items": [
+            "6257a5c6295fa56a"
+          ],
+          "cover_path": "out/media/2026-07-04/product-03.jpg"
+        },
+        {
+          "headline": "生数科技发布 Vidu S1 实时交互视频模型",
+          "summary": "同模型发布板块，此处归类为产品。支持实时视频通话和语音控制。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3879857819201798",
+          "items": [
+            "79abc478b846a221",
+            "44e07e264e3c75aa"
+          ],
+          "cover_path": "out/media/2026-07-04/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Simon Willison 博客：AI 工程与 Agent 设计反思",
+          "summary": "Simon Willison 在 AI Engineer World's Fair 后连发多文，讨论 loops 辩论、Agent 技能工程、开源 AI 差距等话题。",
+          "importance": 7,
+          "primary_url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+          "items": [
+            "9e31b8f73f3ea307",
+            "ea0a53ff8155ed2a",
+            "89e8ec7e9206ca4b",
+            "0ee53d593216c81c",
+            "05f95238721c409d"
+          ]
+        },
+        {
+          "headline": "Agent 狂欢下的冷思考：规模化落地为何僵局",
+          "summary": "多篇中文媒体文章反思 Agent 落地的工程、治理和效率问题，包括 GitLab 调研称 AI 未提升整体交付效率。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t",
+          "items": [
+            "1a9dbc2fc1a9cda7",
+            "cf22f3206d9f90ea",
+            "d83a6f0a3bb8e164",
+            "4bc369dbe31178c4"
+          ],
+          "cover_path": "out/media/2026-07-04/opinion-01.jpg"
+        },
+        {
+          "headline": "Jersey Mike's IPO 文件暴露 AI 炒作泛滥",
+          "summary": "TechCrunch 调侃一家三明治店在 IPO 文件中都要提 AI，反映 AI 泡沫现象。",
+          "importance": 3,
+          "primary_url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "items": [
+            "08c71a91451522c4"
+          ],
+          "cover_path": "out/media/2026-07-04/opinion-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenAI 开源 Codex 插件与 Claude Code 集成",
+          "summary": "Codex plugin for Claude Code 允许用户在 Claude Code 中调用 Codex 进行代码审查或委派任务，官方出品。",
+          "importance": 7,
+          "primary_url": "https://github.com/openai/codex-plugin-cc",
+          "items": [
+            "404177602b88bb25"
+          ],
+          "cover_path": "out/media/2026-07-04/opensource-00.jpg"
+        },
+        {
+          "headline": "开源 AI 渗透测试工具 Strix 火爆",
+          "summary": "Strix 是一个开源的 AI 渗透测试工具，可自动寻找并修复应用漏洞。",
+          "importance": 6,
+          "primary_url": "https://github.com/usestrix/strix",
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-07-04/opensource-01.jpg"
+        },
+        {
+          "headline": "Superpowers：面向编码 Agent 的技能框架与开发方法",
+          "summary": "Superpowers 提供一套可组合的技能和软件方法论，旨在提升 Agent 开发效率。",
+          "importance": 6,
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-07-04/opensource-02.jpg"
+        },
+        {
+          "headline": "Chrome DevTools 发布 MCP 协议，Agent 可直接调试网页",
+          "summary": "Chrome DevTools MCP 使得 AI 编码 Agent 能够直接控制浏览器调试工具，实现自动化调试。",
+          "importance": 6,
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-07-04/opensource-03.jpg"
+        },
+        {
+          "headline": "Google 开源 agents-cli，一键部署 AI Agent 到云",
+          "summary": "agents-cli 可让任何编码助手快速创建、评估和部署 Google Cloud AI Agent。",
+          "importance": 5,
+          "primary_url": "https://github.com/google/agents-cli",
+          "items": [
+            "5d5fec7d2c8576b1"
+          ],
+          "cover_path": "out/media/2026-07-04/opensource-04.jpg"
+        },
+        {
+          "headline": "Nous Research 开源 Hermes Agent，强化学习驱动",
+          "summary": "Hermes Agent 是一个可成长的自改进 Agent，基于强化学习框架。",
+          "importance": 6,
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-07-04/opensource-05.jpg"
+        },
+        {
+          "headline": "NVIDIA 官方发布 AI Agent 技能库 skills",
+          "summary": "NVIDIA 在 GitHub 上发布了官方验证的技能集合，供 AI Agent 使用。",
+          "importance": 5,
+          "primary_url": "https://github.com/NVIDIA/skills",
+          "items": [
+            "f0e0f15ccfffe422"
+          ],
+          "cover_path": "out/media/2026-07-04/opensource-06.jpg"
+        },
+        {
+          "headline": "Simon Willison 发布 llm-coding-agent 实验性版本",
+          "summary": "基于 LLM 库的编码 Agent 工具，初步版本 0.1a0 发布。",
+          "importance": 5,
+          "primary_url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+          "items": [
+            "465c3873383f78bc"
+          ]
+        }
+      ]
+    }
+  ]
+}
