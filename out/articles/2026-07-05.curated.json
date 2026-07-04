@@ -1,0 +1,422 @@
+{
+  "date": "2026-07-05",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Mistral 开源 Leanstral 1.5 数学代码 agent",
+          "summary": "Mistral AI 发布 Apache-2.0 许可的 Leanstral 1.5，能解 587/672 道 PutnamBench 问题，激活仅 6.5B 参数。",
+          "primary_url": "https://mistral.ai/news/leanstral-1-5/",
+          "importance": 9,
+          "items": [
+            "78d08c11e175a2c5",
+            "67b411ea0d86d9a5",
+            "4d73e0809613f76e"
+          ],
+          "cover_path": "out/media/2026-07-05/model_release-00.jpg"
+        },
+        {
+          "headline": "Fable 5 发布即翻车，差评如潮",
+          "summary": "Anthropic 新模型 Fable 5 上线 24 小时内被用户疯狂吐槽：跑分下降、拒答问题、甚至辱骂用户。",
+          "primary_url": "https://www.qbitai.com/2026/07/442567.html",
+          "importance": 8,
+          "items": [
+            "9c3885465d278ec2",
+            "b6c62578fc8f4efc",
+            "89e8ec7e9206ca4b"
+          ],
+          "cover_path": "out/media/2026-07-05/model_release-01.jpg"
+        },
+        {
+          "headline": "生数科技发布 Vidu S1 实时交互模型",
+          "summary": "生数科技推出面向实时交互场景的 Vidu S1 模型，推动视频生成从延迟走向实时。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html",
+          "importance": 6,
+          "items": [
+            "44e07e264e3c75aa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Google DeepMind 与 A24 达成 AI 研究合作",
+          "summary": "双方首次合作，探索 AI 在影视内容创作中的研究应用，由 DeepMind 官方博客宣布。",
+          "primary_url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+          "importance": 7,
+          "items": [
+            "27f827d332e4bd73"
+          ],
+          "cover_path": "out/media/2026-07-05/company-00.jpg"
+        },
+        {
+          "headline": "阿里巴巴内部禁用 Claude Code",
+          "summary": "据 TechCrunch 报道，阿里将 Claude Code 列为高风险软件，禁止员工在工作环境中使用。",
+          "primary_url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "importance": 7,
+          "items": [
+            "54e87b39673ea00f"
+          ],
+          "cover_path": "out/media/2026-07-05/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 启动药物发现项目，瞄准罕见病",
+          "summary": "Anthropic 利用自家 AI 模型开展新药发现计划，重点研究大型药企认为无利可图的疾病。",
+          "primary_url": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
+          "importance": 7,
+          "items": [
+            "1f8e60a0f5717421"
+          ],
+          "cover_path": "out/media/2026-07-05/company-02.jpg"
+        },
+        {
+          "headline": "光象科技完成数亿元天使轮融资",
+          "summary": "具身智能公司光象科技宣布累计数亿元融资，由多家机构参与，资金用于物理原生基座模型研发。",
+          "primary_url": "https://www.qbitai.com/2026/07/442958.html",
+          "importance": 6,
+          "items": [
+            "15b574f55ca2a3e2",
+            "9e9dc4653b2173bd"
+          ]
+        },
+        {
+          "headline": "Midjourney 反诉要求好莱坞公开 AI 使用详情",
+          "summary": "在版权诉讼中，Midjourney 要求三家好莱坞工作室披露其内部 AI 应用细节。",
+          "primary_url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "importance": 6,
+          "items": [
+            "5aacc863103a25e8"
+          ],
+          "cover_path": "out/media/2026-07-05/company-04.jpg"
+        },
+        {
+          "headline": "苹果首次将私有云计算扩展至谷歌云",
+          "summary": "苹果公司打破了仅使用自有云的限制，将私有云计算平台部署到谷歌云基础设施上。",
+          "primary_url": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd",
+          "importance": 6,
+          "items": [
+            "c7e63a3b4a053fa1"
+          ],
+          "cover_path": "out/media/2026-07-05/company-05.jpg"
+        },
+        {
+          "headline": "长光卫星完成近 50 亿元股权融资",
+          "summary": "长光卫星宣布完成近 50 亿元融资，用于卫星批产和遥感数据应用开发。",
+          "primary_url": "https://36kr.com/newsflashes/3880783434149893",
+          "importance": 5,
+          "items": [
+            "d7cbbb18840daedd"
+          ],
+          "cover_path": "out/media/2026-07-05/company-06.jpg"
+        },
+        {
+          "headline": "Google DeepMind 工会谈判开局不顺",
+          "summary": "员工与高管就工会化问题首次谈判，员工认为管理层缺乏诚意，参与度不高。",
+          "primary_url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+          "importance": 5,
+          "items": [
+            "01e13bf2a96df8e9"
+          ],
+          "cover_path": "out/media/2026-07-05/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "全球首款神经动力学芯片问世，比 GPU 快 478 倍",
+          "summary": "北大团队基于相变忆阻器研制出神经动力学芯片，突破实时计算瓶颈，成果登《科学》杂志。",
+          "primary_url": "https://36kr.com/newsflashes/3880779651248391",
+          "importance": 8,
+          "items": [
+            "01bb80933af8c0bc"
+          ],
+          "cover_path": "out/media/2026-07-05/research-00.jpg"
+        },
+        {
+          "headline": "华为何庭波发布“韬定律”V2 论文，补充工程数据",
+          "summary": "华为半导体负责人发布后摩尔时代缩放理论 V2 版，引入 LogicFolding 齿比概念和实测数据。",
+          "primary_url": "https://36kr.com/newsflashes/3880931591254019",
+          "importance": 7,
+          "items": [
+            "9030c87799b4db3f"
+          ],
+          "cover_path": "out/media/2026-07-05/research-01.jpg"
+        },
+        {
+          "headline": "UK AI 安全研究所：标准基准严重低估 Agent 能力",
+          "summary": "研究发现现有基准测试系统性地低估 AI Agent 的实际能力，亟需新的评估方法。",
+          "primary_url": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+          "importance": 6,
+          "items": [
+            "f6759e48da982b38"
+          ],
+          "cover_path": "out/media/2026-07-05/research-02.jpg"
+        },
+        {
+          "headline": "AI 助长安全漏洞报告爆发",
+          "summary": "Epoch AI 数据显示，自大模型开始自主挖掘漏洞以来，严重漏洞报告数量激增。",
+          "primary_url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+          "importance": 6,
+          "items": [
+            "d99459928aa95520",
+            "39bffd349c30fd16"
+          ],
+          "cover_path": "out/media/2026-07-05/research-03.jpg"
+        },
+        {
+          "headline": "26000 名学生研究：AI 学习成本两年后才显现",
+          "summary": "长期研究发现使用 AI 辅助学习带来的负面效果在两年后才会完全暴露。",
+          "primary_url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
+          "importance": 5,
+          "items": [
+            "97688209582b7ae6"
+          ],
+          "cover_path": "out/media/2026-07-05/research-04.jpg"
+        },
+        {
+          "headline": "NVIDIA ASPIRE：自改进机器人框架零样本提升 77%",
+          "summary": "NVIDIA 提出 ASPIRE 框架，机器人可自动编写和优化控制程序，在长期任务上表现优异。",
+          "primary_url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+          "importance": 5,
+          "items": [
+            "84accd5cb78239c0"
+          ]
+        },
+        {
+          "headline": "NVIDIA HORIZON：免手动 RTL 设计 Agent",
+          "summary": "NVIDIA 提出 HORIZON 框架，以 Git 工作流管理 RTL 设计，达到 100% 基准完成率。",
+          "primary_url": "https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/",
+          "importance": 5,
+          "items": [
+            "ed9b3437aed3ce57"
+          ]
+        },
+        {
+          "headline": "Anthropic 发布 Claude Science Beta，多 Agent 科研",
+          "summary": "Claude Science 是专为可重现生物信息学和化学信息学设计的 beta 产品，使用多 Agent 协调。",
+          "primary_url": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
+          "importance": 5,
+          "items": [
+            "30ea0a9233154867"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "微软推出 Copilot 与 AutoPilot 超级应用升级",
+          "summary": "微软全面改版 Copilot 并推出 AutoPilot 智能代理，加入 AI 超级应用竞赛。",
+          "primary_url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+          "importance": 8,
+          "items": [
+            "1e3997f2102dfb25"
+          ],
+          "cover_path": "out/media/2026-07-05/product-00.jpg"
+        },
+        {
+          "headline": "Anthropic 用 Fable 5 剪掉 80% Claude Code 提示词",
+          "summary": "Anthropic 通过 Fable 5 的优化能力，大幅减少 Claude Code 的提示词数量，降低成本。",
+          "primary_url": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt",
+          "importance": 6,
+          "items": [
+            "c8f351e0418b1b85"
+          ],
+          "cover_path": "out/media/2026-07-05/product-01.jpg"
+        },
+        {
+          "headline": "千问智能体功能将于 7 月 15 日下线",
+          "summary": "阿里千问平台宣布关闭智能体功能，用户将无法访问配置和历史对话。",
+          "primary_url": "https://36kr.com/newsflashes/3880777666703621",
+          "importance": 6,
+          "items": [
+            "cd47f80426ce3aae"
+          ],
+          "cover_path": "out/media/2026-07-05/product-02.jpg"
+        },
+        {
+          "headline": "Google 发布 AI 起草独立宣言的商业广告",
+          "summary": "为庆祝美国独立 250 周年，谷歌推出假设 AI 辅助建国者起草宣言的广告片。",
+          "primary_url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "importance": 4,
+          "items": [
+            "7a796d2e17838197"
+          ],
+          "cover_path": "out/media/2026-07-05/product-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "模型越强工具越差？Anthropic 新模型工具调用退化",
+          "summary": "知名开发者 Armin Ronacher 发现最新 Anthropic 模型在工具调用上出现退化，影响开发工具体验。",
+          "primary_url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+          "importance": 7,
+          "items": [
+            "b999355afe9c583b"
+          ],
+          "cover_path": "out/media/2026-07-05/opinion-00.jpg"
+        },
+        {
+          "headline": "Claude Code 遭遇中美双重禁令",
+          "summary": "Anthropic 的 Claude Code 因出口限制和内部政策，在中国面临禁止使用的复杂局面。",
+          "primary_url": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+          "importance": 6,
+          "items": [
+            "e9044a808c9d5ca5"
+          ],
+          "cover_path": "out/media/2026-07-05/opinion-01.jpg"
+        },
+        {
+          "headline": "OpenAI 联合创始人：未来无人学软件，界面消失",
+          "summary": "Greg Brockman 预测 AI 将消灭传统界面，未来用户无需学习软件操作。",
+          "primary_url": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
+          "importance": 6,
+          "items": [
+            "812fa7d5e656f8c8"
+          ],
+          "cover_path": "out/media/2026-07-05/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 已摧毁初级程序员就业市场",
+          "summary": "开发者撰文指出 AI 导致公司不再招聘初级程序员，市场机会急剧萎缩。",
+          "primary_url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+          "importance": 6,
+          "items": [
+            "6f2178fb4d9d599e"
+          ]
+        },
+        {
+          "headline": "两协会倡议规范情感陪伴人形机器人发展",
+          "summary": "中国人形机器人百人会和中国机械工业联合会联合发布倡议，强调安全伦理和隐私保护。",
+          "primary_url": "https://36kr.com/newsflashes/3881009011945473",
+          "importance": 5,
+          "items": [
+            "567cddb928c4e4b4"
+          ],
+          "cover_path": "out/media/2026-07-05/opinion-04.jpg"
+        },
+        {
+          "headline": "请停止 AI 过度的自信表演",
+          "summary": "作者批评 AI 模型总是表现出虚假的自信，建议公司停止这种误导用户的展示。",
+          "primary_url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "importance": 5,
+          "items": [
+            "62924c6402641a2a"
+          ],
+          "cover_path": "out/media/2026-07-05/opinion-05.jpg"
+        },
+        {
+          "headline": "大晓机器人首席科学家：世界模型重在支撑行动",
+          "summary": "陶大程表示世界模型的目标不是完整复制世界，而是精准支撑机器人行动。",
+          "primary_url": "https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA",
+          "importance": 4,
+          "items": [
+            "08c012e8a8976b3b"
+          ],
+          "cover_path": "out/media/2026-07-05/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "pxpipe：将代码隐藏到 PNG 中，节省 60% token",
+          "summary": "开源工具 pxpipe 通过将文本转换为图片再由模型 OCR，大幅降低 Claude Code 和 Fable 5 的 token 消耗。",
+          "primary_url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+          "importance": 8,
+          "items": [
+            "1c42996b78f401c2",
+            "ca708a39f321f376"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-00.jpg"
+        },
+        {
+          "headline": "Caveman：用原始人口语让 Claude Code 省 65% token",
+          "summary": "Caveman 是一个 Claude Code skill，通过使用极简词汇（像原始人一样说话）来减少 token 消耗。",
+          "primary_url": "https://github.com/JuliusBrussee/caveman",
+          "importance": 6,
+          "items": [
+            "e71efd2f68872a57"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-01.jpg"
+        },
+        {
+          "headline": "微软开源 AI Agent 治理工具包",
+          "summary": "Agent Governance Toolkit 覆盖 OWASP Agentic Top 10，提供策略执行、零信任身份、沙箱等能力。",
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "importance": 6,
+          "items": [
+            "8dd243fffcdc353c"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-02.jpg"
+        },
+        {
+          "headline": "Hugging Face 开源本地语音 Agent 框架",
+          "summary": "Speech-to-Speech 支持在本地使用开源模型构建语音 agent，无需云端依赖。",
+          "primary_url": "https://github.com/huggingface/speech-to-speech",
+          "importance": 6,
+          "items": [
+            "1e985fa2f54520c2"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-03.jpg"
+        },
+        {
+          "headline": "腾讯云开源 CubeSandbox：为 AI Agent 打造即时沙箱",
+          "summary": "CubeSandbox 提供安全、轻量、并发的隔离执行环境，适用于 AI Agent 的安全运行。",
+          "primary_url": "https://github.com/TencentCloud/CubeSandbox",
+          "importance": 6,
+          "items": [
+            "3005c6ea295e962c"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-04.jpg"
+        },
+        {
+          "headline": "OpenAI 开源 Codex 插件，供 Claude Code 使用",
+          "summary": "官方插件使 Claude Code 能调用 Codex 进行代码审查和任务委派。",
+          "primary_url": "https://github.com/openai/codex-plugin-cc",
+          "importance": 5,
+          "items": [
+            "404177602b88bb25"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-05.jpg"
+        },
+        {
+          "headline": "Strix：开源 AI 渗透测试工具",
+          "summary": "使用 AI 自动发现应用漏洞并进行渗透测试的开源工具。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 5,
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-06.jpg"
+        },
+        {
+          "headline": "Chrome DevTools MCP：让编码 Agent 调试浏览器",
+          "summary": "Chrome DevTools 团队发布 MCP 服务器，允许 AI 编码 agent 直接控制和调试浏览器。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "importance": 5,
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-07-05/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
