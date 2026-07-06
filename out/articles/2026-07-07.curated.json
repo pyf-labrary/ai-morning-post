@@ -1,0 +1,438 @@
+{
+  "date": "2026-07-07",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "腾讯开源Hy3模型，性能媲美五倍大小模型",
+          "summary": "腾讯正式发布并开源Hy3模型，宣称其性能可匹敌五倍激活参数量的模型，已在元宝同步上线Agent能力。",
+          "primary_url": "https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls",
+          "importance": 8,
+          "items": [
+            "d934a221f8010444",
+            "52dcc6188a642339"
+          ],
+          "cover_path": "out/media/2026-07-07/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI准备GPT-5.6 Sol Ultra，将集成于Codex",
+          "summary": "据爆料，OpenAI即将推出GPT-5.6 Sol Ultra模型，并计划在Codex中提供使用。X上热度极高，引发广泛关注。",
+          "primary_url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "importance": 8,
+          "items": [
+            "46eb817b41f74a07"
+          ],
+          "cover_path": "out/media/2026-07-07/model_release-01.jpg"
+        },
+        {
+          "headline": "智谱AI发布ZCode，对标Claude Code和Codex",
+          "summary": "智谱AI推出低价编程助手ZCode，旨在以更低成本挑战Claude Code与OpenAI Codex。",
+          "primary_url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+          "importance": 6,
+          "items": [
+            "2a6f656ad15b4b75"
+          ],
+          "cover_path": "out/media/2026-07-07/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic被曝秘密监控中国用户Claude使用",
+          "summary": "Ars Technica报道Anthropic在Claude中内置隐藏追踪器，监控中国用户行为，与其反监控立场矛盾，引发强烈批评。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+          "importance": 9,
+          "items": [
+            "f283138e6a937aa4",
+            "959027adbf1544ab"
+          ],
+          "cover_path": "out/media/2026-07-07/company-00.jpg"
+        },
+        {
+          "headline": "微软裁员4800人，Xbox和销售部门受重创",
+          "summary": "微软本周解雇约4800名员工，占总员工2.1%，裁员涉及Xbox和商业销售，引发AI取代人工的担忧。",
+          "primary_url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "importance": 8,
+          "items": [
+            "ea7193ff8c58fd8a",
+            "93bdb5987a3df05d"
+          ],
+          "cover_path": "out/media/2026-07-07/company-01.jpg"
+        },
+        {
+          "headline": "中国强制AI平台关闭拟人化聊天机器人",
+          "summary": "字节豆包、阿里千问等平台被要求停用拟人化人格功能，监管加强AI透明度和安全性。",
+          "primary_url": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
+          "importance": 8,
+          "items": [
+            "331419ba7a04d19d",
+            "3a89481db057c815"
+          ],
+          "cover_path": "out/media/2026-07-07/company-02.jpg"
+        },
+        {
+          "headline": "亚马逊关闭Mechanical Turk，停止接受新客户",
+          "summary": "亚马逊正式停止接受Mechanical Turk新客户，这一“人工人工智能”平台将被淘汰。",
+          "primary_url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "importance": 7,
+          "items": [
+            "56a1293f62995ccc",
+            "4b8575e278a97e06"
+          ],
+          "cover_path": "out/media/2026-07-07/company-03.jpg"
+        },
+        {
+          "headline": "墨奇智能天使轮估值超70亿，创具身智能纪录",
+          "summary": "具身智能公司墨奇智能完成超10亿元天使轮融资，阿里、腾讯领投，估值突破70亿元。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/P6qnUcERGBlK5wJZ.html",
+          "importance": 7,
+          "items": [
+            "157f9cbec7e6c4e7"
+          ]
+        },
+        {
+          "headline": "光象科技获数亿元融资，自研物理原生基座模型",
+          "summary": "光象科技完成数亿元融资，跳出VLA与世界模型路线，研发物理原生基座模型。",
+          "primary_url": "https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9",
+          "importance": 6,
+          "items": [
+            "a1e929820fba6e58"
+          ],
+          "cover_path": "out/media/2026-07-07/company-05.jpg"
+        },
+        {
+          "headline": "英伟达Kyber NVL144被曝延期超一年",
+          "summary": "据The Decoder报道，英伟达下一代AI服务器Kyber NVL144因技术问题推迟，亚洲供应商已流失。",
+          "primary_url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+          "importance": 6,
+          "items": [
+            "88da7e72b517fcd1"
+          ],
+          "cover_path": "out/media/2026-07-07/company-06.jpg"
+        },
+        {
+          "headline": "戈登贝尔奖得主杨超领衔，北大团队入局物理AI",
+          "summary": "ACM戈登贝尔奖得主杨超携北大系团队创业，专注物理AI底层基础设施，获多家资本关注。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/PjJzoF1Rb0WPXHxd.html",
+          "importance": 6,
+          "items": [
+            "014921b26cc1815e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "阿里清华论文获ICML杰出论文，颠覆扩散模型推理",
+          "summary": "阿里巴巴与清华合作的论文《灵活性陷阱》入选ICML 2026杰出论文，重新审视扩散语言模型的任意顺序生成价值。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/UKOyRcsQg5b36KyE.html",
+          "importance": 8,
+          "items": [
+            "e0eead1ea7a75d4c",
+            "76105b25a3a1e2a6"
+          ]
+        },
+        {
+          "headline": "AI家教在达特茅斯课程中实现1.3标准差提升",
+          "summary": "一项研究显示，AI辅导系统在达特茅斯大学课程中达到0.71-1.30 SD的学习效果，接近人类家教水平。",
+          "primary_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "importance": 6,
+          "items": [
+            "956b521e603a7730"
+          ]
+        },
+        {
+          "headline": "Anthropic发布语言模型“全局工作空间”研究",
+          "summary": "Anthropic提出一种全局工作空间机制，旨在提升语言模型的多步推理与信息整合能力。",
+          "primary_url": "https://www.anthropic.com/research/global-workspace",
+          "importance": 5,
+          "items": [
+            "0dabfdf80ce65187"
+          ],
+          "cover_path": "out/media/2026-07-07/research-02.jpg"
+        },
+        {
+          "headline": "代码整洁度会影响编码agent效果吗？",
+          "summary": "一项受控研究发现，代码风格和整洁度对AI编码agent的生成质量有显著影响。",
+          "primary_url": "https://arxiv.org/abs/2605.20049",
+          "importance": 4,
+          "items": [
+            "23b046162b242132"
+          ],
+          "cover_path": "out/media/2026-07-07/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "字节Seedance视频模型进军好莱坞，广受好评",
+          "summary": "美国电影人开始使用字节跳动Seedance生成视频片段，称“好东西不问出处”。TLDR跟进报道Seedance 2.5版本。",
+          "primary_url": "https://www.qbitai.com/2026/07/443665.html",
+          "importance": 7,
+          "items": [
+            "9c489fcdef070fa7",
+            "0105d2b1711659fc"
+          ],
+          "cover_path": "out/media/2026-07-07/product-00.jpg"
+        },
+        {
+          "headline": "Cloudflare推出精细化AI爬虫控制面板",
+          "summary": "Cloudflare升级AI bot管理功能，允许网站按搜索、训练、agent爬虫类型单独设置访问权限。",
+          "primary_url": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+          "importance": 6,
+          "items": [
+            "8cd70ca034d6cd62"
+          ],
+          "cover_path": "out/media/2026-07-07/product-01.jpg"
+        },
+        {
+          "headline": "Claude Code+Fable5将经典游戏移植到iOS",
+          "summary": "开发者利用Claude Code和Fable 5模型，仅用数小时将2003年PC游戏《命令与征服》移植为原生iOS应用。",
+          "primary_url": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+          "importance": 6,
+          "items": [
+            "28d0367b42bfa8c6"
+          ],
+          "cover_path": "out/media/2026-07-07/product-02.jpg"
+        },
+        {
+          "headline": "百度发布Unlimited OCR，模拟人类记忆机制",
+          "summary": "百度推出Unlimited OCR技术，通过类遗忘机制一次性处理数十页文档，突破输入长度限制。",
+          "primary_url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
+          "importance": 5,
+          "items": [
+            "0fce5891d0ec26eb"
+          ],
+          "cover_path": "out/media/2026-07-07/product-03.jpg"
+        },
+        {
+          "headline": "火山引擎用Agentic范式优化视频画质",
+          "summary": "火山引擎发布基于智能体的视频画质优化方案，结合超分、去噪等算法提升观看体验。",
+          "primary_url": "https://www.infoq.cn/article/Gx6eXWNCqcVkET9wFZq9",
+          "importance": 5,
+          "items": [
+            "33ff0556ae827077",
+            "e3f785ac2b7a4925"
+          ],
+          "cover_path": "out/media/2026-07-07/product-04.jpg"
+        },
+        {
+          "headline": "iOS 27 beta让Siri语音速度与情感可定制",
+          "summary": "苹果在最新iOS 27测试版中允许用户调节Siri的语速和表现力，使其更自然个性化。",
+          "primary_url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "importance": 5,
+          "items": [
+            "a0db95c9530839a2"
+          ],
+          "cover_path": "out/media/2026-07-07/product-05.jpg"
+        },
+        {
+          "headline": "Azure Functions推出Serverless Agent运行时",
+          "summary": "微软在Build 2026上发布Azure Functions的Serverless智能体运行时，简化AI代理部署。",
+          "primary_url": "https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3",
+          "importance": 5,
+          "items": [
+            "14ece07b0c0731d3"
+          ],
+          "cover_path": "out/media/2026-07-07/product-06.jpg"
+        },
+        {
+          "headline": "蔚来世界模型OTA升级，70万用户同步",
+          "summary": "蔚来向70万车主推送世界模型OTA更新，所有用户均留在同一版本，实现全量覆盖。",
+          "primary_url": "https://www.qbitai.com/2026/07/443868.html",
+          "importance": 5,
+          "items": [
+            "1dbca0cc65a56e12"
+          ],
+          "cover_path": "out/media/2026-07-07/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "英国FCA警告AI在金融领域引发“军备竞赛”",
+          "summary": "英国金融行为监管局官员表示，AI在金融服务中的使用正形成军备竞赛，监管机构需获得更大权力。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+          "importance": 7,
+          "items": [
+            "b533113576b0a82f"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-00.jpg"
+        },
+        {
+          "headline": "Vercel CEO：必须将模型与Agent解耦",
+          "summary": "Vercel CEO Guillermo Rauch在采访中强调，生产环境优化需要将模型与智能体分离，关注性价比。",
+          "primary_url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "importance": 6,
+          "items": [
+            "3cac701b3066ddff"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-01.jpg"
+        },
+        {
+          "headline": "扎克伯格内部批评AI Agent进展低于预期",
+          "summary": "TechCrunch报道扎克伯格在内部会议上表示，AI智能体进展未达预期，Meta需要调整策略。",
+          "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "importance": 6,
+          "items": [
+            "32076e4a13b7e375"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-02.jpg"
+        },
+        {
+          "headline": "Linus Torvalds再谈AI：能写Demo，但需敬畏复杂系统",
+          "summary": "Linus在采访中表示，LLM能快速生成Demo代码，但对于复杂系统工程，开发者仍需保持审慎。",
+          "primary_url": "https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa",
+          "importance": 6,
+          "items": [
+            "9eb0ac080e29ef28"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-03.jpg"
+        },
+        {
+          "headline": "Google默认隐私设置变更，用户数据用于训练AI",
+          "summary": "TechCrunch详解Google近期调整隐私政策，默认收集更多用户数据以改进AI模型，并提供退出指南。",
+          "primary_url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+          "importance": 6,
+          "items": [
+            "32712a1a0d198039"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-04.jpg"
+        },
+        {
+          "headline": "GPT-4统治期仅一年，如今模型霸主仅维持七周",
+          "summary": "分析发现，AI模型领先地位快速更迭，最新顶级模型平均只保持七周霸主位置。",
+          "primary_url": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/",
+          "importance": 5,
+          "items": [
+            "2800bb78ca75b9d4"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-05.jpg"
+        },
+        {
+          "headline": "模型不是企业护城河，数据与场景才是",
+          "summary": "观点文章指出，大模型能力趋同，企业真正的差异化在于数据积累、场景理解和工程能力。",
+          "primary_url": "https://www.qbitai.com/2026/07/443842.html",
+          "importance": 5,
+          "items": [
+            "c89a130a1f173442"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-06.jpg"
+        },
+        {
+          "headline": "Anthropic：Claude已承担95%内部数据分析查询",
+          "summary": "Anthropic披露Claude模型已处理公司95%的内部数据查询，大幅提升运营效率。",
+          "primary_url": "https://www.infoq.cn/article/eHH8RTgeeOUWODLCLWXS",
+          "importance": 5,
+          "items": [
+            "5a96e400ab49336e"
+          ],
+          "cover_path": "out/media/2026-07-07/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "大晓机器人开源统一具身基模型ACE-Brain-0.5",
+          "summary": "大晓机器人发布并开源首个统一具身基模型ACE-Brain-0.5，登顶多项DRACO榜单。",
+          "primary_url": "https://www.leiphone.com/category/ai/YTCPIZ2kIbjtt6CX.html",
+          "importance": 6,
+          "items": [
+            "f3f730ed8fbfb5da"
+          ]
+        },
+        {
+          "headline": "AI编码Agent技能生态爆发，数十个新技能仓库涌现",
+          "summary": "GitHub上出现大量Claude Code、Codex技能与插件，涵盖代码审查、营销、产品等领域，生态快速扩展。",
+          "primary_url": "https://github.com/alirezarezvani/claude-skills",
+          "importance": 6,
+          "items": [
+            "404177602b88bb25",
+            "bf93726cdbb0e39a",
+            "8d9461849a40f0fc",
+            "e71efd2f68872a57",
+            "7ac37239610f39d2",
+            "b18b533efd4deb94"
+          ],
+          "cover_path": "out/media/2026-07-07/opensource-01.jpg"
+        },
+        {
+          "headline": "HuggingFace发布LeRobot v0.6.0，强化机器人训练",
+          "summary": "HuggingFace推出LeRobot v0.6.0，新增Imagine、Evaluate、Improve等模块，简化机器人学习流程。",
+          "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
+          "importance": 5,
+          "items": [
+            "5f49c6d7ff205c93"
+          ],
+          "cover_path": "out/media/2026-07-07/opensource-02.jpg"
+        },
+        {
+          "headline": "HuggingFace Kernels重大更新",
+          "summary": "HuggingFace对Kernels进行重大更新，提升模型推理与训练性能。",
+          "primary_url": "https://huggingface.co/blog/revamped-kernels",
+          "importance": 5,
+          "items": [
+            "81241ea6038abdde"
+          ],
+          "cover_path": "out/media/2026-07-07/opensource-03.jpg"
+        },
+        {
+          "headline": "OfficeCLI：让AI Agent直接处理Office文件",
+          "summary": "开源项目OfficeCLI提供命令行工具，允许AI智能体读取和编辑Microsoft Office文档。",
+          "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
+          "importance": 5,
+          "items": [
+            "627bcaa5d24196c0"
+          ],
+          "cover_path": "out/media/2026-07-07/opensource-04.jpg"
+        },
+        {
+          "headline": "sqlite-utils 4.0rc3发布",
+          "summary": "Simon Willison发布sqlite-utils 4.0第三个候选版本，改进大量细节与兼容性。",
+          "primary_url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+          "importance": 5,
+          "items": [
+            "1528f48ed5a0489e"
+          ]
+        },
+        {
+          "headline": "HuggingFace推出语音转语音开源工具",
+          "summary": "HuggingFace发布speech-to-speech开源库，支持用开源模型构建本地语音智能体。",
+          "primary_url": "https://github.com/huggingface/speech-to-speech",
+          "importance": 5,
+          "items": [
+            "1e985fa2f54520c2"
+          ],
+          "cover_path": "out/media/2026-07-07/opensource-06.jpg"
+        },
+        {
+          "headline": "OpenSquilla 0.5.0 Preview发布，登顶DRACO双榜",
+          "summary": "OpenSquilla发布预览版0.5.0，集成多模型并在DRACO基准测试中取得双榜第一。",
+          "primary_url": "https://www.qbitai.com/2026/07/443863.html",
+          "importance": 4,
+          "items": [
+            "8103510c928d75f0"
+          ],
+          "cover_path": "out/media/2026-07-07/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
