@@ -1,0 +1,414 @@
+{
+  "date": "2026-07-08",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "腾讯开源295B MoE模型Hy3，仅激活21B参数",
+          "summary": "腾讯Hy团队发布Hy3模型，采用混合专家架构，总参数量295B，每个token仅激活21B参数，支持256K上下文，开源Apache 2.0。",
+          "importance": 8,
+          "primary_url": "https://huggingface.co/tencent/Hy3",
+          "items": [
+            "1d5967f85dbdf4bb",
+            "6a1a6bc67ce0bc2e",
+            "52dcc6188a642339"
+          ],
+          "cover_path": "out/media/2026-07-08/model_release-00.jpg"
+        },
+        {
+          "headline": "Meta推出Muse AI图像生成器，可基于用户照片生成",
+          "summary": "Meta发布Muse图像模型，支持广告、装饰等场景，用户需选择退出以避免照片被用于AI生成。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+          "items": [
+            "85fbcbcf2ec30ff4",
+            "69cec9dbe53a2e61"
+          ],
+          "cover_path": "out/media/2026-07-08/model_release-01.jpg"
+        },
+        {
+          "headline": "OpenAI发布GPT-Realtime-2.1语音推理模型",
+          "summary": "OpenAI在API中新增GPT-Realtime-2.1和mini版，降低p95延迟25%以上，专为低延迟语音代理设计。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/",
+          "items": [
+            "745467d43d52c966"
+          ],
+          "cover_path": "out/media/2026-07-08/model_release-02.jpg"
+        },
+        {
+          "headline": "蚂蚁灵波发布空间感知模型LingBot-Depth 2.0",
+          "summary": "基于1.5亿数据训练，提升边缘清晰度、细小物体识别和远距离深度估计，开源发布。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/07/445184.html",
+          "items": [
+            "78c029d2eb59763b",
+            "3792d52de2d3c2a6",
+            "e6ad070ecea50d62",
+            "76167f44daf1fc33"
+          ],
+          "cover_path": "out/media/2026-07-08/model_release-03.jpg"
+        },
+        {
+          "headline": "智谱开源编程模型GLM-5.2上线模力工场",
+          "summary": "智谱发布GLM-5.2，自称开源AI编程工具第一，提供专属折扣。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/woKuALR13UH0o9XicUlZ",
+          "items": [
+            "8b902c0245a84478"
+          ],
+          "cover_path": "out/media/2026-07-08/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "微软裁员4800人，AI替代担忧加剧",
+          "summary": "微软裁减约4800个岗位，主要集中在Xbox和商业销售部门，是今年系列裁员中最新一次，引发AI取代工作的担忧。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "items": [
+            "ea7193ff8c58fd8a"
+          ],
+          "cover_path": "out/media/2026-07-08/company-00.jpg"
+        },
+        {
+          "headline": "微软为削减成本逐步淘汰第三方模型",
+          "summary": "微软Copilot开始减少对OpenAI和Anthropic模型的依赖，转向自研模型以降低AI成本。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+          "items": [
+            "9af03b218dda57ec",
+            "31c66b15ae4093b3"
+          ],
+          "cover_path": "out/media/2026-07-08/company-01.jpg"
+        },
+        {
+          "headline": "DeepSeek计划自研AI芯片摆脱依赖",
+          "summary": "受美国出口管制影响，DeepSeek开始设计自有AI芯片，以降低对Nvidia和华为的依赖。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "items": [
+            "ad11dcb4db8f48f2",
+            "81d08a3cd0fd767d"
+          ],
+          "cover_path": "out/media/2026-07-08/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI首席未来学家Joshua Achiam离职",
+          "summary": "在OpenAI工作近九年的安全研究负责人、首席未来学家Joshua Achiam离开公司。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+          "items": [
+            "910b46e0a61ed6d5"
+          ],
+          "cover_path": "out/media/2026-07-08/company-03.jpg"
+        },
+        {
+          "headline": "支付宝上线AI开放平台，面向生态开放",
+          "summary": "支付宝正式推出AI开放平台，肯德基、蜜雪冰城、高德打车等首批接入，支持AI智能体完成服务闭环。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/MlfOVkSb0uNZp7FF.html",
+          "items": [
+            "7c181547955df61d",
+            "2fc804b99b5ea808",
+            "4ef7d3cad04569ee"
+          ]
+        },
+        {
+          "headline": "百度基础模型研发部换帅，孙天祥接任",
+          "summary": "百度基础模型研发部（BMU）负责人变更为孙天祥，向李彦宏汇报，旨在加速年轻化管理。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/ai/XR79bc90xongJ7dH.html",
+          "items": [
+            "d1d0dcc97a0a3acf"
+          ]
+        },
+        {
+          "headline": "Anthropic被曝秘密追踪器监控中国用户",
+          "summary": "Anthropic被指在Claude中嵌入追踪代码，收集中国用户活动数据，官方称是实验已终止。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+          "items": [
+            "f283138e6a937aa4"
+          ],
+          "cover_path": "out/media/2026-07-08/company-06.jpg"
+        },
+        {
+          "headline": "SK Hynix将赴美IPO，募资数十亿美元",
+          "summary": "AI热潮推动内存需求，SK Hynix计划本周五在美上市，成为又一家受益于AI的芯片公司IPO。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "items": [
+            "fbf5a0ca00868ecc"
+          ],
+          "cover_path": "out/media/2026-07-08/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "ICML 2026开幕，清华团队获最佳论文奖",
+          "summary": "第43届国际机器学习大会在首尔开幕，清华大学团队获最佳论文奖，DeepMind经典工作获时间检验奖。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/academic/GqOdEOoGq3kVosQr.html",
+          "items": [
+            "5e6e8ad561607cd7"
+          ]
+        },
+        {
+          "headline": "Liquid AI开源Antidoom，消除推理模型死循环",
+          "summary": "Antidoom采用最终token偏好优化，修复推理模型陷入死循环的问题，开源发布。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
+          "items": [
+            "d8b122f36febd3b4"
+          ],
+          "cover_path": "out/media/2026-07-08/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude Cowork AI代理扩展至移动和Web端",
+          "summary": "Anthropic发布Claude Cowork移动和Web版本，用户可跨设备继续任务，即使关闭笔记本也能完成工作。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+          "items": [
+            "bfe0dc7489e43ebc",
+            "8e597b56452773cf",
+            "ed77f697e51d2d9a"
+          ],
+          "cover_path": "out/media/2026-07-08/product-00.jpg"
+        },
+        {
+          "headline": "Cloudflare推出精细AI爬虫控制功能",
+          "summary": "Cloudflare允许网站精准区分AI搜索、训练和代理爬虫，告别一刀切屏蔽。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+          "items": [
+            "8cd70ca034d6cd62"
+          ],
+          "cover_path": "out/media/2026-07-08/product-01.jpg"
+        },
+        {
+          "headline": "Reddit用LLM反击LLM生成的垃圾内容",
+          "summary": "Reddit部署大型语言模型检测并删除大量AI生成的垃圾帖子，以火攻火。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+          "items": [
+            "7b6f8e9bdd0f3df6"
+          ],
+          "cover_path": "out/media/2026-07-08/product-02.jpg"
+        },
+        {
+          "headline": "iOS 27 Beta允许自定义Siri语速和情绪",
+          "summary": "苹果在最新iOS 27测试版中加入Siri语速和表现力调节，作为AI助手个性化的一部分。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "items": [
+            "a0db95c9530839a2"
+          ],
+          "cover_path": "out/media/2026-07-08/product-03.jpg"
+        },
+        {
+          "headline": "亚马逊云科技发布FinOps Agent预览版",
+          "summary": "FinOps Agent帮助客户分析和优化云端AI成本，自动推荐节省方案。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/OtPug093U3A6NXXhxdiW",
+          "items": [
+            "776c702b6a7d31b5"
+          ],
+          "cover_path": "out/media/2026-07-08/product-04.jpg"
+        },
+        {
+          "headline": "申通快递首批接入支付宝AI，一句话发快递",
+          "summary": "申通快递入驻支付宝AI开放平台，用户通过AI版支付宝‘阿宝’一句话即可触发寄件流程。",
+          "importance": 3,
+          "primary_url": "https://www.leiphone.com/category/industrynews/8XvhFecsSPFSXrO0.html",
+          "items": [
+            "4ef7d3cad04569ee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "数据中心能源需求冲击美国制造业计划",
+          "summary": "AI数据中心推高电力需求，导致美国中西部工业电价飙升，威胁特朗普‘美国制造’计划。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+          "items": [
+            "a1dfe01306fab62f"
+          ],
+          "cover_path": "out/media/2026-07-08/opinion-00.jpg"
+        },
+        {
+          "headline": "英国金融监管警告AI‘军备竞赛’风险",
+          "summary": "英国金融行为监管局官员呼吁扩大监管权力，应对金融服务中AI使用的快速普及。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+          "items": [
+            "b533113576b0a82f"
+          ],
+          "cover_path": "out/media/2026-07-08/opinion-01.jpg"
+        },
+        {
+          "headline": "中国AI模型在OpenRouter上占比超30%，成本优势明显",
+          "summary": "中国AI模型在OpenRouter上调用比例增长迅速，成本仅为美国模型的十分之一，竞争格局改变。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/",
+          "items": [
+            "6ea4a015ab43c704"
+          ],
+          "cover_path": "out/media/2026-07-08/opinion-02.jpg"
+        },
+        {
+          "headline": "Apollo经济学家：AI利润兑现时间或远超华尔街预期",
+          "summary": "Apollo首席经济学家认为，AI带来的利润增长在科技行业之外可能需要更长时间，市场可能过于乐观。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/",
+          "items": [
+            "5a5f291bece38e30"
+          ],
+          "cover_path": "out/media/2026-07-08/opinion-03.jpg"
+        },
+        {
+          "headline": "MIT：每个美国家庭在OpenAI中已有300美元隐性股份",
+          "summary": "分析指出，AI财富承诺虽未兑现，但通过资本市场每个家庭已间接持有OpenAI的价值。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+          "items": [
+            "0a5489a178f473d3"
+          ],
+          "cover_path": "out/media/2026-07-08/opinion-04.jpg"
+        },
+        {
+          "headline": "开源AI为何尚未对Anthropic构成威胁",
+          "summary": "分析认为开源模型和前沿实验室分别占据不同生命周期阶段，短期内不会直接竞争。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "items": [
+            "8a7edd365702e319"
+          ],
+          "cover_path": "out/media/2026-07-08/opinion-05.jpg"
+        },
+        {
+          "headline": "Vercel CEO谈模型与代理分离趋势",
+          "summary": "Guillermo Rauch在访谈中表示，生产环境中模型和代理的分离是必然趋势，价格性能是核心。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "items": [
+            "3cac701b3066ddff"
+          ],
+          "cover_path": "out/media/2026-07-08/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "sqlite-utils 4.0发布，新增数据库迁移功能",
+          "summary": "Simon Willison发布sqlite-utils 4.0稳定版，首次支持schema迁移，同步推出sqlite-migrate兼容层。",
+          "importance": 6,
+          "primary_url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
+          "items": [
+            "a4f169843f8aaa3e",
+            "8f58fa9a4365b4fb",
+            "648827d065c01f11",
+            "232495347279138d"
+          ]
+        },
+        {
+          "headline": "Hugging Face与NVIDIA联合发布LeRobot v0.6.0",
+          "summary": "LeRobot机器人学习框架更新，新增Imagine、Evaluate、Improve模块，并获NVIDIA新模型和框架集成。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
+          "items": [
+            "5f49c6d7ff205c93",
+            "cc5ceba5581dce65"
+          ],
+          "cover_path": "out/media/2026-07-08/opensource-01.jpg"
+        },
+        {
+          "headline": "AI Agent Skills仓库集中涌现，生态爆发",
+          "summary": "多个高质量Agent Skills仓库在GitHub上流行，覆盖Claude Code、Codex等代理，提供生产级工程技能。",
+          "importance": 5,
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "items": [
+            "0520df06928ed362",
+            "bf93726cdbb0e39a",
+            "bdc2dc0f86937ea0"
+          ],
+          "cover_path": "out/media/2026-07-08/opensource-02.jpg"
+        },
+        {
+          "headline": "阿里开源轻量级向量数据库zvec",
+          "summary": "zvec是阿里开源的内存向量数据库，极快、进程内运行，适合AI嵌入检索场景。",
+          "importance": 4,
+          "primary_url": "https://github.com/alibaba/zvec",
+          "items": [
+            "2773d339d372c7ed"
+          ],
+          "cover_path": "out/media/2026-07-08/opensource-03.jpg"
+        },
+        {
+          "headline": "Google开源Antigravity Python SDK",
+          "summary": "Google发布Antigravity SDK的Python版本，用于构建基于Antigravity和Gemini的AI代理。",
+          "importance": 4,
+          "primary_url": "https://github.com/google-antigravity/antigravity-sdk-python",
+          "items": [
+            "b563030154b97ef9"
+          ],
+          "cover_path": "out/media/2026-07-08/opensource-04.jpg"
+        },
+        {
+          "headline": "开源爬虫框架Firecrawl持续更新",
+          "summary": "Firecrawl提供API用于大规模搜索、爬取和与网页交互，支持AI数据采集。",
+          "importance": 4,
+          "primary_url": "https://github.com/firecrawl/firecrawl",
+          "items": [
+            "9d85b086ba78ffc9"
+          ],
+          "cover_path": "out/media/2026-07-08/opensource-05.jpg"
+        },
+        {
+          "headline": "自托管书签管理工具Karakeep支持AI标签",
+          "summary": "Karakeep可自托管，使用AI自动标记书签和全文搜索，支持链接、笔记和图片。",
+          "importance": 4,
+          "primary_url": "https://github.com/karakeep-app/karakeep",
+          "items": [
+            "31ce25f63bca758d"
+          ],
+          "cover_path": "out/media/2026-07-08/opensource-06.jpg"
+        },
+        {
+          "headline": "TradingAgents多智能体金融交易框架开源",
+          "summary": "Tauric Research开源的LLM多智能体框架，用于金融交易策略研究和执行。",
+          "importance": 4,
+          "primary_url": "https://github.com/TauricResearch/TradingAgents",
+          "items": [
+            "bbfb2978e3481980"
+          ],
+          "cover_path": "out/media/2026-07-08/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
