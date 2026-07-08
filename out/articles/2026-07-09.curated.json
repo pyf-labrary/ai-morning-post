@@ -1,0 +1,531 @@
+{
+  "date": "2026-07-09",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI发布GPT-Live全双工语音模型",
+          "summary": "OpenAI推出GPT-Live和GPT-Live-1 mini，支持同时听和说，可进行更自然的人机对话，并委托GPT-5.5进行深度推理。",
+          "primary_url": "https://openai.com/index/introducing-gpt-live",
+          "importance": 10,
+          "items": [
+            "fc737ea897dfbeff",
+            "3f600ebdda58261e",
+            "5996a4c5606d13c9",
+            "8fd178548ea3711d"
+          ]
+        },
+        {
+          "headline": "xAI发布Grok 4.5，号称Opus级性能且更廉价",
+          "summary": "SpaceXAI推出Grok 4.5，Elon Musk称其为Opus-class模型，相比Fable 5和GPT-5.5更便宜，基准差距可能不重要。",
+          "primary_url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "importance": 8,
+          "items": [
+            "b1aa73ffc99aecd6",
+            "d2ca69952c87a761"
+          ],
+          "cover_path": "out/media/2026-07-09/model_release-01.jpg"
+        },
+        {
+          "headline": "Meta推出AI图像生成器Muse，引发隐私争议",
+          "summary": "Meta发布Muse Image模型，可生成和编辑图像，但使用Instagram公域照片训练，用户需手动退出。",
+          "primary_url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+          "importance": 8,
+          "items": [
+            "f027bbab6f712df6",
+            "69cec9dbe53a2e61",
+            "8b9e5ab0171c3982"
+          ],
+          "cover_path": "out/media/2026-07-09/model_release-02.jpg"
+        },
+        {
+          "headline": "Mistral发布Robostral Navigate，进军机器人领域",
+          "summary": "Mistral推出仅8B参数的视觉导航模型，单摄像头即可引导机器人。",
+          "primary_url": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/",
+          "importance": 6,
+          "items": [
+            "9336f3f2bec99461"
+          ],
+          "cover_path": "out/media/2026-07-09/model_release-03.jpg"
+        },
+        {
+          "headline": "Anthropic Claude Fable 5主导新基准但价格高昂",
+          "summary": "Claude Fable 5在多个行业基准中领先，但API定价远高于其他模型。",
+          "primary_url": "https://the-decoder.com/anthropics-claude-fable-5-dominates-new-industry-benchmarks-at-a-steep-premium/",
+          "importance": 6,
+          "items": [
+            "24ec18289b19f1a0"
+          ],
+          "cover_path": "out/media/2026-07-09/model_release-04.jpg"
+        },
+        {
+          "headline": "NVIDIA Nemotron 3 Ultra在LangChain代理基准中领先",
+          "summary": "NVIDIA Nemotron 3 Ultra配合LangChain Deep Agents harness实现领先性能，成本低于顶级闭源模型。",
+          "primary_url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+          "importance": 5,
+          "items": [
+            "dea070d13121e9ce"
+          ],
+          "cover_path": "out/media/2026-07-09/model_release-05.jpg"
+        },
+        {
+          "headline": "Google更新Android AI开发基准，加入新LLM",
+          "summary": "Android Bench新增Fable 5等模型，Gemini仍落后。",
+          "primary_url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+          "importance": 5,
+          "items": [
+            "cc38c47f3c0caefc"
+          ],
+          "cover_path": "out/media/2026-07-09/model_release-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "DeepSeek秘密自研AI推理芯片，已启动一年",
+          "summary": "面对美国出口管制，DeepSeek计划自研推理芯片，已与代工厂和存储器供应商接洽。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "importance": 8,
+          "items": [
+            "ad11dcb4db8f48f2",
+            "c8e51863b1afb26f",
+            "e142c33cb74df1ba",
+            "edef60a308f55fcf"
+          ],
+          "cover_path": "out/media/2026-07-09/company-00.jpg"
+        },
+        {
+          "headline": "AI芯片公司SambaNova融资10亿美元，估值110亿",
+          "summary": "SambaNova完成Series F首轮10亿美元融资，估值110亿美元，距上次大额融资仅5个月。",
+          "primary_url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+          "importance": 7,
+          "items": [
+            "f36db526458cd1b5"
+          ],
+          "cover_path": "out/media/2026-07-09/company-01.jpg"
+        },
+        {
+          "headline": "Prime Intellect获1.3亿美元A轮融资，帮企业构建AI代理",
+          "summary": "Prime Intellect完成1.3亿美元A轮融资，帮助企业无需依赖前沿实验室即可训练自有代理系统。",
+          "primary_url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+          "importance": 6,
+          "items": [
+            "5c1f30cb75e27d72"
+          ],
+          "cover_path": "out/media/2026-07-09/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI首席未来学家Joshua Achiam离职",
+          "summary": "Joshua Achiam在OpenAI近9年后离开，曾负责AI安全研究。",
+          "primary_url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+          "importance": 6,
+          "items": [
+            "910b46e0a61ed6d5"
+          ],
+          "cover_path": "out/media/2026-07-09/company-03.jpg"
+        },
+        {
+          "headline": "前OpenAI研究员田永龙加入腾讯参与VLM研发",
+          "summary": "OpenAI前研究员Yonglong Tian（田永龙）加入腾讯大语言模型部，参与视觉语言模型研发。",
+          "primary_url": "https://36kr.com/newsflashes/3886933459909380?f=rss",
+          "importance": 5,
+          "items": [
+            "fbff155578732679",
+            "edef60a308f55fcf"
+          ],
+          "cover_path": "out/media/2026-07-09/company-04.jpg"
+        },
+        {
+          "headline": "Lovable估值或翻倍至132亿美元，正谈判融资",
+          "summary": "据报道Lovable正在谈判以132亿美元估值融资3亿美元，由Menlo Ventures领投。",
+          "primary_url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+          "importance": 6,
+          "items": [
+            "4b331bd019579dd3"
+          ],
+          "cover_path": "out/media/2026-07-09/company-05.jpg"
+        },
+        {
+          "headline": "Anthropic用Fable 5管理Sonnet 5降低推理成本",
+          "summary": "Anthropic将Fable 5作为高层管理者，委派Sonnet 5执行任务以控制成本。",
+          "primary_url": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/",
+          "importance": 5,
+          "items": [
+            "cc90bacbae1cf73d"
+          ],
+          "cover_path": "out/media/2026-07-09/company-06.jpg"
+        },
+        {
+          "headline": "OpenAI公布政府与国家安全合作伙伴方针",
+          "summary": "OpenAI发布关于政府与国家安全合作的原则，强调负责任AI使用和民主问责。",
+          "primary_url": "https://openai.com/index/government-national-security-partnerships",
+          "importance": 5,
+          "items": [
+            "76f9ee79691e2d70"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "阿里获ACL最佳资源论文奖，提出Agent评测新范式",
+          "summary": "阿里研究团队在ACL 2026上获最佳资源论文奖，提出专家Agent评测基准，揭示真实世界规则推理的缺陷。",
+          "primary_url": "https://www.qbitai.com/2026/07/446069.html",
+          "importance": 6,
+          "items": [
+            "9a5931d5e5df03bf",
+            "a8032a4c84ce1b86"
+          ],
+          "cover_path": "out/media/2026-07-09/research-00.jpg"
+        },
+        {
+          "headline": "智源发布悟界·Orca世界基础模型，探索Next State Prediction",
+          "summary": "悟界·Orca旨在让AI理解世界变化，通过双路径学习成为通用世界基础模型。",
+          "primary_url": "https://www.qbitai.com/2026/07/446075.html",
+          "importance": 6,
+          "items": [
+            "d088dd1ce179ae2e",
+            "0ec714e034e2cbca",
+            "5c8f48537d6bde0f"
+          ],
+          "cover_path": "out/media/2026-07-09/research-01.jpg"
+        },
+        {
+          "headline": "RoboDojo发布具身智能测评基准，最强模型仅12.8分",
+          "summary": "RoboDojo是统一仿真-现实基准，全面评估通用机器人操作策略，人类100分，模型最高12.8。",
+          "primary_url": "http://arxiv.org/abs/2607.04434v2",
+          "importance": 5,
+          "items": [
+            "33e50af529922c0e",
+            "c68927ad1984218f"
+          ],
+          "cover_path": "out/media/2026-07-09/research-02.jpg"
+        },
+        {
+          "headline": "ICML 2026进行中，中国大厂积极抢人才",
+          "summary": "机器学习顶会ICML 2026进入第二天，中国厂商在展台和游轮上招聘人才。",
+          "primary_url": "https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html",
+          "importance": 5,
+          "items": [
+            "5685f0892aad4f8a",
+            "eaf1322a9fdaa756",
+            "181b8ec3f25447f2",
+            "16e9a0405e8cdeea",
+            "e2161a80af742d2e",
+            "fc263dcce58bced9"
+          ]
+        },
+        {
+          "headline": "OpenAI分析揭示SWE-Bench Pro基准可靠性问题",
+          "summary": "OpenAI发布分析，指出SWE-Bench Pro编码基准存在噪音和可靠性问题，呼吁重新评估。",
+          "primary_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "importance": 5,
+          "items": [
+            "df15ecadae296292"
+          ]
+        },
+        {
+          "headline": "NVIDIA发布Audex统一音频文本模型",
+          "summary": "NVIDIA推出Nemotron-Labs-Audex-30B-A3B，统一音频理解、翻译、生成，保持文本智能。",
+          "primary_url": "https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/",
+          "importance": 5,
+          "items": [
+            "6c401cf508f79e8e"
+          ],
+          "cover_path": "out/media/2026-07-09/research-05.jpg"
+        },
+        {
+          "headline": "Anthropic发表语言模型全局工作空间研究",
+          "summary": "Anthropic研究论文提出语言模型中的全局工作空间机制。",
+          "primary_url": "https://www.anthropic.com/research/global-workspace",
+          "importance": 4,
+          "items": [
+            "0dabfdf80ce65187"
+          ],
+          "cover_path": "out/media/2026-07-09/research-06.jpg"
+        },
+        {
+          "headline": "翁荔总结35篇论文：Harness Engineering for RSI",
+          "summary": "Lilian Weng发布35篇论文总结，探讨自我进化AI的Harness工程。",
+          "primary_url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+          "importance": 4,
+          "items": [
+            "ba84937ffbe26a79",
+            "f4df31144dea2b20"
+          ],
+          "cover_path": "out/media/2026-07-09/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude Cowork扩展至移动端和网页，支持后台持续运行",
+          "summary": "Anthropic的Claude Cowork现在可在手机和网页上使用，用户关闭电脑后任务仍继续。",
+          "primary_url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+          "importance": 7,
+          "items": [
+            "bfe0dc7489e43ebc",
+            "ed77f697e51d2d9a"
+          ],
+          "cover_path": "out/media/2026-07-09/product-00.jpg"
+        },
+        {
+          "headline": "Google Photos新增AI视频重混工具",
+          "summary": "Google Photos推出Video Remix，可对视频进行电影级重新照明、换背景和添加艺术风格。",
+          "primary_url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+          "importance": 5,
+          "items": [
+            "bb4c735c1ce62794"
+          ],
+          "cover_path": "out/media/2026-07-09/product-01.jpg"
+        },
+        {
+          "headline": "Google深度伪造检测系统成功揭穿McConnell伪造照片",
+          "summary": "Google的深度伪造检测系统被用来验证一张声称显示Mitch McConnell的病床照片是AI生成的。",
+          "primary_url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+          "importance": 5,
+          "items": [
+            "d4f53a42ddf77aae"
+          ],
+          "cover_path": "out/media/2026-07-09/product-02.jpg"
+        },
+        {
+          "headline": "Meta为AI眼镜添加防秘密录制功能，但隐私策略引发担忧",
+          "summary": "Meta更新Ray-Ban AI眼镜，增加防偷拍措施，但同时扩大个人数据收集范围。",
+          "primary_url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+          "importance": 5,
+          "items": [
+            "4e2e17df977f3461",
+            "480fa54373d9fa0c"
+          ],
+          "cover_path": "out/media/2026-07-09/product-03.jpg"
+        },
+        {
+          "headline": "Discord AI审核错误误封200余用户",
+          "summary": "Discord确认AI审核系统因bug误封200多用户，误将无害图片识别为违规。",
+          "primary_url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+          "importance": 5,
+          "items": [
+            "be144ee347416fc2"
+          ],
+          "cover_path": "out/media/2026-07-09/product-04.jpg"
+        },
+        {
+          "headline": "AI反诈骗App Savi上线，识别AI克隆语音和勒索",
+          "summary": "Savi推出手机App，帮助用户识别AI伪造的绑架勒索等诈骗电话，获700万美元种子轮。",
+          "primary_url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+          "importance": 5,
+          "items": [
+            "0c170488013d2574"
+          ],
+          "cover_path": "out/media/2026-07-09/product-05.jpg"
+        },
+        {
+          "headline": "出门问问TicNote企业微信合作款发布",
+          "summary": "企业微信首款AI硬件TicNote合作款正式发布。",
+          "primary_url": "https://www.infoq.cn/article/CiwPd7c4oYfzqBGMbotV?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "5bd2d0e6c9d2a7e5"
+          ],
+          "cover_path": "out/media/2026-07-09/product-06.jpg"
+        },
+        {
+          "headline": "支付宝上线AI开放平台，肯德基等首批接入",
+          "summary": "支付宝推出AI开放平台，商家可通过AI助手“阿宝”提供自然语言服务，首批包括肯德基、蜜雪冰城等。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/MlfOVkSb0uNZp7FF.html",
+          "importance": 4,
+          "items": [
+            "7c181547955df61d",
+            "862d65f3106e584b",
+            "81be611376f433c4",
+            "437eba6dce36ec7a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI作弊导致布朗大学期末考试成绩下降50%",
+          "summary": "常春藤教授因怀疑学生用AI作弊而改口试，分数狂降50%，引发对AI作弊的社会讨论。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+          "importance": 7,
+          "items": [
+            "e6e5610f9dfc80c4"
+          ],
+          "cover_path": "out/media/2026-07-09/opinion-00.jpg"
+        },
+        {
+          "headline": "黑客利用9款主流AI工具构建大型僵尸网络",
+          "summary": "“HalluSquatting”攻击利用LLM无法说“不知道”的弱点，组建恶意botnet。",
+          "primary_url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+          "importance": 7,
+          "items": [
+            "722a65fbfd0a3215"
+          ],
+          "cover_path": "out/media/2026-07-09/opinion-01.jpg"
+        },
+        {
+          "headline": "数据中心能源需求威胁特朗普“美国制造”计划",
+          "summary": "AI数据中心用电激增，美国制造业电价飙升，冲击制造业复兴。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+          "importance": 6,
+          "items": [
+            "a1dfe01306fab62f"
+          ],
+          "cover_path": "out/media/2026-07-09/opinion-02.jpg"
+        },
+        {
+          "headline": "开源AI崛起为何尚未伤害Anthropic",
+          "summary": "分析认为开源模型成功并未侵蚀前沿实验室收入，两者分别占据不同生命周期阶段。",
+          "primary_url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "importance": 6,
+          "items": [
+            "8a7edd365702e319",
+            "640332519f608709"
+          ],
+          "cover_path": "out/media/2026-07-09/opinion-03.jpg"
+        },
+        {
+          "headline": "前DeepMind高管警告AI军备竞赛可能导致灾难",
+          "summary": "Verity Harding称美国政府民族主义态度是AI最坏情景的证据。",
+          "primary_url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+          "importance": 5,
+          "items": [
+            "a74f610bed650a44"
+          ],
+          "cover_path": "out/media/2026-07-09/opinion-04.jpg"
+        },
+        {
+          "headline": "自我改进AI实验：不仅前沿实验室能做",
+          "summary": "Wired文章展示使用AI构建AI的实验，证明自改进AI并非只有前沿实验室能实现。",
+          "primary_url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+          "importance": 5,
+          "items": [
+            "a69d34d7226eeeb6"
+          ],
+          "cover_path": "out/media/2026-07-09/opinion-05.jpg"
+        },
+        {
+          "headline": "Kenton Varda宣布团队禁用AI写的变更描述",
+          "summary": "Cloudflare工程经理Kenton Varda宣布禁止团队使用AI编写PR和commit消息。",
+          "primary_url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+          "importance": 5,
+          "items": [
+            "c229e582fc9c3fee"
+          ]
+        },
+        {
+          "headline": "360周鸿祎：做中国版Mythos不能照搬美国路线",
+          "summary": "周鸿祎认为中国AI不能盲目复制美国，基模能力差距可通过Harness补齐。",
+          "primary_url": "https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "fdab3868b00588a3"
+          ],
+          "cover_path": "out/media/2026-07-09/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "蚂蚁灵波开源LingBot-VLA 2.0具身基座模型",
+          "summary": "蚂蚁灵波开源新一代具身模型，支持20种机器人构型，预训练6万小时数据。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/4583hFHXszrX7fky.html",
+          "importance": 6,
+          "items": [
+            "e58bb21d04aec947"
+          ]
+        },
+        {
+          "headline": "Liquid AI开源Antidoom方法，减少推理模型死亡循环",
+          "summary": "Liquid AI发布Antidoom，通过最终token偏好优化(FTPO)解决推理模型中的doom loop问题。",
+          "primary_url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
+          "importance": 5,
+          "items": [
+            "d8b122f36febd3b4"
+          ],
+          "cover_path": "out/media/2026-07-09/opensource-01.jpg"
+        },
+        {
+          "headline": "sqlite-utils 4.0发布，新增数据库模式迁移",
+          "summary": "Simon Willison发布sqlite-utils 4.0，首次重大版本升级，支持schema迁移。",
+          "primary_url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+          "importance": 5,
+          "items": [
+            "a4f169843f8aaa3e",
+            "648827d065c01f11",
+            "8f58fa9a4365b4fb"
+          ]
+        },
+        {
+          "headline": "ZML开源LLMD软件，加速多芯片推理",
+          "summary": "法国AI初创ZML发布ZML/LLMD，免费软件可跨多芯片加速推理，降低AI运行成本。",
+          "primary_url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+          "importance": 6,
+          "items": [
+            "b1871b66384aa0db"
+          ],
+          "cover_path": "out/media/2026-07-09/opensource-03.jpg"
+        },
+        {
+          "headline": "OfficeCLI开源：AI代理办公套件命令行工具",
+          "summary": "OfficeCLI是首个专为AI代理设计的Office文件读写编辑开源工具，单二进制，无需安装Office。",
+          "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
+          "importance": 4,
+          "items": [
+            "104b00cd31d1a498"
+          ],
+          "cover_path": "out/media/2026-07-09/opensource-04.jpg"
+        },
+        {
+          "headline": "腾讯云CubeSandbox开源，支持Arm架构",
+          "summary": "腾讯云开源CubeSandbox，即时、并发、安全的Agent沙箱，现已支持Arm。",
+          "primary_url": "https://github.com/TencentCloud/CubeSandbox",
+          "importance": 4,
+          "items": [
+            "3005c6ea295e962c"
+          ]
+        },
+        {
+          "headline": "Anthropic发布官方Claude Skills目录",
+          "summary": "Anthropic在GitHub上发布官方Claude Code Plugins目录，以及skills仓库。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "importance": 4,
+          "items": [
+            "808e1873b6f1032d",
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-07-09/opensource-06.jpg"
+        },
+        {
+          "headline": "NousResearch开源Hermes Agent",
+          "summary": "NousResearch发布Hermes Agent，一个可成长的AI代理框架。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 4,
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-07-09/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
