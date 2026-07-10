@@ -1,0 +1,438 @@
+{
+  "date": "2026-07-11",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "OpenAI发布GPT-5.6三型号，性能逼近Claude",
+          "summary": "OpenAI推出Luna、Terra、Sol三档模型，Sol近乎匹配Claude Fable 5，成本仅三分之一，并包含自主后训练能力。",
+          "primary_url": "https://openai.com/index/gpt-5-6/",
+          "importance": 10,
+          "items": [
+            "60e2feb293944278",
+            "0e9fa2077572d705",
+            "ced03939ef71cd0b",
+            "37828865b4fdd9bd",
+            "69d1bfbd4079e1b7",
+            "7a06b45e7b27774e",
+            "5e16aca82280f75c",
+            "6d11af838a2e70ab",
+            "a98f534557af496b"
+          ]
+        },
+        {
+          "headline": "Meta推出Muse Spark 1.1，对标OpenAI和Anthropic",
+          "summary": "Meta发布Muse Spark 1.1，API定价极具竞争力，意图在AI编码工具市场分一杯羹。",
+          "primary_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+          "importance": 8,
+          "items": [
+            "9761a27e77f652c1",
+            "ddeca83bf8dfea31",
+            "c8b3acb43039a2e5"
+          ]
+        },
+        {
+          "headline": "蚂蚁灵波发布业界首个具身原生世界动作模型",
+          "summary": "LingBot-VA 2.0从物理世界原生设计，让机器人动作模型摆脱数字世界依赖，真机测试表现优异。",
+          "primary_url": "https://www.qbitai.com/2026/07/447597.html",
+          "importance": 7,
+          "items": [
+            "099cf99be1bbcfaf",
+            "6159ee227d04f93f",
+            "81de2c969341eb3c",
+            "78abc8997bd0d7b3"
+          ],
+          "cover_path": "out/media/2026-07-11/model_release-02.jpg"
+        },
+        {
+          "headline": "全球首个具身视频基模LingBot-Video开源",
+          "summary": "蚂蚁灵波进一步开源具身视频基础模型，为机器人提供物理世界理解引擎。",
+          "primary_url": "https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1",
+          "importance": 6,
+          "items": [
+            "2f96bddc3b3ead76"
+          ],
+          "cover_path": "out/media/2026-07-11/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "苹果起诉OpenAI窃取硬件商业机密",
+          "summary": "苹果指控OpenAI高层指导窃取机密演示文稿、原型和供应商细节，双方冲突升级。",
+          "primary_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "importance": 8,
+          "items": [
+            "2a540a71099d0c68",
+            "c3974d27cf69b250"
+          ],
+          "cover_path": "out/media/2026-07-11/company-00.jpg"
+        },
+        {
+          "headline": "SK海力士完成265亿美元美国IPO",
+          "summary": "韩国芯片巨头SK海力士登陆纳斯达克，募资265亿美元，创外国公司在美最大IPO纪录。",
+          "primary_url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+          "importance": 8,
+          "items": [
+            "a0f26093c088aba2",
+            "6234bd173ba11272"
+          ],
+          "cover_path": "out/media/2026-07-11/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI二号人物Fidji Simo离职",
+          "summary": "OpenAI AGI部署CEO Fidji Simo因医疗假超预期辞去全职岗位，将继续担任顾问。",
+          "primary_url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+          "importance": 8,
+          "items": [
+            "8f260a76ea7f9c6a",
+            "b1fc960348902065"
+          ],
+          "cover_path": "out/media/2026-07-11/company-02.jpg"
+        },
+        {
+          "headline": "Bun用Claude 11天重写超百万行代码",
+          "summary": "JavaScript运行时Bun借助Claude Fable 5在11天内将Zig代码库重写为Rust，花费仅16.5万美元。",
+          "primary_url": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
+          "importance": 8,
+          "items": [
+            "c2640c67f48b41ea",
+            "24110945b85a1103",
+            "d8650f4cc20f976b"
+          ],
+          "cover_path": "out/media/2026-07-11/company-03.jpg"
+        },
+        {
+          "headline": "Meta AI芯片将于9月量产",
+          "summary": "Meta采用模块化设计，推进自研AI芯片生产计划，应对快速演进的AI需求。",
+          "primary_url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+          "importance": 7,
+          "items": [
+            "6bfa910ecd06ca5f"
+          ],
+          "cover_path": "out/media/2026-07-11/company-04.jpg"
+        },
+        {
+          "headline": "腾讯拟收购Manus多数股权",
+          "summary": "此前Meta收购被中国禁止，腾讯趁机入场收购AI Agent平台Manus。",
+          "primary_url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
+          "importance": 7,
+          "items": [
+            "68950c290f9284f5"
+          ],
+          "cover_path": "out/media/2026-07-11/company-05.jpg"
+        },
+        {
+          "headline": "AI代理创业公司Lyzr用AI完成1亿美元融资",
+          "summary": "Lyzr使用自家AI代理主导整个融资流程，证明产品真实力。",
+          "primary_url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "importance": 7,
+          "items": [
+            "fc9a00e4a8e2bd46"
+          ],
+          "cover_path": "out/media/2026-07-11/company-06.jpg"
+        },
+        {
+          "headline": "法国AI语音公司Gradium获1亿美元种子轮",
+          "summary": "Nvidia参投，Gradium将用资金在硅谷设立办公室，争夺AI语音人才。",
+          "primary_url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+          "importance": 7,
+          "items": [
+            "4a3648ed5ff02ca0"
+          ],
+          "cover_path": "out/media/2026-07-11/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "Anthropic发现Claude内部隐藏推理空间",
+          "summary": "Anthropic通过新技术揭示Claude在回答问题时存在一个类似思维草稿的隐藏表示层，展示类人推理过程。",
+          "primary_url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+          "importance": 8,
+          "items": [
+            "97c612dd38d5a97d",
+            "78be98780d4284db"
+          ],
+          "cover_path": "out/media/2026-07-11/research-00.jpg"
+        },
+        {
+          "headline": "OpenAI发现热门AI编程测试30%有bug",
+          "summary": "OpenAI审查SWE-bench等基准后发现约30%的题目存在数据污染或错误，影响模型评估。",
+          "primary_url": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
+          "importance": 6,
+          "items": [
+            "a98f534557af496b"
+          ],
+          "cover_path": "out/media/2026-07-11/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "ChatGPT Work上线：自主工作流Agent",
+          "summary": "原Codex更名为ChatGPT Work，可独立运行数小时完成完整工作流，支持本地文件操作。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+          "importance": 9,
+          "items": [
+            "70a6654ee679593e",
+            "f2693da966ea366a",
+            "f3afdee97981b682",
+            "6d11af838a2e70ab"
+          ],
+          "cover_path": "out/media/2026-07-11/product-00.jpg"
+        },
+        {
+          "headline": "OpenAI关停Atlas浏览器，嵌入ChatGPT",
+          "summary": "推出仅八个月的AI浏览器被砍，部分Agent浏览功能转移到桌面应用和Chrome扩展。",
+          "primary_url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "importance": 7,
+          "items": [
+            "7b92a070e7e2eb65",
+            "28446b9365e686a0"
+          ],
+          "cover_path": "out/media/2026-07-11/product-01.jpg"
+        },
+        {
+          "headline": "人形机器人完成全球首例活猪手术",
+          "summary": "外科医生远程控制人形机器人对活猪执行手术，验证机器人手术可行性。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+          "importance": 7,
+          "items": [
+            "59926126efbe0910"
+          ],
+          "cover_path": "out/media/2026-07-11/product-02.jpg"
+        },
+        {
+          "headline": "百度搭子升级企业版，日均提问增20倍",
+          "summary": "百度通用智能体百度搭子发布企业版，个人版新增智能路由、多端共享记忆等能力。",
+          "primary_url": "https://www.qbitai.com/2026/07/447681.html",
+          "importance": 7,
+          "items": [
+            "bca739b93242e1f5",
+            "fa089c550b8dd732"
+          ],
+          "cover_path": "out/media/2026-07-11/product-03.jpg"
+        },
+        {
+          "headline": "Google要求所有AI生成广告必须标注",
+          "summary": "Google更新政策，要求广告主披露使用AI合成或修改的内容，已开始执行。",
+          "primary_url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+          "importance": 6,
+          "items": [
+            "6340aded0fc8d16b"
+          ],
+          "cover_path": "out/media/2026-07-11/product-04.jpg"
+        },
+        {
+          "headline": "Claude上线Reflect仪表盘，可视化AI使用",
+          "summary": "新功能展示用户与Claude交互模式，悄然强化对Anthropic产品的依赖。",
+          "primary_url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+          "importance": 6,
+          "items": [
+            "b44391bee5a8d8fe"
+          ],
+          "cover_path": "out/media/2026-07-11/product-05.jpg"
+        },
+        {
+          "headline": "字节跳动发布10亿参数AI华语歌模型",
+          "summary": "从零预训练，字节AI华语歌音乐生成模型大幅提升自然度，告别机械感。",
+          "primary_url": "https://www.qbitai.com/2026/07/447602.html",
+          "importance": 6,
+          "items": [
+            "260852f6a8ad75d6"
+          ],
+          "cover_path": "out/media/2026-07-11/product-06.jpg"
+        },
+        {
+          "headline": "智能体PC端侧部署35B模型进32GB内存",
+          "summary": "英特尔和多厂商展示智能体PC产品，在端侧成功运行大模型，挑战部署极限。",
+          "primary_url": "https://www.leiphone.com/category/chips/JCZ1098a28zh4gsH.html",
+          "importance": 6,
+          "items": [
+            "a8e3b6bf6a1a59a1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "EU警告Meta：禁用自动播放和无限滚动",
+          "summary": "根据数字服务法，Meta可能面临巨额罚款，需改变平台设计。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+          "importance": 7,
+          "items": [
+            "6db85a2eeeb81709"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-00.jpg"
+        },
+        {
+          "headline": "纽约时报诉OpenAI隐藏版权证据",
+          "summary": "NYT指控OpenAI在诉讼中隐藏证明侵权能力的工具和日志，要求法院制裁。",
+          "primary_url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+          "importance": 7,
+          "items": [
+            "299d51c889a38796",
+            "b4cf90a6563607c8"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-01.jpg"
+        },
+        {
+          "headline": "Hugging Face CEO：开源AI从未如此关键",
+          "summary": "Clem Delangue表示企业正在从‘租赁AI’转向自建开源模型，公司已发展为AI的GitHub。",
+          "primary_url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+          "importance": 7,
+          "items": [
+            "d1e746f8788c18b6",
+            "881f4fc9531ea3d9"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-02.jpg"
+        },
+        {
+          "headline": "Anthropic将对Claude Fable 5按用量收费",
+          "summary": "订阅者很快需按使用量支付额外费用才能访问最强模型，AI订阅模式或生变。",
+          "primary_url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+          "importance": 7,
+          "items": [
+            "c140d24ec4012d23"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-03.jpg"
+        },
+        {
+          "headline": "AI投资回报的3万亿美元难题",
+          "summary": "大规模AI投入与变现之间的差距再次成为焦点，分析师争论是否值得。",
+          "primary_url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+          "importance": 6,
+          "items": [
+            "e6f164f7c0ab617e"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-04.jpg"
+        },
+        {
+          "headline": "Nvidia沦为自创算力市场的受害者",
+          "summary": "算力市场热闹但Nvidia并未独占利润，更简单的技术反而赚钱。",
+          "primary_url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+          "importance": 6,
+          "items": [
+            "177f65492c7b8a84"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-05.jpg"
+        },
+        {
+          "headline": "美联储邀AI投资人与政府共探AI治理",
+          "summary": "主席鲍威尔邀请Andreessen参与讨论AI是否能控制通胀及宏观经济影响。",
+          "primary_url": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
+          "importance": 6,
+          "items": [
+            "584eb07319920324"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-06.jpg"
+        },
+        {
+          "headline": "OpenAI新模型安全审批过程仍不透明",
+          "summary": "政府与AI公司之间的安全对话细节未公开，引发对监管有效性的质疑。",
+          "primary_url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+          "importance": 6,
+          "items": [
+            "cd10cda4dd929130"
+          ],
+          "cover_path": "out/media/2026-07-11/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "OfficeCLI：为AI agent打造的Office命令行工具",
+          "summary": "开源单二进制，无需安装Office即可读写Word/Excel/PPT，专为AI代理自动化设计。",
+          "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
+          "importance": 7,
+          "items": [
+            "104b00cd31d1a498"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-00.jpg"
+        },
+        {
+          "headline": "DesktopCommanderMCP：Claude桌面控制",
+          "summary": "MCP服务器赋予Claude终端控制、文件搜索和编辑能力，提升Agent实用性。",
+          "primary_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "importance": 7,
+          "items": [
+            "5b2760af3f4fc21e"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-01.jpg"
+        },
+        {
+          "headline": "Agent Skills：生产级AI编码工程师技能库",
+          "summary": "包含工作流、质量门等最佳实践，供AI编码Agent使用。",
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "importance": 7,
+          "items": [
+            "0520df06928ed362"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-02.jpg"
+        },
+        {
+          "headline": "Crawl4AI：开源LLM友好型网页爬虫",
+          "summary": "专为LLM数据抓取设计的爬虫工具，支持结构化输出。",
+          "primary_url": "https://github.com/unclecode/crawl4ai",
+          "importance": 7,
+          "items": [
+            "466cb2b9b35ce2fa"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-03.jpg"
+        },
+        {
+          "headline": "AI Job Search：用Claude自动求职",
+          "summary": "基于Claude Code的AI求职框架，可评估职位、定制简历、准备面试。",
+          "primary_url": "https://github.com/MadsLorentzen/ai-job-search",
+          "importance": 6,
+          "items": [
+            "2d1baba701f48ba7"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-04.jpg"
+        },
+        {
+          "headline": "Microsoft SkillOpt：训练的LLM Agent技能",
+          "summary": "通过轨迹驱动编辑和验证门更新，训练冻结LLM的复用技能。",
+          "primary_url": "https://github.com/microsoft/SkillOpt",
+          "importance": 6,
+          "items": [
+            "4682ed98941e8e61"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-05.jpg"
+        },
+        {
+          "headline": "Awesome Design MD：品牌设计系统注入AI",
+          "summary": "收集流行设计系统的DESIGN.md，让编码Agent生成匹配UI。",
+          "primary_url": "https://github.com/VoltAgent/awesome-design-md",
+          "importance": 6,
+          "items": [
+            "26139d0e9bd2390b"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-06.jpg"
+        },
+        {
+          "headline": "Pocket TTS：轻量级CPU级TTS模型",
+          "summary": "Kyutai Labs发布的极小型文本转语音模型，可在CPU上运行。",
+          "primary_url": "https://github.com/kyutai-labs/pocket-tts",
+          "importance": 6,
+          "items": [
+            "03508f42a2956410"
+          ],
+          "cover_path": "out/media/2026-07-11/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
