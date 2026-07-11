@@ -1,0 +1,377 @@
+{
+  "date": "2026-07-12",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "GPT-5.6 Sol Ultra 一小时攻克50年数学猜想",
+          "summary": "OpenAI发布GPT-5.6 Sol Ultra，自主生成Cycle Double Cover Conjecture的证明，并展示多级推理与自主训练小模型能力。",
+          "importance": 10,
+          "primary_url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+          "items": [
+            "c06bc321398422a0",
+            "37828865b4fdd9bd",
+            "69d1bfbd4079e1b7",
+            "3feea5de7cce31ad",
+            "6d11af838a2e70ab",
+            "70967d68e5b9202e"
+          ],
+          "cover_path": "out/media/2026-07-12/model_release-00.jpg"
+        },
+        {
+          "headline": "Meta Muse Spark 1.1 编程能力超 GLM-5.2",
+          "summary": "Meta发布Muse Spark 1.1，在编程基准上超越智谱GLM-5.2，且成本略低。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
+          "items": [
+            "e6fc2124d9a953f5"
+          ],
+          "cover_path": "out/media/2026-07-12/model_release-01.jpg"
+        },
+        {
+          "headline": "中国Orca世界模型无需动作标签匹配专业机器人",
+          "summary": "中国研究团队提出Orca世界模型，无需动作标签即可在机器人任务中匹敌专业系统。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
+          "items": [
+            "76aad6e2f697e90a"
+          ],
+          "cover_path": "out/media/2026-07-12/model_release-02.jpg"
+        },
+        {
+          "headline": "蚂蚁灵波发布具身世界动作模型 LingBot-VA 2.0",
+          "summary": "蚂蚁集团旗下灵波发布从零预训练的具身原生世界动作模型LingBot-VA 2.0。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/aU7GMFKF8qZRhT8VMWvY",
+          "items": [
+            "81de2c969341eb3c"
+          ],
+          "cover_path": "out/media/2026-07-12/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "苹果起诉OpenAI，指控其挖角员工窃取硬件机密",
+          "summary": "苹果向法院起诉OpenAI，称其高管策划挖角行动，鼓励前员工携带机密文件和原型。OpenAI回应称对其他公司的机密不感兴趣。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "items": [
+            "d90c7333bc73e065",
+            "8ae846d4e36497de",
+            "2a540a71099d0c68",
+            "c3974d27cf69b250",
+            "a0f9615f6b92f2d7"
+          ],
+          "cover_path": "out/media/2026-07-12/company-00.jpg"
+        },
+        {
+          "headline": "中国建成首个十万卡国产算力集群，全精度覆盖",
+          "summary": "中国首个国产算力十万卡集群正式落成，已跑通300余项应用，支持FP64到INT8全精度。",
+          "importance": 8,
+          "primary_url": "https://www.qbitai.com/2026/07/447902.html",
+          "items": [
+            "969336ecb091e7f9",
+            "d8b2fdc74955f5f1"
+          ],
+          "cover_path": "out/media/2026-07-12/company-01.jpg"
+        },
+        {
+          "headline": "腾讯洽购Manus，估值约20亿美元",
+          "summary": "腾讯正牵头中方资本从Meta手中收购通用AI Agent公司Manus股权，腾讯将保持少数股东地位。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
+          "items": [
+            "68950c290f9284f5",
+            "063ea7827b323207"
+          ],
+          "cover_path": "out/media/2026-07-12/company-02.jpg"
+        },
+        {
+          "headline": "SK海力士IPO募资265亿美元，创美国外企纪录",
+          "summary": "SK海力士在美上市募资265亿美元，为史上最大外国IPO，被要求在美国建新厂。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+          "items": [
+            "a0f26093c088aba2"
+          ],
+          "cover_path": "out/media/2026-07-12/company-03.jpg"
+        },
+        {
+          "headline": "OpenAI安全负责人Johannes Heidecke离职",
+          "summary": "OpenAI安全负责人Johannes Heidecke离职，正值公司整合研究与安全团队。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+          "items": [
+            "76fc2e3dd9afe096"
+          ],
+          "cover_path": "out/media/2026-07-12/company-04.jpg"
+        },
+        {
+          "headline": "智谱CEO内部信：不追求短期变现，直指AGI高地",
+          "summary": "智谱创始人唐杰发布内部信，强调不追求短期应用变现，聚焦长程任务、自治智能体和极致安全。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3891162734689031",
+          "items": [
+            "2bc825117ee42497"
+          ],
+          "cover_path": "out/media/2026-07-12/company-05.jpg"
+        },
+        {
+          "headline": "Meta因用户反弹移除Instagram争议AI功能",
+          "summary": "Meta移除Instagram上一项引发强烈批评的AI功能，称初衷是提供创意工具但未达预期。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "items": [
+            "6df0e14b7d69bd87"
+          ],
+          "cover_path": "out/media/2026-07-12/company-06.jpg"
+        },
+        {
+          "headline": "FansAI收购AI音乐公司新映科技",
+          "summary": "AI内容和互动影视公司FansAI全资收购AI音乐应用新映科技，为OPC领域少见的并购。",
+          "importance": 3,
+          "primary_url": "https://36kr.com/newsflashes/3890728911354376",
+          "items": [
+            "29f4ce183bdacc75"
+          ],
+          "cover_path": "out/media/2026-07-12/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "剑桥研究：恐怖组织利用主流AI聊天机器人策划攻击",
+          "summary": "剑桥大学研究发现，包括Boko Haram在内的恐怖组织正使用GPT、Claude等前沿AI模型进行攻击规划和武器开发。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+          "items": [
+            "b5526a6980c32bd1",
+            "c3b443fd39c77f5c"
+          ],
+          "cover_path": "out/media/2026-07-12/research-00.jpg"
+        },
+        {
+          "headline": "新字体Ghost Font让AI无法读取，人类正常阅读",
+          "summary": "开发者发布“Ghost Font”字体，利用视觉混淆使AI视觉模型无法识别字符，但人类可正常阅读。",
+          "importance": 3,
+          "primary_url": "https://www.mixfont.com/ghost-font",
+          "items": [
+            "4fd54af4645759e2"
+          ],
+          "cover_path": "out/media/2026-07-12/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "OpenAI承认ChatGPT Work发布失误，紧急修复",
+          "summary": "OpenAI表示ChatGPT Work产品发布未达到理想，正在改进用户体验和成本结构。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
+          "items": [
+            "8584b1b9572b3121"
+          ],
+          "cover_path": "out/media/2026-07-12/product-00.jpg"
+        },
+        {
+          "headline": "OpenAI关停Atlas浏览器，整合进ChatGPT",
+          "summary": "OpenAI在推出Atlas浏览器仅8个月后宣布关闭，将其功能整合到ChatGPT中。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
+          "items": [
+            "28446b9365e686a0"
+          ],
+          "cover_path": "out/media/2026-07-12/product-01.jpg"
+        },
+        {
+          "headline": "许锦波团队推出AI生物研发系统MoleculeOS",
+          "summary": "MoleculeOS作为AI生物研发的“操作系统”正式开放，组织研发流程。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/07/447832.html",
+          "items": [
+            "e90d4eb37c884957"
+          ],
+          "cover_path": "out/media/2026-07-12/product-02.jpg"
+        },
+        {
+          "headline": "阿里与大麦推出AI潮玩设计平台“妙呀”公测",
+          "summary": "大麦娱乐联合阿里Token Foundry推出AI潮玩设计平台“妙呀”，并启动百万激励计划。",
+          "importance": 3,
+          "primary_url": "https://36kr.com/newsflashes/3890814999870213",
+          "items": [
+            "aa402875729ec71a"
+          ],
+          "cover_path": "out/media/2026-07-12/product-03.jpg"
+        },
+        {
+          "headline": "OpenAI招聘家庭产品经理，ChatGPT深入家庭",
+          "summary": "OpenAI招聘专门面向家庭、看护和老年人的产品经理，推动ChatGPT进入更多家庭场景。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "items": [
+            "9441285e81b9eb7c"
+          ],
+          "cover_path": "out/media/2026-07-12/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "EU要求Meta禁用自动播放和无限滚动，否则重罚",
+          "summary": "欧盟依据数字服务法案，要求Meta禁用自动播放和无限滚动功能，否则面临巨额罚款。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+          "items": [
+            "6db85a2eeeb81709"
+          ],
+          "cover_path": "out/media/2026-07-12/opinion-00.jpg"
+        },
+        {
+          "headline": "Hugging Face CEO：开源AI比以往更重要",
+          "summary": "Hugging Face CEO Clem Delangue表示开源AI正蓬勃发展，企业不再只“租用”AI。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+          "items": [
+            "d1e746f8788c18b6",
+            "881f4fc9531ea3d9"
+          ],
+          "cover_path": "out/media/2026-07-12/opinion-01.jpg"
+        },
+        {
+          "headline": "George Hotz谈AI 2040与智能崇拜",
+          "summary": "George Hotz发表长文，探讨AI未来发展及“智能崇拜”现象。",
+          "importance": 4,
+          "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "items": [
+            "d7ba2a438f44fb91"
+          ]
+        },
+        {
+          "headline": "揭秘英伟达、CoreWeave的GPU循环融资",
+          "summary": "分析指出英伟达与云厂商CoreWeave、Nebius之间的循环融资模式，揭示GPU繁荣的金融暗面。",
+          "importance": 4,
+          "primary_url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "items": [
+            "1e6cf1cc9035b8ed"
+          ],
+          "cover_path": "out/media/2026-07-12/opinion-03.jpg"
+        },
+        {
+          "headline": "Claude花11天重写Bun，创始人一个月后才公开",
+          "summary": "Bun创始人披露，Claude AI用11天完成了Bun运行时的重大重写，团队花费一个月才验证并公开。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO",
+          "items": [
+            "24110945b85a1103"
+          ],
+          "cover_path": "out/media/2026-07-12/opinion-04.jpg"
+        },
+        {
+          "headline": "Cursor、GitLab、Zed挑战GitHub，AI重塑开发",
+          "summary": "报道分析AI正在瓦解GitHub的传统模式，新工具Cursor、GitLab和Zed各自开辟战场。",
+          "importance": 3,
+          "primary_url": "https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat",
+          "items": [
+            "2a092d8ee1e61d08"
+          ],
+          "cover_path": "out/media/2026-07-12/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "DesktopCommanderMCP：让Claude控制终端和文件系统",
+          "summary": "MCP服务器，赋予Claude终端控制、文件搜索和差异编辑能力。",
+          "importance": 6,
+          "primary_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "items": [
+            "5b2760af3f4fc21e"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-00.jpg"
+        },
+        {
+          "headline": "OfficeCLI：AI agent专用Office文件读写工具",
+          "summary": "开源、单二进制、无需安装Office，支持Word、Excel、PowerPoint的读取编辑。",
+          "importance": 6,
+          "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
+          "items": [
+            "104b00cd31d1a498"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-01.jpg"
+        },
+        {
+          "headline": "NVIDIA发布官方AI Agent技能库",
+          "summary": "NVIDIA推出经过验证的Agent Skills集合，用于AI编码代理。",
+          "importance": 5,
+          "primary_url": "https://github.com/NVIDIA/skills",
+          "items": [
+            "f0e0f15ccfffe422"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-02.jpg"
+        },
+        {
+          "headline": "微软发布AI Agent治理工具包",
+          "summary": "涵盖策略执行、零信任身份、执行沙箱和可靠性工程，覆盖OWASP Agentic Top 10。",
+          "importance": 5,
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "items": [
+            "8dd243fffcdc353c"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-03.jpg"
+        },
+        {
+          "headline": "腾讯开源Agent长期记忆框架TencentDB-Agent-Memory",
+          "summary": "通过四级渐进式流水线实现全本地长期记忆，零外部API依赖。",
+          "importance": 5,
+          "primary_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "items": [
+            "3f7d4a74f23bd640"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-04.jpg"
+        },
+        {
+          "headline": "Hugging Face开源语音转语音Agent构建框架",
+          "summary": "使用开源模型构建本地语音Agent，支持语音交互。",
+          "importance": 5,
+          "primary_url": "https://github.com/huggingface/speech-to-speech",
+          "items": [
+            "1e985fa2f54520c2"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-05.jpg"
+        },
+        {
+          "headline": "LMCache：加速LLM推理的KV缓存层",
+          "summary": "最快的KV缓存层，大幅提升LLM推理速度。",
+          "importance": 4,
+          "primary_url": "https://github.com/LMCache/LMCache",
+          "items": [
+            "394edaf01c9d9aa1"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-06.jpg"
+        },
+        {
+          "headline": "AgentScope：可视化多Agent开发框架",
+          "summary": "阿里开源的Agent框架，支持构建可观察、可信任的多Agent应用。",
+          "importance": 4,
+          "primary_url": "https://github.com/agentscope-ai/agentscope",
+          "items": [
+            "b6ac129658829f16"
+          ],
+          "cover_path": "out/media/2026-07-12/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
