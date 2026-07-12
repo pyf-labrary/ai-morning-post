@@ -1,0 +1,410 @@
+{
+  "date": "2026-07-13",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "GPT-5.6 Sol Ultra 一小时破解50年数学难题",
+          "summary": "据传 OpenAI 最新的 GPT-5.6 Sol Ultra 在一个小时内解决了一个困扰学界 50 年的数学难题，性能达到 Fable/Mythos 级别。",
+          "primary_url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+          "items": [
+            "c06bc321398422a0"
+          ],
+          "cover_path": "out/media/2026-07-13/model_release-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "苹果41页诉状怒告OpenAI“偷师”核心机密",
+          "summary": "苹果向法院提交41页PDF，指控OpenAI非法获取其核心商业秘密，网友调侃：“早知道就等印度开源了”。",
+          "primary_url": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
+          "items": [
+            "8ae846d4e36497de"
+          ],
+          "cover_path": "out/media/2026-07-13/company-00.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "S&P下调Oracle评级：OpenAI是“关键信用风险”",
+          "summary": "标普将Oracle信用评级下调，认为与OpenAI的合作关系构成重大信用风险，市场反应强烈。",
+          "primary_url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/",
+          "items": [
+            "4c00adb76be7fb1b"
+          ],
+          "cover_path": "out/media/2026-07-13/company-01.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Meta关闭Muse功能：用户未经同意被生成AI图",
+          "summary": "因引发隐私争议，Meta关掉了“Muse”功能——该功能允许任何人用Instagram用户照片生成AI图片。",
+          "primary_url": "https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/",
+          "items": [
+            "ee7074cae6acb6ee"
+          ],
+          "cover_path": "out/media/2026-07-13/company-02.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "OpenAI新战略：为家庭场景招产品经理",
+          "summary": "ChatGPT正在招聘专门为家庭、护理人员和老年人设计体验的产品经理，标志着进入家庭场景的深度布局。",
+          "primary_url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "items": [
+            "9441285e81b9eb7c"
+          ],
+          "cover_path": "out/media/2026-07-13/company-03.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "NVIDIA、CoreWeave与Nebius：GPU泡沫的循环融资内幕",
+          "summary": "深度调查揭示NVIDIA、CoreWeave和Nebius之间的循环融资模式，引发市场对GPU泡沫的担忧。",
+          "primary_url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "items": [
+            "1e6cf1cc9035b8ed"
+          ],
+          "cover_path": "out/media/2026-07-13/company-04.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Altman改口：AI净创造就业，而非毁灭岗位",
+          "summary": "OpenAI CEO Sam Altman从此前预测大规模失业转向“相当确信”AI会净增加就业机会，观点大转变。",
+          "primary_url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/",
+          "items": [
+            "a4457f777a3ee8db"
+          ],
+          "cover_path": "out/media/2026-07-13/company-05.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "英国投20亿英镑建设AI作战实验室",
+          "summary": "英国国防部推出AI作战实验室计划，投入20亿英镑用于陆军训练体系升级和智能技术重塑演习模式。",
+          "primary_url": "https://36kr.com/newsflashes/3892413575559941?f=rss",
+          "items": [
+            "1572e1542ae61080"
+          ],
+          "cover_path": "out/media/2026-07-13/company-06.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Anthropic推迟Fable模型下架日期",
+          "summary": "由于GPT-5.6 Sol性能看齐Fable，Anthropic宣布延后Fable的下线时间，维持竞争优势。",
+          "primary_url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+          "items": [
+            "cac2ec26e9c2c6fd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "剑桥研究：恐怖组织利用主流AI聊天工具策划袭击",
+          "summary": "剑桥大学研究发现，各大AI聊天机器人被恐怖组织用于攻击规划和武器开发，安全漏洞引发关注。",
+          "primary_url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+          "items": [
+            "b5526a6980c32bd1"
+          ],
+          "cover_path": "out/media/2026-07-13/research-00.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Mesh LLM：基于iroh的分布式AI计算方案",
+          "summary": "新项目Mesh LLM利用iroh网络实现分布式AI推理，有望打破大模型对集中式GPU集群的依赖。",
+          "primary_url": "https://www.iroh.computer/blog/mesh-llm",
+          "items": [
+            "a8fe2c71e12376a1"
+          ],
+          "cover_path": "out/media/2026-07-13/research-01.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Agent换用结构化记忆后完胜《杀戮尖塔2》",
+          "summary": "研究员用结构化记忆替代不断增长的聊天日志，使AI agent在《杀戮尖塔2》中取得完胜。",
+          "primary_url": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/",
+          "items": [
+            "4ff5bfc1aa8baaa6"
+          ],
+          "cover_path": "out/media/2026-07-13/research-02.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "研究显示AI提升科研职业却压缩探索视角",
+          "summary": "IEEE研究指出，AI在加速科学家职业生涯的同时，也使得研究探索的思路变得更加狭窄。",
+          "primary_url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "items": [
+            "c67d0f4a28f20007"
+          ],
+          "cover_path": "out/media/2026-07-13/research-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "LinkedIn成AI长篇“垃圾内容”之王：5平台研究",
+          "summary": "一项覆盖五大平台的研究显示，LinkedIn上AI生成的长篇内容占比最高，被称为“AI slop之王”。",
+          "primary_url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
+          "items": [
+            "8095b59fc1cc62d2"
+          ],
+          "cover_path": "out/media/2026-07-13/research-04.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "布朗大学实验：禁止AI后学生成绩从96跌至48分",
+          "summary": "布朗大学一位教授让学生在没有AI辅助的情况下参加考试，成绩由平均96分骤降至48分。",
+          "primary_url": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/",
+          "items": [
+            "6c3cc2e84d60d8a6"
+          ],
+          "cover_path": "out/media/2026-07-13/research-05.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "面向Qwen系列模型的线性注意力高性能优化",
+          "summary": "AICon深圳分享了对Qwen系列模型线性注意力的优化实践，为长序列推理提供新思路。",
+          "primary_url": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
+          "items": [
+            "3801dbbcce21b487"
+          ],
+          "cover_path": "out/media/2026-07-13/research-06.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "小米MiMo-V2.5：全流水线推理优化公开",
+          "summary": "小米官方博客详细介绍了MiMo-V2.5系列模型的全流水线推理优化技术，提升部署效率。",
+          "primary_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+          "items": [
+            "2afefe4a4b2b6986"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "陶哲轩体验：现代编码Agent让新旧App开发效率飞跃",
+          "summary": "著名数学家陶哲轩通过现代编码Agent重新构建了多个新旧应用，证明AI Agent在软件开发中的巨大潜力。",
+          "primary_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+          "items": [
+            "a9d4d668b26ad854"
+          ],
+          "cover_path": "out/media/2026-07-13/product-00.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Grok CLI被曝向xAI大量回传用户数据：详尽分析",
+          "summary": "安全研究员对Grok CLI进行底层分析，发现其向xAI发送大量数据，引发隐私担忧。",
+          "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "items": [
+            "b87967446c522af4"
+          ],
+          "cover_path": "out/media/2026-07-13/product-01.jpg"
+        },
+        {
+          "importance": 7,
+          "headline": "Claude Code vs OpenCode：33K vs 7K token超头差",
+          "summary": "对比测试显示Claude Code在读取提示前就消耗33K token，而开源替代OpenCode仅消耗7K。",
+          "primary_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "items": [
+            "055ed12e7a69e76a"
+          ],
+          "cover_path": "out/media/2026-07-13/product-02.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Claude Code内置浏览器：AI可读、点、输入外部网页",
+          "summary": "Claude Code更新新增内置浏览器功能，让AI能直接操作外部网站，扩展自动化能力。",
+          "primary_url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+          "items": [
+            "59415f7a051367ad"
+          ],
+          "cover_path": "out/media/2026-07-13/product-03.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "老黄RTX Spark真机现身：CPU GPU焊在一起跑120B模型",
+          "summary": "NVIDIA RTX Spark超级芯片在Bilibili World亮相，笔记本即可运行120B参数大模型。",
+          "primary_url": "https://www.qbitai.com/2026/07/447981.html",
+          "items": [
+            "6aff7fdd82b90aaa"
+          ],
+          "cover_path": "out/media/2026-07-13/product-04.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Anthropic：Claude Cowork最大用途是没人想做的办公室杂活",
+          "summary": "Anthropic分析发现Claude Cowork最频繁的使用场景是处理单调的办公室工作，填补了“没人愿意做”的空白。",
+          "primary_url": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/",
+          "items": [
+            "42dd7a91e7c3c729"
+          ],
+          "cover_path": "out/media/2026-07-13/product-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "George Hotz：AI 2040与智力崇拜",
+          "summary": "George Hotz发长文批评AI行业过度崇拜智力，呼吁警惕2040年可能出现的AI统治风险。",
+          "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "items": [
+            "d7ba2a438f44fb91"
+          ]
+        },
+        {
+          "importance": 7,
+          "headline": "George Hotz：我爱LLM，但我恨炒作",
+          "summary": "再次发声，表达对LLM技术的热爱但反对过度炒作，强调理性看待AI能力。",
+          "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "items": [
+            "c9390c29e96f9093"
+          ]
+        },
+        {
+          "importance": 6,
+          "headline": "逆向人马：解决AI悖论的答案",
+          "summary": "文章提出“逆向人马”概念，认为人机协作的合理分工才是应对AI进步的正确路径。",
+          "primary_url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+          "items": [
+            "765fc0e712c14a28"
+          ]
+        },
+        {
+          "importance": 6,
+          "headline": "别再叫我问LLM了",
+          "summary": "一篇博客文章指出当前环境下“问LLM”已成为一种懒惰的思考替代，呼吁回归自主思考。",
+          "primary_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+          "items": [
+            "d0787c43a394e2cf"
+          ],
+          "cover_path": "out/media/2026-07-13/opinion-03.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Thinking Machines Lab：以人为本的AI技术宣言",
+          "summary": "Mira Murati创立的Thinking Machines Lab发表长文，从技术角度论证可定制的模型权重才能实现人本AI。",
+          "primary_url": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+          "items": [
+            "4769308ab67b7e9c"
+          ],
+          "cover_path": "out/media/2026-07-13/opinion-04.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "AI热潮太费电，燃气轮机价格三年涨300%",
+          "summary": "因数据中心加速建设，燃气轮机供不应求，价格三年暴涨300%，凸显AI能源消耗压力。",
+          "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+          "items": [
+            "467002db3285f99c"
+          ],
+          "cover_path": "out/media/2026-07-13/opinion-05.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "具身数据行业全景：年融资44.7亿，十问十答",
+          "summary": "近百名玩家涌入具身数据赛道，一年融资44.7亿美元，但谁能真正靠卖数据赚钱？本文总结了十个行业现状。",
+          "primary_url": "https://www.qbitai.com/2026/07/447914.html",
+          "items": [
+            "0e530dc260045230"
+          ],
+          "cover_path": "out/media/2026-07-13/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "OpenManus：开源通用AI Agent框架",
+          "summary": "OpenManus是一个开源AI Agent框架，提供灵活的构建模块，目标是成为“无城墙的开放地”。",
+          "primary_url": "https://github.com/FoundationAgents/OpenManus",
+          "items": [
+            "63d424233840e79c"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-00.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "微软发布AI Agent治理工具包：覆盖OWASP Top 10",
+          "summary": "Microsoft agent-governance-toolkit提供零信任身份、执行沙箱等模块，帮助开发者构建安全合规的AI Agent。",
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "items": [
+            "8dd243fffcdc353c"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-01.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Hugging Face开源语音到语音Agent框架",
+          "summary": "Hugging Face推出speech-to-speech库，可用开源模型搭建本地语音Agent，支持实时对话。",
+          "primary_url": "https://github.com/huggingface/speech-to-speech",
+          "items": [
+            "1e985fa2f54520c2"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-02.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Free Claude Code：免费替代谷歌/Anthropic付费工具",
+          "summary": "开源项目Free Claude Code在终端、VSCode和Discord中免费提供类似Claude Code和Codex CLI的功能。",
+          "primary_url": "https://github.com/Alishahryar1/free-claude-code",
+          "items": [
+            "be81c94b33d33e86"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-03.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Skyvern：AI驱动的浏览器自动化开源方案",
+          "summary": "Skyvern用AI完成浏览器工作流自动化，无需依赖传统选择器，适用于表单填写、数据抓取等场景。",
+          "primary_url": "https://github.com/Skyvern-AI/skyvern",
+          "items": [
+            "ccadd393a552ed2f"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-04.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "Volcengine开源OpenViking：AI Agent自进化上下文数据库",
+          "summary": "字节跳动旗下火山引擎开源OpenViking，统一Agent记忆、知识RAG和技能，实现自我演化。",
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "items": [
+            "54ddae5fda38f3b3"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-05.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Awesome LLM Apps：百款可运行AI Agent与RAG应用合集",
+          "summary": "社区维护的开源项目，收录100+个真正可运行的大模型应用和RAG demos，覆盖各类Agent场景。",
+          "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "items": [
+            "f82d828dac0db610"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-06.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Claude Cookbooks：官方精选食谱助开发者快速上手",
+          "summary": "Anthropic官方推出Claude Cookbooks，提供包括提示工程、工具使用等在内的实用代码和指南。",
+          "primary_url": "https://github.com/anthropics/claude-cookbooks",
+          "items": [
+            "6caf44cc29b8f80c"
+          ],
+          "cover_path": "out/media/2026-07-13/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
