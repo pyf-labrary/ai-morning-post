@@ -1,0 +1,396 @@
+{
+  "date": "2026-07-14",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-5.6 Sol 引发价格战，Anthropic 延长 Fable 免费使用",
+          "summary": "OpenAI 发布 GPT-5.6 Sol 模型，性能大幅提升；Anthropic 为应对竞争，再次延长 Claude Fable 免费访问期限至 7 月 19 日。",
+          "primary_url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/",
+          "importance": 9,
+          "items": [
+            "cece7e81acf785a1",
+            "cac2ec26e9c2c6fd",
+            "b77e0953cdc6847d",
+            "bfc4bde0967b731b",
+            "78b8f74c19b579c9"
+          ],
+          "cover_path": "out/media/2026-07-14/model_release-00.jpg"
+        },
+        {
+          "headline": "德国 AI 联合体发布 Soofi S：开源 30B 模型霸榜英德双语言",
+          "summary": "由德国研究机构组成的联合体发布 Soofi S 开源模型，参数量 300 亿，在多项英语和德语基准测试中达到领先水平。",
+          "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+          "importance": 5,
+          "items": [
+            "b50e249ad48c555a"
+          ],
+          "cover_path": "out/media/2026-07-14/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "苹果起诉 OpenAI 窃取商业机密，指控前员工利用漏洞偷数据",
+          "summary": "苹果在联邦法院起诉 OpenAI，称一名前苹果工程师利用系统漏洞窃取数千条商业机密，并与 OpenAI 合谋。多家媒体曝光离谱内幕。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+          "importance": 9,
+          "items": [
+            "1e227a881fa8da19",
+            "f7dc8530a0b69ce9",
+            "f3bd362a9b05970d"
+          ],
+          "cover_path": "out/media/2026-07-14/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 安全主管离职，两年内第六位高管出走",
+          "summary": "OpenAI 安全主管近日离职，成为两年内第六位离开的高管，引发外界对 AGI 安全承诺的质疑。",
+          "primary_url": "https://www.qbitai.com/2026/07/448825.html",
+          "importance": 6,
+          "items": [
+            "0204cee79cab3106"
+          ],
+          "cover_path": "out/media/2026-07-14/company-01.jpg"
+        },
+        {
+          "headline": "苹果调整 Mac 芯片路线图，跳过 M6 Pro 直攻 M7 系列",
+          "summary": "为加速 AI 能力，苹果计划今年秋季推出 M6 基础版后直接推进 M7 系列，M7 Ultra 目标接近英伟达 Blackwell 加速器。",
+          "primary_url": "https://36kr.com/newsflashes/3894068327759108?f=rss",
+          "importance": 5,
+          "items": [
+            "5273ff9c2726c0ca"
+          ],
+          "cover_path": "out/media/2026-07-14/company-02.jpg"
+        },
+        {
+          "headline": "图灵奖得主 Rich Sutton 创立 Oak Lab，打造自学 AI Agent",
+          "summary": "强化学习之父 Richard Sutton 宣布成立 Oak Lab，致力于开发能够自主学习的 AI 智能体，强调终身学习的范式。",
+          "primary_url": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/",
+          "importance": 6,
+          "items": [
+            "73a9a4790d2c7aa9"
+          ],
+          "cover_path": "out/media/2026-07-14/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic 为印度用户推出卢比定价，本土化策略落地",
+          "summary": "Anthropic 开始为印度市场提供以印度卢比计价的 Claude 订阅计划，印度是其美国以外的最大市场。",
+          "primary_url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+          "importance": 5,
+          "items": [
+            "24e6574d0c5be2c1"
+          ],
+          "cover_path": "out/media/2026-07-14/company-04.jpg"
+        },
+        {
+          "headline": "英特尔追加 50 亿欧元投资爱尔兰工厂，扩大 AI 芯片产能",
+          "summary": "英特尔宣布向爱尔兰莱克斯利普园区追加 50 亿欧元，升级 Intel 3 制程下 Xeon 6 和下一代 Xeon 处理器的产能，以满足 AI 需求。",
+          "primary_url": "https://36kr.com/newsflashes/3894027379899655?f=rss",
+          "importance": 5,
+          "items": [
+            "821c02740a03193c"
+          ],
+          "cover_path": "out/media/2026-07-14/company-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "世界模型综述：模拟一切的可能与局限",
+          "summary": "专家详解世界模型的工作原理、能力边界及未解决难题，认为它们是 AGI 的关键但仍有大量未知。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+          "importance": 6,
+          "items": [
+            "86cc5e44d11f93a0"
+          ],
+          "cover_path": "out/media/2026-07-14/research-00.jpg"
+        },
+        {
+          "headline": "LinkedIn 长文 AI 垃圾含量登顶五平台研究",
+          "summary": "一项覆盖五个社交平台的研究发现，LinkedIn 上大约四分之一的超长帖文由 AI 生成，成为“AI 垃圾”重灾区。",
+          "primary_url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
+          "importance": 5,
+          "items": [
+            "8095b59fc1cc62d2"
+          ],
+          "cover_path": "out/media/2026-07-14/research-01.jpg"
+        },
+        {
+          "headline": "AI 助长科研产出但窄化探索范围，研究警示",
+          "summary": "一项新研究发现 AI 工具能提升科学家个体产出，但可能导致研究思路趋同，整体创新广度下降。",
+          "primary_url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "importance": 5,
+          "items": [
+            "c67d0f4a28f20007"
+          ],
+          "cover_path": "out/media/2026-07-14/research-02.jpg"
+        },
+        {
+          "headline": "机械可解释性研究者用因果理论理解 LLM 推理",
+          "summary": "研究者将因果关系理论应用于大语言模型，尝试解释其内部推理机制，相关论文已发表在 ACM 通讯。",
+          "primary_url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+          "importance": 4,
+          "items": [
+            "a6cb5b9c350a5eea"
+          ]
+        },
+        {
+          "headline": "ICML 2026 世界模型研究盘点：LAWM 与 WAM 路线之争",
+          "summary": "ICML 2026 接收的 49 篇世界模型论文反映范式革命，学者争论焦点从「要不要世界模型」转向技术路线选择。",
+          "primary_url": "https://www.leiphone.com/category/private/vfNfp926XA89UUvh.html",
+          "importance": 4,
+          "items": [
+            "ea211403c884a2fc"
+          ]
+        },
+        {
+          "headline": "Google SensorFM：可穿戴传感器数据通用健康智能层",
+          "summary": "Google 提出 SensorFM，将杂乱的可穿戴设备传感器数据转化为通用健康表示层，可用于多种下游任务。",
+          "primary_url": "https://the-decoder.com/sensorfm/",
+          "importance": 5,
+          "items": [
+            "055aff46aacb2d8c"
+          ],
+          "cover_path": "out/media/2026-07-14/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude Code 更新内置浏览器，AI 可自主操作网页",
+          "summary": "Claude Code 新增内置浏览器功能，允许 AI 读取、点击和输入外部网站，大幅扩展自动化能力。",
+          "primary_url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+          "importance": 7,
+          "items": [
+            "59415f7a051367ad",
+            "bfc4bde0967b731b"
+          ],
+          "cover_path": "out/media/2026-07-14/product-00.jpg"
+        },
+        {
+          "headline": "阶跃星辰发布大模型原生 AI 终端 STEPX 及智能体 OS",
+          "summary": "阶跃星辰推出全球首个大模型原生智能体手机 STEPX Neo，搭载 Step AOS（Agentic-native OS）和个人智能体阶跃 Amoo。",
+          "primary_url": "https://36kr.com/newsflashes/3894017412726018?f=rss",
+          "importance": 6,
+          "items": [
+            "968a8cac87b8418f"
+          ],
+          "cover_path": "out/media/2026-07-14/product-01.jpg"
+        },
+        {
+          "headline": "Waze 集成 Gemini AI，推出全新导航功能",
+          "summary": "Waze 利用 Google Gemini 增加 AI 驱动的功能与个性化定制，以提升用户导航体验并应对竞争对手。",
+          "primary_url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+          "importance": 5,
+          "items": [
+            "14b06051b7530da6"
+          ],
+          "cover_path": "out/media/2026-07-14/product-02.jpg"
+        },
+        {
+          "headline": "Siri AI 升级为苹果「万能工具」，iOS 27 公测开放",
+          "summary": "重新设计的 Siri 不再只是语音助手，而是成为 iPhone 用户体验的骨干，可通过 iOS 27 公测版体验。",
+          "primary_url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+          "importance": 5,
+          "items": [
+            "86f0515ab77bcfac"
+          ],
+          "cover_path": "out/media/2026-07-14/product-03.jpg"
+        },
+        {
+          "headline": "Claude Code 与 OpenCode token 开销对比：Claude 多发送 4 倍",
+          "summary": "测试显示 Claude Code 在读取提示前发送约 33k 个 token，而 OpenCode 仅 7k，差距达 4 倍，引发开发者讨论。",
+          "primary_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "importance": 6,
+          "items": [
+            "055ed12e7a69e76a"
+          ],
+          "cover_path": "out/media/2026-07-14/product-04.jpg"
+        },
+        {
+          "headline": "OpenAI 发布新提示指南：别过度思考，直接从结果出发",
+          "summary": "OpenAI 更新官方提示工程指南，建议用户放弃繁琐的链式思考，直接描述期望输出，以提高效率。",
+          "primary_url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/",
+          "importance": 5,
+          "items": [
+            "00d5eb48d6c71073"
+          ],
+          "cover_path": "out/media/2026-07-14/product-05.jpg"
+        },
+        {
+          "headline": "Agent 专用搜索登顶 Product Hunt，由中国团队打造",
+          "summary": "一款面向 AI Agent 设计的搜索引擎产品登上 Product Hunt 日榜第一，宣称更省 token、搜索结果更精准。",
+          "primary_url": "https://www.qbitai.com/2026/07/449327.html",
+          "importance": 4,
+          "items": [
+            "d2b301eae197441d"
+          ],
+          "cover_path": "out/media/2026-07-14/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Nadella 抨击 OpenAI/Anthropic 禁止蒸馏却用他人数据训练",
+          "summary": "微软 CEO 纳德拉公开批评 OpenAI 和 Anthropic 一边禁止用户蒸馏其模型，一边用公开数据训练，呼吁行业公平。",
+          "primary_url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
+          "importance": 8,
+          "items": [
+            "1447558a3b4e55ae",
+            "5fe0e705cc289bea"
+          ],
+          "cover_path": "out/media/2026-07-14/opinion-00.jpg"
+        },
+        {
+          "headline": "Zig 创始人犀评 Anthropic：把烟雾吹成火，真实能力被高估",
+          "summary": "Zig 语言创始人直言 Anthropic 在宣传中存在夸大成分，质疑其真实技术实力，在 Hacker News 引发 1300+ 讨论。",
+          "primary_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+          "importance": 7,
+          "items": [
+            "f5e8db0dce4db793"
+          ]
+        },
+        {
+          "headline": "Sam Altman 驳斥 Musk 太空数据中心论：短视骗局",
+          "summary": "Altman 反击 Musk 关于太空数据中心的言论，称其是向散户兜售短期概念，并再次强调地面数据中心才是现实方案。",
+          "primary_url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+          "importance": 6,
+          "items": [
+            "5eaa66d63ea70307"
+          ],
+          "cover_path": "out/media/2026-07-14/opinion-02.jpg"
+        },
+        {
+          "headline": "诺奖得主与 AI 领袖联名警告：AI 经济冲击窗口正在关闭",
+          "summary": "多位诺贝尔奖得主和 AI 领军人物联合呼吁，留给社会准备应对 AI 大规模就业替代的时间已经不多了。",
+          "primary_url": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/",
+          "importance": 6,
+          "items": [
+            "a28c47505a43e8a4"
+          ],
+          "cover_path": "out/media/2026-07-14/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 是否该帮你逃脱杀妻罪？用户对齐的伦理深渊",
+          "summary": "TechCrunch 评论探讨极致用户对齐 AI 可能带来的道德困境：如果 AI 完全遵从用户指令，包括协助犯罪。",
+          "primary_url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+          "importance": 5,
+          "items": [
+            "468f9e478a1fbd6c"
+          ],
+          "cover_path": "out/media/2026-07-14/opinion-04.jpg"
+        },
+        {
+          "headline": "Anthropic 最新 AI 发现究竟证明了什么？MIT 评论",
+          "summary": "MIT Tech Review 刊发分析文章，解读 Anthropic 最新的可解释性研究，指出其实际意义被过度解读。",
+          "primary_url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+          "importance": 5,
+          "items": [
+            "f819f036fe281510"
+          ],
+          "cover_path": "out/media/2026-07-14/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenManus：开源通用 Agent 框架，致敬 Manus",
+          "summary": "FoundationAgents 开源 OpenManus，一个无堡垒、纯开放的通用 Agent 框架，支持多智能体协作。GitHub 日榜热门。",
+          "primary_url": "https://github.com/FoundationAgents/OpenManus",
+          "importance": 6,
+          "items": [
+            "63d424233840e79c"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-00.jpg"
+        },
+        {
+          "headline": "Claude Cookbooks 官方配方合集，快速上手 Claude",
+          "summary": "Anthropic 开源 Claude Cookbooks，提供大量笔记和代码示例，帮助开发者高效使用 Claude。",
+          "primary_url": "https://github.com/anthropics/claude-cookbooks",
+          "importance": 5,
+          "items": [
+            "6caf44cc29b8f80c"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-01.jpg"
+        },
+        {
+          "headline": "Hallmark：给 Claude Code / Cursor 的「反 AI 味」设计风格",
+          "summary": "一个专为编码 Agent 定制的设计 skill，拒绝生成看起来像 AI 写的界面，主打人类美学。",
+          "primary_url": "https://github.com/Nutlope/hallmark",
+          "importance": 5,
+          "items": [
+            "a4a3bf68e6476129"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-02.jpg"
+        },
+        {
+          "headline": "awesome-llm-apps：100+ 可运行 AI Agent 和 RAG 应用合集",
+          "summary": "GitHub 仓库集合超过 100 个可以直接克隆运行的 AI Agent 和 RAG 应用，适合快速原型开发。",
+          "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "importance": 5,
+          "items": [
+            "f82d828dac0db610"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-03.jpg"
+        },
+        {
+          "headline": "Destructive Command Guard：阻断 Agent 危险 shell 命令的开源防护",
+          "summary": "一个简单的防护工具，可阻止 AI 编码 Agent 执行危险的 git 和 shell 命令，保护开发环境。",
+          "primary_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "importance": 5,
+          "items": [
+            "deb552dcf95156bd"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-04.jpg"
+        },
+        {
+          "headline": "蚂蚁安全开源两大框架，填补 Claude Code 攻击面",
+          "summary": "蚂蚁安全团队开源两个安全框架，针对 Claude Code 等编码 Agent 的潜在漏洞提供防护。",
+          "primary_url": "https://www.qbitai.com/2026/07/448925.html",
+          "importance": 5,
+          "items": [
+            "b1cadb84b3a40542"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-05.jpg"
+        },
+        {
+          "headline": "Microsoft TRELLIS.2：原生紧凑结构隐空间 3D 生成",
+          "summary": "微软开源 TRELLIS.2，一种基于结构化隐空间的 3D 生成框架，输出紧凑且高质量。",
+          "primary_url": "https://github.com/microsoft/TRELLIS.2",
+          "importance": 4,
+          "items": [
+            "a1aeb2fe126c749f"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-06.jpg"
+        },
+        {
+          "headline": "Clawk：给编码 Agent 提供一次性 Linux 虚拟机，安全隔离",
+          "summary": "一个简单工具，让 AI 编码 Agent 在 disposable Linux VM 中运行，避免污染本地环境。",
+          "primary_url": "https://github.com/clawkwork/clawk",
+          "importance": 4,
+          "items": [
+            "ffd2d644964d24e8"
+          ],
+          "cover_path": "out/media/2026-07-14/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
