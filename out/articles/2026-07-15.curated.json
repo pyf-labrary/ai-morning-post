@@ -1,0 +1,399 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "Meta发布最强Agent模型，进军编程领域",
+          "summary": "Meta推出其最强Agent模型，专注编程任务，采取免费开源和低价API策略，扎克伯格时隔三年首次为此发帖。",
+          "primary_url": "https://www.infoq.cn/article/Fg7xEo3RGENyoefojZVD",
+          "importance": 7,
+          "items": [
+            "457fba44fd3a262e"
+          ],
+          "cover_path": "out/media/2026-07-15/model_release-00.jpg"
+        },
+        {
+          "headline": "Mistral发布8B机器人导航模型Robostral Navigate",
+          "summary": "Mistral AI发布Robostral Navigate，8B参数仅用单RGB相机即可在复杂环境导航，成功率76.6%。",
+          "primary_url": "https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/",
+          "importance": 6,
+          "items": [
+            "807c2285add8f200"
+          ],
+          "cover_path": "out/media/2026-07-15/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "苹果起诉OpenAI，前工程师涉嫌窃取商业机密",
+          "summary": "Apple指控前工程师利用漏洞窃取Trade Secrets并与OpenAI共享，OpenAI反驳称诉讼缺乏依据。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+          "importance": 9,
+          "items": [
+            "1e227a881fa8da19",
+            "06ed8671ab34308a"
+          ],
+          "cover_path": "out/media/2026-07-15/company-00.jpg"
+        },
+        {
+          "headline": "纽约州暂停数据中心建设，AI行业受震动",
+          "summary": "纽约州成为首个暂停新数据中心建设的州，引发AI产业关于电力成本和地方管控的广泛讨论。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+          "importance": 9,
+          "items": [
+            "571622b874287c52",
+            "b310348ca95e4184"
+          ],
+          "cover_path": "out/media/2026-07-15/company-01.jpg"
+        },
+        {
+          "headline": "PixVerse融资4.39亿美元，估值超20亿",
+          "summary": "AI视频生成公司PixVerse完成4.39亿美元融资，估值突破20亿美元，展现投资者对视频赛道的信心。",
+          "primary_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+          "importance": 7,
+          "items": [
+            "e76dacadc325b09b",
+            "4f94f3badc7b5cf0"
+          ],
+          "cover_path": "out/media/2026-07-15/company-02.jpg"
+        },
+        {
+          "headline": "Reflection AI签署10亿美元计算合约",
+          "summary": "开源AI初创公司Reflection AI与Nebius签署10亿美元计算合同，用于训练和部署开放权重模型。",
+          "primary_url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+          "importance": 7,
+          "items": [
+            "7c63c678e50efb56"
+          ],
+          "cover_path": "out/media/2026-07-15/company-03.jpg"
+        },
+        {
+          "headline": "逐际动力完成2亿美元Pre-IPO轮融资",
+          "summary": "人形机器人企业逐际动力完成近2亿美元Pre-IPO轮融资，投后估值150亿元，半年累计融资4亿美元。",
+          "primary_url": "https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html",
+          "importance": 6,
+          "items": [
+            "942dd903b4e7735e"
+          ]
+        },
+        {
+          "headline": "Nous Research洽谈1.5亿美元估值融资",
+          "summary": "智能体框架Hermes创造者Nous Research进行新一轮融资，目标估值15亿美元，由Robot Ventures等领投。",
+          "primary_url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+          "importance": 6,
+          "items": [
+            "85759f1e35e5fd57"
+          ],
+          "cover_path": "out/media/2026-07-15/company-05.jpg"
+        },
+        {
+          "headline": "DeepSeek新一轮融资需求紧迫",
+          "summary": "距其70亿美元融资仅数周，DeepSeek再次寻求额外现金，以支撑算力投入和模型研发。",
+          "primary_url": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/",
+          "importance": 6,
+          "items": [
+            "1294fb836b2bafb3"
+          ],
+          "cover_path": "out/media/2026-07-15/company-06.jpg"
+        },
+        {
+          "headline": "爱诗科技完成29.8亿元C轮融资",
+          "summary": "中国AI视频公司爱诗科技完成约4.2亿美元C轮融资，产业与全球资本共同加注。",
+          "primary_url": "https://www.qbitai.com/2026/07/449836.html",
+          "importance": 6,
+          "items": [
+            "ff4ba98b9720d039"
+          ],
+          "cover_path": "out/media/2026-07-15/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "世界模型的承诺与局限：专家解读",
+          "summary": "Ars Technica深度文章，探讨世界模型的工作原理、能力边界和未解决问题。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+          "importance": 6,
+          "items": [
+            "86cc5e44d11f93a0"
+          ],
+          "cover_path": "out/media/2026-07-15/research-00.jpg"
+        },
+        {
+          "headline": "MM-ToolSandBox：统一视觉工具调用智能体评估框架",
+          "summary": "新基准提供500+工具、16个应用领域，用于评估多模态工具调用智能体。",
+          "primary_url": "http://arxiv.org/abs/2607.11818v1",
+          "importance": 5,
+          "items": [
+            "bca96d59c4d78e93"
+          ],
+          "cover_path": "out/media/2026-07-15/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Apple开放全新Siri AI公测，成为iPhone体验核心",
+          "summary": "iOS 27公测版包含AI驱动的Siri，支持更复杂任务，Wired称其为Apple的“万能工具”。",
+          "primary_url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+          "importance": 8,
+          "items": [
+            "6fce655418bb0656",
+            "86f0515ab77bcfac"
+          ],
+          "cover_path": "out/media/2026-07-15/product-00.jpg"
+        },
+        {
+          "headline": "阶跃星辰发布智能体原生操作系统Step AOS",
+          "summary": "阶跃星辰推出Step AOS、个人智能体Amoo和大模型原生手机STEPX Neo，构建从模型到终端全链路。",
+          "primary_url": "https://www.leiphone.com/category/ai/DCPWHecweBJl5y9S.html",
+          "importance": 8,
+          "items": [
+            "46dd462a77629a76",
+            "2037e38b6da52802",
+            "c92209fb997a25d5"
+          ]
+        },
+        {
+          "headline": "Google Images迎来Pinterest式AI重新设计",
+          "summary": "Google为25周年重新设计图片搜索，基于用户兴趣个性化推荐AI内容画廊。",
+          "primary_url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+          "importance": 7,
+          "items": [
+            "a3d4591a8bd19e0f",
+            "6468db9b06b31952"
+          ],
+          "cover_path": "out/media/2026-07-15/product-02.jpg"
+        },
+        {
+          "headline": "OpenAI首款硬件曝光：无屏可移动AI音箱",
+          "summary": "据报OpenAI正开发无屏幕可移动AI音箱，作为其首款硬件产品。",
+          "primary_url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "importance": 7,
+          "items": [
+            "bc5930fba44240f4"
+          ],
+          "cover_path": "out/media/2026-07-15/product-03.jpg"
+        },
+        {
+          "headline": "Spotify推出ChatGPT式AI音乐助手",
+          "summary": "Spotify为Premium用户推出对话式AI助手，支持自然语言发现音乐、播客等。",
+          "primary_url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+          "importance": 6,
+          "items": [
+            "35f675ac94d59b6c"
+          ],
+          "cover_path": "out/media/2026-07-15/product-04.jpg"
+        },
+        {
+          "headline": "Anthropic推出Claude for Teachers，不训练学生数据",
+          "summary": "Anthropic发布Claude教育版，专为教师设计，承诺不使用学生数据训练模型。",
+          "primary_url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+          "importance": 6,
+          "items": [
+            "9dbbb9b1bf63c4d3"
+          ],
+          "cover_path": "out/media/2026-07-15/product-05.jpg"
+        },
+        {
+          "headline": "ChatGPT重返WhatsApp欧盟区",
+          "summary": "欧盟强制Meta开放平台后，ChatGPT重新通过WhatsApp提供AI聊天服务。",
+          "primary_url": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/",
+          "importance": 6,
+          "items": [
+            "e42cc02446a6df84"
+          ],
+          "cover_path": "out/media/2026-07-15/product-06.jpg"
+        },
+        {
+          "headline": "小米机器人“上岗”汽车生产线",
+          "summary": "小米人形机器人正式进入汽车产线工作，马斯克此前刚断言机器人难进工厂。",
+          "primary_url": "https://www.qbitai.com/2026/07/449906.html",
+          "importance": 6,
+          "items": [
+            "ec3266d587bde275"
+          ],
+          "cover_path": "out/media/2026-07-15/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "DeepMind CEO呼吁建立独立AI标准机构",
+          "summary": "Demis Hassabis提议参照FINRA模式建立AI标准机构，负责前沿模型测试和发布规范。",
+          "primary_url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+          "importance": 8,
+          "items": [
+            "cc1ed1e85d1e3a5a",
+            "6241230ddf60e07c"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-00.jpg"
+        },
+        {
+          "headline": "Satya Nadella发出AI使用警告",
+          "summary": "纳德拉担忧AI模型作为“特洛伊木马”渗透企业，呼吁企业对AI投资保持清醒。",
+          "primary_url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+          "importance": 7,
+          "items": [
+            "5fe0e705cc289bea"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-01.jpg"
+        },
+        {
+          "headline": "诺贝尔奖得主和AI领袖：AI经济影响窗口关闭在即",
+          "summary": "多领域专家联合警告，社会尚未准备好应对AI带来的就业和经济颠覆，机遇窗口快速关闭。",
+          "primary_url": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/",
+          "importance": 7,
+          "items": [
+            "a28c47505a43e8a4"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-02.jpg"
+        },
+        {
+          "headline": "Meta高管：AI token预算或成新运营指标",
+          "summary": "Instagram负责人Mosseri预测，公司将像管理工资一样为工程师设置AI token使用上限。",
+          "primary_url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+          "importance": 6,
+          "items": [
+            "1a0ac9e5e0be44b1"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-03.jpg"
+        },
+        {
+          "headline": "前沿模型vs开放模型：真正的AI竞赛在哪里？",
+          "summary": "Hugging Face CEO认为企业越来越倾向开放模型，前沿模型未必是最终赢家。",
+          "primary_url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+          "importance": 6,
+          "items": [
+            "2cc9d1b1c2ccd065"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-04.jpg"
+        },
+        {
+          "headline": "Anthropic新广告引争议：伦理营销还是炒作？",
+          "summary": "Anthropic最新广告刻意利用AI批评来打造伦理形象，却让观众感到不适。",
+          "primary_url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+          "importance": 6,
+          "items": [
+            "07e801a3050ec0d9"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-05.jpg"
+        },
+        {
+          "headline": "OpenAI超级应用策略：ChatGPT等于Codex？",
+          "summary": "Stratechery分析OpenAI将Codex重新定位为ChatGPT，质疑是否放弃聊天类别。",
+          "primary_url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+          "importance": 6,
+          "items": [
+            "f440741a595bf199"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-06.jpg"
+        },
+        {
+          "headline": "防御者开始拥抱prompt injection",
+          "summary": "安全专家开发“上下文轰炸”技术，误导黑客智能体在造成破坏前自行关闭。",
+          "primary_url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+          "importance": 6,
+          "items": [
+            "9346bed1e8454116"
+          ],
+          "cover_path": "out/media/2026-07-15/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "OpenCut：开源CapCut替代方案",
+          "summary": "OpenCut在GitHub开源，作为付费视频编辑工具CapCut的免费替代。",
+          "primary_url": "https://github.com/OpenCut-app/OpenCut",
+          "importance": 7,
+          "items": [
+            "f7c45c697888f6fa"
+          ]
+        },
+        {
+          "headline": "OpenManus：开源通用智能体框架",
+          "summary": "OpenManus以“无堡垒，纯开放”为理念，提供开源的通用智能体实现。",
+          "primary_url": "https://github.com/FoundationAgents/OpenManus",
+          "importance": 7,
+          "items": [
+            "63d424233840e79c"
+          ]
+        },
+        {
+          "headline": "Hallmark：对抗AI“电子包浆”的设计技能",
+          "summary": "针对Claude Code、Cursor等的设计技能，帮助输出避免AI生成痕迹。",
+          "primary_url": "https://github.com/Nutlope/hallmark",
+          "importance": 6,
+          "items": [
+            "a4a3bf68e6476129"
+          ],
+          "cover_path": "out/media/2026-07-15/opensource-02.jpg"
+        },
+        {
+          "headline": "Graphify：AI辅助知识图谱构建工具",
+          "summary": "可将代码、文档等多模态内容转化为可查询的知识图谱。",
+          "primary_url": "https://github.com/Graphify-Labs/graphify",
+          "importance": 6,
+          "items": [
+            "cad9fc7e88908860"
+          ],
+          "cover_path": "out/media/2026-07-15/opensource-03.jpg"
+        },
+        {
+          "headline": "TradingAgents：多智能体金融交易框架",
+          "summary": "基于LLM的多智能体交易系统，支持多个分析角色辩论决策。",
+          "primary_url": "https://github.com/TauricResearch/TradingAgents",
+          "importance": 6,
+          "items": [
+            "bbfb2978e3481980"
+          ],
+          "cover_path": "out/media/2026-07-15/opensource-04.jpg"
+        },
+        {
+          "headline": "AI Hedge Fund：AI驱动对冲基金原型",
+          "summary": "开源教育项目，探索AI在交易决策中的应用，提供多智能体团队协作。",
+          "primary_url": "https://github.com/virattt/ai-hedge-fund",
+          "importance": 6,
+          "items": [
+            "684f7bc642b0d6ba"
+          ],
+          "cover_path": "out/media/2026-07-15/opensource-05.jpg"
+        },
+        {
+          "headline": "Heretic：语言模型审查自动移除工具",
+          "summary": "开源工具自动移除语言模型输出中的审查内容，引发争议。",
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "importance": 5,
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "cover_path": "out/media/2026-07-15/opensource-06.jpg"
+        },
+        {
+          "headline": "Awesome LLM Apps：100+可运行AI Agent集合",
+          "summary": "集合超过100个AI Agent和RAG应用，可直接克隆部署。",
+          "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "importance": 5,
+          "items": [
+            "f82d828dac0db610"
+          ],
+          "cover_path": "out/media/2026-07-15/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-15"
+}
