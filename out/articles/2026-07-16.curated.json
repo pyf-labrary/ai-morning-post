@@ -1,0 +1,483 @@
+{
+  "date": "2026-07-16",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "Thinking Machines 发布 975B 开源多模态模型 Inkling",
+          "summary": "Thinking Machines Lab 发布首款开源模型 Inkling，975B 参数，支持视频和音频理解，旨在挑战 Anthropic 和 OpenAI。",
+          "primary_url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+          "importance": 9,
+          "items": [
+            "d2139f5c8d2d7117",
+            "499d217143c9f802",
+            "a34f09da899a19e6",
+            "6981941f4ce3e83a"
+          ],
+          "cover_path": "out/media/2026-07-16/model_release-00.jpg"
+        },
+        {
+          "headline": "PrismML 发布 Bonsai 27B，可在手机上运行的开源推理模型",
+          "summary": "Bonsai 27B 基于 Qwen3.6-27B 的低比特量化版本，可在 iPhone 等设备上运行，采用 Apache 2.0 许可。",
+          "primary_url": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/",
+          "importance": 7,
+          "items": [
+            "bf89288f11cb33da",
+            "3502556f862a71db"
+          ],
+          "cover_path": "out/media/2026-07-16/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里发布实时语音大模型 Qwen-Audio-3.0-Realtime",
+          "summary": "阿里巴巴发布实时语音交互模型，在智商、工具调用、共情和双工流畅度上全面升级。",
+          "primary_url": "https://www.qbitai.com/2026/07/450250.html",
+          "importance": 6,
+          "items": [
+            "2ec28bb0409688d5",
+            "55a224d976548ce6"
+          ],
+          "cover_path": "out/media/2026-07-16/model_release-02.jpg"
+        },
+        {
+          "headline": "Soofi 发布开源混合 Mamba-Transformer MoE 模型",
+          "summary": "Soofi S 30B-A3B 是面向德语和英语的开源模型，采用 Mamba-Transformer MoE 架构，激活 3.2B 参数。",
+          "primary_url": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
+          "importance": 5,
+          "items": [
+            "4bd1a905c809bf00"
+          ],
+          "cover_path": "out/media/2026-07-16/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "Meta 被诉使用 AI 筛选裁员，涉及歧视",
+          "summary": "26 名前员工起诉 Meta，指控其使用 AI 系统在裁员时歧视有医疗问题和残疾的员工。Meta 否认。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "importance": 8,
+          "items": [
+            "ebbb20126acf3164",
+            "6dade74b485e6bfe",
+            "a263604ba26484d4"
+          ],
+          "cover_path": "out/media/2026-07-16/company-00.jpg"
+        },
+        {
+          "headline": "DeepSeek 新一轮融资启动，估值 4800 亿",
+          "summary": "DeepSeek 距首轮融资仅数周即开启新一轮融资，估值上涨 37% 至 4800 亿人民币，最快明年 IPO。",
+          "primary_url": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/",
+          "importance": 8,
+          "items": [
+            "1294fb836b2bafb3",
+            "95f4f99d353ae7d5",
+            "b090d45e6889f78d"
+          ],
+          "cover_path": "out/media/2026-07-16/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 和 Blackstone 联手推出企业 AI 服务 Ode",
+          "summary": "Ode 是由 Anthropic 和 Blackstone 支持的企业 AI 实施公司，押注嵌入工程师加速企业 AI 采用。",
+          "primary_url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+          "importance": 7,
+          "items": [
+            "f04f6f26749a6531",
+            "8b0817e1eeb57232"
+          ],
+          "cover_path": "out/media/2026-07-16/company-02.jpg"
+        },
+        {
+          "headline": "Apple Intelligence 获准在华推出，合作阿里巴巴 Qwen",
+          "summary": "苹果与阿里达成协议，Apple Intelligence 将使用 Qwen AI 模型在中国上线，标志着重要市场突破。",
+          "primary_url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+          "importance": 7,
+          "items": [
+            "1288bd7e98d1e551",
+            "144df82b68b3bf41"
+          ],
+          "cover_path": "out/media/2026-07-16/company-03.jpg"
+        },
+        {
+          "headline": "印度 AI 编码公司 Emergent 获 1.3 亿美元成独角兽",
+          "summary": "Emergent 成立一年即达 1.2 亿美元年收入，拥有 20 万付费客户，估值超 20 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+          "importance": 7,
+          "items": [
+            "511c1ef20974f336"
+          ],
+          "cover_path": "out/media/2026-07-16/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI 反击苹果商业秘密诉讼",
+          "summary": "OpenAI 发布新声明，认为苹果的诉讼缺乏依据，此前苹果指控 OpenAI 窃取硬件商业机密。",
+          "primary_url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+          "importance": 6,
+          "items": [
+            "06ed8671ab34308a"
+          ],
+          "cover_path": "out/media/2026-07-16/company-05.jpg"
+        },
+        {
+          "headline": "微软借助 AI 修补创纪录 570 个安全漏洞",
+          "summary": "微软本月 Patch Tuesday 修复 570 个漏洞，部分发现得益于 AI 工具的使用。",
+          "primary_url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+          "importance": 6,
+          "items": [
+            "d8685784ed63fff9"
+          ],
+          "cover_path": "out/media/2026-07-16/company-06.jpg"
+        },
+        {
+          "headline": "Rime 获 2400 万美元 A 轮融资，助力企业客服电话自动化",
+          "summary": "Rime 处理超过 1 亿通呼叫/月，用 AI 替代企业客服电话。",
+          "primary_url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+          "importance": 6,
+          "items": [
+            "3114dc7cb4915cb8"
+          ],
+          "cover_path": "out/media/2026-07-16/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "OpenAI 推出 GPT-Red 自动红队系统，自我博弈提升安全性",
+          "summary": "GPT-Red 是大语言模型超级黑客，通过自我对弈帮助其他模型抵御网络攻击，效果优于人类红队。",
+          "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "importance": 9,
+          "items": [
+            "e44749d6010c95c0",
+            "6f5bd59883eb8744",
+            "537e85712e980183"
+          ]
+        },
+        {
+          "headline": "GPT-5.6 Sol 在 90 分钟内推翻 30 年统计学猜想",
+          "summary": "GPT-5.6 Sol 被报道成功反驳一项人类未能解决的统计学猜想，显示其强大的数学推理能力。",
+          "primary_url": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/",
+          "importance": 7,
+          "items": [
+            "8407b9dbb54d69f6",
+            "4da3aab0f445e7e6"
+          ],
+          "cover_path": "out/media/2026-07-16/research-01.jpg"
+        },
+        {
+          "headline": "研究者演示如何利用 Claude 提取用户隐私",
+          "summary": "利用 Claude Web Fetch 工具漏洞，研究人员能够诱导 Claude 泄露用户内存中的敏感数据。",
+          "primary_url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
+          "importance": 7,
+          "items": [
+            "ba5ec34ac287a030"
+          ]
+        },
+        {
+          "headline": "IBM 发布模型路由研究：简单问题不简单",
+          "summary": "IBM Research 博客探讨模型路由的复杂性，指出在现实场景中切换模型并非易事。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "importance": 5,
+          "items": [
+            "76185ecd64754568"
+          ],
+          "cover_path": "out/media/2026-07-16/research-03.jpg"
+        },
+        {
+          "headline": "HuggingFace 分享构建 Agent “Shippy” 的经验",
+          "summary": "Allen AI 团队详解构建 Shippy 智能体过程中的技术挑战与经验教训。",
+          "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "importance": 5,
+          "items": [
+            "ccdb6fbca5c54e6b"
+          ],
+          "cover_path": "out/media/2026-07-16/research-04.jpg"
+        },
+        {
+          "headline": "NVIDIA 提出 AI 基础设施效率核心指标：每瓦性能",
+          "summary": "NVIDIA 认为性能每瓦是决定 AI 工厂盈利能力的终极指标，不可作弊。",
+          "primary_url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+          "importance": 5,
+          "items": [
+            "0664f13b0f70602c"
+          ],
+          "cover_path": "out/media/2026-07-16/research-05.jpg"
+        },
+        {
+          "headline": "上交大团队 3D 自动标注 AI 登顶 ICML Oral",
+          "summary": "上海交通大学团队开发的 3D 自动标注系统在 ICML 2026 获得 Oral 论文，显著降低标注成本。",
+          "primary_url": "https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html",
+          "importance": 5,
+          "items": [
+            "b06d247bb5aa4b38"
+          ]
+        },
+        {
+          "headline": "可验证 AI 推理：确保模型输出可信的方案",
+          "summary": "一篇博客提出可验证 AI 推理的概念，通过密码学方法保证模型输出真实无误。",
+          "primary_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+          "importance": 5,
+          "items": [
+            "f67fd7a1f210160b"
+          ],
+          "cover_path": "out/media/2026-07-16/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "OpenAI 推出首款硬件：$230 发光键盘 Codex Micro",
+          "summary": "OpenAI 发布 Codex Micro 键盘，专为编程代理设计，可实时监控多个智能体线程。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+          "importance": 9,
+          "items": [
+            "29860a8f44764753",
+            "bfd3266c02463588"
+          ],
+          "cover_path": "out/media/2026-07-16/product-00.jpg"
+        },
+        {
+          "headline": "Apple 开放 iOS 27 公测，全新 Siri AI 全面推送",
+          "summary": "iOS 27 公测版向所有用户开放，包含 AI 增强的 Siri 和其他智能功能。",
+          "primary_url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+          "importance": 7,
+          "items": [
+            "6fce655418bb0656"
+          ],
+          "cover_path": "out/media/2026-07-16/product-01.jpg"
+        },
+        {
+          "headline": "Google 图像搜索 25 周年升级：AI 个性化画廊",
+          "summary": "Google 图像搜索新增基于兴趣爱好自动生成的动态画廊，融入更多 AI 功能。",
+          "primary_url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+          "importance": 6,
+          "items": [
+            "a3d4591a8bd19e0f"
+          ],
+          "cover_path": "out/media/2026-07-16/product-02.jpg"
+        },
+        {
+          "headline": "OpenAI Codex 开始加密代理间指令，开发者无法监控",
+          "summary": "Codex 新增端到端加密功能，防止开发者查看 AI 智能体之间的内部消息，引发透明性质疑。",
+          "primary_url": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/",
+          "importance": 6,
+          "items": [
+            "3b3b255498ca9ada"
+          ],
+          "cover_path": "out/media/2026-07-16/product-03.jpg"
+        },
+        {
+          "headline": "Anthropic 推出 Claude for Teachers，承诺不训练学生数据",
+          "summary": "Claude 面向教师开放，提供教育定制功能，并明确不会将学生数据用于模型训练。",
+          "primary_url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+          "importance": 6,
+          "items": [
+            "9dbbb9b1bf63c4d3"
+          ],
+          "cover_path": "out/media/2026-07-16/product-04.jpg"
+        },
+        {
+          "headline": "Spotify 测试 Premium 用户与音乐播放器聊天",
+          "summary": "Spotify 最新 beta 允许付费订阅用户通过对话方式控制音乐播放，探索 AI 音乐交互。",
+          "primary_url": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/",
+          "importance": 5,
+          "items": [
+            "c624997ba7c726f5"
+          ],
+          "cover_path": "out/media/2026-07-16/product-05.jpg"
+        },
+        {
+          "headline": "Reelful 利用 AI 将相册视频自动剪辑为短视频",
+          "summary": "Reelful 应用通过 AI 从用户相机胶卷中自动提取素材，生成适配社交媒体的短视频。",
+          "primary_url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+          "importance": 5,
+          "items": [
+            "fcd356d64d96410b"
+          ],
+          "cover_path": "out/media/2026-07-16/product-06.jpg"
+        },
+        {
+          "headline": "百度搭子入选 WAIC 2026 镇馆之宝",
+          "summary": "百度通用智能体“搭子”获世界人工智能大会“镇馆之宝”荣誉，展示办公、创作等多场景能力。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html",
+          "importance": 5,
+          "items": [
+            "86eb8943d178f7ba"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "纽约州暂停数据中心建设一年，震动 AI 行业",
+          "summary": "纽约成为美国首个实施数据中心暂停建设的州，可能成为反 AI 运动的模板。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+          "importance": 8,
+          "items": [
+            "571622b874287c52"
+          ],
+          "cover_path": "out/media/2026-07-16/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI 主张通过州和联邦行动推进 AI 安全治理",
+          "summary": "OpenAI 提出“反向联邦主义”方式，通过州法律构建全国 AI 安全框架。",
+          "primary_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "importance": 7,
+          "items": [
+            "e6243447de0b57a9"
+          ]
+        },
+        {
+          "headline": "AI 数据中心与财富集中的隐忧",
+          "summary": "Schneier 撰文分析 AI 数据中心如何加剧财富和权力集中，带来深远社会问题。",
+          "primary_url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "importance": 6,
+          "items": [
+            "cdf979a248600b7e"
+          ]
+        },
+        {
+          "headline": "Vint Cerf 计划为 AI 代理制定开放互联网标准",
+          "summary": "TCP/IP 之父正在开发标准以识别和释放 AI 代理在开放互联网上行动。",
+          "primary_url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+          "importance": 6,
+          "items": [
+            "0da3f0489983a385"
+          ],
+          "cover_path": "out/media/2026-07-16/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 工程前沿趋势：从构建智能体转向构建智能体系统",
+          "summary": "2026 AIE World's Fair 总结五大趋势，AI 工程进入围绕智能体构建系统的新阶段。",
+          "primary_url": "https://www.latent.space/p/aiewf26trends",
+          "importance": 6,
+          "items": [
+            "6447e5f70af5506b"
+          ],
+          "cover_path": "out/media/2026-07-16/opinion-04.jpg"
+        },
+        {
+          "headline": "Lorde 直言 AI 眼镜“不性感”",
+          "summary": "歌手 Lorde 在公开场合批评 AI 穿戴设备，质疑真实感的流失。",
+          "primary_url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+          "importance": 5,
+          "items": [
+            "391fb7a136a62c87"
+          ],
+          "cover_path": "out/media/2026-07-16/opinion-05.jpg"
+        },
+        {
+          "headline": "AI 还不如婴儿聪明？",
+          "summary": "Wired 文章指出婴儿的学习机制仍远胜当前 AI，未来突破或源于幼脑架构。",
+          "primary_url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+          "importance": 5,
+          "items": [
+            "850a77361c2ab0a4"
+          ],
+          "cover_path": "out/media/2026-07-16/opinion-06.jpg"
+        },
+        {
+          "headline": "Anthropic 新广告引发不适，被批利用 AI 恐惧营销",
+          "summary": "Anthropic 广告刻意渲染 AI 危险以凸显自身道德形象，但在社交媒体上引起反感。",
+          "primary_url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+          "importance": 5,
+          "items": [
+            "07e801a3050ec0d9"
+          ],
+          "cover_path": "out/media/2026-07-16/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Google 发布 LiteRT.js：浏览器中运行 .tflite 模型",
+          "summary": "LiteRT.js 是 Google 推出的 JavaScript 绑定，利用 WebGPU 在浏览器中直接执行端侧推理。",
+          "primary_url": "https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/",
+          "importance": 7,
+          "items": [
+            "2cb47021438b3e4a"
+          ],
+          "cover_path": "out/media/2026-07-16/opensource-00.jpg"
+        },
+        {
+          "headline": "Linux 基金会启动 Akrites 项目，保护开源软件免于 AI 威胁",
+          "summary": "Akrites 项目旨在使用 AI 技术检测并防御针对关键开源软件的网络攻击。",
+          "primary_url": "https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "fc8fa5b97d93a978"
+          ],
+          "cover_path": "out/media/2026-07-16/opensource-01.jpg"
+        },
+        {
+          "headline": "Needle：26M 参数函数调用模型，可运行于极小设备",
+          "summary": "Needle 是一个超轻量模型，专门用于在物联网等小型设备上执行函数调用。",
+          "primary_url": "https://github.com/cactus-compute/needle",
+          "importance": 6,
+          "items": [
+            "855720dee4317896"
+          ]
+        },
+        {
+          "headline": "Hallmark：反 AI 设计风格技能，让代码不像 AI 生成的",
+          "summary": "Hallmark 是 Claude Code/Cursor/Codex 的设计技能，帮助开发者避免 AI 化界面。",
+          "primary_url": "https://github.com/Nutlope/hallmark",
+          "importance": 6,
+          "items": [
+            "a4a3bf68e6476129"
+          ],
+          "cover_path": "out/media/2026-07-16/opensource-03.jpg"
+        },
+        {
+          "headline": "destructive_command_guard：防止 AI 代理执行破坏性命令",
+          "summary": "dcg 工具可阻止 AI 代理运行危险的 git 和 shell 命令，提升自主编码安全。",
+          "primary_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "importance": 5,
+          "items": [
+            "deb552dcf95156bd"
+          ],
+          "cover_path": "out/media/2026-07-16/opensource-04.jpg"
+        },
+        {
+          "headline": "OpenCut：开源 CapCut 替代，支持视频编辑",
+          "summary": "OpenCut 是一个基于 Tauri 和 React 的开源视频编辑器，提供类似 CapCut 的免费功能。",
+          "primary_url": "https://github.com/OpenCut-app/OpenCut",
+          "importance": 5,
+          "items": [
+            "f7c45c697888f6fa"
+          ],
+          "cover_path": "out/media/2026-07-16/opensource-05.jpg"
+        },
+        {
+          "headline": "Domain SDK 0.2.0：统一管理多个平台的域名",
+          "summary": "OpenCoreDev 发布的 TypeScript SDK，可在 Vercel、Cloudflare 等多平台添加、验证和删除域名。",
+          "primary_url": "https://www.marktechpost.com/2026/07/14/opencoredev-releases-domain-sdk-0-2-0-one-typescript-api-to-add-verify-and-remove-customer-domains-across-five-platforms/",
+          "importance": 5,
+          "items": [
+            "6cfd3bc05da87901"
+          ],
+          "cover_path": "out/media/2026-07-16/opensource-06.jpg"
+        },
+        {
+          "headline": "Google 发布官方 Agent Skills 集合",
+          "summary": "Google 推出 skills 仓库，提供适用于 Google 产品和技术的可复用智能体技能。",
+          "primary_url": "https://github.com/google/skills",
+          "importance": 5,
+          "items": [
+            "f8b36801b8652ba9"
+          ],
+          "cover_path": "out/media/2026-07-16/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
