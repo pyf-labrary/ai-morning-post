@@ -1,0 +1,475 @@
+{
+  "date": "2026-07-18",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "月之暗面发布Kimi K3：2.8万亿参数开源MoE模型",
+          "summary": "中国AI实验室Moonshot AI发布了Kimi K3，一个2.8万亿参数的开放MoE模型，采用Kimi Delta Attention架构，激活16个专家，支持100万上下文，性能接近Opus 4.8，成本仅为Sonnet 5级别。",
+          "importance": 10,
+          "primary_url": "https://www.kimi.com/blog/kimi-k3",
+          "items": [
+            "1cbc2b23619515de",
+            "c82ab27e15a2b15e",
+            "55d82f92727afe05",
+            "95ead706685dceea",
+            "04243624e9cb2e5a",
+            "9f7721bdc8302feb",
+            "76fc30c626b074f5",
+            "08698523f1b9ad70"
+          ]
+        },
+        {
+          "headline": "Mira Murati团队发布首个开源模型Inkling",
+          "summary": "Thinking Machines Lab发布了Inkling，一个Mixture-of-Experts架构的开放权重模型，标志着这家新创业公司首次公开其AI能力。",
+          "importance": 8,
+          "primary_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "items": [
+            "ef82007d53bb7934"
+          ],
+          "cover_path": "out/media/2026-07-18/model_release-01.jpg"
+        },
+        {
+          "headline": "英伟达开源Nemotron 3 Embed：8B模型排名RTEB第一",
+          "summary": "NVIDIA发布了Nemotron 3 Embed开源嵌入模型集合，其中8B版本在RTEB基准上以78.46 NDCG@10位列第一，同时提供1B BF16和1B NVFP4版本。",
+          "importance": 7,
+          "primary_url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+          "items": [
+            "79981df7654bb44c"
+          ],
+          "cover_path": "out/media/2026-07-18/model_release-02.jpg"
+        },
+        {
+          "headline": "WAIC 2026：腾讯混元Hy3大模型首秀",
+          "summary": "腾讯在世界人工智能大会上首次展示混元Hy3大模型，并同步上线AI技能支付体系，推动AI能力商业化。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq",
+          "items": [
+            "a69be577ba6addac"
+          ],
+          "cover_path": "out/media/2026-07-18/model_release-03.jpg"
+        },
+        {
+          "headline": "Zyphra开源脑电基础模型ZUNA1.1",
+          "summary": "Zyphra发布了ZUNA1.1，一个基于Apache 2.0许可的380M参数EEG基础模型，支持0.5到30秒可变长度输入，可重建和去噪头皮脑电信号。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
+          "items": [
+            "519ed8aabe3a4fa5"
+          ],
+          "cover_path": "out/media/2026-07-18/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "苹果起诉OpenAI，或危及后者IPO",
+          "summary": "苹果以商业秘密为由起诉OpenAI，指控其首席硬件官等高层存在不当行为，该诉讼可能严重干扰OpenAI的IPO计划。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "items": [
+            "95f1aa813f2b697f",
+            "8d9693de4c150639",
+            "66c97d7382109122"
+          ],
+          "cover_path": "out/media/2026-07-18/company-00.jpg"
+        },
+        {
+          "headline": "旧金山要求苹果谷歌下架AI“脱衣”应用",
+          "summary": "旧金山检察官向苹果和谷歌发送停止函，要求移除13个AI换脸应用，称这些应用主要针对女性生成裸体图像，且平台从中获利数百万美元。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+          "items": [
+            "f8cc8938879ec848",
+            "d9d71d4ad96fbaf2"
+          ],
+          "cover_path": "out/media/2026-07-18/company-01.jpg"
+        },
+        {
+          "headline": "xAI起诉Grok用户生成儿童色情内容",
+          "summary": "马斯克的xAI首次对一名用户提起诉讼，指控其利用Grok生成儿童性虐图像，此前xAI已无法否认模型输出此类内容。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+          "items": [
+            "7fdba3cc3f8c3f03"
+          ],
+          "cover_path": "out/media/2026-07-18/company-02.jpg"
+        },
+        {
+          "headline": "欧盟正式强制谷歌共享搜索数据并开放Android上的AI",
+          "summary": "欧盟新规要求谷歌向竞争对手分享搜索数据，并在Android系统中开放AI能力，谷歌警告这可能危及用户隐私与安全。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+          "items": [
+            "0b6c7bda140f25f4"
+          ],
+          "cover_path": "out/media/2026-07-18/company-03.jpg"
+        },
+        {
+          "headline": "Databricks估值达1880亿美元，成AI领域第二春标杆",
+          "summary": "Databricks通过重塑自身为AI公司，并发布开放权重模型成本研究，估值达到1880亿美元，延续其在数据与AI领域的快速增长。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "items": [
+            "be964bd9d0ad9cc8"
+          ],
+          "cover_path": "out/media/2026-07-18/company-04.jpg"
+        },
+        {
+          "headline": "Meta拟将过剩AI算力卖给Anthropic",
+          "summary": "据The Decoder报道，扎克伯格计划出售Meta多余的AI计算能力，首个大客户可能是竞争对手Anthropic，显示算力交易的新趋势。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
+          "items": [
+            "3e6f7368d8136645"
+          ],
+          "cover_path": "out/media/2026-07-18/company-05.jpg"
+        },
+        {
+          "headline": "Agility Robotics在特斯拉后院开设机器人训练中心",
+          "summary": "Agility Robotics在加州弗里蒙特开设新的Digit机器人训练中心，直接对标Tesla的Optimus，加速人形机器人商业化。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "items": [
+            "25745c8f46d107de"
+          ],
+          "cover_path": "out/media/2026-07-18/company-06.jpg"
+        },
+        {
+          "headline": "AI投资热潮推动能源公司IPO激增",
+          "summary": "能源相关公司在美国上市速度创本世纪最快，投资者急切寻找参与AI基建繁荣的途径，多只能源IPO募资超预期。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+          "items": [
+            "ad8f85c405324850"
+          ],
+          "cover_path": "out/media/2026-07-18/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "OpenAI公布自动化红队模型GPT-Red：提示注入击败人类84%对13%",
+          "summary": "OpenAI内部训练的GPT-Red攻击模型在间接提示注入测试中大幅超越人类红队成员，并发现一种新型“文件删除”漏洞，迫使OpenAI发布补丁。",
+          "importance": 7,
+          "primary_url": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
+          "items": [
+            "85cd3a8058d8baf0"
+          ],
+          "cover_path": "out/media/2026-07-18/research-00.jpg"
+        },
+        {
+          "headline": "RoboTTT：将机器人策略上下文扩展到8000时间步",
+          "summary": "论文提出RoboTTT方法，通过在测试时训练将机器人策略的视觉运动上下文扩展到8000步，显著提升长时任务表现。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2607.15275v1",
+          "items": [
+            "b30cf497d623094d"
+          ],
+          "cover_path": "out/media/2026-07-18/research-01.jpg"
+        },
+        {
+          "headline": "AutoSynthesis：基于智能体的自动化元分析系统",
+          "summary": "AutoSynthesis是一个端到端的智能体系统，可自动化完成系统综述和元分析，从文献检索到效应量计算，展示AI在科学综合中的应用潜力。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2607.15247v1",
+          "items": [
+            "b614bfbcd713247e"
+          ],
+          "cover_path": "out/media/2026-07-18/research-02.jpg"
+        },
+        {
+          "headline": "SciDiagramEdit：学习从论文修订中编辑科学图表",
+          "summary": "论文提出SciDiagramEdit，自动学习根据论文修订编辑科学图表，包括重标注、重排面板和重设样式，减轻研究者负担。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2607.15272v1",
+          "items": [
+            "80a1e56c9d80186f"
+          ],
+          "cover_path": "out/media/2026-07-18/research-03.jpg"
+        },
+        {
+          "headline": "预训练数据可通过计算宣传被投毒",
+          "summary": "研究证明通过操纵社交媒体等数据源，可以在不直接编辑文本的情况下向语言模型注入有害行为，威胁现有安全措施。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2607.15267v1",
+          "items": [
+            "cdb59146817d2b52"
+          ],
+          "cover_path": "out/media/2026-07-18/research-04.jpg"
+        },
+        {
+          "headline": "SceneBind：跨视觉、听觉和语言的三维语义绑定",
+          "summary": "提出全模态场景表示SceneBind，统一语义与三维空间理解，同时结合视觉、音频和语言模态，实现实例级场景绑定。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2607.15265v1",
+          "items": [
+            "0aef0405318e024e"
+          ],
+          "cover_path": "out/media/2026-07-18/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "OpenAI推摇杆硬件WorkLouder Codex Micro控制Agent",
+          "summary": "OpenAI发布WorkLouder Codex Micro硬件，配备可编程按键和旋钮，开发者可用摇杆替代键盘命令控制AI Agent，提升交互效率。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
+          "items": [
+            "081a566e089480f0"
+          ],
+          "cover_path": "out/media/2026-07-18/product-00.jpg"
+        },
+        {
+          "headline": "Google Vids新增个人AI虚拟形象视频功能",
+          "summary": "Google在Vids中引入个性化AI虚拟形象，用户可创建数字版自己，配合Gemini Omni生成和编辑视频，实现AI主演内容。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+          "items": [
+            "5bd8e86fba87e190"
+          ],
+          "cover_path": "out/media/2026-07-18/product-01.jpg"
+        },
+        {
+          "headline": "Google AI模式扩展：可链接并操作第三方应用",
+          "summary": "Google升级AI Mode，从仅回答问题扩展到跨应用完成任务，用户可通过自然语言直接控制选定的第三方App。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+          "items": [
+            "dcf553191535261a"
+          ],
+          "cover_path": "out/media/2026-07-18/product-02.jpg"
+        },
+        {
+          "headline": "Roblox在移动端推出AI游戏生成功能",
+          "summary": "Roblox的新“Build”功能让用户仅用文本提示即可在手机App内生成基础游戏，降低游戏创作门槛。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+          "items": [
+            "87af622ceb94f89c"
+          ],
+          "cover_path": "out/media/2026-07-18/product-03.jpg"
+        },
+        {
+          "headline": "DoorDash推出命令行工具dd-cli，Agent可直接下单",
+          "summary": "DoorDash开放dd-cli命令行工具beta，开发者和AI Agent可从终端搜索店铺并下单，标志平台开始面向Agent设计。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+          "items": [
+            "47a46cd46ab78ac5"
+          ],
+          "cover_path": "out/media/2026-07-18/product-04.jpg"
+        },
+        {
+          "headline": "阶跃STEPX Neo智能体手机亮相WAIC",
+          "summary": "阶跃发布全球首个大模型原生智能体手机STEPX Neo，搭载Step AOS系统，展示跨App办事、本地生活等全场景智能服务。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/62J9L28365BtFlSFxVjE",
+          "items": [
+            "46a65461b7d89f66",
+            "3899c9444858402c"
+          ],
+          "cover_path": "out/media/2026-07-18/product-05.jpg"
+        },
+        {
+          "headline": "千问AI眼镜升级为智能体眼镜，可调用第三方Skill",
+          "summary": "千问在WAIC宣布将AI眼镜升级为智能体眼镜，支持全双工语音、眼动追踪，并能按需调用第三方Skill和Agent，实现全天候感知。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/JDlu3Gqj7atcWniy.html",
+          "items": [
+            "b46272716e07897b"
+          ]
+        },
+        {
+          "headline": "文远发布物理AI大模型WITT：单卡日处理1万分钟视频",
+          "summary": "文远知行发布物理AI大模型WITT，可将每一公里行驶数据转化为模型能力，单张GPU卡每日处理1万分钟视频数据。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/07/452961.html",
+          "items": [
+            "21403a5fb5e5fee6"
+          ],
+          "cover_path": "out/media/2026-07-18/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Linus Torvalds怒怼AI批评者：不喜就fork或走开",
+          "summary": "Linux创始人Linus Torvalds在邮件列表中强硬表态，称AI和编译器一样是工具，将“大声忽略”反对在Linux中使用AI的人，部分开发者考虑fork。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+          "items": [
+            "dec4880c36f556cb",
+            "35f3b757117f23dc",
+            "60fd503ebab174f0",
+            "ddbd3914bad0060d"
+          ],
+          "cover_path": "out/media/2026-07-18/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI CFO提出AI实用记分卡，衡量ROI",
+          "summary": "OpenAI首席财务官Sarah Friar发表文章，介绍一套衡量AI投入回报的记分卡，涵盖有用工作、任务成本、可靠性及计算回报四项指标。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "items": [
+            "f7a885de471108dd"
+          ]
+        },
+        {
+          "headline": "OpenAI呼吁让青少年安全使用AI，推出年龄保护措施",
+          "summary": "OpenAI发布专题文章，介绍如何通过年龄适配保护、学习工具、家长控制等措施让ChatGPT对青少年更安全。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "items": [
+            "7b29dd2c811038ac"
+          ]
+        },
+        {
+          "headline": "德国首次将AI Overviews和Perplexity纳入媒体法管辖",
+          "summary": "德国法院裁定Google的AI Overviews和Perplexity等AI搜索摘要服务须遵守媒体法，可能引发欧洲AI监管新浪潮。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
+          "items": [
+            "64df52f5e9150f1b"
+          ],
+          "cover_path": "out/media/2026-07-18/opinion-03.jpg"
+        },
+        {
+          "headline": "Yann LeCun旗下AMI Labs CEO：拒绝称AI为AGI或超级智能",
+          "summary": "AMI Labs CEO Alexandre LeBrun在接受采访时表示，追逐AGI和超级智能概念是误导，更应关注实用世界模型。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+          "items": [
+            "0280a36fd831354d"
+          ],
+          "cover_path": "out/media/2026-07-18/opinion-04.jpg"
+        },
+        {
+          "headline": "未来实验室应像数据中心——Lila Sciences访谈",
+          "summary": "Latent Space专访Lila Sciences创始人，认为科学数据是最后未被充分利用的训练数据来源，展示自动化实验室愿景。",
+          "importance": 7,
+          "primary_url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+          "items": [
+            "0812fa1c6873ff26"
+          ],
+          "cover_path": "out/media/2026-07-18/opinion-05.jpg"
+        },
+        {
+          "headline": "报告称AI蜜月期结束，打工人成“快乐行尸走肉”",
+          "summary": "InfoQ文章指出AI应用进入深水区，员工虽效率提升但创造力下降，行业面临“快乐式倦怠”风险。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/IZIwV2Qia1X1q6RQvDxW",
+          "items": [
+            "a381fec96faec262"
+          ],
+          "cover_path": "out/media/2026-07-18/opinion-06.jpg"
+        },
+        {
+          "headline": "留给开源模型的时间只剩6个月？",
+          "summary": "InfoQ分析文章认为开源模型与闭源模型的差距正在缩小，但商业化窗口正在收窄，未来半年是关键期。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx",
+          "items": [
+            "ff2d4edc5bf745b8"
+          ],
+          "cover_path": "out/media/2026-07-18/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Open Interpreter适配Kimi K3，成为低开销编码Agent",
+          "summary": "Open Interpreter推出针对Kimi K3等低模型的行为优化，可作为低成本编码Agent运行，在GitHub引发热议。",
+          "importance": 7,
+          "primary_url": "https://github.com/openinterpreter/openinterpreter",
+          "items": [
+            "5e49acb29aac1411"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-00.jpg"
+        },
+        {
+          "headline": "Thinking Machines Lab开源Tinker后训练Cookbook",
+          "summary": "Mira Murati的Thinking Machines Lab发布Tinker Cookbook，提供基于Tinker框架的开源后训练配方，助力开发者微调模型。",
+          "importance": 7,
+          "primary_url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+          "items": [
+            "b0ce624a9dd59053"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-01.jpg"
+        },
+        {
+          "headline": "Apache Ossie立项：语义元数据交换规范",
+          "summary": "Apache软件基金会孵化Ossie项目，旨在制定分析、AI和BI平台间语义元数据交换的行业开放标准。",
+          "importance": 6,
+          "primary_url": "https://github.com/apache/ossie",
+          "items": [
+            "24273e3a052f7afd"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-02.jpg"
+        },
+        {
+          "headline": "Hallmark：让AI生成代码摆脱AI味道的设计技能",
+          "summary": "开源项目Hallmark为Claude Code、Cursor等编码助手提供设计技能，使其生成的代码和UI不再像AI作品。",
+          "importance": 6,
+          "primary_url": "https://github.com/Nutlope/hallmark",
+          "items": [
+            "a4a3bf68e6476129"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenCut：开源的CapCut替代版视频编辑器",
+          "summary": "OpenCut作为剪映（CapCut）的开源替代方案在GitHub上受关注，提供类似功能的免费编辑工具。",
+          "importance": 6,
+          "primary_url": "https://github.com/OpenCut-app/OpenCut",
+          "items": [
+            "f7c45c697888f6fa"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-04.jpg"
+        },
+        {
+          "headline": "LobeHub：智能体操作系统的指挥官",
+          "summary": "LobeHub开源智能体编排平台，支持招聘、调度和报告整个AI团队，实现7×24小时自动化运营。",
+          "importance": 6,
+          "primary_url": "https://github.com/lobehub/lobehub",
+          "items": [
+            "b9e9cd4c7a3c9531"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-05.jpg"
+        },
+        {
+          "headline": "Nous Research发布Hermes Agent：伴你成长的Agent",
+          "summary": "Nous Research开源Hermes Agent，一个可随使用进化的智能体框架，强调用户定制和持续学习。",
+          "importance": 6,
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-06.jpg"
+        },
+        {
+          "headline": "Anthropic开源知识工作插件库：让Claude变身领域专家",
+          "summary": "Anthropic发布Knowledge Work Plugins，一个开源插件集合，使Claude能针对不同角色（如工程师、研究员）定制化工作。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-07-18/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
