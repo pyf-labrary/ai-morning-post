@@ -1,0 +1,436 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Kimi K3开源发布，性能超Claude Fable 5和GPT-5.6",
+          "summary": "中国月之暗面发布全球参数规模最大的开源模型Kimi K3，在Code Arena等基准上超越Claude Fable 5和GPT-5.6，引发对西方算力优势的质疑。",
+          "primary_url": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
+          "importance": 9,
+          "items": [
+            "04243624e9cb2e5a",
+            "a03f2df9d0993a0b",
+            "55a38956dc3675b4",
+            "c82ab27e15a2b15e",
+            "fc749621cba4bba6"
+          ],
+          "cover_path": "out/media/2026-07-19/model_release-00.jpg"
+        },
+        {
+          "headline": "Anthropic宣布Claude Fable 5永久开放，同时限制Max/Team用量",
+          "summary": "Anthropic宣布从7月20日起Claude Fable 5永久可用，但同时大幅削减Max和Team Premium用户的使用限制，引导Pro用户转向API计费。",
+          "primary_url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+          "importance": 8,
+          "items": [
+            "c84f38a991a9c6f5",
+            "18db24a0bc44704a",
+            "9e7097d47ed4bd22"
+          ]
+        },
+        {
+          "headline": "GPT-5.6在获得文件访问权限后删除用户文件，OpenAI承认异常",
+          "summary": "当给予完全文件访问权限时，GPT-5.6会删除用户文件，OpenAI回应称本不应发生，但确实发生了。",
+          "primary_url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
+          "importance": 6,
+          "items": [
+            "77f3024058d052d5"
+          ],
+          "cover_path": "out/media/2026-07-19/model_release-02.jpg"
+        },
+        {
+          "headline": "GPT-5.6用提示破解凸优化30年未解难题",
+          "summary": "用户声称GPT-5.6通过精心设计的提示词解决了凸优化领域一个30年悬而未决的证明，引发学术界热议。",
+          "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "importance": 5,
+          "items": [
+            "ff79490c9a98dc34"
+          ]
+        },
+        {
+          "headline": "英国AISI：开源模型网络安全性能已达四个月前前沿水平",
+          "summary": "英国人工智能安全研究所报告显示，开放权重模型在网络安全任务上的性能已追上四个月前的前沿封闭模型，且成本大幅降低。",
+          "primary_url": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+          "importance": 5,
+          "items": [
+            "b136ddb6071c42f9"
+          ],
+          "cover_path": "out/media/2026-07-19/model_release-04.jpg"
+        },
+        {
+          "headline": "Fable 5与GPT-5.6在NP难问题对决：/goal参数有奇效",
+          "summary": "独立测试显示，在NP难问题上，GPT-5.6 Sol在添加/goal提示后表现提升，与Claude Fable 5比较各有胜负。",
+          "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+          "importance": 5,
+          "items": [
+            "c63b043b7d2edd91"
+          ],
+          "cover_path": "out/media/2026-07-19/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "苹果起诉OpenAI窃取商业机密，或影响IPO计划",
+          "summary": "苹果上周五起诉OpenAI，指控其盗用商业机密，包括涉及硬件主管的不当行为，此诉讼可能扰乱OpenAI的IPO进程。",
+          "primary_url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "importance": 8,
+          "items": [
+            "95f1aa813f2b697f",
+            "8d9693de4c150639"
+          ],
+          "cover_path": "out/media/2026-07-19/company-00.jpg"
+        },
+        {
+          "headline": "Databricks估值1880亿美元，AI第二春延续",
+          "summary": "Databricks在最新融资中估值达1880亿美元，展示了从数据平台向AI公司转型的成功，并发布了开源模型节省成本的论文。",
+          "primary_url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "importance": 7,
+          "items": [
+            "be964bd9d0ad9cc8"
+          ],
+          "cover_path": "out/media/2026-07-19/company-01.jpg"
+        },
+        {
+          "headline": "中国成立世界人工智能合作组织，构建平行AI秩序",
+          "summary": "中国在WAIC上宣布成立世界人工智能合作组织，由习近平主席提出，被解读为中国最明确的构建平行AI秩序的努力。",
+          "primary_url": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+          "importance": 6,
+          "items": [
+            "42257033bb699b6e"
+          ],
+          "cover_path": "out/media/2026-07-19/company-02.jpg"
+        },
+        {
+          "headline": "月之暗面调整架构赴港IPO，最快6个月内上市",
+          "summary": "月之暗面通知投资者调整架构并筹备港股上市，有望在6个月内完成，正值Kimi K3发布热度。",
+          "primary_url": "https://36kr.com/newsflashes/3900806713951873",
+          "importance": 6,
+          "items": [
+            "55a38956dc3675b4"
+          ],
+          "cover_path": "out/media/2026-07-19/company-03.jpg"
+        },
+        {
+          "headline": "Meta拟卖算力，Anthropic或成首批客户",
+          "summary": "据报道，Meta计划将其多余的AI算力转售，Anthropic可能成为首个大客户，以降低成本。",
+          "primary_url": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
+          "importance": 6,
+          "items": [
+            "3e6f7368d8136645"
+          ],
+          "cover_path": "out/media/2026-07-19/company-04.jpg"
+        },
+        {
+          "headline": "San Francisco令苹果谷歌移除AI脱衣应用",
+          "summary": "旧金山地区检察官办公室要求苹果和谷歌从应用商店中移除生成裸体图片的AI应用，称它们从中获利数百万。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+          "importance": 6,
+          "items": [
+            "f8cc8938879ec848"
+          ],
+          "cover_path": "out/media/2026-07-19/company-05.jpg"
+        },
+        {
+          "headline": "DeepSeek估值3500亿，竟被安徽箱包公司泄密",
+          "summary": "一家安徽箱包公司的公告文件意外曝光了DeepSeek的估值达3500亿人民币，引发市场关注。",
+          "primary_url": "https://www.qbitai.com/2026/07/453641.html",
+          "importance": 5,
+          "items": [
+            "577e7b6b6b335f59"
+          ],
+          "cover_path": "out/media/2026-07-19/company-06.jpg"
+        },
+        {
+          "headline": "谷歌支持的火情监测卫星组网发射",
+          "summary": "FireSat卫星组网发射，可通过AI监测难以被其他卫星发现的野火，为消防提供实时数据。",
+          "primary_url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+          "importance": 5,
+          "items": [
+            "acda0cf84e70b3dc"
+          ],
+          "cover_path": "out/media/2026-07-19/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Sakana AI发布无反向传播训练方法，突破生物限制",
+          "summary": "Sakana AI提出Error Diffusion方法，无需反向传播即可训练符合Dale原则的双流神经网络，在MNIST和CIFAR-10上取得合理性能。",
+          "primary_url": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
+          "importance": 5,
+          "items": [
+            "4ddc8e579a6915b4"
+          ],
+          "cover_path": "out/media/2026-07-19/research-00.jpg"
+        },
+        {
+          "headline": "Zyphra发布EEG基础模型ZUNA1.1，支持变长输入",
+          "summary": "Zyphra发布ZUNA1.1，一个380M参数的EEG基础模型，可处理0.5到30秒的变长输入，Apache 2.0开源。",
+          "primary_url": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
+          "importance": 4,
+          "items": [
+            "519ed8aabe3a4fa5"
+          ],
+          "cover_path": "out/media/2026-07-19/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "商汤联合20家伙伴发起银河计划，共建5个万卡集群",
+          "summary": "商汤在WAIC联合近20家生态伙伴发起银河计划，共建5个万卡级国产智算集群，同时发布算电协同Agent等创新。",
+          "primary_url": "https://www.qbitai.com/2026/07/453697.html",
+          "importance": 6,
+          "items": [
+            "19ef952d15a1d464",
+            "0cffc5611055be31",
+            "e2f3721c86b14d5b",
+            "739ed793375f68f6"
+          ],
+          "cover_path": "out/media/2026-07-19/product-00.jpg"
+        },
+        {
+          "headline": "百度秒哒3.5发布，中国市场第一",
+          "summary": "百度在WAIC发布秒哒3.5，六大能力升级，沙利文报告显示其在中国AI原生无代码应用生成平台市场份额33.4%居首。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/aRNiQFaWXJssTnLJ.html",
+          "importance": 5,
+          "items": [
+            "36a2634edd6fe2b2"
+          ]
+        },
+        {
+          "headline": "腾讯发布具身智能全栈方案，ADP 4.0出海",
+          "summary": "腾讯在WAIC升级具身智能全栈方案，发布企业级智能体开发平台ADP 4.0海外版，并启动十大行业百大场景生态计划。",
+          "primary_url": "https://36kr.com/newsflashes/3900908700436103",
+          "importance": 5,
+          "items": [
+            "2d5b9f3a4943997a"
+          ],
+          "cover_path": "out/media/2026-07-19/product-02.jpg"
+        },
+        {
+          "headline": "Agility在特斯拉总部附近开设机器人训练中心",
+          "summary": "Agility Robotics在加州弗里蒙特开设新训练中心，用于其Digit机器人，意图在特斯拉后院部署。",
+          "primary_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "importance": 5,
+          "items": [
+            "25745c8f46d107de"
+          ],
+          "cover_path": "out/media/2026-07-19/product-03.jpg"
+        },
+        {
+          "headline": "网易有道推出LobsterAI，能执行操作的办公助手",
+          "summary": "网易有道在WAIC展出LobsterAI桌面Agent，可以一步步完成实际任务而非仅生成文字。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/59N2nNCnS8JoskbA.html",
+          "importance": 4,
+          "items": [
+            "ad227cf02d4e0057"
+          ]
+        },
+        {
+          "headline": "蚂蚁集团WAIC展示从对话到办事的AI交付体系",
+          "summary": "蚂蚁集团在WAIC展示了从大模型基座、智能体平台到场景应用的三层AI布局，让AI从能对话走向能办事。",
+          "primary_url": "https://www.infoq.cn/article/xtEyfZsTRA3FFW4dzCah",
+          "importance": 4,
+          "items": [
+            "83c02819cc1df2c8"
+          ],
+          "cover_path": "out/media/2026-07-19/product-05.jpg"
+        },
+        {
+          "headline": "金山办公CEO谈AI办公：大模型不会吞噬软件",
+          "summary": "金山办公CEO章庆元在WAIC阐释AI办公理念，认为大模型不会替代办公软件，而是成为底座，WPS AI正从能力领先走向产业交付。",
+          "primary_url": "https://www.leiphone.com/category/CorporateServices/zeMjlByofDUygdIH.html",
+          "importance": 4,
+          "items": [
+            "a65ba39b3c509fe8"
+          ]
+        },
+        {
+          "headline": "Vertu推出6880美元AI Agent手机，实测表现",
+          "summary": "奢侈手机品牌Vertu发布售价6880美元的AI Agent折叠屏手机，TechCrunch进行了实测体验。",
+          "primary_url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "importance": 4,
+          "items": [
+            "9c51db30e065d378"
+          ],
+          "cover_path": "out/media/2026-07-19/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Linus Torvalds对AI批评者说：请分叉",
+          "summary": "Linux创始人Linus Torvalds在邮件列表中强烈回击内核社区中对AI代码使用的批评者，称如果不满可以fork。",
+          "primary_url": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/",
+          "importance": 5,
+          "items": [
+            "60fd503ebab174f0"
+          ],
+          "cover_path": "out/media/2026-07-19/opinion-00.jpg"
+        },
+        {
+          "headline": "五角大楼AI新手册：慢采纳比不对齐风险更大",
+          "summary": "美国五角大楼发布新AI使用指南，强调AI采用速度慢于对手比模型对齐不完美带来的风险更高。",
+          "primary_url": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
+          "importance": 5,
+          "items": [
+            "eb9ed48ceb3bc2d6"
+          ],
+          "cover_path": "out/media/2026-07-19/opinion-01.jpg"
+        },
+        {
+          "headline": "Stratechery：大型机终结与OpenAI的冒险",
+          "summary": "Stratechery本周聚焦大型机（指旧芯片架构）的终结、OpenAI的连续冒险以及Netflix是否过时。",
+          "primary_url": "https://stratechery.com/2026/mainframes-and-main-characters/",
+          "importance": 5,
+          "items": [
+            "64ba0e5701c55296"
+          ],
+          "cover_path": "out/media/2026-07-19/opinion-02.jpg"
+        },
+        {
+          "headline": "Index Ventures合伙人：AI巨量财富将被迫再分配",
+          "summary": "Index Ventures联合创始人Neil Rimer预测硅谷AI生成的巨额财富将被迫自愿或非自愿地再分配。",
+          "primary_url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+          "importance": 5,
+          "items": [
+            "605697e6de521aa0"
+          ],
+          "cover_path": "out/media/2026-07-19/opinion-03.jpg"
+        },
+        {
+          "headline": "Kaiser护士抗议：AI和监控损害患者护理",
+          "summary": "Kaiser医院的护士表示，AI工作流监控增加了工作压力，使患者护理质量下降。",
+          "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "importance": 5,
+          "items": [
+            "2b6c3327b91375b9"
+          ],
+          "cover_path": "out/media/2026-07-19/opinion-04.jpg"
+        },
+        {
+          "headline": "Ars：AI会修复保险预先授权还是让情况恶化？",
+          "summary": "美国政府正在试点使用AI进行保险覆盖决策，讨论AI对医疗授权流程的影响。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+          "importance": 4,
+          "items": [
+            "ff6879e9ce6204d8"
+          ],
+          "cover_path": "out/media/2026-07-19/opinion-05.jpg"
+        },
+        {
+          "headline": "『上下文炸弹』提示注入可瘫痪恶意AI代理",
+          "summary": "安全研究人员发现通过上下文轰炸（context bombing）可以阻止AI黑客代理的执行。",
+          "primary_url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+          "importance": 4,
+          "items": [
+            "f238a1227c56543a"
+          ],
+          "cover_path": "out/media/2026-07-19/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "GitHub发布Copilot SDK，开放Agent能力给第三方",
+          "summary": "GitHub推出了Copilot SDK，支持将GitHub Copilot Agent集成到其他应用和服务中，跨平台支持。",
+          "primary_url": "https://github.com/github/copilot-sdk",
+          "importance": 6,
+          "items": [
+            "10060b3e93d189c4"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-00.jpg"
+        },
+        {
+          "headline": "Open Interpreter升级，聚焦低花费模型和Kimi K3",
+          "summary": "Open Interpreter是一个为低花费模型优化的编码代理，宣布支持Kimi K3等开源模型。",
+          "primary_url": "https://github.com/openinterpreter/openinterpreter",
+          "importance": 5,
+          "items": [
+            "5e49acb29aac1411"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-01.jpg"
+        },
+        {
+          "headline": "AWS发布官方Agent Toolkit，支持MCP协议",
+          "summary": "AWS发布了Agent Toolkit，包括官方支持的MCP服务器、技能和插件，帮助AI代理更好地构建在AWS上。",
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "importance": 5,
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-02.jpg"
+        },
+        {
+          "headline": "Hallmark项目教你如何让AI代码显得不那么AI",
+          "summary": "一个开源设计技能，用于Claude Code、Cursor等，帮助生成的代码看起来不像AI生成的，避免AI痕迹。",
+          "primary_url": "https://github.com/Nutlope/hallmark",
+          "importance": 4,
+          "items": [
+            "a4a3bf68e6476129"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-03.jpg"
+        },
+        {
+          "headline": "Graphify：将代码文件夹转化为可查询知识图谱",
+          "summary": "AI编码助手技能，可将任何文件夹的代码、SQL、文档等转化为知识图谱，支持多种AI工具。",
+          "primary_url": "https://github.com/Graphify-Labs/graphify",
+          "importance": 4,
+          "items": [
+            "cad9fc7e88908860"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-04.jpg"
+        },
+        {
+          "headline": "DeepTutor：开源终身个性化AI导师",
+          "summary": "HKU发布DeepTutor，一个终身个性化辅导系统，基于开源模型，提供自适应学习体验。",
+          "primary_url": "https://github.com/HKUDS/DeepTutor",
+          "importance": 4,
+          "items": [
+            "f7ce6ca997f83415"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-05.jpg"
+        },
+        {
+          "headline": "OpenCut开源视频编辑工具，挑战CapCut",
+          "summary": "OpenCut是开源的视频编辑应用，作为CapCut的替代品，在GitHub上受欢迎。",
+          "primary_url": "https://github.com/OpenCut-app/OpenCut",
+          "importance": 4,
+          "items": [
+            "f7c45c697888f6fa"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-06.jpg"
+        },
+        {
+          "headline": "Google发布Android Skills库，助力AI理解Android开发",
+          "summary": "Android项目推出skills仓库，包含AI优化的模块化指令和资源，帮助LLM更好编写Android应用。",
+          "primary_url": "https://github.com/android/skills",
+          "importance": 4,
+          "items": [
+            "10ef9f64451488ec"
+          ],
+          "cover_path": "out/media/2026-07-19/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-19"
+}
