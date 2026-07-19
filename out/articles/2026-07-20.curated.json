@@ -1,0 +1,432 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "Kimi K3空降Arena排第一，订阅供不应求暂停新注册",
+          "summary": "Moonshot AI发布Kimi K3，在多个基准超越Fable 5，但复杂数学输；因需求过大暂停新订阅。",
+          "primary_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "importance": 9,
+          "items": [
+            "921faf858dc7c058",
+            "a03f2df9d0993a0b",
+            "fc749621cba4bba6",
+            "d7c8afafd1762d80"
+          ],
+          "cover_path": "out/media/2026-07-20/model_release-00.jpg"
+        },
+        {
+          "headline": "阿里千问3.8预览版上线，正式版近期开源",
+          "summary": "阿里云发布Qwen 3.8-Max预览版，号称第二仅次于Fable 5，正式版将开源。",
+          "primary_url": "https://36kr.com/newsflashes/3902296634050437?f=rss",
+          "importance": 8,
+          "items": [
+            "6a3177731b224bf8",
+            "54b040309fa1be31"
+          ],
+          "cover_path": "out/media/2026-07-20/model_release-01.jpg"
+        },
+        {
+          "headline": "GPT-5.6：解决30年数学难题，同时被曝自动删文件",
+          "summary": "GPT-5.6在一项凸优化问题上取得突破，但也被用户报告会自动删除文件，引发安全担忧。",
+          "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "importance": 8,
+          "items": [
+            "ff79490c9a98dc34",
+            "ea9da1a95f36bb63"
+          ]
+        },
+        {
+          "headline": "商汤发布原生多模态智能体基座U1 Pro",
+          "summary": "商汤科技发布SenseNova U1 Pro，面向长程任务的交付级原生多模态智能体基座，具备复杂图片创作能力。",
+          "primary_url": "https://36kr.com/newsflashes/3902187700766593?f=rss",
+          "importance": 7,
+          "items": [
+            "c24e8f3ea23a7c74",
+            "939ee0089ee30382",
+            "07d76f2f4e1f6c5d"
+          ],
+          "cover_path": "out/media/2026-07-20/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "中国牵头成立世界AI合作组织，29国签署协议",
+          "summary": "在上海WAIC上，29国签署成立世界人工智能合作组织，中方推动能力建设国际合作。",
+          "primary_url": "https://36kr.com/newsflashes/3902324507281026?f=rss",
+          "importance": 7,
+          "items": [
+            "d86cba0a11fbaf07",
+            "42257033bb699b6e"
+          ],
+          "cover_path": "out/media/2026-07-20/company-00.jpg"
+        },
+        {
+          "headline": "一目科技E轮融资超10亿元，估值破百亿",
+          "summary": "具身智能触觉感知公司一目科技完成融资，用于研发和量产。",
+          "primary_url": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+          "importance": 5,
+          "items": [
+            "6e1c915f7b9d9cb6"
+          ],
+          "cover_path": "out/media/2026-07-20/company-01.jpg"
+        },
+        {
+          "headline": "苹果起诉OpenAI，或颠覆其硬件计划",
+          "summary": "苹果与OpenAI的法律纠纷可能影响OpenAI的硬件研发和IPO计划。",
+          "primary_url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "importance": 5,
+          "items": [
+            "d58475ead23acbc6"
+          ],
+          "cover_path": "out/media/2026-07-20/company-02.jpg"
+        },
+        {
+          "headline": "多家AI相关公司发布亮眼半年报，算力需求拉动增长",
+          "summary": "新易盛、星宸科技、中科创达等公司预告上半年净利润大幅增长，受益于AI算力投资。",
+          "primary_url": "https://36kr.com/newsflashes/3902322110170761?f=rss",
+          "importance": 4,
+          "items": [
+            "b4164f73ff4f5207",
+            "575a02fe306e0bb7",
+            "b21551506a104e31"
+          ],
+          "cover_path": "out/media/2026-07-20/company-03.jpg"
+        },
+        {
+          "headline": "黄仁勋日本行签署多家合作，日企拥抱英伟达生态",
+          "summary": "Jensen Huang结束日本访问，与日本科技生态达成一系列合作。",
+          "primary_url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "importance": 4,
+          "items": [
+            "cb8806a40ad8c979"
+          ],
+          "cover_path": "out/media/2026-07-20/company-04.jpg"
+        },
+        {
+          "headline": "长鑫科技IPO中签号出炉，共计770万个",
+          "summary": "存储芯片企业长鑫科技披露IPO中签结果。",
+          "primary_url": "https://36kr.com/newsflashes/3902285564970883?f=rss",
+          "importance": 3,
+          "items": [
+            "bd71e98f58f98723"
+          ],
+          "cover_path": "out/media/2026-07-20/company-05.jpg"
+        },
+        {
+          "headline": "长三角共建AI协同投资平台，多国资联手",
+          "summary": "在WAIC上，长三角投资公司等多家国资签约共建AI协同投资平台。",
+          "primary_url": "https://36kr.com/newsflashes/3902223814150020?f=rss",
+          "importance": 3,
+          "items": [
+            "79436df86b6c043d"
+          ],
+          "cover_path": "out/media/2026-07-20/company-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "Deepmind：视频生成器已隐含世界模型，计算机视觉所需",
+          "summary": "Google Deepmind发表观点，认为现有的视频生成模型已经包含了计算机视觉长期缺失的世界模型。",
+          "primary_url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+          "importance": 5,
+          "items": [
+            "a9adef68e920a093"
+          ],
+          "cover_path": "out/media/2026-07-20/research-00.jpg"
+        },
+        {
+          "headline": "上海AI Lab提出自进化Harness，效果提升104%",
+          "summary": "上海人工智能实验室研发方法，让模型评估Harness能够自我搜索和迭代。",
+          "primary_url": "https://www.qbitai.com/2026/07/454441.html",
+          "importance": 4,
+          "items": [
+            "996238461aedccb1"
+          ],
+          "cover_path": "out/media/2026-07-20/research-01.jpg"
+        },
+        {
+          "headline": "AI文本检测器面临新挑战：模型模仿作者风格时难以识别",
+          "summary": "Epoch AI测试表明，AI文本探测器在模型模仿特定作者风格时表现不佳。",
+          "primary_url": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+          "importance": 4,
+          "items": [
+            "c21762223be6b7ec"
+          ],
+          "cover_path": "out/media/2026-07-20/research-02.jpg"
+        },
+        {
+          "headline": "AI读片过度自信，研究警告医疗风险",
+          "summary": "研究发现AI聊天机器人在阅读X光片时即使错误也表现出高置信度，可能误导医生。",
+          "primary_url": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
+          "importance": 4,
+          "items": [
+            "57f983b225f78686"
+          ],
+          "cover_path": "out/media/2026-07-20/research-03.jpg"
+        },
+        {
+          "headline": "新方法'弹射'让神经网络更接近人脑学习",
+          "summary": "Gwern.net发表研究，通过Catapulting方法使神经网络表现出更像人类的学习行为。",
+          "primary_url": "https://gwern.net/llm-catapult",
+          "importance": 3,
+          "items": [
+            "9bf942c32108d718"
+          ],
+          "cover_path": "out/media/2026-07-20/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Claude Code改用Rust版Bun，启动再提速10%",
+          "summary": "Anthropic的Claude Code v2.1.181开始使用Rust重写的Bun运行时，启动速度提升10%。",
+          "primary_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "importance": 6,
+          "items": [
+            "b980aa38f0732d9c",
+            "d95cd24d89a3a8e3"
+          ]
+        },
+        {
+          "headline": "腾讯发布三大具身基座模型，工业实测成功率超95%",
+          "summary": "腾讯在WAIC发布三大具身智能基座模型，打通感知-行动闭环，在工业场景表现优异。",
+          "primary_url": "https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "c0193132825ec029"
+          ],
+          "cover_path": "out/media/2026-07-20/product-01.jpg"
+        },
+        {
+          "headline": "百度秒哒3.5版本升级，占据AI无代码平台33%份额",
+          "summary": "百度在WAIC发布秒哒3.5，完成六大升级，并被沙利文评为市场份额第一。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/aRNiQFaWXJssTnLJ.html",
+          "importance": 5,
+          "items": [
+            "36a2634edd6fe2b2"
+          ]
+        },
+        {
+          "headline": "中科闻歌发布业界首个全系决策智能产品体系",
+          "summary": "中科闻歌在WAIC发布“基、枢、核、脑、端”完整AI决策产品体系。",
+          "primary_url": "https://36kr.com/newsflashes/3902288636282757?f=rss",
+          "importance": 5,
+          "items": [
+            "7f1cd1d71c16e19a",
+            "3fe294b3fcea25ea"
+          ],
+          "cover_path": "out/media/2026-07-20/product-03.jpg"
+        },
+        {
+          "headline": "云天励飞发布三款AI推理芯片与超节点集群",
+          "summary": "云天励飞公布DeepVerse系列芯片路线图，旨在降低Token成本至一分钱百亿。",
+          "primary_url": "https://www.leiphone.com/category/chips/kkSTkmFeAdi2fl5B.html",
+          "importance": 5,
+          "items": [
+            "a80a132c84839cd5",
+            "3888f519bf7b2ea5"
+          ]
+        },
+        {
+          "headline": "腾讯云发布ADP 4.0海外版，集成Google Workspace与Jira",
+          "summary": "腾讯云推出AgentOps全生命周期管理平台ADP 4.0海外版。",
+          "primary_url": "https://www.infoq.cn/article/r6m3xASYYfM81h9dNBRE?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "83d158a573a028b9"
+          ],
+          "cover_path": "out/media/2026-07-20/product-05.jpg"
+        },
+        {
+          "headline": "爱芯元智在WAIC首秀'元曦'大算力AI推理芯片",
+          "summary": "爱芯元智展示全线AI算力产品，并首次揭秘元曦系列新品。",
+          "primary_url": "https://www.leiphone.com/category/chips/JfJwRDdJFvaNBzO7.html",
+          "importance": 4,
+          "items": [
+            "97fbf5f70f1d8779"
+          ]
+        },
+        {
+          "headline": "黎曼动力发布Riemann-1.0，基于20万小时人类劳作训练",
+          "summary": "黎曼动力通过观看20万小时人类干活实录，训练出通用机器人Riemann-1.0。",
+          "primary_url": "https://www.qbitai.com/2026/07/454592.html",
+          "importance": 4,
+          "items": [
+            "aafe6b0c608a3666"
+          ],
+          "cover_path": "out/media/2026-07-20/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "长文抨击AI狂热正严重侵蚀全球决策质量",
+          "summary": "Nik Suresh发表长文，批评AI热潮导致组织决策能力下降。",
+          "primary_url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+          "importance": 6,
+          "items": [
+            "754304230fd0419a",
+            "df5ce980b1d7fa82"
+          ]
+        },
+        {
+          "headline": "纽约拟立法：房东须披露房源中使用AI图片",
+          "summary": "纽约市可能要求房东和中介在房源广告中披露是否使用了AI生成图片。",
+          "primary_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "importance": 6,
+          "items": [
+            "e66e1f4a2b81b743"
+          ],
+          "cover_path": "out/media/2026-07-20/opinion-01.jpg"
+        },
+        {
+          "headline": "数据图解：AI如何导致Stack Overflow访问量直线下降",
+          "summary": "一张Stack Overflow查询图显示，自ChatGPT出现后，网站访问量持续下降。",
+          "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+          "importance": 5,
+          "items": [
+            "76cd977abb5eaf63"
+          ]
+        },
+        {
+          "headline": "AI能解决医保预授权问题吗？政府试点引发讨论",
+          "summary": "美国政府试点使用AI进行保险覆盖决策，引发效率与公平的讨论。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+          "importance": 5,
+          "items": [
+            "ff6879e9ce6204d8"
+          ],
+          "cover_path": "out/media/2026-07-20/opinion-03.jpg"
+        },
+        {
+          "headline": "冷门哲学成为AI治理热门工具",
+          "summary": "探讨哲学在AI治理中的重要作用。",
+          "primary_url": "https://www.qbitai.com/2026/07/455041.html",
+          "importance": 4,
+          "items": [
+            "7f26980eb996774e"
+          ],
+          "cover_path": "out/media/2026-07-20/opinion-04.jpg"
+        },
+        {
+          "headline": "Nolan导演：AI是显而易见的特洛伊木马",
+          "summary": "导演Christopher Nolan在访谈中警告AI像特洛伊木马一样危险。",
+          "primary_url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "importance": 4,
+          "items": [
+            "1adf5e3e000a4966"
+          ],
+          "cover_path": "out/media/2026-07-20/opinion-05.jpg"
+        },
+        {
+          "headline": "端侧AI论坛共识：智能体时代需要计算架构变革",
+          "summary": "高通、安谋等在WAIC端侧AI论坛发表演讲，强调从CPU到Agentic OS的算力创新。",
+          "primary_url": "https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html",
+          "importance": 4,
+          "items": [
+            "e2374bd73bbf7da4",
+            "15820f2dabb494f2"
+          ]
+        },
+        {
+          "headline": "WAIC现场演示AI'读心术'，主观世界模型引围观",
+          "summary": "WAIC上展示了能读取主观意识的世界模型。",
+          "primary_url": "https://www.qbitai.com/2026/07/455031.html",
+          "importance": 3,
+          "items": [
+            "ba7a80400484c230"
+          ],
+          "cover_path": "out/media/2026-07-20/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Anthropic开源Agent Skills库，推动标准化",
+          "summary": "Anthropic发布Agent Skills公开仓库，促进AI agent技能标准化。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "importance": 5,
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-07-20/opensource-00.jpg"
+        },
+        {
+          "headline": "AWS发布官方Agent Toolkit for AWS，支持MCP",
+          "summary": "AWS推出官方支持的MCP服务器、技能和插件工具包，帮助AI Agent构建在AWS上。",
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "importance": 4,
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-07-20/opensource-01.jpg"
+        },
+        {
+          "headline": "Moonshot AI开源Kimi CLI，命令行agent工具",
+          "summary": "Kimi CLI是面向命令行的AI代理工具，代码已开源。",
+          "primary_url": "https://github.com/MoonshotAI/kimi-cli",
+          "importance": 4,
+          "items": [
+            "954ee670419e1e28"
+          ],
+          "cover_path": "out/media/2026-07-20/opensource-02.jpg"
+        },
+        {
+          "headline": "AirLLM开源：单张4GB GPU跑70B大模型",
+          "summary": "AirLLM实现了在单个4GB GPU上运行70B参数大模型的推理。",
+          "primary_url": "https://github.com/lyogavin/airllm",
+          "importance": 4,
+          "items": [
+            "1ee1aeff437659b4"
+          ],
+          "cover_path": "out/media/2026-07-20/opensource-03.jpg"
+        },
+        {
+          "headline": "Apache孵化Ossie项目，推动AI语义元数据标准化",
+          "summary": "Apache Ossie旨在标准化分析、AI和BI平台间的语义元数据交换。",
+          "primary_url": "https://github.com/apache/ossie",
+          "importance": 3,
+          "items": [
+            "24273e3a052f7afd"
+          ],
+          "cover_path": "out/media/2026-07-20/opensource-04.jpg"
+        },
+        {
+          "headline": "Datawhale开源中文智能体教程'Hello Agents'",
+          "summary": "Datawhale发布从零开始的智能体原理与实践教程，中文友好。",
+          "primary_url": "https://github.com/datawhalechina/hello-agents",
+          "importance": 3,
+          "items": [
+            "9113d09778f2121d"
+          ],
+          "cover_path": "out/media/2026-07-20/opensource-05.jpg"
+        },
+        {
+          "headline": "PostHog开源AI可观测性平台，面向自驱型产品",
+          "summary": "PostHog提供AI可观测性、分析、会话回放等开源工具。",
+          "primary_url": "https://github.com/PostHog/posthog",
+          "importance": 3,
+          "items": [
+            "d685b442b323ed92"
+          ],
+          "cover_path": "out/media/2026-07-20/opensource-06.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-20"
+}
