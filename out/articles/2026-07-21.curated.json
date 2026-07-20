@@ -1,0 +1,451 @@
+{
+  "date": "2026-07-21",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "阿里巴巴开源Qwen 3.8，对标Kimi K3",
+          "summary": "阿里巴巴发布开源模型Qwen 3.8，声称性能仅次于Fable 5，直接挑战月之暗面的Kimi K3。",
+          "primary_url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+          "importance": 8,
+          "items": [
+            "6a3177731b224bf8",
+            "05ab64cfb4b7ecd8"
+          ],
+          "cover_path": "out/media/2026-07-21/model_release-00.jpg"
+        },
+        {
+          "headline": "NVIDIA推出Cosmos 3 Edge边缘AI模型",
+          "summary": "NVIDIA在HuggingFace发布Cosmos 3 Edge模型，专为边缘设备和实时推理优化。",
+          "primary_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "importance": 6,
+          "items": [
+            "919da72479edcc84"
+          ],
+          "cover_path": "out/media/2026-07-21/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里Qwen-Audio-3.0-TTS登顶全球语音榜单",
+          "summary": "阿里语音合成模型Qwen-Audio-3.0-TTS在权威榜单夺冠，支持20种方言和细粒度标签。",
+          "primary_url": "https://www.qbitai.com/2026/07/455658.html",
+          "importance": 5,
+          "items": [
+            "d27f50ed9ca53efa"
+          ],
+          "cover_path": "out/media/2026-07-21/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI发布长期模型安全对齐经验",
+          "summary": "OpenAI分享部署长周期AI模型的安全风险、观察到的失败案例及迭代改进措施。",
+          "primary_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "importance": 10,
+          "items": [
+            "83edaf6aa2bbf062"
+          ]
+        },
+        {
+          "headline": "谷歌被曝开发Gemini专用芯片Frozen v2",
+          "summary": "谷歌正在研发将Gemini架构直接集成到硅片上的专用AI芯片Frozen v2，以求效率大幅提升。",
+          "primary_url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+          "importance": 8,
+          "items": [
+            "2eaf2e6e76613254",
+            "2a8c2d5a0b112908"
+          ],
+          "cover_path": "out/media/2026-07-21/company-01.jpg"
+        },
+        {
+          "headline": "Moonshot暂停Kimi K3订阅，GPU需求48小时爆满",
+          "summary": "月之暗面Kimi K3发布后需求爆炸，GPU资源耗尽，临时暂停新用户订阅。",
+          "primary_url": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
+          "importance": 7,
+          "items": [
+            "2c97d13d21bdafaf",
+            "d7c8afafd1762d80"
+          ],
+          "cover_path": "out/media/2026-07-21/company-02.jpg"
+        },
+        {
+          "headline": "Together AI与YC合作推出YC专属GPU集群",
+          "summary": "Together AI与Y Combinator合作为YC初创公司提供快速GPU集群，无需长期合约。",
+          "primary_url": "https://www.together.ai/blog/together-yc-gpu-cluster",
+          "importance": 7,
+          "items": [
+            "1a091b494cc460b4"
+          ],
+          "cover_path": "out/media/2026-07-21/company-03.jpg"
+        },
+        {
+          "headline": "百时美施贵宝将建生命科学最大AI工厂",
+          "summary": "BMS基于NVIDIA Vera Rubin平台，计划将AI集群翻倍，打造生命科学领域最先进AI工厂。",
+          "primary_url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+          "importance": 7,
+          "items": [
+            "f646116eee4dcd96"
+          ],
+          "cover_path": "out/media/2026-07-21/company-04.jpg"
+        },
+        {
+          "headline": "Hugging Face遭AI代理攻击，用AI自卫反击",
+          "summary": "Hugging Face基础设施被恶意AI代理入侵，团队使用AI自动防御并溯源攻击者。",
+          "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
+          "importance": 7,
+          "items": [
+            "b646bad95c67f824"
+          ],
+          "cover_path": "out/media/2026-07-21/company-05.jpg"
+        },
+        {
+          "headline": "NVIDIA SIGGRAPH展示Agentic AI与物理模拟突破",
+          "summary": "NVIDIA在SIGGRAPH发布开放模型、实时仿真等成果，推动媒体、内容创作和机器人领域。",
+          "primary_url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+          "importance": 7,
+          "items": [
+            "7040a5d7b068ac04"
+          ],
+          "cover_path": "out/media/2026-07-21/company-06.jpg"
+        },
+        {
+          "headline": "零一万物启动新一轮融资，拟2027年IPO",
+          "summary": "李开复创立的零一万物推进融资并计划2027年上市，逐步解除离岸架构。",
+          "primary_url": "https://36kr.com/newsflashes/3903968879511169?f=rss",
+          "importance": 6,
+          "items": [
+            "063638cce52e32a3"
+          ],
+          "cover_path": "out/media/2026-07-21/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Claude Fable产出雅可比猜想反例",
+          "summary": "Anthropic的Claude Fable模型给出雅可比猜想的反例，引起数学界关注。",
+          "primary_url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+          "importance": 6,
+          "items": [
+            "524a48348a4c5331"
+          ]
+        },
+        {
+          "headline": "AI在招聘中比人类更易形成偏见",
+          "summary": "MIT研究显示LLM在简历筛选时比人类更容易产生歧视性决策，且隐含偏差难以消除。",
+          "primary_url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+          "importance": 6,
+          "items": [
+            "7e9fda80fb864d48"
+          ],
+          "cover_path": "out/media/2026-07-21/research-01.jpg"
+        },
+        {
+          "headline": "AI建议让人更不准确但更自信",
+          "summary": "研究指出获得AI辅助的人做出错误判断的几率增加，但自我信心显著提升。",
+          "primary_url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "importance": 5,
+          "items": [
+            "9c9445d9d7feab38"
+          ],
+          "cover_path": "out/media/2026-07-21/research-02.jpg"
+        },
+        {
+          "headline": "测量arXiv论文中AI写作的扩散",
+          "summary": "研究人员通过统计方法检测arXiv论文中AI撰写的比例，并指出测量工具的局限性。",
+          "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "importance": 5,
+          "items": [
+            "12296954be0a95cd"
+          ]
+        },
+        {
+          "headline": "LoRA Speedrun：微调速度公开排行榜",
+          "summary": "开源项目以挂钟时间为标准，对多种LoRA微调技术进行排名。",
+          "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
+          "importance": 5,
+          "items": [
+            "f0041e8ea46016a2"
+          ],
+          "cover_path": "out/media/2026-07-21/research-04.jpg"
+        },
+        {
+          "headline": "DeepTutor：终身个性化辅导AI系统",
+          "summary": "香港大学开源DeepTutor，提供持续个性化的AI辅导。",
+          "primary_url": "https://github.com/HKUDS/DeepTutor",
+          "importance": 5,
+          "items": [
+            "f7ce6ca997f83415"
+          ],
+          "cover_path": "out/media/2026-07-21/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Neill Blomkamp发布全AI生成科幻短片",
+          "summary": "《第九区》导演Neill Blomkamp推出首部完全由AI视频生成的科幻短片《NIGHTBORNE》。",
+          "primary_url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+          "importance": 6,
+          "items": [
+            "9ffc321c9dc5af86"
+          ],
+          "cover_path": "out/media/2026-07-21/product-00.jpg"
+        },
+        {
+          "headline": "AI核心协议MCP变得更易用",
+          "summary": "Model Context Protocol采用无状态会话ID，降低使用门槛，推动AI代理互操作性。",
+          "primary_url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "importance": 6,
+          "items": [
+            "9ff6e2a3f4dec400"
+          ],
+          "cover_path": "out/media/2026-07-21/product-01.jpg"
+        },
+        {
+          "headline": "淘天集团公布AIGX四项技术成果",
+          "summary": "淘天发布全模态实时Agent、AI创作台if Studio、Coupella引擎及Agentic推荐系统Dream。",
+          "primary_url": "https://36kr.com/newsflashes/3903953892050823?f=rss",
+          "importance": 6,
+          "items": [
+            "af1df8f92ba7b934",
+            "2e5e811a30ccb4dc"
+          ],
+          "cover_path": "out/media/2026-07-21/product-02.jpg"
+        },
+        {
+          "headline": "Adobe相机应用新增AI照片批评功能",
+          "summary": "Adobe Project Indigo可自动分析照片并提供批评建议，支持背景移除。",
+          "primary_url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+          "importance": 5,
+          "items": [
+            "53c16b2703ee1ab9"
+          ],
+          "cover_path": "out/media/2026-07-21/product-03.jpg"
+        },
+        {
+          "headline": "YouTube更新AI低质内容变现政策",
+          "summary": "YouTube明确禁止AI生成和低质量视频获取广告收入，收紧内容规范。",
+          "primary_url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+          "importance": 5,
+          "items": [
+            "061c6084fc3b792b"
+          ],
+          "cover_path": "out/media/2026-07-21/product-04.jpg"
+        },
+        {
+          "headline": "X重推彻底重建的Android应用",
+          "summary": "X历经一年重构，向全球推出全新Android应用。",
+          "primary_url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+          "importance": 5,
+          "items": [
+            "b5db0081c6d2bce8"
+          ],
+          "cover_path": "out/media/2026-07-21/product-05.jpg"
+        },
+        {
+          "headline": "腾讯地图联合义乌推出AI导航找店",
+          "summary": "腾讯地图与Chinagoods平台合作，AI导航将义乌商贸城找店效率提升近70%。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/CXENSGmfl5oIvBEG.html",
+          "importance": 5,
+          "items": [
+            "b88c2b9a0def5394"
+          ]
+        },
+        {
+          "headline": "爱诗科技发布实时视频模型攻入互娱",
+          "summary": "爱诗科技推出实时视频生成模型，瞄准互动娱乐场景。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/lzZb9yStwJLM2GRz.html",
+          "importance": 5,
+          "items": [
+            "f5c1cc4692ab619f"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "特朗普政府拟慢动作封禁中国AI模型",
+          "summary": "通过制裁与软压力逐步限制中国AI模型，引发美国内部对开源战略的激烈争论。",
+          "primary_url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+          "importance": 9,
+          "items": [
+            "e19e43e2b40b0f3a",
+            "884254d418da91dc",
+            "034c7d54d6e0319e",
+            "c272bd0f9f165470",
+            "32b9dfdc0c103c46",
+            "7dbd8021ce459d01"
+          ],
+          "cover_path": "out/media/2026-07-21/opinion-00.jpg"
+        },
+        {
+          "headline": "Stratechery：谁害怕中国模型？美国应开源应对",
+          "summary": "Ben Thompson认为前沿实验室无需恐惧中国模型，美国应支持开源替代方案。",
+          "primary_url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "importance": 8,
+          "items": [
+            "c272bd0f9f165470",
+            "32b9dfdc0c103c46"
+          ],
+          "cover_path": "out/media/2026-07-21/opinion-01.jpg"
+        },
+        {
+          "headline": "OpenAI对开源权重模型的担忧引争议",
+          "summary": "TechCrunch评论OpenAI惧怕开源权重模型，分析将AI转化为商业的挑战。",
+          "primary_url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+          "importance": 7,
+          "items": [
+            "034c7d54d6e0319e"
+          ],
+          "cover_path": "out/media/2026-07-21/opinion-02.jpg"
+        },
+        {
+          "headline": "MIT：中国AI模型使特朗普AI世界内部分裂",
+          "summary": "中国开源模型的成功使特朗普政府内部对AI战略产生严重分歧。",
+          "primary_url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "importance": 7,
+          "items": [
+            "884254d418da91dc"
+          ],
+          "cover_path": "out/media/2026-07-21/opinion-03.jpg"
+        },
+        {
+          "headline": "商汤林达华：多模态是Coding之后的下一个战场",
+          "summary": "商汤联合创始人林达华认为多模态将成为继代码生成后的AI主战场。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/uHHqpDWEcbFxyyvD.html",
+          "importance": 7,
+          "items": [
+            "07d76f2f4e1f6c5d"
+          ]
+        },
+        {
+          "headline": "Christopher Nolan称AI是明显特洛伊木马",
+          "summary": "导演Nolan警告AI具有隐藏风险，犹如特洛伊木马。",
+          "primary_url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "importance": 6,
+          "items": [
+            "1adf5e3e000a4966"
+          ],
+          "cover_path": "out/media/2026-07-21/opinion-05.jpg"
+        },
+        {
+          "headline": "逆向工程现在变得很便宜",
+          "summary": "Simon Willison指出编码代理使逆向工程家庭设备变得极其廉价。",
+          "primary_url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+          "importance": 6,
+          "items": [
+            "3067d0fa888fe8f9"
+          ]
+        },
+        {
+          "headline": "专访星环科技孙元浩：将数据库“移民火星”",
+          "summary": "星环科技CEO谈企业级AI与数据库融合，推动AI原生数据处理。",
+          "primary_url": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "e2f239419b916016"
+          ],
+          "cover_path": "out/media/2026-07-21/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "月之暗面开源Kimi Code CLI编程Agent",
+          "summary": "Kimi Code CLI是终端AI编程代理，支持代码生成与调试。",
+          "primary_url": "https://github.com/MoonshotAI/kimi-cli",
+          "importance": 6,
+          "items": [
+            "954ee670419e1e28"
+          ],
+          "cover_path": "out/media/2026-07-21/opensource-00.jpg"
+        },
+        {
+          "headline": "KTransformers：异构LLM推理与微调框架",
+          "summary": "高效异构大模型推理/微调框架，降低部署门槛。",
+          "primary_url": "https://github.com/kvcache-ai/ktransformers",
+          "importance": 6,
+          "items": [
+            "593360da0086642a"
+          ],
+          "cover_path": "out/media/2026-07-21/opensource-01.jpg"
+        },
+        {
+          "headline": "Voicebox：开源AI语音工作室",
+          "summary": "开源语音克隆、听写与创作工具。",
+          "primary_url": "https://github.com/jamiepine/voicebox",
+          "importance": 5,
+          "items": [
+            "e641a58fd66ca6ff"
+          ]
+        },
+        {
+          "headline": "WrenAI：开源生成式BI让AI代理查询数据库",
+          "summary": "通过自然语言生成SQL看板，支撑AI代理自主数据分析。",
+          "primary_url": "https://github.com/Canner/WrenAI",
+          "importance": 5,
+          "items": [
+            "ec2b26297b8fe250"
+          ]
+        },
+        {
+          "headline": "GitHub Copilot SDK正式发布",
+          "summary": "多平台SDK用于集成GitHub Copilot Agent到应用与服务。",
+          "primary_url": "https://github.com/github/copilot-sdk",
+          "importance": 5,
+          "items": [
+            "10060b3e93d189c4"
+          ],
+          "cover_path": "out/media/2026-07-21/opensource-04.jpg"
+        },
+        {
+          "headline": "Ouroboros：Agent OS，用规范代替提示",
+          "summary": "开源Agent操作系统，通过规范而非提示词驱动AI行为。",
+          "primary_url": "https://github.com/Q00/ouroboros",
+          "importance": 5,
+          "items": [
+            "1ff6a3d7f228ca99"
+          ],
+          "cover_path": "out/media/2026-07-21/opensource-05.jpg"
+        },
+        {
+          "headline": "ComfyUI：最强扩散模型GUI后端",
+          "summary": "模块化AI内容生成界面，支持图节点工作流。",
+          "primary_url": "https://github.com/Comfy-Org/ComfyUI",
+          "importance": 5,
+          "items": [
+            "118639cf7094cd6a"
+          ],
+          "cover_path": "out/media/2026-07-21/opensource-06.jpg"
+        },
+        {
+          "headline": "code-review-graph：本地代码智能图优化AI审查",
+          "summary": "为AI工具建立代码库持久图，显著减少上下文并提升审查效率。",
+          "primary_url": "https://github.com/tirth8205/code-review-graph",
+          "importance": 5,
+          "items": [
+            "77ed349faf97af40"
+          ]
+        }
+      ]
+    }
+  ]
+}
