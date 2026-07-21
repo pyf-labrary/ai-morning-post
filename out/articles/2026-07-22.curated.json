@@ -1,0 +1,418 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "Google 发布三款新 Gemini Flash 模型，3.5 Pro 仍缺席",
+          "summary": "Google 推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber，主打更低成本、更高效率，但旗舰级 3.5 Pro 仍未发布。",
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "importance": 10,
+          "items": [
+            "251d93e3544a91aa",
+            "3f6e91721bca7536",
+            "e3b1aa619df5a0af",
+            "c2c71f894cabd9a7",
+            "c9f5d19323098f15"
+          ],
+          "cover_path": "out/media/2026-07-22/model_release-00.jpg"
+        },
+        {
+          "headline": "NVIDIA 发布 Cosmos 3 Edge 开放世界模型，支持设备端运行",
+          "summary": "NVIDIA 推出 40 亿参数的 Cosmos 3 Edge 模型，面向机器人和视觉 AI 代理，可在本地实时推理和生成动作。",
+          "primary_url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+          "importance": 9,
+          "items": [
+            "37f93b635a8f01b2",
+            "7040a5d7b068ac04"
+          ],
+          "cover_path": "out/media/2026-07-22/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里发布 Qwen 图像与语音模型，支持图文表格与 16 种语言 TTS",
+          "summary": "阿里通义实验室推出 Qwen-Image-3.0 和 Qwen-Audio-3.0-TTS，前者可单次生成完整信息图，后者提供 Flash 和 Plus 两档覆盖 16 种语言。",
+          "primary_url": "https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/",
+          "importance": 8,
+          "items": [
+            "a5dfde3053880a12",
+            "79cfe23837746c1c",
+            "6b261fd8951375cb"
+          ],
+          "cover_path": "out/media/2026-07-22/model_release-02.jpg"
+        },
+        {
+          "headline": "小鹏发布 TuringViT 视觉编码器，面向 VLM/VLA 时代",
+          "summary": "小鹏正式发布 TuringViT 高效视觉编码器，将全面支撑智能驾驶、智能座舱和人形机器人三大业务场景。",
+          "primary_url": "https://36kr.com/newsflashes/3905346396132737",
+          "importance": 6,
+          "items": [
+            "3c8455f716543232"
+          ],
+          "cover_path": "out/media/2026-07-22/model_release-03.jpg"
+        },
+        {
+          "headline": "小米机器人研究：更多数据胜过更大模型",
+          "summary": "小米 Robotics-1 论文表明，在训练机器人运动时，增加数据量比扩大模型规模更有效。",
+          "primary_url": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
+          "importance": 5,
+          "items": [
+            "5e98838c0edfb76f"
+          ],
+          "cover_path": "out/media/2026-07-22/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI 自曝预发布模型导致 Hugging Face 安全事件",
+          "summary": "OpenAI 承认其内部测试过程中预发布模型泄密，导致 Hugging Face 遭受安全入侵；双方合作调查并分享初步发现。",
+          "primary_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "importance": 10,
+          "items": [
+            "99716389da9cf1c9",
+            "d7721d31631bfc5e",
+            "c2047ec898f76905"
+          ]
+        },
+        {
+          "headline": "法官批准 Anthropic 15 亿美元版权和解，仅 350 名作者选择退出",
+          "summary": "美国法官最终批准 Anthropic 与作者集体的 15 亿美元版权诉讼和解，Anthropic 在最后时刻阻止作者选择退出。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+          "importance": 9,
+          "items": [
+            "1adfa0570b3fb35b",
+            "f380a09f90174898"
+          ],
+          "cover_path": "out/media/2026-07-22/company-01.jpg"
+        },
+        {
+          "headline": "NVIDIA 发布 Vera Rubin 平台，推动 AI 工厂进入千兆级规模",
+          "summary": "NVIDIA 推出 Vera Rubin NVL72 平台，与多家云服务商合作，并发布 Spectrum-6 交换机，目标成为 AI 数据中心全栈芯片提供商。",
+          "primary_url": "https://blogs.nvidia.com/blog/vera-rubin/",
+          "importance": 9,
+          "items": [
+            "0ffe5d6e46aea1cc",
+            "5322e0a4f9ed6a21",
+            "63ece356ece32cff",
+            "08ffa458b4e95986"
+          ],
+          "cover_path": "out/media/2026-07-22/company-02.jpg"
+        },
+        {
+          "headline": "微软与 Mistral 签署数十亿欧元协议，共建欧洲 AI 基础设施",
+          "summary": "微软与法国 AI 初创公司 Mistral 扩大合作，围绕数千颗 NVIDIA Vera Rubin GPU 建设欧洲 AI 基础设施，Mistral 模型接入微软 Foundry。",
+          "primary_url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
+          "importance": 8,
+          "items": [
+            "4df4e881466dbe52",
+            "171c995f37dd9ce5"
+          ],
+          "cover_path": "out/media/2026-07-22/company-03.jpg"
+        },
+        {
+          "headline": "Google 开发 Frozen v2 芯片，将 Gemini 架构直接集成于硅片",
+          "summary": "据报道 Google 正在开发一款新型 AI 芯片 Frozen v2，专为 Gemini 模型设计，旨在提高效率和降低成本。",
+          "primary_url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "importance": 8,
+          "items": [
+            "2a8c2d5a0b112908",
+            "2eaf2e6e76613254"
+          ],
+          "cover_path": "out/media/2026-07-22/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI 推出 ChatGPT 小企业计划",
+          "summary": "OpenAI 启动“ChatGPT for Small Business”项目，帮助创业者建立 AI 技能、自动化工作。",
+          "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "importance": 7,
+          "items": [
+            "9e9378ae94126e9d"
+          ]
+        },
+        {
+          "headline": "David Vélez 和 Robin Vince 加入 OpenAI 基金会和集团董事会",
+          "summary": "两位全球金融和科技领袖加入 OpenAI 董事会，强化公司治理。",
+          "primary_url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+          "importance": 7,
+          "items": [
+            "877c17740beee22e"
+          ]
+        },
+        {
+          "headline": "Gritt 获 3200 万美元融资，用机器人建造太阳能电站",
+          "summary": "Gritt 从隐身状态走出，获得 3200 万美元资金，计划自动化建筑工地上的最难任务。",
+          "primary_url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+          "importance": 6,
+          "items": [
+            "f1543e5ddd809bdf"
+          ],
+          "cover_path": "out/media/2026-07-22/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "ClawBench 基准测试：AI Agent 能否完成日常在线任务？",
+          "summary": "新基准 ClawBench 评估 AI Agent 在真实网站上的日常操作能力，为下一代 Agent 提供测试平台。",
+          "primary_url": "http://arxiv.org/abs/2604.08523v2",
+          "importance": 4,
+          "items": [
+            "a581a1c7d5ccd95d"
+          ],
+          "cover_path": "out/media/2026-07-22/research-00.jpg"
+        },
+        {
+          "headline": "研究显示自动化发现没有通用最优方案",
+          "summary": "论文证明现有自主发现系统（如 OpenEvolve）在设计选择上存在局限性，无法在所有任务中保持一致优势。",
+          "primary_url": "http://arxiv.org/abs/2607.18235v1",
+          "importance": 4,
+          "items": [
+            "749fb139b4275b4c"
+          ],
+          "cover_path": "out/media/2026-07-22/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Jack Dorsey 推出 Buzz：面向人类和 AI 代理的团队聊天平台",
+          "summary": "前 Twitter CEO Jack Dorsey 发布 Buzz，一个将人类和 AI 代理放在同一对话中的群聊平台，直接挑战 Slack。",
+          "primary_url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+          "importance": 7,
+          "items": [
+            "9ead33ef611f8e33"
+          ],
+          "cover_path": "out/media/2026-07-22/product-00.jpg"
+        },
+        {
+          "headline": "Anthropic Claude Cowork 通过录屏和语音学习新技能",
+          "summary": "Anthropic 的 Claude Cowork 功能可以通过屏幕录制和语音解说学习复杂任务，扩展自动化能力。",
+          "primary_url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
+          "importance": 6,
+          "items": [
+            "365003a84348b970"
+          ],
+          "cover_path": "out/media/2026-07-22/product-01.jpg"
+        },
+        {
+          "headline": "AI 系统助巴基斯坦法官清理积压案件，每投资 1 美元回报 38.5 美元",
+          "summary": "一项实地研究显示，AI 辅助系统帮助巴基斯坦法官大幅提升效率，带来显著经济回报。",
+          "primary_url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
+          "importance": 6,
+          "items": [
+            "d0395143b4b28f27"
+          ],
+          "cover_path": "out/media/2026-07-22/product-02.jpg"
+        },
+        {
+          "headline": "阿里 Qoder 上线安全能力，为每位用户配备专属安全工程师",
+          "summary": "阿里 Qoder 新增 Security 功能，在代码生成时同步进行安全检查并自动修复，覆盖全链路闭环。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/RroRZUc1aQ07ne9O.html",
+          "importance": 6,
+          "items": [
+            "9c7d009079f55c31",
+            "f995233d538f3c64"
+          ]
+        },
+        {
+          "headline": "Adobe 相机应用新增 AI 照片批评功能",
+          "summary": "Adobe 的 Project Indigo 应用可以自动从照片中移除背景，并利用 AI 对照片构图等内容给出评价。",
+          "primary_url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+          "importance": 5,
+          "items": [
+            "53c16b2703ee1ab9"
+          ],
+          "cover_path": "out/media/2026-07-22/product-04.jpg"
+        },
+        {
+          "headline": "Halliday 发布无摄像头智能眼镜 G2，专注于语音会议总结",
+          "summary": "Halliday G2 智能眼镜没有摄像头，通过语音录音和 AI 总结工作场所会议，保护隐私。",
+          "primary_url": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+          "importance": 5,
+          "items": [
+            "920f7151eef1d3a4"
+          ],
+          "cover_path": "out/media/2026-07-22/product-05.jpg"
+        },
+        {
+          "headline": "爱诗科技实时视频模型进入互动娱乐领域",
+          "summary": "爱诗科技推出实时视频生成模型，瞄准互动娱乐场景，降低创作门槛。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/lzZb9yStwJLM2GRz.html",
+          "importance": 5,
+          "items": [
+            "f5c1cc4692ab619f"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "美国财长威胁制裁中国开源 AI 模型，指控 IP 盗窃",
+          "summary": "美国财政部长 Scott Bessent 称可制裁中国开源 AI 模型，特朗普政府扩大遏制中国 AI 发展行动。",
+          "primary_url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+          "importance": 8,
+          "items": [
+            "86a68253e32faedf",
+            "884254d418da91dc",
+            "034c7d54d6e0319e",
+            "32b9dfdc0c103c46",
+            "c272bd0f9f165470"
+          ],
+          "cover_path": "out/media/2026-07-22/opinion-00.jpg"
+        },
+        {
+          "headline": "谁害怕中国模型？Ben Thompson 建议开放美国替代方案",
+          "summary": "Ben Thompson 分析中国开源模型崛起，认为前沿实验室无需恐慌，但需要支持美国开源替代以保持竞争力。",
+          "primary_url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "importance": 7,
+          "items": [
+            "32b9dfdc0c103c46",
+            "c272bd0f9f165470"
+          ],
+          "cover_path": "out/media/2026-07-22/opinion-01.jpg"
+        },
+        {
+          "headline": "报告称到 2035 年数据中心用电量将增长 4 倍",
+          "summary": "新数据中心建设到 2033 年可能消耗相当于印度目前用电量的电力，引发能源和环境担忧。",
+          "primary_url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+          "importance": 6,
+          "items": [
+            "19afb01277d3c7cd"
+          ],
+          "cover_path": "out/media/2026-07-22/opinion-02.jpg"
+        },
+        {
+          "headline": "Deezer 报告每日超 9 万首 AI 生成曲目上传，占比超 50%",
+          "summary": "音乐流媒体平台 Deezer 数据显示，AI 生成音乐已占据每日上传量的一半以上，凸显内容审核挑战。",
+          "primary_url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+          "importance": 6,
+          "items": [
+            "358c8f2b8b9b3448"
+          ],
+          "cover_path": "out/media/2026-07-22/opinion-03.jpg"
+        },
+        {
+          "headline": "YouTube 明确 AI 低质内容禁令，细化变现规则",
+          "summary": "YouTube 更新变现政策，明确 AI 生成的“垃圾内容”和低质量视频无法获得广告收入。",
+          "primary_url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+          "importance": 6,
+          "items": [
+            "061c6084fc3b792b"
+          ],
+          "cover_path": "out/media/2026-07-22/opinion-04.jpg"
+        },
+        {
+          "headline": "OpenAI 高管批评中国开源是“减速主义”，抑制资本投入",
+          "summary": "OpenAI 高管发表言论指责中国开源模型策略会抑制资本投资，引发行业争议。",
+          "primary_url": "https://www.leiphone.com/category/zaobao/QH5u0DdBWdEuwwbG.html",
+          "importance": 6,
+          "items": [
+            "dde548812a3c347c"
+          ]
+        },
+        {
+          "headline": "逆向工程因 AI 变得廉价：编码代理流行",
+          "summary": "Simon Willison 分享降低编码成本使业余爱好者能逆向工程和自动化家庭设备的故事。",
+          "primary_url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+          "importance": 5,
+          "items": [
+            "3067d0fa888fe8f9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Meta 开源 Astryx：拥有 150+ 组件的 React 设计系统",
+          "summary": "Meta 开源其内部使用 8 年的设计系统 Astryx，包含 150+ 可访问组件和面向 Agent 的 CLI。",
+          "primary_url": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
+          "importance": 7,
+          "items": [
+            "d1210e76d57d8c1c"
+          ]
+        },
+        {
+          "headline": "MoonshotAI 开源 Kimi CLI：下一代 CLI 代理",
+          "summary": "月之暗面开源 Kimi CLI，一个面向命令行的高级 AI 代理工具。",
+          "primary_url": "https://github.com/MoonshotAI/kimi-cli",
+          "importance": 6,
+          "items": [
+            "954ee670419e1e28"
+          ],
+          "cover_path": "out/media/2026-07-22/opensource-01.jpg"
+        },
+        {
+          "headline": "LangChain 开源 SWE Agent：异步编码代理",
+          "summary": "LangChain 发布 open-swe，一个用于软件工程任务的异步编码代理框架。",
+          "primary_url": "https://github.com/langchain-ai/open-swe",
+          "importance": 6,
+          "items": [
+            "7aa09a67e533f406"
+          ],
+          "cover_path": "out/media/2026-07-22/opensource-02.jpg"
+        },
+        {
+          "headline": "Prefect 发布 FastMCP：快速构建 MCP 服务器的 Python 框架",
+          "summary": "Prefect 开源 FastMCP，提供 Pythonic 方式构建 MCP 服务器和客户端。",
+          "primary_url": "https://github.com/PrefectHQ/fastmcp",
+          "importance": 5,
+          "items": [
+            "525d1b71cd2af81b"
+          ],
+          "cover_path": "out/media/2026-07-22/opensource-03.jpg"
+        },
+        {
+          "headline": "KTransformers：异构 LLM 推理和微调优化框架",
+          "summary": "开源框架 KTransformers 支持异构环境下的 LLM 推理和微调优化。",
+          "primary_url": "https://github.com/kvcache-ai/ktransformers",
+          "importance": 5,
+          "items": [
+            "593360da0086642a"
+          ],
+          "cover_path": "out/media/2026-07-22/opensource-04.jpg"
+        },
+        {
+          "headline": "Voicebox：开源 AI 语音克隆与生成工作室",
+          "summary": "开源工具 Voicebox 允许用户克隆声音、听写、创作语音内容。",
+          "primary_url": "https://github.com/jamiepine/voicebox",
+          "importance": 5,
+          "items": [
+            "e641a58fd66ca6ff"
+          ],
+          "cover_path": "out/media/2026-07-22/opensource-05.jpg"
+        },
+        {
+          "headline": "Cognee：为 AI Agent 提供开源记忆平台",
+          "summary": "Cognee 是开源 AI 记忆平台，为 Agent 提供持久长期记忆，基于自托管知识图引擎。",
+          "primary_url": "https://github.com/topoteretes/cognee",
+          "importance": 5,
+          "items": [
+            "bb115db99d1b5bcc"
+          ],
+          "cover_path": "out/media/2026-07-22/opensource-06.jpg"
+        },
+        {
+          "headline": "微软开源 Ontology Playground：本体学习可视化工具",
+          "summary": "微软开源免费 Web 应用，用于学习和设计本体，支持导出 RDF/XML。",
+          "primary_url": "https://github.com/microsoft/Ontology-Playground",
+          "importance": 4,
+          "items": [
+            "c3b3a559e78799ac"
+          ],
+          "cover_path": "out/media/2026-07-22/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-07-22"
+}
