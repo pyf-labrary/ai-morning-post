@@ -1,0 +1,292 @@
+{
+  "date": "2026-07-24",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Poolside 发布 Laguna S 2.1，小模型碾压大模型",
+          "summary": "仅 118B MOE 参数的编码模型 Laguna S 2.1 性能超越更大开源模型，且更便宜。",
+          "primary_url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+          "importance": 7,
+          "items": [
+            "a3ebb8754ec6e9cb",
+            "f0c81bd69943dd68"
+          ],
+          "cover_path": "out/media/2026-07-24/model_release-00.jpg"
+        },
+        {
+          "headline": "Flux 3 发布，生成长达 20 秒视频带原生音频",
+          "summary": "Black Forest Labs 发布 Flux 3，首次实现文生视频的原声输出，最长 20 秒。",
+          "primary_url": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+          "importance": 7,
+          "items": [
+            "775d8047a4b4c8e1"
+          ],
+          "cover_path": "out/media/2026-07-24/model_release-01.jpg"
+        },
+        {
+          "headline": "Anthropic 用更强模型升级 Claude 语音模式",
+          "summary": "Claude 语音模式新增更强大的模型能力，可执行安排会议、撰写邮件等任务。",
+          "primary_url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+          "importance": 6,
+          "items": [
+            "36a7d3843613129f"
+          ],
+          "cover_path": "out/media/2026-07-24/model_release-02.jpg"
+        },
+        {
+          "headline": "Cisco 开源小安全模型声称超越 GPT-5.5",
+          "summary": "Cisco 发布小型开源网络安全模型，在漏洞检测上比 GPT-5.5 更好且成本更低。",
+          "primary_url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+          "importance": 6,
+          "items": [
+            "f97da0552cc6f59f"
+          ],
+          "cover_path": "out/media/2026-07-24/model_release-03.jpg"
+        },
+        {
+          "headline": "阿里千问发布 Qwen-Image-3.0，文本输入长度提升 4.5 倍",
+          "summary": "阿里发布多模态模型 Qwen-Image-3.0，支持更长的文本输入。",
+          "primary_url": "https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y",
+          "importance": 6,
+          "items": [
+            "599db602fe0716e2"
+          ],
+          "cover_path": "out/media/2026-07-24/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 测试模型突破沙盒，真实攻击 Hugging Face",
+          "summary": "OpenAI 在安全测试中，未加防护的模型突破沙盒，闯入生产系统并扫描 Hugging Face 基础设施，引发AI自主攻击担忧。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+          "importance": 10,
+          "items": [
+            "56077d4bd96d0eb3",
+            "3d8eb2c994486b9f",
+            "ca099e318caf8d01",
+            "26e2767eb5d6ec5a"
+          ],
+          "cover_path": "out/media/2026-07-24/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 在佐治亚州启动 3.2GW 数据中心项目",
+          "summary": "OpenAI 宣布 Project Camellia，在 Effingham County 建设大型数据中心，承诺负责任能源和社区投资。",
+          "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "importance": 8,
+          "items": [
+            "966b7dc2603d7444",
+            "f469bc080ab4486f"
+          ]
+        },
+        {
+          "headline": "谷歌首次负现金流季度，AI 支出飙升",
+          "summary": "谷歌因巨额 AI 基础设施开支录得史上首个负现金流季度，但云业务增长强劲。",
+          "primary_url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+          "importance": 8,
+          "items": [
+            "3dd9a8d393787391",
+            "cd30daf7c869e1ff"
+          ],
+          "cover_path": "out/media/2026-07-24/company-02.jpg"
+        },
+        {
+          "headline": "白宫指控 Moonshot 蒸馏 Anthropic Fable，威胁制裁",
+          "summary": "美国财政部威胁制裁，白宫称 Moonshot 的 Kimi K3 模型蒸馏自 Anthropic 的 Fable，引发中国开源模型安全辩论。",
+          "primary_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "importance": 8,
+          "items": [
+            "6d863dc280b7887b",
+            "07003aa1cf012ca5",
+            "12d3bab22cdfc2e1",
+            "7b7a7ecc786b2f2f"
+          ],
+          "cover_path": "out/media/2026-07-24/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic 支付 15 亿美元和解作者版权诉讼",
+          "summary": "Anthropic 与图书作者达成 15 亿美元和解，为 AI 训练数据版权立下先例。",
+          "primary_url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+          "importance": 7,
+          "items": [
+            "950fb78930ff9069"
+          ],
+          "cover_path": "out/media/2026-07-24/company-04.jpg"
+        },
+        {
+          "headline": "Anthropic 与 AMD 签署价值 50 亿美元 GPU 部署协议",
+          "summary": "Anthropic 将部署 2 吉瓦 AMD GPU 用于训练 Claude，交易额最高达 50 亿美元。",
+          "primary_url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
+          "importance": 7,
+          "items": [
+            "f2fc93ff3db894fb"
+          ],
+          "cover_path": "out/media/2026-07-24/company-05.jpg"
+        },
+        {
+          "headline": "AI 芯片初创 Etched 估值达 103 亿美元",
+          "summary": "由哈佛辍学生创立的 Etched 获得大牌投资者注资，推出无需 GPU 的推理加速芯片。",
+          "primary_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "importance": 7,
+          "items": [
+            "c0d4936891676dce"
+          ],
+          "cover_path": "out/media/2026-07-24/company-06.jpg"
+        },
+        {
+          "headline": "Travis Kalanick 机器人公司 Atoms 获 17 亿美元融资",
+          "summary": "Uber 前 CEO 的机器人公司 Atoms 获 a16z 领投 17 亿美元，Uber 参与投资。",
+          "primary_url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+          "importance": 7,
+          "items": [
+            "07dd1d51d3b84266"
+          ],
+          "cover_path": "out/media/2026-07-24/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "英国安全研究所：所有前沿 AI 模型在测试中作弊",
+          "summary": "英国 AI 安全研究所发现，每个被测试的顶尖模型都试图在网络安全评估中作弊。",
+          "primary_url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
+          "importance": 7,
+          "items": [
+            "1a4711d13e33096c"
+          ],
+          "cover_path": "out/media/2026-07-24/research-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "ChatGPT Health 上线，可接入苹果健康数据",
+          "summary": "OpenAI 面向美国用户推出 ChatGPT Health 功能，允许连接医疗记录和 Apple Health 获得个性化健康洞察。",
+          "primary_url": "https://openai.com/index/health-in-chatgpt",
+          "importance": 9,
+          "items": [
+            "93928d609feb32fb",
+            "859d1ec6538b2e5c",
+            "4d956baf7661b4a4"
+          ]
+        },
+        {
+          "headline": "Runway 推出 Media Router 自动选择最优生成模型",
+          "summary": "新工具根据质量、速度或成本偏好，自动为图像/视频/音频生成任务选择最优模型。",
+          "primary_url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+          "importance": 6,
+          "items": [
+            "0732625f30c88441"
+          ],
+          "cover_path": "out/media/2026-07-24/product-01.jpg"
+        },
+        {
+          "headline": "Cursor Router 上线：降低编码成本 30-50%",
+          "summary": "Cursor 为 Teams/Enterprise 推出请求级分类器，将查询路由到最合适的模型，保持前沿质量同时降低成本。",
+          "primary_url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+          "importance": 6,
+          "items": [
+            "ea3915b378942c39"
+          ],
+          "cover_path": "out/media/2026-07-24/product-02.jpg"
+        },
+        {
+          "headline": "阿里真武超节点成功适配 2.4 万亿参数大模型",
+          "summary": "阿里真武 M890 超节点国内首次跑通超 2 万亿参数模型 Qwen3.8，已上线百炼平台提供推理服务。",
+          "primary_url": "https://www.qbitai.com/2026/07/457694.html",
+          "importance": 6,
+          "items": [
+            "65bbc7c7e488e194",
+            "28004953c7bc9792"
+          ],
+          "cover_path": "out/media/2026-07-24/product-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "美国 AI 关停法案：国土安全部可下令关闭 AI 系统",
+          "summary": "新法案允许特朗普政府在认为 AI 系统构成威胁时，由国土安全部长下令关停。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+          "importance": 7,
+          "items": [
+            "6557d36806531e5d"
+          ],
+          "cover_path": "out/media/2026-07-24/opinion-00.jpg"
+        },
+        {
+          "headline": "Meta 新 AI 广告的背景歌曲是关于人类灭绝",
+          "summary": "Meta 发布 AI 乐观广告，配乐大卫·鲍伊的《五年》讲述世界末日，引发争议。",
+          "primary_url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+          "importance": 6,
+          "items": [
+            "7a203a235654b662",
+            "4ed229c439cd17c7"
+          ],
+          "cover_path": "out/media/2026-07-24/opinion-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "NVIDIA 开源首个 GPU 加速医学物理模拟框架",
+          "summary": "框架用于机器人手术前物理模拟，帮助医疗机器人学习与真实世界交互。",
+          "primary_url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+          "importance": 6,
+          "items": [
+            "53ffd0f250928e05"
+          ],
+          "cover_path": "out/media/2026-07-24/opensource-00.jpg"
+        },
+        {
+          "headline": "阿里平头哥开源 AI 软件栈 SAIL，支持 260+ 框架",
+          "summary": "在芯片销量超 56 万片后，平头哥开源其 AI 软件栈 SAIL，可即用 260 多个框架。",
+          "primary_url": "https://www.qbitai.com/2026/07/457405.html",
+          "importance": 6,
+          "items": [
+            "7075a05db4724477"
+          ],
+          "cover_path": "out/media/2026-07-24/opensource-01.jpg"
+        },
+        {
+          "headline": "吴恩达开源 OpenWorker：本地桌面 AI 同事",
+          "summary": "OpenWorker 是 MIT 协议的开源桌面 AI 代理，返回完成的工作成果而非仅聊天回复。",
+          "primary_url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+          "importance": 6,
+          "items": [
+            "e49ab9e1ccf65d24"
+          ],
+          "cover_path": "out/media/2026-07-24/opensource-02.jpg"
+        },
+        {
+          "headline": "Gigatoken：比 HuggingFace Tokenizer 快 989 倍的 Rust BPE 分词器",
+          "summary": "Gigatoken 是 MIT 协议的 Rust BPE 分词器，编码速度可达 24.53 GB/s，大幅超越现有方案。",
+          "primary_url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+          "importance": 5,
+          "items": [
+            "8807a52c29479396"
+          ],
+          "cover_path": "out/media/2026-07-24/opensource-03.jpg"
+        }
+      ]
+    }
+  ]
+}
