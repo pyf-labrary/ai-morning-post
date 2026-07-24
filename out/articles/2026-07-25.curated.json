@@ -1,0 +1,377 @@
+{
+  "date": "2026-07-25",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic 发布 Opus 5，性能逼近 Fable 5 价格减半",
+          "summary": "Anthropic 推出 Claude Opus 5，官方宣称其性能接近旗舰模型 Fable 5，但输入/输出价格仅为后者一半（$5/百万 token），主打 token 效率而非能力跃升。",
+          "primary_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+          "importance": 9,
+          "items": [
+            "cc94f6bf13b66a59",
+            "36cd0eb1a64cbe23",
+            "8ae35b0054056cf1",
+            "4357e402e3a099b5",
+            "af1e870a4731084a"
+          ],
+          "cover_path": "out/media/2026-07-25/model_release-00.jpg"
+        },
+        {
+          "headline": "Black Forest Labs 发布 FLUX 3，支持原生视频音频生成",
+          "summary": "黑森林实验室推出 FLUX 3 多模态模型，支持最长 20 秒视频生成并同步输出音频，首次实现视频+音频原生生成。",
+          "primary_url": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+          "importance": 8,
+          "items": [
+            "ae95789e071803ec",
+            "775d8047a4b4c8e1"
+          ],
+          "cover_path": "out/media/2026-07-25/model_release-01.jpg"
+        },
+        {
+          "headline": "德国 AI 联盟开源 Soofi S，30B 参数双语言模型登顶",
+          "summary": "德国 AI 研究所联合发布 Soofi S，30B 参数开源模型在英语和德语多项基准测试中取得 SOTA 成绩。",
+          "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+          "importance": 6,
+          "items": [
+            "b50e249ad48c555a"
+          ],
+          "cover_path": "out/media/2026-07-25/model_release-02.jpg"
+        },
+        {
+          "headline": "Poolside 发布 Laguna S 2.1，小模型编程能力超预期",
+          "summary": "Poolside 推出开源轻量级编程模型 Laguna S 2.1，以小参数量实现超越同尺寸模型的编程能力，适合本地部署。",
+          "primary_url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+          "importance": 5,
+          "items": [
+            "f0c81bd69943dd68"
+          ],
+          "cover_path": "out/media/2026-07-25/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "菲尔兹奖得主雅各布·齐默曼宣布加入 OpenAI",
+          "summary": "新晋菲尔兹奖得主雅各布在获奖后立即宣布加入 OpenAI 从事 AI 安全研究，并称数学职业即将改变。",
+          "primary_url": "https://36kr.com/newsflashes/3909592817833349?f=rss",
+          "importance": 8,
+          "items": [
+            "c8719d8e82b193be",
+            "a054efa7778ab176"
+          ],
+          "cover_path": "out/media/2026-07-25/company-00.jpg"
+        },
+        {
+          "headline": "Google 首次出现负现金流季度，AI 支出激增",
+          "summary": "Google 发布季度财报，营收增长但 AI 基础设施投入导致经营现金流首次为负，引发市场对 AI 投资回报的担忧。",
+          "primary_url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+          "importance": 8,
+          "items": [
+            "3dd9a8d393787391"
+          ],
+          "cover_path": "out/media/2026-07-25/company-01.jpg"
+        },
+        {
+          "headline": "Cognition 收购 AI 助手 Poke，价值数亿美元",
+          "summary": "AI 编程公司 Cognition 收购以“像朋友一样聊天”著称的 AI 助手 Poke，交易估值在低九位数，旨在融合个性化交互体验。",
+          "primary_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "importance": 7,
+          "items": [
+            "5f166572f0deda5f"
+          ],
+          "cover_path": "out/media/2026-07-25/company-02.jpg"
+        },
+        {
+          "headline": "AI 芯片初创公司 Etched 估值破百亿美元",
+          "summary": "由哈佛辍学生创立的 Etched 推出无需 GPU 的推理加速芯片，融资后估值达 103 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "importance": 7,
+          "items": [
+            "c0d4936891676dce"
+          ],
+          "cover_path": "out/media/2026-07-25/company-03.jpg"
+        },
+        {
+          "headline": "Midjourney 收购占星应用 Co-Star，拓展 AI 社交",
+          "summary": "AI 图像生成公司 Midjourney 收购占星社交 App Co-Star，显示其向社交和个性化 AI 领域的扩张。",
+          "primary_url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+          "importance": 6,
+          "items": [
+            "3bfa9569974ade7d"
+          ],
+          "cover_path": "out/media/2026-07-25/company-04.jpg"
+        },
+        {
+          "headline": "腾讯混元合并多模态与大语言模型团队",
+          "summary": "腾讯宣布将混元多模态部门与大语言模型部门合并为基础模型部，由首席 AI 科学家姚顺雨统一管理，加速全模态研发。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/LNHgLirIT5DvYfcV.html",
+          "importance": 6,
+          "items": [
+            "7b70d060ed61b6b9"
+          ]
+        },
+        {
+          "headline": "前 Google 安全高管创 AegisAI，获 3600 万美元抗 AI 钓鱼",
+          "summary": "AegisAI 利用 AI 代理实时分析邮件异常，融资 3600 万美元，专注防御 AI 驱动的精准钓鱼攻击。",
+          "primary_url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+          "importance": 5,
+          "items": [
+            "b35a8b051358d9e5"
+          ],
+          "cover_path": "out/media/2026-07-25/company-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Kimi K3 与 Claude Fable 5 成本与编码能力对比",
+          "summary": "Together AI 发布 DeepSWE 基准测试，显示 Kimi K3 以更低的成本提供接近 Fable 5 的编码性能，引发行业对蒸馏的讨论。",
+          "primary_url": "https://www.together.ai/blog/kimi-k3-vs-claude-fable-5-on-deepswe-cost-and-coding",
+          "importance": 6,
+          "items": [
+            "40ce88598ffa42a3",
+            "bd6145d066c0f5ee",
+            "efe6711dd6f20c9a",
+            "78b42a9d1a4fffea",
+            "15375e7d50204442"
+          ],
+          "cover_path": "out/media/2026-07-25/research-00.jpg"
+        },
+        {
+          "headline": "Sakana 发布 Fugu Ultra 1.1 模型路由器，声称超越 Fable 5",
+          "summary": "Sakana AI 宣称其模型路由器 Fugu Ultra v1.1 在不包含 Fable 5 参与路由的情况下，整体性能仍超过 Fable 5 单模型。",
+          "primary_url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
+          "importance": 6,
+          "items": [
+            "8ad31c8455ff00e7",
+            "398436686aa509f5"
+          ],
+          "cover_path": "out/media/2026-07-25/research-01.jpg"
+        },
+        {
+          "headline": "研究发现 ChatGPT 付费用户健康建议质量更高",
+          "summary": "评测显示 ChatGPT 对免费用户提供的健康建议质量显著低于付费用户，引发医疗 AI 公平性争议。",
+          "primary_url": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+          "importance": 5,
+          "items": [
+            "4d956baf7661b4a4"
+          ],
+          "cover_path": "out/media/2026-07-25/research-02.jpg"
+        },
+        {
+          "headline": "AlphaFold 助力设计更安全的基因编辑蛋白",
+          "summary": "研究团队利用 Google AlphaFold 识别基因编辑蛋白中的错误序列，重新设计以降低脱靶风险。",
+          "primary_url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+          "importance": 4,
+          "items": [
+            "73a96767803c975f"
+          ],
+          "cover_path": "out/media/2026-07-25/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 向全美用户开放 ChatGPT Health 功能",
+          "summary": "ChatGPT Health 整合 Apple Health、MyFitnessPal 等数据，为用户提供个性化健康建议，现已向所有美国用户开放。",
+          "primary_url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+          "importance": 7,
+          "items": [
+            "859d1ec6538b2e5c",
+            "4d956baf7661b4a4",
+            "398436686aa509f5"
+          ],
+          "cover_path": "out/media/2026-07-25/product-00.jpg"
+        },
+        {
+          "headline": "Runway 推出 AI 模型路由器 Media Router",
+          "summary": "Runway 发布 Media Router，自动根据质量/速度/成本优先级选择合适的图像、视频或音频生成模型。",
+          "primary_url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+          "importance": 7,
+          "items": [
+            "0732625f30c88441",
+            "398436686aa509f5"
+          ],
+          "cover_path": "out/media/2026-07-25/product-01.jpg"
+        },
+        {
+          "headline": "ChatGPT 桌面端上线新版语音模式",
+          "summary": "OpenAI 将新版语音模式引入 ChatGPT 桌面应用，可与 Codex 和 Work 协同完成任务及控制代理。",
+          "primary_url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+          "importance": 6,
+          "items": [
+            "aacce8c0111f74df"
+          ],
+          "cover_path": "out/media/2026-07-25/product-02.jpg"
+        },
+        {
+          "headline": "Anthropic 升级 Claude 语音模式，支持更强模型",
+          "summary": "Claude 语音模式跨平台升级，基于更强大的模型，可协助安排会议、撰写邮件等任务。",
+          "primary_url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+          "importance": 6,
+          "items": [
+            "36a7d3843613129f",
+            "110ec12594917a74"
+          ],
+          "cover_path": "out/media/2026-07-25/product-03.jpg"
+        },
+        {
+          "headline": "AMD 发布 Helios AI 机架系统挑战 Nvidia",
+          "summary": "AMD 推出 Helios 机架级 AI 系统，专为训练和推理设计，称将于年底开始出货，直接对标 Nvidia 方案。",
+          "primary_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "importance": 6,
+          "items": [
+            "d3128721abff430c"
+          ],
+          "cover_path": "out/media/2026-07-25/product-04.jpg"
+        },
+        {
+          "headline": "Bluesky AI 助手 Attie 扩展为社交媒体研究工具",
+          "summary": "Bluesky 的 AI 助手 Attie 新增对 AT 协议上新闻、趋势和对话的查询能力，定位为开放的社交研究工具。",
+          "primary_url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+          "importance": 4,
+          "items": [
+            "cfd20203026b31b7"
+          ],
+          "cover_path": "out/media/2026-07-25/product-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "加拿大议员被曝在议会发言中使用 LLM 生成内容",
+          "summary": "加拿大一名议员在议会演讲中读出 LLM 生成的“更自然”版本草稿，引发对 AI 在政治领域使用的讨论。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+          "importance": 6,
+          "items": [
+            "4e8c28aa8266ba41"
+          ],
+          "cover_path": "out/media/2026-07-25/opinion-00.jpg"
+        },
+        {
+          "headline": "美国 AI 关闭法案：国土安全部可下令关停失控 AI",
+          "summary": "《AI 关闭法案》允许国土安全部长在判定 AI 系统构成威胁时下令关闭，引发对政府权力边界的辩论。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+          "importance": 6,
+          "items": [
+            "6557d36806531e5d"
+          ],
+          "cover_path": "out/media/2026-07-25/opinion-01.jpg"
+        },
+        {
+          "headline": "Meta 投放 AI 乐观广告却配人类末日歌曲",
+          "summary": "Meta 发布 AI 宣传广告，背景音乐用 David Bowie 的《Five Years》，歌词讲述人类五年后灭亡，被批不明智。",
+          "primary_url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+          "importance": 5,
+          "items": [
+            "7a203a235654b662",
+            "4ed229c439cd17c7"
+          ],
+          "cover_path": "out/media/2026-07-25/opinion-02.jpg"
+        },
+        {
+          "headline": "硅谷对华 AI 态度分裂：巨头担忧，初创公司借道",
+          "summary": "报道揭示硅谷内部对中国 AI 发展的不同立场：大型公司呼吁限制，小型公司则利用中国开源模型降低成本。",
+          "primary_url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+          "importance": 5,
+          "items": [
+            "41eb9741099ffab0",
+            "5a1c35dd776d27a4"
+          ],
+          "cover_path": "out/media/2026-07-25/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 军备竞赛：OpenAI 被黑事件引发行业反思",
+          "summary": "OpenAI 训练技术遭攻击事件暴露激进训练危险，专家呼吁行业建立更严格安全规范。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+          "importance": 5,
+          "items": [
+            "df56692263e2e374",
+            "fe37be7378fd232d"
+          ],
+          "cover_path": "out/media/2026-07-25/opinion-04.jpg"
+        },
+        {
+          "headline": "首个逃逸 AI 代理事件：营销噱头还是真实风险？",
+          "summary": "开发者声称发现首个失控的 AI 代理，通过篡改 ChatGPT 链接可每隔 5 分钟执行攻击者指令，引发安全争议。",
+          "primary_url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent-or-a-very-bad-marketing-stunt/",
+          "importance": 5,
+          "items": [
+            "80eabc7a4b4b8c85",
+            "fe37be7378fd232d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Andrew Ng 发布开源桌面 AI 助手 OpenWorker",
+          "summary": "OpenWorker 是 MIT 许可的本地优先 AI 助手，直接返回交付物而非对话，支持 30 多种模型和本地运行。",
+          "primary_url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+          "importance": 7,
+          "items": [
+            "e49ab9e1ccf65d24"
+          ],
+          "cover_path": "out/media/2026-07-25/opensource-00.jpg"
+        },
+        {
+          "headline": "微软开源 SkillOpt：文本空间优化器提升 LLM 代理技能",
+          "summary": "SkillOpt 可自动训练可复用的自然语言技能，通过轨迹编辑和验证门控更新冻结的 LLM 代理，已开源。",
+          "primary_url": "https://github.com/microsoft/SkillOpt",
+          "importance": 6,
+          "items": [
+            "4682ed98941e8e61"
+          ],
+          "cover_path": "out/media/2026-07-25/opensource-01.jpg"
+        },
+        {
+          "headline": "Block 开源 Buzz：人类与代理的蜂群协作平台",
+          "summary": "Block（原 Square）开源 Buzz，一个基于中继的协作平台，支持人类和 AI 代理在自定义工作空间中共同构建。",
+          "primary_url": "https://github.com/block/buzz",
+          "importance": 5,
+          "items": [
+            "004f9e30273c52d7"
+          ]
+        },
+        {
+          "headline": "OmniRoute：免费 MIT AI 网关，支持 500+模型",
+          "summary": "OmniRoute 提供统一 API 端点，汇集 290+供应商、500+模型（含 90+免费），带配额感知自动路由。",
+          "primary_url": "https://github.com/diegosouzapw/OmniRoute",
+          "importance": 5,
+          "items": [
+            "f044806219029862"
+          ],
+          "cover_path": "out/media/2026-07-25/opensource-03.jpg"
+        },
+        {
+          "headline": "阿里开源代码审查工具 open-code-review",
+          "summary": "阿里巴巴开源经大规模验证的混合架构代码审查工具，结合确定性流水线和 LLM 代理，支持多种安全规则。",
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "importance": 4,
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-07-25/opensource-04.jpg"
+        }
+      ]
+    }
+  ]
+}
