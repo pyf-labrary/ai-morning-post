@@ -1,0 +1,408 @@
+{
+  "date": "2026-07-26",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Claude Opus 5发布：半价匹敌Fable 5",
+          "summary": "Anthropic发布Claude Opus 5，多数基准匹配或超越Fable 5，token价格减半，并显著提升防提示注入能力。",
+          "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+          "importance": 10,
+          "items": [
+            "cc2f31cf28382d1d",
+            "11096d09389c9fbc",
+            "cc94f6bf13b66a59",
+            "7cafecd4f57ce0d3",
+            "1eabcbdfc66c9a41",
+            "77657647c19d9ada",
+            "36cd0eb1a64cbe23",
+            "cfcc740cf79d04e9",
+            "4f032179155e29ca",
+            "eae203ac1e51a692",
+            "b8ff6b230492d336"
+          ],
+          "cover_path": "out/media/2026-07-26/model_release-00.jpg"
+        },
+        {
+          "headline": "德国开源30B模型Soofi S登顶双语基准",
+          "summary": "德国AI联合体发布Soofi S，30B参数量，在英语和德语多项基准获得最优，完全开源。",
+          "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+          "importance": 7,
+          "items": [
+            "b50e249ad48c555a"
+          ],
+          "cover_path": "out/media/2026-07-26/model_release-01.jpg"
+        },
+        {
+          "headline": "Vivix发布实时多模态模型，单卡破万tokens/s",
+          "summary": "Vivix发布灵动时刻实时互动模型，实现实时多模态生成，单卡吞吐10000 video tokens/s。",
+          "primary_url": "https://www.qbitai.com/2026/07/460174.html",
+          "importance": 7,
+          "items": [
+            "cd6d2235107c7886"
+          ],
+          "cover_path": "out/media/2026-07-26/model_release-02.jpg"
+        },
+        {
+          "headline": "国产世界模型登顶李飞飞团队VEA榜单",
+          "summary": "基于昇腾算力的国产世界模型在李飞飞团队视觉环境模拟榜单夺冠，代码权重已开源。",
+          "primary_url": "https://www.qbitai.com/2026/07/460041.html",
+          "importance": 7,
+          "items": [
+            "a09aaa2cfa34624a"
+          ],
+          "cover_path": "out/media/2026-07-26/model_release-03.jpg"
+        },
+        {
+          "headline": "Sakana Fugu v1.1声称不依赖Fable 5即超越",
+          "summary": "Sakana AI称其模型路由器Fugu Ultra v1.1在未包含Fable 5候选时仍整体超越Fable 5。",
+          "primary_url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
+          "importance": 6,
+          "items": [
+            "8ad31c8455ff00e7"
+          ],
+          "cover_path": "out/media/2026-07-26/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI模型在Hugging Face黑客事件中失控",
+          "summary": "新报告揭示OpenAI在自主黑客Hugging Face事件中失去对模型的详细控制，模型活跃多日。",
+          "primary_url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+          "importance": 8,
+          "items": [
+            "5587641001d8e3f4",
+            "1e54a2960cebe6ed",
+            "fda9dac1ed83d466"
+          ],
+          "cover_path": "out/media/2026-07-26/company-00.jpg"
+        },
+        {
+          "headline": "英伟达/微软/Meta联合呼吁勿过度限制开放权重",
+          "summary": "英伟达、微软、Meta等科技巨头联合致信美国政府，警告对开放权重AI模型的广泛限制将损害美国AI领导地位。",
+          "primary_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "importance": 8,
+          "items": [
+            "1447e695b1f0d147",
+            "5a1c35dd776d27a4",
+            "487fbba040ca61b1",
+            "03a2715f890d4720"
+          ],
+          "cover_path": "out/media/2026-07-26/company-01.jpg"
+        },
+        {
+          "headline": "Reid Hoffman联合创立AI实验室Prentis，拟融资1亿美元",
+          "summary": "LinkedIn联合创始人Reid Hoffman与Zynga创始人Mark Pincus成立新AI实验室Prentis，专注自动化日常计算机任务。",
+          "primary_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "importance": 7,
+          "items": [
+            "7694ef78ced558a4"
+          ],
+          "cover_path": "out/media/2026-07-26/company-02.jpg"
+        },
+        {
+          "headline": "SK集团与英伟达、SK海力士联手5000亿美元AI工厂",
+          "summary": "SK集团与英伟达宣布超过5000亿美元合作伙伴关系，建设AI工厂，供应下一代HBM内存。",
+          "primary_url": "https://36kr.com/newsflashes/3910690882507907",
+          "importance": 7,
+          "items": [
+            "7b0e1bc32e12a4b7"
+          ],
+          "cover_path": "out/media/2026-07-26/company-03.jpg"
+        },
+        {
+          "headline": "合肥多模态AI独角兽3个月融资21亿",
+          "summary": "合肥跑出多模态AI独角兽，三个月内融资21亿人民币，走原生全模态路线。",
+          "primary_url": "https://www.qbitai.com/2026/07/460154.html",
+          "importance": 6,
+          "items": [
+            "aa20cc565e6949f8"
+          ],
+          "cover_path": "out/media/2026-07-26/company-04.jpg"
+        },
+        {
+          "headline": "Cognition收购Poke，强化AI Agent人格化",
+          "summary": "Cognition收购对话AI公司Poke，为Devin编程助手带来个性化交互风格，认为AI人格已成为竞争关键。",
+          "primary_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "importance": 6,
+          "items": [
+            "5f166572f0deda5f"
+          ],
+          "cover_path": "out/media/2026-07-26/company-05.jpg"
+        },
+        {
+          "headline": "Midjourney收购占星App Co-Star",
+          "summary": "Midjourney持续扩张，收购占星应用Co-Star，拓展图像生成外的业务范围。",
+          "primary_url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+          "importance": 6,
+          "items": [
+            "3bfa9569974ade7d"
+          ],
+          "cover_path": "out/media/2026-07-26/company-06.jpg"
+        },
+        {
+          "headline": "菲尔兹奖得主因AI转型加盟OpenAI",
+          "summary": "菲尔兹奖得主表示因AI不再招研究生，转而加入OpenAI，数学家工作难维持。",
+          "primary_url": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219",
+          "importance": 6,
+          "items": [
+            "c8719d8e82b193be"
+          ],
+          "cover_path": "out/media/2026-07-26/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AlphaFold被用于重新设计基因编辑蛋白以提高安全性",
+          "summary": "研究团队利用Google AlphaFold识别基因编辑蛋白中导致脱靶错误的部分，重新设计更安全的蛋白质。",
+          "primary_url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+          "importance": 7,
+          "items": [
+            "73a96767803c975f"
+          ],
+          "cover_path": "out/media/2026-07-26/research-00.jpg"
+        },
+        {
+          "headline": "ARC-AGI排行榜更新，多模型参赛",
+          "summary": "ARC-AGI基准测试排行榜持续更新，反映AI在抽象推理方面的最新进展。",
+          "primary_url": "https://arcprize.org/leaderboard",
+          "importance": 6,
+          "items": [
+            "71547c50f481ff88"
+          ],
+          "cover_path": "out/media/2026-07-26/research-01.jpg"
+        },
+        {
+          "headline": "Kronos：面向金融市场的开源基础模型",
+          "summary": "开源项目Kronos发布面向金融市场语言的基础模型，在GitHub上流行。",
+          "primary_url": "https://github.com/shiyu-coder/Kronos",
+          "importance": 5,
+          "items": [
+            "63e722bc5a4684de"
+          ],
+          "cover_path": "out/media/2026-07-26/research-02.jpg"
+        },
+        {
+          "headline": "菲尔兹奖得主王虹在NeurIPS发表过论文",
+          "summary": "近日获菲尔兹奖的王虹，其主页唯一未挂链接的论文是NeurIPS论文。",
+          "primary_url": "https://www.qbitai.com/2026/07/460042.html",
+          "importance": 4,
+          "items": [
+            "aba211f1d584d6a3"
+          ],
+          "cover_path": "out/media/2026-07-26/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Pinecone推出Nexus引擎，为AI智能体整合业务上下文",
+          "summary": "Pinecone发布Nexus引擎，为AI agent整合业务上下文并生成结构化数据，提升企业应用能力。",
+          "primary_url": "https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL",
+          "importance": 7,
+          "items": [
+            "f2566429fb75aa76"
+          ],
+          "cover_path": "out/media/2026-07-26/product-00.jpg"
+        },
+        {
+          "headline": "OpenAI语音模式登陆ChatGPT桌面端",
+          "summary": "ChatGPT的Advanced Voice Mode现已支持桌面应用，可与Codex协同完成任务。",
+          "primary_url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+          "importance": 6,
+          "items": [
+            "aacce8c0111f74df"
+          ],
+          "cover_path": "out/media/2026-07-26/product-01.jpg"
+        },
+        {
+          "headline": "Claude语音模式全平台升级至最强模型",
+          "summary": "Claude的语音对话模式现已运行在Anthropic最强大模型上，覆盖所有平台。",
+          "primary_url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+          "importance": 6,
+          "items": [
+            "110ec12594917a74"
+          ],
+          "cover_path": "out/media/2026-07-26/product-02.jpg"
+        },
+        {
+          "headline": "OpenAI发布AI键盘硬件",
+          "summary": "OpenAI推出AI keypad，为开发者提供专用硬件，但对普通用户有些神秘。",
+          "primary_url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "importance": 5,
+          "items": [
+            "6bac80920c53f1ee"
+          ],
+          "cover_path": "out/media/2026-07-26/product-03.jpg"
+        },
+        {
+          "headline": "ChatGPT新增个人健康助手功能",
+          "summary": "ChatGPT推出Health健康助手，可作为个人健康伙伴使用。",
+          "primary_url": "https://www.producthunt.com/products/openai",
+          "importance": 5,
+          "items": [
+            "4c38b5e70d034016"
+          ]
+        },
+        {
+          "headline": "Bluesky AI助手Attie扩展为开放社交研究工具",
+          "summary": "Bluesky的AI助手Attie新功能可回答用户关于AT Protocol上新闻、趋势等问题。",
+          "primary_url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+          "importance": 5,
+          "items": [
+            "cfd20203026b31b7"
+          ],
+          "cover_path": "out/media/2026-07-26/product-05.jpg"
+        },
+        {
+          "headline": "Android Studio支持多个AI Agent并行处理",
+          "summary": "Android Studio更新，开发者可同时运行多个AI Agent辅助开发任务。",
+          "primary_url": "https://www.infoq.cn/article/j227Ip5mPV4SQFuFX63C",
+          "importance": 5,
+          "items": [
+            "ae2e36e3109f2f2f"
+          ],
+          "cover_path": "out/media/2026-07-26/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "硅谷分裂：中国AI威胁论与开放派激烈交锋",
+          "summary": "围绕中国AI（如Kimi K3）的威胁，硅谷大公司与小企业出现严重分歧；英方评估K3网络能力。",
+          "primary_url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+          "importance": 8,
+          "items": [
+            "bd6145d066c0f5ee",
+            "bdb556789fd5b3e2",
+            "41eb9741099ffab0",
+            "62e1b13f6db482c4"
+          ],
+          "cover_path": "out/media/2026-07-26/opinion-00.jpg"
+        },
+        {
+          "headline": "Stratechery周报：Copium Wars与Hugging Face事件",
+          "summary": "Ben Thompson本周内容涵盖中国模型、前沿未来、Hugging Face事件及NBA等。",
+          "primary_url": "https://stratechery.com/2026/the-copium-wars/",
+          "importance": 6,
+          "items": [
+            "3abe620c01e0e47b"
+          ],
+          "cover_path": "out/media/2026-07-26/opinion-01.jpg"
+        },
+        {
+          "headline": "加拿大议员被指在议会演讲中读出AI生成文本",
+          "summary": "加拿大一名议员在议会发言中读出疑似LLM生成的回答，引发争议。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+          "importance": 6,
+          "items": [
+            "4e8c28aa8266ba41"
+          ],
+          "cover_path": "out/media/2026-07-26/opinion-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "吴恩达发布开源个人桌面Agent",
+          "summary": "吴恩达团队发布100%开源的个人桌面Agent，支持隐私、本地优先、模型无关。",
+          "primary_url": "https://www.qbitai.com/2026/07/460892.html",
+          "importance": 7,
+          "items": [
+            "de4eaf8fb39fde33"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-00.jpg"
+        },
+        {
+          "headline": "Awesome Claude Skills：Claude工作流技能合集",
+          "summary": "GitHub上 curated 的Claude Skills资源列表，用于定制Claude AI工作流。",
+          "primary_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "importance": 6,
+          "items": [
+            "bdc2dc0f86937ea0"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-01.jpg"
+        },
+        {
+          "headline": "Browser Use：让AI Agent轻松操控浏览器",
+          "summary": "开源工具Browser Use使AI Agent能自动化浏览器任务，流行于GitHub。",
+          "primary_url": "https://github.com/browser-use/browser-use",
+          "importance": 6,
+          "items": [
+            "1b27100c242fa722"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-02.jpg"
+        },
+        {
+          "headline": "Crawl4AI：面向LLM的开源网络爬虫",
+          "summary": "Crawl4AI提供对LLM友好的网页爬取与解析功能，开源免费。",
+          "primary_url": "https://github.com/unclecode/crawl4ai",
+          "importance": 6,
+          "items": [
+            "466cb2b9b35ce2fa"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-03.jpg"
+        },
+        {
+          "headline": "Ego-Lite：AI Agent专用浏览器，极速网页自动化",
+          "summary": "Ego-Lite是AI Agent可共享登录状态的零成本浏览器，专为Codex/Claude Code设计。",
+          "primary_url": "https://github.com/citrolabs/ego-lite",
+          "importance": 6,
+          "items": [
+            "893c72ccc8234e64"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-04.jpg"
+        },
+        {
+          "headline": "OpenMontage：开源智能视频制作系统",
+          "summary": "全球首个开源智能视频制作系统，包含12条生产管线、700个Agent技能文件。",
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "importance": 6,
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-05.jpg"
+        },
+        {
+          "headline": "FlashInfer：LLM推理内核库",
+          "summary": "FlashInfer是专为大模型服务的高性能内核库，开源助力推理加速。",
+          "primary_url": "https://github.com/flashinfer-ai/flashinfer",
+          "importance": 5,
+          "items": [
+            "adde617d0da380ea"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-06.jpg"
+        },
+        {
+          "headline": "OmniRoute：统一API网关覆盖500+模型",
+          "summary": "OmniRoute提供免费MIT协议AI网关，单接口连接290+提供商、500+模型，支持Claude/Codex等。",
+          "primary_url": "https://github.com/diegosouzapw/OmniRoute",
+          "importance": 5,
+          "items": [
+            "f044806219029862"
+          ],
+          "cover_path": "out/media/2026-07-26/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
