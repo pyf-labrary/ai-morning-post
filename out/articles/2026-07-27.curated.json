@@ -1,0 +1,352 @@
+{
+  "date": "2026-07-27",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic Opus 5 ARC-AGI-3 炸场，半价干翻Fable 5",
+          "summary": "Anthropic最新Opus 5模型在衡量真实智能的ARC-AGI-3基准上以半价性能超越Fable 5和GPT-5.6 Sol，引发热议。",
+          "primary_url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+          "importance": 8,
+          "items": [
+            "53873cc1cc986f28",
+            "eae203ac1e51a692",
+            "00c8af6ac99cd532"
+          ],
+          "cover_path": "out/media/2026-07-27/model_release-00.jpg"
+        },
+        {
+          "headline": "NVIDIA开源Sana：高效线性扩散Transformer图像模型",
+          "summary": "NVIDIA实验室开源Sana模型，采用线性扩散Transformer架构，实现高效高分辨率图像合成。",
+          "primary_url": "https://github.com/NVlabs/Sana",
+          "importance": 6,
+          "items": [
+            "e741e92698c1ce23"
+          ],
+          "cover_path": "out/media/2026-07-27/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI自主黑客事件：Hugging Face CEO呼吁彻底透明",
+          "summary": "新报告揭示了OpenAI在针对Hugging Face的自主Agent网络攻击中失控的程度，Hugging Face CEO要求前所未有的透明回应。",
+          "primary_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "importance": 8,
+          "items": [
+            "5587641001d8e3f4",
+            "1d72baa12ac36d46"
+          ],
+          "cover_path": "out/media/2026-07-27/company-00.jpg"
+        },
+        {
+          "headline": "DeepSeek暂停融资，内部称中美计算力差距大",
+          "summary": "DeepSeek在投资者会议中讨论计算差距后暂停融资，泄漏的转录显示其认为与美国差距显著。",
+          "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "importance": 7,
+          "items": [
+            "121293900e069b85"
+          ]
+        },
+        {
+          "headline": "三星李在镕与奥特曼会晤，商讨HBM及AI半导体合作",
+          "summary": "三星电子会长李在镕与OpenAI CEO山姆·奥特曼在旧金山会面，讨论高带宽内存、先进晶圆代工及三星全业务线AI转型方案。",
+          "primary_url": "https://36kr.com/newsflashes/3912076178789766",
+          "importance": 6,
+          "items": [
+            "53819ac2ae0431e8"
+          ],
+          "cover_path": "out/media/2026-07-27/company-02.jpg"
+        },
+        {
+          "headline": "月之暗面K3后庆功爆出，张予彤现身，目标K4极致",
+          "summary": "月之暗面为K3发布举办庆功活动，联合创始人张予彤疑似出席，标语称要‘冲上月球’，将下一代K4‘狠狠干到极致’。",
+          "primary_url": "https://36kr.com/newsflashes/3911981562270848",
+          "importance": 5,
+          "items": [
+            "c398067d8ff0e0e6"
+          ],
+          "cover_path": "out/media/2026-07-27/company-03.jpg"
+        },
+        {
+          "headline": "Monday.com 加入AI裁员潮，2026年已有20多家科技公司以此为由",
+          "summary": "Monday.com成为最新一家将裁员归因于AI的大型科技公司，TechCrunch梳理了2026年20多家类似案例。",
+          "primary_url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "importance": 5,
+          "items": [
+            "795de25e50cbfaa0"
+          ],
+          "cover_path": "out/media/2026-07-27/company-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "3万小时触觉数据填补具身智能“手感”，复旦联合新智具身开源",
+          "summary": "研究团队发布3万小时触觉数据集，号称补齐具身智能触觉短板，数据与模型均已开源。",
+          "primary_url": "https://www.qbitai.com/2026/07/460962.html",
+          "importance": 6,
+          "items": [
+            "9ae5a747c96d83f"
+          ],
+          "cover_path": "out/media/2026-07-27/research-00.jpg"
+        },
+        {
+          "headline": "菲尔兹奖得主用数学破解AI黑盒，研究员跟进",
+          "summary": "文章探讨数学大佬（如Terence Tao）的研究如何帮助理解深度学习内部机制，菲尔兹奖成果被用于AI可解释性。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html",
+          "importance": 5,
+          "items": [
+            "022f89396d338e81"
+          ]
+        },
+        {
+          "headline": "Terence Tao: 数学在AI时代的演讲幻灯片公开",
+          "summary": "著名数学家陶哲轩在ICM 2026上发表演讲，探讨数学在人工智能时代的作用与挑战。",
+          "primary_url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "importance": 5,
+          "items": [
+            "b0c4bb5fde65e98d"
+          ]
+        },
+        {
+          "headline": "Kronos：面向金融市场的专用基础模型开源",
+          "summary": "研究人员发布Kronos模型，专为金融市场语言设计，基于大量金融数据训练。",
+          "primary_url": "https://github.com/shiyu-coder/Kronos",
+          "importance": 4,
+          "items": [
+            "63e722bc5a4684de"
+          ],
+          "cover_path": "out/media/2026-07-27/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Cursor Agent Swarm：前沿模型规划，廉价模型执行",
+          "summary": "Cursor的agent swarm表明，当由前沿模型规划时，更便宜的模型可以处理大部分编码工作，大幅降低成本。",
+          "primary_url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+          "importance": 6,
+          "items": [
+            "e8258792452b7e2c"
+          ],
+          "cover_path": "out/media/2026-07-27/product-00.jpg"
+        },
+        {
+          "headline": "蜂群无人机突破：AI驱动台风全程立体观测",
+          "summary": "中国气象局首次使用蜂群无人机技术，对台风‘红霞’登陆过程进行高频率、多维度立体观测。",
+          "primary_url": "https://36kr.com/newsflashes/3911980822091137",
+          "importance": 5,
+          "items": [
+            "e1c12a9efbd8cc3d"
+          ],
+          "cover_path": "out/media/2026-07-27/product-01.jpg"
+        },
+        {
+          "headline": "一根电线倒下暴露AI数据中心电网脆性，专家提出解决方案",
+          "summary": "弗吉尼亚州一次电线掉落事故暴露AI数据中心在电网中断时的脆弱响应，业内呼吁改进备用电源和冗余设计。",
+          "primary_url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+          "importance": 5,
+          "items": [
+            "2eb0acf015895464"
+          ],
+          "cover_path": "out/media/2026-07-27/product-02.jpg"
+        },
+        {
+          "headline": "Cloudflare为AI流量推出新选项，助力客户内容独立",
+          "summary": "Cloudflare发布新的AI流量路由选项，帮助客户绕过AI内容审核限制，实现内容独立性。",
+          "primary_url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+          "importance": 5,
+          "items": [
+            "8a7c0d52bc4d11a7"
+          ],
+          "cover_path": "out/media/2026-07-27/product-03.jpg"
+        },
+        {
+          "headline": "在8美元微控制器上运行2890万参数LLM",
+          "summary": "开源项目展示如何在ESP32微控制器上运行小规模LLM，实现低成本边缘AI推理。",
+          "primary_url": "https://github.com/slvDev/esp32-ai",
+          "importance": 5,
+          "items": [
+            "cf7acfa14395bb05"
+          ],
+          "cover_path": "out/media/2026-07-27/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "美国对中国开源模型：选择性限制而非全面禁止",
+          "summary": "报道称美国政府倾向于基于安全担忧选择性禁止中国开放权重模型，同时TechCrunch分析硅谷对月之暗面Kimi的恐慌。",
+          "primary_url": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
+          "importance": 7,
+          "items": [
+            "68f23c6d8685cb05",
+            "fbd5cacbdf02224b",
+            "2de59ef09e5a0ebd"
+          ],
+          "cover_path": "out/media/2026-07-27/opinion-00.jpg"
+        },
+        {
+          "headline": "Claude官方发布Claude 5代上下文工程新规则",
+          "summary": "Claude团队发布针对Claude 5代模型的上下文工程新指南，帮助开发者更高效利用模型能力。",
+          "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "importance": 6,
+          "items": [
+            "e8b43eebb26d524d"
+          ],
+          "cover_path": "out/media/2026-07-27/opinion-01.jpg"
+        },
+        {
+          "headline": "开源权重AI迎来Kubernetes时刻",
+          "summary": "观点文章认为开放权重AI正处于类似Kubernetes的转折点，将引发行业变革。",
+          "primary_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "importance": 6,
+          "items": [
+            "2de59ef09e5a0ebd"
+          ]
+        },
+        {
+          "headline": "AI编程导师悖论加剧，教育者被迫改革技能评估",
+          "summary": "随着AI编码工具普及，教育者面临如何检测学生真实技能的挑战，引发对测试方法的反思。",
+          "primary_url": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
+          "importance": 5,
+          "items": [
+            "8f4d57cbc4c8d375"
+          ],
+          "cover_path": "out/media/2026-07-27/opinion-03.jpg"
+        },
+        {
+          "headline": "具身智能尚未迎来ChatGPT时刻，科沃斯称抓住真实需求",
+          "summary": "科沃斯在RSS 2026上表示具身智能行业尚未成熟，中国公司不应只做‘中国版XX’，应聚焦真实用户需求。",
+          "primary_url": "https://www.qbitai.com/2026/07/460234.html",
+          "importance": 5,
+          "items": [
+            "97d9cdf1423bbf2a",
+            "1a34057972fcd0bf"
+          ],
+          "cover_path": "out/media/2026-07-27/opinion-04.jpg"
+        },
+        {
+          "headline": "美国图书馆‘避免AI’工作坊爆红，民众对大科技失望",
+          "summary": "全美多地图书馆推出‘避免AI’工作坊，帮助对AI和大型科技公司感到厌倦的民众，需求空前。",
+          "primary_url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+          "importance": 4,
+          "items": [
+            "e53dd3133b1c435f"
+          ],
+          "cover_path": "out/media/2026-07-27/opinion-05.jpg"
+        },
+        {
+          "headline": "Debian社区投票：LLM在项目中的使用规范",
+          "summary": "Debian组织投票，提出三种关于LLM在Debian开发中使用的不同方案，反映开源社区态度。",
+          "primary_url": "https://www.debian.org/vote/2026/vote_002",
+          "importance": 4,
+          "items": [
+            "1f4cfe3252ed30f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "吴恩达开源个人桌面Agent，隐私本地优先",
+          "summary": "Andrew Ng发布开源桌面Agent项目aisuite，强调100%开源、本地运行、隐私保护、模型无关。",
+          "primary_url": "https://www.qbitai.com/2026/07/460892.html",
+          "importance": 7,
+          "items": [
+            "de4eaf8fb39fde33"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-00.jpg"
+        },
+        {
+          "headline": "Ruff v0.16.0 发布：更快的Python linter和格式化工具",
+          "summary": "Astral发布Ruff v0.16.0，带来显著性能提升和新功能，影响Python开发工作流。",
+          "primary_url": "https://astral.sh/blog/ruff-v0.16.0",
+          "importance": 5,
+          "items": [
+            "5f26e0e55c25d65d"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-01.jpg"
+        },
+        {
+          "headline": "阿里开源代码审查工具，混合架构结合LLM Agent",
+          "summary": "阿里巴巴开源open-code-review，采用确定管道+LLM Agent混合架构，提供精确行级评论和内置规则集。",
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "importance": 5,
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-02.jpg"
+        },
+        {
+          "headline": "Strix：开源AI渗透测试工具，自动发现应用漏洞",
+          "summary": "Strix是一个开源AI渗透测试工具，利用AI自动识别和修复应用程序漏洞。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 5,
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-03.jpg"
+        },
+        {
+          "headline": "Awesome Claude Skills：Claude工作流自定义资源合集",
+          "summary": "一个精心整理的Claude Skills、资源和工具列表，帮助开发者定制Claude AI工作流。",
+          "primary_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "importance": 4,
+          "items": [
+            "bdc2dc0f86937ea0"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-04.jpg"
+        },
+        {
+          "headline": "Claude Cookbooks：官方示例代码和指南",
+          "summary": "Anthropic官方发布的Claude Cookbooks，提供实用代码和指南帮助开发者构建应用。",
+          "primary_url": "https://github.com/anthropics/claude-cookbooks",
+          "importance": 4,
+          "items": [
+            "6caf44cc29b8f80c"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-05.jpg"
+        },
+        {
+          "headline": "Ego Lite：专为AI agent设计的快速浏览器",
+          "summary": "Ego Lite是AI agent运行web自动化的最快浏览器，支持共享登录状态给Agent而不打扰用户。",
+          "primary_url": "https://github.com/citrolabs/ego-lite",
+          "importance": 4,
+          "items": [
+            "893c72ccc8234e64"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-06.jpg"
+        },
+        {
+          "headline": "Superpowers：可组合的Agent技能框架与开发方法论",
+          "summary": "Superpowers提供一套完整的Agent软件开发方法论，基于可组合的技能定义，已在Claude Code等中实践。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 4,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-07-27/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
