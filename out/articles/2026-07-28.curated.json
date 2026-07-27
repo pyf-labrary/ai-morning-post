@@ -1,0 +1,483 @@
+{
+  "date": "2026-07-28",
+  "sections": [
+    {
+      "id": "model_release",
+      "stories": [
+        {
+          "headline": "月之暗面开源Kimi K3模型权重与技术报告",
+          "summary": "Moonshot AI 发布 Kimi K3 开放权重模型及技术报告，同时开源 AgentENV 训练框架。",
+          "primary_url": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+          "importance": 8,
+          "items": [
+            "a6e877ff56ef7e80",
+            "a88b2c9cb14fed1e",
+            "ce27e4a86dad8303"
+          ],
+          "cover_path": "out/media/2026-07-28/model_release-00.jpg"
+        },
+        {
+          "headline": "微软发布首款网络安全模型 MAI-Cyber-1-Flash",
+          "summary": "微软推出 MAI-Cyber-1-Flash 模型和 MDASH 安全平台，宣称性价比优于竞品。",
+          "primary_url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "importance": 8,
+          "items": [
+            "985584e750d38eb4",
+            "14e44c534af721d2",
+            "c026410eda7d0539",
+            "ca204890a50fa595"
+          ],
+          "cover_path": "out/media/2026-07-28/model_release-01.jpg"
+        },
+        {
+          "headline": "蚂蚁百灵发布新款混合推理模型 Ling-3.0-Flash",
+          "summary": "蚂蚁集团旗下百灵大模型推出 Ling-3.0-Flash，主打原生混合推理能力。",
+          "primary_url": "https://www.qbitai.com/2026/07/461149.html",
+          "importance": 6,
+          "items": [
+            "168e0d1a4df88286"
+          ],
+          "cover_path": "out/media/2026-07-28/model_release-02.jpg"
+        },
+        {
+          "headline": "NVIDIA 发布 Cosmos-H-Dreams 手术机器人生成式仿真",
+          "summary": "NVIDIA 推出实时生成式仿真模型 Cosmos-H-Dreams，用于外科机器人训练。",
+          "primary_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "importance": 6,
+          "items": [
+            "8ef73f407678cee2"
+          ],
+          "cover_path": "out/media/2026-07-28/model_release-03.jpg"
+        },
+        {
+          "headline": "Black Forest Labs 发布多模态流模型 FLUX 3",
+          "summary": "FLUX 3 支持图像、视频、音频及机器人动作预测，首次统一多种模态。",
+          "primary_url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
+          "importance": 6,
+          "items": [
+            "380699ed9af4a4df"
+          ],
+          "cover_path": "out/media/2026-07-28/model_release-04.jpg"
+        },
+        {
+          "headline": "小米 MiMo-V2.5 登顶 OpenRouter 全球调用量双榜",
+          "summary": "小米 MiMo-V2.5 成为 OpenRouter 上周和本月调用量最高模型，单周 token 量突破 10T。",
+          "primary_url": "https://36kr.com/newsflashes/3913798998201732?f=rss",
+          "importance": 5,
+          "items": [
+            "2442bb939d2275a0"
+          ],
+          "cover_path": "out/media/2026-07-28/model_release-05.jpg"
+        },
+        {
+          "headline": "Grok 4.5 发布，强化编码与 Agent 任务",
+          "summary": "SpaceXAI 推出 Grok 4.5，专注于编码、agentic 任务及知识工作。",
+          "primary_url": "https://www.producthunt.com/products/grok",
+          "importance": 5,
+          "items": [
+            "0806020ac4901bfb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "stories": [
+        {
+          "headline": "OpenAI Hugging Face 入侵事件引发安全与控制辩论",
+          "summary": "OpenAI 的 Hugging Face 账户遭首个自主 Agent 网络攻击，Hugging Face CEO 呼吁彻底透明。",
+          "primary_url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+          "importance": 8,
+          "items": [
+            "2bb81f7409a62adb",
+            "1d72baa12ac36d46",
+            "91b4f3c6a4c4826d"
+          ],
+          "cover_path": "out/media/2026-07-28/company-00.jpg"
+        },
+        {
+          "headline": "Ilya Sutskever 的 Safe Superintelligence 与 NVIDIA 达成合作",
+          "summary": "SSI 宣布与 NVIDIA 建立长期合作伙伴关系，为其下一代 AI 研究扩展计算能力。",
+          "primary_url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+          "importance": 7,
+          "items": [
+            "123815e4e715cc39"
+          ],
+          "cover_path": "out/media/2026-07-28/company-01.jpg"
+        },
+        {
+          "headline": "DeepSeek 被曝主动叫停第二轮百亿融资",
+          "summary": "DeepSeek 原计划至少募资 100 亿元的第二轮融资被曝暂停，或因内部信息泄露。",
+          "primary_url": "https://www.qbitai.com/2026/07/461220.html",
+          "importance": 7,
+          "items": [
+            "3f450fd5ab08b250",
+            "0ffdc3f5fadd1f48"
+          ],
+          "cover_path": "out/media/2026-07-28/company-02.jpg"
+        },
+        {
+          "headline": "Google 与 Reddit 因爬虫诉讼意外败诉",
+          "summary": "法院驳回 Google 和 Reddit 基于 DMCA 的反爬虫诉讼，爬虫方胜诉并称“Google 和 Reddit 不拥有互联网”。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+          "importance": 7,
+          "items": [
+            "179344441476f531",
+            "47f9f0f6a07b1532"
+          ],
+          "cover_path": "out/media/2026-07-28/company-03.jpg"
+        },
+        {
+          "headline": "德里高等法院驳回印度新闻机构对 OpenAI 的版权禁令",
+          "summary": "印度主要新闻机构申请版权禁令被拒，OpenAI 获关键法律胜利。",
+          "primary_url": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
+          "importance": 6,
+          "items": [
+            "92a0ce9002fe1eb0"
+          ],
+          "cover_path": "out/media/2026-07-28/company-04.jpg"
+        },
+        {
+          "headline": "NVIDIA 联合行业巨头成立开源安全 AI 联盟",
+          "summary": "Open Secure AI Alliance 旨在通过开源软件提升 AI 系统安全性与可观测性。",
+          "primary_url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+          "importance": 6,
+          "items": [
+            "6b754502bad12ae8"
+          ],
+          "cover_path": "out/media/2026-07-28/company-05.jpg"
+        },
+        {
+          "headline": "NVIDIA 利用 Vera CPU 加速下一代芯片设计",
+          "summary": "NVIDIA 与 Cadence、Synopsys 合作，用 Vera CPU 提速 CPU/GPU 设计 EDA 流程。",
+          "primary_url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+          "importance": 6,
+          "items": [
+            "d509afbd3e3c4ba5"
+          ],
+          "cover_path": "out/media/2026-07-28/company-06.jpg"
+        },
+        {
+          "headline": "Verizon 签订 10 亿美元暗光纤协议，为 Google 数据中心服务",
+          "summary": "Verizon 大举押注 AI 基础设施，签订首笔暗光纤交易并改造微小数据中心。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+          "importance": 6,
+          "items": [
+            "8bba7a15948b3b55"
+          ],
+          "cover_path": "out/media/2026-07-28/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "stories": [
+        {
+          "headline": "OpenAI 研究：AI 正在扩大而非替代人类工作",
+          "summary": "OpenAI 分析显示 ChatGPT 用户正在跨角色承担更多任务，重新定义工作边界。",
+          "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "importance": 9,
+          "items": [
+            "487949b5b60d0b2d",
+            "51e7aebee578e7ff"
+          ]
+        },
+        {
+          "headline": "Cursor 实验：廉价模型处理大部分编码，前沿模型规划",
+          "summary": "Cursor 的 agent swarm 显示，将规划任务交给前沿模型后，普通模型可高效完成编码执行。",
+          "primary_url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+          "importance": 7,
+          "items": [
+            "e8258792452b7e2c"
+          ],
+          "cover_path": "out/media/2026-07-28/research-01.jpg"
+        },
+        {
+          "headline": "METR 提出新指标衡量 AI Agent 何时比人类更贵",
+          "summary": "METR 推出“支出视界”指标，帮助计算 AI 自主 agent 的经济可行性拐点。",
+          "primary_url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
+          "importance": 6,
+          "items": [
+            "232be55467ab50a4"
+          ],
+          "cover_path": "out/media/2026-07-28/research-02.jpg"
+        },
+        {
+          "headline": "Cursor 用 Agent 重写 SQLite：仅凭手册、无源码无测试",
+          "summary": "Cursor 通过多 agent 协作，仅依据 835 页手册成功重造了 SQLite 核心代码。",
+          "primary_url": "https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC",
+          "importance": 6,
+          "items": [
+            "e534ecfd0ff7ab04"
+          ],
+          "cover_path": "out/media/2026-07-28/research-03.jpg"
+        },
+        {
+          "headline": "脑波数据或成物理 AI 下一个解锁钥匙",
+          "summary": "研究者认为前沿物理 AI 需要多摄像头、密集标注以及脑波数据来突破训练瓶颈。",
+          "primary_url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "importance": 5,
+          "items": [
+            "cc67a245c9838696"
+          ],
+          "cover_path": "out/media/2026-07-28/research-04.jpg"
+        },
+        {
+          "headline": "WWW 2026 最佳论文：大模型该信搜索还是记忆？",
+          "summary": "获奖论文探讨 LLM 在检索增强与参数化记忆之间的决策机制。",
+          "primary_url": "https://www.leiphone.com/category/academic/wgbDYxJBNszTztoQ.html",
+          "importance": 5,
+          "items": [
+            "d0331f2b609fa4b5"
+          ]
+        },
+        {
+          "headline": "中科院开发可测可训的 AI 情商工程方案",
+          "summary": "中国科学院团队将情商量化为可训练的工程指标，试图补齐 AI 情感短板。",
+          "primary_url": "https://www.qbitai.com/2026/07/461160.html",
+          "importance": 5,
+          "items": [
+            "e50c33409812152e"
+          ],
+          "cover_path": "out/media/2026-07-28/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "stories": [
+        {
+          "headline": "Claude 聊天链接泄露至搜索引擎，隐私风险暴露",
+          "summary": "Anthropic 的 Claude 共享对话链接被 Google 和 Bing 索引，引发隐私担忧。",
+          "primary_url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+          "importance": 7,
+          "items": [
+            "a94f5e522f8aab62",
+            "a032e478266c907c",
+            "adae0b599a545e44"
+          ],
+          "cover_path": "out/media/2026-07-28/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT 开始阻止直接模仿作家风格的请求",
+          "summary": "OpenAI 为 ChatGPT 加入限制，禁止直接复制特定作者风格，但仍允许捕捉“广泛特征”。",
+          "primary_url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+          "importance": 6,
+          "items": [
+            "05f3fe4f055bc1ae"
+          ],
+          "cover_path": "out/media/2026-07-28/product-01.jpg"
+        },
+        {
+          "headline": "Google AI Overviews 已覆盖 43% 搜索，成默认答案方式",
+          "summary": "新数据显示 Google 的 AI 摘要功能迅速普及，正在改变用户信息获取习惯。",
+          "primary_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+          "importance": 6,
+          "items": [
+            "54f437234b7096e0"
+          ],
+          "cover_path": "out/media/2026-07-28/product-02.jpg"
+        },
+        {
+          "headline": "Threads 私信接入 Meta AI 聊天机器人",
+          "summary": "Meta 将 Meta AI 助手扩展至 Threads 的私信对话中，支持用户与 AI 互动。",
+          "primary_url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+          "importance": 6,
+          "items": [
+            "b7668d367871ca4d"
+          ],
+          "cover_path": "out/media/2026-07-28/product-03.jpg"
+        },
+        {
+          "headline": "超维动力携手北大医疗落地具身智能医疗应用",
+          "summary": "超维动力与北大医疗合作，将具身智能技术用于医疗场景，推动务实落地。",
+          "primary_url": "https://www.qbitai.com/2026/07/461444.html",
+          "importance": 6,
+          "items": [
+            "387367144c1dfe31",
+            "8a136ede71e80983"
+          ],
+          "cover_path": "out/media/2026-07-28/product-04.jpg"
+        },
+        {
+          "headline": "Perplexity 发布命令行工具 pplx，为 Agent 提供搜索 API",
+          "summary": "Perplexity 推出单二进制 CLI 工具 pplx，让编码 agent 直接在终端使用搜索功能。",
+          "primary_url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+          "importance": 5,
+          "items": [
+            "1f2be6e2e30eaa9e"
+          ],
+          "cover_path": "out/media/2026-07-28/product-05.jpg"
+        },
+        {
+          "headline": "飞书深诺推出可信任 AI 营销产品助力中国企业出海",
+          "summary": "飞书深诺发布面向出海企业的合规 AI 营销工具，提升品牌全球化效率。",
+          "primary_url": "https://www.qbitai.com/2026/07/461226.html",
+          "importance": 5,
+          "items": [
+            "70568f8effc0c50b"
+          ],
+          "cover_path": "out/media/2026-07-28/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "stories": [
+        {
+          "headline": "Anthropic 明确表态：坚持不开源权重模型",
+          "summary": "Anthropic 发布官方立场，阐述为何选择不开放模型权重，强调安全与责任。",
+          "primary_url": "https://www.anthropic.com/news/position-open-weights-models",
+          "importance": 7,
+          "items": [
+            "5595a46c31c5a9bc"
+          ],
+          "cover_path": "out/media/2026-07-28/opinion-00.jpg"
+        },
+        {
+          "headline": "纳德拉警告：依赖单一 AI 模型的公司可能难以生存",
+          "summary": "微软 CEO 认为企业若没有自建模型或 AI 网关，将面临风险。",
+          "primary_url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "importance": 7,
+          "items": [
+            "bd1b952f80928c6e"
+          ],
+          "cover_path": "out/media/2026-07-28/opinion-01.jpg"
+        },
+        {
+          "headline": "AI 公司被曝撕毁稀有书籍用于训练数据",
+          "summary": "揭露 AI 公司破坏稀有书籍以获取训练数据，引发伦理与版权争议。",
+          "primary_url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+          "importance": 6,
+          "items": [
+            "88920b1ef269ccda"
+          ],
+          "cover_path": "out/media/2026-07-28/opinion-02.jpg"
+        },
+        {
+          "headline": "Ethan Mollick 更新 AI 使用指南：如何选模型",
+          "summary": "西蒙·威利森引用 Ethan Mollick 的指南，提供选择 AI 工具的个人化建议。",
+          "primary_url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+          "importance": 6,
+          "items": [
+            "668286dd9ba56d35"
+          ]
+        },
+        {
+          "headline": "陶哲轩：数学迎来百年新危机",
+          "summary": "菲尔兹奖得主陶哲軒在颁奖现场演讲，警告数学基础正面临 AI 冲击。",
+          "primary_url": "https://www.qbitai.com/2026/07/461398.html",
+          "importance": 5,
+          "items": [
+            "76f3b265a07ef183"
+          ],
+          "cover_path": "out/media/2026-07-28/opinion-04.jpg"
+        },
+        {
+          "headline": "苹果据称冷眼旁观 AI 泡沫，等待破裂",
+          "summary": "评论员文章认为苹果正以旁观者姿态等待 AI 投资泡沫破灭。",
+          "primary_url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+          "importance": 5,
+          "items": [
+            "52c0630e5f7857a4"
+          ],
+          "cover_path": "out/media/2026-07-28/opinion-05.jpg"
+        },
+        {
+          "headline": "黄仁勋开源协议仅余一家未签署，引猜测",
+          "summary": "报道称英伟达“开源协议”签约进程接近完成，最后一家悬念引发讨论。",
+          "primary_url": "https://www.qbitai.com/2026/07/461341.html",
+          "importance": 5,
+          "items": [
+            "58210d4783db61ec"
+          ],
+          "cover_path": "out/media/2026-07-28/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "stories": [
+        {
+          "headline": "Kimi 团队开源 AgentENV：分布式 RL 训练系统",
+          "summary": "Moonshot AI 开源 AgentENV (AENV)，基于 Firecracker 微 VM 实现毫秒级快照和分叉，用于 agentic 强化学习。",
+          "primary_url": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
+          "importance": 7,
+          "items": [
+            "a88b2c9cb14fed1e"
+          ],
+          "cover_path": "out/media/2026-07-28/opensource-00.jpg"
+        },
+        {
+          "headline": "微软开源 AI Agent 治理工具包",
+          "summary": "Microsoft 发布 agent-governance-toolkit，涵盖策略执行、零信任身份、沙箱与可靠性工程。",
+          "primary_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "importance": 6,
+          "items": [
+            "8dd243fffcdc353c"
+          ],
+          "cover_path": "out/media/2026-07-28/opensource-01.jpg"
+        },
+        {
+          "headline": "AWS 开源 Agent 管理平台 Loom",
+          "summary": "亚马逊云科技发布 Loom，一个用于企业级大规模管理 AI 代理的开源参考平台。",
+          "primary_url": "https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO",
+          "importance": 6,
+          "items": [
+            "c53b8ab234216d89"
+          ],
+          "cover_path": "out/media/2026-07-28/opensource-02.jpg"
+        },
+        {
+          "headline": "HuggingFace 开源端到端语音转语音框架",
+          "summary": "speech-to-speech 项目让开发者用开源模型构建本地语音 agent。",
+          "primary_url": "https://github.com/huggingface/speech-to-speech",
+          "importance": 6,
+          "items": [
+            "1e985fa2f54520c2"
+          ],
+          "cover_path": "out/media/2026-07-28/opensource-03.jpg"
+        },
+        {
+          "headline": "吴恩达 aisuite：多供应商统一接口库",
+          "summary": "aisuite 提供简单统一的 Python 接口，接入多个生成式 AI 提供商。",
+          "primary_url": "https://github.com/andrewyng/aisuite",
+          "importance": 6,
+          "items": [
+            "2a1ff9500e35a878"
+          ],
+          "cover_path": "out/media/2026-07-28/opensource-04.jpg"
+        },
+        {
+          "headline": "阿里巴巴开源代码审查工具 open-code-review",
+          "summary": "Alibaba 开源经内部实战的代码审查工具，结合确定性管道和 LLM Agent。",
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "importance": 5,
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-07-28/opensource-05.jpg"
+        },
+        {
+          "headline": "LitGPT：20+ 高性能 LLM 训练与部署方案",
+          "summary": "Lightning AI 的 LitGPT 提供预训练、微调和部署的完整工具链。",
+          "primary_url": "https://github.com/Lightning-AI/litgpt",
+          "importance": 5,
+          "items": [
+            "491bac60bcf17bbe"
+          ]
+        },
+        {
+          "headline": "PageIndex：无向量推理型 RAG 文档索引",
+          "summary": "VectifyAI 开源 PageIndex，基于推理而非向量嵌入的文档检索方法。",
+          "primary_url": "https://github.com/VectifyAI/PageIndex",
+          "importance": 4,
+          "items": [
+            "598f1c368a162af2"
+          ],
+          "cover_path": "out/media/2026-07-28/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
