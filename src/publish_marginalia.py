@@ -118,7 +118,7 @@ def build_post(date: str, marginalia: Path) -> Path:
     curated = json.loads(curated_path.read_text(encoding="utf-8"))
 
     _copy_images(date, marginalia)
-    img_url_prefix = f"/marginalia/assets/img/ai-hot/{date}"
+    img_url_prefix = f"/assets/img/ai-hot/{date}"
     sec_by_id = {s["id"]: s for s in curated.get("sections", [])}
 
     # 拼装正文 + 收集 TOC sections
