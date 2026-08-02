@@ -1,0 +1,407 @@
+{
+  "date": "2026-08-03",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Thinking Machines 开源 276B MoE 模型 Inkling-Small",
+          "summary": "Inkling-Small 总参数 276B、激活 12B，以四分之一体量对标 Inkling，并可在单张 B300 上运行。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
+          "items": [
+            "818bd6a5c83efe40"
+          ],
+          "cover_path": "out/media/2026-08-03/model_release-00.jpg"
+        },
+        {
+          "headline": "AMD 发布 Instella-MoE：16B 完全开源模型",
+          "summary": "Instella-MoE-16B-A3B 由 AMD Instinct GPU 从头训练，总参数 16B、每 token 仅激活 2.8B，权重完全开放。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+          "items": [
+            "e5be3c1c56f5f96b"
+          ],
+          "cover_path": "out/media/2026-08-03/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Reddit CEO 质疑 Google AI 概览价值，或终止授权",
+          "summary": "Reddit 股价下跌后，CEO 表示仍在寻找与 Google 合作的“双赢”方案，暗示可能结束 AI 内容授权协议。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+          "items": [
+            "754c3ab257fb410f"
+          ],
+          "cover_path": "out/media/2026-08-03/company-00.jpg"
+        },
+        {
+          "headline": "xAI 请求被驳回，明州“脱衣”App 禁令继续",
+          "summary": "明尼苏达州禁止“nudify”应用的法律未受 xAI 诉讼阻挠，法官裁定禁令可以继续推进。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "items": [
+            "43db2e5145bd87aa"
+          ],
+          "cover_path": "out/media/2026-08-03/company-01.jpg"
+        },
+        {
+          "headline": "苹果赏金邮箱被 AI 垃圾塞满，$20 万漏洞无人报",
+          "summary": "一个真实 macOS 漏洞因 Apple 赏金收件箱被大量 AI 生成垃圾淹没而未能及时提交，引发安全社区批评。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+          "items": [
+            "54a470c0410e4653"
+          ],
+          "cover_path": "out/media/2026-08-03/company-02.jpg"
+        },
+        {
+          "headline": "OpenRouter 周榜：中国模型包揽前五",
+          "summary": "小米 MiMo-V2.5 以单周 10.5 万亿 Token 调用量登顶，DeepSeek 与腾讯混元 3 紧随其后，国产模型增速惊人。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+          "items": [
+            "cf51b5f5777ce3ed"
+          ],
+          "cover_path": "out/media/2026-08-03/company-03.jpg"
+        },
+        {
+          "headline": "Snap 与 LinkedIn 联手清剿低质 AI 内容",
+          "summary": "Snap 开始封禁 AI 生成垃圾账号，LinkedIn 也推出新政策，应对平台被低质量 AI 内容淹没的问题。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
+          "items": [
+            "cc5bffdae6eb4c6c"
+          ],
+          "cover_path": "out/media/2026-08-03/company-04.jpg"
+        },
+        {
+          "headline": "Uber：92% 工程师用 AI 后，开始“限额”",
+          "summary": "Uber 内部 AI 使用率高达 92% 后开始设置使用上限，以控制成本并让工具用在刀刃上。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&utm_medium=article",
+          "items": [
+            "726fb7b3f7299e08"
+          ],
+          "cover_path": "out/media/2026-08-03/company-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI 官宣 AI 破解十项数学难题",
+          "summary": "OpenAI 发布 AI 在数学与理论计算机科学领域取得的十项进展，称 AI 已开始实质性改变数学研究。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/ten-advances-in-mathematics/",
+          "items": [
+            "e56c853adcc1d7e6"
+          ]
+        },
+        {
+          "headline": "Word 文档藏蠕虫，可劫持微软 Copilot 传播",
+          "summary": "安全研究员展示了一种隐藏在 Word 文档中的自传播蠕虫，能够劫持 Microsoft Copilot 并自我复制，引发企业 AI 安全担忧。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+          "items": [
+            "5ed38c12ef974188"
+          ],
+          "cover_path": "out/media/2026-08-03/research-01.jpg"
+        },
+        {
+          "headline": "MIT 研究：AI 财务建议意外靠谱",
+          "summary": "MIT Sloan 研究发现，只要提问方式得当，AI 给出的财务建议质量出乎意料地好，引发对投顾行业影响的讨论。",
+          "importance": 6,
+          "primary_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "items": [
+            "96a4f79288269971"
+          ]
+        },
+        {
+          "headline": "Kimi K3 跑 AMD MI355X，性价比超 B300",
+          "summary": "wafer.ai 实测显示，Kimi K3 在 AMD MI355X 上实现比 NVIDIA B300 更好的每美元性能，引发硬件路线讨论。",
+          "importance": 5,
+          "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "items": [
+            "7ee6b8b8d1d17be1"
+          ],
+          "cover_path": "out/media/2026-08-03/research-03.jpg"
+        },
+        {
+          "headline": "AI 编码 Agent 能改科研代码，难判科学对错",
+          "summary": "研究显示 AI 编码 Agent 可以有效现代化研究软件，但无法判断背后的科学结论是否正确。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+          "items": [
+            "94cd332715516b35"
+          ],
+          "cover_path": "out/media/2026-08-03/research-04.jpg"
+        },
+        {
+          "headline": "AI 发现漏洞虽多，真正被利用却极少",
+          "summary": "安全研究指出 AI 工具能发现大量漏洞，但绝大多数不会被实际利用，引发对漏洞评估标准的反思。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
+          "items": [
+            "14fb3160d7bbd800"
+          ],
+          "cover_path": "out/media/2026-08-03/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 Presence，Agent 生产就绪",
+          "summary": "OpenAI 推出 Presence，面向企业提供 AI Agent 的生产级部署与管理能力，补齐落地最后一公里。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+          "items": [
+            "3c8ffd3e1de7529f"
+          ],
+          "cover_path": "out/media/2026-08-03/product-00.jpg"
+        },
+        {
+          "headline": "Google Earth AI 生图上线 48 小时即暂停",
+          "summary": "因虚构场景可叠加真实卫星图散播假信息，谷歌紧急暂停 Google Earth AI 图像生成功能并加强安全防护。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3922077104664199?f=rss",
+          "items": [
+            "52c70af8db71b3ed"
+          ],
+          "cover_path": "out/media/2026-08-03/product-01.jpg"
+        },
+        {
+          "headline": "Cursor 隐藏计价信息引热议，用户怒批不透明",
+          "summary": "Cursor 从 Usage 页面和 CSV 导出中移除成本信息、只显示 token 量，HN 用户质疑其定价透明度。",
+          "importance": 6,
+          "primary_url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "items": [
+            "5c6a0a8a3be1c1f5"
+          ],
+          "cover_path": "out/media/2026-08-03/product-02.jpg"
+        },
+        {
+          "headline": "Meta AI 加“记忆教练”副 Agent 防长任务跑偏",
+          "summary": "Meta AI 使用第二个 AI Agent 充当记忆教练，帮助主 Agent 在长任务中保持上下文和执行轨迹。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+          "items": [
+            "af2c9ac7ee7d5c1f"
+          ],
+          "cover_path": "out/media/2026-08-03/product-03.jpg"
+        },
+        {
+          "headline": "Claude Opus 5 一句话生成 3D 游戏原型",
+          "summary": "开发者展示 Claude Opus 5 能将提示词直接变成含物理与音乐的 3D 游戏原型，从色块跨越到可玩场景。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
+          "items": [
+            "7fe0d5b077186114"
+          ],
+          "cover_path": "out/media/2026-08-03/product-04.jpg"
+        },
+        {
+          "headline": "网易有道全线产品接入 DeepSeek-V4-Flash",
+          "summary": "有道词典、翻译、AI 同传、LobsterAI 等全线升级到 DeepSeek-V4-Flash 正式版，覆盖桌面 Agent 与学习硬件。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html",
+          "items": [
+            "6140196195405f9d"
+          ]
+        },
+        {
+          "headline": "天线宝宝机器人上门保洁，200 元/小时",
+          "summary": "具身智能公司推出“天线宝宝”造型的保洁机器人上门服务，每小时 200 元，引发对服务机器人商业化的讨论。",
+          "importance": 3,
+          "primary_url": "https://www.qbitai.com/2026/08/464781.html",
+          "items": [
+            "acc03968e60fc1fa"
+          ],
+          "cover_path": "out/media/2026-08-03/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Sam Altman 呼吁给 AI 发展“踩刹车”",
+          "summary": "Altman 在最新活动中呼吁行业“为 AI 发展定速”，TechCrunch 分析了这一 decel 表态引发的加速派反弹。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "items": [
+            "84ae7edfd830a652"
+          ],
+          "cover_path": "out/media/2026-08-03/opinion-00.jpg"
+        },
+        {
+          "headline": "METR 呼吁独立调查 AI Agent 异常行为",
+          "summary": "在 Hugging Face 事件后，METR 强调需要独立的根因调查机制，而不是依赖 AI 开发者的内部自查。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
+          "items": [
+            "44b4fa110e068416"
+          ],
+          "cover_path": "out/media/2026-08-03/opinion-01.jpg"
+        },
+        {
+          "headline": "欧盟 AI 披露新规，或引发“披露疲劳”",
+          "summary": "欧盟新规要求用户必须被告知与 AI 互动或看到 AI 生成内容，专家担心过度披露会让公众逐渐麻木。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+          "items": [
+            "f03e2cc4896a97c7"
+          ],
+          "cover_path": "out/media/2026-08-03/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 连破数学难题，数学家心情复杂",
+          "summary": "从 Anthropic 到 OpenAI，AI 在数学难题上接连取得突破，数学家们对合作与范式颠覆喜忧参半。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
+          "items": [
+            "c5b72a22bd5c0dd8"
+          ],
+          "cover_path": "out/media/2026-08-03/opinion-03.jpg"
+        },
+        {
+          "headline": "Simon Willison 盘点 AI 公开信之争",
+          "summary": "Simon Willison 在通讯中总结了近几周围绕 AI 发展速度、开源与安全的数封公开信及其争议。",
+          "importance": 5,
+          "primary_url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+          "items": [
+            "ed4cb0582b1db5e9"
+          ]
+        },
+        {
+          "headline": "Hank Green 自曝对 LLM 上瘾：这不健康",
+          "summary": "知名 YouTuber Hank Green 罕见道歉，称与 LLM 互动带来的多巴胺刺激“对自己不健康，对世界也不好”。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "items": [
+            "b5266f2a01de5c31"
+          ],
+          "cover_path": "out/media/2026-08-03/opinion-05.jpg"
+        },
+        {
+          "headline": "WAIC 收官：数百机器人刷屏后，AI 改变了什么",
+          "summary": "WAIC 上数百家机器人集中亮相，InfoQ 撰文反思展会喧嚣背后 AI 对产业和叙事的真实影响。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&utm_medium=article",
+          "items": [
+            "840153dd56d5dc32"
+          ],
+          "cover_path": "out/media/2026-08-03/opinion-06.jpg"
+        },
+        {
+          "headline": "Sam Altman 坚持 ChatGPT 育儿是“酷用例”",
+          "summary": "OpenAI CEO 在 X 上继续分享用 ChatGPT 育儿的“酷用例”，但网友对此看法两极。",
+          "importance": 3,
+          "primary_url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+          "items": [
+            "c7c0c0007f86153b"
+          ],
+          "cover_path": "out/media/2026-08-03/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "字节开源 deer-flow：长任务 SuperAgent",
+          "summary": "deer-flow 集成沙箱、记忆、工具、技能与子代理，可处理从分钟到小时级的复杂任务。",
+          "importance": 5,
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-00.jpg"
+        },
+        {
+          "headline": "Karpathy 开源 autoresearch：AI 自动做科研",
+          "summary": "Karpathy 的新项目让 AI Agent 在单 GPU 上自动跑 nanochat 训练并迭代研究，展示自动化科研潜力。",
+          "importance": 5,
+          "primary_url": "https://github.com/karpathy/autoresearch",
+          "items": [
+            "2ddf032743e9b254"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-01.jpg"
+        },
+        {
+          "headline": "GitHub 发布多平台 Copilot SDK",
+          "summary": "官方 SDK 允许开发者把 GitHub Copilot Agent 集成进自己的应用与服务，进一步开放 Copilot 生态。",
+          "importance": 5,
+          "primary_url": "https://github.com/github/copilot-sdk",
+          "items": [
+            "10060b3e93d189c4"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-02.jpg"
+        },
+        {
+          "headline": "Hugging Face 开源本地语音 Agent 框架",
+          "summary": "speech-to-speech 让你用开源模型在本地构建语音 Agent，主打隐私与可定制。",
+          "importance": 5,
+          "primary_url": "https://github.com/huggingface/speech-to-speech",
+          "items": [
+            "1e985fa2f54520c2"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-03.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 Molt：PyTorch 原生 Agentic RL",
+          "summary": "Molt 用约 8600 行 RL 代码降低 Agentic RL 研究的迭代成本，致力于解决框架繁琐问题。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+          "items": [
+            "56ac1928cc1e0743"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-04.jpg"
+        },
+        {
+          "headline": "微软开源 TRELLIS.2：结构化 3D 生成",
+          "summary": "TRELLIS.2 使用原生且紧凑的结构化潜变量进行 3D 生成，面向高质量 3D 资产生成。",
+          "importance": 5,
+          "primary_url": "https://github.com/microsoft/TRELLIS.2",
+          "items": [
+            "a1aeb2fe126c749f"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-05.jpg"
+        },
+        {
+          "headline": "腾讯云开源 Agent Memory 记忆中枢",
+          "summary": "TencentDB Agent Memory 将对话、文档和代码转化为四类可复用记忆资产，供团队内多个 Agent 共享和治理。",
+          "importance": 4,
+          "primary_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "items": [
+            "3f7d4a74f23bd640"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-06.jpg"
+        },
+        {
+          "headline": "Unsloth 本地 UI 支持 K3/Gemma 4 训练",
+          "summary": "Unsloth 更新本地界面，支持 Kimi K3、Gemma 4、Qwen3.6、DeepSeek-V4 等模型的训练与推理。",
+          "importance": 4,
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-08-03/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
