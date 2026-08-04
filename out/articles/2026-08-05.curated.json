@@ -1,0 +1,480 @@
+{
+  "date": "2026-08-05",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "阿里Qwen3.8发布，编程与Agent能力大升级，海外平台抢接入",
+          "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8系列（Max 2.4T及27B），编程与Agent能力大幅提升，发布当日OpenRouter、Vercel、DeepInfra等海外平台纷纷接入。",
+          "primary_url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+          "importance": 8,
+          "items": [
+            "b0a4d4bc60ac9972",
+            "0963174bd4e79013",
+            "18f63b378bc663e6"
+          ],
+          "cover_path": "out/media/2026-08-05/model_release-00.jpg"
+        },
+        {
+          "headline": "MiniMax-H3开源模型首登AI视频榜榜首",
+          "summary": "中国MiniMax发布H3系列，成为首个在AI视频生成排行榜登顶的开源权重模型，并已通过MLX支持在苹果芯片本地运行。",
+          "primary_url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+          "importance": 7,
+          "items": [
+            "2bb70922f6edf706",
+            "0cea8c159dcc0b9b"
+          ],
+          "cover_path": "out/media/2026-08-05/model_release-01.jpg"
+        },
+        {
+          "headline": "英伟达开放Alpamayo 2 Super模型商用，专攻自动驾驶长尾场景",
+          "summary": "英伟达宣布Alpamayo 2 Super开源模型可商用，面向Robotaxi和自动驾驶，主要解决罕见复杂路况的长尾难题。",
+          "primary_url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+          "importance": 6,
+          "items": [
+            "2af190f5c4f4ba61"
+          ],
+          "cover_path": "out/media/2026-08-05/model_release-02.jpg"
+        },
+        {
+          "headline": "商汤开源SenseNova U1.5-Lite-Preview，支持4K原生多模态",
+          "summary": "商汤开源轻量级统一多模态模型SenseNova U1.5-Lite-Preview，在U1基础上增强图像生成与编辑能力，可直出4K图像。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html",
+          "importance": 6,
+          "items": [
+            "2e07edd2c1729747",
+            "022456c98aa339e5"
+          ]
+        },
+        {
+          "headline": "DeepSeek V4 Flash低价屠榜，海外平台争相接入",
+          "summary": "DeepSeek V4 Flash以极低价格引发硅谷震动，海外API平台和开发者社区纷纷接入支持，被称“用性价比打服硅谷”。",
+          "primary_url": "https://www.qbitai.com/2026/08/465814.html",
+          "importance": 5,
+          "items": [
+            "648b68b0e35905c5"
+          ],
+          "cover_path": "out/media/2026-08-05/model_release-04.jpg"
+        },
+        {
+          "headline": "腾讯混元发布Hy ASR 3.0，语音识别能懂上下文",
+          "summary": "腾讯混元推出Hy ASR 3.0 preview，在语音识别中加入上下文理解能力，已接入腾讯元宝。",
+          "primary_url": "https://www.qbitai.com/2026/08/465973.html",
+          "importance": 5,
+          "items": [
+            "e98a80176e67eae6"
+          ],
+          "cover_path": "out/media/2026-08-05/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic签100亿美元算力大单，合作方竟成立仅半年",
+          "summary": "Anthropic与AI云初创Volta达成约100亿美元算力协议，Volta半年前才成立，凸显AI算力争夺的白热化。",
+          "primary_url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "importance": 8,
+          "items": [
+            "2a5f44ddbb0239ef",
+            "1e09a9d2f37b2e84",
+            "3ecd75818653af15"
+          ],
+          "cover_path": "out/media/2026-08-05/company-00.jpg"
+        },
+        {
+          "headline": "苹果诉OpenAI窃密升级：前员工范围扩大，OpenAI晒聊天记录反击",
+          "summary": "苹果在最新法庭文件中称更多前员工可能将机密带给OpenAI；OpenAI则公布聊天记录反击，显示苹果员工离职后仍与同事保持联系。",
+          "primary_url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "importance": 7,
+          "items": [
+            "2d31d46433a998e5",
+            "e8ff7053ffcc3e67"
+          ],
+          "cover_path": "out/media/2026-08-05/company-01.jpg"
+        },
+        {
+          "headline": "英伟达领衔120+企业发布SAFE指南，专防AI Agent攻击",
+          "summary": "成立仅一周的Open Secure AI Alliance在Black Hat大会前发布SAFE安全透明度指南，成员已超120家，并已提出针对AI Agent的防御提案。",
+          "primary_url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+          "importance": 7,
+          "items": [
+            "c3f5f6018e14df12",
+            "b49f9b01e3358c53"
+          ],
+          "cover_path": "out/media/2026-08-05/company-02.jpg"
+        },
+        {
+          "headline": "推理工程公司Baseten被曝完成130亿美元F轮",
+          "summary": "Latent Space播客披露，Baseten已完成130亿美元F轮融资，成为推理工程领域的头部玩家。",
+          "primary_url": "https://www.latent.space/p/inference-eng",
+          "importance": 6,
+          "items": [
+            "099744b372c0d6a1"
+          ],
+          "cover_path": "out/media/2026-08-05/company-03.jpg"
+        },
+        {
+          "headline": "谷歌将数十亿美元Anthropic芯片风险移出表外",
+          "summary": "谷歌通过财务安排将计入资产负债表的Anthropic芯片相关风险转移出表，降低自身敞口。",
+          "primary_url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+          "importance": 5,
+          "items": [
+            "7ed3904649d2233c"
+          ],
+          "cover_path": "out/media/2026-08-05/company-04.jpg"
+        },
+        {
+          "headline": "韩国国家AI算力中心开工，总投资2.5万亿韩元",
+          "summary": "由三星SDS牵头的韩国国家AI算力中心在全罗南道开工，预计2028年竣工，以增强韩国AI竞争力。",
+          "primary_url": "https://36kr.com/newsflashes/3925199434611072?f=rss",
+          "importance": 5,
+          "items": [
+            "7115a192b131b4f9"
+          ],
+          "cover_path": "out/media/2026-08-05/company-05.jpg"
+        },
+        {
+          "headline": "CoWoS封装产能告急，台积电外包给日月光",
+          "summary": "英伟达GPU订单挤爆台积电封装产线，台积电决定将CoW环节外包给日月光等封测厂商以缓解AI芯片产能瓶颈。",
+          "primary_url": "https://36kr.com/newsflashes/3925154441787525?f=rss",
+          "importance": 5,
+          "items": [
+            "07deaf7ad331568b"
+          ],
+          "cover_path": "out/media/2026-08-05/company-06.jpg"
+        },
+        {
+          "headline": "Design Arena获790万美元融资，用人类审美训练AI",
+          "summary": "拥有530万用户的Design Arena完成790万美元融资，为前沿AI实验室提供关键人类评估数据。",
+          "primary_url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "importance": 4,
+          "items": [
+            "37773dba5f999cc6"
+          ],
+          "cover_path": "out/media/2026-08-05/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "数学家24小时驳回OpenAI'攻破'的猜想：每句都对，但离题了",
+          "summary": "在OpenAI模型声称攻破某数学猜想后第二天，人类数学家发表论文指出AI的“反例”不成立，证明过程虽句句正确却已偏离原猜想。",
+          "primary_url": "https://www.qbitai.com/2026/08/465792.html",
+          "importance": 6,
+          "items": [
+            "4b6ebae42559b4b0"
+          ],
+          "cover_path": "out/media/2026-08-05/research-00.jpg"
+        },
+        {
+          "headline": "新基准SWE-Touch考验编程Agent：用户中途改代码怎么办",
+          "summary": "arXiv新研究提出SWE-Touch基准，模拟开发者在任务进行中修改代码的真实场景，衡量编程Agent的协作适应能力。",
+          "primary_url": "http://arxiv.org/abs/2608.02499v1",
+          "importance": 4,
+          "items": [
+            "fccf9b6d9b595b08"
+          ],
+          "cover_path": "out/media/2026-08-05/research-01.jpg"
+        },
+        {
+          "headline": "AURORA-LM：连续潜空间扩散语言模型挑战token范式",
+          "summary": "新论文提出AURORA-LM，用自编码统一表示在连续潜在空间进行扩散语言建模，为生成式语言模型提供新路线。",
+          "primary_url": "http://arxiv.org/abs/2608.02602v1",
+          "importance": 4,
+          "items": [
+            "700904b1856e2d04"
+          ],
+          "cover_path": "out/media/2026-08-05/research-02.jpg"
+        },
+        {
+          "headline": "CMuon优化器：加速扩散Transformer训练并提升稳定性",
+          "summary": "论文提出CMuon优化器，基于分块动量正交化稳定并加速DiT训练，降低计算成本。",
+          "primary_url": "http://arxiv.org/abs/2608.02502v1",
+          "importance": 4,
+          "items": [
+            "7e4e07d07e07ce2c"
+          ],
+          "cover_path": "out/media/2026-08-05/research-03.jpg"
+        },
+        {
+          "headline": "研究：AI书潮正在稀释图书市场，低质'slop'有商业影响",
+          "summary": "一项研究检验AI生成书籍的市场影响，发现它们并非无人问津，正在稀释图书市场并改变竞争格局。",
+          "primary_url": "http://arxiv.org/abs/2607.20349v3",
+          "importance": 4,
+          "items": [
+            "ad95b41dfbb4aeb8"
+          ],
+          "cover_path": "out/media/2026-08-05/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI发布ChatGPT Work与Codex教育套件，K-12到大学全覆盖",
+          "summary": "OpenAI推出面向教师和学生的教育插件，帮助K-12和高校课堂进行学习、教学、研究与开发，Latent Space也拆解了ChatGPT Work的底层机制。",
+          "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "importance": 7,
+          "items": [
+            "72ba45a9a8fd04b9",
+            "3f59ccdb261605e7"
+          ]
+        },
+        {
+          "headline": "AWS把vibe-coding工具Superblocks塞进私有云，应用与模型解耦",
+          "summary": "AWS允许Superblocks嵌入客户私有云，让企业低代码开发AI应用，标志着应用层与模型层进一步分离。",
+          "primary_url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "importance": 5,
+          "items": [
+            "d7a6dc7db9e80f74"
+          ],
+          "cover_path": "out/media/2026-08-05/product-01.jpg"
+        },
+        {
+          "headline": "灵光App'闪应用'创作者超400万，AI原生应用生态起飞",
+          "summary": "字节旗下灵光App宣布闪应用创作者超400万，其中多数为无编程背景用户，游戏化模拟器成为最热品类。",
+          "primary_url": "https://36kr.com/newsflashes/3925163486034309?f=rss",
+          "importance": 5,
+          "items": [
+            "b487f29a330896f0",
+            "64bee3d9aca27084"
+          ],
+          "cover_path": "out/media/2026-08-05/product-02.jpg"
+        },
+        {
+          "headline": "Spotify AI翻唱获Merlin支持，3万独立厂牌入局",
+          "summary": "继环球音乐后，代表超3万家独立厂牌的Merlin也加入Spotify的AI混音与翻唱付费功能，用户可创作AI翻唱。",
+          "primary_url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+          "importance": 5,
+          "items": [
+            "6f4dadb88bf23ee4"
+          ],
+          "cover_path": "out/media/2026-08-05/product-03.jpg"
+        },
+        {
+          "headline": "GitHub Copilot CLI改版：终端UI新增选项卡与免配置工具",
+          "summary": "GitHub Copilot CLI在重新设计的终端UI中加入了选项卡，并允许免配置文件设置工具，提升开发者体验。",
+          "primary_url": "https://www.infoq.cn/article/wybFeXucFGaobN7wQjev",
+          "importance": 4,
+          "items": [
+            "7a70dacff1511658"
+          ],
+          "cover_path": "out/media/2026-08-05/product-04.jpg"
+        },
+        {
+          "headline": "美国国会最爱AI工具是ChatGPT：写备忘录、总结法案全靠它",
+          "summary": "众议院支出记录显示ChatGPT在国会付费AI使用中占主导，办公室用它起草备忘录、总结立法与处理选民沟通。",
+          "primary_url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "importance": 4,
+          "items": [
+            "489a1f3b4052058b"
+          ],
+          "cover_path": "out/media/2026-08-05/product-05.jpg"
+        },
+        {
+          "headline": "Wrinkles：用AI声音导游揭开身边地点的隐藏历史",
+          "summary": "AI应用Wrinkles在iOS和Android上线，化身音频导游，为用户讲述所在地点被遗忘的故事。",
+          "primary_url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+          "importance": 4,
+          "items": [
+            "fc1f541d634bcd57"
+          ],
+          "cover_path": "out/media/2026-08-05/product-06.jpg"
+        },
+        {
+          "headline": "ESPN用AI实时解读扑克玩家'马脚'，引作弊争议",
+          "summary": "2026世界扑克大赛直播引入AI“马脚检测”工具，能读出玩家的微表情和动作，引发对扑克公平性的讨论。",
+          "primary_url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+          "importance": 4,
+          "items": [
+            "6e59ede461bdac4c"
+          ],
+          "cover_path": "out/media/2026-08-05/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI首办网红豪华旅行，舆论炸锅：太违和",
+          "summary": "OpenAI邀请网红参加首次品牌旅行，田园牧歌式豪华活动与AI行业氛围形成反差，在社交媒体上引发大量批评。",
+          "primary_url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "importance": 6,
+          "items": [
+            "b8856a7b04ad8984",
+            "c5bbe83e1151a5bb"
+          ],
+          "cover_path": "out/media/2026-08-05/opinion-00.jpg"
+        },
+        {
+          "headline": "德州暂停新数据中心，州长要求全面审计",
+          "summary": "得州因电网压力暂停新数据中心建设，州长下令审计；Wired长文也指出数据中心已打破美国地方政治格局。",
+          "primary_url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+          "importance": 6,
+          "items": [
+            "b4bc333568b78973",
+            "1769ab2e9ce6a2af"
+          ],
+          "cover_path": "out/media/2026-08-05/opinion-01.jpg"
+        },
+        {
+          "headline": "白宫AI网络安全框架只给OpenAI等看，公众被蒙在鼓里",
+          "summary": "特朗普政府周二向OpenAI、Anthropic等AI实验室透露AI网络安全框架细节，但该框架目前不对外公开。",
+          "primary_url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+          "importance": 6,
+          "items": [
+            "5616ee30ce3ff054"
+          ],
+          "cover_path": "out/media/2026-08-05/opinion-02.jpg"
+        },
+        {
+          "headline": "OpenAI详解第三方网络评估事件，公布新安全护栏",
+          "summary": "OpenAI就近期第三方网络安全评估事件作出说明，并推出新保障措施以加强AI模型测试与评估的安全性。",
+          "primary_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "importance": 5,
+          "items": [
+            "3a71b9efd89282c9"
+          ]
+        },
+        {
+          "headline": "SaferAI报告：开源权重模型逼近前沿，安全护栏仍缺失",
+          "summary": "SaferAI报告发现Z.ai的GLM-5.2开源模型能力接近顶级闭源模型，但缺少关键安全缓解措施，引发治理担忧。",
+          "primary_url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "importance": 5,
+          "items": [
+            "73df350007d94bb3"
+          ],
+          "cover_path": "out/media/2026-08-05/opinion-04.jpg"
+        },
+        {
+          "headline": "Palantir CEO：AI行业是'马克思主义'，前沿实验室不可信",
+          "summary": "在交出10亿美元利润财报后，Palantir CEO Alex Karp再度炮轰AI前沿实验室，称企业客户不应信任它们。",
+          "primary_url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "importance": 5,
+          "items": [
+            "9e2b06d2101ee8e3"
+          ],
+          "cover_path": "out/media/2026-08-05/opinion-05.jpg"
+        },
+        {
+          "headline": "硅谷因开源分歧抵制白宫对华AI禁令",
+          "summary": "白宫酝酿限制中国AI的禁令，但硅谷内部因开源生态利益产生分歧，开源阵营正推动推迟或弱化禁令。",
+          "primary_url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
+          "importance": 5,
+          "items": [
+            "cfd45c426f03e282"
+          ],
+          "cover_path": "out/media/2026-08-05/opinion-06.jpg"
+        },
+        {
+          "headline": "Stratechery：微软财报展现效率红利，但也藏警惕信号",
+          "summary": "Stratechery分析微软财报显示清晰战略、低成本与可落地应用，同时对比微软与Meta，警示“效率红利”的背面。",
+          "primary_url": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
+          "importance": 5,
+          "items": [
+            "720307befc674e50"
+          ],
+          "cover_path": "out/media/2026-08-05/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "开源版'Claude Science'发布：零依赖MIT协议，内置30+科研Skills",
+          "summary": "北京大学与元空AI联合实验室开源科研Agent工具包，零依赖、MIT协议，内置30多项科研技能，可让AI自动完成实验与论文分析。",
+          "primary_url": "https://www.qbitai.com/2026/08/466386.html",
+          "importance": 6,
+          "items": [
+            "b9f085b1b1006788"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-00.jpg"
+        },
+        {
+          "headline": "Redis之父发布ds4：DeepSeek 4本地推理引擎支持Metal/CUDA",
+          "summary": "antirez开源ds4，一个面向DeepSeek 4 Flash和PRO的本地推理引擎，支持Metal、CUDA和ROCm，可长时运行。",
+          "primary_url": "https://github.com/antirez/ds4",
+          "importance": 5,
+          "items": [
+            "32a30120b7fa7856"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-01.jpg"
+        },
+        {
+          "headline": "字节跳动开源DeerFlow：长时任务SuperAgent框架",
+          "summary": "字节开源DeerFlow，一个可研究、编码、创作的长时任务SuperAgent框架，内置沙箱、记忆、工具与子Agent。",
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "importance": 5,
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-02.jpg"
+        },
+        {
+          "headline": "微软开源TRELLIS.2，用结构化潜变量高效生成3D",
+          "summary": "微软发布TRELLIS.2，引入原生紧凑结构化潜变量，大幅提升3D生成的效率与精度。",
+          "primary_url": "https://github.com/microsoft/TRELLIS.2",
+          "importance": 5,
+          "items": [
+            "a1aeb2fe126c749f"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-03.jpg"
+        },
+        {
+          "headline": "腾讯云开源Agent Memory：把聊天/文档/代码变成团队记忆",
+          "summary": "TencentDB Agent Memory是团队级AI Agent记忆中枢，将对话、文档与代码转化为Chat Memory、Skill、LLM-Wiki和Code-Graph四类资产。",
+          "primary_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "importance": 4,
+          "items": [
+            "3f7d4a74f23bd640"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-04.jpg"
+        },
+        {
+          "headline": "科学Agent技能库走红：17万科学家在用，提供158项技能",
+          "summary": "K-Dense开源scientific-agent-skills，号称“把任何Agent变成AI科学家”，已被17万科学家使用，覆盖药物研发等领域。",
+          "primary_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "importance": 4,
+          "items": [
+            "f1ac3c1559abd3df"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-05.jpg"
+        },
+        {
+          "headline": "LiveKit Agents：开源实时语音AI Agent框架",
+          "summary": "LiveKit Agents提供构建实时语音AI Agent的框架，支持音视频输入输出，适用于语音助手、客服等场景。",
+          "primary_url": "https://github.com/livekit/agents",
+          "importance": 4,
+          "items": [
+            "6ac929a2cce3f70b"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-06.jpg"
+        },
+        {
+          "headline": "大晓开源L5级具身数据集ACE-Data-0：200任务1700万帧",
+          "summary": "大晓机器人开源具身智能数据集ACE-Data-0，包含200个真实家庭任务、1700万帧视频，为机器人提供“物理世界教材”。",
+          "primary_url": "https://www.infoq.cn/article/KlOeH3DoO10hQixeYQvM",
+          "importance": 4,
+          "items": [
+            "a2b21fbe70d044eb"
+          ],
+          "cover_path": "out/media/2026-08-05/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
