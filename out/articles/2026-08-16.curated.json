@@ -1,0 +1,495 @@
+{
+  "date": "2026-08-16",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "阿里开源Qwen3.8-27B，家用显卡可跑",
+          "summary": "阿里千问正式开源 Qwen3.8 系列，27B 原生多模态稠密模型在编程和办公场景超越前代 Plus，Apache 2.0 协议、量化后可在消费级显卡运行，千问全球下载量已超 30 亿次。",
+          "primary_url": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
+          "importance": 9,
+          "items": [
+            "f395193ea575e24c",
+            "31b86ebde71c87a9",
+            "122b090d3dc18f92",
+            "4ab463504c5e7073"
+          ],
+          "cover_path": "out/media/2026-08-16/model_release-00.jpg"
+        },
+        {
+          "headline": "Meta 发布开源权重模型 Glimmer",
+          "summary": "Meta 发布可本地下载运行的开源权重模型 Glimmer，与封闭在 API 背后的 Muse Spark 形成鲜明对比，再度引发关于「开放 AI」的讨论。",
+          "primary_url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+          "importance": 8,
+          "items": [
+            "8b34473a8c65a13f",
+            "0cee7c363a8473b5"
+          ],
+          "cover_path": "out/media/2026-08-16/model_release-01.jpg"
+        },
+        {
+          "headline": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格骨折",
+          "summary": "DeepMind 新帅上任后发布 Gemini 3.7 Flash，性能逼近旗舰型号，定价大幅下调，重新划下性价比斩杀线。",
+          "primary_url": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af",
+          "importance": 7,
+          "items": [
+            "0b7e2711b1042c29"
+          ],
+          "cover_path": "out/media/2026-08-16/model_release-02.jpg"
+        },
+        {
+          "headline": "GLM-5.3 发布：编程能力暴涨 50%",
+          "summary": "智谱 GLM-5.3 在底座未更换的情况下编程能力提升约 50%，并顺手揪出一个潜伏 40 年的世界级漏洞。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/TfPPSAIdcR2ijWkU.html",
+          "importance": 6,
+          "items": [
+            "bc4c5a03b459c4ac"
+          ]
+        },
+        {
+          "headline": "国产音乐模型音潮正面挑战 SUNO",
+          "summary": "国产 AI 音乐模型「音潮」宣称根治 AI 音乐通病，API 限时免费开放，直接对标 SUNO。",
+          "primary_url": "https://www.qbitai.com/2026/08/473866.html",
+          "importance": 5,
+          "items": [
+            "8d98545c0b1df86e"
+          ],
+          "cover_path": "out/media/2026-08-16/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "SpaceX 正式完成收购 Cursor",
+          "summary": "AI 编程明星公司 Cursor 正式成为 SpaceX 的一部分，这笔备受关注的收购尘埃落定。",
+          "primary_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "importance": 8,
+          "items": [
+            "9f1e400c7aa9d03a"
+          ],
+          "cover_path": "out/media/2026-08-16/company-00.jpg"
+        },
+        {
+          "headline": "英伟达资本棋局：减持 OpenAI、披露 SpaceX 持股",
+          "summary": "在投资者压力下英伟达缩减对 OpenAI 的押注，同时披露持有约 210 亿美元 SpaceX 股份和 300 亿美元英特尔股份；黄仁勋提出最高 25% 残值支持机制以安抚算力投资市场。",
+          "primary_url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+          "importance": 8,
+          "items": [
+            "53eaa38f398c5bdb",
+            "77e71bd6c436264d",
+            "88c1576b6be89deb"
+          ],
+          "cover_path": "out/media/2026-08-16/company-01.jpg"
+        },
+        {
+          "headline": "谷歌肢解 DeepMind，多个团队划归总部",
+          "summary": "谷歌开始将 DeepMind 数个团队划归总部，布林亲自下场督战，组织架构迎来大调整。",
+          "primary_url": "https://www.qbitai.com/2026/08/473153.html",
+          "importance": 8,
+          "items": [
+            "687819c6becd2eaf"
+          ],
+          "cover_path": "out/media/2026-08-16/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 与 Anthropic 价格战，中国对手施压",
+          "summary": "面对中国 AI 厂商的竞争，OpenAI 和 Anthropic 相继推出更便宜的模型，美国两大巨头开始价格战。",
+          "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "importance": 7,
+          "items": [
+            "59ab43ce7c739408"
+          ],
+          "cover_path": "out/media/2026-08-16/company-03.jpg"
+        },
+        {
+          "headline": "Meta 离职潮失控，百万美元留人无效",
+          "summary": "Meta 遭遇人才流失，即使提供 100 万美元以上留任股权也无法阻止；此前 7 亿年薪挖来的余家辉也已离职创业。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
+          "importance": 7,
+          "items": [
+            "d08a9a65cd1822f8",
+            "61e52f9ac43f6580"
+          ],
+          "cover_path": "out/media/2026-08-16/company-04.jpg"
+        },
+        {
+          "headline": "宇树未上市先遭疯抢，暗盘报价 520 元",
+          "summary": "宇树科技上市前场外暗盘交易悄然兴起，中介报价最高达发行价 3 倍以上，折射 A 股打新套利生态。",
+          "primary_url": "https://36kr.com/newsflashes/3940284903701895?f=rss",
+          "importance": 6,
+          "items": [
+            "5a85a4d98ee88a92"
+          ]
+        },
+        {
+          "headline": "段永平李录二季度调仓：减持英伟达",
+          "summary": "段永平大幅减持英伟达、谷歌，李录清仓多只美股并翻倍增持拼多多，投资大佬用脚投票 AI 股。",
+          "primary_url": "https://36kr.com/newsflashes/3940412779150472?f=rss",
+          "importance": 5,
+          "items": [
+            "2aefbca7869ad87a",
+            "c97b31204c2b872e"
+          ]
+        },
+        {
+          "headline": "英伟达联手印尼高校设首个 AI 中心",
+          "summary": "英伟达与印尼通信部、Indosat 和 Gadjah Mada 大学合作，开设印尼首个大学 AI 技术中心，培养本地 AI 人才。",
+          "primary_url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+          "importance": 5,
+          "items": [
+            "7461cd85a2dd89de"
+          ],
+          "cover_path": "out/media/2026-08-16/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "新基准确认 AI 视觉感知依然拉胯",
+          "summary": "最新 benchmark 测试显示，当前 AI 模型在视觉感知任务上表现依然糟糕，与人类水平差距明显。",
+          "primary_url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+          "importance": 6,
+          "items": [
+            "3eb1624a9858b4dd"
+          ],
+          "cover_path": "out/media/2026-08-16/research-00.jpg"
+        },
+        {
+          "headline": "World Labs 将机器人任务扩为千种仿真",
+          "summary": "World Labs 提出新方法，将一个真实机器人任务转化为数千个模拟变体用于训练，大幅提升数据效率。",
+          "primary_url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+          "importance": 6,
+          "items": [
+            "d03064a8b4153d41"
+          ],
+          "cover_path": "out/media/2026-08-16/research-01.jpg"
+        },
+        {
+          "headline": "至知研究院拆权重解释大模型，成本不到1%",
+          "summary": "至知研究院提出大模型可解释性新路线：直接拆解权重理解模型，数据成本不到传统方法的 1%。",
+          "primary_url": "https://www.qbitai.com/2026/08/473876.html",
+          "importance": 6,
+          "items": [
+            "7de7860fdabb0d40"
+          ],
+          "cover_path": "out/media/2026-08-16/research-02.jpg"
+        },
+        {
+          "headline": "研究打脸：自主 AI 研究没那么近",
+          "summary": "一项研究反驳 Anthropic 和 OpenAI 关于自主 AI 研究即将实现的乐观说法，认为目前技术差距仍大。",
+          "primary_url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+          "importance": 6,
+          "items": [
+            "89ca5644904e83ec"
+          ],
+          "cover_path": "out/media/2026-08-16/research-03.jpg"
+        },
+        {
+          "headline": "Google 让同态加密私有 AI 走向实用",
+          "summary": "Google 官方博客介绍如何用同态加密让 AI 在加密数据上计算，使私有 AI 具备实际可用性。",
+          "primary_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+          "importance": 5,
+          "items": [
+            "4eee90c4569a1472"
+          ],
+          "cover_path": "out/media/2026-08-16/research-04.jpg"
+        },
+        {
+          "headline": "AI 工作记忆远超人类大脑？",
+          "summary": "文章称 AI 拥有远超人类大脑的工作记忆容量，但这并未让它在数学上超越人类数学家。",
+          "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "importance": 5,
+          "items": [
+            "db20b57520847ccc"
+          ],
+          "cover_path": "out/media/2026-08-16/research-05.jpg"
+        },
+        {
+          "headline": "隐式推理模型几乎不用隐藏状态？",
+          "summary": "arXiv 研究测试 Coconut 和 CODI 模型，发现隐式推理模型很少利用中间隐藏状态，可解释性存疑。",
+          "primary_url": "https://arxiv.org/abs/2604.04902",
+          "importance": 4,
+          "items": [
+            "24d60f4055d856e1"
+          ],
+          "cover_path": "out/media/2026-08-16/research-06.jpg"
+        },
+        {
+          "headline": "训练 AI 科学家复现科研全流程",
+          "summary": "Inherent Labs 发布研究，训练 AI 科学家复现已发表研究，探索科研自动化的边界。",
+          "primary_url": "https://inherentlabs.ai/research/training-to-replicate",
+          "importance": 4,
+          "items": [
+            "0d11dc999f1965f0"
+          ],
+          "cover_path": "out/media/2026-08-16/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 推 Computer History：操作时间线可搜索",
+          "summary": "OpenAI 的 Computer History 可将用户的点击和键盘操作转化为可搜索的 ChatGPT 记忆时间线，让 AI 拥有「情境记忆」。",
+          "primary_url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+          "importance": 7,
+          "items": [
+            "f51e8c1130d79b05"
+          ],
+          "cover_path": "out/media/2026-08-16/product-00.jpg"
+        },
+        {
+          "headline": "Anthropic 推水印检测 API，第三方可识别 AI 文本",
+          "summary": "Anthropic 发布水印检测 API，第三方服务可检测 Claude 生成的文本水印，官方进一步披露技术细节。",
+          "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "importance": 7,
+          "items": [
+            "d6a6f6c6e739436f",
+            "41cfbbc94b5930e1"
+          ],
+          "cover_path": "out/media/2026-08-16/product-01.jpg"
+        },
+        {
+          "headline": "Cloudflare Computer 发布：AI 智能体持久化环境",
+          "summary": "Cloudflare Computer 为 AI 智能体提供持久化运行环境，使其能够长期保存状态并执行复杂任务。",
+          "primary_url": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb",
+          "importance": 6,
+          "items": [
+            "161b6ad10e0d82c2"
+          ],
+          "cover_path": "out/media/2026-08-16/product-02.jpg"
+        },
+        {
+          "headline": "Google 允许移除 AI 生成内容可见水印",
+          "summary": "Google 将允许用户关闭 AI 生成内容的可见水印，但不可见的识别标记仍会保留。",
+          "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "importance": 6,
+          "items": [
+            "68cb5eb9725a1d38"
+          ],
+          "cover_path": "out/media/2026-08-16/product-03.jpg"
+        },
+        {
+          "headline": "原生物理世界模型落地欧洲商超",
+          "summary": "成立 4 个月的索塔无界与欧洲最大商超集团达成战略合作，未来 3 年部署超千台具身智能机器人。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/aEyXlap53PQXDDYJ.html",
+          "importance": 6,
+          "items": [
+            "72db5d4800f293e6"
+          ]
+        },
+        {
+          "headline": "鹿明发布 MOS2：全球首个双臂负载 50kg 机器人",
+          "summary": "鹿明机器人发布重载轮臂式具身智能机器人 Lumos MOS2，为全球首个双臂负载 50kg 的轮臂式机器人。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/24fbshcNUNahZuQz.html",
+          "importance": 5,
+          "items": [
+            "2ada41a6acf0f5f0"
+          ]
+        },
+        {
+          "headline": "千问办公首发上线 GLM-5.3 与 DeepSeek V4 Pro",
+          "summary": "阿里 Agent 产品千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 两款前沿模型，累计支持三款国产旗舰模型。",
+          "primary_url": "https://36kr.com/newsflashes/3940346809810055?f=rss",
+          "importance": 5,
+          "items": [
+            "c6f9bd436ead5d86"
+          ]
+        },
+        {
+          "headline": "百度 GenFlow 更名「库库AI」，推办公独立端",
+          "summary": "百度文库网盘通用智能体 GenFlow 官宣中文名「库库AI」，并上线 PC 客户端、网页端、小程序及企业版。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/jlbLtAX6KzW9yYGJ.html",
+          "importance": 5,
+          "items": [
+            "5a647c5c7122b9a4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Opus 5 为何用起来更差了？HN 热议",
+          "summary": "一篇 HN 高赞文章（931 分）质疑 Opus 5 的实际使用体验为何比预期更差，引发对模型能力评估方式的讨论。",
+          "primary_url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+          "importance": 7,
+          "items": [
+            "825cdee7c453e1f3"
+          ]
+        },
+        {
+          "headline": "原告在法庭文件中藏不可见 AI 指令",
+          "summary": "一名原告怀疑法庭使用 AI 审案，在提交文件中隐藏不可见的 prompt 试图影响自动审查系统，法官发出警告。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "importance": 6,
+          "items": [
+            "c29ecac381e344aa",
+            "ebfeb2fffb79d4f6"
+          ],
+          "cover_path": "out/media/2026-08-16/opinion-01.jpg"
+        },
+        {
+          "headline": "女子指控继父用 Grok 将童年照变色情图",
+          "summary": "一名女性指控其继父使用 xAI 的 Grok 将童年照片转化为露骨色情内容，引发对 AI 工具滥用的担忧。",
+          "primary_url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "importance": 6,
+          "items": [
+            "8e709c0c4a3e3697"
+          ],
+          "cover_path": "out/media/2026-08-16/opinion-02.jpg"
+        },
+        {
+          "headline": "亚马逊可用 Twitch 内容训练 AI，需主动退选",
+          "summary": "Twitch 默认允许亚马逊使用主播内容训练 AI，用户需手动 Opt-out，引发大量主播质疑。",
+          "primary_url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+          "importance": 6,
+          "items": [
+            "dc873b3243c8dcc4"
+          ],
+          "cover_path": "out/media/2026-08-16/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 生成书籍泛滥亚马逊，人类作者销量受损",
+          "summary": "AI 生成的书籍正大量涌入亚马逊平台，严重冲击人类作者的销量和收入。",
+          "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+          "importance": 6,
+          "items": [
+            "772502e2af11c7a6"
+          ],
+          "cover_path": "out/media/2026-08-16/opinion-04.jpg"
+        },
+        {
+          "headline": "Codex 与 Claude Code 负责人公开互怼",
+          "summary": "OpenAI Codex 和 Anthropic Claude Code 的负责人公开在社交媒体上「对喷」，掀起 AI 编程工具阵营大战。",
+          "primary_url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp",
+          "importance": 6,
+          "items": [
+            "235d8ed60649f860"
+          ],
+          "cover_path": "out/media/2026-08-16/opinion-05.jpg"
+        },
+        {
+          "headline": "Tim O'Reilly：大 AI 实验室不懂用户要什么",
+          "summary": "出版业传奇 Tim O'Reilly 表示，大型 AI 实验室并未真正理解用户需求，而开源 AI 才是他热爱的方向。",
+          "primary_url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+          "importance": 5,
+          "items": [
+            "f4849f92f86f80c2"
+          ],
+          "cover_path": "out/media/2026-08-16/opinion-06.jpg"
+        },
+        {
+          "headline": "「认知公地悲剧」：AI 正在摧毁职业专长",
+          "summary": "观点文章认为，理性采用 AI 的个体行为将导致整个职业的专业知识体系被掏空，形成「认知公地悲剧」。",
+          "primary_url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
+          "importance": 5,
+          "items": [
+            "b06b8446815c4e31"
+          ],
+          "cover_path": "out/media/2026-08-16/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "DeepSeek 开源 Harness：模型工具全是插件",
+          "summary": "DeepSeek 正式开源 Harness 框架，模型、工具和 Agent Loop 全部插件化，社区已为其开发出长期记忆、电子宠物等玩法，同时发布 awesome-deepseek-agent 资源列表。",
+          "primary_url": "https://www.infoq.cn/article/de9AljWc4ejW2KAyW8dD",
+          "importance": 8,
+          "items": [
+            "473be0f7b365f999",
+            "534c89dac7f84bd5",
+            "db4c187feed607f0"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-00.jpg"
+        },
+        {
+          "headline": "Lightricks 开源 LTX-2 音视频生成模型",
+          "summary": "Lightricks 发布 LTX-2 的官方 Python 推理和 LoRA 训练包，开源音频-视频生成模型。",
+          "primary_url": "https://github.com/Lightricks/LTX-2",
+          "importance": 6,
+          "items": [
+            "3115031911235249"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-01.jpg"
+        },
+        {
+          "headline": "Flue 2：给 Agent 引入 React 式 Hooks",
+          "summary": "Astro 作者打造的 Agent 框架 Flue 2 发布，借鉴 React Hooks 理念，重新定义 Agent harness。",
+          "primary_url": "https://www.latent.space/p/flue-2",
+          "importance": 5,
+          "items": [
+            "d9ea8b56051e8c96"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-02.jpg"
+        },
+        {
+          "headline": "RAGFlow：开源 RAG 引擎登顶趋势榜",
+          "summary": "RAGFlow 作为领先的开源 RAG 引擎，融合 Agent 能力为 LLM 提供上下文层，近期登上 GitHub 趋势榜。",
+          "primary_url": "https://github.com/infiniflow/ragflow",
+          "importance": 5,
+          "items": [
+            "81a7003cd60885bc"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-03.jpg"
+        },
+        {
+          "headline": "Unsloth 本地 UI 支持 Qwen3.8 等新模型",
+          "summary": "Unsloth 的本地 UI 现可运行和训练 Qwen3.8、Kimi K3、DeepSeek-V4 等最新模型。",
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "importance": 5,
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-04.jpg"
+        },
+        {
+          "headline": "Needle 2：14MB 微型模型跑在手机和机器人上",
+          "summary": "Needle 2 是一个仅 14MB 的基础模型，面向手机、可穿戴设备、智能家居和机器人等小型设备。",
+          "primary_url": "https://github.com/cactus-compute/needle",
+          "importance": 5,
+          "items": [
+            "855720dee4317896"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-05.jpg"
+        },
+        {
+          "headline": "开源技能库让 AI Agent 变身科学家",
+          "summary": "scientific-agent-skills 提供 161 个经过验证的科学技能和 100+ 科学数据库，被全球 17 万科学家使用。",
+          "primary_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "importance": 4,
+          "items": [
+            "f1ac3c1559abd3df"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-06.jpg"
+        },
+        {
+          "headline": "holaOS：开源一体化 AI Agent 工作区",
+          "summary": "holaOS 是开源 AI Agent 工作区，可在 100+ 工具集成和共享内存中运行 Claude Code、Codex 等任意 Agent。",
+          "primary_url": "https://github.com/holaboss-ai/holaOS",
+          "importance": 4,
+          "items": [
+            "3b7e0be8c67bfa41"
+          ],
+          "cover_path": "out/media/2026-08-16/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
