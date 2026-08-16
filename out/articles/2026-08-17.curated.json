@@ -1,0 +1,400 @@
+{
+  "date": "2026-08-17",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Qwen 3.8 27B 发布，评测称爱‘过度思考’",
+          "summary": "阿里 Qwen 团队开源 Apache 2.0 许可的 27B 视觉语言模型 Qwen 3.8 27B；开发者 Simon Willison 评测认为其能力出色，但默认会进行过量的推理思考。",
+          "primary_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+          "importance": 7,
+          "items": [
+            "59594219a1cdb009"
+          ],
+          "cover_path": "out/media/2026-08-17/model_release-00.jpg"
+        },
+        {
+          "headline": "千问办公首发上线 GLM-5.3 与 DeepSeek V4 Pro",
+          "summary": "阿里 Agent 产品千问办公新增首发 GLM-5.3 和 DeepSeek V4 Pro 两款模型，用户可在首页“前沿模型”档位选用。",
+          "primary_url": "https://36kr.com/newsflashes/3941654349266307",
+          "importance": 6,
+          "items": [
+            "0f297f046d9ba1a7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "传 Stripe 以 70 亿美元收购 AI 网关 OpenRouter",
+          "summary": "TechCrunch 援引消息称，支付巨头 Stripe 将收购 AI 网关初创 OpenRouter，交易金额超 70 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "importance": 8,
+          "items": [
+            "050b3f4b967b9954"
+          ],
+          "cover_path": "out/media/2026-08-17/company-00.jpg"
+        },
+        {
+          "headline": "SpaceX 正式完成对 AI 编程工具 Cursor 的收购",
+          "summary": "AI 编程初创 Cursor 现已正式成为 SpaceX 的一部分，收购交易完成。",
+          "primary_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "importance": 8,
+          "items": [
+            "9f1e400c7aa9d03a"
+          ],
+          "cover_path": "out/media/2026-08-17/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 解散灾难性风险安全团队",
+          "summary": "OpenAI 解散了专门防范灾难性 AI 风险的团队，其工作被重新分配到其他小组。",
+          "primary_url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+          "importance": 8,
+          "items": [
+            "a229661a8fca2a72"
+          ],
+          "cover_path": "out/media/2026-08-17/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 生物武器过滤器失守近一年，1.33 亿请求遭暴露",
+          "summary": "安全报告显示，Anthropic 的生物武器防护过滤器曾中断近 12 个月，期间 1.33 亿次请求未被过滤。",
+          "primary_url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+          "importance": 8,
+          "items": [
+            "5963a929e295db3e"
+          ],
+          "cover_path": "out/media/2026-08-17/company-03.jpg"
+        },
+        {
+          "headline": "英伟达缩减 OpenAI 押注，成 SpaceX 第六大股东",
+          "summary": "投资者压力下 Nvidia 缩小对 OpenAI 的投资；最新 13F 显示其持有 SpaceX 约 210 亿美元股权。",
+          "primary_url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+          "importance": 7,
+          "items": [
+            "53eaa38f398c5bdb",
+            "b2f5347d5bab45a4"
+          ],
+          "cover_path": "out/media/2026-08-17/company-04.jpg"
+        },
+        {
+          "headline": "Anthropic 季营收暴涨 1400%，或成史上最高估值 IPO",
+          "summary": "Anthropic 最新季度入账 115 亿美元，营收同比增长 1400%，市场预计其 IPO 估值可能超越 SpaceX 成为史上最高。",
+          "primary_url": "https://www.qbitai.com/2026/08/473947.html",
+          "importance": 7,
+          "items": [
+            "2364f199a995c50c"
+          ],
+          "cover_path": "out/media/2026-08-17/company-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Anthropic 报告：多智能体系统的模式与问题",
+          "summary": "Anthropic 发布研究，梳理多智能体系统中出现的常见协作模式与典型问题，为设计 agent 团队提供参考。",
+          "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+          "importance": 6,
+          "items": [
+            "6d707330f4d2689a"
+          ],
+          "cover_path": "out/media/2026-08-17/research-00.jpg"
+        },
+        {
+          "headline": "实验：LLM 只读五年级教材会怎样？",
+          "summary": "一个项目训练 LLM 仅接触小学五年级及以下语料，观察极端受限语料对模型能力的影响，引发讨论。",
+          "primary_url": "https://littlelearner-ll.github.io/",
+          "importance": 5,
+          "items": [
+            "8c986598c336f8d1"
+          ]
+        },
+        {
+          "headline": "arXiv：潜在推理模型或几乎不可解释",
+          "summary": "研究测试 Coconut、CODI 等潜在推理模型，发现它们很少在可读的潜变量空间中进行可监控推理，安全性存疑。",
+          "primary_url": "https://arxiv.org/abs/2604.04902",
+          "importance": 4,
+          "items": [
+            "24d60f4055d856e1"
+          ],
+          "cover_path": "out/media/2026-08-17/research-02.jpg"
+        },
+        {
+          "headline": "不让人工智能反思自己，世界观会变",
+          "summary": "一项结果显示，当 AI 模型不被允许自我反思时，其自身与社会观念的表达会发生系统性改变。",
+          "primary_url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+          "importance": 4,
+          "items": [
+            "0a560f93987213be"
+          ],
+          "cover_path": "out/media/2026-08-17/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Cloudflare Computer 发布，AI 智能体有了持久运行环境",
+          "summary": "Cloudflare 推出 Computer，为 AI 智能体提供持久化云端运行环境，被视为 agent 基础设施新进展。",
+          "primary_url": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb",
+          "importance": 6,
+          "items": [
+            "161b6ad10e0d82c2"
+          ],
+          "cover_path": "out/media/2026-08-17/product-00.jpg"
+        },
+        {
+          "headline": "Anthropic 披露 Claude 水印更多细节",
+          "summary": "Anthropic 详解 Claude 输出水印的技术实现，包括如何应对编辑篡改以及对代码的影响。",
+          "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "importance": 6,
+          "items": [
+            "41cfbbc94b5930e1"
+          ],
+          "cover_path": "out/media/2026-08-17/product-01.jpg"
+        },
+        {
+          "headline": "Claude 系统提示词正式公开",
+          "summary": "Anthropic 发布 Claude 系统提示词文档，展示了模型被赋予的详细指令。",
+          "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "importance": 6,
+          "items": [
+            "07c397a89a0a8c23"
+          ],
+          "cover_path": "out/media/2026-08-17/product-02.jpg"
+        },
+        {
+          "headline": "Flue 2 发布：为 Agent 引入 React 式 Hooks",
+          "summary": "Astro 作者 Fred Schott 推出 Flue 2，借鉴 React 的 Hooks 模式来定义 agent 行为，强调 agent 由 harness 决定。",
+          "primary_url": "https://www.latent.space/p/flue-2",
+          "importance": 5,
+          "items": [
+            "d9ea8b56051e8c96"
+          ],
+          "cover_path": "out/media/2026-08-17/product-03.jpg"
+        },
+        {
+          "headline": "Optima：用你自己的数据测模型，挑战 AI 基准",
+          "summary": "Optima 平台允许用户基于自身数据测试模型，以弥补传统基准测试与真实场景的差距。",
+          "primary_url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+          "importance": 5,
+          "items": [
+            "275c516f48866ac0"
+          ],
+          "cover_path": "out/media/2026-08-17/product-04.jpg"
+        },
+        {
+          "headline": "WorkSwarm 发布：把 AI 助手变成团队",
+          "summary": "办公智能体 WorkSwarm 提出新范式，通过四项关键能力让多个 AI 从助手进化为协作团队。",
+          "primary_url": "https://www.qbitai.com/2026/08/473972.html",
+          "importance": 4,
+          "items": [
+            "1f792ba156b00683"
+          ],
+          "cover_path": "out/media/2026-08-17/product-05.jpg"
+        },
+        {
+          "headline": "七鲜智能无人咖啡店开业，机器人 1 小时做 202 杯",
+          "summary": "七鲜咖啡全球首家 24 小时无人店在北京开业，机器人 30 秒内完成一杯咖啡，并以 202 杯/小时挑战吉尼斯成功。",
+          "primary_url": "https://36kr.com/newsflashes/3942238599003529",
+          "importance": 4,
+          "items": [
+            "284024d20e12e0cf"
+          ]
+        },
+        {
+          "headline": "Printytron：自然语言描述即可生成 3D 打印文件",
+          "summary": "AI 工具 Printytron 让你描述一个零件，就能得到可打印的 STL 模型。",
+          "primary_url": "https://printytron.com",
+          "importance": 3,
+          "items": [
+            "1f81ce95a431632c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Anthropic CEO：AI 负面舆论是信任危机",
+          "summary": "Dario Amodei 在 X 上回应称，公众对 AI 的负面看法并非由 AI 领袖造成，其本质是信任危机。",
+          "primary_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "importance": 8,
+          "items": [
+            "11fd19c14fba5317",
+            "2ca511f90865b975"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-00.jpg"
+        },
+        {
+          "headline": "数学家：LLM 会计算，不会创造性思考",
+          "summary": "多位数学家与作者认为，LLM 在数学上只是“记忆”，而非真正的推理创造；相关讨论在 HN 收获大量关注。",
+          "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "importance": 8,
+          "items": [
+            "460069ca272bfd0e",
+            "d72c22bbe327e7ac"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-01.jpg"
+        },
+        {
+          "headline": "女子指控继父用 Grok 把童年照变色情图",
+          "summary": "一女子称 Grok 被她继父用于将童年照片转换成露骨内容，指责 AI 工具助长儿童性虐待材料。",
+          "primary_url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "importance": 7,
+          "items": [
+            "8e709c0c4a3e3697"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-02.jpg"
+        },
+        {
+          "headline": "李飞飞：AI 不是替代者，而是能力放大器",
+          "summary": "李飞飞在最新访谈中谈到 AI 对人的角色，强调技术应增强个人能力而非取代人类。",
+          "primary_url": "https://www.qbitai.com/2026/08/474140.html",
+          "importance": 7,
+          "items": [
+            "2164e27615d3169a"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 生成书籍泛滥亚马逊，人类作者销量受挫",
+          "summary": "大量 AI 生成书籍涌入亚马逊平台，正在稀释市场并冲击人类作者的销售收入。",
+          "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+          "importance": 6,
+          "items": [
+            "772502e2af11c7a6"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-04.jpg"
+        },
+        {
+          "headline": "MCP 走向无状态，开发者：这不又变回 API 了？",
+          "summary": "随着 MCP 协议向无状态演进，开发者社区对它与传统 API 的边界和意义展开争论。",
+          "primary_url": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD",
+          "importance": 6,
+          "items": [
+            "e7fae8c93b70fd5e"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-05.jpg"
+        },
+        {
+          "headline": "调查：五分之一美国员工把任务交给 AI 而非同事",
+          "summary": "一项调查发现，约 20% 的美国员工在工作中更愿意把任务委派给 AI，而不是人类同事。",
+          "primary_url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+          "importance": 5,
+          "items": [
+            "a2028f089fe745d6"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-06.jpg"
+        },
+        {
+          "headline": "观点：大众为何不买账扎克伯格的 AI 愿景",
+          "summary": "TechCrunch 在节目中探讨，为什么公众和行业对扎克伯格描绘的 AI 未来持怀疑态度。",
+          "primary_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "importance": 5,
+          "items": [
+            "af167ec7da7129c1"
+          ],
+          "cover_path": "out/media/2026-08-17/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Needle 2：仅 14MB 的端侧基础模型",
+          "summary": "开源项目 Needle 2 提供 14MB 的微型基础模型，面向手机、可穿戴、智能家居和机器人等低算力设备。",
+          "primary_url": "https://github.com/cactus-compute/needle",
+          "importance": 6,
+          "items": [
+            "855720dee4317896"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-00.jpg"
+        },
+        {
+          "headline": "Unsloth 推出本地 UI，支持 Qwen3.8、Kimi K3 等训练与运行",
+          "summary": "Unsloth 的本地界面可运行和训练多种 LLM 与扩散模型，包括 Qwen3.8、Kimi K3、MiniMax-H3、DeepSeek-V4 等。",
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "importance": 5,
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-01.jpg"
+        },
+        {
+          "headline": "SGLang-Omni：高性能服务 TTS/ASR 与全模态模型",
+          "summary": "SGLang-Omni 为语音、全模态模型提供高性能推理服务，扩展 SGLang 生态。",
+          "primary_url": "https://github.com/sgl-project/sglang-omni",
+          "importance": 5,
+          "items": [
+            "b701daf653b99aeb"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-02.jpg"
+        },
+        {
+          "headline": "Cursor 发布官方插件规范与插件库",
+          "summary": "Cursor 推出官方插件规范和一批面向开发者工具、框架的插件，支持扩展 AI 编程工作流。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "importance": 5,
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-03.jpg"
+        },
+        {
+          "headline": "MoneyPrinterTurbo：关键词一键生成 AI 短视频",
+          "summary": "开源工具 MoneyPrinterTurbo 利用 AI 与自动化工作流，根据主题或关键词自动生成高清短视频。",
+          "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "importance": 5,
+          "items": [
+            "88d3056299e36e7f"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-04.jpg"
+        },
+        {
+          "headline": "ToolJet：开源企业应用与 AI Agent 生成平台",
+          "summary": "ToolJet 提供开源基础，支持构建内部工具、仪表盘、业务应用与 AI 代理。",
+          "primary_url": "https://github.com/ToolJet/ToolJet",
+          "importance": 4,
+          "items": [
+            "9e93caa741ea7f08"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-05.jpg"
+        },
+        {
+          "headline": "CLI-Anything：让所有软件都变成 Agent 原生",
+          "summary": "港大数据智能实验室开源 CLI-Anything，将软件转变为可通过命令行与 AI Agent 交互的界面。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 4,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-06.jpg"
+        },
+        {
+          "headline": "ego-lite：面向 AI Agent 的轻量浏览器",
+          "summary": "ego-lite 是一个零配置的浏览器，可让 AI 代理（如 Codex、Claude Code）安全地共享登录状态进行自动化操作。",
+          "primary_url": "https://github.com/citrolabs/ego-lite",
+          "importance": 4,
+          "items": [
+            "893c72ccc8234e64"
+          ],
+          "cover_path": "out/media/2026-08-17/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
