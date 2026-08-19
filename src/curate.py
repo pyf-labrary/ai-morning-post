@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import time
 from dataclasses import asdict
 from pathlib import Path
 
@@ -180,6 +181,13 @@ def curate(date: str | None = None) -> Path:
         except CurateTruncated as e:
             last_err = e
             print(f"  ✗ {e} —— 降档重试")
+            continue
+        except Exception as e:  # noqa: BLE001
+            # 网络/端点抖动也走重试：08-15 补录踩过 httpx.RemoteProtocolError
+            # （流到一半对端断连），这类错误重试一次就好了，不该掀掉整轮。
+            last_err = e
+            print(f"  ✗ 调用失败 {type(e).__name__}: {e} —— 等 10s 重试")
+            time.sleep(10)
             continue
         filled, stories = _score(data)
         print(f"  → {filled} 个板块有内容，共 {stories} 条 story")
