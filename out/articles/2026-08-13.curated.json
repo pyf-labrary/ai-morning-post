@@ -1,0 +1,268 @@
+{
+  "date": "2026-08-13",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "importance": 10,
+          "headline": "DeepSeek V4 Pro 0813 上线，API 同步更新",
+          "summary": "DeepSeek V4 Pro 0813 版模型已在 OpenRouter 等平台上线，官方 API 文档同步更新，社区讨论热度极高。",
+          "primary_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "items": [
+            "321d7935b9364679"
+          ],
+          "cover_path": "out/media/2026-08-13/model_release-00.jpg"
+        },
+        {
+          "importance": 9,
+          "headline": "xAI 发布 Grok 4.6，评测指数 61 分",
+          "summary": "xAI 正式发布 Grok 4.6，Artificial Analysis 评测显示其智能指数达 61，相关测评文章与官方公告同步上线。",
+          "primary_url": "https://x.ai/news/grok-4-6",
+          "items": [
+            "fead850783ba607b",
+            "610556a21f4a9bdd"
+          ],
+          "cover_path": "out/media/2026-08-13/model_release-01.jpg"
+        },
+        {
+          "importance": 6,
+          "headline": "腾讯混元推 WorldClaw：智能体式 3D 开放世界生成",
+          "summary": "腾讯混元发布 Hunyuan3D-WorldClaw，宣称可在规模上智能生成 3D 开放世界，属于 Agentic 生成方向的进展。",
+          "primary_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+          "items": [
+            "22a4bac0f95c82f0"
+          ],
+          "cover_path": "out/media/2026-08-13/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "OpenAI 伦理主管加入不到一年就离职",
+          "summary": "OpenAI 道德与伦理负责人 Chloé Bakalar 据悉在加入不到一年后离开，业内关注其背后的治理或战略分歧。",
+          "primary_url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "items": [
+            "bc99305dd941bf18",
+            "dc8fd2c473f16346"
+          ]
+        },
+        {
+          "importance": 7,
+          "headline": "AI 应用平台 Lovable 获 4 亿美元 C 轮融资",
+          "summary": "Lovable 宣布完成 4 亿美元 Series C，继续押注用自然语言构建软件产品的 AI 开发平台赛道。",
+          "primary_url": "https://lovable.dev/blog/series-c",
+          "items": [
+            "ca59de67b4e7f528"
+          ],
+          "cover_path": "out/media/2026-08-13/company-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "德国倡导组织对 Meta AI 眼镜提起刑事投诉",
+          "summary": "德国一家隐私倡导组织就 Meta AI 眼镜的数据采集方式提起刑事投诉，引发对可穿戴 AI 监管的讨论。",
+          "primary_url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+          "items": [
+            "88a2b4f58d7c1bc5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "新研究展示从专有 LLM API 窃取推理链",
+          "summary": "一项名为“Stealing Reasoning Traces”的研究声称可从未公开推理过程的专有 LLM API 中重建模型思维链，引发安全性质疑。",
+          "primary_url": "https://stolen-thoughts.com/",
+          "items": [
+            "acfb1f95503e846b"
+          ]
+        },
+        {
+          "importance": 4,
+          "headline": "论文称 LLM 出现自发内省意识",
+          "summary": "一篇 arXiv 论文提出大型语言模型具有新兴的内省式觉察能力，在 Hacker News 引发讨论。",
+          "primary_url": "https://arxiv.org/abs/2601.01828",
+          "items": [
+            "8f28a6798b7f0df1"
+          ],
+          "cover_path": "out/media/2026-08-13/research-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Lean Eval：用忠实度衡量模型对齐",
+          "summary": "Millennium Research 发布 Lean Eval 评估工具，从 Faithfulness 角度对 LLM 对齐进行自动化评测。",
+          "primary_url": "https://www.millenniumresearch.ai/leanscreen.html#catch",
+          "items": [
+            "06b562ecaa5cf97c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "importance": 6,
+          "headline": "xAI 推出 Grok Bot 机器人服务",
+          "summary": "xAI 发布 Grok Bot，将 Grok 模型封装为可交互的机器人产品，在 X 平台提供新入口。",
+          "primary_url": "https://x.ai/news/introducing-grok-bot",
+          "items": [
+            "ba2f6ca6a58663ef",
+            "b07243f4ac0d43f4"
+          ],
+          "cover_path": "out/media/2026-08-13/product-00.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "YC 新项目 Discovered Materials：AI 智能体发现新材料",
+          "summary": "Discovered Materials 发布 AI 智能体，面向半导体等行业自动发现和设计新材料。",
+          "primary_url": "https://discoveredmaterials.com/research/",
+          "items": [
+            "4bb5b146b7d5588f"
+          ],
+          "cover_path": "out/media/2026-08-13/product-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Suzanne：用 AI 设计和制造实体产品",
+          "summary": "Suzanne 是一款面向实体产品设计与制造的 AI 工具，将自然语言描述转化为可制造模型。",
+          "primary_url": "https://www.suzanne3d.com/",
+          "items": [
+            "ce43e2eb20062a08"
+          ],
+          "cover_path": "out/media/2026-08-13/product-02.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "Keet：用 AI 生成任意主题视频课程",
+          "summary": "YC S24 团队发布 Keet App，可针对任意主题自动生成短视频课程与互动游戏。",
+          "primary_url": "https://www.trykeet.com/",
+          "items": [
+            "721c577a6aa3ba33"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "importance": 8,
+          "headline": "裁员潮观察：AI 正在移除软件工程中产？",
+          "summary": "博客长文分析 AI 对软件工程岗位结构的冲击，认为中级工程师正成为被 AI 压缩最明显的群体，引发广泛共鸣。",
+          "primary_url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "items": [
+            "e1e74f0f6662ff2a"
+          ]
+        },
+        {
+          "importance": 6,
+          "headline": "数学家 Gowers：LLM 到底擅长哪类数学？",
+          "summary": "菲尔兹奖得主 Timothy Gowers 撰文分析 LLM 在数学任务上的强项与局限，提供来自数学家的第一视角。",
+          "primary_url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+          "items": [
+            "1ea27bd732158efa"
+          ],
+          "cover_path": "out/media/2026-08-13/opinion-01.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "Google 博客：Go 是 AI 辅助软件工程的理想语言",
+          "summary": "Google 开发者博客发文讨论 Go 语言简洁、静态类型等特性为何使其特别适合 AI 辅助编码场景。",
+          "primary_url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+          "items": [
+            "e14d37d01a5f79d7"
+          ],
+          "cover_path": "out/media/2026-08-13/opinion-02.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "有人大规模漏洞扫描，还伪装成 ClaudeBot 等 AI 爬虫",
+          "summary": "安全监测发现攻击者伪装成 ClaudeBot 等 AI 机器人身份发起大规模漏洞扫描，引发对爬虫信任机制的讨论。",
+          "primary_url": "https://knownagents.com/insights",
+          "items": [
+            "a03bb63f98633fef"
+          ],
+          "cover_path": "out/media/2026-08-13/opinion-03.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "标榜‘纯人工撰写’的医学论文公司被发现全用 AI",
+          "summary": "404 Media 调查发现，一家声称提供 100% 人类撰写、绝无 AI 的医学研究服务，实际产出完全由 AI 生成。",
+          "primary_url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+          "items": [
+            "d2afc8eb22c340f1"
+          ],
+          "cover_path": "out/media/2026-08-13/opinion-04.jpg"
+        },
+        {
+          "importance": 3,
+          "headline": "一名开发者宣布：不再使用 AI",
+          "summary": "开发者 Brett 撰文分享弃用 AI 工具的个人理由，强调对输出质量和自主性的担忧，引发小范围讨论。",
+          "primary_url": "https://brettcodes.com/im-done-using-ai/",
+          "items": [
+            "25c44e04f2db4e6b"
+          ],
+          "cover_path": "out/media/2026-08-13/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "importance": 7,
+          "headline": "Mojo 编程语言发布 1.0 正式版",
+          "summary": "Modular 宣布 Mojo 1.0 正式可用，主打 Python 兼容性与高性能 AI 基础设施开发。",
+          "primary_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+          "items": [
+            "4a72f4c23b934ea4"
+          ],
+          "cover_path": "out/media/2026-08-13/opensource-00.jpg"
+        },
+        {
+          "importance": 5,
+          "headline": "开源项目 Woxi：用 Rust 重写 Wolfram 语言",
+          "summary": "Woxi 是一个用 Rust 实现的 Wolfram Language 解释器，提供 Mathematica 风格 GUI，已开源。",
+          "primary_url": "https://woxi.ad-si.com",
+          "items": [
+            "6aaf2ace9c97a009"
+          ],
+          "cover_path": "out/media/2026-08-13/opensource-01.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "教程：macOS 虚拟机 GPU 直通加速 llama.cpp",
+          "summary": "trycua 发布指南，演示在 Apple Silicon macOS 虚拟机中通过 GPU 直通获得更快 LLM 推理性能。",
+          "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "items": [
+            "39f0e1ff969eb482"
+          ],
+          "cover_path": "out/media/2026-08-13/opensource-02.jpg"
+        },
+        {
+          "importance": 4,
+          "headline": "Hax：用 C 语言写的极简终端 AI 编程智能体",
+          "summary": "开源项目 Hax 发布，是一个用 C 实现的极简终端原生 coding agent，强调低依赖和快速响应。",
+          "primary_url": "https://usehax.dev/",
+          "items": [
+            "89f1395bbc811286"
+          ],
+          "cover_path": "out/media/2026-08-13/opensource-03.jpg"
+        }
+      ]
+    }
+  ]
+}

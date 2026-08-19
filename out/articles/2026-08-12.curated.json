@@ -1,0 +1,315 @@
+{
+  "date": "2026-08-12",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Meta发布30B本地agent开源模型Muse Glimmer",
+          "summary": "Meta开源30B参数模型Muse Glimmer，面向手机、PC等本地设备的agent工作流，主打低延迟；扎克伯格借机抨击闭源对手并发布AI未来宣言。",
+          "importance": 9,
+          "primary_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "items": [
+            "f49507a9a5f190b5",
+            "386c2a137a05c38d",
+            "ec3d3cde6cdfd73e"
+          ],
+          "cover_path": "out/media/2026-08-12/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI发布GPT-5.6 Cyber，扩大Daybreak防御窗口",
+          "summary": "OpenAI推出面向网络安全的GPT-5.6 Cyber，并扩大Daybreak系统在攻击发生前的威胁检测窗口，强化AI防御能力。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+          "items": [
+            "360327fc0c08a2fa"
+          ]
+        },
+        {
+          "headline": "Cactus发布14MB端侧agent模型Needle2",
+          "summary": "Cactus推出的Needle2模型仅14MB，可运行于手机、手表、智能家居和机器人，完成工具调用与设备控制，进一步压缩端侧AI体积。",
+          "importance": 6,
+          "primary_url": "https://cactuscompute.com/needle",
+          "items": [
+            "b8f192fdf9114b5a"
+          ],
+          "cover_path": "out/media/2026-08-12/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI伦理主管上任不到一年离职",
+          "summary": "据报道，OpenAI伦理主管Chloé Bakalar在加入不到一年后离职，引发外界对其AI伦理治理与内部领导变动的关注。",
+          "importance": 6,
+          "primary_url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "items": [
+            "bc99305dd941bf18",
+            "dc8fd2c473f16346"
+          ]
+        },
+        {
+          "headline": "Stoa上线GPU与AI服务器交易平台",
+          "summary": "YC孵化公司Stoa推出GPU与AI服务器交易市场，连接算力买卖双方，试图成为数据中心硬件的新流通渠道。",
+          "importance": 4,
+          "primary_url": "https://www.stoaexchange.com",
+          "items": [
+            "db0e65e1ed43590a"
+          ],
+          "cover_path": "out/media/2026-08-12/company-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "研究展示从专有LLM API窃取推理痕迹",
+          "summary": "新发布的安全研究通过API成功提取专有大模型的隐藏推理轨迹，可能危及思维链隐私，引发业界对模型推理安全性的担忧。",
+          "importance": 7,
+          "primary_url": "https://stolen-thoughts.com/",
+          "items": [
+            "acfb1f95503e846b"
+          ]
+        },
+        {
+          "headline": "Anthropic：Claude将黎曼猜想证明边界推进至67.2%",
+          "summary": "Anthropic发布研究，Claude在黎曼猜想相关问题上将可证明边界从41.6%推进到67.2%，展示大模型在数学推理上的能力跃升。",
+          "importance": 6,
+          "primary_url": "https://www.anthropic.com/research/riemann-zeta",
+          "items": [
+            "b856f45bc51ab74e",
+            "b5f208abcafdf48c"
+          ],
+          "cover_path": "out/media/2026-08-12/research-01.jpg"
+        },
+        {
+          "headline": "论文：大模型涌现内省意识",
+          "summary": "arXiv新研究声称在LLM中观察到涌现的内省意识，提出模型可能具备对自身状态的表征能力，引发对AI自我建模的讨论。",
+          "importance": 4,
+          "primary_url": "https://arxiv.org/abs/2601.01828",
+          "items": [
+            "8f28a6798b7f0df1"
+          ],
+          "cover_path": "out/media/2026-08-12/research-02.jpg"
+        },
+        {
+          "headline": "研究量化AI的用水足迹",
+          "summary": "发表于《Water Research》的研究评估了AI训练与推理的耗水量，呼吁在算力扩张的同时关注水资源消耗与可持续性。",
+          "importance": 4,
+          "primary_url": "https://doi.org/10.1016/j.watres.2026.125866",
+          "items": [
+            "6cef333a1cd7b6d1"
+          ]
+        },
+        {
+          "headline": "千年研究推出Lean Eval评估忠实性",
+          "summary": "Millennium Research发布Lean Eval，利用Lean证明语言检查模型输出对事实的忠实度，为对齐评估提供新工具。",
+          "importance": 3,
+          "primary_url": "https://www.millenniumresearch.ai/leanscreen.html#catch",
+          "items": [
+            "06b562ecaa5cf97c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "xAI发布实体机器人Grok Bot",
+          "summary": "xAI正式推出Grok Bot机器人产品，将Grok模型带入物理世界，是其在具身智能方向的一次重要落地。",
+          "importance": 6,
+          "primary_url": "https://x.ai/news/introducing-grok-bot",
+          "items": [
+            "ba2f6ca6a58663ef",
+            "b07243f4ac0d43f4"
+          ],
+          "cover_path": "out/media/2026-08-12/product-00.jpg"
+        },
+        {
+          "headline": "腾讯混元WorldClaw大规模生成3D开放世界",
+          "summary": "腾讯混元发布WorldClaw，以Agentic方式大规模生成3D开放世界，可扩展到复杂场景与高清资产，冲击游戏和虚拟内容生产。",
+          "importance": 6,
+          "primary_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+          "items": [
+            "22a4bac0f95c82f0"
+          ],
+          "cover_path": "out/media/2026-08-12/product-01.jpg"
+        },
+        {
+          "headline": "Kinney药房因大量投诉撤回AI电话助手",
+          "summary": "美国连锁药房Kinney Drugs在收到数百条客户投诉后，撤回了用于药房服务的AI电话助手，成为AI客服翻车的又一案例。",
+          "importance": 5,
+          "primary_url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+          "items": [
+            "229eb63bed10138d"
+          ],
+          "cover_path": "out/media/2026-08-12/product-02.jpg"
+        },
+        {
+          "headline": "Suzanne：用AI设计和制造实体产品",
+          "summary": "Suzanne是一款AI工具，用户可以描述需求并生成可制造的实体产品设计，把从创意到制造的流程变得更自动。",
+          "importance": 4,
+          "primary_url": "https://www.suzanne3d.com/",
+          "items": [
+            "ce43e2eb20062a08"
+          ],
+          "cover_path": "out/media/2026-08-12/product-03.jpg"
+        },
+        {
+          "headline": "Vocal Slice：高亮文本即可剪音频，全本地处理",
+          "summary": "Vocal Slice通过本地转录，让用户高亮文本即可生成对应音频片段，剪辑过程完全在设备上完成。",
+          "importance": 3,
+          "primary_url": "https://vocalslice.com/",
+          "items": [
+            "c93514b72c24af0e"
+          ],
+          "cover_path": "out/media/2026-08-12/product-04.jpg"
+        },
+        {
+          "headline": "Keet：输入主题AI生成视频课程",
+          "summary": "Keet是一款移动应用，输入任意主题即可生成带短视频讲解和互动游戏的课程，降低内容创作者的门槛。",
+          "importance": 3,
+          "primary_url": "https://www.trykeet.com/",
+          "items": [
+            "721c577a6aa3ba33"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "当AI吞噬网络，互联网集体记忆正在消失",
+          "summary": "评论文章指出，生成式AI正在改变搜索与网页生存方式，互联网的公共记忆面临断层风险，搜索引擎的衰落成为缩影。",
+          "importance": 6,
+          "primary_url": "https://thewalrus.ca/google-search-is-dying/",
+          "items": [
+            "f7932eb47cf2a94e"
+          ]
+        },
+        {
+          "headline": "Go是AI辅助编程的理想语言",
+          "summary": "Google开发者博客论证Go的简洁、静态类型与工具链能力，使其在AI辅助软件工程中具备更高的效率和可控性。",
+          "importance": 5,
+          "primary_url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+          "items": [
+            "e14d37d01a5f79d7"
+          ],
+          "cover_path": "out/media/2026-08-12/opinion-01.jpg"
+        },
+        {
+          "headline": "Dan Luu：什么语言最适合coding agents？",
+          "summary": "Dan Luu分析编程语言在token效率上的差异，认为这直接决定编码agent的成本与能力，是当前工程选型的关键变量。",
+          "importance": 5,
+          "primary_url": "http://danluu.com/pl-tokens/",
+          "items": [
+            "31d3872cf3f99bed"
+          ]
+        },
+        {
+          "headline": "伊利诺伊新法让操作系统承担年龄验证",
+          "summary": "伊利诺伊州通过HB5511，要求操作系统内置年龄验证，引发Linux等开放平台如何合规的争议，被视为AI时代网络监管的新边界。",
+          "importance": 5,
+          "primary_url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+          "items": [
+            "e1605e8cf96eb55b"
+          ],
+          "cover_path": "out/media/2026-08-12/opinion-03.jpg"
+        },
+        {
+          "headline": "OpenAI致信德州州长：建设负责任AI基础设施",
+          "summary": "OpenAI公开致信德州州长Abbott，呼吁以负责任方式扩大AI基础设施，并在能源、安全与就业方面设定标准。",
+          "importance": 4,
+          "primary_url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+          "items": [
+            "1a243c77eb627dfb"
+          ]
+        },
+        {
+          "headline": "拟人化LLM输出是愚蠢的",
+          "summary": "博客批评强行让大模型输出接近人类口吻的做法，认为这会牺牲工具的准确性和实用性，AI价值应体现在能力而非“像人”。",
+          "importance": 4,
+          "primary_url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+          "items": [
+            "36a94261159ef9c8"
+          ],
+          "cover_path": "out/media/2026-08-12/opinion-05.jpg"
+        },
+        {
+          "headline": "探究Claude/GPT知识截止与预训练时间线",
+          "summary": "一篇分析文章调查了Claude和GPT系列的知识截止时间与预训练时间线，揭示不同模型训练数据新鲜度差异，帮助用户理解回答局限。",
+          "importance": 4,
+          "primary_url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+          "items": [
+            "0df6310359f43943"
+          ],
+          "cover_path": "out/media/2026-08-12/opinion-06.jpg"
+        },
+        {
+          "headline": "AI财富重燃私人权力之争",
+          "summary": "评论认为AI催生的超级富豪正在放大慈善与私人权力之间的张力，社会需要新的制衡机制来应对财富过度集中。",
+          "importance": 3,
+          "primary_url": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
+          "items": [
+            "8ccab2713b31805d"
+          ],
+          "cover_path": "out/media/2026-08-12/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Mojo 1.0正式发布",
+          "summary": "Modular宣布Mojo 1.0稳定版，为AI开发提供Python生态与高性能编译的统一语言，强化其在AI工程栈中的位置。",
+          "importance": 7,
+          "primary_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+          "items": [
+            "4a72f4c23b934ea4"
+          ],
+          "cover_path": "out/media/2026-08-12/opensource-00.jpg"
+        },
+        {
+          "headline": "macOS虚拟机GPU直通加速llama.cpp",
+          "summary": "教程展示如何在Apple Silicon的macOS虚拟机中实现GPU直通，显著提升llama.cpp推理速度，为Mac端本地LLM带来新可能。",
+          "importance": 5,
+          "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "items": [
+            "39f0e1ff969eb482"
+          ]
+        },
+        {
+          "headline": "Ante：单二进制离线编码agent",
+          "summary": "开源项目Ante将编码agent打包为单一可执行文件，可完全离线运行，强调部署简单和数据隐私。",
+          "importance": 4,
+          "primary_url": "https://github.com/AntigmaLabs/ante",
+          "items": [
+            "1911ac8d216789f8"
+          ],
+          "cover_path": "out/media/2026-08-12/opensource-02.jpg"
+        },
+        {
+          "headline": "250美元FPGA跑出每秒2.1万token",
+          "summary": "开发者实现在Xilinx KV260 FPGA上运行微型LLM，吞吐达21k tok/s，成本约250美元，展示低功耗端侧推理潜力。",
+          "importance": 4,
+          "primary_url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+          "items": [
+            "4b639dbc54e40902"
+          ]
+        }
+      ]
+    }
+  ]
+}

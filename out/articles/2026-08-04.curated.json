@@ -1,17 +1,28 @@
 {
+  "date": "2026-08-04",
   "sections": [
     {
       "id": "model_release",
       "name": "模型发布",
       "stories": [
         {
-          "headline": "Qwen3.8-Max 发布：编程与协同新标杆",
-          "summary": "阿里巴巴官方发布 Qwen3.8-Max，称其在编程与协同场景表现达到新高度，社区热度高涨。",
+          "headline": "阿里开源Qwen3.8-Max，主打编程与协作",
+          "summary": "Qwen团队发布新一代旗舰模型Qwen3.8-Max，官方称其在编程与智能体协作任务上树立新标杆。",
           "primary_url": "https://qwen.ai/blog?id=qwen3.8",
+          "importance": 9,
           "items": [
             "7aba264bb603a6e6"
+          ]
+        },
+        {
+          "headline": "Qwen-CUA：原生计算机操控智能体新论文",
+          "summary": "Qwen团队发布Qwen-CUA，目标让智能体像人一样操作几乎任意软件，需解决长程状态跟踪与稀疏验证学习问题。",
+          "primary_url": "http://arxiv.org/abs/2608.02352v1",
+          "importance": 4,
+          "items": [
+            "b05a526f39154679"
           ],
-          "importance_score": 10
+          "cover_path": "out/media/2026-08-04/model_release-01.jpg"
         }
       ]
     },
@@ -20,13 +31,13 @@
       "name": "公司动态",
       "stories": [
         {
-          "headline": "OpenAI 超级 PAC 被指资助 AI 生成新闻网站攻击批评者",
-          "summary": "调查报道称，OpenAI 的超级 PAC 资助一个由 AI 机器人写稿的新闻网站，用以攻击行业批评者，引发广泛争议。",
+          "headline": "OpenAI超级PAC被曝资助AI生成新闻站攻击批评者",
+          "summary": "调查报道称，OpenAI的超级政治行动委员会资助了一家由AI机器人撰写内容的新闻网站，用以攻击行业批评者，引发广泛争议。",
           "primary_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "importance": 7,
           "items": [
             "62efedfc8a5d2b81"
           ],
-          "importance_score": 8,
           "cover_path": "out/media/2026-08-04/company-00.jpg"
         }
       ]
@@ -36,43 +47,42 @@
       "name": "研究论文",
       "stories": [
         {
-          "headline": "语言模型迈向连续潜空间：AURORA-LM 提出新范式",
-          "summary": "论文提出 AURORA-LM，用连续潜空间扩散生成文本，挑战离散 token 主导的语言建模范式。",
-          "primary_url": "http://arxiv.org/abs/2608.02602v1",
+          "headline": "传OpenAI内部“Astra”模型攻克10道数学难题",
+          "summary": "有推文称OpenAI内部模型Astra已解决10个重大开放数学与计算机科学问题，但该消息尚未得到官方证实。",
+          "primary_url": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "importance": 5,
           "items": [
-            "700904b1856e2d04"
+            "4519395a85f8f58d"
           ],
-          "importance_score": 4,
           "cover_path": "out/media/2026-08-04/research-00.jpg"
         },
         {
-          "headline": "实证：AI 迁移 COBOL 到 Java，连 bug 也一并迁移",
-          "summary": "论文评估 AI 将遗留 COBOL 代码迁移到 Java，发现原有 bug 会被完整复制，引发对自动迁移安全性的关注。",
-          "primary_url": "http://arxiv.org/abs/2607.28271",
+          "headline": "JFrog质疑SQLite“关键漏洞”实为LLM垃圾代码",
+          "summary": "JFrog研究认为SQLite被标记为严重CVE的部分问题可能源于LLM生成的垃圾代码，而非传统意义上的安全漏洞。",
+          "primary_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+          "importance": 5,
+          "items": [
+            "c03a1804feb7c5b1"
+          ]
+        },
+        {
+          "headline": "研究：AI将COBOL迁移到Java，连bug一起搬",
+          "summary": "一项研究发现AI在将遗留COBOL程序迁移到Java时，不仅还原了功能，还完整复制了原有代码中的bug。",
+          "primary_url": "https://arxiv.org/abs/2607.28271",
+          "importance": 4,
           "items": [
             "ea9c67ba16969943"
           ],
-          "importance_score": 4,
-          "cover_path": "out/media/2026-08-04/research-01.jpg"
-        },
-        {
-          "headline": "BODHI：RLVR 是否真的扩展了推理能力？",
-          "summary": "研究探讨可验证奖励强化学习是否让模型发展出异质推理分支，而非简单能力叠加。",
-          "primary_url": "http://arxiv.org/abs/2608.02867v1",
-          "items": [
-            "b04129f790d28959"
-          ],
-          "importance_score": 3,
           "cover_path": "out/media/2026-08-04/research-02.jpg"
         },
         {
-          "headline": "AnchorKV：锚点残差 KV 缓存压缩，长上下文更省内存",
-          "summary": "提出 AnchorKV 方法，在长上下文推理中压缩 KV 缓存，缓解显存瓶颈。",
-          "primary_url": "http://arxiv.org/abs/2608.02901v1",
+          "headline": "新研究：模型投毒可绕过思维链监控",
+          "summary": "论文展示通过模型投毒可规避思维链监控，挑战了AI安全体系中推理轨迹可靠的基本假设。",
+          "primary_url": "http://arxiv.org/abs/2608.02820v1",
+          "importance": 4,
           "items": [
-            "9bc092a6a672ca94"
+            "a0ce1fe57bc4783e"
           ],
-          "importance_score": 3,
           "cover_path": "out/media/2026-08-04/research-03.jpg"
         }
       ]
@@ -82,33 +92,33 @@
       "name": "应用产品",
       "stories": [
         {
-          "headline": "Cloudflare 正式支持大规模运行 Kimi 和 GLM 模型",
-          "summary": "Cloudflare 官方博客介绍如何在边缘部署更小、更快的 Kimi 与 GLM 模型，兼顾安全与成本。",
+          "headline": "Cloudflare：在边缘大规模运行Kimi与GLM小模型",
+          "summary": "Cloudflare官方博客介绍如何在全球边缘网络更小、更快、更安全地运行Kimi和GLM等模型，降低推理成本。",
           "primary_url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+          "importance": 6,
           "items": [
             "0fb8a9bc72b8e263"
           ],
-          "importance_score": 5,
           "cover_path": "out/media/2026-08-04/product-00.jpg"
         },
         {
-          "headline": "Launch HN：Hoplite 让云端编码 Agent 一键部署",
-          "summary": "YC S26 项目 Hoplite 上线，帮助开发者轻松部署云端编码 Agent，并内置 QA 工具。",
+          "headline": "Hoplite（YC S26）发布：一键部署云端编码agent",
+          "summary": "Y Combinator孵化的Hoplite让开发者轻松在云端部署和管理coding agents，并内置QA功能。",
           "primary_url": "https://hoplite.sh",
+          "importance": 4,
           "items": [
             "bba29241fd3cc9b7"
           ],
-          "importance_score": 4,
           "cover_path": "out/media/2026-08-04/product-01.jpg"
         },
         {
-          "headline": "AI 生成海报获俄亥俄州博览会大奖",
-          "summary": "一张 AI 生成的海报赢得俄亥俄州博览会比赛，引发关于 AI 创作与人类评审的讨论。",
-          "primary_url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+          "headline": "Armature：为MCP会话提供产品分析与评估",
+          "summary": "创业公司Armature发布工具，可重建MCP工具调用背后的完整用户会话，用于agent产品分析与效果评估。",
+          "primary_url": "https://armature.tech/",
+          "importance": 4,
           "items": [
-            "8048506c9d0685a8"
+            "eb8e1e53b6abe831"
           ],
-          "importance_score": 3,
           "cover_path": "out/media/2026-08-04/product-02.jpg"
         }
       ]
@@ -118,72 +128,85 @@
       "name": "行业观点",
       "stories": [
         {
-          "headline": "专家经验能让 LLM 表现更好",
-          "summary": "博客文章通过实验指出，LLM 的输出质量显著奖励提示词中的专业深度，浅层指令难以替代领域知识。",
+          "headline": "欧盟AI法案关键条款今日起强制适用",
+          "summary": "欧盟AI法案的模型义务与AI生成内容标签规定开始强制执行，企业需遵守透明度与风险评估要求。",
+          "primary_url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "importance": 8,
+          "items": [
+            "4001700d356a268b",
+            "4ddd67d6d263c358"
+          ],
+          "cover_path": "out/media/2026-08-04/opinion-00.jpg"
+        },
+        {
+          "headline": "长文：LLM更青睐专家，而非泛泛之辈",
+          "summary": "作者通过实验提出，LLM在评估与生成时会系统性地奖励专业表达，这对工程和写作都有深远影响。",
           "primary_url": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "importance": 6,
           "items": [
             "c770f33c88ac18ba"
-          ],
-          "importance_score": 7
+          ]
         },
         {
-          "headline": "AI 债务泡沫：隐藏借款已达 1.65 万亿美元",
-          "summary": "Fortune 与 The Register 均发文警告 AI 资本开支背后的巨额隐性借贷，泡沫破裂风险被低估。",
+          "headline": "AI泡沫担忧加剧：隐藏借贷已达1.65万亿美元",
+          "summary": "Fortune、The Register等多家媒体发文，警告AI热潮背后债务高企，泡沫可能正在破裂。",
           "primary_url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+          "importance": 6,
           "items": [
             "961b2e020c503e30",
-            "708eccdf465a5122"
+            "708eccdf465a5122",
+            "792f6c2c0328a421"
           ],
-          "importance_score": 7,
-          "cover_path": "out/media/2026-08-04/opinion-01.jpg"
+          "cover_path": "out/media/2026-08-04/opinion-02.jpg"
         },
         {
-          "headline": "SQLite 的“严重 CVE”究竟是真实漏洞还是 LLM 垃圾？",
-          "summary": "JFrog 分析指出，部分被标记为“严重”的 SQLite CVE 可能源于 AI 生成的代码审查噪音，挑战现有漏洞评估。",
-          "primary_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-          "items": [
-            "c03a1804feb7c5b1"
-          ],
-          "importance_score": 6
-        },
-        {
-          "headline": "对抗“认知债务”：手动重敲一遍 LLM 生成的代码",
-          "summary": "文章建议程序员手动重打 LLM 生成的代码，以真正理解其逻辑并减少未来维护的认知负担。",
+          "headline": "手抄LLM代码？作者建议对抗“认知债”",
+          "summary": "博客文章主张手动重打LLM生成的代码，以保持对代码的理解，避免团队累积认知负债。",
           "primary_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+          "importance": 5,
           "items": [
             "16541d000a0b80df"
-          ],
-          "importance_score": 5
+          ]
         },
         {
-          "headline": "Epoch AI：AI 目前能独立完成多大的软件项目？",
-          "summary": "Epoch AI 发布基准与估算，探讨当前 AI 单干的最大软件规模，指出距离大型项目仍有关键差距。",
-          "primary_url": "https://epoch.ai/MirrorCode",
+          "headline": "作者自创AI基准：画一只哈布斯堡下巴的青蛙",
+          "summary": "一位开发者用“生成SVG青蛙”作为个人AI测试，直观展示各模型的能力差异与风格特征。",
+          "primary_url": "https://frogs.vaguespac.es/",
+          "importance": 4,
           "items": [
-            "3e7ad3c75b0df87c"
+            "fabd8531ff30cdcb"
           ],
-          "importance_score": 4,
           "cover_path": "out/media/2026-08-04/opinion-04.jpg"
         },
         {
-          "headline": "AI 生产力悖论：工具更聪明，产出却没有明显提升",
-          "summary": "一篇管理向文章分析了 AI 投资与生产力提升之间的鸿沟，质疑当前 AI 应用的实际回报。",
-          "primary_url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+          "headline": "Epoch AI探讨：AI能独立完成多大软件项目？",
+          "summary": "Epoch AI发布分析，衡量当前AI独立完成大型软件项目的规模上限，引发对自主编程能力的讨论。",
+          "primary_url": "https://epoch.ai/MirrorCode",
+          "importance": 4,
           "items": [
-            "cc525d3939dc2b9b"
+            "3e7ad3c75b0df87c"
           ],
-          "importance_score": 4,
           "cover_path": "out/media/2026-08-04/opinion-05.jpg"
         },
         {
-          "headline": "未来形态：关于 AI 进化方向的行业随笔",
-          "summary": "Steve Yegge 发表长文，畅谈 AI 技术走向与软件行业的未来图景，引发 Hacker News 讨论。",
+          "headline": "开发者尝试用Claude Code重写Claude应用",
+          "summary": "Boris Cherny分享了让Claude Code重写Claude iOS应用的过程与槽点，探讨AI辅助开发的边界。",
+          "primary_url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+          "importance": 4,
+          "items": [
+            "ce8fae060357c2fa"
+          ],
+          "cover_path": "out/media/2026-08-04/opinion-06.jpg"
+        },
+        {
+          "headline": "Yegge长文预测AI未来形态",
+          "summary": "知名程序员Steve Yegge发表新文章“The Shape of Things to Come”，畅谈AI技术的演进方向。",
           "primary_url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+          "importance": 4,
           "items": [
             "dde7a43230fdc97f"
           ],
-          "importance_score": 3,
-          "cover_path": "out/media/2026-08-04/opinion-06.jpg"
+          "cover_path": "out/media/2026-08-04/opinion-07.jpg"
         }
       ]
     },
@@ -192,45 +215,56 @@
       "name": "开源工具",
       "stories": [
         {
-          "headline": "Swiftlet：在 Mac 上跑 80B Qwen，内存仅需 4.3GB",
-          "summary": "开源项目 Swiftlet 让 80B 模型可以在 Mac 上以 4.3GB 内存运行，甚至能在 iPhone 上跑 35B 模型。",
+          "headline": "Swiftlet：在Mac上用4.3GB内存跑80B Qwen",
+          "summary": "开源项目Swiftlet实现极低内存占用的大模型推理，可在Mac上运行80B模型，甚至iPhone上跑35B。",
           "primary_url": "https://github.com/leonickson1/Swiftlet",
+          "importance": 5,
           "items": [
             "5c4048493203e1d2"
           ],
-          "importance_score": 5,
           "cover_path": "out/media/2026-08-04/opensource-00.jpg"
         },
         {
-          "headline": "AirLLM：单张 4GB 显卡即可推理 70B 模型",
-          "summary": "AirLLM 提供极低显存依赖的推理方案，让 70B 级模型在 4GB 单卡上运行，降低大模型门槛。",
+          "headline": "AirLLM：单张4GB显卡运行70B模型",
+          "summary": "开源推理方案AirLLM让70B大模型在4GB显存的GPU上运行，大幅降低本地部署门槛。",
           "primary_url": "https://github.com/lyogavin/airllm",
+          "importance": 5,
           "items": [
             "9dcb6f918c3861ca"
           ],
-          "importance_score": 5
+          "cover_path": "out/media/2026-08-04/opensource-01.jpg"
         },
         {
-          "headline": "Sprocket：16 岁开发者发布开源软硬件 Agent",
-          "summary": "少年开发者发布 Sprocket，自称可同时胜任硬件与软件开发的 AI Agent，并且是开源项目。",
-          "primary_url": "https://sprocket-demo.spikonado.com",
-          "items": [
-            "cc97880915c19263"
-          ],
-          "importance_score": 4
-        },
-        {
-          "headline": "Nightcrawler：手机端本地 AI 渗透测试 Agent",
-          "summary": "Nightcrawler 是一个完全本地运行的 AI 渗透测试代理，可以直接跑在智能手机上，用于安全评估。",
+          "headline": "Nightcrawler：智能手机上的本地AI渗透测试agent",
+          "summary": "开源项目Nightcrawler将AI渗透测试agent装进手机，可在本地自主进行安全测试。",
           "primary_url": "https://github.com/garagehq/nightcrawler/",
+          "importance": 5,
           "items": [
             "eef4d66c2cd2949c"
           ],
-          "importance_score": 4,
+          "cover_path": "out/media/2026-08-04/opensource-02.jpg"
+        },
+        {
+          "headline": "16岁开发者开源AI agent Sprocket，自称硬件软件通吃",
+          "summary": "16岁高中生开发的Sprocket宣称在硬件与软件开发任务上击败其他AI agent，并已开源。",
+          "primary_url": "https://sprocket-demo.spikonado.com",
+          "importance": 4,
+          "items": [
+            "cc97880915c19263"
+          ],
           "cover_path": "out/media/2026-08-04/opensource-03.jpg"
+        },
+        {
+          "headline": "Mu：面向AI agent的工具集",
+          "summary": "开源项目Mu提供一套专为AI agents设计的工具，简化agent的开发与调试。",
+          "primary_url": "https://github.com/micro/mu",
+          "importance": 4,
+          "items": [
+            "a193d92cd29129cd"
+          ],
+          "cover_path": "out/media/2026-08-04/opensource-04.jpg"
         }
       ]
     }
-  ],
-  "date": "2026-08-04"
+  ]
 }

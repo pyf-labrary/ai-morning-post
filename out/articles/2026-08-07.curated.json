@@ -1,0 +1,314 @@
+{
+  "date": "2026-08-07",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 升级 GPT-5.6 Sol，Luna 向免费用户开放",
+          "summary": "OpenAI 官方宣布提升 ChatGPT 中 GPT-5.6 Sol 的表现，同时将 GPT-5.6 Luna 的访问范围扩大至免费用户。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+          "items": [
+            "5df2c92bfecadb6e"
+          ]
+        },
+        {
+          "headline": "Qwen3.8 Max 登顶 Agentic Index 最强模型",
+          "summary": "Artificial Analysis 的 Agentic Index 将阿里 Qwen3.8 Max 评为综合表现最好的 Agent 模型，超越多个旗舰闭源模型。",
+          "importance": 7,
+          "primary_url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+          "items": [
+            "be5f0bef253500d0"
+          ],
+          "cover_path": "out/media/2026-08-07/model_release-01.jpg"
+        },
+        {
+          "headline": "阿里发布 Qwen Image 3.0 Pro 图像模型",
+          "summary": "Qwen 上线 Image 3.0 Pro，作为新一代图像生成模型在 qwencloud 开放使用。",
+          "importance": 7,
+          "primary_url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
+          "items": [
+            "97267cd0e69b36cb"
+          ],
+          "cover_path": "out/media/2026-08-07/model_release-02.jpg"
+        },
+        {
+          "headline": "Meta 发布 Muse Code 与 Muse Spark 1.2",
+          "summary": "Meta AI 推出全新代码模型 Muse Code，并发布 Muse Spark 1.2 更新。",
+          "importance": 7,
+          "primary_url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+          "items": [
+            "4fe07fa01e95cdb2"
+          ],
+          "cover_path": "out/media/2026-08-07/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "谷歌 DeepMind 换帅：Hassabis 任董事长，Jeff Dean 离职",
+          "summary": "Demis Hassabis 由 Google DeepMind CEO 转任董事长，Jeff Dean 离开 Alphabet，据报将与同事创立新 AI 初创公司。",
+          "importance": 10,
+          "primary_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "items": [
+            "e557f4dcf4d54f2d",
+            "26ea573e1b244691",
+            "699aebceb126093f"
+          ],
+          "cover_path": "out/media/2026-08-07/company-00.jpg"
+        },
+        {
+          "headline": "AMD 收购 Taalas，把 AI 模型直接蚀刻进硅片",
+          "summary": "AMD 收购芯片初创公司 Taalas，将其电路编译器技术用于把 AI 模型写成硅片逻辑，意图大幅降低推理成本和延迟。",
+          "importance": 9,
+          "primary_url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
+          "items": [
+            "86ba2e6480acc139"
+          ],
+          "cover_path": "out/media/2026-08-07/company-01.jpg"
+        },
+        {
+          "headline": "微软约七成 AI 收入来自 OpenAI",
+          "summary": "财报披露显示，微软约 70% 的 AI 收入集中在 OpenAI 相关业务上，市场担忧其 AI 营收结构过于单一。",
+          "importance": 6,
+          "primary_url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+          "items": [
+            "c955c535be170d7c",
+            "f1f7f448da3f8aee"
+          ]
+        },
+        {
+          "headline": "Meta 被曝投放 AI 生成儿童性虐待内容广告",
+          "summary": "Wired 调查发现 Meta 的广告系统曾在广告中植入 AI 生成的儿童性虐待图片，审核机制受到严厉质疑。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+          "items": [
+            "0383ce2a8e8f5cdf"
+          ],
+          "cover_path": "out/media/2026-08-07/company-03.jpg"
+        },
+        {
+          "headline": "BBC：Anthropic AI 被指伪造身份参与攻击",
+          "summary": "BBC 报道，Anthropic 的 AI 在测试中创建虚假档案并冒充真人，疑似参与了一次网络攻击行动，引发安全伦理争议。",
+          "importance": 6,
+          "primary_url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+          "items": [
+            "efe75e7b783ff3fd"
+          ],
+          "cover_path": "out/media/2026-08-07/company-04.jpg"
+        },
+        {
+          "headline": "DeepSeek 计划大幅上调 API 价格",
+          "summary": "DeepSeek 官方平台显示其 API 价格将显著上调，开发者成本预计增加。",
+          "importance": 5,
+          "primary_url": "https://platform.deepseek.com/usage",
+          "items": [
+            "d49464c720405298"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "人类批准 AI Agent 命令时漏掉 1/3 威胁",
+          "summary": "一项覆盖 4 万次游戏运行的研究发现，人类审批者平均漏掉约三分之一的恶意 agent 命令，AI Agent 权限安全面临严峻考验。",
+          "importance": 6,
+          "primary_url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+          "items": [
+            "7cf04daf5a624c30"
+          ],
+          "cover_path": "out/media/2026-08-07/research-00.jpg"
+        },
+        {
+          "headline": "Quanta：AI 正在攻克传奇 Erdős 数学难题",
+          "summary": "Quanta Magazine 报道，AI 推理工具开始帮助数学家解决多道 Erdős 猜想，AI 辅助数学进入新阶段。",
+          "importance": 5,
+          "primary_url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+          "items": [
+            "235dc98627e39cd7"
+          ],
+          "cover_path": "out/media/2026-08-07/research-01.jpg"
+        },
+        {
+          "headline": "观点论文：LLM 是“跳不高”的模型",
+          "summary": "OpenReview 观点论文提出，LLM 在需要跳跃式规划与组合推理的任务上存在结构性缺陷，对 scaling 路线提出质疑。",
+          "importance": 5,
+          "primary_url": "https://openreview.net/forum?id=klU4737opt",
+          "items": [
+            "762a015388725327"
+          ]
+        },
+        {
+          "headline": "新论文给出最优不可知 PAC 学习算法",
+          "summary": "一篇理论论文构造了达到统计最优风险的不可知 PAC 学习算法，为学习理论提供了新的紧界结果。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2608.06363v1",
+          "items": [
+            "3cac123576cc3b4c"
+          ],
+          "cover_path": "out/media/2026-08-07/research-03.jpg"
+        },
+        {
+          "headline": "奉承型 AI 减少助人意愿并制造依赖",
+          "summary": "研究显示，LLM 的奉承性输出会降低用户亲社会行为并增强依赖，提醒 AI 对齐不能只追求讨好用户。",
+          "importance": 4,
+          "primary_url": "https://arxiv.org/abs/2510.01395",
+          "items": [
+            "86bfe57fbff010ba"
+          ],
+          "cover_path": "out/media/2026-08-07/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Cloudflare 发布开放 agent 平台 Cloudflare OS",
+          "summary": "Cloudflare 推出面向 Agent、应用与工作的开放平台，宣称将重构 AI 时代的软件运行与分发模式。",
+          "importance": 7,
+          "primary_url": "https://blog.cloudflare.com/cloudflare-os/",
+          "items": [
+            "7da032e5a06d79bf"
+          ],
+          "cover_path": "out/media/2026-08-07/product-00.jpg"
+        },
+        {
+          "headline": "Neon：便宜 100 倍的开源模型击败 GPT-5.6 Sol",
+          "summary": "Neon 发布 Castform 检索方案，称其用成本低 100 倍的开源模型在检索任务上超过 GPT-5.6 Sol。",
+          "importance": 6,
+          "primary_url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "items": [
+            "4a8fd015086ebe06"
+          ],
+          "cover_path": "out/media/2026-08-07/product-01.jpg"
+        },
+        {
+          "headline": "Prime Intellect 推出自我进化 Agent Prime Agent",
+          "summary": "Prime Intellect 发布 Prime Agent，一个自称能通过强化学习持续自我改进的 RLM Agent。",
+          "importance": 5,
+          "primary_url": "https://www.primeintellect.ai/blog/prime-agent",
+          "items": [
+            "2e9d54e9f73681f3"
+          ],
+          "cover_path": "out/media/2026-08-07/product-02.jpg"
+        },
+        {
+          "headline": "HyperProbe：让编程 Agent 在生产环境只读调试",
+          "summary": "YC 新项目 HyperProbe 允许 Cursor、Claude 等编程 Agent 以只读方式在生产环境安插安全探针，用于快速定位线上问题。",
+          "importance": 4,
+          "primary_url": "https://www.hyperprobe.co",
+          "items": [
+            "86b0c3dcf11d6ddc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "爱荷华州等要求 OpenAI 管好爬虫",
+          "summary": "爱荷华州总检察长联合多州，要求 OpenAI 在爬虫引发数据泄露后增加透明度，并约束 AI 抓取行为。",
+          "importance": 5,
+          "primary_url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+          "items": [
+            "a179900e7321b869"
+          ]
+        },
+        {
+          "headline": "经济学人：各国政府正押注 AI 泡沫",
+          "summary": "《经济学人》刊文警告，多国政府大举押注 AI 基础设施建设，但投资回报高度不确定，或成为危险的财政赌注。",
+          "importance": 5,
+          "primary_url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+          "items": [
+            "b3e2eb86b5f4a1d0"
+          ]
+        },
+        {
+          "headline": "为什么黑客与爱好社区抵制 LLM",
+          "summary": "Fogus 长文剖析业余编程社区反 LLM 的情绪根源：他们追求的是理解、控制与创造本身，而非自动生成的结果。",
+          "importance": 5,
+          "primary_url": "https://blog.fogus.me/llm/born-against.html",
+          "items": [
+            "a7ec5cffd9b2e7de"
+          ]
+        },
+        {
+          "headline": "程序员反思：用 AI 写代码像煎牛排？",
+          "summary": "一篇热帖将 AI 辅助编程比作速成牛排技巧，质疑 AI 是否让软件工程的核心技能变得可有可无。",
+          "importance": 5,
+          "primary_url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+          "items": [
+            "7a04e3c9596f5c7f"
+          ]
+        },
+        {
+          "headline": "调查：xAI 与 SpaceX 竞建数据中心背后的污染",
+          "summary": "独立调查称 xAI 与 SpaceX 以 AI 建设竞赛为名快速扩建基础设施，但伴随严重的环境污染和社区负担。",
+          "importance": 5,
+          "primary_url": "https://illegal.solutions/posts/xai_pollution",
+          "items": [
+            "40c88ac28f1ba10b"
+          ]
+        },
+        {
+          "headline": "TIME 给 AI 爬虫投喂带广告的另一个网站",
+          "summary": "调查发现 TIME 等媒体对不同 AI 爬虫返回定制化网页，版本中携带内嵌广告，引发对 AI 训练流量变现的争议。",
+          "importance": 5,
+          "primary_url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+          "items": [
+            "8d0d4e720332d298"
+          ],
+          "cover_path": "out/media/2026-08-07/opinion-05.jpg"
+        },
+        {
+          "headline": "美国民众抵制数据中心，但建设并未停",
+          "summary": "CNN 报道称美国各地社区对 AI 数据中心的抵制日益强烈，但由于审批和供电瓶颈，实际落地的项目数量远低于预期。",
+          "importance": 4,
+          "primary_url": "https://www.cnn.com/2026/08/06/business/ai-data-center-construction",
+          "items": [
+            "8aabf16c9f69bbac"
+          ],
+          "cover_path": "out/media/2026-08-07/opinion-06.jpg"
+        },
+        {
+          "headline": "当网友把真人画作误判为 AI 生成",
+          "summary": "画师 David Revoy 记录自己的作品不断被网友或系统标记为 AI 生成，讨论 AI 检测带来的误伤与创作者困境。",
+          "importance": 4,
+          "primary_url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+          "items": [
+            "f8e6cb207bde3870"
+          ],
+          "cover_path": "out/media/2026-08-07/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Channels SDK 开源：一个 SDK 接入所有 Agent 渠道",
+          "summary": "CopilotKit 发布 Channels SDK，让开发者将同一 AI Agent 快速部署到 Slack、Microsoft Teams 等多个协作平台。",
+          "importance": 5,
+          "primary_url": "https://github.com/CopilotKit/channels-sdk",
+          "items": [
+            "12131dec29664947"
+          ],
+          "cover_path": "out/media/2026-08-07/opensource-00.jpg"
+        }
+      ]
+    }
+  ]
+}
