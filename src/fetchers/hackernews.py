@@ -9,16 +9,25 @@ from ..common import Item
 ALGOLIA = "https://hn.algolia.com/api/v1/search_by_date"
 
 
-def fetch_hackernews(min_points: int = 80, keywords: list[str] | None = None) -> list[Item]:
+def fetch_hackernews(min_points: int = 80, keywords: list[str] | None = None,
+                     window: tuple[datetime, datetime] | None = None) -> list[Item]:
     keywords = keywords or ["AI", "LLM", "GPT", "Claude", "Gemini", "model", "agent"]
-    cutoff = int((datetime.now(timezone.utc) - timedelta(hours=36)).timestamp())
+    # window=(start, end) 用于回溯补录某一天；缺省就是「此刻往前 36 小时」。
+    if window:
+        cutoff, until = int(window[0].timestamp()), int(window[1].timestamp())
+    else:
+        cutoff = int((datetime.now(timezone.utc) - timedelta(hours=36)).timestamp())
+        until = None
     out: list[Item] = []
     seen: set[str] = set()
     for kw in keywords:
         params = {
             "query": kw,
             "tags": "story",
-            "numericFilters": f"created_at_i>{cutoff},points>{min_points}",
+            "numericFilters": (
+                f"created_at_i>{cutoff},points>{min_points}"
+                + (f",created_at_i<{until}" if until else "")
+            ),
             "hitsPerPage": 30,
         }
         try:

@@ -48,6 +48,16 @@ def yesterday_str() -> str:
     return (datetime.now(CST) - timedelta(days=1)).strftime("%Y-%m-%d")
 
 
+def edition_window(date: str) -> tuple[datetime, datetime]:
+    """某一期晨报覆盖的素材时间窗（UTC）。
+
+    D 期在 D 06:00 CST（= D-1 22:00 UTC）出刊，收录此前 36 小时的条目——
+    和 within_24h() 的 36h 口径一致。回溯补录靠它把「当时的窗口」还原出来。
+    """
+    end = datetime.fromisoformat(f"{date}T06:00:00").replace(tzinfo=CST).astimezone(timezone.utc)
+    return end - timedelta(hours=36), end
+
+
 def within_24h(iso: str) -> bool:
     if not iso:
         return True  # 没有时间信息的保留，让 LLM 判断

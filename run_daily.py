@@ -1,10 +1,9 @@
 """一键跑全流程。本地与 GH Actions 都用这个。"""
 from __future__ import annotations
 
-import sys
 
 from src.common import today_str
-from src.fetch import main as run_fetch
+from src.fetch import run as run_fetch
 from src.curate import curate
 from src.media import enrich_curated
 from src.write import write_articles
@@ -13,16 +12,23 @@ from src.preview import build as build_preview
 from src.publish import build_articles
 from src.publish_marginalia import publish as publish_marginalia
 
+import argparse
 import os
 
 
 def main() -> None:
-    date = today_str()
-    print(f"=== AI Morning Post · {date} ===")
+    p = argparse.ArgumentParser()
+    p.add_argument("--date", help="出刊日期（默认今天）")
+    p.add_argument("--backfill", action="store_true",
+                   help="回溯补录：按该日期的历史时间窗抓取（只有 HN/arXiv 可回溯）")
+    args = p.parse_args()
+
+    date = args.date or os.getenv("TARGET_DATE") or today_str()
+    backfill = args.backfill or os.getenv("BACKFILL") == "1"
+    print(f"=== AI Morning Post · {date}{' · backfill' if backfill else ''} ===")
 
     print("[1/8] fetch")
-    sys.argv = ["fetch"]
-    run_fetch()
+    run_fetch(date=date, backfill=backfill)
 
     print("[2/8] curate")
     curate(date)

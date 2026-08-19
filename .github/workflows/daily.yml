@@ -5,6 +5,11 @@ on:
     # 22:00 UTC = 06:00 CST
     - cron: "0 22 * * *"
   workflow_dispatch:
+    inputs:
+      dates:
+        description: "回溯补录的日期，逗号分隔（如 2026-08-12,2026-08-13）。留空=跑今天的正常流程"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -54,7 +59,20 @@ jobs:
           WECHAT_SKIP_PUBLISH: "1"
           GH_TOKEN:            ${{ secrets.MARGINALIA_PUSH_TOKEN }}
           MARGINALIA_REPO:     ${{ github.workspace }}/marginalia
-        run: python run_daily.py
+          BACKFILL_DATES:      ${{ github.event.inputs.dates }}
+        run: |
+          if [ -z "${BACKFILL_DATES}" ]; then
+            python run_daily.py
+          else
+            # 补录：逐日跑，各自 commit，最后统一 push 一次（少触发几轮 Pages 部署）
+            export MARGINALIA_NO_PUSH=1
+            for d in $(echo "${BACKFILL_DATES}" | tr ',' ' '); do
+              echo "::group::backfill ${d}"
+              python run_daily.py --date "${d}" --backfill
+              echo "::endgroup::"
+            done
+            git -C marginalia push
+          fi
 
       - name: Commit ai-morning-post outputs
         run: |

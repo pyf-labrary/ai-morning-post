@@ -23,7 +23,8 @@ def _query(endpoint: str, params: dict) -> httpx.Response:
     return httpx.get(endpoint, params=params, headers=HEADERS, timeout=30, follow_redirects=True)
 
 
-def _parse(xml_text: str, cutoff: datetime, cat: str) -> tuple[list[Item], int, int]:
+def _parse(xml_text: str, cutoff: datetime, cat: str,
+           until: datetime | None = None) -> tuple[list[Item], int, int]:
     """returns (items, total_results, raw_entries)"""
     root = ET.fromstring(xml_text)
     total = int((root.findtext("opensearch:totalResults", default="0", namespaces=NS) or "0"))
@@ -34,7 +35,7 @@ def _parse(xml_text: str, cutoff: datetime, cat: str) -> tuple[list[Item], int, 
         upd = entry.findtext("atom:updated", default="", namespaces=NS) or pub
         try:
             dt = datetime.fromisoformat((upd or pub).replace("Z", "+00:00"))
-            if dt < cutoff:
+            if dt < cutoff or (until and dt > until):
                 continue
         except ValueError:
             continue
@@ -56,9 +57,17 @@ def _parse(xml_text: str, cutoff: datetime, cat: str) -> tuple[list[Item], int, 
     return out, total, len(entries)
 
 
-def _fetch_category(cat: str, max_per_category: int, cutoff: datetime) -> list[Item]:
+def _fetch_category(cat: str, max_per_category: int, cutoff: datetime,
+                    until: datetime | None = None) -> list[Item]:
+    # 回溯补录：用 submittedDate 区间把查询限死在当时的窗口内，否则按
+    # lastUpdatedDate 降序拿到的全是最新论文，客户端过滤后一条不剩。
+    query = f"cat:{cat}"
+    if until:
+        lo = cutoff.strftime("%Y%m%d%H%M")
+        hi = until.strftime("%Y%m%d%H%M")
+        query = f"cat:{cat} AND submittedDate:[{lo} TO {hi}]"
     params = {
-        "search_query": f"cat:{cat}",
+        "search_query": query,
         "sortBy": "lastUpdatedDate",
         "sortOrder": "descending",
         "max_results": max_per_category,
@@ -68,7 +77,7 @@ def _fetch_category(cat: str, max_per_category: int, cutoff: datetime) -> list[I
         try:
             r = _query(endpoint, params)
             r.raise_for_status()
-            items, total, raw_n = _parse(r.text, cutoff, cat)
+            items, total, raw_n = _parse(r.text, cutoff, cat, until)
             if items:
                 return items
             # 0 命中：先打印诊断信息，再换下一个端点重试
@@ -86,9 +95,13 @@ def _fetch_category(cat: str, max_per_category: int, cutoff: datetime) -> list[I
     return []
 
 
-def fetch_arxiv(categories: list[str], max_per_category: int = 30) -> list[Item]:
+def fetch_arxiv(categories: list[str], max_per_category: int = 30,
+                window: tuple[datetime, datetime] | None = None) -> list[Item]:
     out: list[Item] = []
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=36)
+    if window:
+        cutoff, until = window
+    else:
+        cutoff, until = datetime.now(timezone.utc) - timedelta(hours=36), None
     for cat in categories:
-        out.extend(_fetch_category(cat, max_per_category, cutoff))
+        out.extend(_fetch_category(cat, max_per_category, cutoff, until))
     return out
