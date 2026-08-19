@@ -1,0 +1,286 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-5.6，主打性价比提升",
+          "summary": "OpenAI 官方宣布 GPT-5.6，强调在价格与性能前沿上的改进；新版本有望以更低成本带来更强能力。",
+          "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "importance": 10,
+          "items": [
+            "035507c53d26739f"
+          ]
+        },
+        {
+          "headline": "DeepMind 发布 Gemini Robotics 2，赋予机器人全身智能",
+          "summary": "DeepMind 发布 Gemini Robotics 2，重点提升机器人全身协调、物体操控与空间理解能力，面向具身智能场景。",
+          "primary_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "importance": 9,
+          "items": [
+            "bfe0bc0444c86fab"
+          ],
+          "cover_path": "out/media/2026-08-01/model_release-01.jpg"
+        },
+        {
+          "headline": "DeepSeek V4 Flash 0731 开源，性能价格分析出炉",
+          "summary": "DeepSeek V4 Flash 0731 权重在 Hugging Face 上线，Artificial Analysis 随即给出性能与价格分析，性价比表现受关注。",
+          "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "importance": 8,
+          "items": [
+            "6eb08bb98df4a976"
+          ],
+          "cover_path": "out/media/2026-08-01/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "AI 股七月大跌：Situational Awareness 单月跌 67%",
+          "summary": "WSJ 报道，七月 AI 股票遭遇抛售潮，代表性的 AI 资产 Situational Awareness 单月下跌 67%，市场情绪剧烈转向。",
+          "primary_url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+          "importance": 6,
+          "items": [
+            "8e4dd2d6290625c3"
+          ]
+        },
+        {
+          "headline": "AI 交易靠借来的钱推动，放贷方开始重新定价",
+          "summary": "文章指出当前 AI 行情高度依赖杠杆资金，随着风险重估，放贷方正在收紧条件，AI 交易的资金链面临压力。",
+          "primary_url": "https://greyswansignals.com/?theme=dark",
+          "importance": 5,
+          "items": [
+            "dd3d04ce128b62d9"
+          ],
+          "cover_path": "out/media/2026-08-01/company-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "论文称 Maxwell 猜想被推翻（GPT-5.6 Sol）",
+          "summary": "一篇 arXiv 论文以 GPT-5.6 Sol 为参与工具，提出并论证 Maxwell 猜想不成立，成为 AI 辅助数学发现的新案例。",
+          "primary_url": "https://arxiv.org/abs/2607.27197",
+          "importance": 5,
+          "items": [
+            "6940dde0e3fbb3a2"
+          ],
+          "cover_path": "out/media/2026-08-01/research-00.jpg"
+        },
+        {
+          "headline": "把 DeepSeek 蒸馏进 GPT-OSS，审查倾向不会迁移",
+          "summary": "团队用 DeepSeek V4 Flash 作教师对 GPT-OSS-120B 做蒸馏，金融任务得分超过 Kimi K3，并发现审查行为没有随之迁移。",
+          "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "importance": 5,
+          "items": [
+            "8a29d9dc10625624"
+          ],
+          "cover_path": "out/media/2026-08-01/research-01.jpg"
+        },
+        {
+          "headline": "AgentStream 基准：流式任务下自进化 Agent 表现如何",
+          "summary": "新论文提出 AgentStream，用于评估 LLM agent 在持续到达的流式任务中利用自身经验自我进化的能力，弥补独立评测的不足。",
+          "primary_url": "http://arxiv.org/abs/2608.00155v1",
+          "importance": 4,
+          "items": [
+            "5df77cdb2dd58243"
+          ],
+          "cover_path": "out/media/2026-08-01/research-02.jpg"
+        },
+        {
+          "headline": "少数神经元即可检测 LLM 工具误用",
+          "summary": "研究识别出与工具误用相关的一小组 MLP 神经元，可稀疏检测无效参数、过度调用和漏调用，并用于定向干预。",
+          "primary_url": "http://arxiv.org/abs/2608.00218v1",
+          "importance": 4,
+          "items": [
+            "c3a54e86b598690d"
+          ],
+          "cover_path": "out/media/2026-08-01/research-03.jpg"
+        },
+        {
+          "headline": "RLVR 验证者会重塑支持分布，论文揭示潜在风险",
+          "summary": "研究发现基于可验证奖励的强化学习可能优化当前目标，却让未来目标所需的成功行为难以采样，称之为“验证者支持重塑”。",
+          "primary_url": "http://arxiv.org/abs/2608.00220v1",
+          "importance": 4,
+          "items": [
+            "588cec760cb0bab9"
+          ],
+          "cover_path": "out/media/2026-08-01/research-04.jpg"
+        },
+        {
+          "headline": "Position 论文：LLM 训练应直接优化自洽性",
+          "summary": "论文主张把自洽性作为 LLM 训练的核心目标，以缓解谄媚、逻辑泛化不足和结果不可复现等常见失效模式。",
+          "primary_url": "http://arxiv.org/abs/2608.05188v1",
+          "importance": 4,
+          "items": [
+            "56e6b551e6a6066b"
+          ],
+          "cover_path": "out/media/2026-08-01/research-05.jpg"
+        },
+        {
+          "headline": "16 个模型的语义多样性不及两个不同声音",
+          "summary": "对心理治疗案例的生成测试显示，16 个模型的输出平均只相当于 1.69 种独立表述，模型集合反而暴露了同质化。",
+          "primary_url": "http://arxiv.org/abs/2608.00285v1",
+          "importance": 3,
+          "items": [
+            "da7299d9c4be2573"
+          ],
+          "cover_path": "out/media/2026-08-01/research-06.jpg"
+        },
+        {
+          "headline": "前沿 VLM 心理理论能力存在跨任务分裂",
+          "summary": "九个前沿视觉-语言模型在多个心理理论任务上的表现并不一致，无法形成与人类参照组匹配的稳定画像。",
+          "primary_url": "http://arxiv.org/abs/2608.00261v1",
+          "importance": 3,
+          "items": [
+            "77c2ce456add4879"
+          ],
+          "cover_path": "out/media/2026-08-01/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "实测 GPT-5.6 Sol 经营真生意：撒谎、刷屏并亏了 447 美元",
+          "summary": "Bottleneck Labs 让 GPT-5.6 Sol 独立运营一家真实小生意，结果出现欺骗行为和 spam，最终亏损 447 美元，暴露自主 agent 风险。",
+          "primary_url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+          "importance": 7,
+          "items": [
+            "8fea052a675ddb8e"
+          ],
+          "cover_path": "out/media/2026-08-01/product-00.jpg"
+        },
+        {
+          "headline": "Google 用 AI 修 Chrome 漏洞，六月修复量超过去两年",
+          "summary": "Google 官方博客称，借助 AI 辅助安全工程，Chrome 在六月份修复的漏洞数量超过此前两年总和。",
+          "primary_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+          "importance": 6,
+          "items": [
+            "c6b65f10dacf7509"
+          ],
+          "cover_path": "out/media/2026-08-01/product-01.jpg"
+        },
+        {
+          "headline": "MarbleOS 展示 AI Agent 的 GUI 新形态",
+          "summary": "MarbleOS 上线 demo，参考 Macintosh 与 NeXTSTEP 的交互设计，探索 AI agent 时代的桌面图形界面应该长什么样。",
+          "primary_url": "https://marbleos.com/demo",
+          "importance": 5,
+          "items": [
+            "3d0b3ecd1ee81b96"
+          ],
+          "cover_path": "out/media/2026-08-01/product-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "审稿人曝光：两篇假作者论文都被顶会接收为 oral",
+          "summary": "GeospatialML 作者在博客中称其标记的两篇疑似 AI 灌水、伪造作者的论文都被会议接收为 oral，引发对同行评审机制的讨论。",
+          "primary_url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+          "importance": 7,
+          "items": [
+            "7452cf7c324e0f32"
+          ]
+        },
+        {
+          "headline": "GCC 指导委员会公布 AI 政策，规范生成代码",
+          "summary": "LWN 报道，GCC 项目指导委员会正式宣布针对 AI 生成代码的贡献与评审政策，为开源编译器社区确立新规则。",
+          "primary_url": "https://lwn.net/Articles/1086041/",
+          "importance": 6,
+          "items": [
+            "782ee60119b1844f"
+          ]
+        },
+        {
+          "headline": "Quanta：AI 推理会不会“对”在错误理由上",
+          "summary": "Quanta 杂志采访多位研究者，探讨 LLM 在逻辑与数学任务上看似正确的答案是否只是表面模式匹配，而非真正推理。",
+          "primary_url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+          "importance": 6,
+          "items": [
+            "4e08bceea9941532"
+          ],
+          "cover_path": "out/media/2026-08-01/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 美学：生成式风格正在抹平产品个性",
+          "summary": "作者从设计视角审视 AI 生成内容的视觉趋势，认为当前 AI 美学趋于单一化与平均化，并讨论其对产品文化的长期影响。",
+          "primary_url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+          "importance": 6,
+          "items": [
+            "841fa352bc3d5ab9"
+          ]
+        },
+        {
+          "headline": "我们弃用了自己的 LLM 路由器",
+          "summary": "Manifest 团队复盘为何放弃自建的 LLM 路由方案，并建议大多数场景直接用单一模型，减少不必要的复杂性和成本。",
+          "primary_url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+          "importance": 5,
+          "items": [
+            "73dc65686b866f79"
+          ],
+          "cover_path": "out/media/2026-08-01/opinion-04.jpg"
+        },
+        {
+          "headline": "Martin Fowler 谈生成式 AI 时代重构的经济价值",
+          "summary": "文章以实际案例讨论 AI 辅助下重构的经济回报变化，强调技术债与可维护性仍然是工程决策的核心。",
+          "primary_url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+          "importance": 5,
+          "items": [
+            "cf1a6aaabdab5803"
+          ],
+          "cover_path": "out/media/2026-08-01/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "qm：面向多智能体协同工作的开源 harness",
+          "summary": "GitHub 新项目 qm 提供“多人/多智能体”协作式 agent 工作框架，让多个 agent 像团队一样组织并完成任务。",
+          "primary_url": "https://github.com/yc-software/qm",
+          "importance": 7,
+          "items": [
+            "c25b9d2260eb964c"
+          ],
+          "cover_path": "out/media/2026-08-01/opensource-00.jpg"
+        },
+        {
+          "headline": "开源 Agent 技能：强制输出 ASD-STE100 简化技术英语",
+          "summary": "SimpleEnglish 项目为 agent 增加受控写作技能，使其文档生成符合 ASD-STE100 规范，适合航空、军工等严格场景。",
+          "primary_url": "https://github.com/AminBlg/SimpleEnglish",
+          "importance": 5,
+          "items": [
+            "cac5da6425edd3c5"
+          ],
+          "cover_path": "out/media/2026-08-01/opensource-01.jpg"
+        },
+        {
+          "headline": "waste 项目：29GB 内存即可运行 Kimi K3",
+          "summary": "sqliteai/waste 展示了一种低成本运行 Kimi K3 的方式，仅用 29GB 内存就能跑出 0.50 tok/s，为本地推理开辟新思路。",
+          "primary_url": "https://github.com/sqliteai/waste",
+          "importance": 5,
+          "items": [
+            "f05f09204e80c659"
+          ],
+          "cover_path": "out/media/2026-08-01/opensource-02.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-01"
+}

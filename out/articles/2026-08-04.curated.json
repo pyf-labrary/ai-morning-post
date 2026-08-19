@@ -1,0 +1,236 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Qwen3.8-Max 发布：编程与协同新标杆",
+          "summary": "阿里巴巴官方发布 Qwen3.8-Max，称其在编程与协同场景表现达到新高度，社区热度高涨。",
+          "primary_url": "https://qwen.ai/blog?id=qwen3.8",
+          "items": [
+            "7aba264bb603a6e6"
+          ],
+          "importance_score": 10
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 超级 PAC 被指资助 AI 生成新闻网站攻击批评者",
+          "summary": "调查报道称，OpenAI 的超级 PAC 资助一个由 AI 机器人写稿的新闻网站，用以攻击行业批评者，引发广泛争议。",
+          "primary_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "items": [
+            "62efedfc8a5d2b81"
+          ],
+          "importance_score": 8,
+          "cover_path": "out/media/2026-08-04/company-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "语言模型迈向连续潜空间：AURORA-LM 提出新范式",
+          "summary": "论文提出 AURORA-LM，用连续潜空间扩散生成文本，挑战离散 token 主导的语言建模范式。",
+          "primary_url": "http://arxiv.org/abs/2608.02602v1",
+          "items": [
+            "700904b1856e2d04"
+          ],
+          "importance_score": 4,
+          "cover_path": "out/media/2026-08-04/research-00.jpg"
+        },
+        {
+          "headline": "实证：AI 迁移 COBOL 到 Java，连 bug 也一并迁移",
+          "summary": "论文评估 AI 将遗留 COBOL 代码迁移到 Java，发现原有 bug 会被完整复制，引发对自动迁移安全性的关注。",
+          "primary_url": "http://arxiv.org/abs/2607.28271",
+          "items": [
+            "ea9c67ba16969943"
+          ],
+          "importance_score": 4,
+          "cover_path": "out/media/2026-08-04/research-01.jpg"
+        },
+        {
+          "headline": "BODHI：RLVR 是否真的扩展了推理能力？",
+          "summary": "研究探讨可验证奖励强化学习是否让模型发展出异质推理分支，而非简单能力叠加。",
+          "primary_url": "http://arxiv.org/abs/2608.02867v1",
+          "items": [
+            "b04129f790d28959"
+          ],
+          "importance_score": 3,
+          "cover_path": "out/media/2026-08-04/research-02.jpg"
+        },
+        {
+          "headline": "AnchorKV：锚点残差 KV 缓存压缩，长上下文更省内存",
+          "summary": "提出 AnchorKV 方法，在长上下文推理中压缩 KV 缓存，缓解显存瓶颈。",
+          "primary_url": "http://arxiv.org/abs/2608.02901v1",
+          "items": [
+            "9bc092a6a672ca94"
+          ],
+          "importance_score": 3,
+          "cover_path": "out/media/2026-08-04/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Cloudflare 正式支持大规模运行 Kimi 和 GLM 模型",
+          "summary": "Cloudflare 官方博客介绍如何在边缘部署更小、更快的 Kimi 与 GLM 模型，兼顾安全与成本。",
+          "primary_url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+          "items": [
+            "0fb8a9bc72b8e263"
+          ],
+          "importance_score": 5,
+          "cover_path": "out/media/2026-08-04/product-00.jpg"
+        },
+        {
+          "headline": "Launch HN：Hoplite 让云端编码 Agent 一键部署",
+          "summary": "YC S26 项目 Hoplite 上线，帮助开发者轻松部署云端编码 Agent，并内置 QA 工具。",
+          "primary_url": "https://hoplite.sh",
+          "items": [
+            "bba29241fd3cc9b7"
+          ],
+          "importance_score": 4,
+          "cover_path": "out/media/2026-08-04/product-01.jpg"
+        },
+        {
+          "headline": "AI 生成海报获俄亥俄州博览会大奖",
+          "summary": "一张 AI 生成的海报赢得俄亥俄州博览会比赛，引发关于 AI 创作与人类评审的讨论。",
+          "primary_url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+          "items": [
+            "8048506c9d0685a8"
+          ],
+          "importance_score": 3,
+          "cover_path": "out/media/2026-08-04/product-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "专家经验能让 LLM 表现更好",
+          "summary": "博客文章通过实验指出，LLM 的输出质量显著奖励提示词中的专业深度，浅层指令难以替代领域知识。",
+          "primary_url": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "items": [
+            "c770f33c88ac18ba"
+          ],
+          "importance_score": 7
+        },
+        {
+          "headline": "AI 债务泡沫：隐藏借款已达 1.65 万亿美元",
+          "summary": "Fortune 与 The Register 均发文警告 AI 资本开支背后的巨额隐性借贷，泡沫破裂风险被低估。",
+          "primary_url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+          "items": [
+            "961b2e020c503e30",
+            "708eccdf465a5122"
+          ],
+          "importance_score": 7,
+          "cover_path": "out/media/2026-08-04/opinion-01.jpg"
+        },
+        {
+          "headline": "SQLite 的“严重 CVE”究竟是真实漏洞还是 LLM 垃圾？",
+          "summary": "JFrog 分析指出，部分被标记为“严重”的 SQLite CVE 可能源于 AI 生成的代码审查噪音，挑战现有漏洞评估。",
+          "primary_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+          "items": [
+            "c03a1804feb7c5b1"
+          ],
+          "importance_score": 6
+        },
+        {
+          "headline": "对抗“认知债务”：手动重敲一遍 LLM 生成的代码",
+          "summary": "文章建议程序员手动重打 LLM 生成的代码，以真正理解其逻辑并减少未来维护的认知负担。",
+          "primary_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+          "items": [
+            "16541d000a0b80df"
+          ],
+          "importance_score": 5
+        },
+        {
+          "headline": "Epoch AI：AI 目前能独立完成多大的软件项目？",
+          "summary": "Epoch AI 发布基准与估算，探讨当前 AI 单干的最大软件规模，指出距离大型项目仍有关键差距。",
+          "primary_url": "https://epoch.ai/MirrorCode",
+          "items": [
+            "3e7ad3c75b0df87c"
+          ],
+          "importance_score": 4,
+          "cover_path": "out/media/2026-08-04/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 生产力悖论：工具更聪明，产出却没有明显提升",
+          "summary": "一篇管理向文章分析了 AI 投资与生产力提升之间的鸿沟，质疑当前 AI 应用的实际回报。",
+          "primary_url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+          "items": [
+            "cc525d3939dc2b9b"
+          ],
+          "importance_score": 4,
+          "cover_path": "out/media/2026-08-04/opinion-05.jpg"
+        },
+        {
+          "headline": "未来形态：关于 AI 进化方向的行业随笔",
+          "summary": "Steve Yegge 发表长文，畅谈 AI 技术走向与软件行业的未来图景，引发 Hacker News 讨论。",
+          "primary_url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+          "items": [
+            "dde7a43230fdc97f"
+          ],
+          "importance_score": 3,
+          "cover_path": "out/media/2026-08-04/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Swiftlet：在 Mac 上跑 80B Qwen，内存仅需 4.3GB",
+          "summary": "开源项目 Swiftlet 让 80B 模型可以在 Mac 上以 4.3GB 内存运行，甚至能在 iPhone 上跑 35B 模型。",
+          "primary_url": "https://github.com/leonickson1/Swiftlet",
+          "items": [
+            "5c4048493203e1d2"
+          ],
+          "importance_score": 5,
+          "cover_path": "out/media/2026-08-04/opensource-00.jpg"
+        },
+        {
+          "headline": "AirLLM：单张 4GB 显卡即可推理 70B 模型",
+          "summary": "AirLLM 提供极低显存依赖的推理方案，让 70B 级模型在 4GB 单卡上运行，降低大模型门槛。",
+          "primary_url": "https://github.com/lyogavin/airllm",
+          "items": [
+            "9dcb6f918c3861ca"
+          ],
+          "importance_score": 5
+        },
+        {
+          "headline": "Sprocket：16 岁开发者发布开源软硬件 Agent",
+          "summary": "少年开发者发布 Sprocket，自称可同时胜任硬件与软件开发的 AI Agent，并且是开源项目。",
+          "primary_url": "https://sprocket-demo.spikonado.com",
+          "items": [
+            "cc97880915c19263"
+          ],
+          "importance_score": 4
+        },
+        {
+          "headline": "Nightcrawler：手机端本地 AI 渗透测试 Agent",
+          "summary": "Nightcrawler 是一个完全本地运行的 AI 渗透测试代理，可以直接跑在智能手机上，用于安全评估。",
+          "primary_url": "https://github.com/garagehq/nightcrawler/",
+          "items": [
+            "eef4d66c2cd2949c"
+          ],
+          "importance_score": 4,
+          "cover_path": "out/media/2026-08-04/opensource-03.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-04"
+}
