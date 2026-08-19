@@ -37,6 +37,17 @@ def run(skip: list[str] | None = None, date: str | None = None,
               f"，跳过无历史接口的 rss/reddit/x")
 
     cfg = load_config()
+    if backfill:
+        # 补录丢了 rss/reddit/x（正常期一多半的量），把仅剩两个源的门槛放宽
+        # 一档补偿，否则出来的一期太单薄。放宽的是收录门槛，不是编造。
+        cfg.setdefault("hackernews", {})["min_points"] = max(
+            20, int(cfg.get("hackernews", {}).get("min_points", 80) // 2))
+        cfg.setdefault("arxiv", {})["max_per_category"] = int(
+            cfg.get("arxiv", {}).get("max_per_category", 30) * 2)
+        print(f"  [backfill] 门槛放宽：hn min_points="
+              f"{cfg['hackernews']['min_points']}，"
+              f"arxiv max_per_category={cfg['arxiv']['max_per_category']}")
+
     items = []
 
     if "rss" not in skip:
