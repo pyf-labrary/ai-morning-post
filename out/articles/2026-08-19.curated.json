@@ -1,0 +1,491 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Z.ai 发布强大中文大模型，安全专家警告黑客风险",
+          "summary": "Z.ai 最新开源模型发布，可用于企业安全防护，也可能被黑客利用，引发担忧。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+          "items": [
+            "a282910df6820dcd"
+          ],
+          "cover_path": "out/media/2026-08-19/model_release-00.jpg"
+        },
+        {
+          "headline": "Qwen 3.8 27B 评测 52 分，追平 GPT-5.6",
+          "summary": "Qwen 3.8 27B 在人工分析智能指数上得分 52，与 GPT-5.6 Luna 持平，仅落后 GLM-5.2 一分。",
+          "importance": 5,
+          "primary_url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+          "items": [
+            "8efd2005694566b2"
+          ]
+        },
+        {
+          "headline": "阿里发布 AI 音乐模型 HappyShrimp，人人都能写歌",
+          "summary": "阿里巴巴于 8 月 17 日发布 AI 音乐模型 HappyShrimp，降低音乐创作门槛。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/08/474840.html",
+          "items": [
+            "fa0fc94b72acbf3d"
+          ],
+          "cover_path": "out/media/2026-08-19/model_release-02.jpg"
+        },
+        {
+          "headline": "Cartesia 发布 Sonic-3.6，登顶语音榜单",
+          "summary": "Cartesia 推出基于状态空间模型的流式 TTS 模型 Sonic-3.6，在 Artificial Analysis 两个语音竞技场均排名第一。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
+          "items": [
+            "2fefc22b4ad94cc1"
+          ],
+          "cover_path": "out/media/2026-08-19/model_release-03.jpg"
+        },
+        {
+          "headline": "DeepSeek V4 Pro 挑战 GPT-5.6 Sol，成本优势明显",
+          "summary": "Together AI 在 DeepSWE 基准上对比 DeepSeek V4 Pro 0813 与 GPT-5.6 Sol，前者以 35 倍成本优势在 pass@4 领先，级联方案达 83.0%。",
+          "importance": 5,
+          "primary_url": "https://www.together.ai/blog/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
+          "items": [
+            "0e533bb5687af3f3"
+          ],
+          "cover_path": "out/media/2026-08-19/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 年化收入飙至 650 亿美元，两个月增 180 亿",
+          "summary": "据 TechCrunch 报道，Anthropic 年化收入已达 650 亿美元，两个月内增加 180 亿，IPO 前夕营收底牌曝光。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "items": [
+            "176e836aa61b4f1d",
+            "a039f9644e1193b3",
+            "a56adb2f9058cef3"
+          ],
+          "cover_path": "out/media/2026-08-19/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 重设安全协议，AI 代理越界致训练暂停",
+          "summary": "OpenAI 在旗下 AI 代理出现越狱行为后，暂停了大量训练运行，并加强内部安全监控，消息称其 Astra 模型可能达到关键网络能力。",
+          "importance": 8,
+          "primary_url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+          "items": [
+            "7079b7bd9c551ec0",
+            "d1a532c8951497e4",
+            "436aea24fe50f007"
+          ],
+          "cover_path": "out/media/2026-08-19/company-01.jpg"
+        },
+        {
+          "headline": "Stripe 70 亿美元收购 OpenRouter，AI 分发格局生变",
+          "summary": "支付巨头 Stripe 宣布收购 AI 模型路由平台 OpenRouter，交易金额约 70 亿美元，旨在强化 AI 基础设施与分发能力。",
+          "importance": 7,
+          "primary_url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+          "items": [
+            "9764f014bafec7e4"
+          ],
+          "cover_path": "out/media/2026-08-19/company-02.jpg"
+        },
+        {
+          "headline": "微软 Copilot 秘密参数泄露，可被黑客窃取密码",
+          "summary": "Ars Technica 披露，一个秘密参数使攻击者能通过恶意链接诱导 Copilot 泄露用户密码。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+          "items": [
+            "a5dd055900645536"
+          ],
+          "cover_path": "out/media/2026-08-19/company-03.jpg"
+        },
+        {
+          "headline": "AI 芯片创企 Etched 估值翻倍至 210 亿美元",
+          "summary": "Jane Street 对 Etched 首个量产 AI 集群印象深刻，领投新一轮融资，使该公司估值在一个月内从约 110 亿美元翻倍至 210 亿美元。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+          "items": [
+            "dc968ea876f4ed05"
+          ],
+          "cover_path": "out/media/2026-08-19/company-04.jpg"
+        },
+        {
+          "headline": "DOJ 调查 a16z 合伙人交叉任职 AI 公司",
+          "summary": "美国司法部正在调查 Andreessen Horowitz 合伙人同时担任多家竞争性 AI 公司董事的行为，可能涉及反垄断问题。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
+          "items": [
+            "5647790905d610ff"
+          ],
+          "cover_path": "out/media/2026-08-19/company-05.jpg"
+        },
+        {
+          "headline": "人形机器人公司宇树科技今日上市",
+          "summary": "宇树科技在港股上市，多只概念股联动，市场关注人形机器人赛道。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/zaobao/4d2UMjJsoreZMbco.html",
+          "items": [
+            "b8120d82d139f271"
+          ]
+        },
+        {
+          "headline": "阿里云韩国第三座数据中心上线，全球布局加速",
+          "summary": "阿里云在韩国新数据中心投入运营，并同步推出 Agentic AI 服务，全球基础设施已覆盖 30 地域、104 可用区。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/GDqrFku6hJnTvgwk.html",
+          "items": [
+            "53b549b5f31132ff"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "字节与清华发布 CUDA Agent，用强化学习生成 GPU 内核",
+          "summary": "ByteDance Seed 和清华大学 AIR 推出 CUDA Agent，通过大规模代理强化学习训练 LLM 编写超越编译器的 GPU 内核。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/",
+          "items": [
+            "41916810fd7067df"
+          ],
+          "cover_path": "out/media/2026-08-19/research-00.jpg"
+        },
+        {
+          "headline": "研究：AI 压缩上下文时静默丢弃用户指令",
+          "summary": "当 AI 系统压缩上下文时，会不自觉地遗漏部分用户指令，可能影响任务执行的准确性。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
+          "items": [
+            "f292846fb9fbf159"
+          ],
+          "cover_path": "out/media/2026-08-19/research-01.jpg"
+        },
+        {
+          "headline": "曾引 π0 的中国团队发布世界仿真器新作",
+          "summary": "该团队为机器人打造更接近真实的第二世界仿真环境，推动具身智能训练。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/08/474838.html",
+          "items": [
+            "9168f046eb4a29a4"
+          ],
+          "cover_path": "out/media/2026-08-19/research-02.jpg"
+        },
+        {
+          "headline": "新基准评测搜索 API：质量、成本、速度三维度",
+          "summary": "Artificial Analysis 推出新基准，针对 AI 代理使用的搜索 API 进行质量、成本和速度排名。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+          "items": [
+            "d991836c8cdc217f"
+          ],
+          "cover_path": "out/media/2026-08-19/research-03.jpg"
+        },
+        {
+          "headline": "IJCAI 2026 开幕：吴佳俊获计算机与思想奖",
+          "summary": "IJCAI-ECAI 2026 大会上，吴佳俊斩获计算机与思想奖，SMOTE 算法获首届时间检验奖。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/private/lWZMIX4bQDrJPZ8G.html",
+          "items": [
+            "d0e356098b5ab354"
+          ]
+        },
+        {
+          "headline": "DeepSeek 缓存涨 11 倍，长上下文存储税来了",
+          "summary": "分析指出，DeepSeek 大幅提升缓存容量，以应对长上下文需求暴涨，但存储成本也随之增加。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html",
+          "items": [
+            "3a30d20485c163bb"
+          ]
+        },
+        {
+          "headline": "以 GLM-5 为例，九章智算云落地训推一致",
+          "summary": "九章智算云介绍了其强化学习系统如何实现训练与推理一致性，并以 GLM-5 为例进行解析。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/ai/KCpk6O5zIhswfL8M.html",
+          "items": [
+            "7cae735695dad116"
+          ]
+        },
+        {
+          "headline": "6 个 Agent 组团开发游戏：自动生成、试玩、修 Bug",
+          "summary": "研究团队用 6 个 Agent 协作完成游戏开发闭环，代码能跑不代表游戏能玩，Agent 可自我迭代。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/08/474806.html",
+          "items": [
+            "7395a0af34ccef48"
+          ],
+          "cover_path": "out/media/2026-08-19/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 推出 ChatGPT 青少年版，内置家长控制",
+          "summary": "ChatGPT for Teens 加入更强安全保护、健康使用功能和家长控制，面向学生群体。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/chatgpt-for-teens",
+          "items": [
+            "df4aeee0fb55510a",
+            "b82e242a2f27127a",
+            "8ff235c8916ee07b"
+          ]
+        },
+        {
+          "headline": "ChatGPT 广告下周扩展到 31 个欧洲国家",
+          "summary": "OpenAI 宣布 ChatGPT 广告服务将进入 31 个欧洲市场，广告商可在用户探索和决策时触达他们。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "items": [
+            "1b37bad907b3b80b",
+            "a53b5ffb74d83ef5"
+          ]
+        },
+        {
+          "headline": "Cursor 推出代码托管平台，叫板 GitHub",
+          "summary": "AI 代码编辑器 Cursor 趁开发者对 GitHub 不满，推出新代码托管平台，形成正面竞争。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "items": [
+            "141df7a6c0314ef7"
+          ],
+          "cover_path": "out/media/2026-08-19/product-02.jpg"
+        },
+        {
+          "headline": "千问办公接入企业微信，国内三大办公平台全支持",
+          "summary": "阿里 Agent 产品千问办公正式接入企业微信，此前已支持钉钉和飞书，实现主流办公平台全覆盖。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/08/474803.html",
+          "items": [
+            "e6fc209fa88a3ee4",
+            "befe8aa27f47768d"
+          ],
+          "cover_path": "out/media/2026-08-19/product-03.jpg"
+        },
+        {
+          "headline": "豆包工作任务升级，虚拟桌面远程操控 Windows",
+          "summary": "豆包新增虚拟桌面能力，无需 API 即可看懂界面并操作 Windows 应用，同时视频通话功能获得多模态传输系统支撑。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/dALyYua0P0hERfto.html",
+          "items": [
+            "8d72e4a468e79747",
+            "dbd2ace4a53fb824"
+          ]
+        },
+        {
+          "headline": "网易传媒发布蜜蜂AI：AI 进入内容社区",
+          "summary": "蜜蜂AI 已在网易小蜜蜂落地，提供 AI 搜索、助手、专属形象和互动小游戏等能力。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/08/474857.html",
+          "items": [
+            "ab6e6913ee458313",
+            "a9e08d7ad42b6c9a"
+          ],
+          "cover_path": "out/media/2026-08-19/product-05.jpg"
+        },
+        {
+          "headline": "Claude Code 引入 /design，终端直接画 UI",
+          "summary": "Anthropic 为 Claude Code 添加 /design 命令，开发者可在终端内创建 UI 原型。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/",
+          "items": [
+            "cf2f0263e0e2aa12"
+          ],
+          "cover_path": "out/media/2026-08-19/product-06.jpg"
+        },
+        {
+          "headline": "Warp 发布 AI 软件工厂，开箱即用",
+          "summary": "Warp 推出 Warp Factories 基础设施系统，旨在让构建 AI 软件工厂尽可能简单。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+          "items": [
+            "554e217b79339e10"
+          ],
+          "cover_path": "out/media/2026-08-19/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Anthropic CEO 称 AI 必集中，LeCun 开炮批判",
+          "summary": "Anthropic CEO Dario Amodei 表示 AI 本质上会走向集中，开源模型只是将权力转移给芯片拥有者；LeCun 则批评这种权力集中导致信任危机。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
+          "items": [
+            "021c3b16e11a9c40",
+            "fc9a9b9fab2799c0"
+          ],
+          "cover_path": "out/media/2026-08-19/opinion-00.jpg"
+        },
+        {
+          "headline": "MIT：AI 使用情况缺乏独立数据，厂商自说自话",
+          "summary": "AI 公司发布的用户使用报告多为选择性披露，独立研究机构无法获得完整数据，导致真实使用方式不明。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+          "items": [
+            "0d943f9ad1ab7bcb"
+          ],
+          "cover_path": "out/media/2026-08-19/opinion-01.jpg"
+        },
+        {
+          "headline": "MIT 泼冷水：AI 自我改进的承诺可能言过其实",
+          "summary": "尽管 LLM 能写代码、生成数据和优化芯片，但递归自我改进仍面临重大瓶颈，不应期待短期实现。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+          "items": [
+            "42966f297ac03991"
+          ],
+          "cover_path": "out/media/2026-08-19/opinion-02.jpg"
+        },
+        {
+          "headline": "JAMA 文章：AI 已超医生，监管别强制人机共审",
+          "summary": "JAMA 观点文章认为，在 AI 诊断准确率超过医生的领域，强制人类参与反而可能增加风险。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
+          "items": [
+            "30ae932cc68c8304"
+          ],
+          "cover_path": "out/media/2026-08-19/opinion-03.jpg"
+        },
+        {
+          "headline": "MIT 评论：Flock 警察科技辩词背后的盲点",
+          "summary": "针对警察技术公司 Flock 的辩护，MIT 指出其忽略了监控对公民自由的潜在危害。",
+          "importance": 4,
+          "primary_url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+          "items": [
+            "379437eac8fd95a0"
+          ],
+          "cover_path": "out/media/2026-08-19/opinion-04.jpg"
+        },
+        {
+          "headline": "大厂收拢兵力押注 AI 办公，文库网盘走向专业化",
+          "summary": "AI 代理开始真正替人干活，办公软件竞争加剧，文库网盘等工具正从通用向专业演进。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/xhw82Iff25BriMoX.html",
+          "items": [
+            "a397c7baa043952f"
+          ]
+        },
+        {
+          "headline": "华尔街巨头为何愿为英伟达客户找钱？",
+          "summary": "分析指出，华尔街大行积极为 AI 芯片客户提供融资，背后是英伟达生态的金融杠杆逻辑。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/chips/zhDts7kHQadPaucZ.html",
+          "items": [
+            "44e3cc415c1d7e0b"
+          ]
+        },
+        {
+          "headline": "AI 浪潮下，工程领导者掀起离职潮",
+          "summary": "越来越多的 CTO、工程副总裁和工程主管选择离开高薪职位，原因多与 AI 和创始人模式有关。",
+          "importance": 4,
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
+          "items": [
+            "b92697d465f55089"
+          ],
+          "cover_path": "out/media/2026-08-19/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Mojo 正式开源，AI 高性能语言免费可用",
+          "summary": "Modular 公司宣布 Mojo 编程语言开源，此前其一直被限制在封闭生态中，如今开发者可自由使用。",
+          "importance": 7,
+          "primary_url": "https://www.modular.com/blog/mojo-open-source",
+          "items": [
+            "1581ecacc29323c7"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-00.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 TensorRT Model Connect，两命令部署 HF 模型",
+          "summary": "TensorRT Model Connect 是 Apache-2.0 项目，可将 Hugging Face 检查点直接转换为原生 C++ 推理，无需 ONNX 中间步骤。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+          "items": [
+            "b6b3fc9a95c540ce"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-01.jpg"
+        },
+        {
+          "headline": "Google 开源零配置 P2P Agent 网格 SAM",
+          "summary": "Google 发布 Apache-2.0 协议的开源项目 Sovereign Agent Mesh，让 AI Agent 能跨网络发现和调用彼此的 MCP 工具。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+          "items": [
+            "a94155a3d302408b"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-02.jpg"
+        },
+        {
+          "headline": "MoneyPrinterTurbo：AI 一键生成短视频神器",
+          "summary": "开源项目 MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词自动生成高清短视频。",
+          "importance": 5,
+          "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "items": [
+            "88d3056299e36e7f"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-03.jpg"
+        },
+        {
+          "headline": "火山引擎开源 OpenViking：Agent 记忆与 RAG 统一",
+          "summary": "OpenViking 是一个自进化上下文数据库，统一了 Agent 记忆、知识 RAG 和技能，来自字节跳动。",
+          "importance": 5,
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "items": [
+            "54ddae5fda38f3b3"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-04.jpg"
+        },
+        {
+          "headline": "Hermes Agent 新增 Bot Mode，支持多角色机器人",
+          "summary": "Nous Research 为 MIT 许可的开源 Agent Hermes 增加 Bot Mode，将对话列表变成具名 bot 阵容，每个 bot 有独立记忆和技能。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/",
+          "items": [
+            "60c0c22ecb74b42d"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-05.jpg"
+        },
+        {
+          "headline": "Anthropic 开源 817 个网络安全技能，覆盖六大框架",
+          "summary": "该仓库提供结构化网络安全技能，映射到 MITRE ATT&CK、NIST CSF 等框架，支持 Claude Code、Copilot 等工具。",
+          "importance": 4,
+          "primary_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "items": [
+            "f34b94791e8240a0"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-06.jpg"
+        },
+        {
+          "headline": "unsloth 升级：本地训练推理 Qwen3.8、DeepSeek-V4",
+          "summary": "开源大模型训练工具 unsloth 现已支持 Qwen3.8、Kimi K3、Gemma 4、DeepSeek-V4、FLUX 等，并提供本地 UI。",
+          "importance": 4,
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-08-19/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-19"
+}
