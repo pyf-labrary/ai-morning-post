@@ -77,6 +77,11 @@ MAX_TOKENS = int(os.getenv("CURATE_MAX_TOKENS", "32000"))
 # 的输出，远好过整轮流水线在第 2 步挂掉（2026-08 连挂 6 天的根因）。
 FALLBACK_LADDER = (120, 80, 50)
 
+# 一次 curate 至少要填出这么多个板块才算数。只填出一两个板块通常是这轮跑偏
+# 了（2026-08-15 补录踩过：过了「至少一个板块非空」的松校验，出了篇只有单板块
+# 的残缺晨报），不是当天真没新闻。达不到就重试，但结果留着兜底。
+MIN_FILLED_SECTIONS = int(os.getenv("CURATE_MIN_SECTIONS", "3"))
+
 
 class CurateTruncated(RuntimeError):
     """本轮输出被截断 / 不是完整 JSON——可以少喂素材重试。"""
@@ -139,9 +144,16 @@ def _curate_once(date: str, items: list[Item], sections_def: list, client) -> di
         raise CurateTruncated(f"JSON 解析失败：{e}") from e
     if not isinstance(data, dict) or not data.get("sections"):
         raise CurateTruncated("JSON 里没有 sections")
-    if not any(sec.get("stories") for sec in data["sections"]):
+    filled = [sec for sec in data["sections"] if sec.get("stories")]
+    if not filled:
         raise CurateTruncated("所有板块都是空的")
     return data
+
+
+def _score(data: dict) -> tuple[int, int]:
+    """(有内容的板块数, story 总数)——用来在多次尝试里挑最好的一次。"""
+    filled = [sec for sec in data.get("sections", []) if sec.get("stories")]
+    return len(filled), sum(len(sec["stories"]) for sec in filled)
 
 
 def curate(date: str | None = None) -> Path:
@@ -158,6 +170,7 @@ def curate(date: str | None = None) -> Path:
     # 从 MAX_ITEMS 起，被截断就顺着阶梯少喂一点重试。
     budgets = [MAX_ITEMS, *(n for n in FALLBACK_LADDER if n < MAX_ITEMS)]
     last_err: Exception | None = None
+    best: dict | None = None
     for attempt, n in enumerate(budgets, 1):
         batch = ranked[:n]
         print(f"[curate] attempt {attempt}/{len(budgets)}: top {len(batch)} "
@@ -168,16 +181,26 @@ def curate(date: str | None = None) -> Path:
             last_err = e
             print(f"  ✗ {e} —— 降档重试")
             continue
-        data["date"] = date
-        ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
-        out = ARTICLES_DIR / f"{date}.curated.json"
-        out.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"curated → {out}")
-        return out
+        filled, stories = _score(data)
+        print(f"  → {filled} 个板块有内容，共 {stories} 条 story")
+        if best is None or _score(data) > _score(best):
+            best = data
+        if filled >= MIN_FILLED_SECTIONS:
+            break
+        # 只填出一两个板块多半是这轮跑偏了（不是当天真没新闻）——再试一次，
+        # 但把这次的结果留着兜底，别为了追求完美最后一无所有。
+        print(f"  ✗ 只有 {filled} 个板块有内容（要求 ≥{MIN_FILLED_SECTIONS}）—— 重试")
 
-    raise RuntimeError(
-        f"curate 降档到 {budgets[-1]} 条素材仍失败，最后一次：{last_err}"
-    )
+    if best is None:
+        raise RuntimeError(
+            f"curate 降档到 {budgets[-1]} 条素材仍失败，最后一次：{last_err}"
+        )
+    best["date"] = date
+    ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
+    out = ARTICLES_DIR / f"{date}.curated.json"
+    out.write_text(json.dumps(best, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"curated → {out}（{_score(best)[0]} 板块 / {_score(best)[1]} story）")
+    return out
 
 
 def main() -> None:
