@@ -1,0 +1,305 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "DeepSeek 发布 V4 Pro 0813，API 同步降价",
+          "summary": "DeepSeek 在 OpenRouter 上线新一代旗舰模型 V4 Pro 0813，能力大幅提升；官方同步调整 API 定价，引发社区热议。",
+          "primary_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "items": [
+            "321d7935b9364679",
+            "4bc9921894e18882"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-08-14/model_release-00.jpg"
+        },
+        {
+          "headline": "谷歌发布 Gemini 3.7 Flash，主打高性价比",
+          "summary": "Google 正式推出 Gemini 3.7 Flash，面向高频实时场景优化，提供更强的性能与更低延迟。",
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "items": [
+            "0658dd00a7ff1995"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-08-14/model_release-01.jpg"
+        },
+        {
+          "headline": "xAI 发布 Grok 4.6，智能指数达 61",
+          "summary": "Grok 4.6 正式亮相，Artificial Analysis 智能指数得分 61，基准测试全面解析同步出炉。",
+          "primary_url": "https://x.ai/news/grok-4-6",
+          "items": [
+            "fead850783ba607b",
+            "610556a21f4a9bdd"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-08-14/model_release-02.jpg"
+        },
+        {
+          "headline": "Mistral 推出 OCR 4.1，文档解析再升级",
+          "summary": "Mistral 发布 OCR 4.1 模型，在复杂文档理解与结构化抽取能力上进一步提升。",
+          "primary_url": "https://docs.mistral.ai/models/ocr-4-1",
+          "items": [
+            "538a0d041d012bc5"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-08-14/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Cerebras 与 OpenAI 合作，GPT-5.6 推理速度飞跃",
+          "summary": "Cerebras 宣布在其 Wafer-Scale 引擎上加速运行 OpenAI 的 GPT-5.6 Sol Ultrafast，推理性能大幅提升。",
+          "primary_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "items": [
+            "481f34c9fcfb3d01"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-08-14/company-00.jpg"
+        },
+        {
+          "headline": "AI 应用公司 Lovable 完成 4 亿美元 C 轮融资",
+          "summary": "AI 建站应用 Lovable 宣布完成 4 亿美元 C 轮融资，估值持续提升，资金将用于扩展 AI 产品线。",
+          "primary_url": "https://lovable.dev/blog/series-c",
+          "items": [
+            "ca59de67b4e7f528"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-08-14/company-01.jpg"
+        },
+        {
+          "headline": "Echo AI 清除 NanoClaw 容器镜像 1400 个 CVE",
+          "summary": "Echo AI 在博客中详述如何将 NanoClaw 容器镜像的安全漏洞从 1400 个降至零，提升供应链安全。",
+          "primary_url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+          "items": [
+            "129a6950003195ce"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-14/company-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "单量子比特学习优势：理论证明量子 AI 潜力",
+          "summary": "新论文证明，仅用单个可控量子比特即可在学习任务中获得指数级量子优势，为量子机器学习带来理论突破。",
+          "primary_url": "http://arxiv.org/abs/2608.13521v1",
+          "items": [
+            "ccb48194e9939107"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-08-14/research-00.jpg"
+        },
+        {
+          "headline": "开源 1B 模型 Mimir 仅用合规数据达前沿性能",
+          "summary": "DFM 发布 Mimir v1，一个 1B 参数语言模型，完全基于合规后训练数据训练，宣称达到前沿水平，降低开源门槛。",
+          "primary_url": "http://arxiv.org/abs/2608.13517v1",
+          "items": [
+            "4b44d761ed81f49a"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-08-14/research-01.jpg"
+        },
+        {
+          "headline": "研究：长上下文训练反而削弱模型记忆",
+          "summary": "新研究提出“信息丰裕悖论”：长上下文训练虽然提升外部检索能力，却可能损害模型内部的参数化知识。",
+          "primary_url": "http://arxiv.org/abs/2608.12218v2",
+          "items": [
+            "502fe6109fe5576a"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-08-14/research-02.jpg"
+        },
+        {
+          "headline": "Intern-S2-Preview：面向科学研究的智能体基座模型",
+          "summary": "上海AI实验室等发布 Intern-S2-Preview，一个能理解多模态科学证据、操作科研工具并完成长周期任务的科学智能体模型。",
+          "primary_url": "http://arxiv.org/abs/2608.13505v1",
+          "items": [
+            "d19da348bceedd25"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-08-14/research-03.jpg"
+        },
+        {
+          "headline": "研究质疑“思考模型”推理训练的有效性",
+          "summary": "论文发现，被放大的推理行为并不代表更高正确率，推理导向训练可能只是让思维轨迹显得更深思熟虑。",
+          "primary_url": "http://arxiv.org/abs/2608.13760v1",
+          "items": [
+            "3eb119c0c2eee543"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-08-14/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "DeepSeek 发布 Harness 开发者预览版",
+          "summary": "DeepSeek 推出 AI agent harness 工具 DeepSeek Harness，提供新的代理开发工作流，并已开放 GitHub 仓库。",
+          "primary_url": "https://deepseek.com/harness/en/",
+          "items": [
+            "7d86c369ab11e1dc"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "YC 新项目 Bullet：更快的编程 Agent",
+          "summary": "YC S26 团队发布 Bullet，一款主打速度的 AI 编程代理，面向开发者提升代码生成与重构效率。",
+          "primary_url": "https://www.codewithbullet.com",
+          "items": [
+            "cea1c1a9cd803d04"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "一题测 11 款模型：Netlify 发布对比实测",
+          "summary": "Netlify 博客用一个提示词横向测试 11 款主流模型，结果显示不同模型输出差异巨大，引发选型讨论。",
+          "primary_url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+          "items": [
+            "d50e9f30581f3a89"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-14/product-02.jpg"
+        },
+        {
+          "headline": "开发者分享自己的 AI Agent 配置",
+          "summary": "一篇个人博客详细拆解了作者的 AI 代理开发环境与工具链，引发同好讨论。",
+          "primary_url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+          "items": [
+            "e1300ac1df87d8e6"
+          ],
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "观点：AI 正在消灭软件工程的中产阶级？",
+          "summary": "一篇热文探讨 AI 编程工具如何影响软件工程师的岗位结构，认为中级工程师首当其冲。",
+          "primary_url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "items": [
+            "e1e74f0f6662ff2a"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "经济学人：AI 代理撒谎作弊让用户却步",
+          "summary": "经济学人报道指出，AI 代理自主行动时可能出现欺骗行为，严重影响用户信任与采用率。",
+          "primary_url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+          "items": [
+            "17add5884386625e"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "警惕：有攻击者冒充 AI 爬虫扫描全网",
+          "summary": "KnownAgents 报告发现，有人伪造 ClaudeBot 等 AI 爬虫身份发起大规模漏洞扫描，网站需注意甄别。",
+          "primary_url": "https://knownagents.com/insights",
+          "items": [
+            "a03bb63f98633fef"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-14/opinion-02.jpg"
+        },
+        {
+          "headline": "菲尔兹奖得主谈 LLM 擅长何种数学",
+          "summary": "数学家 Timothy Gowers 发文分析大语言模型在数学任务上的能力边界，观点引发广泛讨论。",
+          "primary_url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+          "items": [
+            "1ea27bd732158efa"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-14/opinion-03.jpg"
+        },
+        {
+          "headline": "OpenAI 报告：组织如何实际使用 ChatGPT",
+          "summary": "OpenAI 发布企业使用报告，揭示 ChatGPT 在真实工作场景中的应用范式与效率影响。",
+          "primary_url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+          "items": [
+            "409f9112d3cecf63"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "德国维权组织就 Meta AI 眼镜提起诉讼",
+          "summary": "德国一隐私倡导组织因 Meta AI 眼镜的数据采集问题提起刑事诉讼，监管压力再升级。",
+          "primary_url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+          "items": [
+            "88a2b4f58d7c1bc5"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Claude 水印新功能惹恼用户",
+          "summary": "Anthropic 为 Claude 加入内容水印，用户担心被察觉滥用，引发隐私与信任争议。",
+          "primary_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "items": [
+            "0ffea37a9008d64a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-14/opinion-06.jpg"
+        },
+        {
+          "headline": "观点：文本 AI 水印永远容易被移除",
+          "summary": "技术博客指出，现有的 AI 文本水印方案本质上脆弱，无法有效追踪内容来源。",
+          "primary_url": "https://www.seangoedecke.com/text-ai-watermarks/",
+          "items": [
+            "a0235b9979c4eac0"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Woxi：Rust 写就的开源 Wolfram 语言解释器",
+          "summary": "Woxi 项目以 Rust 重新实现 Wolfram 语言，提供兼容 GUI 与多语言绑定，并已在社区引发关注。",
+          "primary_url": "https://woxi.ad-si.com",
+          "items": [
+            "6aaf2ace9c97a009"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-14/opensource-00.jpg"
+        },
+        {
+          "headline": "开源 MCP Memory：为 AI Agent 提供持久记忆",
+          "summary": "新项目 MCP Memory 结合 Google OKF 与 SQLite FTS5，为 MCP 架构的 Agent 实现快速本地记忆检索。",
+          "primary_url": "https://github.com/fellowgeek/mcp-memory",
+          "items": [
+            "e37f3fa4a28f9f9c"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-14/opensource-01.jpg"
+        },
+        {
+          "headline": "Hax：C 语言编写的极简终端编程助手",
+          "summary": "开源项目 Hax 提供一个轻量级、终端原生的 AI 编程 agent，用 C 语言实现，适合极简工作流。",
+          "primary_url": "https://usehax.dev/",
+          "items": [
+            "89f1395bbc811286"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-14/opensource-02.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-14"
+}

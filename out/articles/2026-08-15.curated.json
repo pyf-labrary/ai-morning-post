@@ -1,0 +1,116 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": []
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": []
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AI智能爆炸动力学论文：递归自我改进的数学分析",
+          "summary": "论文探讨AI在辅助AI研发时可能产生智能爆炸，分析了这一反馈回路最极端形式下的数学条件。",
+          "primary_url": "http://arxiv.org/abs/2608.14426v1",
+          "importance": 4,
+          "items": [
+            "c1bcfdf5b30d571c"
+          ],
+          "cover_path": "out/media/2026-08-15/research-00.jpg"
+        },
+        {
+          "headline": "Agentic编码助手存在工作区拓扑攻击向量",
+          "summary": "研究揭示，Agentic编程助手在摄入第三方代码时可能遭受恶意代码注入，工作区拓扑结构成为新攻击面。",
+          "primary_url": "http://arxiv.org/abs/2608.14876v1",
+          "importance": 4,
+          "items": [
+            "b658655e2f44eb95"
+          ],
+          "cover_path": "out/media/2026-08-15/research-01.jpg"
+        },
+        {
+          "headline": "AI辅助构造三块ADMM收敛性反例",
+          "summary": "通过AI辅助发现并构造了著名的三块ADMM算法以单位矩阵为第三约束块时可能不收敛的反例。",
+          "primary_url": "http://arxiv.org/abs/2608.14396v1",
+          "importance": 4,
+          "items": [
+            "5d9bb3ede90628f1"
+          ],
+          "cover_path": "out/media/2026-08-15/research-02.jpg"
+        },
+        {
+          "headline": "前沿AI预测存在测量问题：进展证据审计",
+          "summary": "论文审计了公共测量记录能否支撑前沿AI定量预测，指出基准分数、算力趋势等证据链条存在缺口。",
+          "primary_url": "http://arxiv.org/abs/2608.14903v1",
+          "importance": 3,
+          "items": [
+            "5fb8f6e6357b6961"
+          ],
+          "cover_path": "out/media/2026-08-15/research-03.jpg"
+        },
+        {
+          "headline": "KV缓存压缩新视角：变换编码框架",
+          "summary": "研究将KV缓存压缩问题重新定义为变换编码，提出超越均匀量化的非均匀压缩方法，可降低大模型长上下文推理显存。",
+          "primary_url": "http://arxiv.org/abs/2608.14191v1",
+          "importance": 3,
+          "items": [
+            "4da96c4d748db977"
+          ],
+          "cover_path": "out/media/2026-08-15/research-04.jpg"
+        },
+        {
+          "headline": "MINT：多目标对齐的最小选择偏好蒸馏",
+          "summary": "针对语言智能体多目标对齐易塌缩到单一目标的失败模式，提出最小选择偏好蒸馏方法，实现多目标平衡。",
+          "primary_url": "http://arxiv.org/abs/2608.14828v1",
+          "importance": 3,
+          "items": [
+            "dfd41917f86e87da"
+          ],
+          "cover_path": "out/media/2026-08-15/research-05.jpg"
+        },
+        {
+          "headline": "DeaMoE：面向小批量快速解码的高效MoE结构",
+          "summary": "提出DeaMoE优化Mixture-of-Experts在小批量解码中的效率，降低实时交互场景下的响应延迟。",
+          "primary_url": "http://arxiv.org/abs/2608.14385v1",
+          "importance": 3,
+          "items": [
+            "dc2ca64f11804386"
+          ],
+          "cover_path": "out/media/2026-08-15/research-06.jpg"
+        },
+        {
+          "headline": "Marionette：可预测世界状态的游戏世界模型",
+          "summary": "提出交互式游戏世界模型Marionette，将状态预测与几何渲染解耦，在像素隐空间外显式建模游戏动态。",
+          "primary_url": "http://arxiv.org/abs/2608.14530v1",
+          "importance": 3,
+          "items": [
+            "b24afd81ba816b31"
+          ],
+          "cover_path": "out/media/2026-08-15/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": []
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": []
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": []
+    }
+  ],
+  "date": "2026-08-15"
+}

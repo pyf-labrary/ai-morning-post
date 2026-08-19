@@ -1,0 +1,271 @@
+{
+  "date": "2026-08-18",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-5.6 Sol 降价50%，评测称其为最强视觉模型",
+          "summary": "OpenRouter将GPT-5.6 Sol价格减半；Roboflow评测认为这是OpenAI迄今最好的视觉模型。",
+          "primary_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "importance": 6,
+          "items": [
+            "410c9f3edbc5bc25",
+            "db100779bf198b48"
+          ],
+          "cover_path": "out/media/2026-08-18/model_release-00.jpg"
+        },
+        {
+          "headline": "Qwen3.8 27B 亮相，Artificial Analysis 得分52",
+          "summary": "阿里Qwen3.8 27B在Artificial Analysis评测中得分52，成为关注焦点。",
+          "primary_url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+          "importance": 3,
+          "items": [
+            "48279f7496cb8cda"
+          ],
+          "cover_path": "out/media/2026-08-18/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Stripe 拟以超70亿美元收购 OpenRouter",
+          "summary": "支付巨头Stripe将收购AI网关OpenRouter，交易估值超70亿美元，TechCrunch与Bloomberg均报道。",
+          "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "importance": 7,
+          "items": [
+            "d051ee76068ca131",
+            "48d889282ebf885a"
+          ],
+          "cover_path": "out/media/2026-08-18/company-00.jpg"
+        },
+        {
+          "headline": "GitHub 连续故障引发不满，开发者讨论迁移",
+          "summary": "GitHub出现多起服务中断，HN上开发者吐槽并讨论替代方案。",
+          "primary_url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+          "importance": 6,
+          "items": [
+            "850784fcc9f0c937",
+            "88afae41554ef640",
+            "ab80662b7338e14a"
+          ],
+          "cover_path": "out/media/2026-08-18/company-01.jpg"
+        },
+        {
+          "headline": "AirTag 追踪显示 Amazon 销毁珍本书籍用于 AI 训练",
+          "summary": "404 Media与Ars Technica调查发现，亚马逊将珍本古籍送往AI训练设施销毁，引发伦理争议。",
+          "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+          "importance": 5,
+          "items": [
+            "76cc129f582a7772",
+            "cba4aa31331935b5"
+          ],
+          "cover_path": "out/media/2026-08-18/company-02.jpg"
+        },
+        {
+          "headline": "AI 需求助推内存价格一年暴涨 500%",
+          "summary": "Tom's Hardware报道，DRAM价格12个月内上涨500%，128GB DDR5已超3400美元。",
+          "primary_url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+          "importance": 4,
+          "items": [
+            "e3448f00b453576d"
+          ],
+          "cover_path": "out/media/2026-08-18/company-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AlphaEvolve 助力改进矩阵乘法指数下界",
+          "summary": "新论文用现代优化与AlphaEvolve改进矩阵乘法复杂度指数ω的边界，延续激光法组合损失分析。",
+          "primary_url": "http://arxiv.org/abs/2608.16884v1",
+          "importance": 4,
+          "items": [
+            "1b91c5b1c6f90173"
+          ],
+          "cover_path": "out/media/2026-08-18/research-00.jpg"
+        },
+        {
+          "headline": "GitHub Copilot Autofix 成漏洞入口，Snowflake Jira 被攻破",
+          "summary": "Wiz研究展示攻击者可借AI生成的Autofix补丁获取Snowflake Jira访问权限，揭示AI代码修复的安全风险。",
+          "primary_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "importance": 4,
+          "items": [
+            "38ad95764e32c4e1"
+          ],
+          "cover_path": "out/media/2026-08-18/research-01.jpg"
+        },
+        {
+          "headline": "研究揭示“模型催眠”：微小提示可强控 AI 行为",
+          "summary": "论文发现，将多个微弱提示组合可对LLM产生强控制，构成新的越狱风险。",
+          "primary_url": "http://arxiv.org/abs/2608.16834v1",
+          "importance": 3,
+          "items": [
+            "69bf3f596d7ec798"
+          ],
+          "cover_path": "out/media/2026-08-18/research-02.jpg"
+        },
+        {
+          "headline": "红皇后假说提出自改进 AI 新路径",
+          "summary": "剑桥计算机实验室提出基于红皇后假说的自改进AI框架，让系统在持续竞赛中进化。",
+          "primary_url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+          "importance": 3,
+          "items": [
+            "c02153b07af6f148"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Cursor 发布 Origin，叫板 GitHub 代码托管",
+          "summary": "AI 编程公司 Cursor 推出代码托管平台 Origin，被视为 GitHub 的替代方案。",
+          "primary_url": "https://cursor.com/changelog/origin-code-hosting",
+          "importance": 5,
+          "items": [
+            "2c8663e6b018bad4"
+          ],
+          "cover_path": "out/media/2026-08-18/product-00.jpg"
+        },
+        {
+          "headline": "Claude 官方公开系统提示词全文",
+          "summary": "Anthropic 更新平台文档，公开 Claude 系统提示词，提升透明度。",
+          "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "importance": 5,
+          "items": [
+            "07c397a89a0a8c23"
+          ],
+          "cover_path": "out/media/2026-08-18/product-01.jpg"
+        },
+        {
+          "headline": "YC 新品 Speko：一站式语音 AI 模型路由",
+          "summary": "Speko 上线，自动组合语音转写、LLM 与语音合成模型，提供最优方案。",
+          "primary_url": "https://speko.ai/",
+          "importance": 4,
+          "items": [
+            "41109f64a0bd07d3"
+          ],
+          "cover_path": "out/media/2026-08-18/product-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "以色列被曝伪造智库，试图操纵 AI 聊天机器人",
+          "summary": "调查显示以色列创建虚假智库，试图通过AI训练数据影响ChatGPT等模型认知。",
+          "primary_url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+          "importance": 6,
+          "items": [
+            "3ef4f98f7b29cb30"
+          ],
+          "cover_path": "out/media/2026-08-18/opinion-00.jpg"
+        },
+        {
+          "headline": "Amodei 发文谈 AI 监管与信息传递",
+          "summary": "Anthropic CEO Dario Amodei 在X上谈AI监管策略与公众沟通。",
+          "primary_url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+          "importance": 6,
+          "items": [
+            "cb3d903971f9c032"
+          ],
+          "cover_path": "out/media/2026-08-18/opinion-01.jpg"
+        },
+        {
+          "headline": "AI;DR：当没人再读原文，AI 摘要如何重塑阅读",
+          "summary": "文章探讨AI生成摘要时代“只读摘要不读原文”的现象及其影响。",
+          "primary_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "importance": 5,
+          "items": [
+            "86454f0232cb2450"
+          ],
+          "cover_path": "out/media/2026-08-18/opinion-02.jpg"
+        },
+        {
+          "headline": "Anthropic 被指“水印”污染文本，激怒写作社区",
+          "summary": "Daring Fireball 抨击 Claude 的文本水印机制是对写作的扭曲，引发关于AI生成内容标记的争论。",
+          "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "importance": 5,
+          "items": [
+            "f2568ff5e97b73e0"
+          ],
+          "cover_path": "out/media/2026-08-18/opinion-03.jpg"
+        },
+        {
+          "headline": "观点：AI 模型正在“故意变笨”",
+          "summary": "博客文章认为，出于合规与成本压力，模型被刻意削弱推理能力。",
+          "primary_url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+          "importance": 3,
+          "items": [
+            "13bf589fb2e8eb34"
+          ]
+        },
+        {
+          "headline": "AI 额度转售经济：谁是 token 中间商",
+          "summary": "文章分析AI API额度二手交易市场，揭示套利与代理生态。",
+          "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "importance": 3,
+          "items": [
+            "c4e4ea514d3e2233"
+          ]
+        },
+        {
+          "headline": "Z 世代对 AI 公司 CEO 的敌意令人吃惊",
+          "summary": "Futurism报道民调显示年轻人对AI高管普遍反感。",
+          "primary_url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "importance": 2,
+          "items": [
+            "d6ca90e245886b14"
+          ],
+          "cover_path": "out/media/2026-08-18/opinion-06.jpg"
+        },
+        {
+          "headline": "Anthropic 被指对开源 AI 发动战争",
+          "summary": "社交媒体帖文指责Anthropic对开源AI采取对抗态度，引发社区讨论。",
+          "primary_url": "https://twitter.com/TheAhmadOsman/status/2065307070044184236",
+          "importance": 2,
+          "items": [
+            "735a6d9aa629ac12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "MathCode：面向数学的编码 Agent 开源",
+          "summary": "MathCode 是一个数学编码智能体项目，用于自动求解数学问题并生成代码。",
+          "primary_url": "https://math-ai-org.github.io/mathcode/",
+          "importance": 3,
+          "items": [
+            "f87b791925f9d80e"
+          ]
+        },
+        {
+          "headline": "Rust GPU 卸载：可移植、安全且高性能",
+          "summary": "新工作提出Rust语言下可移植、安全且高性能的GPU卸载方案，并发布代码。",
+          "primary_url": "https://arxiv.org/abs/2608.13759",
+          "importance": 2,
+          "items": [
+            "a8b5532d532daa33"
+          ],
+          "cover_path": "out/media/2026-08-18/opensource-01.jpg"
+        }
+      ]
+    }
+  ]
+}

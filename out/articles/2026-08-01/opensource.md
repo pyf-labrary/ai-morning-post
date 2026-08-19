@@ -1,35 +1,55 @@
-# 多智能体协作框架 qm 开源
+# qm开源：多Agent协作的新框架
 
-今天最值得关注的是 GitHub 新项目 qm：它把多个 agent 组织成「团队」来协同完成复杂任务。单点 agent 的能力已经不是瓶颈，如何编排、分工、协作才是下一个战场。qm 选择了 harness 路线，值得开源社区和做 agent 产品的人多看一眼。同日还有两个小而实的项目：一个给 agent 添加受控写作技能，一个探索 29GB 内存跑大模型的可能性。
+今天最值得看的是 yc-software 开源的 qm——一个让多个 AI Agent 协作完成任务的 harness 框架，目前已在 GitHub 上热度高涨。多 Agent 协作正在从概念走向工程化，编排层的体验将决定 agentic 应用的落地效率。此外，29GB 内存跑 Kimi K3、Grafana 的 Go LLM SDK 等几条动态也各有看点。
 
-## qm：面向多智能体协同工作的开源 harness
+## qm：多 Agent 协作的开源 harness
 
-qm 是一个刚在 GitHub 上发布的框架，定位是「多人/多智能体」协作式 agent 工作环境。它让多个 agent 不再各自为战，而是可以像团队一样组织起来，围绕同一个目标分工执行。
+**是什么：** yc-software 今日开源 qm，一个编排多个 AI Agent 协作完成任务的 harness 框架，在 GitHub 上热度高涨。
 
-关键点在于，qm 明确做的是 harness 而非单一 agent 框架——它解决的问题不是「单个 agent 多聪明」，而是「多个 agent 如何协作」。在当下 agent 能力快速提升的背景下，编排层（orchestration）和协作层（collaboration）正成为新的技术壁垒：任务拆解、结果合并、冲突处理、上下文共享，这些都是单 agent 时代不太需要操心的事。
+**关键点：** qm 让多个 Agent 在统一调度下分工，各自承担独立角色，再汇总结果。相比单 Agent 直连模型，这种结构更适合多步骤、需要交叉验证的复杂任务。框架的稳定性与扩展性还有待验证，但工程化方向已经明确。
 
-为什么重要？因为 agent 应用正在从「单点工具」走向「系统化协作」。不管最终形态是 agent 团队还是 agent 劳动力池，像 qm 这样把协作基础设施开源出来的尝试，都值得关注。仓库刚上线，具体实现和成熟度有待验证，但方向准确。
+**为什么重要：** 当基础模型的能力差距在缩小，多 Agent 协作的编排层正在成为新的竞争焦点。qm 这类项目决定了 agentic 应用的开发体验，值得保持关注。
 
-> 原文：[yc-software/qm - GitHub](https://github.com/yc-software/qm)
+> 原文：[GitHub - yc-software/qm](https://github.com/yc-software/qm)
 
-## SimpleEnglish：让 agent 输出符合 ASD-STE100 简化技术英语
+## waste：29GB 内存跑 Kimi K3
 
-SimpleEnglish 是一个为 agent 增加「受控写作技能」的开源项目。它让 AI 生成的文档遵循 ASD-STE100 规范——这是航空航天与国防领域广泛使用的简化技术英语标准，严格限制词汇量、句法和表达歧义。
+**是什么：** 开源项目 waste 展示了仅用 29GB 内存运行 Kimi K3 模型的可行性，代价是生成速度只有 0.50 token/s。
 
-关键点：ASD-STE100 不是简单的「说人话」要求，而是一套严格的书写规范，目的是让技术文档在全球范围内无歧义地传播。SimpleEnglish 的做法是把这套规则直接做成 agent 的一项技能，约束输出格式与用词，而不是事后人工校对。
+**关键点：** 0.50 token/s 意味着每生成一个 token 要等 2 秒，距离交互式使用有量级差距。它的价值不在实用，而在验证——大模型在 29GB 内存水位下也能加载运行，只是要接受极慢的速度。
 
-为什么重要？AI 生成内容进入企业级场景时，第一个门槛往往不是模型能力，而是合规与格式约束。航空、军工、重型机械等对文档严谨性要求极高的行业，恰恰是最需要用 AI 提效但又最不敢用 AI 的地方。SimpleEnglish 提供了一条小而实的路径：把行业规范变成 agent 的默认行为。这类「约束即技能」的思路，会比一味追求生成质量更有落地价值。
+**为什么重要：** 低资源推理是开源社区长期关注的话题。waste 提供了一个极端边界样本，为内存受限场景下的模型部署留下了一个可复现的参考起点。
 
-> 原文：[AminBlg/SimpleEnglish - GitHub](https://github.com/AminBlg/SimpleEnglish)
+> 原文：[GitHub - sqliteai/waste](https://github.com/sqliteai/waste)
 
-## waste：仅用 29GB 内存运行 Kimi K3
+## SimpleEnglish：让 Agent 写规范技术英语
 
-sqliteai 的 waste 项目展示了一种低成本运行 Kimi K3 的方式：只用 29GB 内存，即可加载并运行模型，输出速度约为 0.50 tok/s。
+**是什么：** SimpleEnglish 为 Agent 提供一项专项技能，把文档自动改写为 ASD-STE100 简化技术英语。这是航空航天行业的技术写作标准，对词汇、句式和术语有严格限定。
 
-关键点：0.50 tok/s 意味着每秒只生成半个 token，一个字可能需要等好几秒——远达不到交互级体验，甚至比慢速打字还慢。但值得注意的不是速度，而是可行性：29GB 内存是一台普通开发机就能达到的配置，这意味着在没有高端 GPU 的情况下，也能把超大模型跑起来做离线实验或批处理任务。
+**关键点：** 这不是通用润色，而是一套行业规范被编码成 Agent 能力。项目以“技能”形式交付，意味着它可以挂载到不同 Agent 工作流中使用。
 
-为什么重要？大模型本地化一直在「显存 / 内存」之间做权衡。waste 展示的这条路径，对显存有限但内存充裕的场景有参考价值。当然，实用性需要谨慎看待——0.50 tok/s 决定了它更适合验证性任务，而不是生产环境。但本地推理的探索本来就需要更多这样的极端尝试，来逼出硬件与算法的新组合。
+**为什么重要：** 行业标准驱动的文档处理，是 Agent 离实际业务价值最近的场景之一。航空航天之外，重工、军工等领域也存在类似合规书写需求，这类项目验证了一个可复制的方向。
 
-> 原文：[sqliteai/waste - GitHub](https://github.com/sqliteai/waste)
+> 原文：[GitHub - AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
 
-今天三个项目分别指向 agent 协作的开源基建、受控生成在企业场景的落地、以及低资源推理的极限探索。多智能体协作还在早期，qm 这类编排层工具可能比模型本身更值得长期跟踪——你能接受你的 agent 团队里有个「拖后腿」的队友吗？
+## Grafana 发布 Go LLM SDK
+
+**是什么：** Grafana 发布 Go 语言 LLM SDK，并配套一个 React 前端库，用于对接支持流式输出与工具调用（tool calling）的 AI 后端。
+
+**关键点：** Go 生态里高质量的 LLM 客户端封装一直是稀缺资源，多数团队转向 Python 或 TypeScript。Grafana 自身是 Go 的重度用户，这套 SDK 大概率先服务内部需求，再对外开放。
+
+**为什么重要：** 流式与工具调用是 agentic 应用的两项基础能力。有了 Grafana 的工程背书，Go 开发者做 LLM 集成时多了一个值得优先评估的选项。
+
+> 原文：[GitHub - grafana/ai-sdk](https://github.com/grafana/ai-sdk)
+
+## claude-account：Claude Code 账号一键切换
+
+**是什么：** claude-account 是一个开源 CLI 工具，让你在多个 Claude Code 账号之间一键切换，不需要反复登出再登录。
+
+**关键点：** 它解决的是一个非常具体的痛点——一台开发机上工作账号与个人账号并存时的环境隔离问题。CLI 设计让它可以轻松写进脚本，配合 dotfiles 统一管理。
+
+**为什么重要：** 工具虽小，但说明 agentic 开发工具链正在快速成熟。“账号切换”这类基础设施问题开始有人认真解决，本身就是生态繁荣的信号。
+
+> 原文：[GitHub - hamzarehmandeveloper/claude-account](https://github.com/hamzarehmandeveloper/claude-account)
+
+## 预测性 KV 复制：
