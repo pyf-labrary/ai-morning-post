@@ -1,0 +1,330 @@
+{
+  "date": "2026-06-26",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌推Gemini 3.5 Flash电脑操控能力",
+          "importance": 6,
+          "summary": "Google官方发布Gemini 3.5 Flash的computer use能力，AI可直接操控浏览器和桌面应用，完成多步任务。",
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+          "items": [
+            "151e9b5e330ccf3d"
+          ],
+          "cover_path": "out/media/2026-06-26/model_release-00.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic指控阿里窃取Claude模型能力",
+          "importance": 7,
+          "summary": "路透社报道，Anthropic称阿里巴巴通过不正当手段提取了Claude模型能力，涉及模型蒸馏与商业机密争议。",
+          "primary_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "items": [
+            "8fd29a347aa1d8d9"
+          ]
+        },
+        {
+          "headline": "OpenAI联手博通发布推理芯片Jalapeño",
+          "importance": 7,
+          "summary": "OpenAI官方宣布与博通联合推出LLM推理优化定制芯片Jalapeño，旨在降低推理成本与延迟。",
+          "primary_url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+          "items": [
+            "23b9f08e17ecade0"
+          ]
+        },
+        {
+          "headline": "高通收购AI初创公司Modular",
+          "importance": 7,
+          "summary": "高通宣布收购以Mojo语言和AI推理平台闻名的Modular，强化AI软件生态与开发者布局。",
+          "primary_url": "https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-to-Acquire-Modular/default.aspx",
+          "items": [
+            "d2cf981e6453f965"
+          ]
+        },
+        {
+          "headline": "苹果跳过M6，押注AI芯片M7系列",
+          "importance": 6,
+          "summary": "据彭博社报道，苹果调整Mac芯片路线图，放弃高端M6，直接转向面向AI负载的M7 Pro/Max/Ultra。",
+          "primary_url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
+          "items": [
+            "10df8f0fdc2a2945"
+          ]
+        },
+        {
+          "headline": "NVIDIA 45℃液冷让数据中心用水近零",
+          "importance": 6,
+          "summary": "NVIDIA官方介绍45°C液冷散热设计，使AI工厂用水量趋近于零，同时提升算力密度与能效。",
+          "primary_url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+          "items": [
+            "ec30096c6480c699"
+          ],
+          "cover_path": "out/media/2026-06-26/company-04.jpg"
+        },
+        {
+          "headline": "福特AI质检翻车，返聘老质检员",
+          "importance": 6,
+          "summary": "福特AI质检系统表现未达预期，开始返聘资深质检员，暴露AI在精密制造质检场景的落地局限。",
+          "primary_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "items": [
+            "7de7c47cade121b1"
+          ]
+        },
+        {
+          "headline": "内存吃紧，苹果上调Mac/iPad售价",
+          "importance": 5,
+          "summary": "受内存成本飙升影响，苹果上调MacBook和iPad价格，引发硬件成本向终端传导的讨论。",
+          "primary_url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "items": [
+            "24030fd8e7087ef6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "论文证明提示注入攻击无法根除",
+          "importance": 5,
+          "summary": "新论文证明共享嵌入架构中指令与数据不可分离，提示注入防御方案的反复失效并非偶然，而是结构性必然。",
+          "primary_url": "http://arxiv.org/abs/2606.27567v1",
+          "items": [
+            "357d03e6dca8c83b"
+          ],
+          "cover_path": "out/media/2026-06-26/research-00.jpg"
+        },
+        {
+          "headline": "67个模型实测：多模型组合增益有上限",
+          "importance": 5,
+          "summary": "研究者在67个前沿模型上验证路由、投票与多智能体组合策略，发现其增益存在“共失效上限”，难以超越单模型天花板。",
+          "primary_url": "http://arxiv.org/abs/2606.27288v1",
+          "items": [
+            "9e5aeb78ac947730"
+          ],
+          "cover_path": "out/media/2026-06-26/research-01.jpg"
+        },
+        {
+          "headline": "AI掌握射频芯片设计的“玄学”",
+          "importance": 5,
+          "summary": "IEEE Spectrum报道，AI系统学会射频集成电路（RFIC）设计中的复杂经验法则，在缺乏解析解的场景优化布局。",
+          "primary_url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "items": [
+            "ce0a495db724881a"
+          ],
+          "cover_path": "out/media/2026-06-26/research-02.jpg"
+        },
+        {
+          "headline": "新研究：无标准答案也能用RL提升LLM",
+          "importance": 4,
+          "summary": "提出不依赖真值答案的RL训练框架，可在无标准解的任务上改进LLM，拓展可验证奖励方法的适用边界。",
+          "primary_url": "http://arxiv.org/abs/2606.27369v1",
+          "items": [
+            "dca2686a8bed4e9c"
+          ],
+          "cover_path": "out/media/2026-06-26/research-03.jpg"
+        },
+        {
+          "headline": "爱因斯坦世界模型：AI能超越经验推理吗",
+          "importance": 4,
+          "summary": "论文追问智能体是否需要超越直接经验的世界推理能力，提出“爱因斯坦世界模型”构想。",
+          "primary_url": "http://arxiv.org/abs/2606.26969v1",
+          "items": [
+            "5b0e23148664a992"
+          ],
+          "cover_path": "out/media/2026-06-26/research-04.jpg"
+        },
+        {
+          "headline": "工具让多智能体可隐写通信，监控难防",
+          "importance": 4,
+          "summary": "研究显示工具调用使多智能体LLM系统能以不可检测的方式进行隐写通信，为安全监控带来新挑战。",
+          "primary_url": "http://arxiv.org/abs/2606.28425v1",
+          "items": [
+            "0fa8ba8288023b36"
+          ],
+          "cover_path": "out/media/2026-06-26/research-05.jpg"
+        },
+        {
+          "headline": "Un-0：耦合振荡器也能生成图像",
+          "importance": 4,
+          "summary": "新生成方法Un-0用耦合振荡器替代传统扩散/自回归流程生成图像，探索完全不同的生成范式。",
+          "primary_url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+          "items": [
+            "7166c550d47fd506"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "把《圣经》做成RAG检索数据库",
+          "importance": 3,
+          "summary": "开发者用一个晚上将WEB版《圣经》索引为RAG数据库，输入“more money more problems”可返回语义相近的经文。",
+          "primary_url": "https://www.crosscanon.com/",
+          "items": [
+            "b904066bbe8e69bc"
+          ],
+          "cover_path": "out/media/2026-06-26/product-00.jpg"
+        },
+        {
+          "headline": "LingoChunk：音频变闪卡练跟读",
+          "importance": 2,
+          "summary": "LingoChunk把外语原声音频自动切词并提取词元，生成Anki式闪卡和影子跟读练习，帮助语言学习者。",
+          "primary_url": "https://lingochunk.com/try",
+          "items": [
+            "c15d9fc249b3c0d6"
+          ]
+        },
+        {
+          "headline": "LookAway：懂时机的Mac休息提醒",
+          "importance": 2,
+          "summary": "独立开发者推出的Mac原生休息提醒应用，能识别用户忙碌状态，选择合适时机插入休息提示。",
+          "primary_url": "https://lookaway.com",
+          "items": [
+            "6f61a3b3dfd34135"
+          ],
+          "cover_path": "out/media/2026-06-26/product-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "霍夫曼炮轰xAI“一团糟”",
+          "importance": 6,
+          "summary": "LinkedIn联合创始人里德·霍夫曼在访谈中称xAI是“彻底灾难”，并认为SpaceX不算AI公司，观点引发热议。",
+          "primary_url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+          "items": [
+            "d1a64326789d8edf"
+          ],
+          "cover_path": "out/media/2026-06-26/opinion-00.jpg"
+        },
+        {
+          "headline": "开源AI是大多数国家的唯一出路",
+          "importance": 5,
+          "summary": "评论文章认为，对全球大多数国家而言，开源AI是摆脱少数巨头垄断、实现自主AI能力的唯一可行路径。",
+          "primary_url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+          "items": [
+            "40c1a8ffa03de7a7"
+          ],
+          "cover_path": "out/media/2026-06-26/opinion-01.jpg"
+        },
+        {
+          "headline": "开源权重模型便宜到难以承受",
+          "importance": 5,
+          "summary": "个人博文指出开源权重模型的成本已暴跌到“难以承受的便宜”，闭源API定价优势正被快速侵蚀。",
+          "primary_url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+          "items": [
+            "1698c14ae947b3d1"
+          ]
+        },
+        {
+          "headline": "AI大厂为何争相招聘哲学家",
+          "importance": 5,
+          "summary": "经济学人报道，AI实验室正大量招募哲学家，以应对对齐、价值判断与智能本质等核心问题。",
+          "primary_url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+          "items": [
+            "ed52708046f11480"
+          ]
+        },
+        {
+          "headline": "Aleph Alpha提出“训练即代码”理念",
+          "importance": 4,
+          "summary": "Aleph Alpha博客主张把模型训练纳入代码管理与CI/CD流程，推动训练过程工程化、可复现。",
+          "primary_url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+          "items": [
+            "b53fcf184690ab82"
+          ],
+          "cover_path": "out/media/2026-06-26/opinion-04.jpg"
+        },
+        {
+          "headline": "AI政治偏见图谱：各家模型立场如何",
+          "importance": 4,
+          "summary": "trakkr.ai发布主流AI模型政治偏见测量图谱，对比各家大模型在敏感议题上的立场差异。",
+          "primary_url": "https://trakkr.ai/bias",
+          "items": [
+            "3b28badf4c9b63bf"
+          ],
+          "cover_path": "out/media/2026-06-26/opinion-05.jpg"
+        },
+        {
+          "headline": "克鲁格曼：为什么大家都讨厌AI",
+          "importance": 4,
+          "summary": "诺贝尔经济学奖得主克鲁格曼撰文分析公众对AI的普遍反感，解读AI宏大叙事与日常体验之间的落差。",
+          "primary_url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
+          "items": [
+            "c8c4e542bf642169"
+          ]
+        },
+        {
+          "headline": "HN热议：AI时代编程职业去向何方",
+          "importance": 4,
+          "summary": "HN两个热帖同时讨论AI对编程职业与技能的冲击，创业者与开发者普遍认为纯编码岗位正在收缩。",
+          "primary_url": "https://news.ycombinator.com/item?id=48668199",
+          "items": [
+            "987dc7314e579748",
+            "cc75ecebfaca6e56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "RubyLLM：Ruby接入所有AI大厂",
+          "importance": 5,
+          "summary": "RubyLLM为Ruby社区带来统一AI接入框架，一个Gem即可调用OpenAI、Anthropic、Gemini等主流大模型API。",
+          "primary_url": "https://rubyllm.com/",
+          "items": [
+            "2d2481acd9e5c223"
+          ],
+          "cover_path": "out/media/2026-06-26/opensource-00.jpg"
+        },
+        {
+          "headline": "OpenKnowledge：开源AI笔记工具挑战Notion",
+          "importance": 5,
+          "summary": "开源AI优先的Markdown编辑器OpenKnowledge发布，直接集成AI能力，定位为Obsidian/Notion的替代方案。",
+          "primary_url": "https://github.com/inkeep/open-knowledge",
+          "items": [
+            "3bfa761cee76cded"
+          ],
+          "cover_path": "out/media/2026-06-26/opensource-01.jpg"
+        },
+        {
+          "headline": "deepset开源Haystack，打造生产级AI框架",
+          "importance": 4,
+          "summary": "deepset发布Haystack开源框架，面向生产环境的RAG与AI Agent构建，强调可观测性与部署能力。",
+          "primary_url": "https://haystack.deepset.ai/",
+          "items": [
+            "69ee6857c6e3afcd"
+          ],
+          "cover_path": "out/media/2026-06-26/opensource-02.jpg"
+        },
+        {
+          "headline": "Darts时序库推出零样本预测基座",
+          "importance": 3,
+          "summary": "论文介绍Darts开源时序库新增零样本预测基座模型能力，延续其通用时间序列分析生态。",
+          "primary_url": "http://arxiv.org/abs/2606.27438v1",
+          "items": [
+            "6c397082e85a3bef"
+          ],
+          "cover_path": "out/media/2026-06-26/opensource-03.jpg"
+        }
+      ]
+    }
+  ]
+}
