@@ -92,7 +92,9 @@ def build_articles(date: str) -> list[dict]:
         md_path = src_dir / f"{sid}.md"
         title = meta.get("name", sid)
         if md_path.exists():
-            first = md_path.read_text(encoding="utf-8").splitlines()[0]
+            # write 步偶尔会落一个空 md（LLM 返回空），别让它把整轮流水线带崩
+            lines = md_path.read_text(encoding="utf-8").splitlines()
+            first = lines[0] if lines else ""
             if first.startswith("# "):
                 title = first[2:].strip()
         out.append({

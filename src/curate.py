@@ -46,7 +46,7 @@ SYSTEM_PROMPT = """你是 AI 行业新闻主编，专为中文读者整理「AI 
 5. story.headline 用中文，简短有钩子（≤30 字），不要标题党但要传神。
 6. story.summary 1–2 句话讲清楚是什么，可能的中文。
 7. story.primary_url 选最权威的一个原文链接（官方 > 主流媒体 > 社区）。
-8. items 字段填入参与该 story 的所有素材 fingerprint。
+8. items 字段填入该 story 最具代表性的 fingerprint，最多 3 个（下游只作溯源，别铺满）。
 9. 当天没有 story 的板块，sections 数组里仍保留 id 但 stories 为空。
 
 只输出 JSON，不要任何 markdown 代码块包裹，不要前后多余文字。"""
@@ -66,22 +66,38 @@ def items_to_compact(items: list[Item]) -> str:
 # 喂给 LLM 的素材条数上限。源越加越多（dedupe 后已破 260），全量塞进去会把
 # curate 的输出 JSON 顶过 max_tokens 导致截断。按 (来源权重, 热度) 取头部即可，
 # 低价值长尾对成稿没贡献。
-MAX_ITEMS = 180
+MAX_ITEMS = int(os.getenv("CURATE_MAX_ITEMS", "180"))
+
+# 输出 token 上限。保持 32000——LLM_BASE_URL 指向的第三方 Anthropic-compat 端点
+# 已验证接受这个值，调高有被 400 拒绝的风险；且部分端点会按自己更低的上限静默
+# 截断，调高也未必生效。真正的兜底是下面的降档阶梯。
+MAX_TOKENS = int(os.getenv("CURATE_MAX_TOKENS", "32000"))
+
+# 一次 curate 被截断 / JSON 解析失败时的素材条数降档阶梯：少喂一些换一次能跑完
+# 的输出，远好过整轮流水线在第 2 步挂掉（2026-08 连挂 6 天的根因）。
+FALLBACK_LADDER = (120, 80, 50)
 
 
-def curate(date: str | None = None) -> Path:
-    date = date or today_str()
-    items = load_raw(date)
-    if len(items) > MAX_ITEMS:
-        items = sorted(items, key=lambda it: (it.weight, it.score), reverse=True)[:MAX_ITEMS]
-        print(f"  trimmed to top {MAX_ITEMS} items by (weight, score)")
-    if not items:
-        raise SystemExit(f"no raw items for {date}; run fetch first")
+class CurateTruncated(RuntimeError):
+    """本轮输出被截断 / 不是完整 JSON——可以少喂素材重试。"""
 
-    cfg = yaml.safe_load((CONFIG_DIR / "sources.example.yaml").read_text(encoding="utf-8"))
-    sections_def = cfg.get("sections", [])
 
-    client = get_client()
+def _extract_json(text: str) -> str:
+    """剥掉 ```json 围栏和前后杂字，取最外层 JSON 对象。"""
+    text = text.strip()
+    if text.startswith("```"):
+        # ```json\n{...}\n``` —— 去首行围栏与尾部围栏
+        text = text.split("\n", 1)[1] if "\n" in text else ""
+        text = text.rsplit("```", 1)[0]
+        text = text.strip()
+    # 有些端点会在 JSON 前后加一句话
+    lo, hi = text.find("{"), text.rfind("}")
+    if lo == -1 or hi <= lo:
+        raise CurateTruncated(f"响应里没有完整 JSON 对象（前 200 字：{text[:200]!r}）")
+    return text[lo:hi + 1]
+
+
+def _curate_once(date: str, items: list[Item], sections_def: list, client) -> dict:
     system = (
         [{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}]
         if USE_CACHE else SYSTEM_PROMPT
@@ -98,33 +114,70 @@ def curate(date: str | None = None) -> Path:
     # 走流式：max_tokens 调大后非流式请求会被 SDK 以「可能超 10 分钟」拒绝。
     with client.messages.stream(
         model=LLM_MODEL,
-        max_tokens=32000,
+        max_tokens=MAX_TOKENS,
         system=system,
         messages=[{"role": "user", "content": user_msg}],
     ) as stream:
         resp = stream.get_final_message()
-    if resp.stop_reason == "max_tokens":
-        raise RuntimeError(
-            f"curate 输出被 max_tokens 截断（{len(items)} 条素材），JSON 不完整。"
-            f"调小 MAX_ITEMS 或调大 max_tokens。"
-        )
-    text = "".join(b.text for b in resp.content if b.type == "text").strip()
-    if text.startswith("```"):
-        text = text.strip("`").split("\n", 1)[1].rsplit("\n", 1)[0]
 
-    data = json.loads(text)
-    data["date"] = date
-    ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
-    out = ARTICLES_DIR / f"{date}.curated.json"
-    out.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"curated → {out}")
     u = resp.usage
     cache_info = (
         f"cache_created={getattr(u, 'cache_creation_input_tokens', 0) or 0} "
         f"cache_read={getattr(u, 'cache_read_input_tokens', 0) or 0} "
     ) if USE_CACHE else ""
-    print(f"{cache_info}input={u.input_tokens} output={u.output_tokens}")
-    return out
+    print(f"  {cache_info}input={u.input_tokens} output={u.output_tokens} "
+          f"stop={resp.stop_reason}")
+
+    if resp.stop_reason == "max_tokens":
+        raise CurateTruncated(
+            f"输出被 max_tokens 截断（{len(items)} 条素材，max_tokens={MAX_TOKENS}）"
+        )
+    text = "".join(b.text for b in resp.content if b.type == "text")
+    try:
+        data = json.loads(_extract_json(text))
+    except json.JSONDecodeError as e:
+        raise CurateTruncated(f"JSON 解析失败：{e}") from e
+    if not isinstance(data, dict) or not data.get("sections"):
+        raise CurateTruncated("JSON 里没有 sections")
+    if not any(sec.get("stories") for sec in data["sections"]):
+        raise CurateTruncated("所有板块都是空的")
+    return data
+
+
+def curate(date: str | None = None) -> Path:
+    date = date or today_str()
+    items = load_raw(date)
+    if not items:
+        raise SystemExit(f"no raw items for {date}; run fetch first")
+    ranked = sorted(items, key=lambda it: (it.weight, it.score), reverse=True)
+
+    cfg = yaml.safe_load((CONFIG_DIR / "sources.example.yaml").read_text(encoding="utf-8"))
+    sections_def = cfg.get("sections", [])
+    client = get_client()
+
+    # 从 MAX_ITEMS 起，被截断就顺着阶梯少喂一点重试。
+    budgets = [MAX_ITEMS, *(n for n in FALLBACK_LADDER if n < MAX_ITEMS)]
+    last_err: Exception | None = None
+    for attempt, n in enumerate(budgets, 1):
+        batch = ranked[:n]
+        print(f"[curate] attempt {attempt}/{len(budgets)}: top {len(batch)} "
+              f"of {len(ranked)} items by (weight, score)")
+        try:
+            data = _curate_once(date, batch, sections_def, client)
+        except CurateTruncated as e:
+            last_err = e
+            print(f"  ✗ {e} —— 降档重试")
+            continue
+        data["date"] = date
+        ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
+        out = ARTICLES_DIR / f"{date}.curated.json"
+        out.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"curated → {out}")
+        return out
+
+    raise RuntimeError(
+        f"curate 降档到 {budgets[-1]} 条素材仍失败，最后一次：{last_err}"
+    )
 
 
 def main() -> None:

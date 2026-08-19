@@ -46,8 +46,12 @@ def main() -> None:
         publish_marginalia(date=date, push=os.getenv("MARGINALIA_NO_PUSH") != "1")
 
     print("[8/8] publish to WeChat (dry-run)")
-    arts = build_articles(date)
-    print(f"  prepared {len(arts)} articles")
+    # 站点（第 7 步）已经发出去了；微信这步只是 dry-run，失败不该把整轮判红。
+    try:
+        arts = build_articles(date)
+        print(f"  prepared {len(arts)} articles")
+    except Exception as e:  # noqa: BLE001
+        print(f"  WARN: WeChat dry-run failed ({type(e).__name__}: {e}) —— 不影响站点发布")
 
 
 if __name__ == "__main__":
