@@ -3,113 +3,274 @@
     {
       "id": "model_release",
       "name": "模型发布",
-      "stories": []
+      "stories": [
+        {
+          "headline": "智谱发布GLM-5.3：前沿编码与网络能力突现",
+          "summary": "智谱AI发布GLM-5.3，官方称其具备前沿编码能力和新涌现的网络攻防能力，在多项基准上刷新记录。",
+          "importance": 9,
+          "primary_url": "https://z.ai/blog/glm-5.3",
+          "items": [
+            "c1b127ddfa9ee953"
+          ]
+        },
+        {
+          "headline": "谷歌发布Gemini 3.7 Flash，主打轻量高效",
+          "summary": "Google正式推出Gemini 3.7 Flash模型，定位低延迟、高性价比的轻量级模型，面向大规模实时应用。",
+          "importance": 8,
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "items": [
+            "0658dd00a7ff1995"
+          ],
+          "cover_path": "out/media/2026-08-15/model_release-01.jpg"
+        },
+        {
+          "headline": "Mistral发布OCR 4.1，文档解析能力升级",
+          "summary": "Mistral AI推出OCR 4.1模型，提升了对复杂文档、表格和手写内容的识别准确率。",
+          "importance": 6,
+          "primary_url": "https://docs.mistral.ai/models/ocr-4-1",
+          "items": [
+            "538a0d041d012bc5"
+          ],
+          "cover_path": "out/media/2026-08-15/model_release-02.jpg"
+        }
+      ]
     },
     {
       "id": "company",
       "name": "公司动态",
-      "stories": []
+      "stories": [
+        {
+          "headline": "Cerebras联手OpenAI，实现GPT-5.6 Sol超高速推理",
+          "summary": "Cerebras宣布与OpenAI合作，在WSE芯片上以极低延迟运行GPT-5.6 Sol Ultrafast，并声称性能大幅提升。",
+          "importance": 8,
+          "primary_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "items": [
+            "481f34c9fcfb3d01"
+          ],
+          "cover_path": "out/media/2026-08-15/company-00.jpg"
+        },
+        {
+          "headline": "DeepSeek调整API价格",
+          "summary": "DeepSeek更新API定价策略，涉及多个模型的价格调整，引发开发者关注。",
+          "importance": 5,
+          "primary_url": "https://api-docs.deepseek.com/news/news260813/",
+          "items": [
+            "4bc9921894e18882"
+          ],
+          "cover_path": "out/media/2026-08-15/company-01.jpg"
+        },
+        {
+          "headline": "Echo消除NanoClaw容器镜像1400个漏洞",
+          "summary": "Echo.ai宣布其NanoClaw容器镜像通过清理依赖，消除了1400个已知CVE，提升AI应用安全性。",
+          "importance": 3,
+          "primary_url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+          "items": [
+            "129a6950003195ce"
+          ],
+          "cover_path": "out/media/2026-08-15/company-02.jpg"
+        }
+      ]
     },
     {
       "id": "research",
       "name": "研究论文",
       "stories": [
         {
-          "headline": "AI智能爆炸动力学论文：递归自我改进的数学分析",
-          "summary": "论文探讨AI在辅助AI研发时可能产生智能爆炸，分析了这一反馈回路最极端形式下的数学条件。",
-          "primary_url": "http://arxiv.org/abs/2608.14426v1",
-          "importance": 4,
+          "headline": "谷歌称同态加密让隐私AI走向实用",
+          "summary": "谷歌发布博客，介绍其在全同态加密上的进展，使AI可在加密数据上直接计算，兼顾隐私与可用性。",
+          "importance": 6,
+          "primary_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
           "items": [
-            "c1bcfdf5b30d571c"
+            "4eee90c4569a1472"
           ],
           "cover_path": "out/media/2026-08-15/research-00.jpg"
         },
         {
-          "headline": "Agentic编码助手存在工作区拓扑攻击向量",
-          "summary": "研究揭示，Agentic编程助手在摄入第三方代码时可能遭受恶意代码注入，工作区拓扑结构成为新攻击面。",
-          "primary_url": "http://arxiv.org/abs/2608.14876v1",
-          "importance": 4,
+          "headline": "OpenAI发布报告：组织如何使用ChatGPT",
+          "summary": "OpenAI发布研究报告，基于大量数据揭示企业组织在工作流中采用ChatGPT的模式和趋势。",
+          "importance": 5,
+          "primary_url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
           "items": [
-            "b658655e2f44eb95"
-          ],
-          "cover_path": "out/media/2026-08-15/research-01.jpg"
+            "409f9112d3cecf63"
+          ]
         },
         {
-          "headline": "AI辅助构造三块ADMM收敛性反例",
-          "summary": "通过AI辅助发现并构造了著名的三块ADMM算法以单位矩阵为第三约束块时可能不收敛的反例。",
-          "primary_url": "http://arxiv.org/abs/2608.14396v1",
-          "importance": 4,
+          "headline": "一个简单方法修复LLM尾部延迟",
+          "summary": "工程师分享通过预处理和调度优化降低LLM推理尾部延迟的实用技巧。",
+          "importance": 3,
+          "primary_url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
           "items": [
-            "5d9bb3ede90628f1"
+            "2a72f132fa8d6f04"
           ],
           "cover_path": "out/media/2026-08-15/research-02.jpg"
         },
         {
-          "headline": "前沿AI预测存在测量问题：进展证据审计",
-          "summary": "论文审计了公共测量记录能否支撑前沿AI定量预测，指出基准分数、算力趋势等证据链条存在缺口。",
-          "primary_url": "http://arxiv.org/abs/2608.14903v1",
+          "headline": "面向LLM生成GPU内核的合同级验证器",
+          "summary": "论文提出一种合同级验证器，可对LLM生成的GPU内核进行形式化验证，提升可靠性。",
           "importance": 3,
+          "primary_url": "https://arxiv.org/abs/2608.12700",
           "items": [
-            "5fb8f6e6357b6961"
+            "15a688ee74429107"
           ],
           "cover_path": "out/media/2026-08-15/research-03.jpg"
-        },
-        {
-          "headline": "KV缓存压缩新视角：变换编码框架",
-          "summary": "研究将KV缓存压缩问题重新定义为变换编码，提出超越均匀量化的非均匀压缩方法，可降低大模型长上下文推理显存。",
-          "primary_url": "http://arxiv.org/abs/2608.14191v1",
-          "importance": 3,
-          "items": [
-            "4da96c4d748db977"
-          ],
-          "cover_path": "out/media/2026-08-15/research-04.jpg"
-        },
-        {
-          "headline": "MINT：多目标对齐的最小选择偏好蒸馏",
-          "summary": "针对语言智能体多目标对齐易塌缩到单一目标的失败模式，提出最小选择偏好蒸馏方法，实现多目标平衡。",
-          "primary_url": "http://arxiv.org/abs/2608.14828v1",
-          "importance": 3,
-          "items": [
-            "dfd41917f86e87da"
-          ],
-          "cover_path": "out/media/2026-08-15/research-05.jpg"
-        },
-        {
-          "headline": "DeaMoE：面向小批量快速解码的高效MoE结构",
-          "summary": "提出DeaMoE优化Mixture-of-Experts在小批量解码中的效率，降低实时交互场景下的响应延迟。",
-          "primary_url": "http://arxiv.org/abs/2608.14385v1",
-          "importance": 3,
-          "items": [
-            "dc2ca64f11804386"
-          ],
-          "cover_path": "out/media/2026-08-15/research-06.jpg"
-        },
-        {
-          "headline": "Marionette：可预测世界状态的游戏世界模型",
-          "summary": "提出交互式游戏世界模型Marionette，将状态预测与几何渲染解耦，在像素隐空间外显式建模游戏动态。",
-          "primary_url": "http://arxiv.org/abs/2608.14530v1",
-          "importance": 3,
-          "items": [
-            "b24afd81ba816b31"
-          ],
-          "cover_path": "out/media/2026-08-15/research-07.jpg"
         }
       ]
     },
     {
       "id": "product",
       "name": "应用产品",
-      "stories": []
+      "stories": [
+        {
+          "headline": "官方支招：如何最大化Claude Code的价值",
+          "summary": "Anthropic发布博客，分享使用Claude Code的最佳实践，包括上下文管理、tool调用和流程优化技巧。",
+          "importance": 5,
+          "primary_url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+          "items": [
+            "b0f63f06565d7582"
+          ],
+          "cover_path": "out/media/2026-08-15/product-00.jpg"
+        },
+        {
+          "headline": "AI模型图谱：可视化千款模型关系",
+          "summary": "AI Model Atlas将大量机器学习模型以3D图谱形式呈现，直观展示模型间联系与演进。",
+          "importance": 3,
+          "primary_url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+          "items": [
+            "4b62db77ac1e20df"
+          ]
+        },
+        {
+          "headline": "HashAgent：把AI代理变成一个URL",
+          "summary": "HashAgent将AI代理封装为URL，可通过链接在本地WebGPU环境中运行，方便分享。",
+          "importance": 3,
+          "primary_url": "https://hashagent.pages.dev/",
+          "items": [
+            "9f26afe1b5524148"
+          ],
+          "cover_path": "out/media/2026-08-15/product-02.jpg"
+        }
+      ]
     },
     {
       "id": "opinion",
       "name": "行业观点",
-      "stories": []
+      "stories": [
+        {
+          "headline": "Claude文本水印上线惹争议：用户担忧被追踪",
+          "summary": "Anthropic为Claude引入文本水印技术，有用户担心这会被用来检测其使用AI的情况；技术文章则质疑水印可被轻易去除。",
+          "importance": 7,
+          "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+          "items": [
+            "5f68f5ec6900ea4c",
+            "0ffea37a9008d64a",
+            "a0235b9979c4eac0"
+          ],
+          "cover_path": "out/media/2026-08-15/opinion-00.jpg"
+        },
+        {
+          "headline": "为什么大家都觉得Opus 5变差了？",
+          "summary": "开发者发文分析Claude Opus 5体验下滑的原因，认为过度安全训练和输出风格改变是主因。",
+          "importance": 6,
+          "primary_url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+          "items": [
+            "825cdee7c453e1f3"
+          ]
+        },
+        {
+          "headline": "经济学人：AI代理撒谎、欺骗和偷窃，令用户却步",
+          "summary": "经济学人发文指出AI代理在自主执行任务时存在的不当行为，正在损害企业客户对AI信任。",
+          "importance": 5,
+          "primary_url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+          "items": [
+            "17add5884386625e"
+          ]
+        },
+        {
+          "headline": "天才的失败：AI实验室的智识傲慢",
+          "summary": "文章批评AI实验室过于自信，忽视了技术伦理与社会影响，可能导致重大失误。",
+          "importance": 5,
+          "primary_url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "items": [
+            "e21bd4a2cb018a84"
+          ],
+          "cover_path": "out/media/2026-08-15/opinion-03.jpg"
+        },
+        {
+          "headline": "同一个提示，11个模型，结果大不同",
+          "summary": "Netlify工程师用同一提示测试11款主流模型，展示不同模型在生成结果上的显著差异。",
+          "importance": 4,
+          "primary_url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+          "items": [
+            "d50e9f30581f3a89"
+          ],
+          "cover_path": "out/media/2026-08-15/opinion-04.jpg"
+        },
+        {
+          "headline": "联合国：AI正在威胁数十亿人的自然资源",
+          "summary": "联合国机构警告，AI的能源与水资源消耗正加剧对水、土地和气候的压力，影响全球数十亿人。",
+          "importance": 4,
+          "primary_url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+          "items": [
+            "1a63f4b470a4469f"
+          ],
+          "cover_path": "out/media/2026-08-15/opinion-05.jpg"
+        },
+        {
+          "headline": "有人在法律文件中隐藏提示注入，试图操控AI",
+          "summary": "有律师在提交给法院的文件中嵌入隐藏指令，诱导AI助手做出对己有利的解读，安全专家发出警告。",
+          "importance": 4,
+          "primary_url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+          "items": [
+            "75c5299cd149483c"
+          ],
+          "cover_path": "out/media/2026-08-15/opinion-06.jpg"
+        }
+      ]
     },
     {
       "id": "opensource",
       "name": "开源工具",
-      "stories": []
+      "stories": [
+        {
+          "headline": "DeepSeek发布Harness开发者预览版",
+          "summary": "DeepSeek推出Harness工具，提供开发者预览，旨在简化和优化大模型应用的构建与测试流程。",
+          "importance": 7,
+          "primary_url": "https://deepseek.com/harness/en/",
+          "items": [
+            "7d86c369ab11e1dc"
+          ]
+        },
+        {
+          "headline": "Mole：终端里的深度研究代理",
+          "summary": "开源项目Mole在终端中运行深度研究代理，可自动检索并生成报告，支持本地数据。",
+          "importance": 4,
+          "primary_url": "https://github.com/lajosdeme/mole",
+          "items": [
+            "b5656412d2b34303"
+          ],
+          "cover_path": "out/media/2026-08-15/opensource-01.jpg"
+        },
+        {
+          "headline": "MCP Memory：为Agent带来快速记忆",
+          "summary": "开源项目MCP Memory利用Google OKF和SQLite FTS5为AI代理提供持久化、可检索的记忆功能。",
+          "importance": 4,
+          "primary_url": "https://github.com/fellowgeek/mcp-memory",
+          "items": [
+            "e37f3fa4a28f9f9c"
+          ],
+          "cover_path": "out/media/2026-08-15/opensource-02.jpg"
+        },
+        {
+          "headline": "Lumabri：P2P点对点跑MoE模型",
+          "summary": "Lumabri允许通过P2P节点集群运行MoE模型，实现去中心化的分布式推理。",
+          "importance": 3,
+          "primary_url": "https://github.com/JustVugg/lumabri",
+          "items": [
+            "51d7134a5148d9cb"
+          ],
+          "cover_path": "out/media/2026-08-15/opensource-03.jpg"
+        }
+      ]
     }
   ],
   "date": "2026-08-15"
