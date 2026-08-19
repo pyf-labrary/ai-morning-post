@@ -1,0 +1,438 @@
+{
+  "date": "2026-08-20",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GLM-5.3登顶开源模型榜，发布却延期",
+          "summary": "智谱GLM-5.3在开源模型排行中登顶且价格更具优势，但正式发布被推迟，引发市场关注。",
+          "primary_url": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
+          "importance": 6,
+          "items": [
+            "8e55fb4294e74a91",
+            "3e9a267ef7511d0b"
+          ],
+          "cover_path": "out/media/2026-08-20/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI新模型GPT-5.6 Luna亮相，Replit免费编程",
+          "summary": "OpenAI发布GPT-5.6 Luna，Replit借此推出免费模式，用户无需担心token成本即可构建软件。",
+          "primary_url": "https://openai.com/index/replit",
+          "importance": 5,
+          "items": [
+            "cbabba8311886c30"
+          ]
+        },
+        {
+          "headline": "Cartesia发布Sonic-3.6，流式语音合成登顶",
+          "summary": "Cartesia推出基于状态空间模型的流式TTS模型Sonic-3.6，在Artificial Analysis语音排行榜上位列第一。",
+          "primary_url": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
+          "importance": 5,
+          "items": [
+            "2fefc22b4ad94cc1"
+          ],
+          "cover_path": "out/media/2026-08-20/model_release-02.jpg"
+        },
+        {
+          "headline": "Liquid AI推出LFM2.5量化检查点",
+          "summary": "Liquid AI发布LFM2.5 Q4_0检查点，通过量化感知蒸馏在保持性能的同时降低部署成本。",
+          "primary_url": "https://huggingface.co/blog/LiquidAI/qad",
+          "importance": 4,
+          "items": [
+            "a8faa9c235f3df0f"
+          ],
+          "cover_path": "out/media/2026-08-20/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "宇树科技上市首日暴涨620%，机器人第一股诞生",
+          "summary": "宇树科技登陆港股开盘暴涨620%，成为“中国机器人第一股”，引发市场高度关注。",
+          "primary_url": "https://www.infoq.cn/article/Ae1KpZ9eIJD2V4DcQ0Au",
+          "importance": 8,
+          "items": [
+            "f9e569ff051feaf2",
+            "b8120d82d139f271"
+          ],
+          "cover_path": "out/media/2026-08-20/company-00.jpg"
+        },
+        {
+          "headline": "历史首次，Anthropic营收超越OpenAI",
+          "summary": "据The Decoder报道，Anthropic在营收上首次超过OpenAI，AI竞争格局出现标志性变化。",
+          "primary_url": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/",
+          "importance": 7,
+          "items": [
+            "ad86e76bb77473b7"
+          ],
+          "cover_path": "out/media/2026-08-20/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI推零数据留存，叫板Anthropic隐私卖点",
+          "summary": "OpenAI为前沿模型API客户提供零数据留存选项，并预览私有安全处理技术，在数据隐私上对Anthropic形成竞争。",
+          "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "importance": 7,
+          "items": [
+            "69bc0327ad7ebfaf",
+            "62ae83c37b3fbe9f"
+          ]
+        },
+        {
+          "headline": "AI芯片初创Etched估值飙至210亿美元",
+          "summary": "Jane Street安装Etched首套AI集群系统后领投新融资，公司估值一个月内翻倍至210亿美元。",
+          "primary_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+          "importance": 7,
+          "items": [
+            "dc968ea876f4ed05"
+          ],
+          "cover_path": "out/media/2026-08-20/company-03.jpg"
+        },
+        {
+          "headline": "中国放行英伟达H200芯片入华",
+          "summary": "为帮助AI企业跟上美国步伐，中国允许少量英伟达H200芯片流入大陆，但规模有限。",
+          "primary_url": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
+          "importance": 6,
+          "items": [
+            "c61c57ee829141a7"
+          ],
+          "cover_path": "out/media/2026-08-20/company-04.jpg"
+        },
+        {
+          "headline": "SpaceX拟收购Cognition？CEO否认",
+          "summary": "传闻SpaceX洽谈收购AI编程公司Cognition，CEO否认；SpaceX此前已收购Cursor。",
+          "primary_url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "importance": 6,
+          "items": [
+            "96f862a9d6901d7b"
+          ],
+          "cover_path": "out/media/2026-08-20/company-05.jpg"
+        },
+        {
+          "headline": "京东发布机器人战略，百亿资源投入",
+          "summary": "京东在世界机器人大会上发布机器人战略，计划投入百亿资源扶持100个品牌，并建立全球服务体系。",
+          "primary_url": "https://36kr.com/newsflashes/3946397274242436?f=rss",
+          "importance": 6,
+          "items": [
+            "18bc8e67ff91b923"
+          ]
+        },
+        {
+          "headline": "AI算力租赁商Nebius拟融资45亿美元",
+          "summary": "Nebius计划发行45亿美元可转换优先票据，以扩充AI算力基础设施。",
+          "primary_url": "https://36kr.com/newsflashes/3946373886000259?f=rss",
+          "importance": 6,
+          "items": [
+            "29a13b72237c496b"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "新基准评估AI Agent搜索API：质量、成本、速度",
+          "summary": "一个新基准对AI Agent常用的搜索API进行排名，综合质量、成本与速度，为开发者选型提供参考。",
+          "primary_url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+          "importance": 5,
+          "items": [
+            "d991836c8cdc217f"
+          ],
+          "cover_path": "out/media/2026-08-20/research-00.jpg"
+        },
+        {
+          "headline": "RSS 2026：机器人操作进入少样本时代",
+          "summary": "RSS 2026上多项研究展示双臂协同、水下灵巧操作等进展，机器人学习正迈向少样本乃至零样本泛化。",
+          "primary_url": "https://www.leiphone.com/category/private/lr7p4rB1Iquythe0.html",
+          "importance": 5,
+          "items": [
+            "8c26243289762c1e",
+            "0af510e842ca98a5",
+            "dfb800aba49b5bad"
+          ]
+        },
+        {
+          "headline": "ETH研究者挑战1比特：把大模型塞进小设备",
+          "summary": "ETH Zürich研究者秦浩桐在IJCAI 2026上探讨1比特量化技术，推动大模型在终端设备上的高效部署。",
+          "primary_url": "https://www.leiphone.com/category/private/e2kawO4eCgabOwBm.html",
+          "importance": 4,
+          "items": [
+            "7ab3bd22609fe550"
+          ]
+        },
+        {
+          "headline": "IBM研究：Agent到底需要多少记忆？",
+          "summary": "IBM研究团队发布关于Agent记忆需求的分析，探讨如何优化记忆分配以提升自主Agent性能。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "importance": 4,
+          "items": [
+            "2dfdf7f34082230d"
+          ],
+          "cover_path": "out/media/2026-08-20/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "ChatGPT推出青少年版，内置家长控制与学习工具",
+          "summary": "OpenAI发布ChatGPT for Teens，为青少年提供更强的安全保护、健康使用功能与家长控制。",
+          "primary_url": "https://openai.com/index/chatgpt-for-teens",
+          "importance": 7,
+          "items": [
+            "df4aeee0fb55510a",
+            "b82e242a2f27127a"
+          ]
+        },
+        {
+          "headline": "Google为搜索和Gemini新增AI学习工具",
+          "summary": "Google推出面向学生的AI学习功能，强化Gemini在教育场景的竞争力，与OpenAI正面竞争。",
+          "primary_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+          "importance": 6,
+          "items": [
+            "e933ab18144a5d72"
+          ],
+          "cover_path": "out/media/2026-08-20/product-01.jpg"
+        },
+        {
+          "headline": "特斯拉车机接入豆包大模型",
+          "summary": "特斯拉车机陆续推送豆包大模型，由火山引擎提供技术支撑，提升车载AI交互能力。",
+          "primary_url": "https://36kr.com/newsflashes/3946372999822464?f=rss",
+          "importance": 6,
+          "items": [
+            "3c3d4acc24788a25"
+          ]
+        },
+        {
+          "headline": "华尔街实测：阿里千问Agent超Claude和Codex",
+          "summary": "杰富瑞分析师实测八款主流AI Agent，阿里千问在真实办公任务中综合得分第一，超越Claude Cowork和Codex。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/3ldIRLLRue7anIFz.html",
+          "importance": 6,
+          "items": [
+            "d2e084708be3ca8a"
+          ]
+        },
+        {
+          "headline": "Cursor上线代码托管平台，正面对抗GitHub",
+          "summary": "Cursor利用开发者对GitHub的不满，推出代码托管平台，直接叫板长期占据主导地位的GitHub。",
+          "primary_url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "importance": 6,
+          "items": [
+            "141df7a6c0314ef7"
+          ],
+          "cover_path": "out/media/2026-08-20/product-04.jpg"
+        },
+        {
+          "headline": "Anthropic让LLM Agent全流程设计蛋白质",
+          "summary": "Anthropic宣布其模型可驱动Agent完成蛋白质设计全栈流程，面向实验室开放，推进AI for Science。",
+          "primary_url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
+          "importance": 6,
+          "items": [
+            "83066d88ef39216e"
+          ],
+          "cover_path": "out/media/2026-08-20/product-05.jpg"
+        },
+        {
+          "headline": "Alexa+免费登陆Fire TV，无需Prime订阅",
+          "summary": "Amazon将AI助手Alexa+免费提供给所有兼容Fire TV设备用户，无需Prime会员即可使用。",
+          "primary_url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "importance": 5,
+          "items": [
+            "d41a0bca3216222a"
+          ],
+          "cover_path": "out/media/2026-08-20/product-06.jpg"
+        },
+        {
+          "headline": "豆包任务升级：本地电脑+云电脑双模式",
+          "summary": "豆包“工作任务”新增本地电脑、云电脑双模式，并升级视频通话能力，火山引擎多模态传输系统提供支撑。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/yOzZ6pmXf7KOsYYc.html",
+          "importance": 5,
+          "items": [
+            "ed4646e637450cac",
+            "dbd2ace4a53fb824"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI暂停GPT-6训练，AI网络安全风险加剧",
+          "summary": "因前沿模型可能达到“临界”网络攻击能力，OpenAI暂停大量训练运行，并宣布放缓模型开发节奏，强化安全协议。",
+          "primary_url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+          "importance": 8,
+          "items": [
+            "7079b7bd9c551ec0",
+            "31170cebd4939d91",
+            "436aea24fe50f007"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-00.jpg"
+        },
+        {
+          "headline": "Meta竟为“脱衣”深度伪造应用投广告",
+          "summary": "Meta投放的广告中含有深度伪造色情视频，形似美国女政客，引发对平台审核和AI滥用的强烈争议。",
+          "primary_url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+          "importance": 7,
+          "items": [
+            "9a8c2b212b4ef943"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-01.jpg"
+        },
+        {
+          "headline": "Copilot存在秘密参数，黑客可窃取密码",
+          "summary": "研究人员发现Microsoft Copilot可被特殊输入劫持，用户点击链接后密码即可被窃取。",
+          "primary_url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+          "importance": 7,
+          "items": [
+            "a5dd055900645536"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-02.jpg"
+        },
+        {
+          "headline": "Flock警用AI系统曝光：远超车牌追踪",
+          "summary": "WIRED获取了Flock新一代警用AI系统代码，确认其功能远超车牌识别，可能引发新的隐私担忧。",
+          "primary_url": "https://www.wired.com/story/flock-safety-os-investigate/",
+          "importance": 7,
+          "items": [
+            "222e239f7621554a"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-03.jpg"
+        },
+        {
+          "headline": "Stripe：我们正身处奇点，因此不急着IPO",
+          "summary": "Stripe在致股东信中称AI带来奇点式变革，以此为理由推迟上市计划。",
+          "primary_url": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+          "importance": 6,
+          "items": [
+            "b690fa662df77ed0"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-04.jpg"
+        },
+        {
+          "headline": "内存价格一年飙涨500%，AI成本承压",
+          "summary": "存储芯片价格暴涨，AI基础设施成本压力加剧，行业惊呼摩尔定律已逆转至2007年水平。",
+          "primary_url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+          "importance": 6,
+          "items": [
+            "6a847a9b7e3cc198"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-05.jpg"
+        },
+        {
+          "headline": "美国机构警告：攻击者用AI攻破工控系统",
+          "summary": "美国多家机构联合警告，攻击者正利用AI为工业控制系统开发漏洞利用工具，基础设施安全面临新威胁。",
+          "primary_url": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/",
+          "importance": 6,
+          "items": [
+            "b0ae38581e1c99a0"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-06.jpg"
+        },
+        {
+          "headline": "Claude隐形水印上线几小时即被破解",
+          "summary": "Anthropic为遵守欧盟新规添加隐形水印，但开发者迅速找到绕过方法，引发对AI内容溯源有效性的讨论。",
+          "primary_url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+          "importance": 6,
+          "items": [
+            "6bfd06b0a65fc93c"
+          ],
+          "cover_path": "out/media/2026-08-20/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Mojo编程语言正式开源",
+          "summary": "Modular宣布Mojo编程语言开源，这一面向AI基础设施的高性能语言终于向社区开放。",
+          "primary_url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+          "importance": 7,
+          "items": [
+            "1581ecacc29323c7"
+          ]
+        },
+        {
+          "headline": "英伟达开源TensorRT Model Connect，两命令转换HF模型",
+          "summary": "英伟达发布TensorRT Model Connect公开预览，可将Hugging Face检查点直接转换为C++推理，无需ONNX中间格式。",
+          "primary_url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+          "importance": 6,
+          "items": [
+            "b6b3fc9a95c540ce"
+          ],
+          "cover_path": "out/media/2026-08-20/opensource-01.jpg"
+        },
+        {
+          "headline": "谷歌开源Agent网格SAM，零配置P2P互调",
+          "summary": "Google开源Sovereign Agent Mesh，一个零配置、零信任的P2P网络，让Agent可发现并调用彼此的MCP工具。",
+          "primary_url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+          "importance": 6,
+          "items": [
+            "a94155a3d302408b"
+          ],
+          "cover_path": "out/media/2026-08-20/opensource-02.jpg"
+        },
+        {
+          "headline": "火山引擎开源OpenViking：Agent自进化上下文数据库",
+          "summary": "火山引擎开源OpenViking，统一Agent记忆、知识RAG与技能，实现自进化的上下文数据库。",
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "importance": 6,
+          "items": [
+            "54ddae5fda38f3b3"
+          ]
+        },
+        {
+          "headline": "开源AI渗透测试工具Strix，自动发现应用漏洞",
+          "summary": "Strix是一个开源AI渗透测试工具，可帮助开发者查找并修复应用安全漏洞。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 5,
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-08-20/opensource-04.jpg"
+        },
+        {
+          "headline": "video-use：用编码Agent编辑视频",
+          "summary": "browser-use团队开源video-use，让编码Agent通过自然语言指令完成视频剪辑。",
+          "primary_url": "https://github.com/browser-use/video-use",
+          "importance": 5,
+          "items": [
+            "3fdc032c51306251"
+          ],
+          "cover_path": "out/media/2026-08-20/opensource-05.jpg"
+        },
+        {
+          "headline": "Unsloth更新：本地运行和训练多款大模型",
+          "summary": "Unsloth发布本地UI，支持运行和训练Qwen3.8、Kimi K3、DeepSeek-V4等模型，降低微调门槛。",
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "importance": 5,
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-08-20/opensource-06.jpg"
+        },
+        {
+          "headline": "MoneyPrinterTurbo：一键生成AI短视频",
+          "summary": "开源项目MoneyPrinterTurbo利用AI大模型和自动化工作流，根据主题或关键词一键生成高清短视频。",
+          "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "importance": 5,
+          "items": [
+            "88d3056299e36e7f"
+          ],
+          "cover_path": "out/media/2026-08-20/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
