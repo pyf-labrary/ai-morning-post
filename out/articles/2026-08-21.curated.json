@@ -1,0 +1,396 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Generalist AI 发布 GEN-1.5：机器人看一次演示就能学新任务",
+          "summary": "机器人公司 Generalist AI 推出 GEN-1.5，号称从单段演示即可学会新任务，并能在现场即兴使用香蕉等物体当工具。",
+          "primary_url": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
+          "importance": 7,
+          "items": [
+            "8da68c6db4d0b5cd",
+            "b55fadbd5a756d2d"
+          ],
+          "cover_path": "out/media/2026-08-21/model_release-00.jpg"
+        },
+        {
+          "headline": "Liquid AI 发布 LFM2.5-DSpark，推理提速最高 3.2 倍",
+          "summary": "Liquid AI 在 Hugging Face 发布 LFM2.5-DSpark，通过架构与推理优化把速度最高提升 3.2 倍。",
+          "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "importance": 6,
+          "items": [
+            "600bdcf0a0becd1e"
+          ],
+          "cover_path": "out/media/2026-08-21/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "阿里 AI ARR 达 73 亿美元，云收入增速创 22 季度新高",
+          "summary": "阿里最新财报显示 AI 相关产品年化收入突破 495 亿元，占外部云收入 35%；吴泳铭称下季度 AI ARR 有望逼近 100 亿美元，平头哥芯片下半年持续放量。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/OFqcAq9Z0T4eZo4F.html",
+          "importance": 9,
+          "items": [
+            "3fbaca17e0fe61ab",
+            "c1ac38bc23f25142",
+            "65870cc3784dcf08"
+          ]
+        },
+        {
+          "headline": "OpenAI 重申零数据保留，正面迎战 Anthropic 企业隐私",
+          "summary": "OpenAI 为符合条件的 API 客户重申零数据保留，并预览在不牺牲数据隐私的前提下进行高级安全分析的 Private Safety Processing。",
+          "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "importance": 8,
+          "items": [
+            "69bc0327ad7ebfaf",
+            "62ae83c37b3fbe9f",
+            "03dfcf7c4eaece3c"
+          ]
+        },
+        {
+          "headline": "Stripe 收购 OpenRouter 并称身处奇点，暂不 IPO",
+          "summary": "Stripe 在股东信中宣布收购模型路由平台 OpenRouter，并以“已进入奇点”解释为何维持私有；分析认为真正意图是卡位 AI 支付与算力分发。",
+          "primary_url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "importance": 7,
+          "items": [
+            "685bc9dfb60b3ab4",
+            "b690fa662df77ed0",
+            "c8fedfde95bebb01"
+          ],
+          "cover_path": "out/media/2026-08-21/company-02.jpg"
+        },
+        {
+          "headline": "宇树科技上市首日暴涨 629%，机器人概念沸腾",
+          "summary": "宇树科技登陆 A 股首日大涨 629%，成为“中国机器人第一股”；同期 2026 世界机器人大会开幕，资本与产业热度共振。",
+          "primary_url": "https://www.leiphone.com/category/ai/RWqTJlvzkwXLamiH.html",
+          "importance": 7,
+          "items": [
+            "88429639df65bbee",
+            "f9e569ff051feaf2"
+          ]
+        },
+        {
+          "headline": "传 OpenAI 因安全问题停训 GPT-6",
+          "summary": "据中文科技媒体报道，OpenAI 因安全问题突然暂停 GPT-6 训练，社区讨论激烈；目前尚无官方回应。",
+          "primary_url": "https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD",
+          "importance": 6,
+          "items": [
+            "31170cebd4939d91"
+          ],
+          "cover_path": "out/media/2026-08-21/company-04.jpg"
+        },
+        {
+          "headline": "Anthropic 最强模型 Model 2 仅限内部使用",
+          "summary": "The Decoder 报道 Anthropic 已在内部运行代号 Model 2 的最强模型，但未向公众开放，可能用于合成数据与评测。",
+          "primary_url": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
+          "importance": 6,
+          "items": [
+            "f8c7464556ca7823"
+          ],
+          "cover_path": "out/media/2026-08-21/company-05.jpg"
+        },
+        {
+          "headline": "Cognition CEO 否认 SpaceX 拟收购传闻",
+          "summary": "有报道称 SpaceX 曾接触 AI 编程创企 Cognition，CEO 公开否认；此前 SpaceX 已收购 Cursor 加码企业 AI。",
+          "primary_url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "importance": 6,
+          "items": [
+            "96f862a9d6901d7b"
+          ],
+          "cover_path": "out/media/2026-08-21/company-06.jpg"
+        },
+        {
+          "headline": "小马智行联手 Uber，欧洲五城部署 2000 辆 Robotaxi",
+          "summary": "小马智行扩大与 Uber 合作，计划在欧洲五城投放超 2000 辆 Robotaxi，海外部署总规模将超 4000 辆。",
+          "primary_url": "https://www.leiphone.com/category/transportation/B2nCxK9toeTqdkCJ.html",
+          "importance": 6,
+          "items": [
+            "015f6f3d64651e85"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "新攻击可借加密指令让 Grok 泄露用户数据",
+          "summary": "安全研究人员展示 Cryptographic Context Injection 攻击，把恶意指令藏在加密文本里，可绕过 Grok 安全护栏并外传用户数据。",
+          "primary_url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+          "importance": 7,
+          "items": [
+            "8eb0428956c68fa7"
+          ],
+          "cover_path": "out/media/2026-08-21/research-00.jpg"
+        },
+        {
+          "headline": "研究：ChatGPT 上线后约三分之一新网页疑似 AI 写作",
+          "summary": "一项研究发现，自 ChatGPT 发布以来，约三分之一的新网页内容带有 AI 生成或编辑痕迹，AI 正深度重塑开放网络。",
+          "primary_url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+          "importance": 6,
+          "items": [
+            "dcfa7fb9eb536709"
+          ],
+          "cover_path": "out/media/2026-08-21/research-01.jpg"
+        },
+        {
+          "headline": "研究：后训练护栏让 LLM 文本更容易被识别",
+          "summary": "The Decoder 报道，LLM 本身具备仿人类写作能力，但后训练阶段的安全护栏反而给文本留下可检测痕迹。",
+          "primary_url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+          "importance": 5,
+          "items": [
+            "8afd35180a84d283"
+          ],
+          "cover_path": "out/media/2026-08-21/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "ChatGPT 接入 Apple Messages，可代用户发短信",
+          "summary": "ChatGPT 推出 Apple Messages 插件，能在获得授权后代写、代发 iMessage 文本，把 AI 助手延伸到系统级通信。",
+          "primary_url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "importance": 6,
+          "items": [
+            "1f1787c49c9080e6"
+          ],
+          "cover_path": "out/media/2026-08-21/product-00.jpg"
+        },
+        {
+          "headline": "Meta AI 发布 Mac 应用，主打全局听写与跨 App 操作",
+          "summary": "Meta AI 的 macOS 客户端支持全系统听写，用户可直接用语音调用各类 App，对标 Wispr Flow 等工具。",
+          "primary_url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+          "importance": 6,
+          "items": [
+            "92bc4e933e9b7afd"
+          ],
+          "cover_path": "out/media/2026-08-21/product-01.jpg"
+        },
+        {
+          "headline": "Google 给出版方一个“优先信源”按钮，对抗 AI 搜索分流",
+          "summary": "Google 在 Search、Discover 和 News 中新增按钮，读者可把某出版方设为优先来源，帮助优质媒体在 AI 时代挽回流量。",
+          "primary_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+          "importance": 6,
+          "items": [
+            "226a3627d7c09583"
+          ],
+          "cover_path": "out/media/2026-08-21/product-02.jpg"
+        },
+        {
+          "headline": "Google 为 Search 和 Gemini 上线 AI 学习工具",
+          "summary": "面向学生的 AI 学习功能上线，Gemini 和 Search 整合问答、测验与概念拆解，继续与 OpenAI 争夺教育场景。",
+          "primary_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+          "importance": 6,
+          "items": [
+            "e933ab18144a5d72"
+          ],
+          "cover_path": "out/media/2026-08-21/product-03.jpg"
+        },
+        {
+          "headline": "Ramp 发布模型路由服务 Router，一键切换 LLM",
+          "summary": "Ramp 推出 Router，提供统一 API 在多个大模型间自动路由与切换，帮助企业控制成本和延迟。",
+          "primary_url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "importance": 6,
+          "items": [
+            "083f6c7c7f7ecd8a"
+          ],
+          "cover_path": "out/media/2026-08-21/product-04.jpg"
+        },
+        {
+          "headline": "Binance 上线 Agent OS，AI Agent 可直接下单交易",
+          "summary": "Binance 允许 AI Agent 通过 Agent OS 接入交易，支持 ChatGPT、Claude Code、Cursor 等工具，但风控责任主要交给用户。",
+          "primary_url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "importance": 6,
+          "items": [
+            "fe1127085a9d0ae0"
+          ],
+          "cover_path": "out/media/2026-08-21/product-05.jpg"
+        },
+        {
+          "headline": "Adobe Firefly 加入 AI 音频，并接入 Gemini Omni Flash",
+          "summary": "Adobe Firefly 更新新增 AI 音频生成/编辑工具，同时引入 Google Gemini Omni Flash 作为多模态模型能力。",
+          "primary_url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+          "importance": 6,
+          "items": [
+            "b218acd249786910"
+          ],
+          "cover_path": "out/media/2026-08-21/product-06.jpg"
+        },
+        {
+          "headline": "豆包密集上新：侧边工作台上线，大模型接入特斯拉",
+          "summary": "豆包在生产力场景新增侧边工作台，实现对话与操作同屏；同一天早报显示豆包大模型正式上车特斯拉。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/NUnI2tLusJdGxAar.html",
+          "importance": 5,
+          "items": [
+            "59893b5dbe2c7bf3",
+            "0e25d52afa1f1482"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Meta 被曝为“脱衣”App 投放广告，涉及女政客深伪",
+          "summary": "调查发现 Meta 广告平台放行一款以女性政治家为对象的“一键脱衣”App，广告含深伪不雅视频，Meta 面临新一轮内容审核拷问。",
+          "primary_url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+          "importance": 7,
+          "items": [
+            "9a8c2b212b4ef943"
+          ],
+          "cover_path": "out/media/2026-08-21/opinion-00.jpg"
+        },
+        {
+          "headline": "硅谷不懂人们为何讨厌 AI：普及并未带来接受",
+          "summary": "TechCrunch 与 Wired 同步反思硅谷叙事的失效：AI 越无处不在，普通用户越警惕，行业陷入“普及 vs 信任”的错位。",
+          "primary_url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+          "importance": 7,
+          "items": [
+            "881c39c62fee8066",
+            "412500b8a4d7e5a9"
+          ],
+          "cover_path": "out/media/2026-08-21/opinion-01.jpg"
+        },
+        {
+          "headline": "Sutton 再开炮：合成数据是“大错”，世界复杂度无限",
+          "summary": "强化学习先驱 Rich Sutton 提出“大世界假说”，认为真实世界复杂度无限，用合成数据训练会限制 AI 对不确定性的适应。",
+          "primary_url": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
+          "importance": 7,
+          "items": [
+            "dc506d32436837a0"
+          ],
+          "cover_path": "out/media/2026-08-21/opinion-02.jpg"
+        },
+        {
+          "headline": "陶哲轩：AI 或触发哥德尔以来数学最大危机",
+          "summary": "数学家陶哲轩在新文中警告，AI 驱动的自动证明与发现可能颠覆数学的可验证性与人类理解，引发学科基础层面的危机。",
+          "primary_url": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/",
+          "importance": 7,
+          "items": [
+            "daafa9020daf32cb"
+          ],
+          "cover_path": "out/media/2026-08-21/opinion-03.jpg"
+        },
+        {
+          "headline": "智谱 CEO 谈 GLM 5.3：参数竞赛终结，后训练是新缩放定律",
+          "summary": "智谱 CEO 唐杰在 AINews 访谈中提出“参数之死”，认为 GLM 5.3 之后模型能力更多由后训练与数据策略决定，而非规模。",
+          "primary_url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+          "importance": 7,
+          "items": [
+            "af0223781d184567"
+          ],
+          "cover_path": "out/media/2026-08-21/opinion-04.jpg"
+        },
+        {
+          "headline": "OpenAI 推出 AI Futures 博客，谈 AI 如何重塑治理与自由",
+          "summary": "OpenAI 上线 AI Futures 博客，聚焦变革性 AI 对权力、治理、经济和个体自由的可能影响。",
+          "primary_url": "https://openai.com/index/introducing-ai-futures",
+          "importance": 6,
+          "items": [
+            "54b6eeb9e3198f40"
+          ]
+        },
+        {
+          "headline": "华尔街开始给 AI 算力定价，GPU 正变成新大宗商品",
+          "summary": "算力成为 AI 最大成本，创业公司试图为 GPU/数据中心建定价与交易市场，InfoQ 称其为“AI Infra 的石油期货”。",
+          "primary_url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "importance": 6,
+          "items": [
+            "1e6da1923217562a",
+            "063d756fa5cb06a7"
+          ],
+          "cover_path": "out/media/2026-08-21/opinion-06.jpg"
+        },
+        {
+          "headline": "前沿雷达：中国已追平西方，差距还剩什么？",
+          "summary": "The Decoder 前沿模型评测显示，中国模型能力已基本追平西方，文章追问欧美在生态、算力与标准化上的剩余优势。",
+          "primary_url": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
+          "importance": 6,
+          "items": [
+            "583b759b115de051"
+          ],
+          "cover_path": "out/media/2026-08-21/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic 官方发布 Claude Code 插件目录",
+          "summary": "Anthropic 在 GitHub 上线官方插件目录，收录经过审核的高质量 Claude Code 插件，为 agent 生态提供统一入口。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 7,
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-08-21/opensource-00.jpg"
+        },
+        {
+          "headline": "火山引擎开源 OpenViking：Agent 的自进化上下文数据库",
+          "summary": "OpenViking 统一 Agent 记忆、知识 RAG 与技能管理，目标是让 Agent 长期记忆随使用自进化。",
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "importance": 6,
+          "items": [
+            "54ddae5fda38f3b3"
+          ],
+          "cover_path": "out/media/2026-08-21/opensource-01.jpg"
+        },
+        {
+          "headline": "Matt Pocock 开源 /wayfinder：为不确定项目找路",
+          "summary": "工程师 Matt Pocock 发布 /wayfinder 技能，帮助 coding agent 在全新或目标模糊的项目里规划路线，配套 skills 仓库同步开源。",
+          "primary_url": "https://github.com/mattpocock/skills",
+          "importance": 5,
+          "items": [
+            "d1e41cb9775d0583",
+            "3ee490bfdbffaa89"
+          ],
+          "cover_path": "out/media/2026-08-21/opensource-02.jpg"
+        },
+        {
+          "headline": "Strix：开源 AI 渗透测试工具，自动发现应用漏洞",
+          "summary": "Strix 定位开源 AI 安全工具，可对应用做自动化渗透测试，并输出可修复建议。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 5,
+          "items": [
+            "e4b6d6f17497b617"
+          ]
+        },
+        {
+          "headline": "MTPLX：Apple Silicon 上 MLX 推理速度提升 3 倍",
+          "summary": "MTPLX 借助原生 MTP 投机解码，在无外部草稿模型的情况下，让 Qwen 等模型在 MLX 上最高提速 3 倍。",
+          "primary_url": "https://github.com/youssofal/MTPLX",
+          "importance": 5,
+          "items": [
+            "6251f16292628275"
+          ],
+          "cover_path": "out/media/2026-08-21/opensource-04.jpg"
+        },
+        {
+          "headline": "Superpowers：给 Coding Agent 一整套可复用的开发方法论",
+          "summary": "开源项目 Superpowers 把技能组合成开发方法，让 Claude Code 等 agent 按统一流程拆解需求、写代码和自测。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 5,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-08-21/opensource-05.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-21"
+}
