@@ -1,0 +1,453 @@
+{
+  "date": "2026-08-22",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "DeepSeek发布Flash视觉模型，对标Opus 4.8",
+          "summary": "DeepSeek推出实验性Flash视觉模型，在智能体基准测试上媲美Opus 4.8，让多模态能力进一步下沉。",
+          "primary_url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+          "importance": 7,
+          "items": [
+            "35b024eff0265945",
+            "9b64699fb23d92c5"
+          ],
+          "cover_path": "out/media/2026-08-22/model_release-00.jpg"
+        },
+        {
+          "headline": "Liquid AI推DSpark草稿模型，解码提速3.2倍",
+          "summary": "Liquid AI发布约3亿参数的DSpark草稿模型，通过投机解码让LFM2.5推理速度最高提升3.18倍，输出完全不变。",
+          "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "importance": 6,
+          "items": [
+            "600bdcf0a0becd1e",
+            "9d027de154a54ab0"
+          ],
+          "cover_path": "out/media/2026-08-22/model_release-01.jpg"
+        },
+        {
+          "headline": "Meta开源可本地运行的视觉智能体模型",
+          "summary": "Meta发布支持视觉与工具调用的开源智能体模型，可完全本地部署，适合隐私敏感的终端场景。",
+          "primary_url": "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L",
+          "importance": 5,
+          "items": [
+            "ae285e6a454a58c4"
+          ],
+          "cover_path": "out/media/2026-08-22/model_release-02.jpg"
+        },
+        {
+          "headline": "商汤开源轻量多模态大模型SenseNova U1.5 Lite",
+          "summary": "商汤正式发布并开源SenseNova U1.5 Lite，支持超长指令，能够原生生成4K真实视觉内容。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/6sNCkUYytWV6ixlf.html",
+          "importance": 5,
+          "items": [
+            "17ca8fdec617ebe3"
+          ]
+        },
+        {
+          "headline": "OpenAI GPT-Image-2新增无背景图像生成",
+          "summary": "OpenAI图像生成模型GPT-Image-2现已支持直接生成透明背景图片，简化设计素材制作流程。",
+          "primary_url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
+          "importance": 5,
+          "items": [
+            "d1bbea0c6476dd70"
+          ],
+          "cover_path": "out/media/2026-08-22/model_release-04.jpg"
+        },
+        {
+          "headline": "神秘模型Ox Alpha惊现OpenRouter，性能超Fable 5",
+          "summary": "OpenRouter上出现未公开模型Ox Alpha，跑分超过Fable 5，来源成谜，网友猜测智谱或小米。",
+          "primary_url": "https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY",
+          "importance": 3,
+          "items": [
+            "895f3b641168206a"
+          ],
+          "cover_path": "out/media/2026-08-22/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "英伟达60亿美元收购Poolside模型工厂与团队",
+          "summary": "英伟达将以约60亿美元收购Poolside的Model Factory及109名员工，创始人留任并获10亿美元；相关Infraco将扩展至7GW规模。",
+          "primary_url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
+          "importance": 8,
+          "items": [
+            "929b5ffa343e6ff2",
+            "6add3ad809cde3a8"
+          ],
+          "cover_path": "out/media/2026-08-22/company-00.jpg"
+        },
+        {
+          "headline": "GPT-5.6带动OpenAI企业收入反弹，追赶Anthropic",
+          "summary": "新数据显示，GPT-5.6 Sol推动OpenAI企业业务快速增长，帮助其从Anthropic手中夺回市场份额。",
+          "primary_url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+          "importance": 7,
+          "items": [
+            "3a5a304b07d16a38",
+            "b10e8f5db8763378"
+          ],
+          "cover_path": "out/media/2026-08-22/company-01.jpg"
+        },
+        {
+          "headline": "Waymo自研芯片削减对英伟达依赖",
+          "summary": "Waymo正在为Robotaxi开发自研芯片，以降低对英伟达的依赖，增强算力自主可控。",
+          "primary_url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
+          "importance": 6,
+          "items": [
+            "ef8dee01a39fa136"
+          ],
+          "cover_path": "out/media/2026-08-22/company-02.jpg"
+        },
+        {
+          "headline": "Meta每年花数亿美元买微软AI服务",
+          "summary": "Meta已成为微软AI云服务的大客户，年支出达数亿美元，用于支持自身AI模型训练与产品线。",
+          "primary_url": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
+          "importance": 6,
+          "items": [
+            "3a808b4c65512e66"
+          ],
+          "cover_path": "out/media/2026-08-22/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic调整数据保留政策以安抚企业客户",
+          "summary": "在企业客户反弹后，Anthropic宣布修改数据保留政策，以增强Claude在企业场景中的信任度。",
+          "primary_url": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
+          "importance": 5,
+          "items": [
+            "90ff8047bdd34920"
+          ],
+          "cover_path": "out/media/2026-08-22/company-04.jpg"
+        },
+        {
+          "headline": "Starcloud融资2.5亿美元建设轨道数据中心",
+          "summary": "太空数据中心公司Starcloud完成2.5亿美元融资，在火箭发射资源紧张的当下加速部署在轨算力。",
+          "primary_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "importance": 5,
+          "items": [
+            "1f9380e3fdabecc1"
+          ],
+          "cover_path": "out/media/2026-08-22/company-05.jpg"
+        },
+        {
+          "headline": "美国司法部调查a16z合伙人董事会冲突",
+          "summary": "DOJ对a16z展开调查，因其两位合伙人分别担任Databricks与Fivetran董事，两家公司现已形成竞争关系。",
+          "primary_url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "importance": 5,
+          "items": [
+            "7e7bc4fc6a263966"
+          ],
+          "cover_path": "out/media/2026-08-22/company-06.jpg"
+        },
+        {
+          "headline": "快手可灵核心技术骨干王鑫涛离职",
+          "summary": "雷峰网独家获悉，可灵AI高级研究员王鑫涛已离职，他曾是视频生成方向的关键推动者。",
+          "primary_url": "https://www.leiphone.com/category/CorporateServices/87Q2pIwkIFaVENkQ.html",
+          "importance": 5,
+          "items": [
+            "4086a5f78e880209"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Grok遭加密指令注入，用户数据可被外泄",
+          "summary": "安全研究人员展示一种“加密上下文注入”攻击，能让Grok在恶意指令下外泄用户数据，突破现有安全护栏。",
+          "primary_url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+          "importance": 7,
+          "items": [
+            "8eb0428956c68fa7"
+          ],
+          "cover_path": "out/media/2026-08-22/research-00.jpg"
+        },
+        {
+          "headline": "英伟达研究：agent性能关键在框架而非模型",
+          "summary": "英伟达最新研究显示，通过微调与合适的harness，即使基础模型不强，AI智能体也能表现稳定且不失控。",
+          "primary_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "importance": 5,
+          "items": [
+            "99e5756083b4a054"
+          ],
+          "cover_path": "out/media/2026-08-22/research-01.jpg"
+        },
+        {
+          "headline": "研究：ChatGPT发布后三成新网页由AI撰写",
+          "summary": "一项新研究估算，自ChatGPT发布以来，互联网上约三分之一的新网页文本带有AI撰写或编辑痕迹。",
+          "primary_url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+          "importance": 5,
+          "items": [
+            "39cdcbca63c347a0"
+          ],
+          "cover_path": "out/media/2026-08-22/research-02.jpg"
+        },
+        {
+          "headline": "机器人迎来GPT-3时刻：看3秒演示即学会新动作",
+          "summary": "最新成果让机器人仅凭3秒人类演示便学会新技能，被认为是具身智能迈向通用性的关键一步。",
+          "primary_url": "https://www.qbitai.com/2026/08/476596.html",
+          "importance": 5,
+          "items": [
+            "7d0e545a2723047e"
+          ],
+          "cover_path": "out/media/2026-08-22/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "ChatGPT接入Apple Messages，可代写并发送短信",
+          "summary": "OpenAI推出ChatGPT版Apple Messages插件，用户授权后可由AI代为撰写和发送短信。",
+          "primary_url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "importance": 7,
+          "items": [
+            "6943737d2036fcb2"
+          ],
+          "cover_path": "out/media/2026-08-22/product-00.jpg"
+        },
+        {
+          "headline": "Claude Mythos 5进入Claude Security，开放自助扫描",
+          "summary": "Anthropic将最强模型Claude Mythos 5用于Claude Security，企业团队可直接启用前沿漏洞扫描能力。",
+          "primary_url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+          "importance": 6,
+          "items": [
+            "e52f54d75357f267",
+            "b992561cebe8db61"
+          ],
+          "cover_path": "out/media/2026-08-22/product-01.jpg"
+        },
+        {
+          "headline": "Meta AI推出Mac应用：用语音指挥所有应用",
+          "summary": "Meta AI新版Mac客户端支持跨应用语音听写，用户可以直接对Mac上的任何应用说话完成输入。",
+          "primary_url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+          "importance": 6,
+          "items": [
+            "92bc4e933e9b7afd"
+          ],
+          "cover_path": "out/media/2026-08-22/product-02.jpg"
+        },
+        {
+          "headline": "Ramp发布AI模型路由器Router，统一模型API切换",
+          "summary": "Ramp推出名为Router的API服务，帮助企业灵活调用和切换多个大语言模型，平衡成本与效果。",
+          "primary_url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "importance": 6,
+          "items": [
+            "083f6c7c7f7ecd8a"
+          ],
+          "cover_path": "out/media/2026-08-22/product-03.jpg"
+        },
+        {
+          "headline": "雷鸟iO AI眼镜发布：34g、两天续航、主动式AI",
+          "summary": "雷鸟创新发布AI眼镜雷鸟iO，重量仅34克，续航两天，支持全天候主动式AI助手。",
+          "primary_url": "https://www.qbitai.com/2026/08/476628.html",
+          "importance": 6,
+          "items": [
+            "f7dd908af71ea2d9"
+          ],
+          "cover_path": "out/media/2026-08-22/product-04.jpg"
+        },
+        {
+          "headline": "Google推新按钮，让读者把网站设为优先来源",
+          "summary": "Google在搜索中新增控件，允许用户将特定发布者设为优先来源，以帮助网站缓解AI搜索带来的流量下滑。",
+          "primary_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+          "importance": 5,
+          "items": [
+            "226a3627d7c09583"
+          ],
+          "cover_path": "out/media/2026-08-22/product-05.jpg"
+        },
+        {
+          "headline": "Meta Pocket上线美国：用AI共创可玩游戏",
+          "summary": "Meta的AI游戏创作应用Pocket正式登陆美国，用户可通过自然语言与AI一起开发并分享互动小游戏。",
+          "primary_url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+          "importance": 5,
+          "items": [
+            "c4451884e159d91e"
+          ],
+          "cover_path": "out/media/2026-08-22/product-06.jpg"
+        },
+        {
+          "headline": "MiniMax Design视频生成，挑战Adobe与Canva",
+          "summary": "MiniMax Design推出AI视频生成设计工具，以类Claude Code的交互方式进入创意工具市场。",
+          "primary_url": "https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc",
+          "importance": 5,
+          "items": [
+            "0da6d569bb837108"
+          ],
+          "cover_path": "out/media/2026-08-22/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "美欲迫使伙伴国在中美AI竞赛中二选一",
+          "summary": "据报道，美国正通过外交与出口管制手段，要求盟友国家在华盛顿与北京之间明确选边，以巩固AI主导权。",
+          "primary_url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
+          "importance": 6,
+          "items": [
+            "ceec2e689579f422"
+          ],
+          "cover_path": "out/media/2026-08-22/opinion-00.jpg"
+        },
+        {
+          "headline": "数据中心建设反对率一年飙升至75%",
+          "summary": "调查显示，全球民众对数据中心的反对率从42%猛增至75%，AI算力扩张正遭遇更强烈的本地阻力。",
+          "primary_url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
+          "importance": 5,
+          "items": [
+            "4ec67973022c37d2"
+          ],
+          "cover_path": "out/media/2026-08-22/opinion-01.jpg"
+        },
+        {
+          "headline": "MIT科技评论：AI意识之争是个陷阱",
+          "summary": "评论文章指出，“失控AI”“自主能动体”等修辞夸大了AI能力，意识辩论正在挤占真正重要风险的讨论空间。",
+          "primary_url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+          "importance": 5,
+          "items": [
+            "cbafa9d3f2eb4253"
+          ],
+          "cover_path": "out/media/2026-08-22/opinion-02.jpg"
+        },
+        {
+          "headline": "Wired痛批：硅谷不懂公众为何讨厌AI",
+          "summary": "Wired发文称，科技领袖无法理解社会对AI的反感，却不断在社交媒体上“用AI解释AI”，加剧隔阂。",
+          "primary_url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+          "importance": 5,
+          "items": [
+            "881c39c62fee8066"
+          ],
+          "cover_path": "out/media/2026-08-22/opinion-03.jpg"
+        },
+        {
+          "headline": "安全专家呼吁：别再做TUI终端界面了",
+          "summary": "Thomas Ptacek撰文指出，在编码智能体普及的今天，即便是个人小工具也应构建原生UI，而非迁就终端文本界面。",
+          "primary_url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+          "importance": 5,
+          "items": [
+            "0cd8c6d1b2836f34"
+          ]
+        },
+        {
+          "headline": "云厂商‘亏钱卖’友商AI，价格战卷土重来",
+          "summary": "雷峰网调查发现，部分云厂商以4.8折转售智谱、DeepSeek、Kimi等模型，行业再次陷入低价恶性竞争。",
+          "primary_url": "https://www.leiphone.com/category/CorporateServices/2OndXI7BTP3zV3vO.html",
+          "importance": 5,
+          "items": [
+            "f299318cce2cfda8"
+          ]
+        },
+        {
+          "headline": "行业评论：Anthropic不再是AI圈的信仰",
+          "summary": "随着GPT-5.6扭转市场格局，评论认为Anthropic的安全叙事与技术优势正在被重新审视，光环有所褪色。",
+          "primary_url": "https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ",
+          "importance": 5,
+          "items": [
+            "d9f3f5587b39c9ec"
+          ],
+          "cover_path": "out/media/2026-08-22/opinion-06.jpg"
+        },
+        {
+          "headline": "算力变成金融标的：华尔街开始交易AI期货",
+          "summary": "文章指出，AI基础设施正衍生出类似石油期货的交易市场，GPU算力成为可对冲、可投机的资产。",
+          "primary_url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq",
+          "importance": 5,
+          "items": [
+            "063d756fa5cb06a7"
+          ],
+          "cover_path": "out/media/2026-08-22/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Matt Pocock开源/wayfinder技能，助AI代理做规划",
+          "summary": "知名工程师Matt Pocock发布/wayfinder技能，帮助编码代理在项目方向不明时进行规划，并开源他的整套skills。",
+          "primary_url": "https://www.latent.space/p/wayfinder-skill",
+          "importance": 5,
+          "items": [
+            "3ee490bfdbffaa89",
+            "d1e41cb9775d0583"
+          ],
+          "cover_path": "out/media/2026-08-22/opensource-00.jpg"
+        },
+        {
+          "headline": "LLM命令行工具更新：修复安装并兼容OpenRouter",
+          "summary": "llm 0.32.1修复因OpenAI库变化引起的安装问题，llm-openrouter 0.7同步完成新版本适配。",
+          "primary_url": "https://simonwillison.net/2026/Aug/21/llm/",
+          "importance": 4,
+          "items": [
+            "1027094024dff16d",
+            "0fe3af75562df3ce"
+          ]
+        },
+        {
+          "headline": "开源S1-mini：462MB本地净化ASR转写文本",
+          "summary": "Superwhisper开源轻量文本规范化模型S1-mini，可去除语音转写中的冗余词和修正痕迹，本地离线运行。",
+          "primary_url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+          "importance": 4,
+          "items": [
+            "8908f5d551e5fcda"
+          ],
+          "cover_path": "out/media/2026-08-22/opensource-02.jpg"
+        },
+        {
+          "headline": "腾讯开源AI-Infra-Guard：全栈AI红队安全平台",
+          "summary": "腾讯发布AI-Infra-Guard，覆盖智能体、技能、MCP、基础设施扫描及LLM越狱评估，用于加固AI应用安全。",
+          "primary_url": "https://github.com/Tencent/AI-Infra-Guard",
+          "importance": 4,
+          "items": [
+            "7fa0e8d14597a468"
+          ],
+          "cover_path": "out/media/2026-08-22/opensource-03.jpg"
+        },
+        {
+          "headline": "微软开源agent-framework：跨Python与.NET的智能体框架",
+          "summary": "微软发布agent-framework，支持Python和.NET，用于构建、编排和部署单智能体与多智能体应用。",
+          "primary_url": "https://github.com/microsoft/agent-framework",
+          "importance": 4,
+          "items": [
+            "8fb4e27c0e4f3897"
+          ],
+          "cover_path": "out/media/2026-08-22/opensource-04.jpg"
+        },
+        {
+          "headline": "火山引擎开源OpenViking：统一智能体记忆与RAG",
+          "summary": "OpenViking是面向AI智能体的自进化上下文数据库，统一记忆、知识检索与技能，来自火山引擎。",
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "importance": 4,
+          "items": [
+            "54ddae5fda38f3b3"
+          ],
+          "cover_path": "out/media/2026-08-22/opensource-05.jpg"
+        },
+        {
+          "headline": "开源Superpowers：面向编码代理的技能框架",
+          "summary": "obra发布Superpowers，一套组合式技能框架与软件开发方法论，可提升Claude Code等编码代理的开发能力。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 4,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-08-22/opensource-06.jpg"
+        }
+      ]
+    }
+  ]
+}
