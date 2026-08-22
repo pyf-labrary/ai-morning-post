@@ -1,0 +1,451 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "DeepSeek 发布实验性 Flash 视觉模型，对标 Opus 4.8",
+          "summary": "DeepSeek 推出实验性 Flash 视觉模型，据称在 agent 基准上可对标 Opus 4.8，也是其多模态布局的关键一步。",
+          "primary_url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+          "items": [
+            "35b024eff0265945",
+            "9b64699fb23d92c5"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-08-23/model_release-00.jpg"
+        },
+        {
+          "headline": "Meta 开源本地智能体模型，支持视觉与工具调用",
+          "summary": "Meta 开源了一个可在本地运行、支持视觉与工具调用的智能体模型，降低 agent 应用的部署门槛。",
+          "primary_url": "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L",
+          "items": [
+            "ae285e6a454a58c4"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/model_release-01.jpg"
+        },
+        {
+          "headline": "商汤开源 SenseNova U1.5 Lite，原生 4K 视觉",
+          "summary": "商汤正式开源轻量级统一多模态大模型 SenseNova U1.5 Lite，支持超长指令与原生 4K 真实视觉创作流。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/6sNCkUYytWV6ixlf.html",
+          "items": [
+            "17ca8fdec617ebe3"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "神秘 Ox Alpha 突袭 OpenRouter，性能超 Fable 5",
+          "summary": "OpenRouter 上出现代号“Ox Alpha”的神秘模型，跑分据称超过 Fable 5，厂商背景引发全网猜测。",
+          "primary_url": "https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY",
+          "items": [
+            "895f3b641168206a"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-08-23/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "DeepMind 联手游戏工作室，推进 AI 原生玩法",
+          "summary": "Google DeepMind 宣布与多家游戏工作室合作，把 15 年游戏 AI 研究成果落地到真实游戏玩法原型中。",
+          "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "items": [
+            "b40276bbcf3b5cac"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-08-23/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 下调 GPT-5.6 Sol API 定价超 20%",
+          "summary": "OpenAI 宣布未来 3 个月内 GPT-5.6 Sol 的 API 与积分定价下调 20% 以上，Pro/Plus/Business 订阅价不变。",
+          "primary_url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "items": [
+            "a1aa0ef6b1797952",
+            "54840e1d244334f3"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-08-23/company-01.jpg"
+        },
+        {
+          "headline": "Waymo 自研芯片，降低对英伟达依赖",
+          "summary": "Waymo 将为 Robotaxi 自研芯片，减少对英伟达的依赖并提升软硬协同效率。",
+          "primary_url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
+          "items": [
+            "ef8dee01a39fa136"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/company-02.jpg"
+        },
+        {
+          "headline": "优必选把客户产线搬进 WRC，具身智能真落地",
+          "summary": "优必选在世界机器人大会上 1:1 展示客户真实产线，强调具身智能赛道壁垒不在出货量而在于落地能力。",
+          "primary_url": "https://www.qbitai.com/2026/08/477253.html",
+          "items": [
+            "c512e7c6ca89918b",
+            "258c70effac490e7"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/company-03.jpg"
+        },
+        {
+          "headline": "苹果 Siri 与 Vision Pro 团队裁员超 200 人",
+          "summary": "苹果裁减 Siri 和 Vision Pro 团队超 200 个岗位，称将新设岗位以推动业务和用户体验。",
+          "primary_url": "https://36kr.com/newsflashes/3950185027501440?f=rss",
+          "items": [
+            "0eb4e96139e5fc1b"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "东山精密加码 AI 光芯片，总投资上调至 17 亿美元",
+          "summary": "东山精密拟新增 5 亿美元投资，光芯片及光模块扩建项目总投资由 12 亿美元上调至 17 亿美元。",
+          "primary_url": "https://36kr.com/newsflashes/3950182513884297?f=rss",
+          "items": [
+            "c3071db9401f6d33"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "科大讯飞与中国药科大学共建 AI+医药",
+          "summary": "科大讯飞与中国药科大学签署战略合作，打造“人工智能+医药”产教融合标杆。",
+          "primary_url": "https://36kr.com/newsflashes/3950179929210248?f=rss",
+          "items": [
+            "470b4a01815587e3"
+          ],
+          "importance": 4
+        },
+        {
+          "headline": "JetBrains 披露控制 AI 支出首批举措",
+          "summary": "JetBrains 详细说明了为控制 AI 支出快速增长而采取的首批措施。",
+          "primary_url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+          "items": [
+            "49cede0cb68e5114"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-08-23/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "新研究揭示 AI Agent 技能的收益与失效边界",
+          "summary": "一项新研究解释了 AI agent 为什么能从“skills”中受益，以及它们在什么条件下会失效，为 agent 设计提供指导。",
+          "primary_url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+          "items": [
+            "a3a214368c2b891c"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/research-00.jpg"
+        },
+        {
+          "headline": "世界模型忽视人类信念，预测行为会出错",
+          "summary": "新研究显示，世界模型若不能模拟人类信念，就无法正确预测人类行为，这对具身智能和 agent 设计有启示。",
+          "primary_url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+          "items": [
+            "b91f92ed90b180b1"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/research-01.jpg"
+        },
+        {
+          "headline": "心理学方法揭示 AI 安全测试重大缺陷",
+          "summary": "研究人员将心理学实验方法引入 AI 安全测试，发现现有安全评估存在显著盲区。",
+          "primary_url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
+          "items": [
+            "6a0c66444fb274e8"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/research-02.jpg"
+        },
+        {
+          "headline": "Netflix 测试语言模型替代推荐逻辑",
+          "summary": "Netflix 将语言模型与手工构建的推荐逻辑对比测试，探索用 LLM 替代推荐规则的可能性。",
+          "primary_url": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/",
+          "items": [
+            "14bd4c0676489172"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/research-03.jpg"
+        },
+        {
+          "headline": "AI 帮忙作业分涨了，考试成绩却掉了",
+          "summary": "一项研究显示，使用 AI 提高作业分数的学生，考场成绩反而下降，引发教育应用担忧。",
+          "primary_url": "https://canews24.online/?p=71",
+          "items": [
+            "7dc31452cccfadf9"
+          ],
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic 将 Claude Mythos 5 用于网络安全扫描",
+          "summary": "Anthropic 将最强模型 Claude Mythos 5 接入 Claude Security，企业团队可在公开测试版中启用漏洞扫描，并能主动探测公共互联网资产。",
+          "primary_url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+          "items": [
+            "e52f54d75357f267",
+            "b992561cebe8db61",
+            "bb70962bbfeac301"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-08-23/product-00.jpg"
+        },
+        {
+          "headline": "MiniMax Design 视频生成，直击 Adobe/Canva",
+          "summary": "MiniMax Design 杀入视频生成领域，被视为视频生成“Claude Code 时刻”，直接冲击 Adobe 与 Canva。",
+          "primary_url": "https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc",
+          "items": [
+            "0da6d569bb837108"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/product-01.jpg"
+        },
+        {
+          "headline": "特斯拉 Cybercab 发布会定档 9 月 3 日",
+          "summary": "特斯拉宣布 9 月 3 日将在奥斯汀举办 Cybercab 发布会，该车由 AI 驱动，无方向盘、踏板和后视镜。",
+          "primary_url": "https://36kr.com/newsflashes/3950417977785729?f=rss",
+          "items": [
+            "4e1026312c6f850f"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "全球首个人形机器人自主乒乓球完整对局亮相",
+          "summary": "超维动力在世界机器人大会展示全球首个人形机器人自主乒乓球完整对局，以及 SMASH 2.0 和 KAI 世界模型。",
+          "primary_url": "https://www.leiphone.com/category/robot/rlnc7wOi4Q7hymVJ.html",
+          "items": [
+            "bc7495b3919fb43c"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "RayNeo 新 AI 眼镜不装摄像头，主打文本叠加",
+          "summary": "RayNeo 发布跳过摄像头的 AI 眼镜新品，聚焦文本叠加等轻交互，规避隐私争议。",
+          "primary_url": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
+          "items": [
+            "79dbe051ade9aff7"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/product-04.jpg"
+        },
+        {
+          "headline": "免费 App 可检测 Meta AI 眼镜，隐私再引热议",
+          "summary": "免费应用 Zuckoff 可检测身边是否有人佩戴 Meta AI 眼镜，在隐私担忧下引发热议。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+          "items": [
+            "cc1db291b034f8b6"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/product-05.jpg"
+        },
+        {
+          "headline": "Cloudflare Agent Tracing 上线，可观测 AI 代理",
+          "summary": "Cloudflare 推出 Agent Tracing，支持截断限制等追踪能力，但不同框架的 payload 默认记录策略存在差异。",
+          "primary_url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+          "items": [
+            "980c8868a6b8349f"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/product-06.jpg"
+        },
+        {
+          "headline": "Anthropic 被曝 A/B 测试更低的 Claude Code 强度",
+          "summary": "有用户在 X 上发现 Anthropic 似乎在 Claude Code 中 A/B 测试 reduced effort 级别，影响代码代理的出力程度。",
+          "primary_url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "items": [
+            "8d964ef285c8f6b9"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Simile CEO：模拟将成为新的 Scaling Law",
+          "summary": "Simile AI CEO Joon Sung Park 讲述从生成式 Agent 到 80 亿数字孪生的历程，认为模拟已从探索变成严肃商业，成为新的规模法则。",
+          "primary_url": "https://www.latent.space/p/simile",
+          "items": [
+            "ed923a696ce8fd89"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-08-23/opinion-00.jpg"
+        },
+        {
+          "headline": "美国施压伙伴国：AI 竞赛必须二选一",
+          "summary": "美国希望迫使伙伴国家在华盛顿与北京的 AI 竞赛中选边，地缘博弈进一步加剧。",
+          "primary_url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
+          "items": [
+            "ceec2e689579f422"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-08-23/opinion-01.jpg"
+        },
+        {
+          "headline": "模拟正在 10000 倍提速接管 AI",
+          "summary": "Latent Space 指出模拟方法以 10000 倍速度、100 倍低成本实现仅 10% 性能损失，应用正从模型训练扩展到更大范围。",
+          "primary_url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+          "items": [
+            "6673acf82a8f0576"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/opinion-02.jpg"
+        },
+        {
+          "headline": "Agent Harness 演进：模型正在吸收框架",
+          "summary": "观点认为模型正把 agent harness 吸收进权重，未来需要设计的是面向人类注意力的接口。",
+          "primary_url": "https://www.latent.space/p/attention-interface",
+          "items": [
+            "bf271ef4ea0506e4"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/opinion-03.jpg"
+        },
+        {
+          "headline": "调查：数据中心本地反对率一年飙至 75%",
+          "summary": "调查显示民众对附近建设数据中心的反对率从 42% 升至 75%，AI 基建扩张面临更强烈社会阻力。",
+          "primary_url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
+          "items": [
+            "4ec67973022c37d2"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/opinion-04.jpg"
+        },
+        {
+          "headline": "InfoQ 观点：Anthropic 不再是 AI 圈信仰",
+          "summary": "文章探讨 Anthropic 光环消退的原因，以及 AI 圈信仰正在发生的转移。",
+          "primary_url": "https://www.infoq.cn/article/hfJrKqqoww06UYcygUrJ",
+          "items": [
+            "d9f3f5587b39c9ec"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/opinion-05.jpg"
+        },
+        {
+          "headline": "Vercel Zero 引争议：AI 时代需要新语言？",
+          "summary": "Vercel Zero 的发布引发讨论：AI 时代还需要一门专门的新编程语言吗？",
+          "primary_url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP",
+          "items": [
+            "39aabb8e80f1fe52"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/opinion-06.jpg"
+        },
+        {
+          "headline": "AI 时代人才断层：下一代高级工程师从哪来？",
+          "summary": "文章指出初级岗位消失、高级人才断层，AI 正在重塑工程师培养路径。",
+          "primary_url": "https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl",
+          "items": [
+            "b1a0ba3764a3ad5a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Apache Maka 孵化：本地优先 AI Agent 工作区",
+          "summary": "Apache Maka 以 append-only 日志记录 agent 的模型消息、工具调用与权限决策，打造本地优先、可审计的 AI agent 工作区。",
+          "primary_url": "https://github.com/apache/maka",
+          "items": [
+            "087f1272a82dfec6"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/opensource-00.jpg"
+        },
+        {
+          "headline": "腾讯开源 AI-Infra-Guard，全栈红队测评",
+          "summary": "腾讯开源 AI-Infra-Guard，覆盖 Agent、Skills、MCP、AI 基础设施扫描与 LLM 越狱评估。",
+          "primary_url": "https://github.com/Tencent/AI-Infra-Guard",
+          "items": [
+            "7fa0e8d14597a468"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/opensource-01.jpg"
+        },
+        {
+          "headline": "火山引擎开源 OpenViking，统一 Agent 记忆与 RAG",
+          "summary": "OpenViking 是自进化上下文数据库，将 Agent 记忆、知识 RAG 与 Skills 统一起来。",
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "items": [
+            "54ddae5fda38f3b3"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-08-23/opensource-02.jpg"
+        },
+        {
+          "headline": "llm 0.33 发布，升级 OpenAI 库 3.x 支持",
+          "summary": "Simon Willison 的 llm CLI 发布 0.33，升级 OpenAI Python 库 3.x 并重构 HTTP 客户端；0.32.1 修复安装问题，llm-openrouter 0.7 完成适配。",
+          "primary_url": "https://github.com/simonw/llm/releases/tag/0.33",
+          "items": [
+            "684da9dc56122507",
+            "1027094024dff16d",
+            "0fe3af75562df3ce"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/opensource-03.jpg"
+        },
+        {
+          "headline": "Superpowers 开源：一套可用的 Agent 技能方法论",
+          "summary": "obra/superpowers 提供基于可组合技能的 coding agent 方法论与框架，帮助提升 agent 开发效率。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/opensource-04.jpg"
+        },
+        {
+          "headline": "MoneyPrinterTurbo：一键生成 AI 短视频",
+          "summary": "MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。",
+          "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "items": [
+            "88d3056299e36e7f"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/opensource-05.jpg"
+        },
+        {
+          "headline": "vLLM 高吞吐推理引擎持续霸榜",
+          "summary": "vLLM 是高吞吐、内存高效的 LLM 推理与服务引擎，是开源社区最活跃项目之一。",
+          "primary_url": "https://github.com/vllm-project/vllm",
+          "items": [
+            "01e7a310e8df3c23"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-08-23/opensource-06.jpg"
+        },
+        {
+          "headline": "ruflo 开源：Agent 元框架与多智能体 swarm",
+          "summary": "ruflo 是 agent meta-harness，支持多智能体 swarms、自适应记忆、自学习智能与 RAG 集成。",
+          "primary_url": "https://github.com/ruvnet/ruflo",
+          "items": [
+            "528ceb67be454e88"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-08-23/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-08-23"
+}
