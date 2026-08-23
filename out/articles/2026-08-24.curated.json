@@ -1,0 +1,420 @@
+{
+  "date": "2026-08-24",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "神秘模型Ox Alpha引热议，被扒出与智谱有关联",
+          "summary": "一个名为Ox Alpha的AI模型突然引发社区狂热猜测，有开发者通过Tokenizer、API报错等特征推测其来自智谱，也有人怀疑Cursor用开源GLM训练。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "items": [
+            "57d1c885fe85aadd",
+            "bf71fae4e699334b"
+          ],
+          "cover_path": "out/media/2026-08-24/model_release-00.jpg"
+        },
+        {
+          "headline": "Inherent发布AI科研代理Faraday，称超越Anthropic和OpenAI",
+          "summary": "由DeepMind校友创办的英国实验室Inherent推出Faraday，声称其在复现科学论文方面超越Anthropic和OpenAI，可能是科研自动化的新台阶。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "items": [
+            "3fb363b089736616"
+          ],
+          "cover_path": "out/media/2026-08-24/model_release-01.jpg"
+        },
+        {
+          "headline": "Qwen 3.8 27B花30分钟搞定逆向工程，逼近前沿模型",
+          "summary": "一位开发者用Qwen 3.8 27B模型执行逆向工程任务，仅用30分钟完成，认为其性能接近更昂贵的前沿模型。",
+          "importance": 5,
+          "primary_url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+          "items": [
+            "dc2c1494f886b674"
+          ],
+          "cover_path": "out/media/2026-08-24/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "内存短缺致英伟达AI服务器涨价15%，数据中心成本激增",
+          "summary": "报道称内存供不应求推动Nvidia AI服务器价格上涨约15%，1GW数据中心成本将增加50亿美元。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/",
+          "items": [
+            "ce489940193a88fd",
+            "a350289b4bfac025"
+          ],
+          "cover_path": "out/media/2026-08-24/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic最强模型叫好不叫座，用户涌向低价AI工具",
+          "summary": "英国金融时报报道称，Anthropic性能最强的AI模型用户增长乏力，更便宜的工具正在分流用户。",
+          "importance": 7,
+          "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "items": [
+            "97bcf33f98f303b6"
+          ]
+        },
+        {
+          "headline": "中国灰市低价倒卖Claude Token，暗藏数据风险",
+          "summary": "调查发现，中国灰色市场通过代理服务器以折扣价转售Claude token，并可能借此收集用户使用数据。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
+          "items": [
+            "b3912f80658524fd"
+          ],
+          "cover_path": "out/media/2026-08-24/company-02.jpg"
+        },
+        {
+          "headline": "Flock Safety CEO呼吁'妥协'，平息监控技术担忧",
+          "summary": "面对公众对于监控技术可能被滥用的强烈反对，Flock CEO发表声明寻求折中方案。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+          "items": [
+            "f1816bc51f9653be"
+          ],
+          "cover_path": "out/media/2026-08-24/company-03.jpg"
+        },
+        {
+          "headline": "香港大学教授集体投身具身智能创业",
+          "summary": "香港多所高校涌现一批教授创办的具身智能公司，正在形成独特的创业生态。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/08/478289.html",
+          "items": [
+            "efec6862ca45d050"
+          ],
+          "cover_path": "out/media/2026-08-24/company-04.jpg"
+        },
+        {
+          "headline": "曾投王兴兴200万的投资人，如今执掌下一家'宇树'",
+          "summary": "早期投资人向王兴兴提供第一笔200万元资金，现在他出任另一家具身智能公司董事长，扶持新一代创业者。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/08/478234.html",
+          "items": [
+            "c87cdb10db132054"
+          ],
+          "cover_path": "out/media/2026-08-24/company-05.jpg"
+        },
+        {
+          "headline": "青年团队押注双足人形机器人一体化大脑，自主开卡丁车",
+          "summary": "几个在读博士创业，专注双足人形机器人一体化大脑，并展示全自主连续过弯驾驶卡丁车。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/08/478020.html",
+          "items": [
+            "35006663615b5d66"
+          ],
+          "cover_path": "out/media/2026-08-24/company-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "研究：前沿AI实验室缺乏失控模型遏制预案",
+          "summary": "新研究发现，主要AI实验室几乎未公开任何控制失控模型的具体计划，引发对AI安全准备度的质疑。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "items": [
+            "b03f332c9fdf97b0"
+          ],
+          "cover_path": "out/media/2026-08-24/research-00.jpg"
+        },
+        {
+          "headline": "研究警告：AI让科学家产出更多但质量下降",
+          "summary": "一项研究认为，AI可能增加科学家的产出数量，但会降低研究质量，而非像预期的那样减轻负担。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
+          "items": [
+            "0e0ea944e3331d73"
+          ],
+          "cover_path": "out/media/2026-08-24/research-01.jpg"
+        },
+        {
+          "headline": "新研究解析AI智能体'Skills'为什么有效、何时失效",
+          "summary": "一项针对AI智能体的研究解释了技能（skills）带来提升的原因，也指出了技能失效的边界条件。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+          "items": [
+            "a3a214368c2b891c"
+          ],
+          "cover_path": "out/media/2026-08-24/research-02.jpg"
+        },
+        {
+          "headline": "NanoGPT Speedrun挑战：把GPT训练速度推到极限",
+          "summary": "Prime Intellect发布NanoGPT Speedrun Frontier，探索在有限算力下更快训练中等规模GPT模型的方法。",
+          "importance": 5,
+          "primary_url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "items": [
+            "ad31bc8c8ceca5ee"
+          ],
+          "cover_path": "out/media/2026-08-24/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "全球首次机器人对战网球运动员，极限救球惊艳全场",
+          "summary": "银河通用机器人展示AstraTennis时刻，完成极限救球和快速起身，突破具身智能实时运动控制。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/08/478093.html",
+          "items": [
+            "6e653a34f2a89c48",
+            "12dfe213aa8cf875"
+          ],
+          "cover_path": "out/media/2026-08-24/product-00.jpg"
+        },
+        {
+          "headline": "联影与天大发布全球首个磁共振脑机接口全栈方案",
+          "summary": "uMR神观打通成像、仿真、调控、评估和算法迭代闭环，推动磁共振成为脑机交互中枢。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3951647265406343?f=rss",
+          "items": [
+            "62d931368dfa7648"
+          ]
+        },
+        {
+          "headline": "DynamoDB原生支持AI搜索，向量数据库要被取代？",
+          "summary": "亚马逊云科技让DynamoDB开始原生支持AI搜索，或对独立向量数据库构成威胁。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+          "items": [
+            "def17055a6ddbd7b"
+          ],
+          "cover_path": "out/media/2026-08-24/product-02.jpg"
+        },
+        {
+          "headline": "Anthropic被发现在A/B测试降低Claude Code'努力程度'",
+          "summary": "用户发现Anthropic可能正在测试减少Claude Code的effort参数，引发对输出质量影响的讨论。",
+          "importance": 5,
+          "primary_url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "items": [
+            "8d964ef285c8f6b9"
+          ],
+          "cover_path": "out/media/2026-08-24/product-03.jpg"
+        },
+        {
+          "headline": "AI老板解雇了第一名员工，但需人类提醒规则",
+          "summary": "一个人工智能经理在人类提醒其遵守自身规则后，解雇了一名员工，引发关于AI管理权限的讨论。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+          "items": [
+            "6becb1abba2572eb"
+          ],
+          "cover_path": "out/media/2026-08-24/product-04.jpg"
+        },
+        {
+          "headline": "Linkdaze智能日历主打管家，AI餐食规划不设付费墙",
+          "summary": "Linkdaze智能日历面向家庭场景，提供AI餐食规划等工具，且不设付费墙。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "items": [
+            "7f7cb0bdaf76f91a"
+          ],
+          "cover_path": "out/media/2026-08-24/product-05.jpg"
+        },
+        {
+          "headline": "启元Q1/T1开启预订，个人机器人进入家庭消费时代",
+          "summary": "上纬新材旗下启元机器人正式开放两款产品预订，预计9月发货，主打家庭个人机器人场景。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/robot/0EXwdtr2oaxj5hv0.html",
+          "items": [
+            "75b8e61479245105",
+            "db0ebc66e2348f28"
+          ]
+        },
+        {
+          "headline": "天工队38.15秒夺人形机器人运动会首金",
+          "summary": "第二届世界人形机器人运动会400米比赛，天工队以38.15秒夺冠。",
+          "importance": 4,
+          "primary_url": "https://36kr.com/newsflashes/3951859548896647?f=rss",
+          "items": [
+            "b8469cc152bfd009"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI态度反转，呼吁加州加强AI安全法",
+          "summary": "OpenAI此前反对加州SB 53法案，如今公开支持并建议加强，标志其在AI监管立场上的转变。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "items": [
+            "6438b0aee8f7e917"
+          ],
+          "cover_path": "out/media/2026-08-24/opinion-00.jpg"
+        },
+        {
+          "headline": "AI拿版权图书训练合法吗？法律灰色地带待解",
+          "summary": "大多数作者在不知情下成为AI训练语料，文章梳理了相关法律争议与复杂性。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+          "items": [
+            "e26111a6ab601c8e"
+          ],
+          "cover_path": "out/media/2026-08-24/opinion-01.jpg"
+        },
+        {
+          "headline": "Linus Torvalds盛赞AI：地狱级调试救星",
+          "summary": "Linus在Linux内核提交信息中表示，AI帮助他完成了大量调试苦力活，堪称不知疲倦的助手。",
+          "importance": 6,
+          "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "items": [
+            "ebe64e017cd3a8d7"
+          ],
+          "cover_path": "out/media/2026-08-24/opinion-02.jpg"
+        },
+        {
+          "headline": "OpenRouter数据：AI智能体已成为AI最大客户",
+          "summary": "OpenRouter数据显示，AI代理的token消耗量跃升14倍，正在成为AI API的主要消费来源。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
+          "items": [
+            "56aea0ad36b52a35"
+          ],
+          "cover_path": "out/media/2026-08-24/opinion-03.jpg"
+        },
+        {
+          "headline": "中信证券：科技股调整核心是AI远期定价争议",
+          "summary": "中信证券认为，科技股调整并非只受美债利率影响，关键在AI商业化速率、算力优势和模型差距等叙事变量。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3951906148072579?f=rss",
+          "items": [
+            "3671517a02ee5ad7"
+          ]
+        },
+        {
+          "headline": "为什么你的本地LLM显得比实际更笨？",
+          "summary": "文章解释了本地LLM表现不佳的常见原因，认为问题往往出在配置和调用方式而非模型本身。",
+          "importance": 5,
+          "primary_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "items": [
+            "8944af4ee3e3510d"
+          ],
+          "cover_path": "out/media/2026-08-24/opinion-05.jpg"
+        },
+        {
+          "headline": "Simon Willison：用编程智能体关键是'自信地下指令与验证'",
+          "summary": "Simon Willison撰文探讨有效使用编程agent的核心技能：清楚指示变更并准确验证结果。",
+          "importance": 5,
+          "primary_url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+          "items": [
+            "3f532fbc5466722a"
+          ]
+        },
+        {
+          "headline": "WRC风向标：具身智能下半场，比大脑更比账本",
+          "summary": "观点认为，具身智能竞争已从技术演示转向商业化落地，成本和盈利能力成为关键。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/ai/rUNBvF7Iq6C3UtyR.html",
+          "items": [
+            "b549ab488e0ad1b1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenAI开源Codex CLI，终端编程智能体本地跑",
+          "summary": "OpenAI开源轻量级编码智能体Codex CLI，可在本地终端中运行，提升编程自动化。",
+          "importance": 6,
+          "primary_url": "https://github.com/openai/codex",
+          "items": [
+            "394a2c1a8b5b5005"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-00.jpg"
+        },
+        {
+          "headline": "亚马逊开源Dogwood，给AI智能体工具调用立规矩",
+          "summary": "亚马逊云科技发布开源项目Dogwood，用于规范AI智能体的工具调用行为。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+          "items": [
+            "c83443daf0631f02"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-01.jpg"
+        },
+        {
+          "headline": "MCP协议公布新路线图，剑指智能体互联标准",
+          "summary": "Model Context Protocol官方发布路线图，规划了后续能力与生态建设方向。",
+          "importance": 6,
+          "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+          "items": [
+            "cd6e0d2bfa7a62b3"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-02.jpg"
+        },
+        {
+          "headline": "npm默认封杀postinstall脚本，开源供应链安全生变",
+          "summary": "npm宣布默认拒绝执行postinstall脚本，以减少开源供应链攻击面。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C",
+          "items": [
+            "d1946c9137fe840b"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-03.jpg"
+        },
+        {
+          "headline": "GitHub Trending被'Agent Skills'项目霸榜",
+          "summary": "多个Agent Skills框架和集合（如Superpowers、mattpocock/skills等）集中登上GitHub Trending，反映智能体技能工作流升温。",
+          "importance": 5,
+          "primary_url": "https://github.com/mattpocock/skills",
+          "items": [
+            "d1e41cb9775d0583",
+            "93908f3f02cc79af",
+            "affaan-m/ECC"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-04.jpg"
+        },
+        {
+          "headline": "腾讯开源AI红队平台AI-Infra-Guard，全栈防护",
+          "summary": "腾讯开源AI红队平台，涵盖Agent扫描、MCP扫描和LLM越狱评估等能力。",
+          "importance": 5,
+          "primary_url": "https://github.com/Tencent/AI-Infra-Guard",
+          "items": [
+            "7fa0e8d14597a468"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-05.jpg"
+        },
+        {
+          "headline": "命令行AI工具llm 0.33发布，适配OpenAI新库",
+          "summary": "Simon Willison的llm工具发布0.33版本，升级至OpenAI Python库3.x并切换HTTP客户端。",
+          "importance": 4,
+          "primary_url": "https://github.com/simonw/llm/releases/tag/0.33",
+          "items": [
+            "684da9dc56122507"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-06.jpg"
+        },
+        {
+          "headline": "Sub2API开源打通Claude/OpenAI订阅，支持拼车",
+          "summary": "开源中转服务Sub2API让Claude、OpenAI、Gemini和Grok订阅统一接入API，支持拼车降低成本。",
+          "importance": 4,
+          "primary_url": "https://github.com/Wei-Shaw/sub2api",
+          "items": [
+            "df9ab0a14c5626cd"
+          ],
+          "cover_path": "out/media/2026-08-24/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
