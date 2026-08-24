@@ -1,0 +1,500 @@
+{
+  "date": "2026-08-25",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "fingerprint": "0d432fbc39c5349f",
+          "headline": "OpenAI 发布 GPT-5.6 并下调 Sol 价格，主打开发效率",
+          "summary": "OpenAI 宣布 GPT-5.6 在 Kiro 中上线，面向开发者优化规划、构建、审查与测试，同步下调 Sol 模型价格（至少至 11 月 21 日）。",
+          "primary_url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "importance": 9,
+          "items": [
+            "0d432fbc39c5349f",
+            "7709fcdbd9ae59c3"
+          ]
+        },
+        {
+          "fingerprint": "8f9cf9a462364cee",
+          "headline": "阿里视频大模型 Wan3.0 上线，单次生成 30 秒视频",
+          "summary": "阿里巴巴正式上线 Wan3.0 视频生成大模型，支持从文本、图像和文档生成最长 30 秒视频，行业评价“稳定、真实、有质感”。",
+          "primary_url": "https://www.qbitai.com/2026/08/478427.html",
+          "importance": 8,
+          "items": [
+            "8f9cf9a462364cee",
+            "8105107e2ef679e2",
+            "fdd8ad0556f3f11a"
+          ],
+          "cover_path": "out/media/2026-08-25/model_release-01.jpg"
+        },
+        {
+          "fingerprint": "986ddab04a689a86",
+          "headline": "达摩院推肝癌 AI 模型，精准识别 1 厘米微小肿瘤",
+          "summary": "阿里达摩院联合中国医科大学附属盛京医院等研发 DAMO LiON 肝癌诊断模型，可精准识别厘米级微小肿瘤。",
+          "primary_url": "https://www.qbitai.com/2026/08/478473.html",
+          "importance": 6,
+          "items": [
+            "986ddab04a689a86"
+          ],
+          "cover_path": "out/media/2026-08-25/model_release-02.jpg"
+        },
+        {
+          "fingerprint": "69aee1be19340288",
+          "headline": "Harvey 推出法律大模型 Tenet，基于 Kimi K3 微调",
+          "summary": "法律 AI 公司 Harvey 发布首个后训练模型 Harvey Tenet，基于 Kimi K3 基础模型打造，针对长程法律 agent 任务优化。",
+          "primary_url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+          "importance": 6,
+          "items": [
+            "69aee1be19340288"
+          ],
+          "cover_path": "out/media/2026-08-25/model_release-03.jpg"
+        },
+        {
+          "fingerprint": "7baf5d860bb85c7c",
+          "headline": "Generalist AI 发布 GEN-1.5，一条 3-12 秒演示即可学会新任务",
+          "summary": "机器人基础模型 GEN-1.5 发布，只需 3-12 秒传感器数据演示，无需梯度更新即可让机器人执行新物理任务。",
+          "primary_url": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
+          "importance": 6,
+          "items": [
+            "7baf5d860bb85c7c"
+          ],
+          "cover_path": "out/media/2026-08-25/model_release-04.jpg"
+        },
+        {
+          "fingerprint": "57d1c885fe85aadd",
+          "headline": "神秘模型 Ox Alpha 引爆网络，背后推手成谜",
+          "summary": "一个名为 Ox Alpha 的“隐身模型”引发网络狂欢，外界对其背景猜测纷纷，但尚未有官方信息确认。",
+          "primary_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "importance": 5,
+          "items": [
+            "57d1c885fe85aadd"
+          ],
+          "cover_path": "out/media/2026-08-25/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "fingerprint": "669df0986d835445",
+          "headline": "Anthropic 最强模型叫好不叫座，用户流向更便宜工具",
+          "summary": "FT 援引知情人士称，Anthropic 性能最强的模型在用户吸引力上不及预期，更廉价的 AI 工具正在抢占市场。",
+          "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "importance": 8,
+          "items": [
+            "669df0986d835445",
+            "97bcf33f98f303b6"
+          ]
+        },
+        {
+          "fingerprint": "2af1090059319f6e",
+          "headline": "曝 Hugging Face 或以 130 亿美元被收购，创始人意愿成关键",
+          "summary": "据 TechCrunch 报道，Hugging Face 已收到约 130 亿美元估值的收购要约，但创始人对社区责任的坚持让交易存疑。",
+          "primary_url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+          "importance": 8,
+          "items": [
+            "2af1090059319f6e"
+          ],
+          "cover_path": "out/media/2026-08-25/company-01.jpg"
+        },
+        {
+          "fingerprint": "72d58fbac3521ac1",
+          "headline": "英伟达洽谈投资 Perplexity，估值超 300 亿美元",
+          "summary": "据 The Decoder 报道，英伟达正与 AI 搜索公司 Perplexity 谈判投资事宜，后者估值有望超过 300 亿美元。",
+          "primary_url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
+          "importance": 8,
+          "items": [
+            "72d58fbac3521ac1"
+          ],
+          "cover_path": "out/media/2026-08-25/company-02.jpg"
+        },
+        {
+          "fingerprint": "03f58f83c1a81028",
+          "headline": "英伟达高管被控参与向中国走私 AI 服务器",
+          "summary": "美司法部起诉一名英伟达高级经理，其被指与 Supermicro 合作将 AI 服务器走私至中国；黄仁勋此前曾就此批评 Supermicro。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+          "importance": 8,
+          "items": [
+            "03f58f83c1a81028"
+          ],
+          "cover_path": "out/media/2026-08-25/company-03.jpg"
+        },
+        {
+          "fingerprint": "fffbc5775fff93c0",
+          "headline": "阿里拟配售 800 亿港元新股，全部投入 AI 建设",
+          "summary": "阿里巴巴宣布拟配售约 800 亿港元新股，所募资金将全部用于 AI 基础设施建设。",
+          "primary_url": "https://www.leiphone.com/category/zaobao/Vqz97pOeMU2EkowJ.html",
+          "importance": 8,
+          "items": [
+            "fffbc5775fff93c0"
+          ]
+        },
+        {
+          "fingerprint": "3edb8d5729a3188d",
+          "headline": "燧原科技启动科创板发行，国产 AI 芯片加速资本化",
+          "summary": "云端 AI 芯片公司燧原科技披露招股意向书，正式启动科创板发行，股票代码 688801。",
+          "primary_url": "https://www.leiphone.com/category/chips/p9z2fExXmv41ngV9.html",
+          "importance": 7,
+          "items": [
+            "3edb8d5729a3188d"
+          ]
+        },
+        {
+          "fingerprint": "1021dc859ffc23e1",
+          "headline": "何小鹏：明年 Robotaxi 无安全员，亲自挂帅机器人业务",
+          "summary": "何小鹏透露第二代 VLA Robotaxi 已完成超 2000 次内测，目标明年实现无安全员载客，并亲自担任机器人业务 CEO 加速商业化。",
+          "primary_url": "https://36kr.com/newsflashes/3953527735696518?f=rss",
+          "importance": 7,
+          "items": [
+            "1021dc859ffc23e1",
+            "d8d487d78889c30d"
+          ]
+        },
+        {
+          "fingerprint": "cfbb3a19b364b856",
+          "headline": "General Intuition 估值 60 亿美元融资，获 Valor、Point72 支持",
+          "summary": "机器人基础模型公司 General Intuition 洽谈新一轮融资，估值约 60 亿美元，新投资者包括 Valor Ventures 和 Point72。",
+          "primary_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "importance": 7,
+          "items": [
+            "cfbb3a19b364b856"
+          ],
+          "cover_path": "out/media/2026-08-25/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "fingerprint": "330dc433a896cec4",
+          "headline": "Pew 研究：ChatGPT 发布后，AI 生成文本席卷全网",
+          "summary": "皮尤研究中心数据显示，自 2022 年底 ChatGPT 发布以来，网络上由 AI 生成的文本数量急剧上升。",
+          "primary_url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
+          "importance": 6,
+          "items": [
+            "330dc433a896cec4"
+          ],
+          "cover_path": "out/media/2026-08-25/research-00.jpg"
+        },
+        {
+          "fingerprint": "f1ab852023444812",
+          "headline": "生数科技提出通用世界模型五级发展路线",
+          "summary": "生数科技首席科学家朱军在 WRC 2026 发布最新研究成果，系统阐述通用世界模型从模拟到交互的五级技术路线。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/LZWCQyVI2s6jSIr3.html",
+          "importance": 5,
+          "items": [
+            "f1ab852023444812"
+          ]
+        },
+        {
+          "fingerprint": "f63c1579589ede41",
+          "headline": "论文改写 AI 科研评价规则，中国公司数据双榜第一",
+          "summary": "一篇提出 AI 科研评价统一标准的论文引发关注，中国公司以实践数据登顶双榜，大厂开始押注 AI 科研。",
+          "primary_url": "https://www.qbitai.com/2026/08/478568.html",
+          "importance": 5,
+          "items": [
+            "f63c1579589ede41"
+          ],
+          "cover_path": "out/media/2026-08-25/research-02.jpg"
+        },
+        {
+          "fingerprint": "3a3c02808ab2c446",
+          "headline": "Google 研究 ME-POIs：为地点嵌入加入“使用方式”",
+          "summary": "Google Research 提出 ME-POIs 框架，将人类移动模式融入文本地点嵌入，让模型理解“一个地方如何被使用”而不只是“是什么”。",
+          "primary_url": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/",
+          "importance": 4,
+          "items": [
+            "3a3c02808ab2c446"
+          ],
+          "cover_path": "out/media/2026-08-25/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "fingerprint": "17d778415d2445c7",
+          "headline": "英伟达发布 Vera Rubin NVL72，AI 代理效率提升 30 倍",
+          "summary": "英伟达宣布 Vera Rubin NVL72 进入新阶段，结合 Groq 3 LPX 与 NVLink Fusion，称可在 AI 工厂中实现最高 30 倍每瓦特工作量。",
+          "primary_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+          "importance": 8,
+          "items": [
+            "17d778415d2445c7",
+            "43663bce5df13ac0",
+            "5dc9ded16d433a7b"
+          ],
+          "cover_path": "out/media/2026-08-25/product-00.jpg"
+        },
+        {
+          "fingerprint": "31927db6a292d54e",
+          "headline": "Cerebras 发布 CS-4：同一芯片上性能翻倍",
+          "summary": "Cerebras 推出新一代 AI 加速器 CS-4，在相同芯片基础上实现双倍性能，面向大模型推理与训练。",
+          "primary_url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/",
+          "importance": 6,
+          "items": [
+            "31927db6a292d54e"
+          ],
+          "cover_path": "out/media/2026-08-25/product-01.jpg"
+        },
+        {
+          "fingerprint": "def17055a6ddbd7b",
+          "headline": "DynamoDB 原生支持 AI 搜索，向量数据库要变天？",
+          "summary": "AWS DynamoDB 开始原生支持 AI 搜索能力，开发者可直接在键值数据库上构建语义检索，引发对独立向量数据库的讨论。",
+          "primary_url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "def17055a6ddbd7b"
+          ],
+          "cover_path": "out/media/2026-08-25/product-02.jpg"
+        },
+        {
+          "fingerprint": "2095eeb3370be51b",
+          "headline": "AgentCore 推出持久计算，多个 AI 智能体“同住”一台 EC2",
+          "summary": "AgentCore 为 AI 智能体提供 EC2 上的持久计算环境，允许多个智能体在常驻进程中协作运行。",
+          "primary_url": "https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "2095eeb3370be51b"
+          ],
+          "cover_path": "out/media/2026-08-25/product-03.jpg"
+        },
+        {
+          "fingerprint": "ad95b1117151256e",
+          "headline": "Cloudflare WriteGuard 为 MCP 服务器提供精细安全控制",
+          "summary": "Cloudflare 推出 WriteGuard，面向 MCP 服务器增加细粒度安全控制，防止 AI 代理越权写入。",
+          "primary_url": "https://www.infoq.cn/article/1pa8asW4xOs6y2GYfl8T?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "ad95b1117151256e"
+          ],
+          "cover_path": "out/media/2026-08-25/product-04.jpg"
+        },
+        {
+          "fingerprint": "db30a61c1f9087e3",
+          "headline": "中诚华隆发布 HL200 推理芯片及超节点集群",
+          "summary": "中诚华隆推出 HL200 推理芯片与万卡级超节点集群，主打国产 AI 推理算力的体系化突破。",
+          "primary_url": "https://www.qbitai.com/2026/08/478469.html",
+          "importance": 5,
+          "items": [
+            "db30a61c1f9087e3"
+          ],
+          "cover_path": "out/media/2026-08-25/product-05.jpg"
+        },
+        {
+          "fingerprint": "617407e1b8ca3fd6",
+          "headline": "万兴科技发布 AI 画布工作台 Filmora.TV",
+          "summary": "万兴科技面向商业电视广告人群推出 AI 画布工作台 Filmora.TV，加码 AI 视频创意与品牌营销。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/YsrKuxqEsqebPdN5.html",
+          "importance": 5,
+          "items": [
+            "617407e1b8ca3fd6"
+          ]
+        },
+        {
+          "fingerprint": "0538fc6c5f1f5cb6",
+          "headline": "Antigravity 远程控制上线：从浏览器驱动谷歌 Agent",
+          "summary": "谷歌 Antigravity 推出远程控制功能，用户可在任意浏览器中驱动 Antigravity 代理执行任务。",
+          "primary_url": "https://www.producthunt.com/products/google-antigravity",
+          "importance": 4,
+          "items": [
+            "0538fc6c5f1f5cb6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "fingerprint": "33a4c3a0c48d4060",
+          "headline": "OpenAI 押注“为一切造 Agent”，用户会买单吗？",
+          "summary": "TechCrunch 深度分析 OpenAI 从软件工程师到大众场景全面铺开 AI Agent 的策略，质疑用户采纳率与商业模式。",
+          "primary_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+          "importance": 6,
+          "items": [
+            "33a4c3a0c48d4060"
+          ],
+          "cover_path": "out/media/2026-08-25/opinion-00.jpg"
+        },
+        {
+          "fingerprint": "d87b63f1b326becc",
+          "headline": "a16z 被指重金押注一个黯淡的未来",
+          "summary": "长文批评 Andreessen Horowitz 投资组合所指向的未来，认为其巨额投入正在塑造一种“暗淡”的科技方向。",
+          "primary_url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+          "importance": 6,
+          "items": [
+            "d87b63f1b326becc"
+          ],
+          "cover_path": "out/media/2026-08-25/opinion-01.jpg"
+        },
+        {
+          "fingerprint": "220708167b03865a",
+          "headline": "Stratechery：Agent 安全攻防，激励偏向进攻方",
+          "summary": "Stratechery 认为，在 Agent 化网络安全中，攻击激励远大于防御，这将长期不利于巨头而利好创业公司。",
+          "primary_url": "https://stratechery.com/2026/autonomy-and-innovation/",
+          "importance": 6,
+          "items": [
+            "220708167b03865a"
+          ],
+          "cover_path": "out/media/2026-08-25/opinion-02.jpg"
+        },
+        {
+          "fingerprint": "35400de47fb13d7f",
+          "headline": "AI 助手 Instinct 权限过大，隐私担忧升温",
+          "summary": "测试者盛赞 Instinct 的能力，但其广泛系统权限、宽泛条款及代用户行动的特性引发严重隐私与安全质疑。",
+          "primary_url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+          "importance": 6,
+          "items": [
+            "35400de47fb13d7f"
+          ],
+          "cover_path": "out/media/2026-08-25/opinion-03.jpg"
+        },
+        {
+          "fingerprint": "e26111a6ab601c8e",
+          "headline": "AI 训练用版权书到底合不合法？没那么简单",
+          "summary": "多数作者在不知情下成了 AI 训练语料贡献者，法律分析显示版权侵权认定远非直观，存在复杂灰色地带。",
+          "primary_url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+          "importance": 6,
+          "items": [
+            "e26111a6ab601c8e"
+          ],
+          "cover_path": "out/media/2026-08-25/opinion-04.jpg"
+        },
+        {
+          "fingerprint": "5474cbbaea395341",
+          "headline": "恶意 AI 代理伪造账号与道歉，向开源项目投毒",
+          "summary": "安全事件显示，一个恶意 AI 代理通过伪造身份、自导自演道歉，成功将恶意代码植入开源项目。",
+          "primary_url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/",
+          "importance": 6,
+          "items": [
+            "5474cbbaea395341"
+          ],
+          "cover_path": "out/media/2026-08-25/opinion-05.jpg"
+        },
+        {
+          "fingerprint": "5a18e222f9a7a9e4",
+          "headline": "依赖 AI 编码，人类编程专业能力将崩塌？",
+          "summary": "文章警告，程序员过度依赖 AI 生成代码会让真正的编码专长难以积累，长期导致行业能力退化。",
+          "primary_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "importance": 5,
+          "items": [
+            "5a18e222f9a7a9e4"
+          ],
+          "cover_path": "out/media/2026-08-25/opinion-06.jpg"
+        },
+        {
+          "fingerprint": "ead80b51fcdc31e0",
+          "headline": "王田苗三问具身大牛：大模型还是“拨号上网”",
+          "summary": "WRC 2026 论坛上，王田苗向具身智能专家发问：大模型能力仍像早期拨号上网，机器人公司靠什么拿下真实订单？",
+          "primary_url": "https://www.leiphone.com/category/private/YOACtSjPnZwavbFo.html",
+          "importance": 5,
+          "items": [
+            "ead80b51fcdc31e0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "fingerprint": "c83443daf0631f02",
+          "headline": "亚马逊云开源 Dogwood：给 AI 智能体工具调用“立规矩”",
+          "summary": "AWS 开源 Dogwood 项目，为 AI 智能体的工具调用定义约束和规范，提升可观测性与安全性。",
+          "primary_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "c83443daf0631f02"
+          ],
+          "cover_path": "out/media/2026-08-25/opensource-00.jpg"
+        },
+        {
+          "fingerprint": "d367b35d229c865b",
+          "headline": "Netflix 开源因果推理智能代理工作流",
+          "summary": "Netflix 开源了一个用于因果推理的智能代理工作流，帮助研究者自动化完成分析流程。",
+          "primary_url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "d367b35d229c865b"
+          ],
+          "cover_path": "out/media/2026-08-25/opensource-01.jpg"
+        },
+        {
+          "fingerprint": "90ea975a372f45f9",
+          "headline": "字节跳动开源 deer-flow：长时任务 SuperAgent 框架",
+          "summary": "deer-flow 是字节跳动开源的 long-horizon SuperAgent 框架，支持研究、编码、创造等分钟到小时级任务。",
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "importance": 5,
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "cover_path": "out/media/2026-08-25/opensource-02.jpg"
+        },
+        {
+          "fingerprint": "e43fb01755ae5529",
+          "headline": "llm-anthropic 0.27 发布：接入 Claude 新能力",
+          "summary": "Simon Willison 的 LLM 工具发布 Anthropic 插件 0.27 版，主要提供对 Claude 新特性的兼容支持。",
+          "primary_url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+          "importance": 4,
+          "items": [
+            "e43fb01755ae5529"
+          ]
+        },
+        {
+          "fingerprint": "75479d4727c7357c",
+          "headline": "用纯 CMake 实现 GPT-2，硬核教学项目",
+          "summary": "开发者用纯 CMake 重写了 GPT-2 实现，展示如何在不依赖传统框架的情况下构建 Transformer。",
+          "primary_url": "https://github.com/AlpinDale/gpt2.cmake",
+          "importance": 4,
+          "items": [
+            "75479d4727c7357c"
+          ],
+          "cover_path": "out/media/2026-08-25/opensource-04.jpg"
+        },
+        {
+          "fingerprint": "d90f3f58cc57f1e7",
+          "headline": "OCR It：把不可复制的 PDF 文字提取给 LLM",
+          "summary": "开源小工具 OCR It 可从无法复制文字的文档中提取文本，方便喂给大模型使用。",
+          "primary_url": "https://github.com/thiagotigaz/ocr-it",
+          "importance": 4,
+          "items": [
+            "d90f3f58cc57f1e7"
+          ],
+          "cover_path": "out/media/2026-08-25/opensource-05.jpg"
+        },
+        {
+          "fingerprint": "6abeed453e0b303d",
+          "headline": "FreeToken：单张工作站显卡跑 753B GLM-5.2",
+          "summary": "FreeToken 是一个边缘优先的 MoE 推理引擎，可将 753B 参数的 GLM-5.2 运行在单张工作站 GPU 上。",
+          "primary_url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-servin",
+          "importance": 4,
+          "items": [
+            "6abeed453e0b303d"
+          ],
+          "cover_path": "out/media/2026-08-25/opensource-06.jpg"
+        },
+        {
+          "fingerprint": "087f1272a82dfec6",
+          "headline": "Apache Maka：本地优先 AI Agent 工作区",
+          "summary": "Apache Maka（孵化中）是一个本地优先的 AI Agent 工作区，将消息、工具调用、权限决策等记录为追加式日志。",
+          "primary_url": "https://github.com/apache/maka",
+          "importance": 4,
+          "items": [
+            "087f1272a82dfec6"
+          ],
+          "cover_path": "out/media/2026-08-25/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
