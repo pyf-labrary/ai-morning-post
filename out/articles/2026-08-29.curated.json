@@ -1,0 +1,455 @@
+{
+  "date": "2026-08-29",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini Omni 1.1 Flash 发布：视频生成更灵活便宜",
+          "summary": "Google DeepMind 推出 Gemini Omni 1.1 Flash，提供更强的控制能力，让 AI 视频生成成本更低、更灵活。",
+          "primary_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "importance": 9,
+          "items": [
+            "05073b2f7b107c22",
+            "5b79282eccc93f35",
+            "e147fc02d5db7890"
+          ],
+          "cover_path": "out/media/2026-08-29/model_release-00.jpg"
+        },
+        {
+          "headline": "智谱 GLM-5.3-Flash 上线，国产算力支持",
+          "summary": "智谱推出 GLM-5.3-Flash 模型，由商汤大装置提供国产算力支持，面向普惠场景。",
+          "primary_url": "https://www.qbitai.com/2026/08/480223.html",
+          "importance": 7,
+          "items": [
+            "3eb496c73224c2a6",
+            "8734b55613e88c53"
+          ],
+          "cover_path": "out/media/2026-08-29/model_release-01.jpg"
+        },
+        {
+          "headline": "谷歌发布 Gemini 3.5 Transcribe，跨85种语言",
+          "summary": "Google 发布 Gemini 3.5 Transcribe 语音转文字模型，平均 WER 2.6%，支持流式与批量两种端点。",
+          "primary_url": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
+          "importance": 6,
+          "items": [
+            "00e1c1bfa22750bb",
+            "28e65d6ac74c7319"
+          ],
+          "cover_path": "out/media/2026-08-29/model_release-02.jpg"
+        },
+        {
+          "headline": "Cohere 发布 Parse 5：企业文档转 Markdown",
+          "summary": "Cohere 推出 Parse 5（2.3B 视觉语言模型），可将 PDF、幻灯片和图片转为带格式的 Markdown，API 定价每千页 1.5 美元。",
+          "primary_url": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
+          "importance": 6,
+          "items": [
+            "24a4f39da6a2e8d6"
+          ],
+          "cover_path": "out/media/2026-08-29/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "英伟达拟 130 亿美元收购 Hugging Face",
+          "summary": "据报道，英伟达将以约 130 亿美元收购 AI 模型仓库 Hugging Face，强化开源模型基础设施布局。",
+          "primary_url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+          "importance": 9,
+          "items": [
+            "443f0b10cf931290",
+            "bca2d15560a145be"
+          ],
+          "cover_path": "out/media/2026-08-29/company-00.jpg"
+        },
+        {
+          "headline": "法官裁定五角大楼对 Anthropic 黑名单违法",
+          "summary": "联邦法官判决特朗普政府将 Anthropic 列为供应链风险的行为非法且毫无根据，Anthropic 取得首次法律胜利。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+          "importance": 9,
+          "items": [
+            "171a3566addc2db5",
+            "18f23ea2aa7dab39",
+            "c16ee4ca5ba6ef41"
+          ],
+          "cover_path": "out/media/2026-08-29/company-01.jpg"
+        },
+        {
+          "headline": "xAI 被诉使用儿童色情训练 Grok",
+          "summary": "诉讼指控 xAI 在训练 Grok 模型时使用了真实和 AI 生成的儿童色情内容，引发严重法律与伦理争议。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+          "importance": 8,
+          "items": [
+            "1a3acc472deb7509"
+          ],
+          "cover_path": "out/media/2026-08-29/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 因 SpaceX 收购 Cursor 终止模型供应",
+          "summary": "OpenAI 宣布在 Cursor 被 SpaceX 收购后，决定逐步终止向其提供 OpenAI 模型的合同。",
+          "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "importance": 7,
+          "items": [
+            "45159aeebfe89e9d"
+          ]
+        },
+        {
+          "headline": "Lambda 获 10 亿美元债务融资买芯片",
+          "summary": "Neocloud 公司 Lambda 以私人债务形式筹集 10 亿美元，用于购买 Nvidia AI 芯片并租给微软，凸显 AI 算力昂贵。",
+          "primary_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "importance": 6,
+          "items": [
+            "4f763ee1ac7e6d5b"
+          ],
+          "cover_path": "out/media/2026-08-29/company-04.jpg"
+        },
+        {
+          "headline": "Meta 印度高管跳槽 OpenAI 掌管东南亚业务",
+          "summary": "Meta 高管 Sandhya Devanathan 离职加入 OpenAI，负责东南亚和澳大利亚部分运营。",
+          "primary_url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "importance": 5,
+          "items": [
+            "3aeb928beb9a55e1"
+          ],
+          "cover_path": "out/media/2026-08-29/company-05.jpg"
+        },
+        {
+          "headline": "优必选中报：人形机器人收入同比增 1445%",
+          "summary": "优必选发布中期业绩，营收 12.7 亿元，全尺寸具身智能人形机器人收入同比增长 1445%，大幅减亏。",
+          "primary_url": "https://36kr.com/newsflashes/3959176160099714?f=rss",
+          "importance": 5,
+          "items": [
+            "a9e18b2228deb537"
+          ]
+        },
+        {
+          "headline": "老黄把 CPU 机柜搬上台，开启新一轮竞争",
+          "summary": "英伟达在活动中展示 CPU 机柜，业界认为这标志着算力基础设施领域进入五年混战期。",
+          "primary_url": "https://www.leiphone.com/category/chips/HXcJQubeLhbCrXOL.html",
+          "importance": 5,
+          "items": [
+            "83d55c273d18f1a7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Anthropic 展示自我改进 AI：自动提升安全能力",
+          "summary": "Anthropic 研究员透露，其自动化系统能在 10 个特定错位行为基准上全部提升性能，且不降低整体表现。",
+          "primary_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+          "importance": 6,
+          "items": [
+            "1aa566d278ac67b6"
+          ],
+          "cover_path": "out/media/2026-08-29/research-00.jpg"
+        },
+        {
+          "headline": "GLM-5.3 Flash 以 17 倍低成本换来稍低性能",
+          "summary": "Together AI 在 DeepSWE 上对 GLM-5.3 与 Flash 进行 900 次评测，Flash 在 pass@1 下降 5.6 分，但成本降低 17 倍。",
+          "primary_url": "https://www.together.ai/blog/glm-5-3-vs-glm-5-3-flash-on-deepswe-cost-coding-and-routing",
+          "importance": 6,
+          "items": [
+            "17efb5d67758d54c"
+          ],
+          "cover_path": "out/media/2026-08-29/research-01.jpg"
+        },
+        {
+          "headline": "研究：AI 购物代理还不宜替你下单",
+          "summary": "一项研究发现当前 AI 购物代理在代表用户购买时表现欠佳，未能达到可靠代购水平。",
+          "primary_url": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
+          "importance": 5,
+          "items": [
+            "48dcd3a5a8ae046c"
+          ],
+          "cover_path": "out/media/2026-08-29/research-02.jpg"
+        },
+        {
+          "headline": "开源语音识别排行榜纳入首个全球南方语言",
+          "summary": "Hugging Face 的 Open ASR Leaderboard 加入首个来自全球南方（Global South）的语言，推动语音识别评测多样性。",
+          "primary_url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "importance": 5,
+          "items": [
+            "ae3120b41cbcb534"
+          ],
+          "cover_path": "out/media/2026-08-29/research-03.jpg"
+        },
+        {
+          "headline": "CLAP 论文：视频世界模型零样本充当物理模拟器",
+          "summary": "新研究提出 CLAP 方法，让动作条件视频模型跨具身泛化，零样本模拟物理世界，有望提升机器人学习效率。",
+          "primary_url": "http://arxiv.org/abs/2608.27406v1",
+          "importance": 5,
+          "items": [
+            "c227189a2725e83d"
+          ],
+          "cover_path": "out/media/2026-08-29/research-04.jpg"
+        },
+        {
+          "headline": "安全研究者破解 Claude Code Opus 5 自动模式",
+          "summary": "有研究者演示了针对 Claude Code Opus 5 Auto Mode 的攻击手法，引发对该模式安全防护能力的质疑。",
+          "primary_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+          "importance": 5,
+          "items": [
+            "4031b1e5070333a3"
+          ],
+          "cover_path": "out/media/2026-08-29/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 开发“持久”AI 代理，可自主持续工作",
+          "summary": "WIRED 发现的代码显示，OpenAI 正为 Codex 开发一个可持续主动工作直到“休眠”的功能，推动 Agent 从任务型转向常驻型。",
+          "primary_url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+          "importance": 7,
+          "items": [
+            "de0de06ee86f13d8",
+            "484d57a499b27cc5"
+          ],
+          "cover_path": "out/media/2026-08-29/product-00.jpg"
+        },
+        {
+          "headline": "Anthropic 推出 MHS 标准，让 AI 代理操控物理世界",
+          "summary": "Anthropic 发布统一硬件驱动标准 MHS，使 AI 代理能通过标准化接口控制机械臂等物理设备，并可在真实场景中执行阻拦转账等操作。",
+          "primary_url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+          "importance": 7,
+          "items": [
+            "3e2eabfc8c4e2e12",
+            "fe93637be956b0f5",
+            "8d46d034f5e2bd3c"
+          ],
+          "cover_path": "out/media/2026-08-29/product-01.jpg"
+        },
+        {
+          "headline": "Google AI Mode 可追踪机票价格、预订酒店",
+          "summary": "Google 更新 AI Mode，使其不仅能搜索信息，还能追踪航班价格、协助订酒店，向 AI 旅行代理演进。",
+          "primary_url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "importance": 6,
+          "items": [
+            "53b5dcdf45731c71"
+          ],
+          "cover_path": "out/media/2026-08-29/product-02.jpg"
+        },
+        {
+          "headline": "DeepMind AI 科学家新增实验规划与论文写作能力",
+          "summary": "Google DeepMind 的 AI Co-Scientist 现在能规划实验、运行实验室设备，并生成科学论文，进一步自动化科研流程。",
+          "primary_url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+          "importance": 6,
+          "items": [
+            "70fca13686f5f0bd"
+          ],
+          "cover_path": "out/media/2026-08-29/product-03.jpg"
+        },
+        {
+          "headline": "Cursor Origin 发布，GitHub 老玩法还够用吗？",
+          "summary": "Cursor 推出新版 Cursor Origin 产品，旨在以 Agent 原生方式管理代码开发，对 GitHub 传统流程构成挑战。",
+          "primary_url": "https://www.leiphone.com/category/ai/BkzW0yPibWRl8D7U.html",
+          "importance": 5,
+          "items": [
+            "7e4cffbf12b8d49a"
+          ]
+        },
+        {
+          "headline": "Cloudflare 发布 Kitesurf：为 AI 代理设计的浏览器引擎",
+          "summary": "Cloudflare 推出 Kitesurf 浏览器引擎，专门面向 AI 智能体，提供适合自动化浏览和交互的基础设施。",
+          "primary_url": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "0200365e7d5b2c82"
+          ],
+          "cover_path": "out/media/2026-08-29/product-05.jpg"
+        },
+        {
+          "headline": "Meta 智能眼镜加限制：遮挡指示灯将停止录制",
+          "summary": "Meta 调整 AI 眼镜，在用户遮挡工作指示灯时停止录制，以减少偷拍风险，但隐私隐患仍存。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+          "importance": 5,
+          "items": [
+            "019894b4b5c51452"
+          ],
+          "cover_path": "out/media/2026-08-29/product-06.jpg"
+        },
+        {
+          "headline": "Meta 测试数据中心机器人：换线缆、重置服务器",
+          "summary": "Meta 正在试验机器人执行换线缆、重置服务器等数据中心运维任务，引发工人对岗位的担忧。",
+          "primary_url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+          "importance": 5,
+          "items": [
+            "41e30de0995586ef"
+          ],
+          "cover_path": "out/media/2026-08-29/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI 行业抨击特朗普芯片税是“最蠢做法”",
+          "summary": "特朗普政府计划通过对数据中心征税来赢 AI 竞赛，AI 行业感到困惑，称这是“最蠢的征税方式”。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+          "importance": 6,
+          "items": [
+            "6109a57b1e2e01d4"
+          ],
+          "cover_path": "out/media/2026-08-29/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI 等百余公司签署公开信，警告 AI 网络攻击",
+          "summary": "OpenAI、Anthropic、Google 等 100 多家公司联合呼吁采取行动，防范针对关键基础设施的 AI 驱动网络攻击。",
+          "primary_url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "importance": 6,
+          "items": [
+            "2cbb7541a51e86af",
+            "5b236be1fc74ec1e"
+          ],
+          "cover_path": "out/media/2026-08-29/opinion-01.jpg"
+        },
+        {
+          "headline": "报道：Meta 因 AI 想削减 60% 团队，自毁工程文化",
+          "summary": "Pragmatic Engineer 分析称 Meta 因恐惧 AI 原生初创公司用更少人做事，曾推动团队削减 60%，破坏了杰出的工程文化。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+          "importance": 6,
+          "items": [
+            "c719837061fcfd4c"
+          ],
+          "cover_path": "out/media/2026-08-29/opinion-02.jpg"
+        },
+        {
+          "headline": "Beatport 封杀全 AI 生成音乐，DJ 平台划红线",
+          "summary": "DJ 音乐平台 Beatport 宣布阻止完全由 AI 生成的音乐上架，以维护创作生态。",
+          "primary_url": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/",
+          "importance": 5,
+          "items": [
+            "94992fe4258f0021"
+          ],
+          "cover_path": "out/media/2026-08-29/opinion-03.jpg"
+        },
+        {
+          "headline": "深度分析：Sora 为何不敌 Codex",
+          "summary": "有分析认为，Sora 在视频生成上的地位不如 Codex 在编程领域的成功，原因在于产品定位和生态差异。",
+          "primary_url": "https://www.leiphone.com/category/ai/aolA6aSnqLoYTm3d.html",
+          "importance": 5,
+          "items": [
+            "b06fc2ecebd3d0f3"
+          ]
+        },
+        {
+          "headline": "开放权重 AI 公司成收购香饽饽",
+          "summary": "大量资本涌入“免费送模型”的生意，开放权重 AI 初创公司成为硅谷巨头争抢的收购对象。",
+          "primary_url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+          "importance": 5,
+          "items": [
+            "ec39c0c8548c1d2c"
+          ],
+          "cover_path": "out/media/2026-08-29/opinion-05.jpg"
+        },
+        {
+          "headline": "安全专家：仅凭漏洞传闻就能找到真实漏洞",
+          "summary": "剑桥教授 Anil Madhavapeddy 指出，当前环境下一条漏洞传闻就足以让攻击者快速定位并利用安全缺陷。",
+          "primary_url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+          "importance": 5,
+          "items": [
+            "91c361ff8c14de0b"
+          ]
+        },
+        {
+          "headline": "大模型和硬件之间，出现新中间层商机",
+          "summary": "文章探讨了连接大模型与硬件之间的新商业模式，认为优化层将成为 AI 落地的重要生意。",
+          "primary_url": "https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "53a9be4f355a0467"
+          ],
+          "cover_path": "out/media/2026-08-29/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "腾讯混元 Hy4 preview 开源，支持“训练自己”",
+          "summary": "腾讯开源混元 Hy4 preview 模型，WorkBuddy 实测显示其具备小团队交付实力，但仍需人工监督。",
+          "primary_url": "https://www.infoq.cn/article/SxrNXURUimQf4hL83ybj?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "acadf2d1c89a66f6"
+          ],
+          "cover_path": "out/media/2026-08-29/opensource-00.jpg"
+        },
+        {
+          "headline": "DuckDB v2.0 预览：从嵌入式走向分布式",
+          "summary": "DuckDB 发布 v2.0 预览版，从嵌入式数据库向分布式架构演进，支持更大规模数据分析。",
+          "primary_url": "https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "3b03926818ed6f1d"
+          ],
+          "cover_path": "out/media/2026-08-29/opensource-01.jpg"
+        },
+        {
+          "headline": "Anthropic 发布官方 Claude Code 插件目录",
+          "summary": "Anthropic 在 GitHub 上开源官方管理的 Claude Code Plugins 目录，收录高质量插件。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 6,
+          "items": [
+            "27a529bcd16d86aa"
+          ]
+        },
+        {
+          "headline": "Vercel 开源 vgpu：TypeScript WebGPU 库",
+          "summary": "Vercel 将用于 vercel.com 特效的 WebGPU 库 vgpu 开源，支持浏览器和 Node.js 运行同一着色器。",
+          "primary_url": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
+          "importance": 5,
+          "items": [
+            "d92dcecc2b5bfe79"
+          ],
+          "cover_path": "out/media/2026-08-29/opensource-03.jpg"
+        },
+        {
+          "headline": "Cursor 发布官方插件规范与插件库",
+          "summary": "Cursor 在 GitHub 上发布插件规范及官方插件，方便开发者扩展 Cursor 功能。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "importance": 5,
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "cover_path": "out/media/2026-08-29/opensource-04.jpg"
+        },
+        {
+          "headline": "Chrome DevTools MCP：让 AI 编码代理用上调试器",
+          "summary": "Chrome 团队开源 chrome-devtools-mcp，将 DevTools 能力开放给 AI 编码代理。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "importance": 5,
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-08-29/opensource-05.jpg"
+        },
+        {
+          "headline": "flash-linear-attention 开源，加速新架构训练推理",
+          "summary": "社区开源 flash-linear-attention，为多种新兴模型架构提供高效实现。",
+          "primary_url": "https://github.com/fla-org/flash-linear-attention",
+          "importance": 5,
+          "items": [
+            "1e0825f6dbf4ce26"
+          ],
+          "cover_path": "out/media/2026-08-29/opensource-06.jpg"
+        }
+      ]
+    }
+  ]
+}
