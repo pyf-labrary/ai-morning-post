@@ -1,0 +1,423 @@
+{
+  "date": "2026-08-31",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "腾讯发布Hy4预览版：770B参数开源权重大模型",
+          "summary": "腾讯推出全新开源权重LLM Hy4预览版，总参数770B、激活参数49B，支持100万token上下文，暂不支持视觉输入。",
+          "primary_url": "https://hy.tencent.ai/research/hy4-preview",
+          "importance": 8,
+          "items": [
+            "f5930a92a50c0d66"
+          ]
+        },
+        {
+          "headline": "Gemini Omni 1.1 Flash发布：支持40秒场景扩展",
+          "summary": "Google发布Gemini Omni 1.1 Flash，原生多模态视频生成与编辑模型迎来生产级更新，新增40秒场景扩展、首尾帧控制和4K超分能力。",
+          "primary_url": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+          "importance": 7,
+          "items": [
+            "35e66376e46bac68"
+          ],
+          "cover_path": "out/media/2026-08-31/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "索尼音乐与华纳起诉Anthropic大规模盗用版权",
+          "summary": "索尼音乐、华纳唱片联合起诉Anthropic，指控其开展\"肆无忌惮\"的版权侵权行为，称这是\"史上最大规模且最明目张胆的知识产权盗窃之一\"。",
+          "primary_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "importance": 8,
+          "items": [
+            "1ed9b890c8e7640e",
+            "72c79f39f70824cf"
+          ],
+          "cover_path": "out/media/2026-08-31/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI切断Cursor合作，称马斯克有毁约前科",
+          "summary": "SpaceX收购编程工具Cursor后，OpenAI以马斯克\"有违反合同的历史\"为由停止向其供应模型，OpenAI与马斯克阵营冲突再升级。",
+          "primary_url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+          "importance": 8,
+          "items": [
+            "dc3713f020d66fb9"
+          ],
+          "cover_path": "out/media/2026-08-31/company-01.jpg"
+        },
+        {
+          "headline": "Meta测试机器人进数据中心干技术员的活",
+          "summary": "Meta正在数据中心测试由机器人执行技术员任务，人形与专用机器人有望承担部分基础设施运维工作。",
+          "primary_url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+          "importance": 7,
+          "items": [
+            "dc88848fb48981c8"
+          ],
+          "cover_path": "out/media/2026-08-31/company-02.jpg"
+        },
+        {
+          "headline": "英伟达AI优势不再只有GPU：数据中心网络成新护城河",
+          "summary": "新一代数据中心系统通过更智能的流量调度提升效率，英伟达的AI竞争力正从GPU向网络与系统层面延伸。",
+          "primary_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "importance": 6,
+          "items": [
+            "5651b13618ee550a"
+          ],
+          "cover_path": "out/media/2026-08-31/company-03.jpg"
+        },
+        {
+          "headline": "苹果追加贵安数据中心投资至数十亿美元",
+          "summary": "苹果副总裁葛越透露，公司对贵州贵安iCloud数据中心持续追加投入已达数十亿美元规模，并实现100%可再生能源供电。",
+          "primary_url": "https://36kr.com/newsflashes/3962621794122886?f=rss",
+          "importance": 5,
+          "items": [
+            "74205c7c0d64e538"
+          ]
+        },
+        {
+          "headline": "银行AI Token消耗量激增，进入高频生产期",
+          "summary": "工行、招行、平安等上市银行半年报显示，Token消耗量爆发式增长，AI已从\"试点尝鲜\"进入\"高频生产使用\"阶段。",
+          "primary_url": "https://36kr.com/newsflashes/3962644903198083?f=rss",
+          "importance": 5,
+          "items": [
+            "81865b914f06b661"
+          ]
+        },
+        {
+          "headline": "卡特彼勒把矿山自动化经验带入AI落地",
+          "summary": "卡特彼勒将数十年矿山自动化运营经验迁移至AI部署领域，为企业AI落地提供现实世界经验。",
+          "primary_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+          "importance": 5,
+          "items": [
+            "3d05391f38001ad9"
+          ],
+          "cover_path": "out/media/2026-08-31/company-06.jpg"
+        },
+        {
+          "headline": "优地机器人赴港IPO，拟发售4500万股H股",
+          "summary": "商用服务机器人公司优地机器人启动港股发行，发售价不超每股19.55港元，预计9月9日挂牌交易。",
+          "primary_url": "https://36kr.com/newsflashes/3962627761667461?f=rss",
+          "importance": 4,
+          "items": [
+            "2b53590ac6933f39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Claude开始训练Claude：4美元/小时跑赢150美元人类研究员",
+          "summary": "Anthropic让Claude参与训练新一代Claude模型，每小时成本仅4美元，性能超过150美元/小时的人类研究员，AI自进化路径更进一步。",
+          "primary_url": "https://www.qbitai.com/2026/08/481223.html",
+          "importance": 7,
+          "items": [
+            "f55cf9ec640b2ce1"
+          ],
+          "cover_path": "out/media/2026-08-31/research-00.jpg"
+        },
+        {
+          "headline": "Google WikiSkill：给AI Agent装上一本\"错题本\"",
+          "summary": "Google推出WikiSkill机制，让AI智能体拥有对过往错误与成功案例的持久记忆，从而提升未来任务表现。",
+          "primary_url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+          "importance": 6,
+          "items": [
+            "362265e1e1dbda88"
+          ],
+          "cover_path": "out/media/2026-08-31/research-01.jpg"
+        },
+        {
+          "headline": "本地部署AI不如官方版？734个依赖包在作怪",
+          "summary": "研究发现推理软件栈的微小差异即可改变输出token，734个依赖包的版本差异是导致本地部署效果不如官方版的主要原因。",
+          "primary_url": "https://www.qbitai.com/2026/08/481372.html",
+          "importance": 6,
+          "items": [
+            "254db35ec801bf12"
+          ],
+          "cover_path": "out/media/2026-08-31/research-02.jpg"
+        },
+        {
+          "headline": "Google EnvHarness：静态Agent环境变自适应训练场",
+          "summary": "Google Cloud AI Research联合高校发布EnvHarness，以Apache-2.0协议将静态智能体基准转化为可随策略训练动态调整的环境。",
+          "primary_url": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
+          "importance": 5,
+          "items": [
+            "8efa84bf97fff305"
+          ],
+          "cover_path": "out/media/2026-08-31/research-03.jpg"
+        },
+        {
+          "headline": "Code-as-World：从真实视频生成可执行的物理仿真程序",
+          "summary": "该研究可从真实视频恢复可编辑的MuJoCo仿真场景代码，并用验证过的虚拟世界来训练AI的物理推理能力。",
+          "primary_url": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
+          "importance": 5,
+          "items": [
+            "b08331c4b1f7ff05"
+          ],
+          "cover_path": "out/media/2026-08-31/research-04.jpg"
+        },
+        {
+          "headline": "语音Agent推理延迟基准：TTFT之外还需看什么",
+          "summary": "新基准聚焦语音与实时Agent的推理API首字延迟（TTFT），指出TTFT是正确的起始指标但不应是唯一的评估终点。",
+          "primary_url": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
+          "importance": 4,
+          "items": [
+            "6c0e3d8df70472a3"
+          ],
+          "cover_path": "out/media/2026-08-31/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic开放MHS标准预览：让Agent安全操控物理设备",
+          "summary": "Anthropic发布模型硬件标准（MHS）研究预览，为AI智能体安全发现和操作物理设备提供统一驱动规范，设备集成时间从数周缩短到几天。",
+          "primary_url": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
+          "importance": 6,
+          "items": [
+            "76fb40d0a945b7e2"
+          ],
+          "cover_path": "out/media/2026-08-31/product-00.jpg"
+        },
+        {
+          "headline": "Claude Code限额调整被指\"明升暗降\"",
+          "summary": "Anthropic调整Claude Code的使用限制，表面看是额度提升，实际使用中却被认为是变相削减。",
+          "primary_url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+          "importance": 6,
+          "items": [
+            "50f7013ea1aeb83c"
+          ],
+          "cover_path": "out/media/2026-08-31/product-01.jpg"
+        },
+        {
+          "headline": "阿里Qoder发布：编程不再是程序员专属",
+          "summary": "阿里推出AI编程工具Qoder，让非程序员也能完成编码任务，Coding正在演变为AI世界的\"数字执行力\"。",
+          "primary_url": "https://www.qbitai.com/2026/08/480940.html",
+          "importance": 6,
+          "items": [
+            "780a7bf2a6d7f48b"
+          ],
+          "cover_path": "out/media/2026-08-31/product-02.jpg"
+        },
+        {
+          "headline": "HarmonyOS 7视觉AI落地：一句话找图、低清增强",
+          "summary": "鸿蒙系统7.0的视觉AI能力走进真实应用，支持通过自然语言检索图片，并对低清图片进行画质增强。",
+          "primary_url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J",
+          "importance": 5,
+          "items": [
+            "322149d22ca7a9b3"
+          ],
+          "cover_path": "out/media/2026-08-31/product-03.jpg"
+        },
+        {
+          "headline": "Claude Code默认给提交信息附会话链接引争议",
+          "summary": "开发者发现Claude Code默认将Claude会话URL写入commit message和PR描述，引发关于信息噪音与隐私的讨论。",
+          "primary_url": "https://github.com/anthropics/claude-code/issues/66504",
+          "importance": 5,
+          "items": [
+            "90028d6087e857ee"
+          ],
+          "cover_path": "out/media/2026-08-31/product-04.jpg"
+        },
+        {
+          "headline": "Superagent上线：号称\"普通人的Claude Code\"",
+          "summary": "新产品Superagent定位为AI Agent的\"家\"，旨在降低门槛，为普通用户提供类似Claude Code的Agent体验。",
+          "primary_url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+          "importance": 4,
+          "items": [
+            "3655219b051c9cd5"
+          ]
+        },
+        {
+          "headline": "oMLX：Mac变身LLM服务器，Agent等待缩至5秒",
+          "summary": "oMLX面向Mac平台的LLM推理服务器，可将AI Agent的等待时间从90秒缩短到5秒，提升本地推理体验。",
+          "primary_url": "https://www.producthunt.com/products/omlx",
+          "importance": 4,
+          "items": [
+            "ad8f7667d1d43d24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "加州一致通过Linux年龄验证豁免法案",
+          "summary": "加州立法者全票通过法案，将GPL、MIT、BSD、Apache等开源许可证分发的软件豁免于年龄验证法，开源社区迎来重要政策胜利。",
+          "primary_url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+          "importance": 7,
+          "items": [
+            "53fa4ae72f19ea15"
+          ],
+          "cover_path": "out/media/2026-08-31/opinion-00.jpg"
+        },
+        {
+          "headline": "AI生成视频开始取代中国演员和主播",
+          "summary": "中国娱乐产业中，AI生成视频已开始替代演员和直播主播，行业就业结构正被加速重塑。",
+          "primary_url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+          "importance": 6,
+          "items": [
+            "7f85356be1b17f66"
+          ],
+          "cover_path": "out/media/2026-08-31/opinion-01.jpg"
+        },
+        {
+          "headline": "巴克莱：AI公司每赚100美元约40美元流向云巨头",
+          "summary": "巴克莱银行报告显示，AI模型公司每100美元收入中约35-40美元以推理算力费流向三大云巨头，后者营业利润率高达35%-45%。",
+          "primary_url": "https://36kr.com/newsflashes/3962637031472517?f=rss",
+          "importance": 6,
+          "items": [
+            "3ef88380b732e905"
+          ]
+        },
+        {
+          "headline": "Debian投票通过：允许负责任使用生成式AI",
+          "summary": "Debian项目投票通过允许\"负责任地使用生成式AI\"的决议，开源社区在AI政策上迈出关键一步。",
+          "primary_url": "https://lwn.net/Articles/1091231/",
+          "importance": 6,
+          "items": [
+            "f15a2a39a4a42789"
+          ]
+        },
+        {
+          "headline": "Dwarkesh对话OpenAI与HF：Agent文明的兴衰",
+          "summary": "最新一期Dwarkesh播客以\"Agent文明的兴衰\"为题，与OpenAI和HuggingFace相关人士探讨AI Agent生态的演进与潜在风险。",
+          "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "importance": 6,
+          "items": [
+            "492904571feeb8a1"
+          ],
+          "cover_path": "out/media/2026-08-31/opinion-04.jpg"
+        },
+        {
+          "headline": "员工评价显示：AI职场口碑正在转向负面",
+          "summary": "对员工评价数据的分析显示，AI在职场中的口碑正逐渐变差，员工对AI工具的挫败感在多个行业蔓延。",
+          "primary_url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+          "importance": 6,
+          "items": [
+            "1c10f64f0f433bbb"
+          ],
+          "cover_path": "out/media/2026-08-31/opinion-05.jpg"
+        },
+        {
+          "headline": "马斯克自铸涡轮叶片提速燃气发电，污染争议升温",
+          "summary": "马斯克称SpaceX秘密铸造厂将自产燃气轮机叶片，以比对手快18个月获得AI算力所需的燃气电力，但燃气发电已在多地引发诉讼与健康研究关注。",
+          "primary_url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+          "importance": 5,
+          "items": [
+            "45c4440a16c475fe"
+          ],
+          "cover_path": "out/media/2026-08-31/opinion-06.jpg"
+        },
+        {
+          "headline": "No AI Fridays运动兴起：开发者每周五拒绝AI",
+          "summary": "开发者发起\"No AI Fridays\"倡议，号召每周五不使用AI工具，反思AI对开发工作与创造力的影响。",
+          "primary_url": "https://noaifridays.com/",
+          "importance": 5,
+          "items": [
+            "8e4abef98b53dc65"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "vLLM v0.28.0发布：大模型推理引擎再升级",
+          "summary": "主流大模型推理引擎vLLM发布v0.28.0版本，带来多项性能与功能更新。",
+          "primary_url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+          "importance": 6,
+          "items": [
+            "bfd03b4ef0c54c78"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-00.jpg"
+        },
+        {
+          "headline": "Anthropic官方Claude Code插件目录上线",
+          "summary": "Anthropic发布官方维护的高质量Claude Code插件目录，方便开发者发现和使用经过验证的插件。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 6,
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-01.jpg"
+        },
+        {
+          "headline": "Google发布官方Agent Skills库",
+          "summary": "Google开源面向其产品与技术的Agent Skills集合，可通过skills.sh一键安装到各类Agent工作流。",
+          "primary_url": "https://github.com/google/skills",
+          "importance": 6,
+          "items": [
+            "f8b36801b8652ba9"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-02.jpg"
+        },
+        {
+          "headline": "开源OCR神器20ms将PDF转Markdown，快近300倍",
+          "summary": "一款新的开源OCR工具可在20毫秒内把PDF页面转为Markdown，3秒处理约200份文档，速度比同类方案快近300倍。",
+          "primary_url": "https://www.qbitai.com/2026/08/481075.html",
+          "importance": 6,
+          "items": [
+            "a8aa578ac7cda635"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenClaw从爆红到落幕：Harness接棒上位",
+          "summary": "曾风靡一时的开源AI Agent项目OpenClaw热度退潮，社区重心正转向Harness等新一代方案。",
+          "primary_url": "https://www.qbitai.com/2026/08/480855.html",
+          "importance": 5,
+          "items": [
+            "b3d9f7719ef05436"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-04.jpg"
+        },
+        {
+          "headline": "LiveKit Agents：开源实时语音AI Agent框架",
+          "summary": "LiveKit Agents提供构建实时语音AI Agent的开源框架，支持语音、视频等多模态实时交互式智能体开发。",
+          "primary_url": "https://github.com/livekit/agents",
+          "importance": 5,
+          "items": [
+            "6ac929a2cce3f70b"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-05.jpg"
+        },
+        {
+          "headline": "scientific-agent-skills：19万科学家在用的AI科研技能库",
+          "summary": "该项目号称排名第一的Agent技能库，提供165个即用型科研技能和100+科学数据库，覆盖生物、化学、医学与药物发现。",
+          "primary_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "importance": 5,
+          "items": [
+            "f1ac3c1559abd3df"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-06.jpg"
+        },
+        {
+          "headline": "MoneyPrinterTurbo再登热榜：AI一键生成短视频",
+          "summary": "开源AI短视频工具MoneyPrinterTurbo支持输入主题或关键词一键生成高清短视频，再次登上GitHub热门榜单。",
+          "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "importance": 4,
+          "items": [
+            "88d3056299e36e7f"
+          ],
+          "cover_path": "out/media/2026-08-31/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
