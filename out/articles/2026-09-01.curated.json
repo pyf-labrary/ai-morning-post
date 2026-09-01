@@ -1,0 +1,442 @@
+{
+  "date": "2026-09-01",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-6灰测demo刷屏，正式发布在即",
+          "summary": "GPT-6的灰测demo近日流出引发热议，多方消息称周四将正式发布。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/08/481893.html",
+          "items": [
+            "b436050f79f52733",
+            "192793003ad44493"
+          ],
+          "cover_path": "out/media/2026-09-01/model_release-00.jpg"
+        },
+        {
+          "headline": "瑞金医院发布病理大模型RuiPath 2.0",
+          "summary": "瑞金医院联合华为云发布RuiPath 2.0，在性能、诊断可解释性、罕见病数据训练等五大方向升级。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html",
+          "items": [
+            "7578484dafe15ba8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "ChatGPT广告年收入破10亿美元",
+          "summary": "OpenAI宣布ChatGPT广告业务年化收入达10亿美元，并全球扩展，支持免费和廉价AI服务。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "items": [
+            "70b4710489a4c98d",
+            "4a5d6da62656c4b6"
+          ]
+        },
+        {
+          "headline": "索尼起诉Anthropic：内部聊天称赞盗版站",
+          "summary": "索尼在诉讼中引用Anthropic员工聊天记录，显示其使用Z-Library等盗版内容训练模型，AI歌曲登上榜首加重争议。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+          "items": [
+            "e7e921ba7d53fb87"
+          ],
+          "cover_path": "out/media/2026-09-01/company-01.jpg"
+        },
+        {
+          "headline": "英伟达35亿美元入股联发科",
+          "summary": "英伟达向联发科投资35亿美元，应对谷歌、亚马逊等大厂自研AI芯片的挑战，巩固AI基础设施地位。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+          "items": [
+            "9a03c5949335f68e"
+          ],
+          "cover_path": "out/media/2026-09-01/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI将全面断供Cursor",
+          "summary": "SpaceX收购Cursor触发控制权条款，OpenAI宣布将切断对Cursor的模型供应，引发开发者热议。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K",
+          "items": [
+            "4c73a8184dd467d9"
+          ],
+          "cover_path": "out/media/2026-09-01/company-03.jpg"
+        },
+        {
+          "headline": "Apple起诉前员工窃密OpenAI",
+          "summary": "苹果称有证据显示前员工在受调查后销毁数据盗窃证据，该员工被指控窃取商业机密并加盟OpenAI。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "items": [
+            "c923dfdd9031edf7"
+          ],
+          "cover_path": "out/media/2026-09-01/company-04.jpg"
+        },
+        {
+          "headline": "Anthropic与Lambda签350亿美元云协议",
+          "summary": "Anthropic与英伟达支持的Lambda签署350亿美元云计算协议，数据中心由Hut8开发。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3964110278188546?f=rss",
+          "items": [
+            "cc412ad3bec992c2"
+          ]
+        },
+        {
+          "headline": "长鑫存储造出首批HBM3E芯片",
+          "summary": "中国存储厂商CXMT（长鑫存储）研发出首批HBM3E芯片，缩小AI内存领域的差距。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/",
+          "items": [
+            "c13b2e4d98586510"
+          ],
+          "cover_path": "out/media/2026-09-01/company-06.jpg"
+        },
+        {
+          "headline": "AI实验室狂购Mac mini，苹果供应告急",
+          "summary": "OpenAI等AI实验室采购数万台Mac mini用于训练计算机操作Agent，意外拉动Mac系列需求，苹果措手不及。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
+          "items": [
+            "707fe7cef10173ef",
+            "e581554afa1aadfb",
+            "865b26a0fb449db6"
+          ],
+          "cover_path": "out/media/2026-09-01/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "破解Claude Code Opus 5自动模式",
+          "summary": "安全研究员公布针对Claude Code Opus 5 Auto Mode的攻击方法，引发Agent安全担忧。",
+          "importance": 6,
+          "primary_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+          "items": [
+            "cf47a86b21c5b835"
+          ],
+          "cover_path": "out/media/2026-09-01/research-00.jpg"
+        },
+        {
+          "headline": "Meta一年实验：Agent无法取代员工",
+          "summary": "Meta内部数据显示，Agent投入使用后事故增四成、工程师救火工作量多七成，AI取代人工仍遥远。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO",
+          "items": [
+            "fe3dd5833d71f4d3"
+          ],
+          "cover_path": "out/media/2026-09-01/research-01.jpg"
+        },
+        {
+          "headline": "如何构建扩散语言模型",
+          "summary": "两篇技术文章介绍扩散语言模型（DLM）的构建方法，探索新一代生成模型范式。",
+          "importance": 5,
+          "primary_url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+          "items": [
+            "973a19f45f6b8ff6",
+            "55299db38d46892e"
+          ]
+        },
+        {
+          "headline": "Agent记忆作为文件格式",
+          "summary": "Cal Paterson提出以文件格式存储Agent记忆，让AI代理的记忆可持久化、可移植。",
+          "importance": 5,
+          "primary_url": "https://calpaterson.com/memoryfields.html",
+          "items": [
+            "77c896abd2b808ec"
+          ],
+          "cover_path": "out/media/2026-09-01/research-03.jpg"
+        },
+        {
+          "headline": "研究：用企业为Agent发布的文件远程执行代码",
+          "summary": "研究人员利用Fortune 500公司为AI Agent发布的公开文件，在其内部系统执行了代码。",
+          "importance": 5,
+          "primary_url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+          "items": [
+            "f1904a3701b3f27a"
+          ]
+        },
+        {
+          "headline": "AQuA：量化研究Agent的持续进化",
+          "summary": "AQuA系统帮助量化研究Agent识别新证据与偶然高分，让回测结果更经得起检验。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/08/481475.html",
+          "items": [
+            "83541f61fabed86d"
+          ],
+          "cover_path": "out/media/2026-09-01/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI按效果付费",
+          "summary": "OpenAI开始对部分客户按AI实际工作效果收费，而非简单订阅。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/",
+          "items": [
+            "2e4394df2b4df8bd"
+          ],
+          "cover_path": "out/media/2026-09-01/product-00.jpg"
+        },
+        {
+          "headline": "Instagram限制未披露AI账号",
+          "summary": "Instagram开始限制未披露AI身份账号的曝光，并承认用户常分不清AI与真人。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+          "items": [
+            "ff87e65f0be2c717",
+            "8b7441883b2cb75d"
+          ],
+          "cover_path": "out/media/2026-09-01/product-01.jpg"
+        },
+        {
+          "headline": "OpenClaw 2.0发布",
+          "summary": "开源AI Agent OpenClaw 2.0发布，带来简化部署、重构浏览器应用和多人在线会话。",
+          "importance": 6,
+          "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "items": [
+            "6e3e5feb464630d1",
+            "68766ef6e27b41db"
+          ],
+          "cover_path": "out/media/2026-09-01/product-02.jpg"
+        },
+        {
+          "headline": "滴滴Robotaxi R2载客测试",
+          "summary": "滴滴自动驾驶新一代Robotaxi R2在北京、广州部分区域开启无人载客测试。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/08/481923.html",
+          "items": [
+            "a1cb0192981965ea",
+            "8a7abab2b395a166"
+          ],
+          "cover_path": "out/media/2026-09-01/product-03.jpg"
+        },
+        {
+          "headline": "Cisco为9万员工配个人Agent",
+          "summary": "Cisco为全体员工部署个人AI Agent，可记住用户信息并跨系统代办事务。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW",
+          "items": [
+            "6ab6cb6c57f03ec6"
+          ],
+          "cover_path": "out/media/2026-09-01/product-04.jpg"
+        },
+        {
+          "headline": "海信发布家庭AIOS JUOS",
+          "summary": "海信发布行业首个家庭智能伴侣级AIOS，从被动响应走向主动懂家。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html",
+          "items": [
+            "a1cbfe3f880c7cfe"
+          ]
+        },
+        {
+          "headline": "解析ChatGPT Work",
+          "summary": "Simon Willison撰文详解OpenAI的ChatGPT Work，认为它强大但令人困惑。",
+          "importance": 5,
+          "primary_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+          "items": [
+            "b823b7c8364967e9"
+          ],
+          "cover_path": "out/media/2026-09-01/product-06.jpg"
+        },
+        {
+          "headline": "豆包开学季学生优惠",
+          "summary": "豆包推出开学季活动，在校大学生可免费领3个月订阅。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/xzEc97io0iMHCJet.html",
+          "items": [
+            "066e5e025485e1f4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "英央行行长警告AI估值泡沫",
+          "summary": "英格兰银行行长警告，高企的AI估值和攀升的杠杆可能触发下一次金融危机。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
+          "items": [
+            "70358ca8e3e4ed0d"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-00.jpg"
+        },
+        {
+          "headline": "美国围堵无人机机器人，中国凭规模突围",
+          "summary": "美国限制外国无人机和机器人，但中国的规模化优势可能使竞争转向其他市场。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+          "items": [
+            "ad052f0428fb1244"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-01.jpg"
+        },
+        {
+          "headline": "Hugging Face黑客事件暗示OpenAI文化问题",
+          "summary": "MIT Tech Review评论称，OpenAI智能体安全事件可能反映其内部文化问题。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+          "items": [
+            "f0861eb7db528826"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-02.jpg"
+        },
+        {
+          "headline": "调查：98%理赔员负面评价AI",
+          "summary": "Wired调查显示，保险理赔员在Glassdoor上对AI的评论98%为负面，认为不应把钥匙交给AI。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+          "items": [
+            "6a247194c2f33465"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-03.jpg"
+        },
+        {
+          "headline": "AI落地引发员工挫败感",
+          "summary": "员工点评数据显示，AI在职场引发的负面情绪正在上升。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+          "items": [
+            "1c10f64f0f433bbb"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-04.jpg"
+        },
+        {
+          "headline": "Pi核心贡献者谈AI Token黑箱",
+          "summary": "Pi核心贡献者指出用户可能买到缩水版模型（如1.5bit的DeepSeek Flash），呼吁API透明。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D",
+          "items": [
+            "639eaa98420a5d48"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-05.jpg"
+        },
+        {
+          "headline": "Claude Code拒用AGENTS.md引发开发者抗议",
+          "summary": "Anthropic回应了开发者关于Claude Code不采用AGENTS.md标准的愤怒，但未能平息争议。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo",
+          "items": [
+            "212976dd60b3aca5"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-06.jpg"
+        },
+        {
+          "headline": "Stratechery：Meta和解与内容监管框架",
+          "summary": "Stratechery认为Meta的监管和解合理，但整个事件凸显科技监管难题。",
+          "importance": 5,
+          "primary_url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
+          "items": [
+            "5f7ca473a7a1eb79"
+          ],
+          "cover_path": "out/media/2026-09-01/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "unsloth：本地UI运行和训练LLM",
+          "summary": "unsloth更新，支持Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4等新模型，可在本地UI运行和训练。",
+          "importance": 5,
+          "primary_url": "https://github.com/unslothai/unsloth",
+          "items": [
+            "5f1af9f4b9cdedce"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-00.jpg"
+        },
+        {
+          "headline": "清华开源OpenMAIC多智能体课堂",
+          "summary": "OpenMAIC可一键获得沉浸式多智能体交互学习体验。",
+          "importance": 4,
+          "primary_url": "https://github.com/THU-MAIC/OpenMAIC",
+          "items": [
+            "602fd893abf1fa0c"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-01.jpg"
+        },
+        {
+          "headline": "scientific-agent-skills：科学Agent技能库",
+          "summary": "包含165个可验证技能和100+科学数据库，帮助任意Agent变身AI科学家。",
+          "importance": 4,
+          "primary_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "items": [
+            "f1ac3c1559abd3df"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-02.jpg"
+        },
+        {
+          "headline": "crawl4ai：LLM友好爬虫框架",
+          "summary": "开源、LLM友好的网页爬虫与抓取工具，持续热门。",
+          "importance": 4,
+          "primary_url": "https://github.com/unclecode/crawl4ai",
+          "items": [
+            "466cb2b9b35ce2fa"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-03.jpg"
+        },
+        {
+          "headline": "awesome-mcp-servers：MCP服务器合集",
+          "summary": "精选MCP服务器列表，方便开发者为Agent接入外部工具。",
+          "importance": 4,
+          "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "items": [
+            "9649bd4a2aaf959d"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-04.jpg"
+        },
+        {
+          "headline": "LiveKit Agents：实时语音Agent框架",
+          "summary": "用于构建实时语音和视频AI Agent的开源框架。",
+          "importance": 4,
+          "primary_url": "https://github.com/livekit/agents",
+          "items": [
+            "6ac929a2cce3f70b"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-05.jpg"
+        },
+        {
+          "headline": "Agent Zero：开源AI Agent框架",
+          "summary": "一个强调自主多智能体协作的AI框架。",
+          "importance": 4,
+          "primary_url": "https://github.com/agent0ai/agent-zero",
+          "items": [
+            "69553072524b9a15"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-06.jpg"
+        },
+        {
+          "headline": "freeLLM API：34个免费LLM统一接入",
+          "summary": "汇聚34个免费LLM提供方、635个模型端点，统一为OpenAI兼容API。",
+          "importance": 3,
+          "primary_url": "https://github.com/tashfeenahmed/freellmapi",
+          "items": [
+            "cb0199879ab35516"
+          ],
+          "cover_path": "out/media/2026-09-01/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
