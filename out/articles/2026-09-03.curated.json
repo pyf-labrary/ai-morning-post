@@ -1,0 +1,416 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic 发布 Claude Fable 5.1：编程霸榜，成本最高降 45%",
+          "summary": "Anthropic 正式发布新版旗舰模型 Claude Fable 5.1，在编程、知识工作和长任务上刷新 SOTA，降低 token 价格并移除数据保留限制。",
+          "primary_url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "importance": 9,
+          "items": [
+            "615f99aa03dc648d",
+            "2efad206e4bb1d93",
+            "1a4cbab981589ec3"
+          ],
+          "cover_path": "out/media/2026-09-03/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI 披露首个“关键网络能力”级模型 Astra",
+          "summary": "Astra 将在安全框架下首次达到关键网络攻击能力阈值，OpenAI 计划先向合作伙伴开放；其“循环深度”推理方式也引发可解释性担忧。",
+          "primary_url": "https://openai.com/index/path-to-astra",
+          "importance": 9,
+          "items": [
+            "f67672bca0142d18",
+            "ec4d65eace4cc3d9",
+            "c8216d7289f58c2e"
+          ]
+        },
+        {
+          "headline": "Google 发布 Gemini 3.8 Flash，六周内第三款轻量模型",
+          "summary": "Google DeepMind 推出 Gemini 3.8 Flash及面向网络安全场景的 Flash Cyber 版本，主打低成本和更高性能。",
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+          "importance": 8,
+          "items": [
+            "35cfd5966f8ff56e",
+            "f8b6cb54e7796c26",
+            "f4cc079ddbf179b3"
+          ],
+          "cover_path": "out/media/2026-09-03/model_release-02.jpg"
+        },
+        {
+          "headline": "World Labs 发布 Atlas：AI 从几张照片生成 3D 世界",
+          "summary": "由李飞飞团队推出的统一世界模型，可一次性完成 3D 世界生成、重建与模拟，有望降低具身智能训练门槛。",
+          "primary_url": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
+          "importance": 7,
+          "items": [
+            "6217ab4ce09a6146",
+            "078e2f264c2307fc"
+          ],
+          "cover_path": "out/media/2026-09-03/model_release-03.jpg"
+        },
+        {
+          "headline": "Gemini 推出 Agent 视频理解，token 用量最高降 88%",
+          "summary": "Gemini 新增 agentic video understanding 能力，以 Agent 方式处理长视频，显著降低视频理解任务的 token 开销。",
+          "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "importance": 6,
+          "items": [
+            "261f7acab589b54f",
+            "33e076a8178c16a9"
+          ],
+          "cover_path": "out/media/2026-09-03/model_release-04.jpg"
+        },
+        {
+          "headline": "阿里发布 Qwen3.8-Max，前端编程能力登顶",
+          "summary": "阿里更新旗舰模型 Qwen3.8-Max，官方称其前端开发相关评测成绩已位列全球第一。",
+          "primary_url": "https://www.qbitai.com/2026/09/483101.html",
+          "importance": 5,
+          "items": [
+            "38d794e0a1fac708"
+          ]
+        },
+        {
+          "headline": "Meta 上线 Muse Spark 1.3 代码模型",
+          "summary": "Muse Spark 1.3 已在 Muse Code 和 Meta 模型 API 中提供。",
+          "primary_url": "https://36kr.com/newsflashes/3966861771906304?f=rss",
+          "importance": 4,
+          "items": [
+            "1c85aa81105ca9fa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 因同一枪击案再遭 30 起诉讼",
+          "summary": "Edelson 律所对 OpenAI 追加 30 起与 Tumbler Ridge 枪击案相关的诉讼，指控从辅助教唆升级到直接共谋，并点名其高管。",
+          "primary_url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+          "importance": 6,
+          "items": [
+            "c4efbd6fef02d9a8"
+          ],
+          "cover_path": "out/media/2026-09-03/company-00.jpg"
+        },
+        {
+          "headline": "传 Palo Alto Networks 5 亿美元收购 AI 运维公司 Console",
+          "summary": "据知情人士，此次收购让 Sequoia 支持的 Serval 成为 AI IT 服务自动化领域最受关注的独立创业公司。",
+          "primary_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+          "importance": 6,
+          "items": [
+            "60fdcbc63109f353"
+          ],
+          "cover_path": "out/media/2026-09-03/company-01.jpg"
+        },
+        {
+          "headline": "AfterQuery 估值达 32 亿美元，成 YC 史上最快独角兽",
+          "summary": "AI 模型训练创业公司 AfterQuery 距离 A 轮 3 亿美元估值仅五个月，再度融资后估值冲至 32 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "importance": 6,
+          "items": [
+            "1cc8256f7b203b90"
+          ],
+          "cover_path": "out/media/2026-09-03/company-02.jpg"
+        },
+        {
+          "headline": "字节 Seed 大调整：新设预训练、RL 等四个一级部门",
+          "summary": "基础模型团队重组为 Pretrain Data、Horizon RL 和两个产品后训练部门，分别由李成刚、唐晟宇、秦禹嘉、朱文佳负责。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/75DZ3yfWSLnIppDb.html",
+          "importance": 6,
+          "items": [
+            "5796c0eb37e2873b"
+          ]
+        },
+        {
+          "headline": "博通预计 AI 芯片营收两年冲 2300 亿美元",
+          "summary": "博通 Q3 营收同比增长 86%，管理层预计 2027 财年 AI 芯片收入约 1150 亿美元，2028 财年进一步翻倍至 2300 亿美元。",
+          "primary_url": "https://36kr.com/newsflashes/3966881625660934?f=rss",
+          "importance": 5,
+          "items": [
+            "e8a4bcc3d6b06d8f",
+            "d117e237447673c2"
+          ]
+        },
+        {
+          "headline": "燧原科技科创板申购开启，腾讯小米参与战配",
+          "summary": "AI 芯片公司燧原科技发行价 142.18 元/股，战略配售吸引腾讯、小米、兆易创新、中兴通讯等全产业链厂商。",
+          "primary_url": "https://www.leiphone.com/category/chips/QbzBn7gSqxwocGbo.html",
+          "importance": 5,
+          "items": [
+            "8e2d070066dc3ca4"
+          ]
+        },
+        {
+          "headline": "AI 安全初创 HiddenLayer 融资 1 亿美元",
+          "summary": "企业加速保护 AI 部署与 Agent 工具链安全，HiddenLayer 成为该赛道最新一家大额融资公司。",
+          "primary_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+          "importance": 5,
+          "items": [
+            "dd16071a9cfe8bca"
+          ],
+          "cover_path": "out/media/2026-09-03/company-06.jpg"
+        },
+        {
+          "headline": "微软重组为两大业务部门，预计 Azure 增速 44%-45%",
+          "summary": "微软计划自 2027 财年按“智能体与基础设施”和“设备与消费者”两大部门披露业绩，并给出 Azure 高增长指引。",
+          "primary_url": "https://36kr.com/newsflashes/3966894692474374?f=rss",
+          "importance": 5,
+          "items": [
+            "d8e21c8c081a2c12",
+            "6d8e41d1e00c72cb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "蚂蚁宽表系统 OmniTable 获 VLDB 工业最佳论文",
+          "summary": "蚂蚁集团提出统一宽表系统 OmniTable，用于大模型语料清洗，处理 35PB 数据并实现 5.6 倍效率提升，摘得 VLDB 2026 工业赛道最佳论文。",
+          "primary_url": "https://www.qbitai.com/2026/09/483104.html",
+          "importance": 5,
+          "items": [
+            "f175b3c3d1369ac7"
+          ],
+          "cover_path": "out/media/2026-09-03/research-00.jpg"
+        },
+        {
+          "headline": "AWS 发布 Aws-Bench，评估云任务智能代理",
+          "summary": "Aws-Bench 面向云计算场景，提供评估大模型 Agent 在真实云任务中表现的基准测试。",
+          "primary_url": "https://www.infoq.cn/article/rs9FOZsLBIJPwWbeYNHO?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "c125a47f4c1f1fc0"
+          ],
+          "cover_path": "out/media/2026-09-03/research-01.jpg"
+        },
+        {
+          "headline": "BenchMIRT：LLM 基准到底在测量什么？",
+          "summary": "Hugging Face 联合研究团队发布 BenchMIRT 分析，试图厘清现有 LLM 基准是否真正反映模型能力。",
+          "primary_url": "https://huggingface.co/blog/allenai/benchmirt",
+          "importance": 3,
+          "items": [
+            "31cc7c4597ddbefd"
+          ],
+          "cover_path": "out/media/2026-09-03/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "ChatGPT 医疗版接入 Epic，医生可获取病历上下文",
+          "summary": "OpenAI 宣布 ChatGPT Health 与 Epic 集成，为临床医生提供只读患者病历和医疗数据，帮助更快获得诊疗上下文。",
+          "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "importance": 7,
+          "items": [
+            "1ac70db4fc1492ae",
+            "34071004fa2bcb35"
+          ]
+        },
+        {
+          "headline": "Google 发布 AI 设计工具 Pics，用提示词代替设计",
+          "summary": "对标 Canva 和 Adobe 的 AI-first 创作工具，用户输入一句提示即可生成版式和图像。",
+          "primary_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+          "importance": 5,
+          "items": [
+            "a0f994c30ce59961"
+          ],
+          "cover_path": "out/media/2026-09-03/product-01.jpg"
+        },
+        {
+          "headline": "亚马逊为 Alexa 购物助手加入诈骗消息识别",
+          "summary": "Alexa for Shopping 现在可以告诉用户可疑邮件或短信是否真的来自亚马逊，防范钓鱼骗局。",
+          "primary_url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+          "importance": 4,
+          "items": [
+            "40446c123124c3d2"
+          ],
+          "cover_path": "out/media/2026-09-03/product-02.jpg"
+        },
+        {
+          "headline": "MiniMax 视频生成 3 秒出片，打开实时商业化路径",
+          "summary": "MiniMax 的新视频生成速度已超过视频播放速度，被视为 AI 视频实时互动商业化的关键节点。",
+          "primary_url": "https://www.qbitai.com/2026/09/482512.html",
+          "importance": 4,
+          "items": [
+            "972c99ebd3c6878a"
+          ],
+          "cover_path": "out/media/2026-09-03/product-03.jpg"
+        },
+        {
+          "headline": "百融“硅基员工”批量上岗，AI 客服日扛 1.5 万通电话",
+          "summary": "百融云创的 Agent 产品按结果付费进入企业流程，客服场景已成为大模型 Agent 落地样板。",
+          "primary_url": "https://www.qbitai.com/2026/09/482967.html",
+          "importance": 4,
+          "items": [
+            "a18032da0c33d183"
+          ]
+        },
+        {
+          "headline": "海信发布家庭智能伴侣级 AIOS JUOS",
+          "summary": "海信正式推出 JUOS，称其为行业首个面向家庭场景的智能伴侣级 AI 操作系统。",
+          "primary_url": "https://www.qbitai.com/2026/09/482699.html",
+          "importance": 3,
+          "items": [
+            "4134843c9f7d8563"
+          ],
+          "cover_path": "out/media/2026-09-03/product-05.jpg"
+        },
+        {
+          "headline": "机器人“酒保”现身香港兰桂坊",
+          "summary": "香港首个真实开放场景服务机器人落地兰桂坊，负责点单和递送酒水。",
+          "primary_url": "https://www.qbitai.com/2026/09/482855.html",
+          "importance": 3,
+          "items": [
+            "2ea97bd2dc463c1c"
+          ],
+          "cover_path": "out/media/2026-09-03/product-06.jpg"
+        },
+        {
+          "headline": "天工工作台新版上线，从剧本到成片一站式做短剧",
+          "summary": "SkyProduction 天工工作台推出新版，覆盖剧本、拍摄到成片的完整短剧生产流程。",
+          "primary_url": "https://www.qbitai.com/2026/09/483274.html",
+          "importance": 3,
+          "items": [
+            "de084b8fbe81cd93"
+          ],
+          "cover_path": "out/media/2026-09-03/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "美国政府加入 OpenAI 版权案：训练模型属“合理使用”",
+          "summary": "美国政府在意见书中支持 OpenAI，称用版权材料训练大模型属合理使用，并符合美国 AI 产业全球竞争利益。",
+          "primary_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+          "importance": 8,
+          "items": [
+            "0b7d1a13f7c7543e",
+            "3f6e68dce1e872de",
+            "43159b991f5434cf"
+          ],
+          "cover_path": "out/media/2026-09-03/opinion-00.jpg"
+        },
+        {
+          "headline": "Google DeepMind 新掌门：前沿 AI 领先是唯一重要的事",
+          "summary": "DeepMind 新任负责人表示，公司会把资源集中在争夺前沿模型领导力上，并谈及对 AI 竞赛格局的判断。",
+          "primary_url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+          "importance": 5,
+          "items": [
+            "11331bfb2d450aa2"
+          ],
+          "cover_path": "out/media/2026-09-03/opinion-01.jpg"
+        },
+        {
+          "headline": "特朗普政府被诉隐瞒前沿 AI 安全测试规则",
+          "summary": "诉讼称白宫对前沿 AI 模型的秘密审查可能隐藏腐败，法院或迫使政府公开这些规则。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+          "importance": 5,
+          "items": [
+            "810eccbccef5cef6"
+          ],
+          "cover_path": "out/media/2026-09-03/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 检测平台 Pangram 成“金标准”，误判风险引担忧",
+          "summary": "Pangram 已成为出版和招聘等领域的事实标准 AI 检测工具，但其判断可决定个人职业生涯；CEO 也警告互联网正接近“死亡”。",
+          "primary_url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+          "importance": 5,
+          "items": [
+            "8c57dfdefae8b3d2",
+            "18d7ced257a1a068"
+          ],
+          "cover_path": "out/media/2026-09-03/opinion-03.jpg"
+        },
+        {
+          "headline": "Anthropic 向监管与媒体开放 Claude 文本检测工具",
+          "summary": "Anthropic 将 Claude 文本水印与 AI 检测能力开放给监管机构、媒体和事实核查组织，以增强 AI 内容透明度。",
+          "primary_url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+          "importance": 4,
+          "items": [
+            "ab23aa07932390e9"
+          ],
+          "cover_path": "out/media/2026-09-03/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 开源项目转向“软件工厂”，社区 PR 不再受欢迎",
+          "summary": "Vercel AI SDK 等头部开源项目正用 Agent 团队替代零散社区贡献，把补丁和功能交付变成流水线作业。",
+          "primary_url": "https://www.latent.space/p/pr-not-welcome",
+          "importance": 4,
+          "items": [
+            "949607b3fabe38aa"
+          ],
+          "cover_path": "out/media/2026-09-03/opinion-05.jpg"
+        },
+        {
+          "headline": "特朗普：反对 AI 数据中心的抗议是在帮中国",
+          "summary": "特朗普将美国国内针对 AI 数据中心的抗议与中美科技竞争挂钩，称相关抵制行为会削弱美国优势。",
+          "primary_url": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/",
+          "importance": 4,
+          "items": [
+            "01eb2eb3023cfdd3"
+          ],
+          "cover_path": "out/media/2026-09-03/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "开源 Agent OpenClaw 最大更新：933 位贡献者、支持浏览器即用",
+          "summary": "OpenClaw 迎来史上最大版本，合并超 1.6 万次 PR，并推出浏览器直接运行等新能力。",
+          "primary_url": "https://www.infoq.cn/article/9RS84kmpRvz4IqRUbNoe?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "60ddbb7e90a82b14"
+          ],
+          "cover_path": "out/media/2026-09-03/opensource-00.jpg"
+        },
+        {
+          "headline": "亚马逊云科技开源内部 Agent 工作台",
+          "summary": "最初由 3 名开发者打造的副业项目，半年收获约 4 万用户，现已以开源形式对外发布。",
+          "primary_url": "https://www.infoq.cn/article/Um4rVTweSFXAiwdGLFVB?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "60e55c6fd74856bb"
+          ],
+          "cover_path": "out/media/2026-09-03/opensource-01.jpg"
+        },
+        {
+          "headline": "Cloudflare 开源企业级 AI 平台 Cloudflare OS",
+          "summary": "基于能力模型构建的开源企业级 AI 平台，可帮助企业在云边缘部署与管理 AI 工作负载。",
+          "primary_url": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "0eb8cf6acb5b4544"
+          ],
+          "cover_path": "out/media/2026-09-03/opensource-02.jpg"
+        },
+        {
+          "headline": "谷歌开源 HEIR，让同态加密推理一键可用",
+          "summary": "HEIR 项目把同态加密推理编译流程标准化，目标是让隐私计算中的 AI 推理像普通推理一样容易部署。",
+          "primary_url": "https://www.infoq.cn/article/S6ATgchCiYMHpPaTPzer?utm_source=rss&utm_medium=article",
+          "importance": 3,
+          "items": [
+            "e80d4a5e288f8d1b"
+          ],
+          "cover_path": "out/media/2026-09-03/opensource-03.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-03"
+}
