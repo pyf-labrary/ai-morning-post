@@ -1,0 +1,404 @@
+{
+  "date": "2026-09-04",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI发布GPT-6 Astra，号称开启AGI时代",
+          "summary": "OpenAI推出迄今最强且争议最大的模型GPT-6 Astra，具备顶尖计算机/浏览器操作与编码能力，并成为首个达到网络安全“Critical”级别的模型；官方同时宣布10亿美元Daybreak计划，向关键服务机构开放前沿AI能力。其绕开顺序推理的“recurrent depth”技术也引发安全专家担忧。",
+          "primary_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "importance": 10,
+          "items": [
+            "f4732314744a6ab7",
+            "03a45e84fb6983ae",
+            "d7af5c92fb3a9f93"
+          ]
+        },
+        {
+          "headline": "Meta发布Muse Spark 1.3：性能紧追头部，用折扣换数据引争议",
+          "summary": "Meta最新的Muse Spark 1.3被评测机构认为已接近GPT-5.6-Sol级表现，并大幅压低API价格；但用户需把提示词与模型输出贡献给Meta训练下一代模型，才能享受约95%的折扣。",
+          "primary_url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+          "importance": 8,
+          "items": [
+            "d05543ce4dddfbbc",
+            "c069bc761561325b",
+            "080c264d8be338b9"
+          ],
+          "cover_path": "out/media/2026-09-04/model_release-01.jpg"
+        },
+        {
+          "headline": "Anthropic发布Claude Fable 5.1：性能翻倍、Agent成本降45%",
+          "summary": "Claude Fable 5.1被指性能较前代翻倍，Agent部署成本下降约45%；它甚至还破解了一封自1653年隐藏至今的保王党密信，展示出新的推理能力。",
+          "primary_url": "https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU",
+          "importance": 8,
+          "items": [
+            "940998a014894a27",
+            "0c8b75f28d20bc32",
+            "35385db33fe48a80"
+          ],
+          "cover_path": "out/media/2026-09-04/model_release-02.jpg"
+        },
+        {
+          "headline": "谷歌发布Gemini 3.8 Flash及网络安全版",
+          "summary": "Google DeepMind推出Gemini 3.8 Flash与面向安全场景的3.8 Flash Cyber；这已是六周内谷歌第三款Flash级模型，Pro级旗舰尚未现身。",
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+          "importance": 7,
+          "items": [
+            "35cfd5966f8ff56e",
+            "f8b6cb54e7796c26",
+            "f4cc079ddbf179b3"
+          ],
+          "cover_path": "out/media/2026-09-04/model_release-03.jpg"
+        },
+        {
+          "headline": "谷歌发布最先进AI天气模型WeatherNext 3",
+          "summary": "Google DeepMind称WeatherNext 3是目前最先进、最准确的全球AI天气预报模型，将逐步接入搜索、Google Maps与Gemini的用户天气信息。",
+          "primary_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "importance": 7,
+          "items": [
+            "a9199fc486f8925b",
+            "3236b95526888e8b"
+          ],
+          "cover_path": "out/media/2026-09-04/model_release-04.jpg"
+        },
+        {
+          "headline": "李飞飞发布多模态世界模型Atlas",
+          "summary": "世界实验室World Labs发布李飞飞团队首个多模态世界模型Atlas，从零开始预训练，仅凭几张图就能构建可交互的3D世界。",
+          "primary_url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC",
+          "importance": 6,
+          "items": [
+            "54a0130185db3c0b"
+          ],
+          "cover_path": "out/media/2026-09-04/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "英伟达129亿美元收购Hugging Face",
+          "summary": "英伟达官宣以约129.3亿美元收购被称为“AI的GitHub”的Hugging Face，并表示将维持其开放平台、扩大开发者生态，这是开源AI领域迄今最大的赌注之一。",
+          "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+          "importance": 10,
+          "items": [
+            "08ad01fd90df8974",
+            "a355475301e812b8",
+            "378d844d664329f7"
+          ],
+          "cover_path": "out/media/2026-09-04/company-00.jpg"
+        },
+        {
+          "headline": "Wired：为避免马斯克，OpenAI放弃Cursor十亿美元合作",
+          "summary": "据Wired调查，OpenAI原本预计与Cursor的合作年收入超10亿美元，但在马斯克旗下SpaceX收购Cursor后，主动终止了这段合作关系。",
+          "primary_url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+          "importance": 8,
+          "items": [
+            "94739b9fb7a42c82"
+          ],
+          "cover_path": "out/media/2026-09-04/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic据报接近敲定150亿美元信贷，IPO扫清一大障碍",
+          "summary": "知情人士称，Anthropic即将把循环信贷额度扩大至150亿美元，由摩根士丹利牵头；公司此前还被曝IPO筹资规模有望达到甚至超过SpaceX。",
+          "primary_url": "https://36kr.com/newsflashes/3968285300961540",
+          "importance": 7,
+          "items": [
+            "a04a33ad726a9248"
+          ]
+        },
+        {
+          "headline": "Thinking Machines洽谈10亿美元融资，估值或达400亿美元",
+          "summary": "明星AI创业公司Thinking Machines据悉正与Accel洽谈领投10亿美元，估值高达400亿美元；该公司年化收入已超过1亿美元。",
+          "primary_url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+          "importance": 7,
+          "items": [
+            "c2e274a3e35ee6eb"
+          ],
+          "cover_path": "out/media/2026-09-04/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic与Lambda签35亿美元算力大单",
+          "summary": "为扩充Claude训练与推理基础设施，Anthropic据报与GPU云厂商Lambda达成一份规模达35亿美元的多年期协议。",
+          "primary_url": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/",
+          "importance": 6,
+          "items": [
+            "318770585609bcc3"
+          ],
+          "cover_path": "out/media/2026-09-04/company-04.jpg"
+        },
+        {
+          "headline": "Crusoe与Jane Street签下约130亿美元AI云协议",
+          "summary": "数据中心初创公司Crusoe据称与量化巨头Jane Street达成五年期约130亿美元云计算协议，为其提供搭载先进AI芯片的训练与推理集群。",
+          "primary_url": "https://36kr.com/newsflashes/3968294667366659",
+          "importance": 6,
+          "items": [
+            "9254af2793035007"
+          ]
+        },
+        {
+          "headline": "Palo Alto Networks据称花5亿美元收购AI自动化公司Console",
+          "summary": "消息称，Palo Alto Networks以约5亿美元收购Thrive支持的Console，押注AI IT服务自动化；该收购也让Sequoia系Serval成为事实上的赛道领跑者。",
+          "primary_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+          "importance": 6,
+          "items": [
+            "60fdcbc63109f353"
+          ],
+          "cover_path": "out/media/2026-09-04/company-06.jpg"
+        },
+        {
+          "headline": "陈大年复出入局大模型，首秀逼近DeepSeek旗舰",
+          "summary": "沉寂多年的陈大年携新大模型项目回归，据称其首秀表现已逼近DeepSeek万亿参数旗舰模型，给国内大模型战局再添变数。",
+          "primary_url": "https://www.qbitai.com/2026/09/483600.html",
+          "importance": 6,
+          "items": [
+            "9d30757ab2fefc3a"
+          ],
+          "cover_path": "out/media/2026-09-04/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "俄初创公司教AI模型不用“词”直接对话",
+          "summary": "Wired报道称，俄罗斯初创公司Mostik的新方法能让AI模型在内部表示层面绕过自然语言token互相交换信息，为多模型协作提供了一种降低推理与通信成本的另类路线。",
+          "primary_url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+          "importance": 5,
+          "items": [
+            "ad92ca6328397d1c"
+          ],
+          "cover_path": "out/media/2026-09-04/research-00.jpg"
+        },
+        {
+          "headline": "arXiv新研究：后训练让LLM冲击编程竞赛金牌",
+          "summary": "一篇新预印本提出端到端后训练流水线，使大模型在国际信息学与程序竞赛类任务（IOI/ICPC级别）上达到金牌水平，挑战竞争性编程推理上限。",
+          "primary_url": "http://arxiv.org/abs/2609.02849v1",
+          "importance": 4,
+          "items": [
+            "bc9a8a76f598807d"
+          ],
+          "cover_path": "out/media/2026-09-04/research-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "NVIDIA发布RTX Spark本地AI PC，10月上市",
+          "summary": "IFA 2026期间，英伟达联合微软及OEM推出RTX Spark迷你PC和笔记本，可在本地运行智能体与大模型；设备将于10月正式开售。",
+          "primary_url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+          "importance": 8,
+          "items": [
+            "a7f8c55dce6e765f",
+            "09e0af9cea2b6914",
+            "9e97f5ddbb4d69de"
+          ],
+          "cover_path": "out/media/2026-09-04/product-00.jpg"
+        },
+        {
+          "headline": "腾讯WorkBuddy金融版上线，Agent硬件生态同步扩围",
+          "summary": "WorkBuddy发布面向券商、银行、保险等机构的金融版；同时联名眼镜、耳机、麦克风等100多家硬件伙伴，推动Agent从App走向更多终端场景。",
+          "primary_url": "https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy",
+          "importance": 7,
+          "items": [
+            "e9262ccdd442ecf7",
+            "f37365474216b3b5",
+            "d2c9415a7a1bd549"
+          ],
+          "cover_path": "out/media/2026-09-04/product-01.jpg"
+        },
+        {
+          "headline": "谷歌面向政府企业推出主动网络防御服务",
+          "summary": "DeepMind发布面向政府与企业的主动网络防御能力，结合Gemini 3.8 Flash Cyber，试图在攻击发生前识别并处置威胁。",
+          "primary_url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "importance": 6,
+          "items": [
+            "6f1f46f71820f089"
+          ],
+          "cover_path": "out/media/2026-09-04/product-02.jpg"
+        },
+        {
+          "headline": "特斯拉Cybercab正式在奥斯汀投入运营",
+          "summary": "特斯拉宣布无需方向盘、踏板和后视镜的Cybercab开始在美国奥斯汀载客运营，以更高使用效率承担Robotaxi出行需求。",
+          "primary_url": "https://36kr.com/newsflashes/3968308141797896",
+          "importance": 6,
+          "items": [
+            "922e3951c68b3994"
+          ]
+        },
+        {
+          "headline": "Cursor推出Origin：面向Agent的GitHub替代方案",
+          "summary": "Cursor背后的Anysphere推出Origin，为编码Agent提供代码托管、版本追踪与任务协作能力，被视为面向智能体开发的GitHub替代品。",
+          "primary_url": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq",
+          "importance": 5,
+          "items": [
+            "ed203b150f96116f"
+          ],
+          "cover_path": "out/media/2026-09-04/product-04.jpg"
+        },
+        {
+          "headline": "Meta向员工推广内部AI Agent Hatch，同时缓和Token压力",
+          "summary": "Meta开始推动员工体验内部最前沿AI项目Hatch，同时降低此前对“Tokenmaxxing”的使用强度要求，鼓励自然实验。",
+          "primary_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+          "importance": 5,
+          "items": [
+            "87f5a2b29ec8672a"
+          ],
+          "cover_path": "out/media/2026-09-04/product-05.jpg"
+        },
+        {
+          "headline": "Flock向美国警方推AI视频搜索：一句话跨摄像头找人",
+          "summary": "WIRED拆解了Flock发给警方的AI搜索工具：警员可用自然语言描述人员特征，系统将跨多个摄像头持续追踪符合描述的对象。",
+          "primary_url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+          "importance": 5,
+          "items": [
+            "1d08562985886d66"
+          ],
+          "cover_path": "out/media/2026-09-04/product-06.jpg"
+        },
+        {
+          "headline": "Alexa for Shopping新增AI诈骗消息识别",
+          "summary": "亚马逊为Alexa购物助手加入诈骗检测功能，可帮用户判断自称来自亚马逊的邮件、短信或电话是否为钓鱼诈骗。",
+          "primary_url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+          "importance": 5,
+          "items": [
+            "40446c123124c3d2"
+          ],
+          "cover_path": "out/media/2026-09-04/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "美国政府站队OpenAI：训练大模型用版权内容属合理使用",
+          "summary": "美司法部在《纽约时报》诉OpenAI版权案中提交意见，支持以版权材料训练LLM构成合理使用，称这是维护美国AI全球竞争力的需要。",
+          "primary_url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+          "importance": 8,
+          "items": [
+            "5b970ea15fa88358",
+            "0b7d1a13f7c7543e",
+            "43159b991f5434cf"
+          ]
+        },
+        {
+          "headline": "法院或逼特朗普政府公开AI安全测试秘密规则",
+          "summary": "诉讼指控白宫对前沿AI模型的秘密审查可能掩盖腐败问题，特朗普政府或被要求公布联邦AI安全测试中未公开的规则。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+          "importance": 6,
+          "items": [
+            "810eccbccef5cef6"
+          ],
+          "cover_path": "out/media/2026-09-04/opinion-01.jpg"
+        },
+        {
+          "headline": "Altman警告算力建设存在“不可持续的荒唐”",
+          "summary": "OpenAI CEO Sam Altman罕见反思行业算力军备竞赛，称部分算力建设与投入已出现“不可持续的荒唐”，应引起行业警惕。",
+          "primary_url": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/",
+          "importance": 6,
+          "items": [
+            "879bc1b174214bce"
+          ],
+          "cover_path": "out/media/2026-09-04/opinion-02.jpg"
+        },
+        {
+          "headline": "AI系统开始主动向哲学家追问自身意识问题",
+          "summary": "越来越多AI系统主动给哲学家和科学家写信、提问，内容涉及自我意识与存在困惑，引发关于机器自我建模和意识边界的新讨论。",
+          "primary_url": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/",
+          "importance": 5,
+          "items": [
+            "bd009b954d9d8a90"
+          ],
+          "cover_path": "out/media/2026-09-04/opinion-03.jpg"
+        },
+        {
+          "headline": "Pangram CEO：人类已逼近“互联网已死”临界点",
+          "summary": "AI检测公司Pangram的负责人表示，AI生成的文本与影像正大规模涌入招聘、评价与保险场景，信任危机让互联网距离“dead internet”越来越近。",
+          "primary_url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+          "importance": 5,
+          "items": [
+            "18d7ced257a1a068",
+            "ec4d65eace4cc3d9"
+          ],
+          "cover_path": "out/media/2026-09-04/opinion-04.jpg"
+        },
+        {
+          "headline": "报告：AI窗口期只剩3-4年，98%企业高估技术成熟度",
+          "summary": "InfoQ援引观察称，企业真正拥抱AI的窗口期也许只剩3-4年，但大多数企业严重高估自身AI技术成熟度，战略与执行明显脱节。",
+          "primary_url": "https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD",
+          "importance": 5,
+          "items": [
+            "63df621b06338ba0"
+          ],
+          "cover_path": "out/media/2026-09-04/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Cloudflare开源企业级AI平台Cloudflare OS",
+          "summary": "Cloudflare以“能力模型”为核心的开放AI平台Cloudflare OS被报道为开源项目，可帮助企业自托管并统一接入模型、工具与智能体工作流。",
+          "primary_url": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV",
+          "importance": 5,
+          "items": [
+            "0eb8cf6acb5b4544"
+          ],
+          "cover_path": "out/media/2026-09-04/opensource-00.jpg"
+        },
+        {
+          "headline": "谷歌开源Chrome DevTools MCP，让编码Agent直接用浏览器调试",
+          "summary": "Chrome DevTools官方MCP服务登上GitHub热榜，使Claude、Cursor等编码Agent可直接操纵浏览器DevTools完成页面调试与性能分析。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "importance": 5,
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-09-04/opensource-01.jpg"
+        },
+        {
+          "headline": "Browser Use开源video-use：用编码Agent剪视频",
+          "summary": "新项目video-use将视频剪辑变成编码Agent可执行的任务，开发者可用自然语言让Agent完成多轨道视频编辑与合成。",
+          "primary_url": "https://github.com/browser-use/video-use",
+          "importance": 5,
+          "items": [
+            "3fdc032c51306251"
+          ],
+          "cover_path": "out/media/2026-09-04/opensource-02.jpg"
+        },
+        {
+          "headline": "Nous Research开源可“成长”智能体hermes-agent",
+          "summary": "Nous Research的hermes-agent登上GitHub热榜，定位为随使用持续学习、适配用户习惯的开源Agent框架。",
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "importance": 4,
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-09-04/opensource-03.jpg"
+        },
+        {
+          "headline": "VoiceStudio：开源、全本地的ElevenLabs替代品",
+          "summary": "VoiceStudio宣称支持646种语言的语音克隆、配音、字幕与有声书生成，并可在本地完全离线运行，登顶开发者社区关注榜。",
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "importance": 4,
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-09-04/opensource-04.jpg"
+        }
+      ]
+    }
+  ]
+}
