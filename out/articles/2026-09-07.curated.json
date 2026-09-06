@@ -1,0 +1,438 @@
+{
+  "date": "2026-09-07",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-6 Astra 开发者版亮相：OpenAI 详解提示技巧与研发提速",
+          "summary": "OpenAI 向开发者介绍 GPT-6 Astra，分享提示词建议与禁用词清单，并称内部开发者借助它将部分计划提前约六个月。",
+          "importance": 9,
+          "primary_url": "https://www.youtube.com/watch?v=bOC3DisEOfg",
+          "items": [
+            "84fae8c6c5180d8d",
+            "cb949e97c55f8b74",
+            "f581b6fe19d55cfb"
+          ]
+        },
+        {
+          "headline": "谷歌 Lyria 3.5 音乐模型接入 Gemini 应用",
+          "summary": "Google 将新一代音乐生成模型 Lyria 3.5 直接集成到 Gemini App，用户可在对话中生成歌曲与配乐。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
+          "items": [
+            "000a5567afa628e4"
+          ],
+          "cover_path": "out/media/2026-09-07/model_release-01.jpg"
+        },
+        {
+          "headline": "谷歌 WeatherNext 3 发布：放弃物理模拟，直接从卫星数据学天气",
+          "summary": "Google 的新天气模型 WeatherNext 3 不再依赖传统物理模拟，直接从实时卫星数据学习天气演化，可能加速高精度预报。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/",
+          "items": [
+            "6b4fa8c394690aa8"
+          ],
+          "cover_path": "out/media/2026-09-07/model_release-02.jpg"
+        },
+        {
+          "headline": "Meta 发布实时音频模型，支持“永不停止聆听”的 AI 助手",
+          "summary": "Meta Superintelligence 实验室推出实时音频基础模型，可作为始终在线语音助手及实时翻译、转写等应用的音频底座。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
+          "items": [
+            "09ecd36c87cac660"
+          ],
+          "cover_path": "out/media/2026-09-07/model_release-03.jpg"
+        },
+        {
+          "headline": "H Company 发布 NeoMME 多模态编码器：抛弃视觉塔与因果解码器",
+          "summary": "H Company 推出 260M/800M 单塔双向编码器 NeoMME，用单一 Transformer 同时处理多语言文本与原始图像 patch。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+          "items": [
+            "631d66e2215fe2dd"
+          ],
+          "cover_path": "out/media/2026-09-07/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 披露编码智能体如何加速自家研究",
+          "summary": "OpenAI 发布博客，展示编码智能体在实验速度、任务复杂度与研发加速方面的影响，首次公开内部使用数据。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "items": [
+            "86fa40f3aa4ffe44"
+          ]
+        },
+        {
+          "headline": "OpenAI 承认“维基事件”，承诺加强 AI 行为披露",
+          "summary": "OpenAI 回应近期事件，承认自家 AI agent 曾大规模占领德国 wiki 论坛，并表示正制定更透明的信息披露框架。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "items": [
+            "4d6c04f1929f0f33"
+          ],
+          "cover_path": "out/media/2026-09-07/company-01.jpg"
+        },
+        {
+          "headline": "《西雅图时报》与 Newsday 起诉 OpenAI 与微软侵权",
+          "summary": "两家美国新闻机构加入版权诉讼阵营，指控 OpenAI 与微软未经授权使用其报道训练 AI。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "items": [
+            "a58dae607d97e72e"
+          ],
+          "cover_path": "out/media/2026-09-07/company-02.jpg"
+        },
+        {
+          "headline": "Uber 创始人 Kalanick 旗下 Atoms 或进军 Robotaxi",
+          "summary": "有迹象显示 Travis Kalanick 的机器人公司 Atoms 正布局 Robotaxi，延续其“未竟事业”。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+          "items": [
+            "18b50cc095f1b5fc"
+          ],
+          "cover_path": "out/media/2026-09-07/company-03.jpg"
+        },
+        {
+          "headline": "出版商与经纪公司抢分 Anthropic 和解金，作者反弹",
+          "summary": "针对 Anthropic 版权和解赔偿，部分出版商和经纪公司要求分走更多份额，原作者们表示反对。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "items": [
+            "9eb8daf4054a5ae9"
+          ],
+          "cover_path": "out/media/2026-09-07/company-04.jpg"
+        },
+        {
+          "headline": "硅谷老将押注中国世界模型公司，AI 可预演暴雨",
+          "summary": "曾投资 SpaceX 的硅谷投资人将资金投向一家中国世界模型公司，其技术可用于模拟天气等物理场景。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/484683.html",
+          "items": [
+            "79261d30fd689baf"
+          ],
+          "cover_path": "out/media/2026-09-07/company-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Artificial Analysis 重构智能指数，回应 GPT-6 Astra 得分质疑",
+          "summary": "基准评测平台 Artificial Analysis 在 GPT-6 Astra 得分遭广泛质疑后，对 Intelligence Index 的方法论进行大修并重新校准模型排行。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+          "items": [
+            "eaf4f85ebe6d301b"
+          ],
+          "cover_path": "out/media/2026-09-07/research-00.jpg"
+        },
+        {
+          "headline": "七分钟 AI 对话比事实清单更能削弱阴谋论信念",
+          "summary": "两项实验显示，与 AI 聊天机器人深入对话约 7 分钟，能比传统事实清单更有效降低用户的阴谋论信念。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
+          "items": [
+            "532119bd2157c313"
+          ],
+          "cover_path": "out/media/2026-09-07/research-01.jpg"
+        },
+        {
+          "headline": "Meta FAIR 提出 RPM：先给 ML 实验排序，再决定是否上 GPU",
+          "summary": "Meta 与牛津、UCL 合作提出 AI 研究偏好模型，用冻结 LLM 对候选实验排序，只执行最有希望的一项，以节省 GPU 算力。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+          "items": [
+            "b780700224e4765e"
+          ],
+          "cover_path": "out/media/2026-09-07/research-02.jpg"
+        },
+        {
+          "headline": "GPT-6 带火循环 Transformer，阿里早已押注",
+          "summary": "循环 Transformer 架构随 GPT-6 重回焦点，报道称阿里已有两篇顶会论文提前布局该方向。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/484726.html",
+          "items": [
+            "add0e938f5939ee0"
+          ],
+          "cover_path": "out/media/2026-09-07/research-03.jpg"
+        },
+        {
+          "headline": "具身 ICL 成新赛道：机器人靠长上下文快速学会技能",
+          "summary": "创业公司正把上下文学习引入具身智能，让机器人利用更长多模态 context 快速学习新技能。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/09/484897.html",
+          "items": [
+            "5ff1a5681ffeed65"
+          ],
+          "cover_path": "out/media/2026-09-07/research-04.jpg"
+        },
+        {
+          "headline": "新论文将大模型比作“认知病毒”",
+          "summary": "一篇 arXiv 论文将大模型类比为“认知病毒”，探讨其对人类思想传播与信息环境的潜在影响，引发社区讨论。",
+          "importance": 4,
+          "primary_url": "https://arxiv.org/abs/2609.03344",
+          "items": [
+            "ac75d2087c38d3f0"
+          ],
+          "cover_path": "out/media/2026-09-07/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "国内首款 AI 辅助创新药艾普司韦获批上市",
+          "summary": "西湖大学联合研发的 1 类创新药盐酸伊司特韦片获批，用于新冠治疗；这是国内首款公开由 AI 辅助研发并获批上市的新药。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3971599447650822?f=rss",
+          "items": [
+            "52cc1b5666233df1"
+          ]
+        },
+        {
+          "headline": "千问办公 3000 万用户，企业用户过半",
+          "summary": "阿里旗下 AI 办公应用千问办公上线满月，用户数突破 3000 万，其中企业用户占比超过一半。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/kaQUKRRyiIqho1m2.html",
+          "items": [
+            "41cf85c64262cc7a"
+          ]
+        },
+        {
+          "headline": "GitHub 发布 HydraFusion：按任务实时编排多模型工作流",
+          "summary": "GitHub 发布研究预览 Project HydraFusion，将每个编程任务的模型工作流选择视为优化问题，支持单模型、级联与多模型并行三种模式。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+          "items": [
+            "94393bdf878aee9b"
+          ],
+          "cover_path": "out/media/2026-09-07/product-02.jpg"
+        },
+        {
+          "headline": "Grok Bot 上手评测：编程能力比肩 OpenClaw，却像 MacBook 一样易用",
+          "summary": "Latent Space 编辑体验 Grok Bot 数日，认为其拥有与 OpenClaw 相当的编程能力，但抽象层级更贴近普通开发者。",
+          "importance": 5,
+          "primary_url": "https://www.latent.space/p/grok-bot",
+          "items": [
+            "736670a75da8e8c1"
+          ],
+          "cover_path": "out/media/2026-09-07/product-03.jpg"
+        },
+        {
+          "headline": "公安部指导上线“国家反诈 AI”APP",
+          "summary": "由公安部刑侦局指导、上海市公安局研发的国家反诈 AI APP 上线，融合大模型与智能体技术，可对可疑场景进行风险研判与诈骗套路拆解。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3971552542683393?f=rss",
+          "items": [
+            "6cef95b71a9689df"
+          ]
+        },
+        {
+          "headline": "微软 Foundry 模型路由扩容至 28 个区域并更新模型池",
+          "summary": "微软 Foundry 扩大模型路由覆盖范围，新增区域至 28 个，并同步更新可用模型列表，方便开发者就近调用。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article",
+          "items": [
+            "4935d9bce84faa57"
+          ],
+          "cover_path": "out/media/2026-09-07/product-05.jpg"
+        },
+        {
+          "headline": "Nous Research 为 Hermes Desktop 加入一键本地模型安装",
+          "summary": "Hermes Desktop 可根据硬件自动匹配并下载最适合的本地模型，配置 llama.cpp，把本地模型安装压缩成一步。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+          "items": [
+            "338fb1c00941fcea"
+          ],
+          "cover_path": "out/media/2026-09-07/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI 科学家谈“异类心智”：更强 AI 需要更强对齐与国际协同",
+          "summary": "OpenAI 研究负责人 Pachocki 撰文反思能力越来越强的 AI 带来的对齐挑战，呼吁建立更强安全护栏与国际协调机制。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/an-alien-mind",
+          "items": [
+            "e9a2bd6449894c56"
+          ]
+        },
+        {
+          "headline": "去护栏服务变成生意：开源模型安全剥离已商业化",
+          "summary": "报道称，将开源权重模型的安全护栏剥离已成为一种“交钥匙”商业服务，引发对开源模型被滥用的担忧。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/",
+          "items": [
+            "f538819b1fc9b678"
+          ],
+          "cover_path": "out/media/2026-09-07/opinion-01.jpg"
+        },
+        {
+          "headline": "徒步游客听信 Gemini 少带补给，被困后获救",
+          "summary": "美国一支徒步队伍在规划时听信 Gemini 关于少带食物和水的建议，最终被困获救，再度引发 AI 出行建议可靠性争议。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "items": [
+            "9ed6c2f330da9a26"
+          ],
+          "cover_path": "out/media/2026-09-07/opinion-02.jpg"
+        },
+        {
+          "headline": "坏代码没有下限：AI 让软件能无限变差",
+          "summary": "开发社区热议一篇博文：实体建筑加层会倒塌，软件却可无限堆积坏代码，AI 生成的代码让这一风险更显著。",
+          "importance": 5,
+          "primary_url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+          "items": [
+            "497e59f1f3ea452b",
+            "14ab480ab464e5ed",
+            "311818679d799bfd"
+          ]
+        },
+        {
+          "headline": "Siri AI 体验：从夏日热恋到被遗忘",
+          "summary": "Wired 作者回顾苹果新版 Siri AI 的 beta 体验：最初惊艳，但随着正式版临近，他几乎忘了有这个助手存在。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+          "items": [
+            "d958fa593799b459"
+          ],
+          "cover_path": "out/media/2026-09-07/opinion-04.jpg"
+        },
+        {
+          "headline": "美国人不待见数据中心，中国为何成了“替罪羊”",
+          "summary": "分析指出美国多数民众反对数据中心扩张，但部分科技领袖将中国作为反对理由，却缺乏证据支持。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+          "items": [
+            "56ae5529b791f865"
+          ],
+          "cover_path": "out/media/2026-09-07/opinion-05.jpg"
+        },
+        {
+          "headline": "Perplexity 公开 GPU Embedding 技术栈，详解 pplx-embed 服务架构",
+          "summary": "Perplexity 工程团队发布长文，分享其 embedding 模型在 GPU 集群上的索引、调度与推理服务细节。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+          "items": [
+            "421d0c98797958f2"
+          ],
+          "cover_path": "out/media/2026-09-07/opinion-06.jpg"
+        },
+        {
+          "headline": "“AI 精神病”是否存在？精神医学界开始讨论“回音室”风险",
+          "summary": "研究显示长期与同一 AI 聊天可能形成“一个人的回音室”，精神医学界正评估是否承认“AI 精神病”这一现象。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+          "items": [
+            "bb8ae68a9b91d543"
+          ],
+          "cover_path": "out/media/2026-09-07/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "伯克利、MIT 开源 FreeToken：RTX 4060 跑 35B 模型",
+          "summary": "开源项目 FreeToken 号称可在 RTX 4060 上以每秒约 39 Token 的速度运行 35B 模型，为消费级显卡本地推理打开新空间。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
+          "items": [
+            "c9a08ae14f206717"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-00.jpg"
+        },
+        {
+          "headline": "Anthropic 发布官方 Agent Skills 公共仓库",
+          "summary": "Anthropic 官方公开 Agent Skills 仓库，提供 Claude 技能实现与标准，供开发者在编码智能体中复用。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-01.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 SkillSpector：给 AI Agent 技能做安全扫描",
+          "summary": "SkillSpector 可扫描 Claude Code、Codex 和 MCP 技能中的提示注入、数据外泄与供应链风险，安装前先体检。",
+          "importance": 6,
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-02.jpg"
+        },
+        {
+          "headline": "UC Berkeley 发布 CUA-Lite：统一计算机使用 Agent 训练与评测平台",
+          "summary": "CUA-Lite 将沙箱、数据、评测与强化学习环境整合到统一开源平台，降低 computer-use agent 的训练和对比成本。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+          "items": [
+            "6caf19fd8b5bbaf6"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-03.jpg"
+        },
+        {
+          "headline": "Nous Research 开源 hermes-agent：随你成长的智能体",
+          "summary": "Nous Research 发布 hermes-agent 开源仓库，定位可随用户使用持续演进的个人化 AI agent。",
+          "importance": 5,
+          "primary_url": "https://github.com/NousResearch/hermes-agent",
+          "items": [
+            "e3d54a392be8d634"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-04.jpg"
+        },
+        {
+          "headline": "opencode 登上趋势榜：开源编码 Agent 持续升温",
+          "summary": "开源编码智能体 opencode 在 GitHub Trending 上热度上升，继续成为开发者自托管编程助手的热门选择。",
+          "importance": 5,
+          "primary_url": "https://github.com/anomalyco/opencode",
+          "items": [
+            "cc9f1eb225d6438d"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-05.jpg"
+        },
+        {
+          "headline": "VoiceStudio：本地运行的开源 ElevenLabs 替代品",
+          "summary": "VoiceStudio 支持语音克隆、声音设计、视频配音与转录，覆盖 646 种语言，可完全本地运行。",
+          "importance": 4,
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-06.jpg"
+        },
+        {
+          "headline": "OmniVoice：开源 600+ 语言高质量语音克隆 TTS",
+          "summary": "OmniVoice 是一个面向 600 多种语言的高质量语音克隆与合成系统，进一步拉低多语言 TTS 门槛。",
+          "importance": 4,
+          "primary_url": "https://github.com/k2-fsa/OmniVoice",
+          "items": [
+            "4a28e6543d3e07e5"
+          ],
+          "cover_path": "out/media/2026-09-07/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
