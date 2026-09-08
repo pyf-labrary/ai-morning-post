@@ -1,0 +1,378 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-6 Astra全自主通关《传送门》",
+          "summary": "The Decoder 报道称，GPT-6 Astra 在没有人类帮助的情况下，全程自主游玩《传送门》并成功通关，过程不到24小时，展示出长程规划与试错能力。",
+          "primary_url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+          "importance": 6,
+          "items": [
+            "ad97b9c06d7cf7ce"
+          ],
+          "cover_path": "out/media/2026-09-08/model_release-00.jpg"
+        },
+        {
+          "headline": "Qwen-Drive 1.0发布：能解释为何刹车",
+          "summary": "阿里发布自动驾驶模型 Qwen-Drive 1.0，可对刹车等操作给出自然语言解释；测试发现解释有时与实际操作不符。",
+          "primary_url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+          "importance": 6,
+          "items": [
+            "591f12a89e1cc4d9"
+          ],
+          "cover_path": "out/media/2026-09-08/model_release-01.jpg"
+        },
+        {
+          "headline": "OpenAI被曝内测GPT-6 Sol，速度提升6倍",
+          "summary": "量子位消息称，OpenAI 除 Astra 外还在内测 GPT-6 系列新模型 Sol，推理速度最高可比 Astra 快6倍；OpenAI 官方尚未回应。",
+          "primary_url": "https://www.qbitai.com/2026/09/485431.html",
+          "importance": 5,
+          "items": [
+            "d18405a53d148457"
+          ],
+          "cover_path": "out/media/2026-09-08/model_release-02.jpg"
+        },
+        {
+          "headline": "MiniCPM5-2B发布：2.52B模型超越Qwen3.5-4B",
+          "summary": "OpenBMB 发布 MiniCPM5-2B 稠密语言模型，参数约25亿，原生131K上下文，34项基准均分53.9，主打端侧运行。",
+          "primary_url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
+          "importance": 5,
+          "items": [
+            "f9401395af697fc2"
+          ],
+          "cover_path": "out/media/2026-09-08/model_release-03.jpg"
+        },
+        {
+          "headline": "IFM开源K2 Horizon：六款Apache 2.0模型",
+          "summary": "由 MBZUAI 孵化的前沿实验室 IFM 发布 K2 Horizon 系列，覆盖 0.9B 到 375B 六个规模，全部采用 Apache 2.0 许可。",
+          "primary_url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
+          "importance": 5,
+          "items": [
+            "f17c8443f525024d"
+          ],
+          "cover_path": "out/media/2026-09-08/model_release-04.jpg"
+        },
+        {
+          "headline": "智象发布具身世界模型HiDream-O1-Embodied",
+          "summary": "HiDream.ai 推出原生全模态具身世界模型 HiDream-O1-Embodied，打通感知、理解与决策闭环，目标服务机器人场景。",
+          "primary_url": "https://www.qbitai.com/2026/09/485056.html",
+          "importance": 5,
+          "items": [
+            "f8ef6202f0d8e682"
+          ],
+          "cover_path": "out/media/2026-09-08/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI披露AI‘研究实习生’已上岗，警告自身节奏",
+          "summary": "OpenAI 发布博客《Research acceleration》，介绍其“AI 研究实习生”项目，并警告自我改进速度可能超出预期。",
+          "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+          "importance": 9,
+          "items": [
+            "25577f325fc5b38f",
+            "333ae52168b8559c"
+          ]
+        },
+        {
+          "headline": "Anthropic被曝签5170亿美元算力大单",
+          "summary": "The Decoder 援引消息称，Anthropic 已签署总额 5170 亿美元的算力协议；此前 CEO Dario Amodei 刚批评对手承担不计后果的风险。",
+          "primary_url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+          "importance": 7,
+          "items": [
+            "b730a499a6ae8908"
+          ],
+          "cover_path": "out/media/2026-09-08/company-01.jpg"
+        },
+        {
+          "headline": "燧原科技科创板IPO募资61.19亿",
+          "summary": "国产AI芯片厂商燧原科技公布科创板发行结果：募资总额 61.19 亿元，网上中签率约 0.0246%，即将挂牌。",
+          "primary_url": "https://www.leiphone.com/category/chips/tt18KRcmh53DjhLO.html",
+          "importance": 6,
+          "items": [
+            "86e3247f7dfa2539"
+          ]
+        },
+        {
+          "headline": "微软云亚太区一拆为二，侯阳版图扩大",
+          "summary": "雷锋网独家：微软云亚太区将拆为两个组织，现任微软大中华区总裁侯阳的职责扩展至东南亚、印度与大中华区。",
+          "primary_url": "https://www.leiphone.com/category/industrycloud/UUg7N19pHCCMjnMD.html",
+          "importance": 5,
+          "items": [
+            "573f478fc1ccf6ed"
+          ]
+        },
+        {
+          "headline": "黄仁勋：本想Hugging Face独立，但有竞购者",
+          "summary": "黄仁勋在谈及 Hugging Face 时表示曾希望其保持独立，但已出现其他竞购者；此事凸显开源模型平台战略话语权。",
+          "primary_url": "https://www.infoq.cn/article/5dtlrdsBbSIZfWUUF6JD",
+          "importance": 5,
+          "items": [
+            "be4d697dd90456e1"
+          ],
+          "cover_path": "out/media/2026-09-08/company-04.jpg"
+        },
+        {
+          "headline": "调查：32亿美元AI数据中心责任归属成难题",
+          "summary": "Ars Technica 调查发现，AI 数据中心项目由多家公司交叉持股和运营，一旦出现环境或安全问题，责任很难追到具体主体。",
+          "primary_url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+          "importance": 5,
+          "items": [
+            "88db151cc27a7db7"
+          ],
+          "cover_path": "out/media/2026-09-08/company-05.jpg"
+        },
+        {
+          "headline": "中科类脑完成数亿元B+轮融资",
+          "summary": "AI公司中科类脑宣布获得数亿元B+轮战略融资，由产业龙头领投，资金将用于产品研发与商业化。",
+          "primary_url": "https://www.qbitai.com/2026/09/485039.html",
+          "importance": 5,
+          "items": [
+            "52c825b091548d79"
+          ],
+          "cover_path": "out/media/2026-09-08/company-06.jpg"
+        },
+        {
+          "headline": "Uber创始人旗下Atoms或进军Robotaxi",
+          "summary": "TechCrunch 报道，Travis Kalanick 的 Atoms 公司可能切入无人驾驶出租车业务，Kalanick 称要完成“未竟事业”。",
+          "primary_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+          "importance": 4,
+          "items": [
+            "18b50cc095f1b5fc"
+          ],
+          "cover_path": "out/media/2026-09-08/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AI设计药物早期研究显示可逆转生物钟",
+          "summary": "一项 AI 设计候选药物的早期试验显示，其可能逆转人体生物年龄相关指标；目前仍属初步结果，需要更大规模验证。",
+          "primary_url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+          "importance": 6,
+          "items": [
+            "81dcf7cd50feb254"
+          ],
+          "cover_path": "out/media/2026-09-08/research-00.jpg"
+        },
+        {
+          "headline": "菲尔兹奖得主参与，Qwen+GLM刷爆ARC-AGI 3",
+          "summary": "一项新工作用4B手机端Qwen与云端GLM协同解题，在 ARC-AGI 3 上取得突破；菲尔兹奖得主参与研究，称发现两模型数学共同基础困难。",
+          "primary_url": "https://www.qbitai.com/2026/09/485108.html",
+          "importance": 6,
+          "items": [
+            "6be026ccc18f798d"
+          ],
+          "cover_path": "out/media/2026-09-08/research-01.jpg"
+        },
+        {
+          "headline": "Meta FAIR提出AI研究偏好模型，跑实验前先排序",
+          "summary": "Meta FAIR、牛津与UCL联合发布 AI Research Preference Models，用冻结LLM在候选实验未执行前排序，声称能显著节省GPU。",
+          "primary_url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+          "importance": 5,
+          "items": [
+            "b780700224e4765e"
+          ],
+          "cover_path": "out/media/2026-09-08/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "千问办公推出业内首个多人工作台",
+          "summary": "阿里旗下 Agent 产品千问办公上线多人工作台：用户描述需求即可生成网页应用，最多支持百人同时在线协作，覆盖活动组织、家校协同等场景。",
+          "primary_url": "https://www.qbitai.com/2026/09/485046.html",
+          "importance": 6,
+          "items": [
+            "e8f71b43fa8e28e2",
+            "295f8bea3aa6908b"
+          ],
+          "cover_path": "out/media/2026-09-08/product-00.jpg"
+        },
+        {
+          "headline": "千问办公发布首份办公Agent报告：用户破3000万",
+          "summary": "《中国办公Agent用户行为不完全报告》在京发布，报告显示千问办公用户已超3000万、企业用户过半，北京用户量居全国第一，海外用户占比超12%。",
+          "primary_url": "https://www.qbitai.com/2026/09/485064.html",
+          "importance": 5,
+          "items": [
+            "3f101b22e6b8bee0"
+          ],
+          "cover_path": "out/media/2026-09-08/product-01.jpg"
+        },
+        {
+          "headline": "Cloudflare扩展AI搜索，可检索自定义数据",
+          "summary": "Cloudflare 增强 AI 搜索引擎，使客服与开发者能通过自有数据获得答案，并接入多种数据源。",
+          "primary_url": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb",
+          "importance": 4,
+          "items": [
+            "b144a521f3502951"
+          ],
+          "cover_path": "out/media/2026-09-08/product-02.jpg"
+        },
+        {
+          "headline": "微软Foundry模型路由扩容至28个区域",
+          "summary": "微软 Foundry 模型路由服务新增覆盖区域与模型池，提升跨区调用和容灾能力。",
+          "primary_url": "https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE",
+          "importance": 4,
+          "items": [
+            "4935d9bce84faa57"
+          ],
+          "cover_path": "out/media/2026-09-08/product-03.jpg"
+        },
+        {
+          "headline": "HCP Terraform定位AI驱动基础设施控制平面",
+          "summary": "HashiCorp 将 HCP Terraform 描述为 AI 驱动基础设施控制平面，让 AI Agent 可编排云资源并解决 IaC 的复杂问题。",
+          "primary_url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm",
+          "importance": 4,
+          "items": [
+            "898ae19210689ee6"
+          ],
+          "cover_path": "out/media/2026-09-08/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "纽约市禁止K-8公立校用AI工具",
+          "summary": "纽约市宣布公立学校八年级及以下禁止在日常教学中使用AI工具，引发关于AI素养教育是否过早受限的辩论。",
+          "primary_url": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/",
+          "importance": 7,
+          "items": [
+            "513a7aa2b8812b7e"
+          ],
+          "cover_path": "out/media/2026-09-08/opinion-00.jpg"
+        },
+        {
+          "headline": "作者抗议出版方瓜分Anthropic和解金过多",
+          "summary": "Anthropic 版权诉讼和解消息公布后，作者认为出版商和代理机构正拿走不成比例的赔偿，要求重新核算分配。",
+          "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "importance": 6,
+          "items": [
+            "9eb8daf4054a5ae9"
+          ],
+          "cover_path": "out/media/2026-09-08/opinion-01.jpg"
+        },
+        {
+          "headline": "王兴兴：机器人爆发要等两个80%时刻",
+          "summary": "宇树科技创始人王兴兴在上市后首次公开演讲中称，具身智能规模落地需要等待成本和能力各自走到关键阈值，即两个‘80%时刻’。",
+          "primary_url": "https://www.leiphone.com/category/robot/qtdF8IhMqe2oNmH0.html",
+          "importance": 6,
+          "items": [
+            "9f549418b0b54abd"
+          ]
+        },
+        {
+          "headline": "特斯拉致死事故：FSD/Autopilot当时开启",
+          "summary": "一辆特斯拉在开启 FSD/Autopilot 的情况下未在停车标志前停车，撞死一名男子；监管与公共安全讨论再被点燃。",
+          "primary_url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+          "importance": 6,
+          "items": [
+            "d96543a4d5c61d69"
+          ],
+          "cover_path": "out/media/2026-09-08/opinion-03.jpg"
+        },
+        {
+          "headline": "UBS：AI技能成求职硬条件",
+          "summary": "瑞银高管表示，候选人是否掌握AI工具使用能力已成为录用关键因素之一，金融行业用人标准正在被改写。",
+          "primary_url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/",
+          "importance": 5,
+          "items": [
+            "f4259134f78e7849"
+          ],
+          "cover_path": "out/media/2026-09-08/opinion-04.jpg"
+        },
+        {
+          "headline": "AI人才三次大迁徙：百度、六小虎、腾讯",
+          "summary": "文章梳理中国AI人才流动轨迹：百度是黄埔军校，六小虎开始分化，腾讯通过‘腾笼换鸟’吸引顶尖大模型人才。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/IfTsnhdqbaxeTEu6.html",
+          "importance": 5,
+          "items": [
+            "69690a2d1850fe76"
+          ]
+        },
+        {
+          "headline": "调查：AI如何摧毁内罗毕的一个行业",
+          "summary": "报道深入肯尼亚内罗毕，讲述AI对当地内容审核、数据标注等外包产业的替代冲击，以及从业者的生存现状。",
+          "primary_url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+          "importance": 5,
+          "items": [
+            "bec27cf123312359"
+          ],
+          "cover_path": "out/media/2026-09-08/opinion-06.jpg"
+        },
+        {
+          "headline": "微软AI治理从政策走向运行时执行",
+          "summary": "微软正在把AI治理控制规则嵌入系统运行过程，而不仅仅停留在政策文本，以实时监测与干预模型行为。",
+          "primary_url": "https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb",
+          "importance": 5,
+          "items": [
+            "796afab4c5c3231a"
+          ],
+          "cover_path": "out/media/2026-09-08/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "AWS开源Kiro Crew：让Coding Agent异步跑任务",
+          "summary": "AWS 开源 Kiro Crew，可编排多个编码 Agent 在后台并行或异步执行，改善长任务场景下的利用率。",
+          "primary_url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV",
+          "importance": 5,
+          "items": [
+            "c5c0970560f0522d"
+          ],
+          "cover_path": "out/media/2026-09-08/opensource-00.jpg"
+        },
+        {
+          "headline": "OpenAI官方Codex Skills目录登GitHub热榜",
+          "summary": "OpenAI 在 GitHub 公布 Codex 的 Skills 技能目录，同日多个社区 Skills 仓库走红，代理技能生态开始形成。",
+          "primary_url": "https://github.com/openai/skills",
+          "importance": 5,
+          "items": [
+            "d13888914e3e505b"
+          ],
+          "cover_path": "out/media/2026-09-08/opensource-01.jpg"
+        },
+        {
+          "headline": "Axis Robotics开源AXIS：浏览器采集机器人数据",
+          "summary": "AXIS 将机器人操作数据采集搬到浏览器，包含207个操作任务、50129条轨迹，降低数据采集硬件门槛。",
+          "primary_url": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
+          "importance": 4,
+          "items": [
+            "51e329f96f95afaf"
+          ],
+          "cover_path": "out/media/2026-09-08/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenWhispr开源：本地优先、隐私安全的语音输入",
+          "summary": "OpenWhispr 是跨平台语音转文字应用，默认调用本地模型，也支持自备云模型，主打隐私优先。",
+          "primary_url": "https://github.com/OpenWhispr/openwhispr",
+          "importance": 3,
+          "items": [
+            "834dfd8fa3ae7c06"
+          ],
+          "cover_path": "out/media/2026-09-08/opensource-03.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-08"
+}
