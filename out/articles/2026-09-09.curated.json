@@ -1,0 +1,259 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-6 Astra 无人工干预 24 小时通关《传送门》",
+          "summary": "OpenAI 最新模型 GPT-6 Astra 在无人工协助下自主通关《传送门》，展示出更强的 Agent 规划与执行能力，相关模型支持也已进入 llm 等生态。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+          "items": [
+            "ad97b9c06d7cf7ce",
+            "80d9c41cf6df568b",
+            "f7c1bc39be90a7bb"
+          ],
+          "cover_path": "out/media/2026-09-09/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI 发布 ChatGPT Images 2.5，已生成超 30 亿张图",
+          "summary": "ChatGPT Images 2.5 可根据草图、参考照片等生成更个性化、更精致的图像；OpenAI 称该系列累计已生成超 30 亿张图片。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "items": [
+            "624070b4b6dc190c",
+            "f60cf8d77fc756ed"
+          ]
+        },
+        {
+          "headline": "谷歌 AI 天气模型升级，接入更多原始卫星数据",
+          "summary": "谷歌的 AI 天气模型开始像传统数值模型一样吸收更丰富的原始卫星观测数据，进一步改善预报精度。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+          "items": [
+            "e4d3d55ca78f3d19"
+          ],
+          "cover_path": "out/media/2026-09-09/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 被曝签 5170 亿美元算力协议",
+          "summary": "传闻 Anthropic 已签下合计 5170 亿美元的算力合同，规模空前；CEO Dario Amodei 此前曾警告同行不要为追赶而鲁莽冒险。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+          "items": [
+            "b730a499a6ae8908",
+            "2dd013d398b1526f"
+          ],
+          "cover_path": "out/media/2026-09-09/company-00.jpg"
+        },
+        {
+          "headline": "Mistral 完成 30 亿欧元融资，创欧洲 AI 纪录",
+          "summary": "法国 AI 实验室 Mistral 以 210 亿欧元估值完成由三星、Scaleup Europe 与 PSG Equity 领投的 D 轮融资，“主权 AI”成为重要卖点。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "items": [
+            "72f45d2b9d446bde",
+            "48a33d01f432a136"
+          ],
+          "cover_path": "out/media/2026-09-09/company-01.jpg"
+        },
+        {
+          "headline": "AI 编程创企 Cognition 融资 20 亿美元，估值 480 亿",
+          "summary": "Cognition AI 完成 E 轮 20 亿美元融资，估值达 480 亿美元；公司年化收入从 4.92 亿美元增至近 9 亿美元。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+          "items": [
+            "06f215221bab7f06",
+            "a1b635685da109e0"
+          ],
+          "cover_path": "out/media/2026-09-09/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 首曝 AI 造 AI 路线图：2028 年出 AI 研究员",
+          "summary": "OpenAI 首次披露由 AI 参与研发模型的内部数据，目标在 2028 年实现可承担 AI 研究工作的智能体；黄仁勋祝贺称 AGI 已到来。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9",
+          "items": [
+            "358f9c47db81fe06"
+          ],
+          "cover_path": "out/media/2026-09-09/company-03.jpg"
+        },
+        {
+          "headline": "Meta 不再以 AI 使用量考核工程师，“刷 token”反噬",
+          "summary": "Meta 因工程师为绩效刻意堆 AI 使用量（tokenmaxxing），已决定不再将 AI 用量纳入工程绩效评审。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/",
+          "items": [
+            "6cb6ef96ec9394b2"
+          ],
+          "cover_path": "out/media/2026-09-09/company-04.jpg"
+        },
+        {
+          "headline": "谷歌云与埃森哲结盟，冲刺企业 AI 部署",
+          "summary": "Google Cloud 联合埃森哲扩大企业 AI 落地能力，借助前场部署工程师突破复杂场景的采用瓶颈。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+          "items": [
+            "9d4996c9ab596be0"
+          ],
+          "cover_path": "out/media/2026-09-09/company-05.jpg"
+        },
+        {
+          "headline": "黑客盗取 Claude 订阅令牌，Anthropic 发布警告",
+          "summary": "有 Claude 订阅用户发现账号在未使用时仍持续消耗 tokens；Anthropic 已就盗号与令牌窃取问题向用户发出安全提醒。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+          "items": [
+            "66d7ab6a2bdf2c45"
+          ],
+          "cover_path": "out/media/2026-09-09/company-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI 宣称 AI 破解纳维-斯托克斯难题，学术圈指控不公",
+          "summary": "OpenAI 公布 AI 生成的纳维-斯托克斯千年奖问题解答，并附 Lean 形式化证明；但多位数学家指责其向研究者施压、要求剔除 Anthropic 共同作者。",
+          "importance": 10,
+          "primary_url": "https://openai.com/index/navier-stokes-solution",
+          "items": [
+            "4128ffec779137ea",
+            "d13d1341d936e71a",
+            "ba49ea9c74c99e27"
+          ]
+        },
+        {
+          "headline": "DeepMind 发布 AlphaGenome Atlas，覆盖 90 亿 DNA 变异",
+          "summary": "AlphaGenome Atlas 以单碱基精度绘制 90 亿种人类 DNA 变异的分子效应图谱，为遗传病研究与精准医学提供大规模资源。",
+          "importance": 8,
+          "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "items": [
+            "3bcaa514438f95eb"
+          ],
+          "cover_path": "out/media/2026-09-09/research-01.jpg"
+        },
+        {
+          "headline": "AI 设计药物初步临床显示可逆转生物钟",
+          "summary": "一项早期试验显示，AI 设计的药物候选物似乎能让身体生物学年龄回退，为抗衰老领域带来新信号。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+          "items": [
+            "81dcf7cd50feb254"
+          ],
+          "cover_path": "out/media/2026-09-09/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Meta 发布个人智能体 Muse，隐私信任迎大考",
+          "summary": "Meta 推出个人 AI 智能体 Muse，可帮忙卖车、订机票，但要访问邮箱、日历、支付与健康数据；能否赢回用户信任是最大挑战。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "items": [
+            "afb5162b8bdd2045",
+            "873d4bdb6eb8cde9",
+            "5f199c27a0b41d62"
+          ],
+          "cover_path": "out/media/2026-09-09/product-00.jpg"
+        },
+        {
+          "headline": "Cohere 发布 Parse 5，文档多模态提取更高效",
+          "summary": "Cohere Parse 5 面向复杂企业文档，可高效提取文字、表格、图表等多模态信息，提升 RAG 与知识处理流程。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj",
+          "items": [
+            "8e3e0f1f9c2e033b"
+          ],
+          "cover_path": "out/media/2026-09-09/product-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Meta 平台被曝暗推“脱衣”AI 广告，瞄准未成年女孩",
+          "summary": "有调查发现 Facebook 与 Instagram 仍投放可把真实女孩照片“一键脱衣”的 AI 应用广告，Meta 下架动作迟缓，引发舆论愤怒。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+          "items": [
+            "ba7c7f8ebb2e09a4"
+          ],
+          "cover_path": "out/media/2026-09-09/opinion-00.jpg"
+        },
+        {
+          "headline": "AI 生成代码量激增，代码评审模式何去何从？",
+          "summary": "2026 年 AI 产出代码的速度已超过人类可追踪范围；行业开始反思传统 code review 是否会被取代或重构。",
+          "importance": 7,
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+          "items": [
+            "9d31159ae4d9c704"
+          ],
+          "cover_path": "out/media/2026-09-09/opinion-01.jpg"
+        },
+        {
+          "headline": "AI 如何抹平内罗毕一个行业？",
+          "summary": "深度报道聚焦生成式 AI 对肯尼亚内罗毕某个本地行业的毁灭性冲击，反思技术扩散中的全球不均衡代价。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+          "items": [
+            "bec27cf123312359"
+          ],
+          "cover_path": "out/media/2026-09-09/opinion-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "开源个人代理 OpenClaw 2.0 发布，智能体协作门槛再降",
+          "summary": "OpenClaw 2.0 简化配置流程并支持多智能体协作，进一步对标商业化个人 AI 助手，降低开发者自建 Agent 的复杂度。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd",
+          "items": [
+            "bfaf698a89a3b9f8"
+          ],
+          "cover_path": "out/media/2026-09-09/opensource-00.jpg"
+        },
+        {
+          "headline": "Karmada 正式从 CNCF 毕业，支撑多集群 AI 训练",
+          "summary": "多云容器编排项目 Karmada 正式从 CNCF 毕业，在多集群 AI 训练与 GPU 调度场景中已经广泛落地。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR",
+          "items": [
+            "2e213409cc66465b"
+          ],
+          "cover_path": "out/media/2026-09-09/opensource-01.jpg"
+        },
+        {
+          "headline": "AWS 开源 Kiro Crew，Coding Agent 异步协作跑起来",
+          "summary": "AWS 开源 Kiro Crew，用于把 Coding Agent 任务拆解为可异步执行的协作流程，提升开发流水线吞吐。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV",
+          "items": [
+            "c5c0970560f0522d"
+          ],
+          "cover_path": "out/media/2026-09-09/opensource-02.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-09"
+}
