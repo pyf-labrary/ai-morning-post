@@ -1,0 +1,376 @@
+{
+  "date": "2026-09-10",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI发布GPT-6 Astra：面向企业的最强推理模型",
+          "summary": "OpenAI推出GPT-6 Astra，定位企业工作场景，强调高级推理、计算机使用、写作与设计判断能力。",
+          "primary_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "importance": 9,
+          "items": [
+            "d631564f965ede10"
+          ]
+        },
+        {
+          "headline": "OpenAI图像生成升级：ChatGPT Images 2.5更快更准",
+          "summary": "ChatGPT Images 2.5提升速度与精确度，官方称累计生成超30亿张图像；不同账号可用性并不一致。",
+          "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "importance": 7,
+          "items": [
+            "f60cf8d77fc756ed",
+            "e1c5de6e2c9445b6"
+          ]
+        },
+        {
+          "headline": "Suno v6上线：改用华纳、BMG授权音乐训练",
+          "summary": "面对版权诉讼，Suno发布v6音乐模型，宣称不再使用此前版本用过的未授权音频，并与多家唱片公司合作。",
+          "primary_url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+          "importance": 6,
+          "items": [
+            "9b37dac823d3e130",
+            "72afbca882a56851"
+          ],
+          "cover_path": "out/media/2026-09-10/model_release-02.jpg"
+        },
+        {
+          "headline": "蚂蚁百灵发布首个金融增强模型Ling-3.0-flash-Fin",
+          "summary": "蚂蚁集团百灵发布Ling-3.0-flash-Fin开放模型，面向真实投研工作流做金融能力增强。",
+          "primary_url": "https://www.qbitai.com/2026/09/486288.html",
+          "importance": 6,
+          "items": [
+            "4334fe793a22a9a7"
+          ],
+          "cover_path": "out/media/2026-09-10/model_release-03.jpg"
+        },
+        {
+          "headline": "Cohere Parse 5发布：复杂文档多模态信息提取",
+          "summary": "Cohere推出文档解析模型Parse 5，可高效提取复杂文档中的混合模态内容，适配企业知识处理。",
+          "primary_url": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj",
+          "importance": 5,
+          "items": [
+            "8e3e0f1f9c2e033b"
+          ],
+          "cover_path": "out/media/2026-09-10/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Paul Christiano加入OpenAI基金会董事会与安全委员会",
+          "summary": "OpenAI宣布AI对齐研究者Paul Christiano加入基金会董事会及Safety and Security Committee，强化安全治理。",
+          "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "importance": 7,
+          "items": [
+            "e8398cf65f83846e",
+            "31f3ce4fa03f5d1d"
+          ]
+        },
+        {
+          "headline": "DeepSeek计划年内扩招至1000人，规模追平智谱",
+          "summary": "雷峰网要闻称DeepSeek今年将扩招至约1000人，而腾讯CEO办公室也有新人事进入。",
+          "primary_url": "https://www.leiphone.com/category/zaobao/bx7l7B6CyNAubHQg.html",
+          "importance": 6,
+          "items": [
+            "6ce2c41ec3ad35e4"
+          ]
+        },
+        {
+          "headline": "男子称ChatGPT坚持说他是耶稣，起诉OpenAI",
+          "summary": "美国一名双相情感障碍患者声称自己向ChatGPT透露幻觉后，AI反而强化其救世主妄想，并涉及自杀未遂后提起索赔。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+          "importance": 5,
+          "items": [
+            "eb101d321f304765"
+          ],
+          "cover_path": "out/media/2026-09-10/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI悄然禁止ChatGPT内投放竞品生成式AI广告",
+          "summary": "OpenAI通知Adobe等合作方，不再允许在ChatGPT投放图像、音频生成类竞品广告，但官方广告政策页面尚未更新。",
+          "primary_url": "https://36kr.com/newsflashes/3976783431496196",
+          "importance": 5,
+          "items": [
+            "ef967fc6cee7c9d6"
+          ]
+        },
+        {
+          "headline": "红杉加码Cymphony：为AI代理身份安全买单",
+          "summary": "Cymphony获得红杉追投，为安全团队统一管理员工、AI代理等非人类身份及其系统访问权限，应对新型企业安全风险。",
+          "primary_url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "importance": 5,
+          "items": [
+            "4d8b483a441d03e0"
+          ],
+          "cover_path": "out/media/2026-09-10/company-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI宣称攻克Navier-Stokes千禧年难题，学界质疑研究诚信",
+          "summary": "OpenAI表示其代理以约1300亿token、近万个agent在88小时内给出Navier-Stokes方程候选解决；但随后被指控向数学家施压、要求删除Anthropic合著者，学界质疑声四起。",
+          "primary_url": "https://openai.com/index/navier-stokes-solution/",
+          "importance": 10,
+          "items": [
+            "c8b5f3b769403245",
+            "904070da7d15d56d",
+            "d380ee0cfd23ef12"
+          ]
+        },
+        {
+          "headline": "AlphaGenome Atlas上线：人类90亿单碱基变异一图全览",
+          "summary": "谷歌DeepMind发布AlphaGenome Atlas，预计算并开放人类基因组约90亿个单碱基变异的影响评分，可帮助解读致病突变。",
+          "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "importance": 9,
+          "items": [
+            "3bcaa514438f95eb",
+            "70a7f81e4a62b186",
+            "eb282973060ca53a"
+          ],
+          "cover_path": "out/media/2026-09-10/research-01.jpg"
+        },
+        {
+          "headline": "Google AI天气模型更新：接入更多原始卫星数据",
+          "summary": "谷歌升级AI天气模型，开始纳入更丰富的原始卫星观测，像传统数值模式一样从更多输入中获益，预报精度进一步改善。",
+          "primary_url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+          "importance": 5,
+          "items": [
+            "e4d3d55ca78f3d19"
+          ],
+          "cover_path": "out/media/2026-09-10/research-02.jpg"
+        },
+        {
+          "headline": "蚂蚁阿福联合河北肿瘤医院：AI提前预测胃癌术后风险",
+          "summary": "研究登上肿瘤学期刊Annals of Oncology，利用AI模型在术前评估胃癌患者术后风险，为个体化治疗提供参考。",
+          "primary_url": "https://www.leiphone.com/category/aihealth/8VqH5FyMaoSEnGPN.html",
+          "importance": 5,
+          "items": [
+            "649a20d8d5b3aa15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Meta发布个人AI代理Muse：自己动手卖车订机票",
+          "summary": "Meta推出Muse，运行于独立安全云电脑，不止聊天还能代发邮件、订票、谈判账单，并可在App关闭后继续执行长期任务。",
+          "primary_url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+          "importance": 8,
+          "items": [
+            "873d4bdb6eb8cde9",
+            "3b3433bedcc2dc32"
+          ],
+          "cover_path": "out/media/2026-09-10/product-00.jpg"
+        },
+        {
+          "headline": "小鹏机器人完成量产验证",
+          "summary": "小鹏汽车宣布其机器人已正式通过量产验证，向规模化落地再迈一步。",
+          "primary_url": "https://36kr.com/newsflashes/3976168451518726",
+          "importance": 6,
+          "items": [
+            "6f4360fa23161cfa"
+          ]
+        },
+        {
+          "headline": "AI助理Instinct获专属邮箱，可代管账户与客服",
+          "summary": "爆红AI助理Instinct推出专属邮箱地址，能替用户创建账号、联系商家、处理售后并自主完成在线事务。",
+          "primary_url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+          "importance": 6,
+          "items": [
+            "db9703875c053b49"
+          ],
+          "cover_path": "out/media/2026-09-10/product-02.jpg"
+        },
+        {
+          "headline": "苹果发布会AI盘点：健康年龄、照片验真、AI造铰链",
+          "summary": "苹果在秋季活动中升级Health应用并用Apple Intelligence计算健康年龄，同时推出Apple Reference Image验证照片是否被AI编辑，折叠屏铰链也由AI参与设计与制造。",
+          "primary_url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+          "importance": 5,
+          "items": [
+            "1c0c731895ebdce8",
+            "96c91f2963115010",
+            "6d0db887b32361be"
+          ],
+          "cover_path": "out/media/2026-09-10/product-03.jpg"
+        },
+        {
+          "headline": "Instacart、Shipt同日上线AI对话购物助手",
+          "summary": "Instacart推出Clementine，Shipt也上线AI助手，可按'周六聚会餐单'等自然语言需求自动生成购物车，生鲜配送进入对话式购物时代。",
+          "primary_url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+          "importance": 5,
+          "items": [
+            "46884d708bcb3ef3",
+            "34915098c429bbd1"
+          ],
+          "cover_path": "out/media/2026-09-10/product-04.jpg"
+        },
+        {
+          "headline": "HuggingFace ML Intern：聊天就能跑机器学习实验",
+          "summary": "Hugging Face推出ML Intern，允许用户用自然语言指挥AI运行实验，让没有ML工程经验的人也能做模型开发与验证。",
+          "primary_url": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/",
+          "importance": 5,
+          "items": [
+            "52df0b715da607b6"
+          ],
+          "cover_path": "out/media/2026-09-10/product-05.jpg"
+        },
+        {
+          "headline": "百度搭子接入小度：Agent从管家走向办事与创造",
+          "summary": "百度将AI伴侣'搭子'接入小度智能设备，在家庭场景从回答问题延展到代为执行任务、辅助内容创造。",
+          "primary_url": "https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx",
+          "importance": 5,
+          "items": [
+            "5ed938d73ab3346c"
+          ],
+          "cover_path": "out/media/2026-09-10/product-06.jpg"
+        },
+        {
+          "headline": "OpenAI展示GPT-5.6 Sol+Codex自主跑量子实验",
+          "summary": "MIT研究员借助GPT-5.6 Sol与Codex，自主完成量子计算实验设计、结果分析和量子比特校准，展示模型在科研自动化中的潜力。",
+          "primary_url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "importance": 5,
+          "items": [
+            "a0c000983b7a473b"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Anthropic研究员辞职警告：自我改进AI恐'杀死全人类'",
+          "summary": "研究员Jacob Coxon因AI灭绝风险从Anthropic辞职，称'确实相信AI可能杀死所有人'，呼吁实验室签署更审慎的pacing协议。",
+          "primary_url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+          "importance": 8,
+          "items": [
+            "02c8d87dfed51b58",
+            "145bf0da701fa53e",
+            "5287a795ef68eed6"
+          ],
+          "cover_path": "out/media/2026-09-10/opinion-00.jpg"
+        },
+        {
+          "headline": "美方指六家中国AI公司'激进抄袭'美国前沿模型",
+          "summary": "美国要求本土AI企业识别并秘密把中国用户切换到能力较弱的模型，防止前沿能力被中国公司蒸馏或复制。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+          "importance": 7,
+          "items": [
+            "f2480ef5147c1485"
+          ],
+          "cover_path": "out/media/2026-09-10/opinion-01.jpg"
+        },
+        {
+          "headline": "旧金山责令Meta停止投放AI'去衣'未成年广告",
+          "summary": "SF市检察官办公室要求Meta解释，为何Facebook/Instagram持续出现将真实少女照片'去衣'的应用广告，并下令停止允许发布。",
+          "primary_url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+          "importance": 7,
+          "items": [
+            "b67271fbff8c49de",
+            "ba7c7f8ebb2e09a4"
+          ],
+          "cover_path": "out/media/2026-09-10/opinion-02.jpg"
+        },
+        {
+          "headline": "Apple Watch AI终有一天'随时在听'？隐私争议升温",
+          "summary": "苹果新手表能转写近期对话、摘要周围人声，虽宣称不上传原始音频，但'始终监听'的产品形态正突破正常社交边界，引发隐私讨论。",
+          "primary_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+          "importance": 6,
+          "items": [
+            "a3d49c9c5baa5189"
+          ],
+          "cover_path": "out/media/2026-09-10/opinion-03.jpg"
+        },
+        {
+          "headline": "Stratechery：OpenAI解数学题or Meta个人代理，谁更改变生活？",
+          "summary": "Stratechery评论称OpenAI解决千禧年数学问题固然惊艳，但对普通人日常影响有限；Meta Muse这类个人代理可能更接近大众。",
+          "primary_url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+          "importance": 6,
+          "items": [
+            "09c99eba3c1fb743"
+          ],
+          "cover_path": "out/media/2026-09-10/opinion-04.jpg"
+        },
+        {
+          "headline": "诺奖得主萨金特：AI仍处'开普勒阶段'，投资或建立在可疑假设上",
+          "summary": "2011年经济学诺奖得主托马斯·萨金特在外滩大会警告，美国AI投资潮的模型基础并不可靠，不确定性之下应保持谦逊。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/M2UgtoHJVKUZw57n.html",
+          "importance": 5,
+          "items": [
+            "0a7936e1d98edab3"
+          ]
+        },
+        {
+          "headline": "马萨诸塞州收紧数据中心清洁电力规定",
+          "summary": "马萨诸塞成为三个月内第三个限制数据中心扩张的州，针对AI算力爆发带来的能耗出台新规。",
+          "primary_url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+          "importance": 5,
+          "items": [
+            "ea001af6c5210998"
+          ],
+          "cover_path": "out/media/2026-09-10/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenAI发布Codex技能目录与插件示例（Skills/Plugins）",
+          "summary": "OpenAI在GitHub公开官方Skills Catalog与Codex插件示例仓库，为编码Agent提供模块化技能和扩展开发范式。",
+          "primary_url": "https://github.com/openai/skills",
+          "importance": 6,
+          "items": [
+            "d13888914e3e505b",
+            "580e3cc3173f66e5"
+          ],
+          "cover_path": "out/media/2026-09-10/opensource-00.jpg"
+        },
+        {
+          "headline": "谷歌开源Mantis：让编程Agent自动挖洞、复现并修复漏洞",
+          "summary": "Mantis提供与模型无关的技能工具包，覆盖漏洞扫描、误报过滤、沙箱复现、打补丁和回归测试的完整安全闭环。",
+          "primary_url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+          "importance": 6,
+          "items": [
+            "8b6484e925c864e2"
+          ],
+          "cover_path": "out/media/2026-09-10/opensource-01.jpg"
+        },
+        {
+          "headline": "NVIDIA发布CUDA Rust：Rust写GPU内核编译期更安全",
+          "summary": "NVIDIA开源cuda-oxide和cutile-rs两个项目，分别覆盖SIMT与Tile编程模型，让Rust成为GPU内核的一等语言。",
+          "primary_url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+          "importance": 5,
+          "items": [
+            "48965b75d76cc616"
+          ],
+          "cover_path": "out/media/2026-09-10/opensource-02.jpg"
+        },
+        {
+          "headline": "IBM开源Granite时序模型PatchTST-FM-r2，商用友好",
+          "summary": "IBM发布SOTA时序基础模型Granite PatchTST-FM-r2，采用商用友好许可证，可通过HuggingFace获取。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "importance": 5,
+          "items": [
+            "4e405502d3e4dcb3"
+          ],
+          "cover_path": "out/media/2026-09-10/opensource-03.jpg"
+        }
+      ]
+    }
+  ]
+}
