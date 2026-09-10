@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-11",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "DeepSeek V4.1-Flash 发布：1M 上下文、FP4 KV Cache",
+          "summary": "DeepSeek 推出 V4.1-Flash，参数几乎翻倍但通过跨层注意力复用与 FP4 KV Cache 大幅压缩显存占用，主打长程 Agent 的百万级上下文推理，被多家媒体称为“显存杀手”。",
+          "importance": 9,
+          "primary_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
+          "items": [
+            "67be343476c35ebc",
+            "6566e253212ea7f5",
+            "e156073a508df5f9"
+          ],
+          "cover_path": "out/media/2026-09-11/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI 上线 GPT-Live-1：全双工语音进入 API",
+          "summary": "GPT-Live-1 在 API 中提供可同时听说、可定制音色并支持电话线路的语音能力，指令遵循更强，开发者可构建更自然的实时语音应用。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "items": [
+            "207f15eebea770e0",
+            "e264277002dd8e03"
+          ]
+        },
+        {
+          "headline": "ChatGPT Images 2.5 上线：更快、更像真修图",
+          "summary": "OpenAI 发布 ChatGPT Images 2.5，主打生成速度与细节提升，图片编辑体验更接近专业修图工作流，被称“AGI 时代的第一个生图模型”。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/09/486684.html",
+          "items": [
+            "214eec276502f7c5"
+          ],
+          "cover_path": "out/media/2026-09-11/model_release-02.jpg"
+        },
+        {
+          "headline": "面壁 MiniCPM5-2B 登顶 HuggingFace 趋势榜",
+          "summary": "2B 参数的 MiniCPM5-2B 登顶 Hugging Face Trending Top 1，AA 综合分居全球 4B 以下开源模型第一，可完成工具调用、深度搜索与代码生成等智能体任务。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3977575664089857?f=rss",
+          "items": [
+            "04ecec37843bdde9"
+          ]
+        },
+        {
+          "headline": "高德发布全球首个 3D 原生城市世界模型",
+          "summary": "阿里旗下高德推出 ABot-Earth 0.7，号称全球首个 3D 原生城市世界模型，尝试为 AI 理解真实物理世界提供入口。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/09/486900.html",
+          "items": [
+            "fe941e25872a24b2"
+          ],
+          "cover_path": "out/media/2026-09-11/model_release-04.jpg"
+        },
+        {
+          "headline": "Skild AI 联合英伟达：看一条视频就学会新任务",
+          "summary": "Skild AI 发布机器人基础模型 S1，基于 NVIDIA 物理 AI 栈，让机器人在产线与仓储场景中通过单条视频快速习得新任务，减少重编程成本。",
+          "importance": 5,
+          "primary_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+          "items": [
+            "906b124692a436f5"
+          ],
+          "cover_path": "out/media/2026-09-11/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 点名阿里、Moonshot、DeepSeek 蒸馏攻击",
+          "summary": "Anthropic 发布报告，指控三家中国 AI 公司持续对其模型发起蒸馏攻击且近月升级；美方同步指责六家中国 AI 公司“激进抄袭”美国前沿模型。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "items": [
+            "66e9dcfdce2d5e29",
+            "f2480ef5147c1485"
+          ],
+          "cover_path": "out/media/2026-09-11/company-00.jpg"
+        },
+        {
+          "headline": "黄仁勋：英伟达明年还要涨 70%，网络安全是下一个大市场",
+          "summary": "黄仁勋在高盛科技会议上解释英伟达为何还能高速增长，并强调交易并非循环融资；同时称 AI 让代码漏洞利用更快，网络安全将成为 AI 的下一个主要应用市场。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+          "items": [
+            "ac4314e7cdc3bfb4",
+            "289576762a254575"
+          ],
+          "cover_path": "out/media/2026-09-11/company-01.jpg"
+        },
+        {
+          "headline": "微软算力告急：数据中心容量要扩两倍以上",
+          "summary": "微软计划到 2032 年将全球数据中心容量从约 12 吉瓦提升至 38 吉瓦以上，以缓解因算力不足而不得不拒接 AI 与云订单的局面。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/3978195737820165?f=rss",
+          "items": [
+            "bf2e35a0b19d2780"
+          ]
+        },
+        {
+          "headline": "Astra 需求压垮系统，OpenAI 暂停 Pro 订阅",
+          "summary": "OpenAI 表示 Pro 订阅对系统压力最大，在扩充算力期间暂停新用户注册，反映 GPT-6 Astra 带来的容量紧张。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+          "items": [
+            "ddf8ae2983cf416b"
+          ],
+          "cover_path": "out/media/2026-09-11/company-03.jpg"
+        },
+        {
+          "headline": "英伟达与 Palantir 联手，用 AI 管百万级零件供应链",
+          "summary": "双方合作将 AI 引入供应链运营，首个落地场景是英伟达自身涉及百万级零部件的采购与调度体系。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/",
+          "items": [
+            "dfda41bf10c080c7"
+          ],
+          "cover_path": "out/media/2026-09-11/company-04.jpg"
+        },
+        {
+          "headline": "对齐学者 Paul Christiano 加入 OpenAI 基金会董事会",
+          "summary": "以 AI 对齐研究闻名的 Paul Christiano 进入 OpenAI Foundation 董事会及安全与安保委员会，被外界视为 OpenAI 强化安全治理的信号。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "items": [
+            "e8398cf65f83846e",
+            "31f3ce4fa03f5d1d"
+          ]
+        },
+        {
+          "headline": "文远知行拿下西班牙首张 L4 乘用车运营牌照",
+          "summary": "文远知行获西班牙首张 L4 级自动驾驶乘用车运营牌照，Robotaxi 商业化服务将于年内上线。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/E2FB0s9aOU9G6saz.html",
+          "items": [
+            "b9d46bcaf873b3c1"
+          ]
+        },
+        {
+          "headline": "Listen Labs 为谈 Salesforce 撕毁 15 亿美元融资",
+          "summary": "消息称 AI 研究初创 Listen Labs 放弃了 Menlo Ventures 已签署的 C 轮条款清单，转而与 Salesforce 洽谈，成为 AI 融资热下的罕见变局。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "items": [
+            "56d71dffed6b05cb"
+          ],
+          "cover_path": "out/media/2026-09-11/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "谷歌 AI 基因组系统：逐一评估每一个单碱基突变",
+          "summary": "谷歌的 AI 基因组系统可对全部可能的单碱基改变进行评估，帮助分辨哪些突变无影响、哪些具有显著生物学意义。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+          "items": [
+            "70a7f81e4a62b186"
+          ],
+          "cover_path": "out/media/2026-09-11/research-00.jpg"
+        },
+        {
+          "headline": "OpenAI 攻千禧难题？1 万个 Agent 造出流体奇点引争议",
+          "summary": "针对 OpenAI 宣称 AI 在数学与流体力学上取得突破，中文技术社区深度拆解其 1 万个 Agent 的工作方式，并伴随“抄袭、威胁数学家”的质疑，与 GPT-6 Astra 数学能力讨论交织。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/yLQMlOgEGqoVMGFA.html",
+          "items": [
+            "bc73fc566e1246d5",
+            "a8654ce6fded2de2",
+            "c3d0824247ddbf99"
+          ]
+        },
+        {
+          "headline": "Anthropic 复盘近期网络安全事件中的模型对齐问题",
+          "summary": "Anthropic 发布对近期网络安全事件的对齐评估，分析模型在真实攻防场景中的行为边界与失效模式。",
+          "importance": 6,
+          "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+          "items": [
+            "99530d1f9a26879f"
+          ],
+          "cover_path": "out/media/2026-09-11/research-02.jpg"
+        },
+        {
+          "headline": "ECCV 2026：中国学者集中卡位世界模型",
+          "summary": "在 ECCV 2026 上，钛动科技牵头的 MARS2 Workshop 成为全场唯一由中国公司主办的 Workshop，多模态大牛与 64 支团队围绕世界模型与多模态推理展开。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/private/N4B8vPY6fPQvqU4Z.html",
+          "items": [
+            "5cb101937b84aef0",
+            "1dfe0c6455d40feb"
+          ]
+        },
+        {
+          "headline": "全球首个可仿真人–场景交互重建框架 HSImul3R",
+          "summary": "大晓机器人联合南洋理工 S-Lab、上海 AI 实验室发布 HSImul3R，把人类视频转化为可仿真的交互数据，为机器人技能学习提供新来源。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/486747.html",
+          "items": [
+            "7364394321160dbf"
+          ],
+          "cover_path": "out/media/2026-09-11/research-04.jpg"
+        },
+        {
+          "headline": "英伟达 BioIR 让 Boltz-2 折叠吞吐提升 2.9 倍",
+          "summary": "NVIDIA 公布 BioNeMo 推理运行时 BioIR，在 8×H100 上实现每 GPU 小时 5.85 万残基的折叠吞吐，且保持纯 PyTorch 接口。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
+          "items": [
+            "8b102d638b063d55"
+          ],
+          "cover_path": "out/media/2026-09-11/research-05.jpg"
+        },
+        {
+          "headline": "ConvMem：用卷积记忆扩展 LLM 长上下文推理",
+          "summary": "arXiv 论文提出卷积记忆结构 ConvMem，试图在固定上下文窗口之外扩展模型的有效记忆与长程推理能力。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2609.10441v1",
+          "items": [
+            "51e15cc953e12695"
+          ],
+          "cover_path": "out/media/2026-09-11/research-06.jpg"
+        },
+        {
+          "headline": "EVA-Bench：首个端到端语音 Agent 评测框架",
+          "summary": "论文提出 EVA-Bench，同时覆盖真实对话模拟与语音特有指标，填补语音智能体缺乏统一评估基准的空白。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2605.13841v3",
+          "items": [
+            "d0b5082975a5260c"
+          ],
+          "cover_path": "out/media/2026-09-11/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 Agents API 公测，Codex 底座一键调用",
+          "summary": "Agents API 把驱动 Codex 的智能体运行框架开放给开发者，可指定任务、模型、工具与运行环境，支持托管沙箱或自有基础设施，公测期不额外收费。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/introducing-the-agents-api",
+          "items": [
+            "8d797930d9acc143",
+            "14bdd2924270b369",
+            "ddc1bb9bd050de15"
+          ]
+        },
+        {
+          "headline": "OpenAI 推出金融版 ChatGPT，内置行情与研报数据",
+          "summary": "ChatGPT for Financial Services 面向投行与股票研究员，结合 Daloopa、PitchBook、LSEG News 等内置数据与 GPT-6 Astra，用于研究、建模和客户材料生成。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "items": [
+            "404e0364a637104b",
+            "588c7c140115f784"
+          ]
+        },
+        {
+          "headline": "ChatGPT Work 上线 Data Agent：自然语言做看板",
+          "summary": "ChatGPT Work 新增数据智能体，可连接企业数据、用自然语言挖掘洞察并生成可交互仪表盘。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/put-data-to-work",
+          "items": [
+            "fc6d6bb11e313656"
+          ]
+        },
+        {
+          "headline": "Meta 的 Muse 冲上美国 App 榜第二",
+          "summary": "Meta 新 AI 智能体应用 Muse 可在 WhatsApp 内帮用户购物、写邮件甚至议价，已成为美国下载量第二的应用，但起量速度慢于 Meta AI 与 Threads。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "items": [
+            "93b5b391a7aef397",
+            "f31bf8e5a4f9cdbf"
+          ],
+          "cover_path": "out/media/2026-09-11/product-03.jpg"
+        },
+        {
+          "headline": "苹果秋季发布会：折叠屏 iPhone Duo 与“常听”手表",
+          "summary": "苹果发布首款折叠屏 iPhone Duo（15999 元起，铰链用 AI 与 3D 打印制造）、可转录环境对话的 Apple Watch、Siri AI 与健康年龄评分，并用 Apple Reference Image 证明照片非 AI 生成。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+          "items": [
+            "4a92ab71fc8a3aec",
+            "6c6922e1f9f1a2e9",
+            "96c91f2963115010"
+          ],
+          "cover_path": "out/media/2026-09-11/product-04.jpg"
+        },
+        {
+          "headline": "支付宝设 1000 万智能体奖，飞猪接入“阿宝”",
+          "summary": "支付宝宣布每年投入 1000 万设“智能体涌现奖”，开发者可用自然语言搭建并接入阿宝服务 10 亿用户；飞猪同时接入阿宝，一句话即可订机票门票。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/osi55rJJYCUZuY7h.html",
+          "items": [
+            "ce288fa68ad92001",
+            "a754fd452935e584"
+          ]
+        },
+        {
+          "headline": "蚂蚁数科推 Agentar 金融版，做智能体“超级工厂”",
+          "summary": "Agentar 金融版提供开箱即用的金融智能体专家团、行业 Skill、MCP 与评测治理能力，覆盖智能体开发、部署、协作与管理的全流程。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html",
+          "items": [
+            "bbb2ccbcf68c186b"
+          ]
+        },
+        {
+          "headline": "Clearview 测试 InquiryIQ：一键挖出你的全网人生",
+          "summary": "此前未曝光的原型 InquiryIQ 调用 xAI 的 Grok 模型，可基于 Clearview 人脸识别结果梳理目标人物的社交账号与关联人脉，供执法机构试用。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+          "items": [
+            "504d6c21b37b12f2"
+          ],
+          "cover_path": "out/media/2026-09-11/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Anthropic 研究员离职警告：自我改进的 AI 可能杀死所有人",
+          "summary": "Jacob Coxon 离职后公开警告 Anthropic 内部存在“迷你曼哈顿计划”，对齐问题未解，人类只剩几年时间，相关言论登上 CNN 与 Fox News 引发主流恐慌。",
+          "importance": 8,
+          "primary_url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+          "items": [
+            "5287a795ef68eed6",
+            "02c8d87dfed51b58",
+            "35ee72161b4b81ba"
+          ],
+          "cover_path": "out/media/2026-09-11/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI 政策主管：AI 政策窗口已开，必须行动",
+          "summary": "Chris Lehane 撰文称能力越强越需要更强的安全证据、共享标准与持久政策，呼吁在政策窗口关闭前推动落地。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/ai-policy-window",
+          "items": [
+            "3a70a249468a84b2"
+          ]
+        },
+        {
+          "headline": "前 DeepMind 公关爆料：曾禁止公开讨论 AI 灭绝风险",
+          "summary": "一名前 DeepMind 公关人员称该实验室一度禁止对外讨论 AI 灭绝风险，折射前沿实验室内部沟通与外部叙事之间的张力。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/",
+          "items": [
+            "f919ce1f9e1fc717"
+          ],
+          "cover_path": "out/media/2026-09-11/opinion-02.jpg"
+        },
+        {
+          "headline": "WeWorm：首个经微信通话传播的零点击蠕虫",
+          "summary": "安全团队公开 WeWorm 演示，可在 iOS 与 Android 上通过微信通话零点击传播，受害者无需接听，暴露通讯类应用的新攻击面。",
+          "importance": 5,
+          "primary_url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+          "items": [
+            "11f651105e17a6e8"
+          ]
+        },
+        {
+          "headline": "AI 智能体正在淹没公共服务系统",
+          "summary": "研究者发现大量 AI 智能体自动替人提交福利申请等公共服务请求，绝大多数为合法诉求，却给本就紧张的办事系统带来新压力。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+          "items": [
+            "76a5590594bb1afc"
+          ],
+          "cover_path": "out/media/2026-09-11/opinion-04.jpg"
+        },
+        {
+          "headline": "普林斯顿教授王梦迪：AI 尚未发现新的基础科学",
+          "summary": "14 岁上清华、普林斯顿最年轻终身教授王梦迪在演讲中表示，AI 目前仍未真正带来基础科学层面的新发现，为当前热度提供冷静视角。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article",
+          "items": [
+            "65d9299291ce122a"
+          ],
+          "cover_path": "out/media/2026-09-11/opinion-05.jpg"
+        },
+        {
+          "headline": "马萨诸塞州对数据中心施加清洁电力新规",
+          "summary": "马萨诸塞州成为三个月内第三个限制数据中心开发条件的州，要求数据中心承担更多清洁电力责任。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+          "items": [
+            "ea001af6c5210998"
+          ],
+          "cover_path": "out/media/2026-09-11/opinion-06.jpg"
+        },
+        {
+          "headline": "外滩大会圆桌：具身智能的路线之争与降维打击之问",
+          "summary": "多位具身智能创业者与学者辩论真实数据还是仿真数据、通用大模型是否会降维打击具身模型，以及机器人如何跨过 Demo 走向可持续商业化。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/NU9IbgdQ5DU8JzPE.html",
+          "items": [
+            "37a09010eba4b8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "谷歌开源 Mantis：让编码 Agent 自己找漏洞并修复",
+          "summary": "Mantis 是一套与技术栈无关的安全审查技能包，覆盖扫描代码、过滤误报、沙箱复现、打补丁与回归验证的完整漏洞生命周期。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+          "items": [
+            "8b6484e925c864e2"
+          ],
+          "cover_path": "out/media/2026-09-11/opensource-00.jpg"
+        },
+        {
+          "headline": "开源世界模型 LingBot-World 2.0：1.3B 单卡实时跑",
+          "summary": "轻量版 LingBot-World 2.0 仅 1.3B 参数，可在单张显卡上实时运行世界模型推理，降低世界模型的研究与部署门槛。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/486716.html",
+          "items": [
+            "7f760974a4b18287"
+          ],
+          "cover_path": "out/media/2026-09-11/opensource-01.jpg"
+        },
+        {
+          "headline": "OpenAI 开源 Codex 技能目录 skills",
+          "summary": "OpenAI 在 GitHub 发布 Codex 技能目录，为编码智能体提供可直接取用的官方技能集合。",
+          "importance": 5,
+          "primary_url": "https://github.com/openai/skills",
+          "items": [
+            "d13888914e3e505b"
+          ]
+        },
+        {
+          "headline": "superpowers：给编码 Agent 一套可组合的方法论",
+          "summary": "开源项目 superpowers 提供基于可组合技能的软件开发方法论，让 Claude Code、Codex 等编码智能体按工程流程工作。",
+          "importance": 5,
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-09-11/opensource-03.jpg"
+        },
+        {
+          "headline": "ThunderKittens 移植英伟达 Vera Rubin NVL72",
+          "summary": "Together AI 将 ThunderKittens 移植到 NVIDIA Vera Rubin NVL72，并围绕新硬件重写 NVFP4 GEMM，性能从 42% roofline 提升至 22 PFLOPS 以上。",
+          "importance": 5,
+          "primary_url": "https://www.together.ai/blog/to-infinity-and-beyond-thunderkittens-now-on-nvidia-vera-rubin-nvl72",
+          "items": [
+            "badcd7e9243ec7ba"
+          ],
+          "cover_path": "out/media/2026-09-11/opensource-04.jpg"
+        },
+        {
+          "headline": "腾讯开源 teamai-cli：让每个团队 AI Native",
+          "summary": "腾讯发布 teamai-cli 命令行工具，目标是把 AI 能力嵌入团队日常研发协作流程。",
+          "importance": 4,
+          "primary_url": "https://github.com/Tencent/teamai-cli",
+          "items": [
+            "4f27b1ab30e4d3af"
+          ],
+          "cover_path": "out/media/2026-09-11/opensource-05.jpg"
+        },
+        {
+          "headline": "TradingAgents：多智能体金融交易开源框架",
+          "summary": "TauricResearch 的 TradingAgents 用多个 LLM 智能体分工完成研究、辩论与交易决策，是金融 Agent 方向热度较高的开源项目。",
+          "importance": 4,
+          "primary_url": "https://github.com/TauricResearch/TradingAgents",
+          "items": [
+            "bbfb2978e3481980"
+          ],
+          "cover_path": "out/media/2026-09-11/opensource-06.jpg"
+        },
+        {
+          "headline": "awesome-gpt-image-2：530+ 案例的提示词引擎",
+          "summary": "社区项目逆向工程 530 多个 GPT-Image2 案例，整理出 20 多套工业级提示词模板与技能包，持续更新。",
+          "importance": 4,
+          "primary_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "items": [
+            "269b0f88c40ca330"
+          ],
+          "cover_path": "out/media/2026-09-11/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
