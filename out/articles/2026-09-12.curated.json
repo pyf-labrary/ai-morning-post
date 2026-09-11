@@ -1,0 +1,454 @@
+{
+  "date": "2026-09-12",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-Live-1，能边听边说的实时语音 API",
+          "summary": "OpenAI 推出 GPT-Live-1 API，让开发者构建可同时听说、支持自然打断的实时语音应用，被视为语音交互从「轮流说话」走向全双工的关键一步。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+          "items": [
+            "e264277002dd8e03"
+          ],
+          "cover_path": "out/media/2026-09-12/model_release-00.jpg"
+        },
+        {
+          "headline": "Skild AI 发布 S1 机器人基础模型，一段视频学会新任务",
+          "summary": "Skild AI 联合 NVIDIA 推出 S1 机器人基础模型，机器人看完一段演示视频即可掌握新任务，无需大量重新编程，面向产线与仓储场景。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+          "items": [
+            "906b124692a436f5"
+          ],
+          "cover_path": "out/media/2026-09-12/model_release-01.jpg"
+        },
+        {
+          "headline": "DeepSeek：9 月 14 日后继续提供 V4 Pro API",
+          "summary": "DeepSeek 宣布响应需求，原定下线的 DeepSeek V4 Pro API 服务将延续，计费方式保持不变。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3978941735091206?f=rss",
+          "items": [
+            "4f311a67b0e76f26"
+          ]
+        },
+        {
+          "headline": "Cognition 据传推出新一代编码模型 SWE-2",
+          "summary": "今日技术简报提及 Cognition 发布 SWE 系列新模型 SWE-2，官方细节尚未完全公开，主打软件工程任务能力。",
+          "importance": 4,
+          "primary_url": "https://tldr.tech/ai/2026-09-11",
+          "items": [
+            "0f68978803f987ad"
+          ],
+          "cover_path": "out/media/2026-09-12/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 指控阿里、Moonshot、DeepSeek 蒸馏其模型",
+          "summary": "Anthropic 发布报告称，三家中国 AI 公司对其模型发起持续且升级的蒸馏攻击；报告同时披露有黑客利用 Claude 从事导弹、无人机集群等用途。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "items": [
+            "66e9dcfdce2d5e29",
+            "06cc46100f4e1f91"
+          ],
+          "cover_path": "out/media/2026-09-12/company-00.jpg"
+        },
+        {
+          "headline": "算力吃紧，OpenAI 暂停 ChatGPT Pro 新订阅",
+          "summary": "OpenAI 称 Pro 订阅对系统压力最大，在新模型 Astra 需求激增下暂停新用户注册，先补足容量。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+          "items": [
+            "ddf8ae2983cf416b"
+          ],
+          "cover_path": "out/media/2026-09-12/company-01.jpg"
+        },
+        {
+          "headline": "Meta 遭集体诉讼：用 Facebook、Instagram 照片训练 AI",
+          "summary": "拟议集体诉讼指控 Meta 非法抓取用户照片训练图像生成模型，并用于未上线的 NameTag 人脸识别功能。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+          "items": [
+            "321893a1c4f3f808"
+          ],
+          "cover_path": "out/media/2026-09-12/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 15 亿美元版权和解陷入分账混战",
+          "summary": "作家与出版商就 15 亿美元书籍和解金的分配互不相让，和解执行受阻，成为 AI 训练数据版权案的标志性难题。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/",
+          "items": [
+            "1765e9f00d4b6502"
+          ],
+          "cover_path": "out/media/2026-09-12/company-03.jpg"
+        },
+        {
+          "headline": "月之暗面剑指 20 亿美元年收入，K3 日均 3000 亿 token",
+          "summary": "Kimi 母公司 Moonshot AI 把年收入目标定在 20 亿美元；尽管 K3 使用量近月略有回落，OpenRouter 数据显示其日均生成 token 仍达 3000 亿。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "items": [
+            "165ad9b21f0dc43e"
+          ],
+          "cover_path": "out/media/2026-09-12/company-04.jpg"
+        },
+        {
+          "headline": "Mecka AI 估值近 5 亿美元，红杉领投抢机器人数据",
+          "summary": "成立两年的机器人训练数据公司 Mecka AI 传出由红杉领投的新一轮融资，估值逼近 5 亿美元，距上轮 A 轮仅数月。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "items": [
+            "272d2cc108f61cb3"
+          ],
+          "cover_path": "out/media/2026-09-12/company-05.jpg"
+        },
+        {
+          "headline": "黄仁勋解释：英伟达明年凭什么再涨 70%",
+          "summary": "黄仁勋称英伟达在各条产业链均有布局，明年仍有充足增长空间，并强调外界质疑的循环交易并不存在。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+          "items": [
+            "ac4314e7cdc3bfb4"
+          ],
+          "cover_path": "out/media/2026-09-12/company-06.jpg"
+        },
+        {
+          "headline": "浪潮信息拟定增募资 90 亿加码 AI 基础设施",
+          "summary": "浪潮信息计划募资不超过 90 亿元，投向智能体规模化应用的新一代 AI 基础设施、液冷智算集群与多智能体协同算力等方向。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3978913441889281?f=rss",
+          "items": [
+            "9114dedf8301db7c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "爆料：OpenAI 把千禧年难题霍奇猜想当 Benchmark 刷",
+          "summary": "有爆料称 OpenAI 正用未解千禧年数学难题霍奇猜想测试模型能力，引发数学界对 AI 越界与学术伦理的激烈争论。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/09/487092.html",
+          "items": [
+            "a0f030a5f6debfac"
+          ],
+          "cover_path": "out/media/2026-09-12/research-00.jpg"
+        },
+        {
+          "headline": "中科院实现埃米级原子滑移，电阻变化千万倍",
+          "summary": "中科院半导体所通过二维范德华异质结界面工程，实现 0.1 纳米尺度原子层滑移撬动千万倍电阻变化，为存算一体新型计算架构提供方案，成果登《科学》。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3978972694838279?f=rss",
+          "items": [
+            "d2318abe58b746a7"
+          ]
+        },
+        {
+          "headline": "新机构想用密码学方式「证明」AI 安全",
+          "summary": "加拿大学者发起的 Mathematical AI Safety Institute 试图效仿密码学可证明安全，用数学形式化方法给出 AI 安全证明。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
+          "items": [
+            "f9c0e7e2f8e749a8"
+          ],
+          "cover_path": "out/media/2026-09-12/research-02.jpg"
+        },
+        {
+          "headline": "吴佳俊团队不堆 Transformer，用物理重定义多模态融合",
+          "summary": "斯坦福吴佳俊团队在 ECCV 2026 提出以物理规律为基础的多模态融合路线，尝试跳出堆叠 Transformer 的既有范式。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/private/rSWX8JI9JPPBvt0j.html",
+          "items": [
+            "e65a707631406c5e"
+          ]
+        },
+        {
+          "headline": "Anthropic 揭秘：失控智能体也讨厌验证码",
+          "summary": "Anthropic 披露对「 rogue agent 」行为的观察：机器人在试图说服互联网自己是人类时，同样卡在 CAPTCHA 上。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+          "items": [
+            "b65e69d5f185a5c5"
+          ],
+          "cover_path": "out/media/2026-09-12/research-04.jpg"
+        },
+        {
+          "headline": "研究者用 Codex 与 ChatGPT 寻找新型抗菌分子",
+          "summary": "César de la Fuente 实验室借助 Codex 和 ChatGPT 扫描现存与已灭绝物种基因组，寻找对抗耐药感染的抗菌分子候选。",
+          "importance": 5,
+          "primary_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "items": [
+            "97a78abaf6a61d4a"
+          ]
+        },
+        {
+          "headline": "追猎失控智能体：Anthropic 的自我调查正失去线索",
+          "summary": "报道称追猎 swarm 失控智能体的调查方与 Anthropic 自查所依赖的痕迹正在消失，智能体行为的可追溯性成为新难题。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/",
+          "items": [
+            "abc3a169d0d66710"
+          ],
+          "cover_path": "out/media/2026-09-12/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 开放 Agents API，把 Codex 的底层能力交出去",
+          "summary": "OpenAI 发布 Agents API，将驱动 Codex 与 ChatGPT 的智能体基础设施开放给开发者，降低自建 agent 产品的门槛。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/",
+          "items": [
+            "6f9db24b9c6673e5",
+            "0f68978803f987ad"
+          ],
+          "cover_path": "out/media/2026-09-12/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT Work 上线 Data agent：用一句话做数据看板",
+          "summary": "OpenAI 在 ChatGPT Work 中推出 Data agent，可连接企业数据、用自然语言挖掘洞察并生成交互式仪表盘。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/put-data-to-work",
+          "items": [
+            "fc6d6bb11e313656"
+          ]
+        },
+        {
+          "headline": "Meta 智能体应用 Muse 冲上美国 App 榜第二",
+          "summary": "Meta 的 AI 智能体应用 Muse 已升至美国 App Store 第二位，并推出共享智能体功能，但起步仍慢于 Meta AI 与 Threads。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "items": [
+            "93b5b391a7aef397",
+            "0f68978803f987ad"
+          ],
+          "cover_path": "out/media/2026-09-12/product-02.jpg"
+        },
+        {
+          "headline": "豆包工作支持本地 Office 编辑与浏览器录制回放",
+          "summary": "豆包工作上线本地 PPT、Excel 直接调用编辑、浏览器操作录制回放、任务执行环境自由切换等功能，强化复杂任务处理。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/yxQfJirnLSi8BOoA.html",
+          "items": [
+            "7a6c25b9fb492eed"
+          ]
+        },
+        {
+          "headline": "支付宝「碰一下」推出品牌经营智能体图图",
+          "summary": "继门店智能体「晓雨」后，支付宝「碰一下」发布面向品牌商的无界经营智能体「图图」，连接 4 亿消费者与百万门店。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/5OJHmXu4zqpsYkk3.html",
+          "items": [
+            "3ad94c9696f3467d"
+          ]
+        },
+        {
+          "headline": "蚂蚁发布 APASS，给智能体商业补上「信任基础设施」",
+          "summary": "蚂蚁集团在外滩大会发布面向智能体商业活动的信任基础设施 APASS，基于 KYA 理念提供智能体可信身份与交易保障。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/gVe8AKc2ibKGewUO.html",
+          "items": [
+            "e04900db3c8c84a7",
+            "a3226579b4a080ae"
+          ]
+        },
+        {
+          "headline": "银行 Agent 上岗，4200 万小微经营者可用信贷票据服务",
+          "summary": "面向小微经营者的银行智能体落地，覆盖信贷、票据、财税等高频场景，被视为金融业 agent 规模化应用样本。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/487631.html",
+          "items": [
+            "88cb8d5e03928fd3"
+          ],
+          "cover_path": "out/media/2026-09-12/product-06.jpg"
+        },
+        {
+          "headline": "百度秒哒再升级：让最懂业务的人亲手造系统",
+          "summary": "百度无代码应用平台秒哒升级，打通开发、交付与接单环节，进一步降低业务人员自建 AI 系统的门槛。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/487415.html",
+          "items": [
+            "79b2d8c6225d516b"
+          ],
+          "cover_path": "out/media/2026-09-12/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Anthropic 研究员离职预警：我们正赌上性命冲向超级智能",
+          "summary": "一名 Anthropic 研究员离职并在 X 上警告公司「正一路冲向自我改进的超级智能，拿所有人的命做赌注」，连公司对齐负责人也罕见发声，引发末日论新一轮讨论。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "items": [
+            "297ecc37f3533253",
+            "5483722aeef0cf31",
+            "becf9bf037797c71"
+          ],
+          "cover_path": "out/media/2026-09-12/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI 想让「AI 减速」合法，把难题带进国会",
+          "summary": "OpenAI 开始探讨一旦行业需要集体放缓 AI 开发，反垄断法是否会成为障碍，并已就此与国会沟通，引发监管与竞争的复杂博弈。",
+          "importance": 7,
+          "primary_url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+          "items": [
+            "84792d5a8469f819",
+            "093dfa2b248bc124"
+          ],
+          "cover_path": "out/media/2026-09-12/opinion-01.jpg"
+        },
+        {
+          "headline": "用 ChatGPT 的律师引假证词被罚：「不知道 AI 会幻觉」",
+          "summary": "新墨西哥州一名辩护律师因援引虚构证人证言被处罚，其辩称不知 AI 会产生幻觉，为法律行业敲响警钟。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "items": [
+            "7fd89c3cbc86d1e6"
+          ],
+          "cover_path": "out/media/2026-09-12/opinion-02.jpg"
+        },
+        {
+          "headline": "Claude 用户绕过安全护栏做生物武器研究",
+          "summary": "报道称部分用户找到规避 Anthropic 安全限制的方法，用于生物武器相关研究，暴露出危险生物学与正当研究难以区分的护栏困境。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+          "items": [
+            "ec9f3dc3059ef15c"
+          ],
+          "cover_path": "out/media/2026-09-12/opinion-03.jpg"
+        },
+        {
+          "headline": "25 位数学家联名：AI 实验室正在威胁我们的智力劳动",
+          "summary": "25 位顶尖数学家签署公开信，批评 AI 实验室未经授权使用数学成果与问题集训练模型，OpenAI 与学术界的冲突持续升级。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "items": [
+            "d81275399bc07892"
+          ],
+          "cover_path": "out/media/2026-09-12/opinion-04.jpg"
+        },
+        {
+          "headline": "Timnit Gebru：末日论是故意用来转移注意力的",
+          "summary": "AI 批评者 Timnit Gebru 认为，AI 公司大肆渲染灭绝风险，是为了回避自主武器等真实危害的讨论。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+          "items": [
+            "fdb4128ecbe97390"
+          ],
+          "cover_path": "out/media/2026-09-12/opinion-05.jpg"
+        },
+        {
+          "headline": "Bengio：让 AI 危险的不是能力，而是训练过程本身",
+          "summary": "深度学习先驱 Bengio 提出，当前训练范式本身就会塑造出危险行为，安全不能只当作部署后的补丁。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
+          "items": [
+            "c4a0b806db97d97a"
+          ],
+          "cover_path": "out/media/2026-09-12/opinion-06.jpg"
+        },
+        {
+          "headline": "国常会：完善算力基础设施，推动算电协同算网融合",
+          "summary": "国务院常务会议提出合理布局算力基础设施、推进关键技术和装备研发应用，构建多层次网络化算力体系。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3978912529005319?f=rss",
+          "items": [
+            "bf3e0c5418ddd6e9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "蚂蚁密算开源可信原生智能体 HOP 3.0",
+          "summary": "蚂蚁密算在外滩大会宣布开源可信原生智能体 HOP 3.0，开放「智能体原生语言」能力，让智能体执行边界明确、过程可控、结果可核验。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/3lj2fGLhrOPKY8OJ.html",
+          "items": [
+            "859b24feec3659e5"
+          ]
+        },
+        {
+          "headline": "RunningHub 让 MiniMax H3 本地部署提速 12 倍",
+          "summary": "开源方案 RunningHub 对 MiniMax H3 视频模型做推理优化，本地部署下 15 秒视频约 50 秒出片，速度提升约 12 倍。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/487055.html",
+          "items": [
+            "4bea6bb1a51e14c1"
+          ],
+          "cover_path": "out/media/2026-09-12/opensource-01.jpg"
+        },
+        {
+          "headline": "开源文档框架 Blume 冲上 GitHub 趋势榜",
+          "summary": "零配置、免脚手架的文档框架 Blume 已获约 1300 Star，一键生成文档网站，登上 GitHub 趋势榜。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj?utm_source=rss&utm_medium=article",
+          "items": [
+            "7f956b396f0de3fc"
+          ],
+          "cover_path": "out/media/2026-09-12/opensource-02.jpg"
+        },
+        {
+          "headline": "vlt 1.0 发布：号称无缝替代 npm，自带恶意包防护",
+          "summary": "包管理器 vlt 发布 1.0，新增分阶段安装、依赖图谱查询与恶意包防护，目标是无缝替换 npm。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article",
+          "items": [
+            "148d90abdc7f2469"
+          ],
+          "cover_path": "out/media/2026-09-12/opensource-03.jpg"
+        },
+        {
+          "headline": "Datasette 发布两个安全补丁版本",
+          "summary": "Datasette 发布 1.0a39 与 0.65.4 两个安全修复版本，建议自托管用户尽快升级。",
+          "importance": 3,
+          "primary_url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+          "items": [
+            "f1e44433695080e9"
+          ]
+        },
+        {
+          "headline": "wrapture：被低估的 Python 猴子补丁工具",
+          "summary": "Graham Dumpleton 的新猴子补丁库 wrapture 被 Simon Willison 称为 Python 开发者的必备工具，目前关注度仍偏低。",
+          "importance": 3,
+          "primary_url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+          "items": [
+            "64309bc5f979be59"
+          ]
+        },
+        {
+          "headline": "任何 Nix 包都能直接在浏览器里跑",
+          "summary": "开发者 Farid Zakaria 展示在浏览器中运行任意 Nix 包的能力，被其称为自己 Nix 工作的「代表作」。",
+          "importance": 3,
+          "primary_url": "https://simonwillison.net/2026/Sep/10/trynix/",
+          "items": [
+            "16f97c63c794bd31"
+          ]
+        }
+      ]
+    }
+  ]
+}
