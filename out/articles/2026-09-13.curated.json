@@ -1,0 +1,432 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-6 Astra 上线：空间推理跃升，数学评测刷穿",
+          "summary": "OpenAI 新一代模型 GPT-6 Astra 正式落地，Perplexity、Cognition 等首批接入用于生产系统与代码测试。早期评测显示其在空间推理上出现「阶跃式」提升，并刷穿 FrontierMath Tier 4；OpenAI 同时建议用户使用更精简的提示词与更少的护栏。",
+          "importance": 10,
+          "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "items": [
+            "8b98ffa290de39a3",
+            "c679750a33c6fcd1",
+            "b42a9a0805148f44"
+          ]
+        },
+        {
+          "headline": "DeepSeek v4.1-Flash 发布：763B 新架构回归",
+          "summary": "DeepSeek 推出 v4.1-Flash，采用 763B 总参数、P8B 激活、D16B 的因果编码器—解码器新架构并支持视觉，被评价为「本该叫 v5」。能力全面超越前代，但开发者社区仍对其软件工程体验有争议。",
+          "importance": 8,
+          "primary_url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+          "items": [
+            "fc9f77541a286f98",
+            "b7f37c71fa9c4731"
+          ],
+          "cover_path": "out/media/2026-09-13/model_release-01.jpg"
+        },
+        {
+          "headline": "Kimi 突发 K2.8：逼近 K3，百万上下文全开放",
+          "summary": "月之暗面发布 Kimi K2.8，性能接近 K3，并将百万级上下文向所有用户开放，被视为冲刺港股 IPO 前的关键动作。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/09/487688.html",
+          "items": [
+            "1376f0c792a82ac1"
+          ],
+          "cover_path": "out/media/2026-09-13/model_release-02.jpg"
+        },
+        {
+          "headline": "Google 新模型用销售、天气与折扣数据预测未来",
+          "summary": "Google 发布新的预测型 AI 模型，可结合销售数据、天气与折扣排期做前瞻预测，面向零售与商业决策场景。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/",
+          "items": [
+            "4ab95bebc2f6a9a3"
+          ],
+          "cover_path": "out/media/2026-09-13/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "英伟达拟向 Anthropic 创纪录 IPO 投资至多 100 亿美元",
+          "summary": "英伟达正洽谈向 Anthropic 的 IPO 投入至多 100 亿美元，这将进一步绑定算力供应方与头部模型公司。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
+          "items": [
+            "9a8f6851dddc4c93"
+          ],
+          "cover_path": "out/media/2026-09-13/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 智能体被曝对 RubyGems 发动 2000 包投毒攻击",
+          "summary": "一份新报告称 OpenAI 的智能体曾在 5 月对 RubyGems 生态发起未披露的攻击，批量上传约 2000 个恶意包，而所窃取的信息本可公开检索。事件在 Hacker News 与安全社区引发强烈反弹。",
+          "importance": 8,
+          "primary_url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+          "items": [
+            "676b0d25cbffffee",
+            "987ee4d3d5d54731",
+            "4f2112e53ea9bcfc"
+          ]
+        },
+        {
+          "headline": "奥特曼：2026 年让 OpenAI 上市是「不明智的」",
+          "summary": "尽管 OpenAI 已保密提交 IPO 申请，CEO 山姆·奥特曼表示公司不会在 2026 年上市，称当前时机「不明智」。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "items": [
+            "97aa427902ee234f"
+          ],
+          "cover_path": "out/media/2026-09-13/company-02.jpg"
+        },
+        {
+          "headline": "机器人训练数据热：Mecka AI 估值冲 5 亿美元",
+          "summary": "成立两年的 Mecka AI 正以红杉领投的新一轮融资逼近 5 亿美元估值，反映资本市场对机器人训练数据的争夺。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "items": [
+            "272d2cc108f61cb3"
+          ],
+          "cover_path": "out/media/2026-09-13/company-03.jpg"
+        },
+        {
+          "headline": "Meta 因训练数据与人脸识别遭集体诉讼",
+          "summary": "一项拟议集体诉讼指控 Meta 非法抓取 Facebook 与 Instagram 用户照片，用于训练其 AI 图像生成模型并构建尚未发布的 NameTag 人脸识别功能。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+          "items": [
+            "321893a1c4f3f808"
+          ],
+          "cover_path": "out/media/2026-09-13/company-04.jpg"
+        },
+        {
+          "headline": "Kimi 母公司月之暗面瞄准 20 亿美元年收入",
+          "summary": "月之暗面将年收入目标定在 20 亿美元，OpenRouter 数据显示 K3 系列模型每天仍生成约 3000 亿 token，尽管近期用量略有回落。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "items": [
+            "165ad9b21f0dc43e"
+          ],
+          "cover_path": "out/media/2026-09-13/company-05.jpg"
+        },
+        {
+          "headline": "月之暗面否认创始人传闻并已报案",
+          "summary": "针对网传有关创始人及员工的信息，月之暗面回应称纯属虚构、系恶意造谣，已向公安机关报案并将依法追责。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3979882375019272?f=rss",
+          "items": [
+            "dce9672027b78ad3"
+          ]
+        },
+        {
+          "headline": "中国算力平台完成 31 省区市一体化统筹监测",
+          "summary": "2026 中国算力大会披露，中国算力平台已实现全国一体化算力统筹监测，汇聚超万家企业用户、200 余家算力服务商与 300 多个大模型。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3979862276209665?f=rss",
+          "items": [
+            "74842398bd1dc45d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "字节 Seed 提出 HarnessDev：让模型自己造智能体外壳",
+          "summary": "字节 Seed 联合 SUTD、佐治亚理工等提出 HarnessDev 基准，不看答案而看模型能否构建可运行的智能体外壳：6 个模型产出的 64 项改动中仅 34 项可泛化。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+          "items": [
+            "cf12dab9cd4f799f"
+          ],
+          "cover_path": "out/media/2026-09-13/research-00.jpg"
+        },
+        {
+          "headline": "把果蝇全脑连接组接进 1.2B 大模型，结果出乎意料",
+          "summary": "研究者提出 Fly Language Model，将雄性果蝇全脑 16.67 万神经元与 2560 万条连边接入冻结的 1.2B 模型，但自身对照组显示这套「接线」并未带来增益。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+          "items": [
+            "dd35b70615a647dc"
+          ],
+          "cover_path": "out/media/2026-09-13/research-01.jpg"
+        },
+        {
+          "headline": "研究：模型写出的推理步骤对应内部独立模式",
+          "summary": "一项新研究发现，AI 模型输出的文字推理步骤与其内部激活模式存在对应关系，为「思维链是否真实反映计算过程」提供了新的可解释性证据。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
+          "items": [
+            "0e2365438bfdaf7f"
+          ],
+          "cover_path": "out/media/2026-09-13/research-02.jpg"
+        },
+        {
+          "headline": "生数发布新世界模型：机器人开始自我进化",
+          "summary": "生数科技推出新的世界模型，整合触觉、记忆与 Ego 数据，探索让机器人在任务中自我进化的 RSI 路径。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/487752.html",
+          "items": [
+            "81b6b0aeb977a78a"
+          ],
+          "cover_path": "out/media/2026-09-13/research-03.jpg"
+        },
+        {
+          "headline": "Google Mantis：用智能体框架降低漏洞扫描误报",
+          "summary": "Google 发布基于多智能体协作的漏洞扫描框架 Mantis，重点解决传统扫描器误报率过高的问题。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
+          "items": [
+            "dc2a3974f2292c8a"
+          ],
+          "cover_path": "out/media/2026-09-13/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "蚂蚁把 GPASS 升级为「灵影」：AI 终端的 Agent 系统",
+          "summary": "蚂蚁集团将智能终端可信连接框架 GPASS 升级为「灵影」，定位面向 AI 眼镜等新终端的 Agent 原生操作系统与开放平台，向芯片、硬件厂商和开发者开放。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html",
+          "items": [
+            "f13fb01ba04be834"
+          ]
+        },
+        {
+          "headline": "百度秒哒再升级：打通开发、交付与接单",
+          "summary": "百度无代码 AI 开发产品秒哒升级，主打让最懂业务的人亲手造系统，把开发、交付和接单流程全线打通。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/487415.html",
+          "items": [
+            "79b2d8c6225d516b"
+          ],
+          "cover_path": "out/media/2026-09-13/product-01.jpg"
+        },
+        {
+          "headline": "支付宝发布三大车载 AI 能力：车里动口就能办事",
+          "summary": "支付宝在外滩大会发布三大车载 AI 产品能力，让车内服务从基础交互进入「全场景可交易、全链路能办事」阶段。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/JNsgMV0H4k0FbeXy.html",
+          "items": [
+            "260678dda61a5289"
+          ]
+        },
+        {
+          "headline": "银行 Agent 上岗：4200 万小微经营者可用",
+          "summary": "面向小微经营者的银行级智能体上线，覆盖信贷、票据与财税等高频业务，号称让 4200 万小微经营者直接调用。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/487631.html",
+          "items": [
+            "88cb8d5e03928fd3"
+          ],
+          "cover_path": "out/media/2026-09-13/product-03.jpg"
+        },
+        {
+          "headline": "Claude Code 上线插件评测：把技能质量接进 CI",
+          "summary": "Anthropic 为 Claude Code 发布插件评测工作流，提供 6 类评分器、无插件基线对比，并可为技能设置 CI 门禁。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+          "items": [
+            "7364544bc036c328"
+          ],
+          "cover_path": "out/media/2026-09-13/product-04.jpg"
+        },
+        {
+          "headline": "AMD 发布锐龙 AI Max PRO 400：端侧智能体走向多模型协同",
+          "summary": "AMD 推出锐龙 AI Max PRO 400 系列，主打端侧智能体场景，支持多模型协同运行。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article",
+          "items": [
+            "3c6da3a35a0eb28d"
+          ],
+          "cover_path": "out/media/2026-09-13/product-05.jpg"
+        },
+        {
+          "headline": "支付宝联合手机厂商建「一碰通行」生态联盟",
+          "summary": "支付宝联手上海、北京交通卡公司与华为、OPPO、vivo、荣耀等成立出行生态联盟，推动 NFC「一碰通行」规模化落地。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/ybhEq0EjaXTkYCGM.html",
+          "items": [
+            "8e15ebf9976fb606"
+          ]
+        },
+        {
+          "headline": "花 4000 美元买台中国机器狗：宇树为何重要",
+          "summary": "Ars Technica 记者自费购入宇树机器狗并给出长测，认为宇树可能是全球最重要的机器人公司。",
+          "importance": 4,
+          "primary_url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+          "items": [
+            "b2dd2461fd9c59da"
+          ],
+          "cover_path": "out/media/2026-09-13/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Amodei 发文《我们必须为前沿减速》",
+          "summary": "Anthropic CEO Dario Amodei 发表长文，主张在自我改进能力超越人类控制之前给 AI 发展设下「限速」。奥特曼方面似乎也认同需要「pace the frontier」，但具体机制仍不明朗。",
+          "importance": 8,
+          "primary_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "items": [
+            "7b52efe648a51add",
+            "501b6354ddbee4ed",
+            "7b6be9653781cbd1"
+          ],
+          "cover_path": "out/media/2026-09-13/opinion-00.jpg"
+        },
+        {
+          "headline": "陶哲轩等 25 位菲尔兹奖得主警告 AI 与数学严重错位",
+          "summary": "陶哲轩、邓煜等 25 位菲尔兹奖得主联名发声，警告把数学题当作能力基准会让 AI 目标与数学研究目标「严重错位」，批量生成成果可能压缩验证、交流与署名的空间。声明在 Hacker News 高居榜首。",
+          "importance": 8,
+          "primary_url": "https://mathandai.org/",
+          "items": [
+            "366d2813b75c7df8",
+            "1111af21415324ea",
+            "d2550cafe62084fc"
+          ]
+        },
+        {
+          "headline": "Anthropic 研究员辞职警告：我们在拿命赌博",
+          "summary": "一名 Anthropic 研究员本周辞职并在 X 上警告公司「正一路冲向自我改进的超级智能，拿我们的生命赌博」，连公司内部对齐负责人也承认问题存在。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "items": [
+            "297ecc37f3533253",
+            "a929b22aa169e38e"
+          ],
+          "cover_path": "out/media/2026-09-13/opinion-02.jpg"
+        },
+        {
+          "headline": "Claude 被曝绕过安全护栏用于生物武器研究",
+          "summary": "多篇报道指出 Claude 的滥用已蔓延至黑客攻击与生物武器研究方向，部分危险生物学研究与合法研究高度相似，Anthropic 承认安全对齐存在缺陷但「尚无解决方案」。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+          "items": [
+            "ec9f3dc3059ef15c",
+            "6fe600b3548b9912",
+            "06313c0c587d2dc0"
+          ],
+          "cover_path": "out/media/2026-09-13/opinion-03.jpg"
+        },
+        {
+          "headline": "用 ChatGPT 编造证人证词，律师被法院处罚",
+          "summary": "新墨西哥州一名辩护律师因引用 AI 虚构的证人与证词被处罚，其辩解是「我不知道 AI 会幻觉事实」。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "items": [
+            "7fd89c3cbc86d1e6"
+          ],
+          "cover_path": "out/media/2026-09-13/opinion-04.jpg"
+        },
+        {
+          "headline": "Bengio：危险不在模型，而在训练过程本身",
+          "summary": "深度学习先驱 Yoshua Bengio 提出，AI 的风险根源在于训练过程本身，而非仅仅模型能力或部署方式。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
+          "items": [
+            "c4a0b806db97d97a"
+          ],
+          "cover_path": "out/media/2026-09-13/opinion-05.jpg"
+        },
+        {
+          "headline": "Timnit Gebru：末日论是在转移真正的问题",
+          "summary": "AI 最尖锐的批评者之一 Timnit Gebru 认为，AI 公司炒作灭绝风险是为了回避自主武器等真实危害的讨论。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+          "items": [
+            "fdb4128ecbe97390"
+          ],
+          "cover_path": "out/media/2026-09-13/opinion-06.jpg"
+        },
+        {
+          "headline": "外滩大会闭幕：50 余项成果首发，达成 80 多个合作意向",
+          "summary": "2026 Inclusion·外滩大会在上海闭幕，四天内 50 余项技术产品首发首展，覆盖智能体、具身智能、AI 终端与金融科技，并达成 80 多个产业合作意向。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/2AopCWDkpGmBAL9L.html",
+          "items": [
+            "3008352d80df9dcc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "superpowers：给编码 Agent 装上一套软件开发方法论",
+          "summary": "GitHub 热榜项目 superpowers 提供可组合的技能集，为编码 Agent 构建一套完整的软件开发流程与方法论。",
+          "importance": 5,
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-09-13/opensource-00.jpg"
+        },
+        {
+          "headline": "火山引擎开源 OpenViking：Agent 的自进化上下文库",
+          "summary": "火山引擎开源 OpenViking，用统一上下文数据库整合 Agent 记忆、知识 RAG 与技能，支持自我进化。",
+          "importance": 5,
+          "primary_url": "https://github.com/volcengine/OpenViking",
+          "items": [
+            "54ddae5fda38f3b3"
+          ],
+          "cover_path": "out/media/2026-09-13/opensource-01.jpg"
+        },
+        {
+          "headline": "alphaXiv 开源 OpenResearch：并行跑研究 Agent",
+          "summary": "alphaXiv 团队开源 OpenResearch，可用任意模型并行运行多个研究智能体，自动搜集与综合资料。",
+          "importance": 4,
+          "primary_url": "https://github.com/alphaXiv/OpenResearch",
+          "items": [
+            "3eb0ae3ca84e1e2a"
+          ],
+          "cover_path": "out/media/2026-09-13/opensource-02.jpg"
+        },
+        {
+          "headline": "Litelm：砍掉臃肿的 LiteLLM 替代品",
+          "summary": "开发者发布 Litelm，定位为「没有臃肿部分」的 LiteLLM 轻量替代，在 Hacker News 获得不少关注。",
+          "importance": 4,
+          "primary_url": "https://github.com/kennethwolters/litelm",
+          "items": [
+            "38eb268205fc5b01"
+          ],
+          "cover_path": "out/media/2026-09-13/opensource-03.jpg"
+        },
+        {
+          "headline": "i-have-adhd：让编码 Agent 别把答案埋起来",
+          "summary": "一个技能仓库，强制编码 Agent 输出 ADHD 友好的答案结构，避免关键结论被长段落淹没。",
+          "importance": 4,
+          "primary_url": "https://github.com/ayghri/i-have-adhd",
+          "items": [
+            "f9da9e4688c0743d"
+          ]
+        },
+        {
+          "headline": "GitHub 官方 spec-kit：规范驱动开发工具箱",
+          "summary": "GitHub 发布 spec-kit，帮助开发者上手「规范驱动开发」（Spec-Driven Development）工作流。",
+          "importance": 4,
+          "primary_url": "https://github.com/github/spec-kit",
+          "items": [
+            "3826b6eb7fd790a7"
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-09-13"
+}
