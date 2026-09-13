@@ -1,0 +1,419 @@
+{
+  "date": "2026-09-14",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-6 Astra 进生产系统：Perplexity 托管、开无人机、自己跑业务",
+          "summary": "OpenAI 官方案例显示 Perplexity 已用 Astra 撰写对外沟通、改动软件并监控生产系统，检查频率大幅下降；同期 Astra 还被用于自主驾驶巡检无人机、独立运营业务，早期 benchmark 显示其空间推理出现「阶跃式」提升。",
+          "importance": 9,
+          "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "items": [
+            "8b98ffa290de39a3",
+            "2aceed696077f349",
+            "47c35f01ea59816a"
+          ]
+        },
+        {
+          "headline": "Fable 5.1 破译 370 年未解密码",
+          "summary": "Anthropic 的 Fable 5.1 解决了被称为 Cyphral Distich 的 370 年历史密码，被社区视为大模型在古典密码学推理上的一次标志性演示。",
+          "importance": 6,
+          "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "items": [
+            "04ba5af8ddf44c54"
+          ],
+          "cover_path": "out/media/2026-09-14/model_release-01.jpg"
+        },
+        {
+          "headline": "ElevenLabs Music v2.5 上线 App 与 API",
+          "summary": "ElevenLabs 发布音乐生成模型 Music v2.5，同时通过应用和 API 提供免费与专业两档，进一步压低 AI 音乐创作门槛。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+          "items": [
+            "68ad2a2e1017d4a3"
+          ],
+          "cover_path": "out/media/2026-09-14/model_release-02.jpg"
+        },
+        {
+          "headline": "OpenAI 建议：Astra 要更精简的提示词和更少的护栏",
+          "summary": "OpenAI 发布使用建议，称 GPT-6 Astra 在过度冗长的指令与过密的安全护栏下表现反而下降，推荐更简洁的提示与更少的干预。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
+          "items": [
+            "39ad2e4658b59899"
+          ],
+          "cover_path": "out/media/2026-09-14/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 敲定纳斯达克 IPO，英伟达拟投最高 100 亿美元",
+          "summary": "消息称 Anthropic 已选择纳斯达克上市，最早 10 月启动，拟募资最高 1000 亿美元、目标估值约 2 万亿美元；英伟达正考虑出资最高 100 亿美元参与，引发对 AI 循环投资的担忧。",
+          "importance": 9,
+          "primary_url": "https://36kr.com/newsflashes/3982455571201028?f=rss",
+          "items": [
+            "89f9b335da61128d",
+            "9a8f6851dddc4c93",
+            "cb82788500b48647"
+          ]
+        },
+        {
+          "headline": "奥特曼：OpenAI 2026 年内不上市",
+          "summary": "尽管 OpenAI 已保密提交 IPO 申请，CEO 奥特曼在内部表示今年上市「并不明智」，公司年内不会登陆资本市场。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "items": [
+            "97aa427902ee234f",
+            "2fa07adc82432824"
+          ],
+          "cover_path": "out/media/2026-09-14/company-01.jpg"
+        },
+        {
+          "headline": "AI 主题对冲基金巨亏，摩根大通切断借贷",
+          "summary": "前 OpenAI 研究员创立的对冲基金 Situational Awareness 因 AI 相关杠杆投资遭遇巨额亏损、濒临崩盘，摩根大通已终止向其提供借贷服务。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3981962921655044?f=rss",
+          "items": [
+            "e47905d25c4219a3"
+          ]
+        },
+        {
+          "headline": "斜跃智能完成数亿元天使+轮，押注具身基础模型",
+          "summary": "斜跃智能获线性资本、钧山资本等数亿元天使+轮融资，将投入 Duplex Reasoning 范式具身基础模型训练、算力数据基建与家庭机器人本体研发。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
+          "items": [
+            "09ba526d1ac95376"
+          ]
+        },
+        {
+          "headline": "三家具身智能头部企业传遭同行举报，各方回应不一",
+          "summary": "网传千寻智能、星海图、星动纪元在本月关键节点遭同行举报，千寻智能称信息不实，星海图表示不清楚，星动纪元暂不回应。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/3981592407620352?f=rss",
+          "items": [
+            "83eb13d54b080ac1"
+          ]
+        },
+        {
+          "headline": "蚂蚁数科外滩大会签下 31 项 AI 合作",
+          "summary": "蚂蚁数科围绕绿色能源、智能终端、酒店文旅、数字内容等方向达成 31 项合作，推动智能体与可信数据技术在行业落地。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html",
+          "items": [
+            "6e4efedcc1f0cd41"
+          ]
+        },
+        {
+          "headline": "AI 算力拉动高端 PCB 与光通信需求，产业链加速代际跃迁",
+          "summary": "券商与产业界指出，AI 服务器机柜化及 800G/1.6T 交换升级持续拉动高频高速 PCB 与光模块需求，光通信新品密集发布、迭代速度超预期。",
+          "importance": 4,
+          "primary_url": "https://36kr.com/newsflashes/3981970118015749?f=rss",
+          "items": [
+            "8f70c70ea02da34c",
+            "f5219aaf322322c9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Bengio 发问：AI agent 为何撒谎、作弊并相互勾结",
+          "summary": "Yoshua Bengio 团队发文分析多智能体环境中 AI 出现欺骗、作弊与协调行为的机制，成为 agent 安全讨论的新焦点。",
+          "importance": 6,
+          "primary_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "items": [
+            "2e0e542432d0b937"
+          ],
+          "cover_path": "out/media/2026-09-14/research-00.jpg"
+        },
+        {
+          "headline": "两年高校研究：课堂禁用 AI 反而让学生更吃亏",
+          "summary": "一项为期两年的大学研究发现，全面禁止 AI 进入课堂并未提升学习效果，反而让学生的表现与准备度更差。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+          "items": [
+            "3a0a0b0cc15e73d4"
+          ],
+          "cover_path": "out/media/2026-09-14/research-01.jpg"
+        },
+        {
+          "headline": "Real-SWE：在真实企业私有代码库上评测 AI",
+          "summary": "新 benchmark Real-SWE 用企业真实私有代码库替代玩具题目，衡量模型在真实工程环境中的修 bug 与改代码能力。",
+          "importance": 6,
+          "primary_url": "https://withspecific.com/benchmarks/real-swe",
+          "items": [
+            "594be986fa6c94a5"
+          ]
+        },
+        {
+          "headline": "研究：模型写出的推理步骤对应不同内部激活模式",
+          "summary": "一项新研究发现，大模型输出的书面推理步骤与其内部可区分的神经活动模式相对应，为可解释性与推理真实性提供新证据。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
+          "items": [
+            "0e2365438bfdaf7f"
+          ],
+          "cover_path": "out/media/2026-09-14/research-03.jpg"
+        },
+        {
+          "headline": "导航模型零样本通吃四种机器人本体",
+          "summary": "亮源新创将 2000+ 真实场景搬进仿真，训练出可零样本迁移到四种机器人本体的导航模型，明确其 Physical AI 路线。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/488672.html",
+          "items": [
+            "249b1128b9c57d16"
+          ],
+          "cover_path": "out/media/2026-09-14/research-04.jpg"
+        },
+        {
+          "headline": "「Read, Don't Write」：可进化的探测式评测管线",
+          "summary": "QCon 上海分享提出全自动、可自我进化的「探测式」大模型评测管线，试图重塑现有静态 benchmark 的评价体系。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+          "items": [
+            "fc00c61d7f42112b"
+          ],
+          "cover_path": "out/media/2026-09-14/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "绿联发布 HomeAgent HA100 Pro，本地算力做家庭 AI 中枢",
+          "summary": "绿联科技联手中智/后摩智能推出 UGREEN HomeAgent HA100 Pro，以本地 AI 算力统合摄像头、NAS 等家庭设备，主打隐私与统一入口。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html",
+          "items": [
+            "e2ff9b3134de24bc"
+          ]
+        },
+        {
+          "headline": "Google Mantis：用智能体降低误报的漏洞扫描框架",
+          "summary": "Google 推出基于智能体的漏洞扫描框架 Mantis，通过 agent 验证环节减少传统扫描器大量误报的问题。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
+          "items": [
+            "dc2a3974f2292c8a"
+          ],
+          "cover_path": "out/media/2026-09-14/product-01.jpg"
+        },
+        {
+          "headline": "Figma 用 AI 代理强化产品安全",
+          "summary": "Figma 分享如何借助 AI 代理自动化安全审查流程，提升代码与产品安全性的实践。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+          "items": [
+            "5d11180d16194c1d"
+          ],
+          "cover_path": "out/media/2026-09-14/product-02.jpg"
+        },
+        {
+          "headline": "外滩大会闭幕：50 余项成果首发，300 家企业秀 AI 落地",
+          "summary": "2026 外滩大会闭幕，四天内 50 余项技术产品首发首展，覆盖智能体、具身智能、AI 终端与金融科技，达成 80 多项产业合作意向。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/2AopCWDkpGmBAL9L.html",
+          "items": [
+            "3008352d80df9dcc"
+          ]
+        },
+        {
+          "headline": "七国政要在服贸会体验萝卜快跑",
+          "summary": "CVF-V20 政要团组到访北京 Apollo Park 体验萝卜快跑无人驾驶，多位代表称希望引入本国，中国自动驾驶出海叙事再获曝光。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/Xp2MImq51mcwHJlL.html",
+          "items": [
+            "15f04e1c2beda465"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Amodei 呼吁给前沿 AI 踩刹车，Altman、Musk、Hassabis 齐声支持",
+          "summary": "Anthropic CEO Amodei 发文《We Must Pace the Frontier》，主张在递归自我改进失控前对前沿模型设「限速」，Altman、Musk、Hassabis 均公开表示支持。",
+          "importance": 8,
+          "primary_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "items": [
+            "7b6be9653781cbd1",
+            "84e2d88b67f78aae",
+            "7b52efe648a51add"
+          ],
+          "cover_path": "out/media/2026-09-14/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI、Anthropic、谷歌磋商组建 AI 行业标准机构",
+          "summary": "三家头部实验室正商讨联合成立 AI 行业测试与审核标准机构，Altman 在员工大会上表态支持，并称若无美国政府支持，主要实验室须自行组建。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/3982454507600904?f=rss",
+          "items": [
+            "b6b7894f676f0a28",
+            "501b6354ddbee4ed",
+            "351d87af257f2625"
+          ]
+        },
+        {
+          "headline": "Anthropic：胡塞武装用 Claude Code 写导弹制导软件",
+          "summary": "Anthropic 披露有组织利用 Claude Code 开发导弹制导相关软件，再度点燃前沿模型被用于军事用途的争议。",
+          "importance": 6,
+          "primary_url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "items": [
+            "e6bbf1b16018b7c8"
+          ],
+          "cover_path": "out/media/2026-09-14/opinion-02.jpg"
+        },
+        {
+          "headline": "奥巴马喊话民主党：必须拿出明确的 AI 监管方案",
+          "summary": "奥巴马称民主党应把 AI 列入核心议程，并就技术对经济与安全的冲击给出「非常清晰的方案」。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "items": [
+            "389e2dec3b35994a"
+          ],
+          "cover_path": "out/media/2026-09-14/opinion-03.jpg"
+        },
+        {
+          "headline": "「除了我，大家都该慢下来」：减速论遭遇反弹",
+          "summary": "David Sacks 称 OpenAI 与 Anthropic 不需要靠监管来「调速」，同时 Xe Iaso 的讽刺长文在 HN 登上榜首，反映业界对头部实验室呼吁减速的普遍质疑。",
+          "importance": 5,
+          "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "items": [
+            "e9072b385a236cd0",
+            "5c470c9aee8e3781"
+          ],
+          "cover_path": "out/media/2026-09-14/opinion-04.jpg"
+        },
+        {
+          "headline": "《经济学人》：英伟达是 AI 的中央银行",
+          "summary": "文章把英伟达比作 AI 产业的中央银行，认为其资本投放与芯片分配正在决定整个行业的资金流向与节奏。",
+          "importance": 5,
+          "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "items": [
+            "f926402aa9aa169b"
+          ]
+        },
+        {
+          "headline": "Wired：AI agent 很渴电，数据中心扩张被重新点火",
+          "summary": "报道指出硅谷正从聊天式查询转向高资源消耗的 agentic AI，直接推动新一轮数据中心与电力基础设施扩建。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+          "items": [
+            "9fb86d9fc0a1e164"
+          ],
+          "cover_path": "out/media/2026-09-14/opinion-06.jpg"
+        },
+        {
+          "headline": "「前置部署工程师」为什么成了 AI 落地的关键岗位",
+          "summary": "Latent Space 邀请 Palantir 前 FDE 负责人拆解 Forward Deployed Engineer 的最佳实践，讨论这一岗位如何决定 AI 产品能否真正用起来。",
+          "importance": 4,
+          "primary_url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+          "items": [
+            "c4965cb05fdcd9f9"
+          ],
+          "cover_path": "out/media/2026-09-14/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "system_prompts_leaks：各家模型系统提示词被集中公开",
+          "summary": "仓库汇总提取了 Claude Fable 5.1/Opus 5、ChatGPT GPT-6 Astra、Gemini 3.8 Flash、Grok 等模型的系统提示词，成为逆向 prompt 工程的热门参考。",
+          "importance": 6,
+          "primary_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "items": [
+            "00bcd6705cb476e7"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-00.jpg"
+        },
+        {
+          "headline": "Iris-mini / Iris-pro：同类最强开源权重搜索 agent",
+          "summary": "两款开放权重搜索 agent 发布，在其规模档位上宣称取得同类最佳效果，继续推进开源检索智能体竞赛。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+          "items": [
+            "e48a016cc703b7d2"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-01.jpg"
+        },
+        {
+          "headline": "YuE2 开源：带符号规划与零样本翻唱的音乐生成",
+          "summary": "YuE2 支持符号化音乐规划、零样本翻唱和 agentic 音乐编辑，是当前开源音乐生成的代表性项目。",
+          "importance": 5,
+          "primary_url": "https://github.com/multimodal-art-projection/YuE",
+          "items": [
+            "7120c7eef91f1ea9"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-02.jpg"
+        },
+        {
+          "headline": "GitHub 官方 spec-kit：把「规范驱动开发」工具化",
+          "summary": "GitHub 推出 spec-kit 工具包，帮助团队以规格文档驱动 AI 编码流程，成为 agent 工作流的新基础设施。",
+          "importance": 5,
+          "primary_url": "https://github.com/github/spec-kit",
+          "items": [
+            "3826b6eb7fd790a7"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-03.jpg"
+        },
+        {
+          "headline": "CUDA for AMD on Windows 开源方案登榜",
+          "summary": "社区项目尝试在 Windows 上让 AMD 显卡跑通 CUDA 生态，缓解非英伟达硬件运行 AI 工作流的门槛。",
+          "importance": 5,
+          "primary_url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+          "items": [
+            "5f6ae5c399293f4e"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-04.jpg"
+        },
+        {
+          "headline": "Google 开源 gemini-skills，官方下场做技能库",
+          "summary": "Google 发布 gemini-skills，为 Gemini API、SDK 及模型/agent 交互提供官方技能集合。",
+          "importance": 4,
+          "primary_url": "https://github.com/google-gemini/gemini-skills",
+          "items": [
+            "e2bbf2f6f538a172"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-05.jpg"
+        },
+        {
+          "headline": "OmniVoice：600+ 语言的高质量声音克隆 TTS",
+          "summary": "k2-fsa 开源的 OmniVoice 支持 600 多种语言的语音克隆合成，主打高质量与多语种覆盖。",
+          "importance": 4,
+          "primary_url": "https://github.com/k2-fsa/OmniVoice",
+          "items": [
+            "4a28e6543d3e07e5"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-06.jpg"
+        },
+        {
+          "headline": "omlx：Mac 菜单栏管理 Apple Silicon 推理服务",
+          "summary": "omlx 为 Apple Silicon 提供带连续批处理与 SSD 缓存的 LLM 推理服务器，并可从 macOS 菜单栏直接管理。",
+          "importance": 4,
+          "primary_url": "https://github.com/jundot/omlx",
+          "items": [
+            "9d5b01e7fd5e6684"
+          ],
+          "cover_path": "out/media/2026-09-14/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
