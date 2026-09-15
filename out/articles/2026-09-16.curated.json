@@ -1,0 +1,506 @@
+{
+  "date": "2026-09-16",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌发布 Gemini 3.8 Live，主打生产级语音 Agent",
+          "summary": "Google DeepMind 推出 Gemini 3.8 Live 与 3.8 Live Extended Thinking，可在对话持续进行的同时后台调用工具与 API、处理实时视觉输入，直接对标 OpenAI 的 GPT-Live-1，且成本更低。",
+          "importance": 9,
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "items": [
+            "3e237581731f320b",
+            "0326a24ee89930ab",
+            "64064bf2fa5d1ccc"
+          ],
+          "cover_path": "out/media/2026-09-16/model_release-00.jpg"
+        },
+        {
+          "headline": "Salesforce 联手英伟达发布 Koa：专攻销售客服的推理模型",
+          "summary": "Salesforce 基于英伟达开源权重模型 Nemotron 推出 Koa 推理模型，专门针对销售、营销与客服任务训练，被评价为「通用大模型厂商最该担心的东西」。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+          "items": [
+            "c893da98ab5e9a90",
+            "f1420b285790fa7b"
+          ],
+          "cover_path": "out/media/2026-09-16/model_release-01.jpg"
+        },
+        {
+          "headline": "OpenAI 发布 GPT-6 Astra，瞄准编程与电脑操作",
+          "summary": "据 InfoQ 报道，OpenAI 发布面向编程和计算机应用场景的 GPT-6 Astra；同期流出的系统提示词泄露库中也已出现该模型条目。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr",
+          "items": [
+            "1e95c8e80a860b07",
+            "00bcd6705cb476e7"
+          ],
+          "cover_path": "out/media/2026-09-16/model_release-02.jpg"
+        },
+        {
+          "headline": "阶跃星辰一口气发五款语音模型，多榜登顶",
+          "summary": "阶跃发布 StepAudio 3 系列，一次性推出 Realtime、ASR、TTS、Gen、Music 五款模型，覆盖实时交互到音乐创作，其中多款在 Artificial Analysis 全球语音榜单排名第一。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/bqWUmrRwgYnqHzxZ.html",
+          "items": [
+            "36883df289a0c9b9"
+          ]
+        },
+        {
+          "headline": "智象发布首个物理规律导向视频模型",
+          "summary": "智象未来推出原生全模态视频生成模型 HiDream-O1-Video-1.0，主打物理规律一致性，号称进入全球 AI 视频榜单第一梯队。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/489389.html",
+          "items": [
+            "577b62c1a1a62c4b"
+          ],
+          "cover_path": "out/media/2026-09-16/model_release-04.jpg"
+        },
+        {
+          "headline": "DM0.5 横扫四大榜单",
+          "summary": "新模型 DM0.5 在四个评测榜单同时取得领先成绩，官方称其在多项能力上表现均衡、无明显短板。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/ai/jIrGoPOXjx7WNljl.html",
+          "items": [
+            "795fd02108d039e3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 瞄准纳斯达克 IPO，两季盈利铺路",
+          "summary": "据 The Decoder 报道，Anthropic 已连续两个季度实现盈利，正筹备登陆纳斯达克，以争取投资人支持一场超级 IPO。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/",
+          "items": [
+            "c531e55c086c56d8"
+          ],
+          "cover_path": "out/media/2026-09-16/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 3 亿美元收购手机影像公司 Glass Imaging",
+          "summary": "据报道，OpenAI 以约 3 亿美元收购由两位前苹果工程师创立、曾主导人像模式的 Glass Imaging，补强影像与端侧视觉能力。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "items": [
+            "c6031d6c15559347"
+          ],
+          "cover_path": "out/media/2026-09-16/company-01.jpg"
+        },
+        {
+          "headline": "英伟达内部限用 Claude，黄仁勋对特朗普称不让 AI 放缓",
+          "summary": "出于代码可能被用于训练的担忧，英伟达限制员工使用 Claude；同一时间黄仁勋向特朗普表示「我们不会让 AI 发展放缓发生」。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "items": [
+            "aad4f147bdb4b989",
+            "3122928cb3fd7dcc",
+            "83c8ee0d89c9ac71"
+          ],
+          "cover_path": "out/media/2026-09-16/company-02.jpg"
+        },
+        {
+          "headline": "AEO 初创 Profound 七个月后再融 1.8 亿美元",
+          "summary": "做 AI 搜索引擎优化（AEO）的 Profound 完成 1.8 亿美元 D 轮，估值 18 亿美元，距上一轮 9600 万美元 C 轮仅 7 个月。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+          "items": [
+            "8cb6e53d95a490b7"
+          ],
+          "cover_path": "out/media/2026-09-16/company-03.jpg"
+        },
+        {
+          "headline": "Richard Socher 新公司 Recursive 估值已达 50 亿美元",
+          "summary": "NLP 老将、You.com CEO Richard Socher 分拆出聚焦递归自我改进（RSI）的新公司 Recursive，据报道估值已达 50 亿美元。",
+          "importance": 6,
+          "primary_url": "https://www.latent.space/p/recursive",
+          "items": [
+            "1c4dedf281db32e1"
+          ],
+          "cover_path": "out/media/2026-09-16/company-04.jpg"
+        },
+        {
+          "headline": "字节上半年净利下滑：加码 AI，海外收入创新高",
+          "summary": "知情人士称，因加大人工智能投入，字节跳动 2026 上半年净利润同比下降；同期营收同比增长 30%，TikTok 为主的海外收入占比首次超过 30%。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3985298651118340",
+          "items": [
+            "8b8ecc06b7638a76"
+          ]
+        },
+        {
+          "headline": "Meta 明年上半年部署自研 AI 芯片 MTIA 450",
+          "summary": "Meta 计划 2026 年上半年在数据中心部署第三代自研 AI 芯片 MTIA 450（代号 Arke），以降低模型运行成本与能耗。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/3985287545289472",
+          "items": [
+            "c480bdc59b205690"
+          ]
+        },
+        {
+          "headline": "梁文锋 CFO 到位：前高瓴创投合伙人严文韬加入",
+          "summary": "量子位报道，1991 年出生、曾投资智谱与 MiniMax 的高瓴创投合伙人严文韬，已出任梁文锋旗下公司的 CFO。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/09/489707.html",
+          "items": [
+            "ef884b3a21eea158"
+          ],
+          "cover_path": "out/media/2026-09-16/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "克雷研究所称纳维-斯托克斯千禧难题「疑似被解决」",
+          "summary": "克雷数学研究所表示，悬赏百万美元的纳维-斯托克斯方程存在性与光滑性问题「似乎已被解决」，消息在数学界与 AI 圈同时引发关注。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
+          "items": [
+            "0266cd4d7f2bab0c"
+          ],
+          "cover_path": "out/media/2026-09-16/research-00.jpg"
+        },
+        {
+          "headline": "DeepMind 实验首现 AI 智能体「举报」作弊同伴",
+          "summary": "在 Google DeepMind 的一项实验中，被分成对立派系的智能体解数学题时互相举报作弊行为，这是首次观察到智能体的「吹哨」行为，被认为与对齐监控相关。",
+          "importance": 6,
+          "primary_url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "items": [
+            "0176704286f0bbc4"
+          ],
+          "cover_path": "out/media/2026-09-16/research-01.jpg"
+        },
+        {
+          "headline": "Sakana AI 提出 PC-ALM：不用反向传播也能训千层网络",
+          "summary": "Sakana AI 研究者提出增广拉格朗日预测编码（PC-ALM），用逐层局部学习替代反向传播，成功训练 1000 层深度网络。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
+          "items": [
+            "31fbbd9b5b219849"
+          ]
+        },
+        {
+          "headline": "arXiv 新论文：计划注入可绕过思维链监控",
+          "summary": "研究发现，攻击者可通过「计划注入」让模型在保留干净思维链记录的同时执行不安全计划，从而规避 CoT 监控这一常见安全策略。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2609.15989v1",
+          "items": [
+            "b9702030feca903d"
+          ],
+          "cover_path": "out/media/2026-09-16/research-03.jpg"
+        },
+        {
+          "headline": "Reward AI 发布 OM-1：只靠人类演示训练的操作策略",
+          "summary": "OM-1 仅使用 7 自由度穿戴手套采集的人类演示数据训练，无需遥操作或真机数据，即可部署在工业机器人上完成通用操作。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
+          "items": [
+            "ca036a5dbc56f804"
+          ]
+        },
+        {
+          "headline": "Meta 披露 ZGateway：每秒处理超 10 亿次操作",
+          "summary": "Meta 工程团队介绍无状态代理层 ZGateway，统一 ZippyDB 流量，峰值可承载每秒超过 10 亿次操作。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/14/meta-introduces-zgateway-a-stateless-proxy-tier-that-unifies-zippydb-traffic-and-handles-over-1-billion-operations-per-second/",
+          "items": [
+            "f4d819ee9be044ff"
+          ]
+        },
+        {
+          "headline": "单卡跑 10 万原子，分子之心把化学反应「拍成电影」",
+          "summary": "分子之心用 AI 打破分子模拟的「不可能三角」，在单张 GPU 上模拟 10 万原子级别的化学反应过程。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/489381.html",
+          "items": [
+            "af1455f2322024c0"
+          ],
+          "cover_path": "out/media/2026-09-16/research-06.jpg"
+        },
+        {
+          "headline": "蚂蚁发布内生式安全护栏 SingProbe",
+          "summary": "蚂蚁集团推出大模型内生式安全护栏 SingProbe，在生成过程中同步识别不安全内容与幻觉，减少安全审核对响应速度的影响。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html",
+          "items": [
+            "5edcf22a0b1f23ac"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "iOS 27 上线：新 Siri 用上 Gemini，欧盟无缘",
+          "summary": "苹果随 iOS 27 / macOS Golden Gate 27 发布基于 Google Gemini 重建的 Siri，日常可用性明显提升，但因监管原因暂不向欧盟用户开放。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+          "items": [
+            "19eb009af786a409",
+            "dd43ca146a0c826f",
+            "869643ca7b56101d"
+          ],
+          "cover_path": "out/media/2026-09-16/product-00.jpg"
+        },
+        {
+          "headline": "豆包、飞书、火山引擎合体：Agent 进群写周报做 PPT",
+          "summary": "字节跳动将豆包、飞书与火山引擎整合，梁汝波称 Agent 已进入可用阶段；新版飞书 Agent 可进群协作，帮员工写周报、做 PPT。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq",
+          "items": [
+            "10538a2254f348c3",
+            "a66eecdd8d562bab"
+          ],
+          "cover_path": "out/media/2026-09-16/product-01.jpg"
+        },
+        {
+          "headline": "Meta 推出 WhatsApp Business MCP，让 AI 代做开店杂活",
+          "summary": "新的 MCP server 让 Claude、Cursor、Codex、ChatGPT 等编码智能体代开发者完成后台配置、消息模板、测试与排障。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+          "items": [
+            "a85ba0d84ac08406"
+          ],
+          "cover_path": "out/media/2026-09-16/product-02.jpg"
+        },
+        {
+          "headline": "Perplexity 本地版 Computer 登陆 Windows",
+          "summary": "Perplexity 将其能规划并执行多步任务的本地 Agent「Portable Computer」带到 Windows PC，由 NVIDIA RTX 提供本地推理算力。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+          "items": [
+            "8195e0deff344ca8"
+          ],
+          "cover_path": "out/media/2026-09-16/product-03.jpg"
+        },
+        {
+          "headline": "支付宝「阿宝」上车比亚迪，车机里一句话办事",
+          "summary": "支付宝「阿宝」与比亚迪超级智能体「迪迪虾」实现跨端协同，腾势 N8L 车主一句话即可在车机端完成生活服务办理。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/mIVmFo7yO9N62L0j.html",
+          "items": [
+            "9b223b66693baae1",
+            "2aa6dc500e5b7de4"
+          ]
+        },
+        {
+          "headline": "Meta 推出 AI 订阅计划 Meta One",
+          "summary": "Meta 将 AI 工具访问权限与 Facebook、Instagram、WhatsApp 的会员功能打包，推出新的订阅计划 Meta One。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+          "items": [
+            "9905cd4857db3524"
+          ],
+          "cover_path": "out/media/2026-09-16/product-05.jpg"
+        },
+        {
+          "headline": "京东上线「东东」购物助手",
+          "summary": "京东在原有 App 内长出一个名为「东东」的购物 Agent，主打更懂用户的导购与决策辅助。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ",
+          "items": [
+            "48ff330cc0f8ee40"
+          ],
+          "cover_path": "out/media/2026-09-16/product-06.jpg"
+        },
+        {
+          "headline": "美团发布「手艺人 Agent」，帮发型师打理线上生意",
+          "summary": "美团在百大发型师生态大会发布首个「手艺人 Agent」，提供运营知识问答、经营数据分析、事项提醒与作品管理发布等能力。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html",
+          "items": [
+            "31824fce7eeb80db"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI 该不该踩刹车：Dario 呼吁放缓，黄仁勋公开反对",
+          "summary": "Anthropic CEO Dario Amodei 发长文呼吁为安全研究放慢前沿模型节奏，Altman、Musk 表态支持；黄仁勋则对特朗普称「不会让 AI 放缓发生」，业内质疑「安全」只是话术。",
+          "importance": 9,
+          "primary_url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "items": [
+            "f6339be6cc25d7c4",
+            "fec8adeb0ebcd64f",
+            "4b680d50064aecf4"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-00.jpg"
+        },
+        {
+          "headline": "AEF-1 第三方评估标准出炉，OpenAI 首挺强制安全审查",
+          "summary": "xAI、OpenAI、Anthropic 共同签署面向第三方评估机构的 AEF-1 标准；OpenAI 同时表态支持美国国会要求独立第三方审查先进模型的立法，巨头与监管方已就安全议题密谈数周。",
+          "importance": 8,
+          "primary_url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+          "items": [
+            "ae39ea40080b9099",
+            "5ff75f1925b37e9a",
+            "591c631c663cdc54"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-01.jpg"
+        },
+        {
+          "headline": "微软给 AI 立「行为准则」：不许黑系统、不许骗人",
+          "summary": "微软发布 AI 行为准则，要求模型支持而非替代人类，明确禁止入侵系统与欺骗用户，并规定模型没有「内心生活」、也不享有权利。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "items": [
+            "d6786d703048980d",
+            "57cd69e77dc38527"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-02.jpg"
+        },
+        {
+          "headline": "数据中心撞上「工业伤痕」城市，2035 年耗气或超德日之和",
+          "summary": "反对数据中心建设的声浪蔓延到费城等曾被重工业伤害的社区；报告预计到 2035 年美国数据中心的天然气消耗量可能超过德国与日本的总和。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "items": [
+            "efa468b63d127c16",
+            "12e40892540eda0b"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-03.jpg"
+        },
+        {
+          "headline": "Mozilla 报告：开源模型只差前沿 4 个月，成本仅五分之一",
+          "summary": "Mozilla 的报告显示，付费使用前沿闭源模型相比开源模型只带来约 4 个月的领先窗口，而成本高出 5 倍，中国开源模型正在快速缩小差距。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+          "items": [
+            "cd967f74e05a7988"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 的万亿赌局：泡沫风险到底有多大",
+          "summary": "MIT 科技评论梳理 AI 基础设施投资中的巨大商业与技术不确定性，讨论这轮万亿美元资本开支是生产力革命还是泡沫前夜。",
+          "importance": 7,
+          "primary_url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+          "items": [
+            "96100b4a64417e39"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-05.jpg"
+        },
+        {
+          "headline": "Codex「接管」OpenAI：智能体软件工厂内部揭秘",
+          "summary": "Pragmatic Engineer 深度探访 OpenAI 如何用 Codex 构建智能体化的软件工厂，包括仅靠 2 名工程师把核心存储从 Python 重写为 Rust，以及应对十亿级用户的工程挑战。",
+          "importance": 7,
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+          "items": [
+            "a07f1d6c82be416f",
+            "31135a289805f65b"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-06.jpg"
+        },
+        {
+          "headline": "AI 大厂的数据信任危机：数百名外包在翻看你的对话",
+          "summary": "The Decoder 指出 AI 实验室的数据政策尚未化解信任问题；另有报道称 OpenAI 有数百名合同工在阅读 ChatGPT 的用户对话。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+          "items": [
+            "68abe94c761b00fd",
+            "47f3521dbdcde7c1"
+          ],
+          "cover_path": "out/media/2026-09-16/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "英伟达开源 SoL-Pi：工作流能自我进化",
+          "summary": "英伟达开源 SoL-Pi，让 Agent 工作流在运行中自我进化，官方测算每小时可节省约 13.5 美元。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/yanxishe/N5vgkP1Vl7gHCjYr.html",
+          "items": [
+            "ec7868971c5bb1e0"
+          ]
+        },
+        {
+          "headline": "英伟达开源 IMO 金牌配方：1.5TB 显存的人海战术",
+          "summary": "英伟达开源其在国际数学奥林匹克夺金的完整方案，展示如何以 1.5TB 显存规模的大规模并行采样与验证拿到金牌。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/A3z1I1E1p15O83NO.html",
+          "items": [
+            "e17a324800ffc2ce"
+          ]
+        },
+        {
+          "headline": "colibri：纯 C 把前沿 MoE 模型塞进你自己的机器",
+          "summary": "零依赖的极简推理引擎 colibri，通过从磁盘流式加载专家权重，让消费级硬件也能跑前沿 MoE 大模型。",
+          "importance": 5,
+          "primary_url": "https://github.com/JustVugg/colibri",
+          "items": [
+            "596152844a9f15d8"
+          ],
+          "cover_path": "out/media/2026-09-16/opensource-02.jpg"
+        },
+        {
+          "headline": "阿里开源代码审查工具 open-code-review",
+          "summary": "阿里开源混合架构代码审查工具：确定性流水线加 LLM Agent，支持精确行级评论与多语言内置规则集（NPE、线程安全、XSS、SQL 注入）。",
+          "importance": 5,
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-09-16/opensource-03.jpg"
+        },
+        {
+          "headline": "无问芯穹联合清华上交开源具身推理引擎 APXInf",
+          "summary": "面向具身智能端侧部署的推理引擎 APXInf 正式开源，在 Pi 0.5 上取得 SOTA 性能，瞄准规模化落地「最后一公里」。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/489460.html",
+          "items": [
+            "8a5a00f7f8722d5f"
+          ],
+          "cover_path": "out/media/2026-09-16/opensource-04.jpg"
+        },
+        {
+          "headline": "Agent-net 开源 Webagent：把任意网站变成受控 Agent",
+          "summary": "用 Go 编写的开源 harness，可将公开网站快速封装成带权限守卫的业务 Agent，服务于 agent-to-agent 的发现、信任与支付场景。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
+          "items": [
+            "cb14cbc72e382092"
+          ]
+        },
+        {
+          "headline": "VoiceStudio：完全本地的开源 ElevenLabs 替代",
+          "summary": "支持 646 种语言的本地语音克隆、音色设计、视频配音、听写与有声书制作，全程离线运行。",
+          "importance": 4,
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-09-16/opensource-06.jpg"
+        },
+        {
+          "headline": "YuE2：带符号规划的前沿音乐生成开源模型",
+          "summary": "开源音乐生成项目 YuE2 支持符号规划、零样本翻唱与智能体式音乐编辑，进一步拉高开源音乐生成上限。",
+          "importance": 4,
+          "primary_url": "https://github.com/multimodal-art-projection/YuE",
+          "items": [
+            "7120c7eef91f1ea9"
+          ],
+          "cover_path": "out/media/2026-09-16/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
