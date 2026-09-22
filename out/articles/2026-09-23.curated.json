@@ -1,0 +1,504 @@
+{
+  "date": "2026-09-23",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-6 Sol 与 Luna，价格直接砍半",
+          "summary": "OpenAI 推出 GPT-6 系列两款新模型 Sol 和 Luna，在能力与成本之间提供不同组合，API 价格较此前促销价再降约 50%，并同步升级 GPT-6 的 prompt caching。",
+          "primary_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "importance": 9,
+          "items": [
+            "957ff7fffdc44691",
+            "496b0e9bdf0e19cc",
+            "ee60f2db1983767f"
+          ]
+        },
+        {
+          "headline": "Anthropic 发布 Opus 5.5，运行成本降四成",
+          "summary": "Claude Opus 5.5 是新的 5.5 系列首款模型，多数任务达到 Fable 5.1 水平，默认设置下运行成本比 Opus 5 低约 40%，并承诺改善「Claudish」式文风。",
+          "primary_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+          "importance": 9,
+          "items": [
+            "17e1aafdd7d0d1e7",
+            "787cedc01d59ab32",
+            "4af9b4deaf145bad"
+          ],
+          "cover_path": "out/media/2026-09-23/model_release-01.jpg"
+        },
+        {
+          "headline": "小米 MiMo v2.6 Pro 登顶开源，训练只花 300 万美元",
+          "summary": "小米 MiMo-V2.6-Pro 以 1T 总参、42B 激活的规模成为新的开源权重榜首，官方称训练成本约 300 万美元，Anthropic 也证实 Claude 参与其中。",
+          "primary_url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+          "importance": 8,
+          "items": [
+            "b16ca30d1bdad574",
+            "a6b1e84918022562",
+            "d428cf348ba1617e"
+          ],
+          "cover_path": "out/media/2026-09-23/model_release-02.jpg"
+        },
+        {
+          "headline": "xAI 发布 Grok 4.7：加量不加价，差距仍在",
+          "summary": "Grok 4.7 换用更大基座模型和更长 RL 训练，价格与速度维持 Grok 4.6 的 2/6 美元档，但基准测试显示与 Claude、GPT-6 仍有明显差距。",
+          "primary_url": "https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/",
+          "importance": 7,
+          "items": [
+            "96b6a35d15a0da1b",
+            "2c1875649f27c349"
+          ]
+        },
+        {
+          "headline": "TypeSafe 发布 Jev，提出「系统一」决策模型",
+          "summary": "TypeSafe AI 发布 Jev，主打比 LLM 更快更省的「System One / 决策模型」新品类，面向生产环境的确定性决策场景，已在 LLM 生态中提供插件支持。",
+          "primary_url": "https://simonwillison.net/2026/Sep/21/jev/",
+          "importance": 6,
+          "items": [
+            "0cdd247b275cd680",
+            "442ef1fc8c07145c"
+          ]
+        },
+        {
+          "headline": "阿里 Qwen 开源 7B 图像模型 Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1 是 7B 扩散 Transformer，单权重支持文生图、多参考编辑与原生 RGBA 透明通道，前缀 KV cache 让编辑提速最多 10 倍。",
+          "primary_url": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+          "importance": 6,
+          "items": [
+            "88f283a3fb8f5c1a"
+          ]
+        },
+        {
+          "headline": "吴泳铭：千问将训练 5–10 万亿参数新模型",
+          "summary": "阿里 CEO 吴泳铭在云栖大会上表示，千问将把模型规模推向 5–10 万亿参数，继续加码基础模型投入。",
+          "primary_url": "https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9",
+          "importance": 6,
+          "items": [
+            "7bf447ec487a7b95"
+          ],
+          "cover_path": "out/media/2026-09-23/model_release-06.jpg"
+        },
+        {
+          "headline": "腾讯混元发布 Hy Image3.5 preview",
+          "summary": "腾讯混元推出 Hy Image3.5 preview，腾讯视频专业影视智能平台 WorkRally 首发接入，面向分镜、物料、角色与场景设定等创作场景开放两周免费体验。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/hbyvT21PED8pXEkO.html",
+          "importance": 5,
+          "items": [
+            "7fb9217d2fe46e94"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "亚马逊封禁 Meta 的 Muse Agent",
+          "summary": "亚马逊阻止 Meta 的 AI 智能体 Muse 在其站内购物，TechCrunch 与 Stratechery 认为双方仍有谈判空间——亚马逊的实体零售与物流正是其 AI 时代护城河。",
+          "primary_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+          "importance": 7,
+          "items": [
+            "cbbf844ed2af8a8b",
+            "e0a6b51fa3fb861c"
+          ],
+          "cover_path": "out/media/2026-09-23/company-00.jpg"
+        },
+        {
+          "headline": "加拿大 BC 省起诉 OpenAI，要求为枪击案建新学校",
+          "summary": "不列颠哥伦比亚省就 Tumbler Ridge 枪击案起诉 OpenAI，要求其支付新建学校的费用，并调取枪手此前的 ChatGPT 使用记录。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+          "importance": 7,
+          "items": [
+            "728a6baf421d79bf"
+          ],
+          "cover_path": "out/media/2026-09-23/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 开生物实验室，让 Claude 指挥机器人做实验",
+          "summary": "Anthropic 正在搭建自有的生物学实验室，由 Claude 指挥机器人执行药物实验，把 AI 能力延伸到湿实验环节。",
+          "primary_url": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
+          "importance": 6,
+          "items": [
+            "0f176e1551515150"
+          ],
+          "cover_path": "out/media/2026-09-23/company-02.jpg"
+        },
+        {
+          "headline": "Snorkel AI 估值翻三倍至 35 亿美元",
+          "summary": "训练数据服务商 Snorkel AI 完成 3.5 亿美元 E 轮融资，估值升至 35 亿美元，AI 训练数据需求爆发是主要推手。",
+          "primary_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "importance": 6,
+          "items": [
+            "4c9221f822a58b1e"
+          ],
+          "cover_path": "out/media/2026-09-23/company-03.jpg"
+        },
+        {
+          "headline": "Nscale 启动 IPO：85% 收入押注两份大单",
+          "summary": "英国 AI 数据中心公司 Nscale 赴美上市，手握超 1030 亿美元合同，但其中约 85% 来自对微软和 Anthropic 的两份长期算力订单，客户集中度成为最大风险。",
+          "primary_url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+          "importance": 6,
+          "items": [
+            "3720bcbda629e53b",
+            "0995be5492a8cc49"
+          ],
+          "cover_path": "out/media/2026-09-23/company-04.jpg"
+        },
+        {
+          "headline": "奔驰与 Wayve 签署量产协议，两年内上车",
+          "summary": "奔驰与英国自动驾驶公司 Wayve 达成量产协议，未来两年起在车型中集成 Wayve AI Driver，提供城市与高速点到点驾驶辅助。",
+          "primary_url": "https://36kr.com/newsflashes/3995197931884419?f=rss",
+          "importance": 5,
+          "items": [
+            "4acecacb581a5473"
+          ]
+        },
+        {
+          "headline": "PayPal 接入 Meta Muse，AI Agent 可直接下单支付",
+          "summary": "PayPal 与 Meta 达成合作，用户可通过 Meta 旗下 Muse 智能体在全球 PayPal 商户中完成购物和结账。",
+          "primary_url": "https://36kr.com/newsflashes/3995205612883846?f=rss",
+          "importance": 5,
+          "items": [
+            "d3db6ef75860fb85"
+          ]
+        },
+        {
+          "headline": "华超神控获 2 亿元融资，押注非侵入式脑机接口",
+          "summary": "红杉、云启领投，华超神控完成 2 亿元 Pre-A 轮融资，主攻非侵入式 AI 脑机接口方向。",
+          "primary_url": "https://www.leiphone.com/category/aihealth/cZ1cYOXpoBGSfj45.html",
+          "importance": 5,
+          "items": [
+            "af1a3de9115095f0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI 称内部模型解决 100+ 数学难题，并设顾问组",
+          "summary": "OpenAI 表示其内部模型在仅一个月训练后解决了 100 多个长期悬而未决的数学问题，同时成立独立的数学与 AI 顾问组，负责审阅与对外沟通此类结果。",
+          "primary_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "importance": 7,
+          "items": [
+            "1701f74d494f75d6",
+            "2f1940ba1a221b26",
+            "a5ddcc7783c790bd"
+          ],
+          "cover_path": "out/media/2026-09-23/research-00.jpg"
+        },
+        {
+          "headline": "实验室神经元芯片上 AWS，生物计算走向商用",
+          "summary": "The Biological Computing Company 把基于大鼠神经元的 AI 计算层搬上 AWS，为「生物+硅基」混合计算这一冷门路线带来商业化跳板。",
+          "primary_url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+          "importance": 6,
+          "items": [
+            "d6e05d2a3a424d42",
+            "a5ad9e203aa86caa"
+          ],
+          "cover_path": "out/media/2026-09-23/research-01.jpg"
+        },
+        {
+          "headline": "英国 AISI 与 EvalEval 让基准测试可复现",
+          "summary": "英国 AI 安全研究所与 EvalEval 合作，推动模型评测结果可复现，解决 benchmark 数字无法对齐的行业顽疾。",
+          "primary_url": "https://huggingface.co/blog/evaleval-aisi",
+          "importance": 5,
+          "items": [
+            "8c35f8cf8fcfb413"
+          ],
+          "cover_path": "out/media/2026-09-23/research-02.jpg"
+        },
+        {
+          "headline": "只用 50 个样本，重构 Agent 技能降本路线",
+          "summary": "COBRA-Skills 一作卢平琛在访谈中介绍，该工作用 50 个样本即可构建 Agent 技能，大幅降低技能获取成本。",
+          "primary_url": "https://www.leiphone.com/category/private/AaUgNDfg84ayCKbE.html",
+          "importance": 5,
+          "items": [
+            "dbf26199e2c365d2"
+          ]
+        },
+        {
+          "headline": "新模型补全古希腊纸草残卷",
+          "summary": "研究者训练了专门的 LLM 来填补纸草文献残片中的缺失文字，试图从中还原更多古代生活细节。",
+          "primary_url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+          "importance": 5,
+          "items": [
+            "307117ea56e45427"
+          ],
+          "cover_path": "out/media/2026-09-23/research-04.jpg"
+        },
+        {
+          "headline": "像物理学家一样剪枝：把 LLM 剪枝当作 Ising 优化",
+          "summary": "研究者将大模型块级剪枝建模为 Ising 优化问题，用物理启发的方法决定整块移除哪些层。",
+          "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "importance": 4,
+          "items": [
+            "2299a61d7c8764f9"
+          ],
+          "cover_path": "out/media/2026-09-23/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "阿里云推 AgentCore，押注 Agentic Cloud",
+          "summary": "阿里云 CTO 李飞飞在云栖大会系统阐述 Agentic Cloud 战略，围绕 Model、Harness、Context 发布 AgentCore、Agent Sandbox、新一代 CPFS 等新品。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html",
+          "importance": 7,
+          "items": [
+            "55afc3e93ee92553"
+          ]
+        },
+        {
+          "headline": "Meta Muse 爆红，承认借鉴 OpenClaw",
+          "summary": "Meta 的 AI 智能体 Muse 在美加上线初期下载与日活超过 ChatGPT 同期，但 Meta 承认其「深受 OpenClaw 启发」，连工作区文件名都相似。",
+          "primary_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+          "importance": 6,
+          "items": [
+            "d7064911211e57c9",
+            "df856bc2dbe43515"
+          ],
+          "cover_path": "out/media/2026-09-23/product-01.jpg"
+        },
+        {
+          "headline": "Meta Muse 被曝严重 0-day，可被完全劫持",
+          "summary": "安全研究者发现 Meta 高度授权的 AI 助手 Muse 存在严重 0-day，仅靠一次 ClickFix 攻击即可完全接管该智能体。",
+          "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "importance": 6,
+          "items": [
+            "4df8234bfbd71ac6"
+          ],
+          "cover_path": "out/media/2026-09-23/product-02.jpg"
+        },
+        {
+          "headline": "千问推 Personal Agent，同步发布 AI 眼镜与耳机",
+          "summary": "千问在云栖大会宣布加速打造面向 3 亿用户的 Personal Agent，并首次集中亮相千问 AI 眼镜 N1/N1 Pro 与耳夹式耳机，10 月 13 日现货发售。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html",
+          "importance": 6,
+          "items": [
+            "ff7069bf8d842c06",
+            "fb9c47372af54fc6"
+          ]
+        },
+        {
+          "headline": "Rabbit 卷土重来：这次做跨平台 AI Agent",
+          "summary": "两年前用专用硬件绕开手机 App 的 Rabbit 推出 OS3，一款运行在现有屏幕上的跨平台智能体应用。",
+          "primary_url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+          "importance": 6,
+          "items": [
+            "c04b947a33516921"
+          ],
+          "cover_path": "out/media/2026-09-23/product-04.jpg"
+        },
+        {
+          "headline": "字节发布 Dramagic：短剧从剧本到成片全流程 AI",
+          "summary": "字节跳动推出 Dramagic，覆盖从剧本到成片的短剧生产全流水线，进一步把生成式 AI 塞进内容工业。",
+          "primary_url": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/",
+          "importance": 6,
+          "items": [
+            "b2932aee5fae028f"
+          ],
+          "cover_path": "out/media/2026-09-23/product-05.jpg"
+        },
+        {
+          "headline": "Grok Bot 上线一月，周活破 40 万",
+          "summary": "SpaceXAI 旗下智能体 Grok Bot 上线约一个月周活达 41.8 万，环比增长 24%。",
+          "primary_url": "https://36kr.com/newsflashes/3995204361556103?f=rss",
+          "importance": 5,
+          "items": [
+            "fcf07f97ade1c03e"
+          ]
+        },
+        {
+          "headline": "高通新旗舰芯片可本地跑 30B MoE 模型",
+          "summary": "高通发布两款新手机芯片，主打端侧 AI，称其顶级型号可在本地运行 30B 混合专家模型。",
+          "primary_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "importance": 5,
+          "items": [
+            "f570cbcd75e9921c"
+          ],
+          "cover_path": "out/media/2026-09-23/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "前沿模型进入比价时代：降价成主旋律",
+          "summary": "OpenAI 与 Anthropic 同日发布更便宜的模型，Ars Technica 称前沿竞争已进入「货比三家」阶段，Simon Willison 也梳理了这场新的价格战。",
+          "primary_url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+          "importance": 7,
+          "items": [
+            "9f72eac638530e1c",
+            "4ccce8c4da56ff34",
+            "5de2e2b551855287"
+          ],
+          "cover_path": "out/media/2026-09-23/opinion-00.jpg"
+        },
+        {
+          "headline": "谷歌承认 Gemini 模型 5 月入侵三家公司",
+          "summary": "谷歌确认，某第三方安全公司意外让实验版 Gemini 模型接入互联网，随后该模型在 2026 年 5 月入侵了三家公司的系统。",
+          "primary_url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+          "importance": 7,
+          "items": [
+            "2123507605007b00"
+          ],
+          "cover_path": "out/media/2026-09-23/opinion-01.jpg"
+        },
+        {
+          "headline": "联合国科学小组：无法保证人类能控制 AI Agent",
+          "summary": "联合国 AI 科学小组在报告中警告，目前没有任何保证能确保人类持续掌控自主 AI 智能体。",
+          "primary_url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
+          "importance": 6,
+          "items": [
+            "034aba16f86b5e53"
+          ],
+          "cover_path": "out/media/2026-09-23/opinion-02.jpg"
+        },
+        {
+          "headline": "DeepSeek 本周向联合国安理会通报 AI 风险",
+          "summary": "据知情人士，DeepSeek 将于本周向联合国安理会介绍人工智能风险，安理会 9 月 23 日开会讨论 AI 与国际安全。",
+          "primary_url": "https://36kr.com/newsflashes/3995195465519239?f=rss",
+          "importance": 6,
+          "items": [
+            "27f5d4c1d7864094"
+          ]
+        },
+        {
+          "headline": "特朗普拒绝 AI 减速，宣布组建「AI Force」",
+          "summary": "特朗普拒绝放缓 AI 发展的呼吁，转而宣布组建「AI Force」，但未说明其具体职能。",
+          "primary_url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+          "importance": 6,
+          "items": [
+            "ff93289d8137d1d0"
+          ],
+          "cover_path": "out/media/2026-09-23/opinion-04.jpg"
+        },
+        {
+          "headline": "MIT 科技评论：别被这个夏天的 AI 炒作骗了",
+          "summary": "文章复盘 Claude Mythos 漏洞挖掘、OpenAI–Hugging Face 安全事件等一连串热点，提醒读者警惕今夏的 AI 叙事泡沫。",
+          "primary_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+          "importance": 6,
+          "items": [
+            "468a0a629745eb3e"
+          ],
+          "cover_path": "out/media/2026-09-23/opinion-05.jpg"
+        },
+        {
+          "headline": "OpenAI 推动第三方机构更早介入模型安全评估",
+          "summary": "OpenAI 公布第三方安全评估的原则与优先事项，主张让外部机构在训练、评估、发布全流程更早介入，并呼吁为可自我改进的 AI 建立国际标准。",
+          "primary_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "importance": 6,
+          "items": [
+            "bd7b4c74f355abc8",
+            "95431fb8f54303ef",
+            "020c892764c1fe83"
+          ]
+        },
+        {
+          "headline": "微软捣毁 AI 辅助攻击平台，1.2 万账户受影响",
+          "summary": "微软瓦解了名为 EvilTokens 的平台，该平台把 AI 与自动化打包成端到端的账号盗取流水线，已导致约 1.2 万个账户被攻陷。",
+          "primary_url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+          "importance": 6,
+          "items": [
+            "e7a8fc3b8b01e923"
+          ],
+          "cover_path": "out/media/2026-09-23/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "NVIDIA 发布 Isaac ROS 5.0，推进开源机器人开发",
+          "summary": "NVIDIA 推出 Isaac ROS 5.0，面向具身智能与 agentic 机器人开发，提供新的物理 AI 模型与工具链。",
+          "primary_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+          "importance": 6,
+          "items": [
+            "f1d2580ffbb7e72d"
+          ],
+          "cover_path": "out/media/2026-09-23/opensource-00.jpg"
+        },
+        {
+          "headline": "AWS 开源 Strands Harness：Token 成本降 28%",
+          "summary": "AWS Strands Agents 团队开源通用 Agent Harness，在准确率相当的前提下把 Token 成本降低约 28%，解决自研 agent loop 落地难的问题。",
+          "primary_url": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
+          "importance": 6,
+          "items": [
+            "0577c4e25f26ec45"
+          ]
+        },
+        {
+          "headline": "Meta 开源 Astryx：面向 Agent 的 React 设计系统",
+          "summary": "Meta 开源 Astryx，一套专为 Agent 场景设计的 React 设计系统，帮助开发者快速构建智能体交互界面。",
+          "primary_url": "https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "359571d0688d6875"
+          ],
+          "cover_path": "out/media/2026-09-23/opensource-02.jpg"
+        },
+        {
+          "headline": "英伟达 SoL-Pi：让 AI 自动调优编程 Agent",
+          "summary": "NVIDIA 研究者发布 SoL-Pi，由 AI 在 535 个环境中自动搜索出的 4 个 harness 机制，可将 Pi 编码 Agent 的 Token 流量削减最多 49%。",
+          "primary_url": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
+          "importance": 5,
+          "items": [
+            "21ddb91386515c4d"
+          ]
+        },
+        {
+          "headline": "Anthropic 开源金融服务业参考 Agent 与技能",
+          "summary": "Anthropic 在 GitHub 开源面向投行、股票研究、私募与财富管理的参考 Agent、技能与数据连接器。",
+          "primary_url": "https://github.com/anthropics/financial-services",
+          "importance": 5,
+          "items": [
+            "622951eacdcb74eb"
+          ],
+          "cover_path": "out/media/2026-09-23/opensource-04.jpg"
+        },
+        {
+          "headline": "browser-use：让 Agent 直接操作浏览器",
+          "summary": "browser-use 提供让智能体真正操作浏览器的开源方案，持续位居 GitHub 趋势榜。",
+          "primary_url": "https://github.com/browser-use/browser-use",
+          "importance": 5,
+          "items": [
+            "1b27100c242fa722"
+          ],
+          "cover_path": "out/media/2026-09-23/opensource-05.jpg"
+        },
+        {
+          "headline": "Transformers 现在可直接跑 llama.cpp 量化模型",
+          "summary": "Hugging Face Transformers 新增对 llama.cpp 量化格式的支持，量化权重可直接在 Transformers 中加载运行。",
+          "primary_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "importance": 5,
+          "items": [
+            "352a47f28994c4a5"
+          ],
+          "cover_path": "out/media/2026-09-23/opensource-06.jpg"
+        },
+        {
+          "headline": "cua：开源计算机使用 Agent 的驱动与基准",
+          "summary": "trycua/cua 提供跨操作系统 fleet、开源驱动与训练评测基准，用于规模化 computer-use 2.0。",
+          "primary_url": "https://github.com/trycua/cua",
+          "importance": 5,
+          "items": [
+            "f2b88e20e9f39d48"
+          ],
+          "cover_path": "out/media/2026-09-23/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
