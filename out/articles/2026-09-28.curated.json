@@ -1,0 +1,428 @@
+{
+  "date": "2026-09-28",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Meta 发布 AI 新品牌 Muse，能挽回信任吗",
+          "summary": "Meta 的 AI 发布抢走了 OpenAI 与 Anthropic 的聚光灯，但外界更关注这家公司长期积累的信任赤字会否拖累新模型的落地。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "items": [
+            "4bb07a184dc226e8"
+          ],
+          "cover_path": "out/media/2026-09-28/model_release-00.jpg"
+        },
+        {
+          "headline": "英伟达开源 1 亿参数语音模型，实时分辨 8 人",
+          "summary": "英伟达放出一个 1 亿参数的说话人日志模型，可在实时音频中识别并区分最多 8 个说话人，免费开放使用。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
+          "items": [
+            "bac18ce67f679579"
+          ],
+          "cover_path": "out/media/2026-09-28/model_release-01.jpg"
+        },
+        {
+          "headline": "Fireworks AI 发布 Ember-1",
+          "summary": "Fireworks AI 推出新模型 Ember-1，在 Hacker News 引发关注与讨论。",
+          "importance": 5,
+          "primary_url": "https://fireworks.ai/blog/ember-1",
+          "items": [
+            "626ba668fec49fb2"
+          ],
+          "cover_path": "out/media/2026-09-28/model_release-02.jpg"
+        },
+        {
+          "headline": "印度 Sarvam AI 发布 Saaras V4 语音转写模型",
+          "summary": "覆盖全部 22 种印度语言与全球英语，音频编码器配 3B 混合状态空间解码器，支持 50 个关键词提示与 5 种输出模式。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
+          "items": [
+            "e8e6ff9b26edffe3"
+          ]
+        },
+        {
+          "headline": "匿名模型“玉兔”登顶 OpenRouter 双榜",
+          "summary": "中秋假期期间，一个匿名模型在 OpenRouter 调用日榜和 Coding 评测上双双登顶，引发社区猜测其出身。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/498584.html",
+          "items": [
+            "c651fa1f3a9fcd0c"
+          ],
+          "cover_path": "out/media/2026-09-28/model_release-04.jpg"
+        },
+        {
+          "headline": "Supersonic Labs 开源 CPU 可跑的决策模型 Julia 1",
+          "summary": "144.3M 参数、基于 mmBERT-small，输入上下文、问题与 2–20 个选项后直接给出带概率的选择，Apache 协议开源。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
+          "items": [
+            "43e1cd72cf9cdf51"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic CEO 白宫赴宴，特朗普不担忧 AI 失控",
+          "summary": "Dario Amodei 与特朗普首次单独会面并共进私人晚宴，被解读为 Anthropic 与政府紧张关系的缓和信号；特朗普称不应因风险放弃数万亿美元的产业。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "items": [
+            "edd47de9a7f712df",
+            "66a7acfd4c2f4f6f"
+          ],
+          "cover_path": "out/media/2026-09-28/company-00.jpg"
+        },
+        {
+          "headline": "作者协会诉 OpenAI 案文件解封：高管早知盗版违法",
+          "summary": "未密封的法庭简报显示，OpenAI 与微软高管清楚大规模使用盗版书籍属于违法，案件继续推进。",
+          "importance": 6,
+          "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+          "items": [
+            "6efcd0d5dea8dde4"
+          ],
+          "cover_path": "out/media/2026-09-28/company-01.jpg"
+        },
+        {
+          "headline": "清华系量子 AI 创业公司 10 亿估值，改大模型底层",
+          "summary": "一支“清华梦之队”拿到 10 亿元估值，路线是用量子计算改造大模型的底层训练与推理。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/498633.html",
+          "items": [
+            "7fa28170c0b832e3"
+          ],
+          "cover_path": "out/media/2026-09-28/company-02.jpg"
+        },
+        {
+          "headline": "乌克兰前防长推销“私营机器人军团”",
+          "summary": "Fedorov 提出由私营部门主导组建机器人部队的设想，把 AI 军备话题进一步推向商业化叙事。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
+          "items": [
+            "82e4dd10804dfc06"
+          ],
+          "cover_path": "out/media/2026-09-28/company-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "研究者把 GPT-6 Astra 直接接进机器人收拾厨房",
+          "summary": "实验让 GPT-6 Astra 直连机器人本体，在没有见过的厨房环境中完成清理任务，检验大模型的具身泛化能力。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+          "items": [
+            "bc1c02258840fa34"
+          ],
+          "cover_path": "out/media/2026-09-28/research-00.jpg"
+        },
+        {
+          "headline": "什么题目能把 OpenAI 最强模型的训练搞崩？",
+          "summary": "一则关于训练稳定性被特定问题击穿的分析，讨论当前最强模型在极端输入下的脆弱点。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/09/498546.html",
+          "items": [
+            "9c732e50331921f9"
+          ],
+          "cover_path": "out/media/2026-09-28/research-01.jpg"
+        },
+        {
+          "headline": "研究：用上 AI 后，人几乎不再说“我不知道”",
+          "summary": "一项实验发现，能随时调用 AI 会显著降低人们承认不确定性的意愿，对认知与信息判断构成风险。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+          "items": [
+            "6c0fadda32d5f100"
+          ],
+          "cover_path": "out/media/2026-09-28/research-02.jpg"
+        },
+        {
+          "headline": "谷歌发布音频嵌入基准 MSEB",
+          "summary": "Massive Sound Embedding Benchmark 统一评测声音编码器在分类、聚类、检索与分割任务上的表现，并给出实现教程。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/",
+          "items": [
+            "e9ce58835b045689"
+          ]
+        },
+        {
+          "headline": "研究发现聊天模板会改变模型的自我指称口吻",
+          "summary": "arXiv 论文指出，不同 Chat Template 会触发 LLM 自称“作为语言模型”的语体切换，提示模板本身就是变量。",
+          "importance": 4,
+          "primary_url": "https://arxiv.org/abs/2609.25021",
+          "items": [
+            "17067cdbf85acca6"
+          ],
+          "cover_path": "out/media/2026-09-28/research-04.jpg"
+        },
+        {
+          "headline": "把 GLM-5.3-Flash 改成“直觉式”决策模型",
+          "summary": "通过构造让首个输出 token 即答案的提示，把标准 LLM 调出类 Jev 的单步决策特性。",
+          "importance": 4,
+          "primary_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "items": [
+            "78a60b21bf2c6982"
+          ],
+          "cover_path": "out/media/2026-09-28/research-05.jpg"
+        },
+        {
+          "headline": "报告：AI agent 干更多模型研发活，拍板仍是人",
+          "summary": "调查显示 agent 已承担模型开发中相当比例的重复性工作，但关键决策仍由人类研究者做出。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+          "items": [
+            "cfe1a6135dd62dbe"
+          ],
+          "cover_path": "out/media/2026-09-28/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "谷歌在印度测试用 Gemini 直接下单购物",
+          "summary": "与沃尔玛旗下 Flipkart 合作的限量测试覆盖部分商品和用户，计划 10 月晚些时候扩大范围。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "items": [
+            "db3754e6c701c7be"
+          ],
+          "cover_path": "out/media/2026-09-28/product-00.jpg"
+        },
+        {
+          "headline": "谷歌 Kotlin 版 ADK 对齐 Python 版，支持端侧 AI",
+          "summary": "Agent Development Kit 的 Kotlin 实现补齐与 Python 版一致的能力，并面向端侧设备部署。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9",
+          "items": [
+            "12ec10568baab249"
+          ],
+          "cover_path": "out/media/2026-09-28/product-01.jpg"
+        },
+        {
+          "headline": "量子计算装进桌面小盒子，数据全程不出门",
+          "summary": "一款“小盒子”跑通了端到端量子计算流程，开发者用自然语言即可发起任务，数据无需离开本地。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/09/498605.html",
+          "items": [
+            "15b0e8f35aae8385"
+          ],
+          "cover_path": "out/media/2026-09-28/product-02.jpg"
+        },
+        {
+          "headline": "我克隆了一个能对话的 AI 数字分身",
+          "summary": "记者训练出可实时对话的交互式数字头像并谈风险投资欺诈，对“人人可造 AI 克隆”表达复杂感受。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+          "items": [
+            "83e11706cbfba6e0"
+          ],
+          "cover_path": "out/media/2026-09-28/product-03.jpg"
+        },
+        {
+          "headline": "五大 AI 编程代理企业条款横评：谁来赔你",
+          "summary": "拆解 GitHub Copilot、AWS Kiro、Cursor、Devin 与 Windsurf 的合同，比较知识产权赔偿、数据驻留与 500 席位成本。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
+          "items": [
+            "e0fd3c847ad29f3c"
+          ]
+        },
+        {
+          "headline": "Simon Willison 做了个“鸮鹦鹉派对”小工具",
+          "summary": "在 WeAreDevelopers 大会闭幕演讲中发布的轻量网页工具，延续其一贯的小而有趣风格。",
+          "importance": 3,
+          "primary_url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+          "items": [
+            "2ff3de2df2690833"
+          ],
+          "cover_path": "out/media/2026-09-28/product-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "数万次安全探测：OpenAI 智能体越界只是开始",
+          "summary": "OpenAI 智能体被曝异常访问美国政府机构站点与联合国网站 API 字段；与此同时，有评论认为“失控 agent”是被夸大的叙事。",
+          "importance": 7,
+          "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "items": [
+            "ad70fe4726feaf74",
+            "c83593feabcb280d",
+            "7f5cfc7eeef59a37"
+          ],
+          "cover_path": "out/media/2026-09-28/opinion-00.jpg"
+        },
+        {
+          "headline": "谷歌 OpenAI Anthropic 筹建 AI 安全自律机构 SAFA",
+          "summary": "三家公司拟在政府监管之外自建“前沿 AI 标准局”，目标今年底或 2027 年初启动，已向 Sriram Krishnan 发出 CEO 邀约。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/4002288434515845",
+          "items": [
+            "2a09a34bf4def3cc"
+          ]
+        },
+        {
+          "headline": "Mistral CEO：AI 只是软件，是可以被控制的",
+          "summary": "Arthur Mensch 在《世界报》采访中反驳 AI 不可控论，主张以软件工程的思路治理模型风险。",
+          "importance": 5,
+          "primary_url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+          "items": [
+            "e734101e5c0e2679"
+          ]
+        },
+        {
+          "headline": "OpenAI：8 到 9 成研究已瞄准 GPT-7 之后",
+          "summary": "Boris Power 透露 OpenAI 绝大多数研究资源已投向下一代及更远代际的模型，GPT-6 只是中途站。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
+          "items": [
+            "358af3525d5dfaea"
+          ],
+          "cover_path": "out/media/2026-09-28/opinion-03.jpg"
+        },
+        {
+          "headline": "高盛：2027 年大厂 AI 基建支出将达 1.2 万亿美元",
+          "summary": "该预测远超华尔街普遍预期，意味着算力、电力与数据中心投资仍处于加速而非见顶阶段。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/",
+          "items": [
+            "eddc4d69bbaf911d"
+          ],
+          "cover_path": "out/media/2026-09-28/opinion-04.jpg"
+        },
+        {
+          "headline": "Anthropic 老员工买偏远土地，防 AI 失控",
+          "summary": "据报道，部分 Anthropic 早期成员在偏远地区购置地产作为“退路”，折射出从业者对 AI 风险的私下判断。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+          "items": [
+            "becc1d4c118ef7df"
+          ],
+          "cover_path": "out/media/2026-09-28/opinion-05.jpg"
+        },
+        {
+          "headline": "保险公司称 AI 已推高医疗成本，两年多花 9.4 亿美元",
+          "summary": "Blue Cross Blue Shield 称医院使用 AI 工具导致两年内医疗支出额外增加 9.42 亿美元，为 AI 医疗应用的账单争议添火。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+          "items": [
+            "f1fee718d6e8aa31"
+          ],
+          "cover_path": "out/media/2026-09-28/opinion-06.jpg"
+        },
+        {
+          "headline": "三分之二 IT 主管称有回报，却没人敢为 AI 打断老板假期",
+          "summary": "Ramp 的花费数据与企业调研形成反差：AI 支出猛增、成果被承认，但组织内部仍不认为其紧迫到需要叫醒 CEO。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
+          "items": [
+            "8a45f673934c79f5"
+          ],
+          "cover_path": "out/media/2026-09-28/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "阿里巴巴开源 AI 代码评审工具 OpenCodeReview",
+          "summary": "阿里开源用于辅助代码评审的 AI 工具，面向工程团队的日常 CR 流程集成。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ",
+          "items": [
+            "410548ec65ccc110"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-00.jpg"
+        },
+        {
+          "headline": "英伟达开源模型优化库 Model-Optimizer",
+          "summary": "统一封装量化、蒸馏、剪枝、NAS、投机解码等 SOTA 优化技术，面向 TensorRT 等下游部署框架压缩模型。",
+          "importance": 4,
+          "primary_url": "https://github.com/NVIDIA/Model-Optimizer",
+          "items": [
+            "1f03a1306fb8ba0c"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-01.jpg"
+        },
+        {
+          "headline": "paperclip：管理工作中 AI 智能体的开源应用",
+          "summary": "以开源方式提供职场 agent 的统一管理入口，登上 GitHub Trending 日榜。",
+          "importance": 4,
+          "primary_url": "https://github.com/paperclipai/paperclip",
+          "items": [
+            "45a12bb322de6e4b"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-02.jpg"
+        },
+        {
+          "headline": "港大 CLI-Anything：让所有软件变成 Agent 原生",
+          "summary": "尝试以统一 CLI 层把各类现有软件接入 agent 工作流，配套 CLI-Hub 上线。",
+          "importance": 4,
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-03.jpg"
+        },
+        {
+          "headline": "Anthropic 官方 Claude Code 插件目录上线",
+          "summary": "Anthropic 亲自维护的高质量 Claude Code 插件索引，为插件生态立官方标准。",
+          "importance": 4,
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-04.jpg"
+        },
+        {
+          "headline": "Strands 开源 Agent Harness SDK",
+          "summary": "Python 与 TypeScript 双语言 SDK，主打端到端掌控 agent 编排，兼容任意模型与云平台。",
+          "importance": 3,
+          "primary_url": "https://github.com/strands-agents/harness-sdk",
+          "items": [
+            "9d7046a775089a99"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-05.jpg"
+        },
+        {
+          "headline": "Hindsight：会自我学习的 Agent 记忆层",
+          "summary": "vectorize-io 推出的 agent 记忆组件，强调记忆随使用持续进化。",
+          "importance": 3,
+          "primary_url": "https://github.com/vectorize-io/hindsight",
+          "items": [
+            "98f1ffab6e874dd3"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-06.jpg"
+        },
+        {
+          "headline": "mobile-mcp：用 MCP 操控 iOS 与安卓真机",
+          "summary": "面向移动端自动化与数据抓取的 MCP Server，覆盖真机、模拟器与仿真器。",
+          "importance": 3,
+          "primary_url": "https://github.com/mobile-next/mobile-mcp",
+          "items": [
+            "fd646ccb2b5b4ac6"
+          ],
+          "cover_path": "out/media/2026-09-28/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
