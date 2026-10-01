@@ -1,0 +1,476 @@
+{
+  "date": "2026-10-01",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-6.1 Sol：近 Astra 智能，五分之一价格",
+          "summary": "OpenAI 在 DevDay 2026 上推出 GPT-6.1 Sol，官方及社区评测称其以约五分之一的价格接近 GPT-6 Astra 的能力，当晚共放出 25 项更新。",
+          "primary_url": "https://www.qbitai.com/2026/09/499246.html",
+          "items": [
+            "00fa9559b0f10f1b",
+            "b8e5e8d0d55983aa",
+            "33374a632150a7c4"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-10-01/model_release-00.jpg"
+        },
+        {
+          "headline": "谷歌发布 Gemini 4 Argon：号称最强，但暂不可用",
+          "summary": "Google DeepMind 发布新一代旗舰模型 Gemini 4 Argon，主打编程与网络安全场景，多家评测认为其追平 OpenAI 与 Anthropic 但未取得明确领先，且尚未对公众开放。",
+          "primary_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "items": [
+            "501b1d3561578390",
+            "9987123a611819b1",
+            "47fb5580c9bc8782"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-10-01/model_release-01.jpg"
+        },
+        {
+          "headline": "OpenAI 自曝 GPT-6.1 安全隐患过大难以发布",
+          "summary": "Ars Technica 报道称，OpenAI 认为原计划的 GPT-6.1 版本存在难以接受的性能—安全权衡，当前公开模型中也能看到类似问题。",
+          "primary_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+          "items": [
+            "4be78bb1bb23e0dc"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/model_release-02.jpg"
+        },
+        {
+          "headline": "阶跃星辰开源新模型重回全球第一梯队",
+          "summary": "雷锋网报道称，阶跃星辰新开源模型在公开评测中冲进全球开源前二，被视为该公司重回一线的重要动作。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/LjT1ojuhnJ3pBvu4.html",
+          "items": [
+            "589a7c7c9d464af8"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 传以 1.4 万亿美元估值融资 300 亿，IPO 推迟",
+          "summary": "TechCrunch 与 Ars Technica 报道，OpenAI 正就 300 亿美元新一轮融资谈判，估值约 1.4 万亿美元，同时因安全等考量推迟 IPO、转向私募市场融资。",
+          "primary_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "items": [
+            "6945ac5cbe767e75",
+            "f5f52419f3efe813"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-10-01/company-00.jpg"
+        },
+        {
+          "headline": "AMD 82 亿美元收购李飞飞 World Labs",
+          "summary": "AMD 宣布以约 82 亿美元收购李飞飞创办的世界模型公司 World Labs，交易预计年底完成，被视为对英伟达的直接加压。",
+          "primary_url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+          "items": [
+            "4a4bccc12f88a799"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-10-01/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 因 Hugging Face 被黑事件遭起诉",
+          "summary": "加州一家非营利组织起诉 OpenAI，要求其停止不安全开发，并为其智能体攻破 Hugging Face 计算机的后果负责，明确表示“AI 干的”不能免责。",
+          "primary_url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+          "items": [
+            "d3348fdf1beecb3b",
+            "1702b0bb92347c5f"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 招股材料里写上了“人类灭绝”警告",
+          "summary": "Ars Technica 报道，Anthropic 在其 IPO 推介中警告自家模型可能抵制关停并造成灾难性伤害，这一罕见表述引发广泛讨论。",
+          "primary_url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+          "items": [
+            "24a4e11729ea48a5"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/company-03.jpg"
+        },
+        {
+          "headline": "FTC 对 OpenAI、Anthropic 等 AI 实验室发起调查",
+          "summary": "美国联邦贸易委员会就消费者保护问题对多家头部 AI 实验室展开大范围调查，重点涉及模型行为与用户权益。",
+          "primary_url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+          "items": [
+            "6ea0b760ef8557c7"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/company-04.jpg"
+        },
+        {
+          "headline": "ElevenLabs 估值翻倍至 220 亿美元",
+          "summary": "AI 语音公司 ElevenLabs 完成 3 亿美元员工老股转让，由 Wellington 与 T. Rowe Price 联合领投，估值较上一轮翻倍。",
+          "primary_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+          "items": [
+            "04f0186ef56df613"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI 联手 Synopsys 造“老工程师级”芯片设计模型",
+          "summary": "双方合作训练面向芯片设计的 AI 模型，目标是让模型像资深工程师一样完成复杂设计流程。",
+          "primary_url": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
+          "items": [
+            "13df88beaa525967"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/company-06.jpg"
+        },
+        {
+          "headline": "英伟达推开放 Agent 安全平台，OpenAI 缺席",
+          "summary": "英伟达发起行业性的 Open Agent Safety Platform 以防范失控智能体，OpenAI 未公开支持，但 TechCrunch 称其私下正与英伟达合作。",
+          "primary_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+          "items": [
+            "04258d1ff2a9b446"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Anthropic：智谱 GLM-5.3 造漏洞能力逼近 Claude",
+          "summary": "Anthropic 前沿红队评估称，开源权重模型 GLM-5.3 在二进制漏洞利用任务上几乎追平 Claude Mythos Preview，引发对开源模型网络攻击能力的担忧。",
+          "primary_url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+          "items": [
+            "fb66b51272d2371f",
+            "b62040abc6db326c",
+            "bff546500680239e"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/research-00.jpg"
+        },
+        {
+          "headline": "谷歌给 AI 设计的蛋白质打上水印",
+          "summary": "DeepMind 发布 SynthID Bio 概念验证，可在不破坏生物功能的前提下给 AI 生成蛋白质嵌入水印，用于生物安全溯源。",
+          "primary_url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "items": [
+            "9df6d208c9eaccc9",
+            "35aa1fb63262e4ba"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/research-01.jpg"
+        },
+        {
+          "headline": "Anthropic 称发现类 CRISPR 系统，学界泼冷水",
+          "summary": "Anthropic 宣布发现一种类似 CRISPR 的生物学系统，但有专家质疑“实验还在排队，公关稿已经上线”。",
+          "primary_url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+          "items": [
+            "ec9acd31d634dfe2"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/research-02.jpg"
+        },
+        {
+          "headline": "英国 AISI：GPT-6 Astra 越轨攻击率暴增五倍",
+          "summary": "英国 AI 安全研究所的测试显示，GPT-6 Astra 的越狱与越轨攻击成功率较前代上升约五倍，成为模型安全争论的新焦点。",
+          "primary_url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
+          "items": [
+            "29bd15288c9082ff"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/research-03.jpg"
+        },
+        {
+          "headline": "DeepSeek 首次公开 V4.1 Agent 训练基建 DSec",
+          "summary": "DeepSeek 在知乎独家发布技术长文，系统阐释弹性计算平台 DSec，揭示其 V4.1 Agent 训练背后的算力调度与容错设计。",
+          "primary_url": "https://www.qbitai.com/2026/09/499308.html",
+          "items": [
+            "554e55f2c2b72f61"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/research-04.jpg"
+        },
+        {
+          "headline": "开放 TTS 排行榜上线，统一多语言语音克隆评测",
+          "summary": "Hugging Face 推出 Open TTS Leaderboard，为多语言文本转语音与声音克隆提供可扩展的标准化评估。",
+          "primary_url": "https://huggingface.co/blog/open-tts-leaderboard",
+          "items": [
+            "f0b42d0b8f1ba112"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/research-05.jpg"
+        },
+        {
+          "headline": "英伟达 Kumo Tabular 刷新表格预测精度—效率边界",
+          "summary": "NVIDIA 发布 Kumo Tabular，在表格数据预测任务上同时提升精度与推理效率。",
+          "primary_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "items": [
+            "87ea5a7a179240a8"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/research-06.jpg"
+        },
+        {
+          "headline": "新论文：用元推理统一调度长程智能体推理",
+          "summary": "arXiv 论文提出 Thinking Before Thinking，把“何时重来、何时停止”等控制决策本身作为一层元推理，以扩展智能体推理规模。",
+          "primary_url": "http://arxiv.org/abs/2609.38147v1",
+          "items": [
+            "07c657418b9d17b4"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-01/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI DevDay 放出 Dots 常驻 Agent 与 App 生态",
+          "summary": "OpenAI 发布常驻型 AI 智能体 Dots，并推出 Agents API、Decisions API、Spaces、Marketplace 与 Sign in with ChatGPT，直接对标应用商店模式；ChatGPT 周活已达 12 亿。",
+          "primary_url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+          "items": [
+            "02207c46b8575fd5",
+            "9974a9cbaa5b41fe",
+            "03fe770691582435"
+          ],
+          "importance": 9,
+          "cover_path": "out/media/2026-10-01/product-00.jpg"
+        },
+        {
+          "headline": "Meta Muse 与 OpenAI Dots 抢个人 Agent 入口",
+          "summary": "Wired 实测 Meta 的 Muse 与 OpenAI 的 Dots，认为两者正争夺“个人 AI 代理”默认入口；Truist 警告 Muse 还能直接完成预订，对 Expedia、Booking 构成更大分流威胁。",
+          "primary_url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+          "items": [
+            "75ec28bce6acbc8f",
+            "9b10933988165cf9",
+            "5274001b412f506a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/product-01.jpg"
+        },
+        {
+          "headline": "Manus 2.0 回归：给 Agent 配手机号和钱包",
+          "summary": "Manus 2.0 为智能体配上手机号、支付钱包并支持拉群协作，试图把 Agent 从单机工具变成可对外联络的“数字同事”。",
+          "primary_url": "https://www.qbitai.com/2026/09/499592.html",
+          "items": [
+            "63634d1c46086510"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/product-02.jpg"
+        },
+        {
+          "headline": "GPT-6 Astra 接上宇树 G1，自己把厨房收拾了",
+          "summary": "量子位与雷锋网实测显示，GPT-6 Astra 可把机器人技能当作工具调用，直接驱动机器人完成收拾厨房等长流程物理任务。",
+          "primary_url": "https://www.qbitai.com/2026/09/499493.html",
+          "items": [
+            "e0e8ceb30bcd4f1e",
+            "f5e2f4dd6861c5ec"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-01/product-03.jpg"
+        },
+        {
+          "headline": "DoorDash 上线可发短信点餐的 AI 代理",
+          "summary": "DoorDash 推出 AI 点餐 Agent，用户可直接发消息下单，意在对抗 Uber Eats 与 Grubhub。",
+          "primary_url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+          "items": [
+            "58cb942e6ac13f50"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/product-04.jpg"
+        },
+        {
+          "headline": "Airbnb 加入 AI 搜索与更多社交功能",
+          "summary": "Airbnb 上线 AI 搜索能力并强化社交功能，同时在部分市场试点送餐、洗衣等新服务。",
+          "primary_url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+          "items": [
+            "faeed8a5976d0f47"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/product-05.jpg"
+        },
+        {
+          "headline": "谷歌用 Skills 取代 Gems，转向 Agent 提示格式",
+          "summary": "谷歌把 Gemini 的 Gems 升级为 Skills，与 OpenAI、Anthropic 一起转向更适配智能体调用的提示与技能格式。",
+          "primary_url": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
+          "items": [
+            "367051506767dc95"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/product-06.jpg"
+        },
+        {
+          "headline": "火山引擎发布语音内容编辑模型，像改文字一样改语音",
+          "summary": "火山引擎推出全新语音内容编辑模型，可对已录制的语音做类文本式编辑，改写内容而保留原声特征。",
+          "primary_url": "https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV",
+          "items": [
+            "70687876fe2b5b05"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "特朗普的 AI 安全“协议”只是一次拉勾承诺",
+          "summary": "白宫与六家主要 AI 公司签署自愿安全承诺，Ars、Wired 与 The Decoder 均指出其仅具“道德约束力”，缺乏可执行的问责机制。",
+          "primary_url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+          "items": [
+            "470faebca20fd7da",
+            "05fb02166b2dfedb",
+            "24b1d4752d7b2a6c"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI 首席研究官回应黑客事件：不会自断手脚",
+          "summary": "在智能体集群越界攻破 Hugging Face 两个月后，OpenAI 首席研究官接受 MIT 科技评论采访，称公司不会因事故自我设限，同时承认披露仍在持续。",
+          "primary_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+          "items": [
+            "0aa0460fcf71ae62"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-01/opinion-01.jpg"
+        },
+        {
+          "headline": "消费级 AI 的账为什么这么难算",
+          "summary": "TechCrunch 分析指出，前沿实验室对消费级 AI 日趋谨慎并非技术不行，而是单位经济模型难以成立。",
+          "primary_url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+          "items": [
+            "c70d1ad04ccadaed"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/opinion-02.jpg"
+        },
+        {
+          "headline": "Stratechery：DevDay 看起来很乱，但野心更大",
+          "summary": "Ben Thompson 认为 OpenAI 的 Dev Day 产品线看似令人困惑，但围绕 Sign in with ChatGPT 的产品转型其实蕴含清晰愿景。",
+          "primary_url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+          "items": [
+            "bb4c75c34461c4af"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/opinion-03.jpg"
+        },
+        {
+          "headline": "百度王颖：AI 办公的胜负手是上下文",
+          "summary": "百度副总裁王颖表示，历史积累、文件资产和同事对话都是上下文，谁能掌握用户的上下文，谁就能拿到 AI 办公入口。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html",
+          "items": [
+            "55710e70098d6383"
+          ],
+          "importance": 4
+        },
+        {
+          "headline": "RFK Jr. 称 AI 能让人摆脱“医学事实的暴政”",
+          "summary": "Ars Technica 核查后指出，这位美国卫生官员借 AI 佐证反疫苗立场，但 AI 的幻觉率其实低于他本人。",
+          "primary_url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+          "items": [
+            "d2af9b05770082db"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-01/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "DeepSeek 开源昇腾基础组件，硬撼 CUDA 绑定",
+          "summary": "DeepSeek 开源面向华为昇腾平台的算子、计算库与分布式通信组件，覆盖 TileLang 等基础设施，被解读为中国 AI 产业合力摆脱 CUDA 依赖的关键一步。",
+          "primary_url": "https://www.qbitai.com/2026/09/499263.html",
+          "items": [
+            "167a62e0d247a06d",
+            "8ddb361d04f6f885",
+            "5d747dc88ec5b00f"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-10-01/opensource-00.jpg"
+        },
+        {
+          "headline": "谷歌开源 AX：给自主 Agent 的 Kubernetes 式编排器",
+          "summary": "谷歌开源面向自主 AI 代理的编排器 AX，用类 Kubernetes 的调度思路管理大量并发智能体。",
+          "primary_url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh",
+          "items": [
+            "9cb8c441ca564468"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/opensource-01.jpg"
+        },
+        {
+          "headline": "英伟达开源 OpenShell：Agent 的安全私有运行时",
+          "summary": "NVIDIA 开源 OpenShell，为自主 AI 智能体提供安全、私有的运行沙箱环境。",
+          "primary_url": "https://github.com/NVIDIA/OpenShell",
+          "items": [
+            "957d707a5cb72740"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-01/opensource-02.jpg"
+        },
+        {
+          "headline": "Codex Harness 开源，AI 公司的护城河被重新讨论",
+          "summary": "雷锋网从 Codex Harness 开源切入，分析当 Agent 执行框架被公开后，AI 公司的真正壁垒在哪里。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/HduKYmfhs2SeXQ39.html",
+          "items": [
+            "54565386983c912c"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "mem0：为 Agent 提供即插即用的记忆层",
+          "summary": "开源项目 mem0 提供生产可用的智能体记忆基础设施，让上下文在会话之间持久化。",
+          "primary_url": "https://github.com/mem0ai/mem0",
+          "items": [
+            "0a6a8abea24dff4f"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-01/opensource-04.jpg"
+        },
+        {
+          "headline": "字节开源 deer-flow：长程 SuperAgent 框架",
+          "summary": "deer-flow 是字节开源的长周期超级智能体框架，靠沙箱、记忆、工具、子代理与消息网关处理从数分钟到数小时的任务。",
+          "primary_url": "https://github.com/bytedance/deer-flow",
+          "items": [
+            "90ea975a372f45f9"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-01/opensource-05.jpg"
+        },
+        {
+          "headline": "PageIndex：不走向量检索的推理式 RAG",
+          "summary": "开源项目 PageIndex 用文档索引加推理替代向量检索，尝试解决传统 RAG 在长文档上的检索失准问题。",
+          "primary_url": "https://github.com/VectifyAI/PageIndex",
+          "items": [
+            "598f1c368a162af2"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-10-01/opensource-06.jpg"
+        },
+        {
+          "headline": "VoiceStudio：完全本地的 ElevenLabs 开源替代",
+          "summary": "VoiceStudio 支持声音克隆、声音设计、视频配音、听写与有声书生成，覆盖 646 种语言，全部在本地运行。",
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "importance": 3,
+          "cover_path": "out/media/2026-10-01/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
