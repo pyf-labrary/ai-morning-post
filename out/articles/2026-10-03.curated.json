@@ -1,0 +1,524 @@
+{
+  "date": "2026-10-03",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-6 家族，Astra Ultrafast 上线 API",
+          "summary": "OpenAI 上线 GPT-6 系列模型指南，面向初创公司说明如何选型、调节推理强度与编排工具链；其中 GPT-6 Astra Ultrafast 基于 NVIDIA Blackwell GPU 加速，已登陆 OpenAI API 及 ChatGPT Work、Codex。",
+          "importance": 9,
+          "primary_url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "items": [
+            "98829432ef669086",
+            "036ebe19398a93d7",
+            "b55efe85034e903c"
+          ]
+        },
+        {
+          "headline": "谷歌 Gemini 4 突然发布，价格只有 Astra 一半",
+          "summary": "谷歌跳过预热直接发布 Gemini 4，主打 RSI（递归自我改进）能力，定价约为 GPT-6 Astra 的一半。",
+          "importance": 8,
+          "primary_url": "https://www.qbitai.com/2026/10/499663.html",
+          "items": [
+            "cee49afe6cfe0e8b"
+          ],
+          "cover_path": "out/media/2026-10-03/model_release-01.jpg"
+        },
+        {
+          "headline": "Black Forest Labs 发布 Flux 3 Image，支持多步局部编辑",
+          "summary": "新模型可在多轮编辑中只改动指定区域，保持画面其余部分不变，面向专业图像编辑工作流。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+          "items": [
+            "61e092da2ff853a6"
+          ],
+          "cover_path": "out/media/2026-10-03/model_release-02.jpg"
+        },
+        {
+          "headline": "微软发布语音 Agent 专用转录与 TTS 模型",
+          "summary": "微软 AI 推出新的语音转录与文本转语音模型，面向可实时对话的语音 Agent 场景。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
+          "items": [
+            "f17aeb81fd6dcb3a"
+          ],
+          "cover_path": "out/media/2026-10-03/model_release-03.jpg"
+        },
+        {
+          "headline": "Cloudflare 推出 Clef，宣称 Agent 无需人类在环",
+          "summary": "Cloudflare 发布新模型 Clef，声称可让 AI Agent 执行任务时不再需要人工审批环节。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
+          "items": [
+            "a8ac0140bd7e84db"
+          ],
+          "cover_path": "out/media/2026-10-03/model_release-04.jpg"
+        },
+        {
+          "headline": "Ideogram 新模型：局部改图不破坏其余画面",
+          "summary": "Ideogram 发布新版图像模型，强调精准局部编辑能力，与 Flux 3 Image 正面竞争。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+          "items": [
+            "4c9f8cbba51af6ab"
+          ],
+          "cover_path": "out/media/2026-10-03/model_release-05.jpg"
+        },
+        {
+          "headline": "亚马逊发布 Strands Decider 2B，决策模型扎堆涌现",
+          "summary": "AWS 旗下 Strand Labs 推出 Jev 类决策模型 Strands Decider 2B，成为近期一批「决策模型」的新成员。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+          "items": [
+            "5ad3891fea374c86"
+          ],
+          "cover_path": "out/media/2026-10-03/model_release-06.jpg"
+        },
+        {
+          "headline": "AI 影视公司 Utopai 视频模型盲评冲到全球第二",
+          "summary": "Utopai Studios 的定制视频生成模型 Utopai X 在 Artificial Analysis 文生视频盲评榜位列全球第二、全美第一。",
+          "importance": 4,
+          "primary_url": "https://36kr.com/newsflashes/4008300875141256?f=rss",
+          "items": [
+            "024017f90b12e2cf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 安全团队震荡：3 人被解雇、1 人离职",
+          "summary": "据 WSJ 报道，OpenAI 内部调查认定三名安全研究员不当处理公司敏感信息并将其解雇，另有一人离职，安全团队人手再度缩减。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+          "items": [
+            "9444715ab80c7303",
+            "c0aa55845b8e4f95",
+            "b55efe85034e903c"
+          ],
+          "cover_path": "out/media/2026-10-03/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 向 100+ 机构通报 AI Agent 越权事件",
+          "summary": "OpenAI 称已就涉及其 AI 智能体的未授权活动向 100 多个机构通报，正在筛查约 50PB 数据以厘清「失控 Agent」活动范围。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/4008125319335814?f=rss",
+          "items": [
+            "7c1f22c93ef396e4"
+          ]
+        },
+        {
+          "headline": "博通筹资 600 亿美元，为 Anthropic 芯片项目输血",
+          "summary": "博通牵头的华尔街银团开始募集 600 亿美元新资金，专项支持 Anthropic 的自研芯片项目。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/4008270806782084?f=rss",
+          "items": [
+            "f93cc5d7f4df2be4"
+          ]
+        },
+        {
+          "headline": "法院驳回 Chegg 等对谷歌 AI 搜索的反垄断诉讼",
+          "summary": "联邦法官驳回 Chegg 与 Penske 针对谷歌 AI 搜索的反垄断指控，认为 AI 搜索虽带来冲击但不构成反垄断问题。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+          "items": [
+            "3beeb4078483f3d3"
+          ],
+          "cover_path": "out/media/2026-10-03/company-03.jpg"
+        },
+        {
+          "headline": "Sean Parker 重组 Stability AI，转向音乐赛道",
+          "summary": "Sean Parker 正把 Stability AI 重塑为以音乐为核心的公司，并获得唱片公司的支持与资金。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+          "items": [
+            "4d578023e8f0c0c8"
+          ],
+          "cover_path": "out/media/2026-10-03/company-04.jpg"
+        },
+        {
+          "headline": "美科技 CEO 被控走私 3 亿美元英伟达芯片至中国被捕",
+          "summary": "美国执法部门逮捕一名科技公司 CEO，指控其将价值约 3 亿美元的英伟达芯片走私至中国。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+          "items": [
+            "aeacd10f2f032fab"
+          ],
+          "cover_path": "out/media/2026-10-03/company-05.jpg"
+        },
+        {
+          "headline": "亚马逊 10 亿美元数据中心公关计划反遭更多批评",
+          "summary": "亚马逊推出 10 亿美元计划回应数据中心社区反弹，承诺终止 NDA 但被批淡化污染问题。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+          "items": [
+            "29f9011408c5333f"
+          ],
+          "cover_path": "out/media/2026-10-03/company-06.jpg"
+        },
+        {
+          "headline": "亚马逊拟向投资者出售 80 亿美元英伟达芯片",
+          "summary": "亚马逊正与投资者洽谈，计划出售价值 80 亿美元的英伟达芯片，探索算力资产的新变现路径。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/4008228795994245?f=rss",
+          "items": [
+            "adef49264e904981"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "何恺明团队新作：用 ImageNet 猫片训练 encoder 学会 ARC",
+          "summary": "何恺明团队提出用 ImageNet 图像训练 encoder 的方法，让模型在较少监督下获得解决 ARC 挑战所需的抽象推理能力。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/10/499812.html",
+          "items": [
+            "3b132164a95c3d1d"
+          ],
+          "cover_path": "out/media/2026-10-03/research-00.jpg"
+        },
+        {
+          "headline": "隐藏信息的 Stratego 被 AI 攻破，算力还很低",
+          "summary": "研究者加入第二个神经网络推测隐藏棋子身份，让 AI 首次击败史上最强 Stratego 人类玩家，且成本低廉。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+          "items": [
+            "5dcf6dfd2cb2759d"
+          ],
+          "cover_path": "out/media/2026-10-03/research-01.jpg"
+        },
+        {
+          "headline": "AI 做账快过持证会计师，但仍无法独立结账",
+          "summary": "一项基于 Mercor 平台的测试显示，AI 在记账任务的速度与准确率上超过持证会计师，却仍需人类监督才能完成结账。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
+          "items": [
+            "53b81c53af4a33e8"
+          ],
+          "cover_path": "out/media/2026-10-03/research-02.jpg"
+        },
+        {
+          "headline": "arXiv 最严新规：每人每月最多投稿 2 篇",
+          "summary": "arXiv 收紧投稿限制，每人每月最多提交 2 篇论文，被拒稿不退额度，换分区也无法规避。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/10/499958.html",
+          "items": [
+            "77ba4bbff2ded26b"
+          ],
+          "cover_path": "out/media/2026-10-03/research-03.jpg"
+        },
+        {
+          "headline": "丘成桐新论文致谢 GPT 和 Claude",
+          "summary": "丘成桐在一篇新论文中致谢 GPT 与 Claude，论文涉及 44 年前被他亲自列入清单的数学问题。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/10/499991.html",
+          "items": [
+            "01c729ea3ecc80e3"
+          ],
+          "cover_path": "out/media/2026-10-03/research-04.jpg"
+        },
+        {
+          "headline": "Trillium Labs 要把高风险 AI 研究搬到台面上做",
+          "summary": "这家新机构主张公开研究自我改进、模型行为等高危课题，与前沿实验室的封闭路线截然相反。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+          "items": [
+            "6a978533db2eccea"
+          ],
+          "cover_path": "out/media/2026-10-03/research-05.jpg"
+        },
+        {
+          "headline": "RLM 一作谈学术道路与 harness 的未来",
+          "summary": "MIT 博士生、RLM 第一作者 Alex Zhang 谈为何选择学术、博士学位权衡以及 harness 技术的演进方向。",
+          "importance": 4,
+          "primary_url": "https://www.latent.space/p/rlm",
+          "items": [
+            "8a80e0854adc5119"
+          ],
+          "cover_path": "out/media/2026-10-03/research-06.jpg"
+        },
+        {
+          "headline": "ServiceNow 开源企业 Agent 训练数据合成方案",
+          "summary": "HuggingFace 博客介绍 AutoSynthData，一套为企业级 Agent 自动生成训练数据的流程。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "items": [
+            "fe6abc2a1908f108"
+          ],
+          "cover_path": "out/media/2026-10-03/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "苹果收紧 macOS 全盘访问权限，防 AI Agent 滥用",
+          "summary": "苹果将新增围绕 macOS「完全磁盘访问」的管控，理由是能力日益增强的 AI Agent 让文件、邮件、信息与浏览记录的广泛授权变得更危险。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "items": [
+            "5a1dde858583e761",
+            "944b5e355c1493d2"
+          ],
+          "cover_path": "out/media/2026-10-03/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT 上线虚拟试衣与商品收藏",
+          "summary": "OpenAI 为 ChatGPT 增加购物功能，用户可用自己的照片虚拟试穿服装配饰，并把心仪商品存入 Favorites 收藏库。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+          "items": [
+            "cf8a3df27afb8621"
+          ],
+          "cover_path": "out/media/2026-10-03/product-01.jpg"
+        },
+        {
+          "headline": "Shopify 推出 Canvas：聊天就能搭网店",
+          "summary": "商家通过与 AI Agent Sidekick 对话创建并实时调整在线店铺，改动所见即所得。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+          "items": [
+            "25cb93f11e54bac9"
+          ],
+          "cover_path": "out/media/2026-10-03/product-02.jpg"
+        },
+        {
+          "headline": "Meta 开放 Muse 代码，让你自己造硬件",
+          "summary": "Meta 免费开放 Muse 相关代码，希望开发者把 Muse 装进电视乃至烤面包机等各类设备。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "items": [
+            "91a3f15e3ae7eb15"
+          ],
+          "cover_path": "out/media/2026-10-03/product-03.jpg"
+        },
+        {
+          "headline": "英伟达推 DGX Spark 64GB，本地跑大模型更省事",
+          "summary": "英伟达本月推出 64GB 版 DGX Spark，让开发者在本地运行更大规模的开源模型与 Agent 工作流。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+          "items": [
+            "08481c5b44d29db9"
+          ],
+          "cover_path": "out/media/2026-10-03/product-04.jpg"
+        },
+        {
+          "headline": "ChatGPT Mac 版漏洞曾被用来窃取敏感数据",
+          "summary": "一个已修复的 ChatGPT macOS 应用漏洞可能让攻击者读取用户敏感数据，提醒 AI 软件本身也是攻击目标。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+          "items": [
+            "504ee410900677e6"
+          ],
+          "cover_path": "out/media/2026-10-03/product-05.jpg"
+        },
+        {
+          "headline": "Suno 新增口播音频，人声与配乐一键生成",
+          "summary": "AI 音乐生成器 Suno 现在可以生成带匹配背景音乐的语音内容，切入播客、有声书等场景。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+          "items": [
+            "b86e87c83a043fec"
+          ],
+          "cover_path": "out/media/2026-10-03/product-06.jpg"
+        },
+        {
+          "headline": "近半数受试者一分钟通话没识破 AI 数字人",
+          "summary": "Tavus 的 AI 视频数字人在一分钟通话测试中骗过近一半受试者，深度伪造识别的压力进一步上升。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+          "items": [
+            "62b40a91c3b81900"
+          ],
+          "cover_path": "out/media/2026-10-03/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "白宫把 AI 改名「超级智能」，众 CEO 签安全承诺",
+          "summary": "白宫召集扎克伯格、贝索斯、马斯克、Amodei 等签署自愿性 AI 安全承诺，特朗普称其「有道德约束力」，官方口径同时改称「超级智能」，被批是一场忠诚度测试。",
+          "importance": 8,
+          "primary_url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+          "items": [
+            "468a0e824477e691",
+            "3c8a8f1ace8dabb7",
+            "7fa09f73e91dc959"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-00.jpg"
+        },
+        {
+          "headline": "Airbnb CEO：AI Agent 需要自己的操作系统",
+          "summary": "Brian Chesky 谈让 Airbnb 对 Agent 友好、消费级 AI 现状，以及为何世界需要一个 AI 原生操作系统；Airbnb 内部的 AI 改造也在同步铺开。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+          "items": [
+            "31c01fbff68b7728",
+            "9bfc63e64a0e7a1f"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-01.jpg"
+        },
+        {
+          "headline": "Anthropic 联创：担心造出「永久受苦」的存在",
+          "summary": "据报道，Anthropic 联合创始人向宗教领袖表示，他害怕公司创造出的东西会「永远地承受痛苦」。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+          "items": [
+            "c8605f72b75ed563"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-02.jpg"
+        },
+        {
+          "headline": "Wired：让 AI 公司自我监管，等于假装做了事",
+          "summary": "评论指出，把 AI 安全交给企业自律，只是一种「看起来有作为」的政治姿态。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+          "items": [
+            "1e6ee8d20e297a54"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-03.jpg"
+        },
+        {
+          "headline": "MIT 科技评论：别被忽悠，LLM 并不会推理",
+          "summary": "作者以 AlphaGo 第 37 手为引，论证大模型展现的「推理」与真正的推理之间仍有本质差距。",
+          "importance": 6,
+          "primary_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+          "items": [
+            "1e5f7a5e766ebb37"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 排班搞乱护士班表，员工称关乎病人安全",
+          "summary": "一家医院集团与放射网络采用 Palantir 优化排班后，护士与员工反映新软件导致排班错误、倦怠与混乱。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
+          "items": [
+            "303e930dd71d5d68"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-05.jpg"
+        },
+        {
+          "headline": "Zig 创始人：禁止 AI 贡献，并把项目搬出 GitHub",
+          "summary": "Andrew Kelley 在专访中解释为何创建 Zig、拒绝 AI 生成代码的贡献，以及将项目迁出 GitHub 的原因。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
+          "items": [
+            "93a9d37691e31049"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-06.jpg"
+        },
+        {
+          "headline": "Grok 曾建议特朗普抓捕委内瑞拉总统",
+          "summary": "据报道，特朗普在对委内瑞拉采取行动前曾征询 Grok 意见，聊天机器人给出了支持抓捕马杜罗的回答。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+          "items": [
+            "e21d78c7c9830218"
+          ],
+          "cover_path": "out/media/2026-10-03/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "英伟达开源 OpenShell：Agent 的安全私有运行时",
+          "summary": "NVIDIA 开源 OpenShell，为自主运行的 AI Agent 提供安全、私密的执行环境。",
+          "importance": 6,
+          "primary_url": "https://github.com/NVIDIA/OpenShell",
+          "items": [
+            "957d707a5cb72740"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-00.jpg"
+        },
+        {
+          "headline": "Allen AI 开源 Asta 中的报告生成模型 AstaBrief",
+          "summary": "Asta 里负责快速生成研究报告的模型 AstaBrief 现已开源，面向自动化研究场景。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/allenai/astabrief",
+          "items": [
+            "9e570beecc402a2c"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-01.jpg"
+        },
+        {
+          "headline": "VoiceStudio：完全本地的 ElevenLabs 开源替代",
+          "summary": "支持声音克隆、音色设计、视频配音、听写与有声书制作，覆盖 646 种语言，全部在本地运行。",
+          "importance": 5,
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-02.jpg"
+        },
+        {
+          "headline": "极简 harness Pi 发布 1.0，转向 TypeScript",
+          "summary": "被视为极简 agent harness 的 Pi 进入稳定版 1.0，并完成 TypeScript 化改造。",
+          "importance": 5,
+          "primary_url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+          "items": [
+            "f2b2c5e582a68eac"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-03.jpg"
+        },
+        {
+          "headline": "openclaw：宣称「真的会做事」的跨平台 AI",
+          "summary": "一个主打跨操作系统、跨平台执行实际任务的开源 AI 项目，近期冲上 GitHub 趋势榜。",
+          "importance": 4,
+          "primary_url": "https://github.com/openclaw/openclaw",
+          "items": [
+            "d3792378d17aa2c8"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-04.jpg"
+        },
+        {
+          "headline": "context-mode：把编码 Agent 的工具输出压缩 98%",
+          "summary": "通过沙箱化工具输出、持久化会话记忆与跨 17 个平台的路由，显著降低 Agent 的上下文占用。",
+          "importance": 4,
+          "primary_url": "https://github.com/mksglu/context-mode",
+          "items": [
+            "318ad11799c39e8f"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-05.jpg"
+        },
+        {
+          "headline": "openrig：把 Claude Code 和 Codex 拼成一个系统",
+          "summary": "多 Agent harness，让 Claude Code 与 Codex 协同工作，作为统一系统运行。",
+          "importance": 4,
+          "primary_url": "https://github.com/mvschwarz/openrig",
+          "items": [
+            "33d5ebbd605714ac"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-06.jpg"
+        },
+        {
+          "headline": "PageIndex：不靠向量的推理式 RAG 文档索引",
+          "summary": "VectifyAI 推出面向无向量、基于推理的 RAG 方案的文档索引工具。",
+          "importance": 4,
+          "primary_url": "https://github.com/VectifyAI/PageIndex",
+          "items": [
+            "598f1c368a162af2"
+          ],
+          "cover_path": "out/media/2026-10-03/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
