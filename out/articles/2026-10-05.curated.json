@@ -1,0 +1,368 @@
+{
+  "date": "2026-10-05",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Aleph Alpha 开源 78B 英德 MoE，每次只激活 3.46B",
+          "summary": "德国 Aleph Alpha 发布 Kolibri，78.1B 参数的英德双语 MoE 模型，每 token 仅激活 3.46B 参数，支持 100 万 token 上下文和按请求调节的推理强度，FP8 权重以 Apache 2.0 开源。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+          "items": [
+            "26846cd2117ac152"
+          ]
+        },
+        {
+          "headline": "美团 LongCat-Video 开源视频生成模型",
+          "summary": "美团 LongCat 团队的视频生成模型 LongCat-Video 登上 GitHub 热榜，以开源仓库形式发布权重与代码。",
+          "importance": 5,
+          "primary_url": "https://github.com/meituan-longcat/LongCat-Video",
+          "items": [
+            "80ae78dee908c39d"
+          ],
+          "cover_path": "out/media/2026-10-05/model_release-01.jpg"
+        },
+        {
+          "headline": "NASA 与 IBM 开源月球基础模型，喂 17 年轨道数据",
+          "summary": "NASA 和 IBM 把一个基于 17 年月球轨道器数据训练的基础模型开源，用于月球科学中的水冰探测等任务。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+          "items": [
+            "a831761eafb26e76"
+          ],
+          "cover_path": "out/media/2026-10-05/model_release-02.jpg"
+        },
+        {
+          "headline": "GPT-6 Astra、Gemini 4 Argon、Claude Fable 5.1 横评",
+          "summary": "一份前沿模型横评梳理各家长短：GPT-6 Astra 强在电脑操作，Gemini 4 Argon 擅长法律金融，GPT-6.1 Sol 在编码 agent 上性价比最高。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+          "items": [
+            "d5f08c1c75f8525c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 安全研究员离职，称公司文化「已崩坏」",
+          "summary": "OpenAI 安全团队成员 David Robinson 辞职并公开发出警告，称公司文化「broken」，这是又一位带着公开警告离开的安全研究者。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "items": [
+            "72b73f048c7b49e6",
+            "9ec3bb1bae110194",
+            "4bc96a2831860f18"
+          ],
+          "cover_path": "out/media/2026-10-05/company-00.jpg"
+        },
+        {
+          "headline": "Google 冻结开源漏洞赏金项目：AI 灌水太多",
+          "summary": "Google 表示 AI 生成的低质量漏洞提交「显著上升」，已暂停其开源漏洞赏金计划，AI slop 正在压垮众包安全机制。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "items": [
+            "5e002db764083ecd"
+          ],
+          "cover_path": "out/media/2026-10-05/company-01.jpg"
+        },
+        {
+          "headline": "亚马逊回应数据中心争议：已不再用保密协议",
+          "summary": "AWS CEO 出面回应社区对数据中心的强烈反弹，称亚马逊已不再对周边居民使用 NDA，试图缓解选址阻力。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "items": [
+            "3f4c8f2e3fa56a77"
+          ],
+          "cover_path": "out/media/2026-10-05/company-02.jpg"
+        },
+        {
+          "headline": "马斯克 AI 芯片：英特尔做前端，台积电补后端",
+          "summary": "报道称马斯克的 AI 芯片代工可能采用「英特尔 14A 先进工艺做前端 + 台积电承接运营、良率与封装」的混搭方案。",
+          "importance": 4,
+          "primary_url": "https://www.qbitai.com/2026/10/501605.html",
+          "items": [
+            "e90ab123713e67d8"
+          ],
+          "cover_path": "out/media/2026-10-05/company-03.jpg"
+        },
+        {
+          "headline": "马斯克：SpaceXAI 将更名为 SpaceXSI",
+          "summary": "马斯克在 X 上确认会把「SpaceXAI」改名为「SpaceXSI」，并称「不再叫 AI，叫 SI 更好」，呼应白宫把 AI 改称超级智能的风向。",
+          "importance": 4,
+          "primary_url": "https://36kr.com/newsflashes/4011311533543553?f=rss",
+          "items": [
+            "4b82ac6218a2634d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Google 把联邦学习搬进 TEE，Gboard 隐私可外部审计",
+          "summary": "Google Research 将梯度计算从手机移到可验证的服务端 TEE，访问策略写入 Sigstore Rekor、二进制可复现构建，Gboard 已用上可外部验证的差分隐私训练。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+          "items": [
+            "c85e117b6fb6721b"
+          ]
+        },
+        {
+          "headline": "Google 让自改进 Agent 没法「背题」",
+          "summary": "Google 研究者提出新方法，防止自我改进的 AI agent 在多轮训练中记住测试集，避免基准分数虚高。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
+          "items": [
+            "3a30ce0bb33085a2"
+          ],
+          "cover_path": "out/media/2026-10-05/research-01.jpg"
+        },
+        {
+          "headline": "评测：中国大模型在敏感议题上复述官方立场或拒答",
+          "summary": "Aleph Alpha 的基准测试显示，中国厂商的大模型在敏感话题上要么复述官方口径，要么直接拒绝回答。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+          "items": [
+            "1afe53b08203cc26"
+          ],
+          "cover_path": "out/media/2026-10-05/research-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Google 收紧 Gemini 订阅：免费用户只剩最弱模型",
+          "summary": "新的 Gemini 订阅分层把免费用户限制在最弱模型上，5 美元/月档也无法使用 Pro。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
+          "items": [
+            "fecbb0e02fab08ab"
+          ],
+          "cover_path": "out/media/2026-10-05/product-00.jpg"
+        },
+        {
+          "headline": "Meta Muse 与 OpenAI Dots：分发之争对能力之争",
+          "summary": "Truist 认为 Meta 靠消费者规模和广告生态在 agent 市场抢得先手，OpenAI 的 Dots 更偏开发者与重度用户，Google 则在开放式推理上更强。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/4011299198898310?f=rss",
+          "items": [
+            "aedbc97a3d9272dd",
+            "7d39f98ef0402317"
+          ]
+        },
+        {
+          "headline": "Cloudflare 喊你用它搭下一代 Git 平台",
+          "summary": "Cloudflare 发布博客，鼓励开发者基于其 Workers 与存储能力构建新的 Git 托管平台。",
+          "importance": 4,
+          "primary_url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+          "items": [
+            "d367922a3b9044e4"
+          ],
+          "cover_path": "out/media/2026-10-05/product-02.jpg"
+        },
+        {
+          "headline": "官方指南：如何用好 Claude Opus 5.5",
+          "summary": "Anthropic 发布使用指南，讲解在 Claude 与 Claude Code 中充分发挥 Opus 5.5 能力的技巧。",
+          "importance": 4,
+          "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+          "items": [
+            "40d48270378796fc"
+          ],
+          "cover_path": "out/media/2026-10-05/product-03.jpg"
+        },
+        {
+          "headline": "微软：Agent 说它做完了，数据库说没有",
+          "summary": "微软在 Hugging Face 博客介绍 thinkingbox，聚焦 agent 声称完成任务与数据库实际状态不一致的可靠性问题。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "items": [
+            "46b8555b8dbcbd18"
+          ],
+          "cover_path": "out/media/2026-10-05/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "特朗普设「超级智能工作组」，AI 官方改叫 SI",
+          "summary": "特朗普签署行政令要求联邦机构把「人工智能」改称「超级智能」，并任命国家情报总监克莱顿领导「超级智能工作组」，120 天内提交 AI 风险与机遇报告，万斯、赫格塞思、贝森特等入组。批评者认为这与真正的超级智能毫无关系。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "items": [
+            "1bf1f6d1c163fad6",
+            "67796022c5b86740",
+            "632c1cad80caf90c"
+          ],
+          "cover_path": "out/media/2026-10-05/opinion-00.jpg"
+        },
+        {
+          "headline": "LeCun：对 AI 灭绝人类「零担忧」",
+          "summary": "Yann LeCun 在采访中称自己对 AI 导致人类灭绝「零担忧」，并直言 Anthropic CEO Amodei 的相关说法是在误导公众。",
+          "importance": 6,
+          "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+          "items": [
+            "26e629ea610cdace"
+          ],
+          "cover_path": "out/media/2026-10-05/opinion-01.jpg"
+        },
+        {
+          "headline": "Altman 不再讲「天上的魔法智能」了",
+          "summary": "The Decoder 观察到 OpenAI 的对外叙事明显转向务实落地，与过去那套 AGI 布道形成反差。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+          "items": [
+            "3a295324cfbece97"
+          ],
+          "cover_path": "out/media/2026-10-05/opinion-02.jpg"
+        },
+        {
+          "headline": "热文：Agent 不需要记忆，需要文档",
+          "summary": "一篇 Hacker News 热传博文主张，与其给 agent 堆各种记忆机制，不如把知识写成可检索、可维护、可审阅的文档。",
+          "importance": 5,
+          "primary_url": "https://liao.gg/blog/agents-dont-need-memory",
+          "items": [
+            "c44d5dec01cd3c97"
+          ]
+        },
+        {
+          "headline": "Simon Willison：按量付费必须有硬性预算上限",
+          "summary": "Simon Willison 呼吁所有按量计费的 API 和服务默认提供硬性预算上限，否则自动化的 AI 流程很容易把账单跑爆。",
+          "importance": 4,
+          "primary_url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "items": [
+            "267fe4420483a739"
+          ]
+        },
+        {
+          "headline": "System76 在核心代码库禁用 AI 生成代码",
+          "summary": "Pop!_OS 开发商 System76 宣布在多数 COSMIC 代码库中禁止 AI 生成代码，理由是质量与版权风险。",
+          "importance": 4,
+          "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+          "items": [
+            "51fad4e4221924b3"
+          ]
+        },
+        {
+          "headline": "AI 抢内存：7 年前的电视盒子也涨价 100 美元",
+          "summary": "AI 数据中心吞噬内存产能，导致含内存的消费电子普遍涨价，连老款 Nvidia Shield TV 都被迫提价 100 美元。",
+          "importance": 4,
+          "primary_url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+          "items": [
+            "ce93092d663c91bd"
+          ],
+          "cover_path": "out/media/2026-10-05/opinion-06.jpg"
+        },
+        {
+          "headline": "美财长贝森特驳「AI 泡沫论」",
+          "summary": "在 10 年期美债收益率触及 2002 年以来高位之际，贝森特称利率上行是全球共性现象，并否认人工智能存在泡沫。",
+          "importance": 4,
+          "primary_url": "https://36kr.com/newsflashes/4011109500407681?f=rss",
+          "items": [
+            "bdf6082acde09a66"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "在 RTX 4090 上跑 125B 的 Qwen 3.8 Flash Next",
+          "summary": "开源项目 Strata 演示在消费级 RTX 4090 上以约 100 tokens/s 运行 125B 参数的 Qwen 3.8 Flash Next，Hacker News 讨论超过 570 分。",
+          "importance": 6,
+          "primary_url": "https://github.com/Niko1221/Strata",
+          "items": [
+            "4d96c0c05b3e6adb"
+          ],
+          "cover_path": "out/media/2026-10-05/opensource-00.jpg"
+        },
+        {
+          "headline": "DeepSeek Harness v0.2 推出官方桌面客户端",
+          "summary": "DeepSeek 为其 MIT 许可的 agent harness 发布 macOS/Windows 桌面应用预览，新增插件管理器、文件与代码变更审阅以及定时自动化任务。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+          "items": [
+            "9bb96b56edf81076"
+          ]
+        },
+        {
+          "headline": "GitHub 热榜被「Agent 技能库」刷屏",
+          "summary": "从 obra/superpowers、mattpocock/skills 到 google/skills、claude-mem、context-mode，一批给编码 agent 加技能、记忆与上下文优化的仓库集体冲榜。",
+          "importance": 5,
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af",
+            "d1e41cb9775d0583",
+            "f8b36801b8652ba9"
+          ],
+          "cover_path": "out/media/2026-10-05/opensource-02.jpg"
+        },
+        {
+          "headline": "Cloudflare 开源 Agent 工作台 cloudflare-os",
+          "summary": "一个跑在 Cloudflare Workers 上的 agent 工作空间，可结合企业内部上下文创建文档、构建应用并运行 agent。",
+          "importance": 5,
+          "primary_url": "https://github.com/cloudflare/cloudflare-os",
+          "items": [
+            "b760513a9642cf7c"
+          ],
+          "cover_path": "out/media/2026-10-05/opensource-03.jpg"
+        },
+        {
+          "headline": "关掉 Apple Intelligence，把磁盘空间要回来",
+          "summary": "开源脚本 RemoveMacAI 帮助 macOS 27 用户关闭 Apple Intelligence 并回收被其占用的磁盘空间，Hacker News 讨论超 300 分。",
+          "importance": 5,
+          "primary_url": "https://github.com/omlahore/RemoveMacAI",
+          "items": [
+            "93ebe914e740365e"
+          ],
+          "cover_path": "out/media/2026-10-05/opensource-04.jpg"
+        },
+        {
+          "headline": "Meta 把 AI 硬件做成开源 DIY 项目",
+          "summary": "The Decoder 报道 Meta 的 Muse Gadgets，把 AI 硬件变成可自行组装的开源项目。",
+          "importance": 4,
+          "primary_url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+          "items": [
+            "b0a578cc22fa9694"
+          ],
+          "cover_path": "out/media/2026-10-05/opensource-05.jpg"
+        },
+        {
+          "headline": "heretic：全自动移除大模型审查",
+          "summary": "开源工具 heretic 号称可全自动去除语言模型中的审查与拒答行为，登上 Python 趋势榜。",
+          "importance": 4,
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "cover_path": "out/media/2026-10-05/opensource-06.jpg"
+        },
+        {
+          "headline": "OpenCut：开源版剪映",
+          "summary": "开源视频剪辑项目 OpenCut 持续走高，定位为 CapCut 的自由替代方案。",
+          "importance": 4,
+          "primary_url": "https://github.com/OpenCut-app/OpenCut",
+          "items": [
+            "f7c45c697888f6fa"
+          ],
+          "cover_path": "out/media/2026-10-05/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
