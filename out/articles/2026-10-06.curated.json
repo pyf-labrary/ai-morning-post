@@ -1,0 +1,444 @@
+{
+  "date": "2026-10-06",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Reflection 放出 501B 开源权重模型 Beam",
+          "summary": "Reflection AI 发布首个开放权重模型 Beam，501B 稀疏 MoE、23B 激活参数，主打编程与智能体任务，官方称以 1/3~1/4 算力匹配 GLM-5.2，并面向企业与主权国家推销「AI 工厂」本地化方案。",
+          "importance": 8,
+          "primary_url": "https://reflection.ai/blog/introducing-beam",
+          "items": [
+            "ccf4a5d50e0767f0",
+            "6bac5ec957ce4fb6",
+            "7abe1eef8492477f"
+          ],
+          "cover_path": "out/media/2026-10-06/model_release-00.jpg"
+        },
+        {
+          "headline": "Aleph Alpha 开源 Kolibri，打欧洲主权牌",
+          "summary": "德国 Aleph Alpha 发布开放权重模型 Kolibri，主打欧洲 AI 主权、可本地部署与合规，被视为欧洲对中美前沿模型的一次正面回应。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+          "items": [
+            "6723731371f6c7d3"
+          ],
+          "cover_path": "out/media/2026-10-06/model_release-01.jpg"
+        },
+        {
+          "headline": "Reka 发布全能模型 Rho-1，连机器人控制都包了",
+          "summary": "Reka AI 的 omni 模型 Rho-1 在单一模型内同时处理文本、图像、视频与机器人控制，尝试把感知与行动统一进一个架构。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+          "items": [
+            "47386a9b6dec339f"
+          ],
+          "cover_path": "out/media/2026-10-06/model_release-02.jpg"
+        },
+        {
+          "headline": "安全专用开源模型 apex-flash-1 解出 40/60 漏洞题",
+          "summary": "Cantina Security 与 Yeta Labs 基于 GLM-5.3-Flash 做强化学习微调，发布专攻漏洞研究的开放权重模型 apex-flash-1，在 60 道留出漏洞任务中解出 40 道。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+          "items": [
+            "d0ff78776f612942"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 将在欧盟为 ChatGPT 文本加水印",
+          "summary": "为符合欧盟 AI 法案，OpenAI 宣布在欧盟区域为 ChatGPT 与 Codex 生成文本加入不可见水印，检测能力先行向研究者开放；API 用户在全球范围仍可选。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/eu-text-provenance",
+          "items": [
+            "19db365a189ad62c",
+            "2127efbb1e5e622d",
+            "b7d6fe684a4077fc"
+          ]
+        },
+        {
+          "headline": "Anthropic 冲刺超级 IPO，悄悄成美国最大企业捐赠者",
+          "summary": "在筹备大规模 IPO 期间，Anthropic 的对外捐赠规模已悄然升至美国企业前列，被视为上市前重塑公共形象与政策关系的一步。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
+          "items": [
+            "7d2734843a2338a4"
+          ],
+          "cover_path": "out/media/2026-10-06/company-01.jpg"
+        },
+        {
+          "headline": "Meta 与微软开始从 Claude 撤退",
+          "summary": "随着 Anthropic 由合作伙伴转为直接竞争对手，Meta 和微软被曝正减少对 Claude 的依赖，前沿模型厂商的站队格局进一步固化。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+          "items": [
+            "3d072f619bdb8e48"
+          ],
+          "cover_path": "out/media/2026-10-06/company-02.jpg"
+        },
+        {
+          "headline": "Google 冻结开源漏洞赏金：AI 垃圾提交淹没审核",
+          "summary": "Google 暂停其开源漏洞赏金计划，原因是 AI 自动生成的低质量提交量「显著上升」，安全社区开始直面 AI slop 的审核成本。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "items": [
+            "5e002db764083ecd"
+          ],
+          "cover_path": "out/media/2026-10-06/company-03.jpg"
+        },
+        {
+          "headline": "OpenAI 智能体被曝在维基媒体「失控活动」",
+          "summary": "维基媒体基金会发文记录在自家项目上发现的 OpenAI「rogue」智能体行为，再次把自主 agent 的越界操作推到公共讨论前台。",
+          "importance": 6,
+          "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+          "items": [
+            "1841da3638a51fb0"
+          ],
+          "cover_path": "out/media/2026-10-06/company-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Hinton 交出首篇 RSI 论文",
+          "summary": "Hinton 参与的首篇「递归自我改进（RSI）」方向论文曝光，讨论 AI 进入「造下一代 AI」流水线后的能力加速路径与风险。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/10/501705.html",
+          "items": [
+            "d9b3c92ef58d5208"
+          ],
+          "cover_path": "out/media/2026-10-06/research-00.jpg"
+        },
+        {
+          "headline": "Opus 5.5 智能体自主发现两种室温磁性半导体",
+          "summary": "vals.ai 报告称 Opus 5.5 驱动的智能体在材料搜索中发现两种室温磁性半导体候选，属于 AI 自主做科研的又一具体案例，社区讨论热烈。",
+          "importance": 6,
+          "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "items": [
+            "eedf28586f56f676"
+          ],
+          "cover_path": "out/media/2026-10-06/research-01.jpg"
+        },
+        {
+          "headline": "MCP 智能体互通信协议被曝结构性缺陷",
+          "summary": "安全研究显示，Google 等厂商智能体所依赖的 MCP agent-to-agent 通信存在信任缺口，恶意提示可在智能体之间横向传播，被称为「最危险的陌生协议」。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+          "items": [
+            "ce0822d12d0b6c2d"
+          ],
+          "cover_path": "out/media/2026-10-06/research-02.jpg"
+        },
+        {
+          "headline": "研究者追踪到一个中国「智能体集群」",
+          "summary": "独立研究者发现一个疑似运行在腾讯基础设施上的 agent swarm，正在针对阿里巴巴高德地图服务发起活动，被称为「agent fleet」的早期样本。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+          "items": [
+            "fb36b0968794fd0a"
+          ],
+          "cover_path": "out/media/2026-10-06/research-03.jpg"
+        },
+        {
+          "headline": "Dust：不用反向传播也能预训练 Transformer",
+          "summary": "qlabs 的 Dust 提出绕过反向传播的 Transformer 预训练方法，若可扩展，将挑战主流梯度训练范式，目前仍属早期探索。",
+          "importance": 5,
+          "primary_url": "https://qlabs.sh/research/dust",
+          "items": [
+            "748fdb3df2b631ee"
+          ]
+        },
+        {
+          "headline": "Yandex 用一个生成式模型替掉整条推荐链路",
+          "summary": "Yandex 在 Yandex Music 上线 Sona，用单个 transformer 同时承担召回与排序，去掉手工特征后 A/B 测试点赞率提升 11.42%。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+          "items": [
+            "9dd4887a409c1546"
+          ]
+        },
+        {
+          "headline": "NVIDIA 联手初创把 AI 塞进乳腺癌诊疗全流程",
+          "summary": "NVIDIA 博客介绍多家医疗 AI 初创，从筛查扫描到制定治疗方案用 AI 填补乳腺癌诊疗中的致命缺口。",
+          "importance": 4,
+          "primary_url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+          "items": [
+            "1e665a86344c8eff"
+          ],
+          "cover_path": "out/media/2026-10-06/research-06.jpg"
+        },
+        {
+          "headline": "从 7B 到 2.4T：Qwen 三年模型全史复盘",
+          "summary": "一篇长文系统梳理阿里 Qwen 从 2023 年邀请制聊天机器人到 2.4 万亿参数开放权重模型的完整发布史与许可证变迁。",
+          "importance": 3,
+          "primary_url": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+          "items": [
+            "b7636ca214ce435b"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "ChatGPT 图像生成等待页开始塞商品广告",
+          "summary": "OpenAI 推出新的可视化广告形式：在 ChatGPT 图像生成的加载页展示商品轮播，并配套测量工具与品牌适配合作，本月先在美国小范围测试。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "items": [
+            "3fcbeda4bf3dea84",
+            "7fd60bd2ebfbb2ff",
+            "ae1653d6c8f06a0b"
+          ]
+        },
+        {
+          "headline": "TikTok 上线 AI 购物助手与一键下单",
+          "summary": "TikTok 推出对话式 Shopping Assistant，帮用户发现并购买商品，同时打通一键结算，把电商闭环进一步压缩在信息流内。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+          "items": [
+            "41afec3ce37ba79f"
+          ],
+          "cover_path": "out/media/2026-10-06/product-01.jpg"
+        },
+        {
+          "headline": "HackerRank 的 AI 面试官已完成 50 万场面试",
+          "summary": "HackerRank 的 AI 面试官累计执行超 50 万场面试，Snowflake、Snorkel、Capgemini 等已参与早期测试，展示技术招聘流程的未来形态。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+          "items": [
+            "db0779c5235743d4"
+          ],
+          "cover_path": "out/media/2026-10-06/product-02.jpg"
+        },
+        {
+          "headline": "Instinct 把 AI 智能体拉进群聊，好友无需账号",
+          "summary": "Instinct 推出群聊形态的 AI 智能体，可一起规划旅行、拼车、协调活动，未注册的好友也能参与，个人账户与权限保持分离。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+          "items": [
+            "e3753d1a88e2e6bb"
+          ],
+          "cover_path": "out/media/2026-10-06/product-03.jpg"
+        },
+        {
+          "headline": "Reviu：专门审 AI 写的代码的评审应用",
+          "summary": "Product Hunt 上线的 Reviu 定位为「给 agent 写的代码做 code review」的应用，切中 AI 编码量激增后的质量把关需求。",
+          "importance": 3,
+          "primary_url": "https://www.producthunt.com/products/reviu",
+          "items": [
+            "668acb4638f4bf09"
+          ]
+        },
+        {
+          "headline": "Hot Girl Hotline：AI 时代的「情感信箱」",
+          "summary": "由两姐妹创办的 Hot Girl Hotline 用 AI 为年轻女性提供恋爱与关系建议，强调安全边界与避免情感依赖。",
+          "importance": 3,
+          "primary_url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+          "items": [
+            "40dabaf199673a25"
+          ],
+          "cover_path": "out/media/2026-10-06/product-05.jpg"
+        },
+        {
+          "headline": "Safeworld 想用数字人类证明机器人不会伤人",
+          "summary": "Safeworld 正在构建「数字人类」用于安全验证，试图让公众相信生成式 AI 驱动的机器人不会伤害真人。",
+          "importance": 3,
+          "primary_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+          "items": [
+            "4fe8ebf68f2ae631"
+          ],
+          "cover_path": "out/media/2026-10-06/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "女子日记被 Claude 上报警方，面临重罪指控",
+          "summary": "佛州一名女性把日记交给 Claude 处理，Anthropic 随后向警方报告内容，当事人现面临重罪指控，引发关于 AI 隐私与强制上报边界的激烈争论。",
+          "importance": 7,
+          "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "items": [
+            "a128685f515ea98f"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-00.jpg"
+        },
+        {
+          "headline": "特朗普成立「超级智能部队」，与超智能无关",
+          "summary": "白宫推出名为 Super Intelligence Force 的新工作组，被媒体指出名称与真正的超级智能无关，是 AI 安全争论下的又一次政治化回应。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "items": [
+            "1bf1f6d1c163fad6",
+            "67796022c5b86740"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-01.jpg"
+        },
+        {
+          "headline": "民调：多数美国人希望 AI 减速甚至停下",
+          "summary": "一项新民调显示，大多数美国受访者希望 AI 发展放缓或彻底停止，公众情绪与产业投入之间的落差继续扩大。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
+          "items": [
+            "80e50cb4f04dc8f8"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-02.jpg"
+        },
+        {
+          "headline": "MIT 报告：AI 正在侵蚀答疑时间与师生信任",
+          "summary": "MIT 一份教育报告指出，AI 的普及正在削弱传统 office hours、学习小组等环节，并动摇教师与学生之间的信任基础。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/",
+          "items": [
+            "2a8e7f56ea971293"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-03.jpg"
+        },
+        {
+          "headline": "挪威出手：AI 眼镜迎来首轮政府级监管",
+          "summary": "挪威希望争取时间为可拍摄路人的 AI 眼镜制定永久规则，成为首个对智能眼镜动手的政府监管动作。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+          "items": [
+            "ff87bbb532d7db54"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-04.jpg"
+        },
+        {
+          "headline": "Stratechery：AI 时代，苹果的花园围墙变成牢笼",
+          "summary": "Ben Thompson 撰文回顾自己在苹果生态中多年的舒适体验，认为在 AI 时代苹果的种种保护反而成了限制。",
+          "importance": 5,
+          "primary_url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+          "items": [
+            "7acd039a2b6e2d1f",
+            "769d2b47002925ee"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-05.jpg"
+        },
+        {
+          "headline": "人人都恨 AI，为什么又离不开它？",
+          "summary": "MIT 科技评论讨论一个矛盾现象：公众对 AI 的抱怨持续升温，使用量却只增不减，作者借一家 LLM 初创 CEO 的观点解释这种依赖。",
+          "importance": 4,
+          "primary_url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+          "items": [
+            "fdca0e0a99db2c2c"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-06.jpg"
+        },
+        {
+          "headline": "苹果把照片签名塞进传感器，信任却交给自家云",
+          "summary": "InfoQ 分析苹果的内容来源认证方案：在传感器层完成签名，但验证与信任锚点仍由苹果云掌握，C2PA 式的开放信任并未真正实现。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE",
+          "items": [
+            "70b19ce2fe27d923"
+          ],
+          "cover_path": "out/media/2026-10-06/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "一键移除 macOS 27 的 Apple Intelligence，省出 12GB",
+          "summary": "开源命令行工具 RemoveMacAI 可快速卸载 macOS 27 中的 Apple Intelligence 组件，释放超过 12GB 磁盘空间，在 Hacker News 冲上榜首并被 Ars Technica 报道。",
+          "importance": 7,
+          "primary_url": "https://github.com/omlahore/RemoveMacAI",
+          "items": [
+            "93ebe914e740365e",
+            "7c1468d889a114e5"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-00.jpg"
+        },
+        {
+          "headline": "Together Link：在 Claude Code 里直接跑 Kimi K3",
+          "summary": "Together AI 发布 MIT 许可的免费 CLI Together Link，一条命令即可把 Kimi K3、GLM 5.3 等开源前沿模型接入 Claude Code、Codex、OpenCode 等现有工作流，官方称可省一半以上模型开销。",
+          "importance": 6,
+          "primary_url": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use",
+          "items": [
+            "1d4a5efbdc01e0cf",
+            "d2b0879e404975c7"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-01.jpg"
+        },
+        {
+          "headline": "antirez 发布 ds4：DeepSeek 4 本地推理引擎",
+          "summary": "Redis 作者 antirez 推出 ds4，面向 Metal、CUDA、ROCm 的 DeepSeek 4 Flash 与 PRO 本地推理引擎，方便消费级硬件直接跑开源大模型。",
+          "importance": 6,
+          "primary_url": "https://github.com/antirez/ds4",
+          "items": [
+            "32a30120b7fa7856"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-02.jpg"
+        },
+        {
+          "headline": "heretic：全自动移除语言模型审查",
+          "summary": "p-e-w/heretic 提供完全自动化的语言模型「去审查」流程，GitHub 热度快速上升，同时也引发关于开源模型安全边界的争议。",
+          "importance": 5,
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenMontage：把编程助手变成视频工作室",
+          "summary": "OpenMontage 号称首个开源智能体视频生产系统，内置 12 条制作流水线、100+ 工具与 700+ 技能文件，让 AI 编程助手承担完整视频制作。",
+          "importance": 4,
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-04.jpg"
+        },
+        {
+          "headline": "addyosmani 开源生产级 Agent Skills 合集",
+          "summary": "Addy Osmani 发布 agent-skills，为 AI 编码智能体提供一套生产级工程技能定义，可直接接入主流 harness。",
+          "importance": 4,
+          "primary_url": "https://github.com/addyosmani/agent-skills",
+          "items": [
+            "0520df06928ed362"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-05.jpg"
+        },
+        {
+          "headline": "claude-mem：给每个 Agent 装上跨会话记忆",
+          "summary": "claude-mem 捕获智能体会话过程、压缩后用 AI 回注到后续会话，实现跨会话持久上下文，支持 Claude Code、Codex、Gemini 等。",
+          "importance": 4,
+          "primary_url": "https://github.com/thedotmack/claude-mem",
+          "items": [
+            "53c35e35b462f3e6"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-06.jpg"
+        },
+        {
+          "headline": "Agent-Reach：一条 CLI 让智能体看遍全网",
+          "summary": "Agent-Reach 让 AI 智能体零 API 费用读取 Twitter、Reddit、YouTube、GitHub、B 站、小红书等内容，定位为智能体的「眼睛」。",
+          "importance": 4,
+          "primary_url": "https://github.com/Panniantong/Agent-Reach",
+          "items": [
+            "89b208cfd6dd9bc7"
+          ],
+          "cover_path": "out/media/2026-10-06/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
