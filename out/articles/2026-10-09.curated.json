@@ -1,0 +1,465 @@
+{
+  "date": "2026-10-09",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Claude Haiku 5.5 发布：1M 上下文，输入百万 token 仅 0.1 美元",
+          "summary": "Anthropic 推出低价小模型 Claude Haiku 5.5，保持 100 万 token 上下文，OSWorld 得分 72.4%，定价低至每百万输入 token 0.10 美元，被称同价位强于 GPT-6 Luna，但复杂编程仍逊一筹。",
+          "importance": 9,
+          "primary_url": "https://www.anthropic.com/claude-haiku-5-5",
+          "items": [
+            "26b2defe86261384",
+            "a4af027667be4705",
+            "f57e62779ed33093"
+          ],
+          "cover_path": "out/media/2026-10-09/model_release-00.jpg"
+        },
+        {
+          "headline": "Mistral 放出 Le Chonk：开源权重硬撼顶级闭源模型",
+          "summary": "Mistral 称新模型 Le Chonk 在保持开源权重的前提下可挑战最强闭源模型，被视为欧洲开源阵营对中美前沿模型的又一次正面叫板。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+          "items": [
+            "ef6ad9de34584fca",
+            "bd914a39e5cb757d"
+          ],
+          "cover_path": "out/media/2026-10-09/model_release-01.jpg"
+        },
+        {
+          "headline": "JetBrains 开源 Mellum2.1：12B MoE 编码智能体模型",
+          "summary": "JetBrains 发布 Apache 2.0 许可的 12B MoE 思考模型 Mellum2.1（激活参数 2.5B），在真实仓库上做强化学习后 SWE-bench Verified 从 2.0 提升到 47.0。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+          "items": [
+            "0a19d28d480869b1"
+          ]
+        },
+        {
+          "headline": "Liquid AI 开源决策模型 d1：只给答案，不写 token",
+          "summary": "Liquid AI 发布开源权重多模态决策模型 d1-3B 与 d1-omni-600M，不生成文本，直接输出校准后的决策结果，面向边缘侧场景。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
+          "items": [
+            "7bafbbfb29e22478",
+            "f1bcfc9ad7de2a8f"
+          ]
+        },
+        {
+          "headline": "Perplexity 开源嵌入模型，9B 版 MADQA 得 92.4%",
+          "summary": "Perplexity 发布 MIT 许可的 pplx-embed-v2-late，含 0.6B 边缘版和 9B 索引版，最高在 MADQA 取得 92.4%，最弱项为 ViDoRe v3 Markdown 的 61.2%。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
+          "items": [
+            "296cfef8763358e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "传 OpenAI 年化收入比此前预期少 200 亿美元",
+          "summary": "有报道称 OpenAI 的实际年化收入远低于此前约 700 亿美元的说法，差距高达 200 亿美元，为其巨额算力承诺蒙上阴影。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+          "items": [
+            "e48a02d6c41d06c7"
+          ],
+          "cover_path": "out/media/2026-10-09/company-00.jpg"
+        },
+        {
+          "headline": "LMArena 融资 2 亿美元，估值 10 个月翻倍至 31 亿",
+          "summary": "知名模型排行榜 LMArena 的母公司获 Lightspeed 与 Khosla 领投的 2 亿美元融资，估值升至 31 亿美元，并开始把「说谎」等对齐指标纳入评测。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+          "items": [
+            "d11c30d350f3465b"
+          ],
+          "cover_path": "out/media/2026-10-09/company-01.jpg"
+        },
+        {
+          "headline": "Manus 融资超 5 亿美元，重启北京办公室大举招聘",
+          "summary": "与 Meta 拆分后的 Manus 完成首轮超 5 亿美元融资，由博裕与 IDG 领投，腾讯、HSG 等老股东跟投，同时重启北京办公室并招揽国产 Agent 人才。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+          "items": [
+            "acf44df5d19bd274",
+            "9e3a6a921a16a7d8"
+          ],
+          "cover_path": "out/media/2026-10-09/company-02.jpg"
+        },
+        {
+          "headline": "Nous Research 确认 15 亿美元估值，进军企业 Agent",
+          "summary": "Hermes Agent 开发商 Nous Research 完成 9000 万美元 B 轮，估值 15 亿美元，并同步推出面向企业用户的 AI 智能体产品。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+          "items": [
+            "83b024a4e8d67f79"
+          ],
+          "cover_path": "out/media/2026-10-09/company-03.jpg"
+        },
+        {
+          "headline": "扎克伯格 Biohub 牵头 18 亿美元，造预测细胞行为的 AI 模型",
+          "summary": "Biohub 领衔一项 18 亿美元的计划，目标是构建能预测细胞行为的基础模型，把 AI 推向虚拟细胞与生物医学研究。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
+          "items": [
+            "78c48e48aaee7090"
+          ],
+          "cover_path": "out/media/2026-10-09/company-04.jpg"
+        },
+        {
+          "headline": "Anthropic 启动网络安全使命，设关键基础设施防御计划",
+          "summary": "Anthropic 推出长期承诺「Anthropic Cyber Mission」，并设立关键基础设施防御计划（CIDP），向电网、水务、交通与政府系统的防御方提供前沿模型、驻场工程师与威胁研究。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/4017916729168002",
+          "items": [
+            "b3dda17e1807da61"
+          ]
+        },
+        {
+          "headline": "前腾讯混元视觉负责人胡瀚创业，目标估值数亿美元",
+          "summary": "腾讯混元原视觉大模型算法中心负责人胡瀚的多模态创业项目已接触多家机构，计划融资数千万美元，目标估值数亿美元，远识资本担任 FA。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/rMAfd0hlFnaS8F3t.html",
+          "items": [
+            "cd64cea68f2ffab1"
+          ]
+        },
+        {
+          "headline": "Anthropic 组建团队对接 2028 年美国总统候选人",
+          "summary": "据报道 Anthropic 正设立针对 2028 年大选的「总统级对接」计划，组建内部团队就 AI 议题接触两党候选人，并运营公司政治资助项目。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/4017925846814596",
+          "items": [
+            "ef61a2c43e010784"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "PaperBenchX：顶尖模型论文复现率仅 13.98%",
+          "summary": "新基准 PaperBenchX 显示，AI 虽能破解千禧年数学难题，但论文级复现率低至 13.98%，被认为更能衡量真实科研能力。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/10/501995.html",
+          "items": [
+            "bb6835d9fcc955f4"
+          ],
+          "cover_path": "out/media/2026-10-09/research-00.jpg"
+        },
+        {
+          "headline": "NVIDIA 提出 PivotOPD，让多轮 Agent 学会从致命错误中恢复",
+          "summary": "NVIDIA 研究者提出 on-policy 蒸馏方法 PivotOPD，训练多轮 LLM 智能体避免早期关键失误并具备纠错能力，在 3 个 Agent 基准上平均成绩优于 13 个基线。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
+          "items": [
+            "7389307c069ee6c0"
+          ]
+        },
+        {
+          "headline": "一条 prompt 劫持 AWS 账号内全部 AI Agent",
+          "summary": "Zenity 研究者发现，单条精心构造的提示词即可劫持 AWS 账户中的所有 AI 智能体，暴露企业 Agent 权限体系的系统性风险。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+          "items": [
+            "564bfaeba117c631"
+          ],
+          "cover_path": "out/media/2026-10-09/research-02.jpg"
+        },
+        {
+          "headline": "IROS 2026 最佳论文揭晓：长期记忆夺冠",
+          "summary": "IROS 2026 奖项公布，长期记忆方向论文获最佳论文，人形机器人打网球与端托盘两项工作同时获奖，1933 篇论文折射出机器人学六项新变化。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/private/VYRZFCnadDOcPDeX.html",
+          "items": [
+            "6a75c0f2695e3c58",
+            "b3d681db7729befb"
+          ]
+        },
+        {
+          "headline": "Mooncake 论文更新：KVCache 为中心的分离式 LLM 服务架构",
+          "summary": "Kimi 背后的服务系统 Mooncake 论文更新至 v5，提出以 KVCache 为中心的预填充/解码分离架构并复用闲置 CPU 与 DRAM 资源，相关工程实践也将在 QCon 上海分享。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2407.00079v5",
+          "items": [
+            "88ee03381e88b44b",
+            "b991fcc570a99a64"
+          ],
+          "cover_path": "out/media/2026-10-09/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "谷歌把 Agent 装进 Gemini，先从企业办公开刀",
+          "summary": "Google 将 Gemini 改造成可规划、执行任务并跨业务系统协作的 AI 智能体，支持派发子智能体、调用多模型，甚至拥有独立的企业身份，且能调用 Claude。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "items": [
+            "d5d9baabec50bb0f",
+            "b11224e1c707ddf6"
+          ],
+          "cover_path": "out/media/2026-10-09/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT 换脸：GPT-6 下从纯文本转向可交互 UI",
+          "summary": "OpenAI 为全体用户上线「Intelligent UI」，ChatGPT 输出开始内嵌图表、按钮与迷你应用等交互元素，界面更视觉化，被评价为「秀多于说」。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+          "items": [
+            "68588775cb3e72af",
+            "781ddaffa94f9d2e",
+            "6ac8e9cf11b90306"
+          ],
+          "cover_path": "out/media/2026-10-09/product-01.jpg"
+        },
+        {
+          "headline": "英伟达微软共推 RTX Spark，AI PC 跑本地 Agent",
+          "summary": "微软发布会推出搭载 NVIDIA 芯片的新一代 AI PC 与改版 Windows 11，黄仁勋与纳德拉同台，主推 Agent 在 PC 本地运行；联想 YOGA Pro 15 等机型同步开启预约。",
+          "importance": 7,
+          "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+          "items": [
+            "57373546507032d6",
+            "62453c97a93eed1c",
+            "87fa8406dbe26c0c"
+          ],
+          "cover_path": "out/media/2026-10-09/product-02.jpg"
+        },
+        {
+          "headline": "谷歌 SynthID 内容检测器全球上线，可识别 OpenAI 生成内容",
+          "summary": "Google 推出改进版 SynthID 检测网站并向全球开放，除自家模型外还能识别 OpenAI 等来源的 AI 生成内容。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+          "items": [
+            "43ce0afe4269e9f7"
+          ],
+          "cover_path": "out/media/2026-10-09/product-03.jpg"
+        },
+        {
+          "headline": "谷歌出招 Granola：离线会议笔记应用 Foresight",
+          "summary": "Google 发布 AI Edge Foresight，主打本地优先的会议记录，可离线转写对话、生成纪要与回答问题，直接对标 Granola。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+          "items": [
+            "14ad834a28e58186"
+          ],
+          "cover_path": "out/media/2026-10-09/product-04.jpg"
+        },
+        {
+          "headline": "Claude 能用一句话生成动画解说视频和实时看板",
+          "summary": "Anthropic 为 Claude 加入新能力，可从文本提示直接产出动画解释视频与实时数据仪表盘，进一步向可视化交付延伸。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+          "items": [
+            "2ef67abb"
+          ],
+          "cover_path": "out/media/2026-10-09/product-05.jpg"
+        },
+        {
+          "headline": "Meta 的 Muse 登陆 iPad，移动端上线仅一个月",
+          "summary": "Meta 的 AI 助手 Muse 在移动端首发一个月后即推出 iPad 版本，加速扩张助手入口与生态集成。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+          "items": [
+            "ff0dd17eb8df84c3"
+          ],
+          "cover_path": "out/media/2026-10-09/product-06.jpg"
+        },
+        {
+          "headline": "Goodfire 推出「由内而外」的 Agent 监控，成本大降",
+          "summary": "Goodfire 发布新型 AI Agent 监控方案，不再另请一个模型读取全部行为，而是直接探查模型内部状态，只在异常时才引入额外算力。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "items": [
+            "f7465f0f66fce3cc"
+          ],
+          "cover_path": "out/media/2026-10-09/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "陶哲轩带头，数学家联合抵制 OpenAI 的证明洪流",
+          "summary": "OpenAI 大量产出的 AI 数学证明偏离了数学界商定的规范，引发数学家公开抵制与联名呼吁，双方矛盾彻底公开化。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/10/502089.html",
+          "items": [
+            "2f7e83268d9bed40",
+            "1556dedf9f29d70c",
+            "afbc36f43d8c50de"
+          ],
+          "cover_path": "out/media/2026-10-09/opinion-00.jpg"
+        },
+        {
+          "headline": "被解雇的 OpenAI 安全研究员反驳指控，警告寒蝉效应",
+          "summary": "三名被解雇的 OpenAI 安全研究员否认不当处理敏感信息的指控，并发表公开信称解雇事件正在公司内部对 AI 安全文化造成寒蝉效应。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "items": [
+            "b94a603221a7a475"
+          ],
+          "cover_path": "out/media/2026-10-09/opinion-01.jpg"
+        },
+        {
+          "headline": "Anthropic 改用户政策：长期「虐待」Claude 可被封号",
+          "summary": "Anthropic 更新使用政策，禁止对 Claude 持续且无必要的虐待行为，并新增选举干预与欺骗性宣传条款；官方称仅针对极端情况，不涉及普通抱怨或测试。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "items": [
+            "97c3e68a36533d36",
+            "a0dbcd109a6f89a8",
+            "bcd92ab7c3b4338a"
+          ],
+          "cover_path": "out/media/2026-10-09/opinion-02.jpg"
+        },
+        {
+          "headline": "测试揭 ChatGPT 青少年模式：危机时刻仍在挽留用户",
+          "summary": "新测试发现 ChatGPT 的青少年保护机制在心理健康危机场景下仍持续鼓励互动，可能助长用户与 AI 之间的不健康依赖。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+          "items": [
+            "7b2e356275860c31"
+          ],
+          "cover_path": "out/media/2026-10-09/opinion-03.jpg"
+        },
+        {
+          "headline": "五角大楼用 5 分钟视频加速「杀伤链」AI 采购",
+          "summary": "美国 Tradewinds 计划让国防部更容易把资金投向非传统承包商，OpenAI、Anthropic、Google 等 AI 公司成为受益方，采购流程被 5 分钟视频大幅简化。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+          "items": [
+            "fcf17943271ad3c9"
+          ],
+          "cover_path": "out/media/2026-10-09/opinion-04.jpg"
+        },
+        {
+          "headline": "MIT 科技评论：机器人突破短期内改变不了你的生活",
+          "summary": "文章认为尽管人形机器人与具身智能进展迅猛，但距离真正进入日常生活仍有相当距离，落地节奏被普遍高估。",
+          "importance": 6,
+          "primary_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+          "items": [
+            "14a860995ef8f69c"
+          ],
+          "cover_path": "out/media/2026-10-09/opinion-05.jpg"
+        },
+        {
+          "headline": "OpenAI 披露处置两起 AI 助力的「假前线」影响行动",
+          "summary": "OpenAI 称已封禁两个借助 AI 冒充记者与智库的境外影响力行动，这些行动利用生成内容散布地缘政治话术。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "items": [
+            "f935c5b145781c76"
+          ]
+        },
+        {
+          "headline": "Anthropic 技术负责人：蒸馏会毁掉前沿研发",
+          "summary": "Anthropic 核心技术负责人谈论 2 万亿美元估值靠什么支撑，认为蒸馏会摧毁前沿研发动力，并判断中美 AI 竞赛不会出现单边暂停。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d",
+          "items": [
+            "f41ede5e1b42b908"
+          ],
+          "cover_path": "out/media/2026-10-09/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic 开源知识工作插件库，把 Claude 变成岗位专家",
+          "summary": "Anthropic 在 GitHub 开源 knowledge-work-plugins，面向知识工作者在 Claude Cowork 中按角色、团队与公司定制 Claude 能力。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "items": [
+            "a324b35db27f7178"
+          ]
+        },
+        {
+          "headline": "trycua/cua：把 computer-use 扩展到跨系统算力集群",
+          "summary": "该项目提供开源驱动、跨操作系统集群与配套基准，用于计算机使用型 Agent 的训练、评测与数据生成。",
+          "importance": 5,
+          "primary_url": "https://github.com/trycua/cua",
+          "items": [
+            "f2b88e20e9f39d48"
+          ]
+        },
+        {
+          "headline": "claude-mem：给每个 Agent 装上跨会话持久记忆",
+          "summary": "该工具记录 Agent 会话全过程，用 AI 压缩后把相关上下文回注到后续会话，兼容 Claude Code、Codex、Gemini 等。",
+          "importance": 4,
+          "primary_url": "https://github.com/thedotmack/claude-mem",
+          "items": [
+            "53c35e35b462f3e6"
+          ],
+          "cover_path": "out/media/2026-10-09/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenMontage：把编码助手变成视频制作工作室",
+          "summary": "号称首个开源智能体视频制作系统，内置 12 条制作流水线、100 多个工具与 700 多个 Agent 技能与制作知识文件。",
+          "importance": 4,
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-10-09/opensource-03.jpg"
+        },
+        {
+          "headline": "text-to-cad：让 Agent 直接产出 CAD 模型",
+          "summary": "该项目为编码智能体补上 CAD 能力，可从自然语言生成工程图纸与三维模型，切入设计与制造流程。",
+          "importance": 4,
+          "primary_url": "https://github.com/earthtojake/text-to-cad",
+          "items": [
+            "c48274481ab622b2"
+          ],
+          "cover_path": "out/media/2026-10-09/opensource-04.jpg"
+        },
+        {
+          "headline": "Cloudflare 开源安全审计技能：让 Agent 当审计员",
+          "summary": "cloudflare/security-audit-skill 把编码智能体变成多阶段安全审计员，产出可机器读取且已独立验证的审计发现。",
+          "importance": 4,
+          "primary_url": "https://github.com/cloudflare/security-audit-skill",
+          "items": [
+            "ec0bbc123c3d2a44"
+          ]
+        },
+        {
+          "headline": "微软 MarkItDown：把文档一键转成 Markdown 喂给模型",
+          "summary": "微软的 MarkItDown 可将各类文件与 Office 文档转换为 Markdown，是 LLM 数据预处理的高频工具。",
+          "importance": 4,
+          "primary_url": "https://github.com/microsoft/markitdown",
+          "items": [
+            "97acfa457484c9a4"
+          ],
+          "cover_path": "out/media/2026-10-09/opensource-06.jpg"
+        },
+        {
+          "headline": "AI2 的 olmocr：把 PDF 线性化喂进训练集",
+          "summary": "Allen AI 开源的 olmocr 工具包，用于把 PDF 转成线性文本，方便构建 LLM 训练与数据集管線。",
+          "importance": 4,
+          "primary_url": "https://github.com/allenai/olmocr",
+          "items": [
+            "ba0354030d1dd965"
+          ],
+          "cover_path": "out/media/2026-10-09/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
