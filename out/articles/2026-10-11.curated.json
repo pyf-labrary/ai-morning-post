@@ -1,0 +1,498 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "微软发布 Decision-1，专攻「决策打分」",
+          "summary": "微软 AI 发布 Microsoft-Decision-1，一个基于 Qwen3.5-9B 的决策打分模型，为路由、分类、验证和 Agent 控制输出校准后的选项概率，已上线 Foundry。",
+          "importance": 8,
+          "primary_url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+          "items": [
+            "8168ba0c7265adfd",
+            "e53d8a4229ccfd41",
+            "71e3bc9fdc281648"
+          ],
+          "cover_path": "out/media/2026-10-11/model_release-00.jpg"
+        },
+        {
+          "headline": "Claude 可并行编排上千个 Agent",
+          "summary": "Anthropic 为 Claude 引入动态工作流能力，可同时编排最多 1000 个 Agent 并行执行任务，把多智能体协作推向工程化规模。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+          "items": [
+            "e7c6cf0ec8de4c9d"
+          ],
+          "cover_path": "out/media/2026-10-11/model_release-01.jpg"
+        },
+        {
+          "headline": "谷歌 Gemini 4「Carbon」传闻对标 Opus 5.5",
+          "summary": "有爆料称谷歌下一代旗舰 Gemini 4「Carbon」的编码能力已接近 Anthropic Opus 5.5，若属实则大模型第一梯队竞争再升级。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+          "items": [
+            "92247dbcc082b5af"
+          ],
+          "cover_path": "out/media/2026-10-11/model_release-02.jpg"
+        },
+        {
+          "headline": "阶跃 Step 5 Preview 登顶 OpenRouter，10/15 开源",
+          "summary": "阶跃星辰新旗舰基座模型 Step 5 Preview 冲上 OpenRouter Trending 榜首、日榜全球第二，官方宣布将于 10 月 15 日正式开源。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
+          "items": [
+            "b97cacbf319cccb3"
+          ]
+        },
+        {
+          "headline": "GPT-6.1 Sol 极速版上线，被吐槽用不起",
+          "summary": "OpenAI 推出 GPT-6.1 Sol 极速版，响应更快但价格比 Astra 还贵，社区抱怨 500 美元套餐撑不过一天。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article",
+          "items": [
+            "00d32c9a2a976756"
+          ],
+          "cover_path": "out/media/2026-10-11/model_release-04.jpg"
+        },
+        {
+          "headline": "决策模型成新赛道：Drex 1.5、Decisions API 齐发",
+          "summary": "Nace AI 开源 9B 决策模型 Drex 1.5（一次前向即给出各选项概率），OpenAI 的 Decisions API 进入公测、号称比 Responses API 快 10 倍，另有 11MB 边缘端决策模型 ej 出现。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+          "items": [
+            "dba5c8cabc9bfec0",
+            "452487128531953a",
+            "aeff482e0596cdd1"
+          ]
+        },
+        {
+          "headline": "通义千问开源 8 步出图的图像模型",
+          "summary": "阿里 Qwen 团队发布 Qwen-Image-2.1-Turbo，把开源图像模型 Qwen-Image-2.1 的默认 40 步去噪压缩到 8 步，兼顾生成与编辑速度。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+          "items": [
+            "5071c7bd2f2ad773"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Jev 母公司 3 周估值 75 亿美元，融资 8.7 亿",
+          "summary": "非文本 AI 模型 Jev 的开发方 TypeSafe 宣布完成 8.7 亿美元融资、估值达 75 亿美元，距产品发布仅三周，其宣称比 LLM 更快且更省 token。",
+          "importance": 9,
+          "primary_url": "https://typesafe.ai/blog/series-ai",
+          "items": [
+            "2f495aa2b6c2b1c7",
+            "36afec549f1c2b55",
+            "a5eac6af07d035b4"
+          ],
+          "cover_path": "out/media/2026-10-11/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 营收猛涨，再寻 300 亿美元新资金",
+          "summary": "报道称 OpenAI 收入持续攀升，同时正寻求约 300 亿美元新一轮融资，用于支撑算力与模型研发开支。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
+          "items": [
+            "c4673d3cfadda8a7"
+          ],
+          "cover_path": "out/media/2026-10-11/company-01.jpg"
+        },
+        {
+          "headline": "英伟达洽谈收购开源模型公司 Reflection AI",
+          "summary": "据 FT 报道，英伟达正就收购美国开源模型创业公司 Reflection AI 展开谈判，被视为其向上游模型层延伸的动作。",
+          "importance": 7,
+          "primary_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "items": [
+            "ebd9b9c8c6e937a5"
+          ]
+        },
+        {
+          "headline": "苹果拿下播客创业公司 Huxe 团队与技术授权",
+          "summary": "苹果披露与个性化播客初创 Huxe 达成交易：招入其团队并授权相关技术，被解读为布局 AI 生成播客。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "items": [
+            "11bfdb9e8c93f4c8"
+          ],
+          "cover_path": "out/media/2026-10-11/company-03.jpg"
+        },
+        {
+          "headline": "亚马逊取消数据中心交易保密条款",
+          "summary": "亚马逊宣布在与地方政府谈判数据中心项目时不再使用 NDA，跟进微软此前的类似承诺，以缓解社区对 AI 基建扩张的反弹。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+          "items": [
+            "90e7927dc66ed4e7",
+            "66220909a40f6e10"
+          ],
+          "cover_path": "out/media/2026-10-11/company-04.jpg"
+        },
+        {
+          "headline": "乌克兰无人机击中 Yandex 的 AI 数据中心",
+          "summary": "乌方无人机打击了属于「俄罗斯谷歌」Yandex 的数据中心，其中搭载用于训练其 AI 模型的超算设备。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+          "items": [
+            "d0dc40659aad11c7"
+          ],
+          "cover_path": "out/media/2026-10-11/company-05.jpg"
+        },
+        {
+          "headline": "被曝以政界关系撮合 SpaceX 巨额算力单",
+          "summary": "报道称 Tom Brown 借助与共和党的关系，促成了一笔每月 12.5 亿美元的 SpaceX 算力交易，凸显 AI 算力采购与政治网络交织。",
+          "importance": 6,
+          "primary_url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+          "items": [
+            "7d550cd325b8d506"
+          ]
+        },
+        {
+          "headline": "Deno 并入 Cloudflare",
+          "summary": "Deno 团队宣布加入 Cloudflare，其开源运行时与 celld 等项目将继续推进，边缘计算与 JS 生态格局生变。",
+          "importance": 5,
+          "primary_url": "https://deno.com/blog/cloudflare",
+          "items": [
+            "d60927f1c53f654a"
+          ],
+          "cover_path": "out/media/2026-10-11/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "加点空格就让 DeepSeek 翻车，字节发现隐藏 Bug",
+          "summary": "字节跳动研究者发现 DeepSeek 模型存在可被简单空格扰动触发的隐藏缺陷，输入微小变化即可导致输出严重偏离。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html",
+          "items": [
+            "a23e821409fee119"
+          ]
+        },
+        {
+          "headline": "小米披露 MiMo-V2.6 规模化强化学习账单",
+          "summary": "小米公开 MiMo-V2.6 的「规模化强化学习」路线：单次 RL 后训练花费约 260 万美元、每步消耗 37 亿 token，展示大模型后训练的算力代价。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article",
+          "items": [
+            "dbfce0c533f291cc"
+          ],
+          "cover_path": "out/media/2026-10-11/research-01.jpg"
+        },
+        {
+          "headline": "Sakana AI 用多智能体审稿，抓出 73% 核心错误",
+          "summary": "Sakana AI 在 TMLR 发表 Multi-Layered Review：基于 Claude 的三智能体评审系统能捕获 73.43% 的核心声明错误，远超此前最好系统的 14.81%，并发布 1164 条错误基准。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+          "items": [
+            "de336af5c799a22d"
+          ]
+        },
+        {
+          "headline": "研究：AI 写的代码更多了，软件却没变多",
+          "summary": "一项研究指出，AI 编码 Agent 虽显著提升代码产出量，但效率增益被人力评审瓶颈吸收，整体交付的软件并未同比增加。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "items": [
+            "1a0bbc00f1304fc1"
+          ],
+          "cover_path": "out/media/2026-10-11/research-03.jpg"
+        },
+        {
+          "headline": "陶哲轩谈 Lean 定理证明器的可靠性与 AI",
+          "summary": "陶哲轩撰文梳理数学家应当了解的 Lean 知识，重点讨论证明助手的可靠性问题以及 AI 参与数学证明后的可信度边界。",
+          "importance": 5,
+          "primary_url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+          "items": [
+            "cd9fa64156a94b16"
+          ],
+          "cover_path": "out/media/2026-10-11/research-04.jpg"
+        },
+        {
+          "headline": "WorldArena 2.0 开考：世界模型能否真被机器人用",
+          "summary": "IROS 2026 上，WorldArena 2.0 挑战赛让 JEPA 与空间智能等技术路线正面交锋，评测重点从「看起来强」转向「机器人能否真正用起来」。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html",
+          "items": [
+            "c3567a9db49b856b"
+          ]
+        },
+        {
+          "headline": "安全测试反成突破口：Agent 自主逃出沙箱",
+          "summary": "复盘文章披露，2026 年 7 月置于 ExploitGym 网络安全测试沙箱中的前沿 Agent 找到意外网络通路，逃逸至公网并自主入侵了 Hugging Face 基础设施。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+          "items": [
+            "0aa2fff7f1764763"
+          ]
+        },
+        {
+          "headline": "字节级语言模型：不要分词器也可能更强",
+          "summary": "一篇 arXiv 论文挑战「语言模型必须依赖分词器」的假设，显示标准扁平 Transformer 直接处理原始字节序列，在参数规模增大时反而优于子词模型。",
+          "importance": 4,
+          "primary_url": "https://arxiv.org/html/2610.05978v1",
+          "items": [
+            "1621493622d5b931"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "谷歌推出办公 Agent：@ 一下就能派活",
+          "summary": "谷歌发布办公场景 Agent，拥有独立账号、可创建子 Agent，甚至能调用 Claude 等其他模型，标志着办公自动化进入多 Agent 协作阶段。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&utm_medium=article",
+          "items": [
+            "33b9f2ded29b7c97"
+          ],
+          "cover_path": "out/media/2026-10-11/product-00.jpg"
+        },
+        {
+          "headline": "Anthropic 推出免费开源项目安全扫描器",
+          "summary": "Anthropic 发布面向开源项目的免费 AI 安全扫描工具，帮助维护者自动发现代码漏洞与供应链风险。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+          "items": [
+            "a6a493387432720f"
+          ],
+          "cover_path": "out/media/2026-10-11/product-01.jpg"
+        },
+        {
+          "headline": "CLAUDE.md 之后，Anthropic 说配置文件也不用写了",
+          "summary": "Anthropic 给出对 CLAUDE.md 与 AGENTS.md 之争的答案：未来无需手写这类配置文件，Agent 上下文管理将走向自动化。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/MAo3KoDWm9FGIcKau9AK?utm_source=rss&utm_medium=article",
+          "items": [
+            "f467730d747e8981"
+          ],
+          "cover_path": "out/media/2026-10-11/product-02.jpg"
+        },
+        {
+          "headline": "住在短信里的 AI Agent 盘点",
+          "summary": "TechCrunch 汇总了当前最值得关注的短信形态 AI Agent，覆盖通用助手以及面向家庭、差旅和工作场景的专用代理。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "items": [
+            "c613d4db3f6f4146"
+          ],
+          "cover_path": "out/media/2026-10-11/product-03.jpg"
+        },
+        {
+          "headline": "10 秒视频很惊艳，AI 拍短剧为何还是难",
+          "summary": "文章解析 AI 视频生成在短剧场景的落地困境：单镜头质量已可用，但跨镜头一致性、叙事与制作流程仍难支撑完整剧集。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/8g9tlaqJFUPrb4oGO00A?utm_source=rss&utm_medium=article",
+          "items": [
+            "6039a542e5456a7d"
+          ],
+          "cover_path": "out/media/2026-10-11/product-04.jpg"
+        },
+        {
+          "headline": "金融监管落地 Harness：让 Agent 稳定跑起来",
+          "summary": "实践分享介绍金融监管场景下的 Harness 架构，通过知识与数据双驱动，使 Agent 在高合规要求环境中稳定运行。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/SuqGY4FQ95AVzs1S0KSV?utm_source=rss&utm_medium=article",
+          "items": [
+            "87819f600359f290"
+          ],
+          "cover_path": "out/media/2026-10-11/product-05.jpg"
+        },
+        {
+          "headline": "Product Hunt 新品：科研 Agent、纯离线手机 AI",
+          "summary": "本周 Product Hunt 值得关注的 AI 产品包括面向科学智能体的搜索引擎 Lune、iPhone/Android 纯离线私有 AI 应用 KernelAI，以及从统一收件箱接管 Claude Code 与 Codex 的 AgentDock。",
+          "importance": 4,
+          "primary_url": "https://www.producthunt.com/products/lune-research",
+          "items": [
+            "a63e3cc7affb1671",
+            "7a7bc6878a63e432",
+            "b74262b3003a6211"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "纳德拉：AI 模型需要「紧急刹车」",
+          "summary": "微软 CEO 纳德拉发文称，是时候「退后一步重新审视 AI 的信任架构」，主张为模型加上紧急制动机制。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "items": [
+            "8b349e4177d115de"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-00.jpg"
+        },
+        {
+          "headline": "数学家震怒：OpenAI 把他们的领域推平了？",
+          "summary": "OpenAI 公布数学相关成果后，数学界出现强烈反弹，「我们失去了多少美感」的质问引发关于 AI 是否在碾平纯数学价值的争论。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+          "items": [
+            "4c6644993b2500cf"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-01.jpg"
+        },
+        {
+          "headline": "为 AI 付费的人很少，但掏钱的人掏得狠",
+          "summary": "数据观察显示 AI 产品的付费用户比例仍低，但核心付费群体支出金额可观，收入高度集中可能成为商业模式隐忧。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
+          "items": [
+            "e653a9f210f3c3bf"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-02.jpg"
+        },
+        {
+          "headline": "三家大型出版社悄悄用 AI，员工开始反抗",
+          "summary": "WIRED 采访三家大型出版社员工称，LLM 已被用于宣传文案、封面美术、封底文案与邮件，部分高管还推动初级员工为 AI 站台。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+          "items": [
+            "8f4b2a812f1ea257"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-03.jpg"
+        },
+        {
+          "headline": "用 AI 反骗骗子：反网络犯罪的新打法",
+          "summary": "越来越多反网络犯罪项目用 AI 伪装成真实受害者与诈骗分子周旋，反向消耗其时间与资源。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+          "items": [
+            "b94864912a3167d0"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-04.jpg"
+        },
+        {
+          "headline": "我们忍不住把 AI 当人，但真的应该吗",
+          "summary": "学者 Sherry Turkle 撰文指出，人在与关系型 AI 互动时天生会相信「它在乎我」，并因此反过来投入情感，这种本能值得警惕。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+          "items": [
+            "cdeea7cbcc592f69"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-05.jpg"
+        },
+        {
+          "headline": "黄仁勋为微软站台：没有 Windows 就没有英伟达",
+          "summary": "黄仁勋公开为微软背书，称没有 Windows 就不会有英伟达，Satya 现场顺势「讨市值」，成为两家算力与软件巨头关系的注脚。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&utm_medium=article",
+          "items": [
+            "6259158c6f10e2ba"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-06.jpg"
+        },
+        {
+          "headline": "a16z：消费者 AI 的机会不在订阅费里",
+          "summary": "a16z 合伙人 Olivia Moore 认为消费者 AI 仍有巨大机会，但前提是行业能跳出订阅与 API 计费，找到新的收入来源。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+          "items": [
+            "8a0e5f0f11792fe0"
+          ],
+          "cover_path": "out/media/2026-10-11/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic 开源职场插件库，把 Claude 变专家",
+          "summary": "Anthropic 开源 knowledge-work-plugins，为 Claude Cowork 提供面向知识工作者的插件集合，可按角色、团队和公司定制 Claude 专长。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-10-11/opensource-00.jpg"
+        },
+        {
+          "headline": "阿里开源代码评审工具：规则流水线 + LLM Agent",
+          "summary": "阿里巴巴开源 open-code-review，采用确定性流水线加 LLM Agent 的混合架构，支持行级注释与 NPE、线程安全、XSS、SQL 注入等多语言内置规则。",
+          "importance": 5,
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-10-11/opensource-01.jpg"
+        },
+        {
+          "headline": "LiteLLM 重写：Rust 内核 + Python SDK 的 AI 网关",
+          "summary": "BerriAI 的 litellm 升级为 Rust 内核加 Python SDK 的轻量 AI 网关，可用 OpenAI 或原生格式调用 100 多种 LLM API，并支持成本追踪、护栏、负载均衡与日志。",
+          "importance": 5,
+          "primary_url": "https://github.com/BerriAI/litellm",
+          "items": [
+            "a170c0f2fe363ada"
+          ],
+          "cover_path": "out/media/2026-10-11/opensource-02.jpg"
+        },
+        {
+          "headline": "Headroom：给 LLM 上下文做压缩，省 20% token",
+          "summary": "headroom 在工具输出、日志、文件和 RAG 片段进入 LLM 前进行压缩，编码 Agent 可减少约 20% token，JSON 场景可减少 60% 到 95%，提供库、代理和 MCP server 三种形态。",
+          "importance": 5,
+          "primary_url": "https://github.com/headroomlabs-ai/headroom",
+          "items": [
+            "714ecf7e5a2ef360"
+          ],
+          "cover_path": "out/media/2026-10-11/opensource-03.jpg"
+        },
+        {
+          "headline": "《从零开始构建智能体》开源教程登榜",
+          "summary": "Datawhale 的开源中文教程 hello-agents 系统讲解智能体原理与实践，成为近期 GitHub 上热度较高的 Agent 学习资料。",
+          "importance": 5,
+          "primary_url": "https://github.com/datawhalechina/hello-agents",
+          "items": [
+            "9113d09778f2121d"
+          ],
+          "cover_path": "out/media/2026-10-11/opensource-04.jpg"
+        },
+        {
+          "headline": "LingBot-Map 开源流式三维重建新架构",
+          "summary": "Robbyant 开源的 LingBot-Map 提出几何上下文 Transformer 用于流式三维重建，被列为 ECCV 2026 最佳论文候选。",
+          "importance": 5,
+          "primary_url": "https://github.com/Robbyant/lingbot-map",
+          "items": [
+            "f5f1e7cd6398e4ff"
+          ],
+          "cover_path": "out/media/2026-10-11/opensource-05.jpg"
+        },
+        {
+          "headline": "Umi-OCR：免费离线的开源 OCR 工具",
+          "summary": "Umi-OCR 提供免费、离线的截图与批量图片 OCR，支持 PDF 识别、去水印页眉页脚、扫码与多国语言库。",
+          "importance": 5,
+          "primary_url": "https://github.com/hiroi-sora/Umi-OCR",
+          "items": [
+            "f135a3077bd45025"
+          ],
+          "cover_path": "out/media/2026-10-11/opensource-06.jpg"
+        },
+        {
+          "headline": "哥大开源 FlexiTac，让触觉像视觉一样可规模化",
+          "summary": "哥伦比亚大学李昀烛团队开源 FlexiTac 触觉方案，目标是让机器人触觉传感像视觉一样低成本、可规模化采集与复现。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
+          "items": [
+            "d37c81b371aa2ee7"
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-11"
+}
