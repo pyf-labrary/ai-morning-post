@@ -1,0 +1,455 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Meta 首发前沿模型 Muse Wonder，重回第一梯队",
+          "summary": "Meta 发布其首个前沿级模型 Muse Wonder（Wonder Full），相比轻量版 Muse Spark 体量更大、基准分数更高，在编程等复杂任务上表现显著提升，并加入防止 agent 失控的新机制。",
+          "importance": 9,
+          "primary_url": "https://research.meta.ai/blog/muse-wonder",
+          "items": [
+            "46f9f2627c53df89",
+            "e304a94180c5d3b6",
+            "76b8ed669f3e6ca9"
+          ],
+          "cover_path": "out/media/2026-10-13/model_release-00.jpg"
+        },
+        {
+          "headline": "微软基于阿里 Qwen 训练出决策模型 Decision-1",
+          "summary": "微软以 Qwen3.5-9B 为底座后训练出 Microsoft-Decision-1，在结构化决策任务上时延与准确率超过通用 LLM 与热门决策模型，Xbox 团队已用它处理上万条玩家反馈，纳德拉称正推广到全领域。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html",
+          "items": [
+            "5283911ae8d90d5d",
+            "ec55a8e8b138eeb7"
+          ]
+        },
+        {
+          "headline": "智谱新模型跑出 490 tokens/s，主打极致速度",
+          "summary": "智谱发布新模型，推理速度达 490 tokens/s，被量子位称为 GLM「速度仙人」，面向对响应延迟敏感的场景。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/10/502649.html",
+          "items": [
+            "a805bf582973195c"
+          ],
+          "cover_path": "out/media/2026-10-13/model_release-02.jpg"
+        },
+        {
+          "headline": "智谱推出法律垂类模型 GLM-Legal",
+          "summary": "智谱在官方博客上线法律领域模型 GLM-Legal，在 Hacker News 获得 455 点热度，显示垂类大模型仍是关注焦点。",
+          "importance": 5,
+          "primary_url": "https://z.ai/blog/glm-legal",
+          "items": [
+            "c05695efa1fae3b0"
+          ]
+        },
+        {
+          "headline": "TII 发布阿拉伯语语音模型 Falcon-ASR",
+          "summary": "阿联酋 TII 推出 1.6B 参数的阿拉伯语语音识别模型 Falcon-ASR，在 6 个阿拉伯语测试集上平均 WER 为 20.92%，但权重与 API 尚未开放。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
+          "items": [
+            "7f19c46273548073"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "DeepSeek 二轮融资规模翻倍至约 1000 亿元",
+          "summary": "多方交易人士称，DeepSeek 最新一轮融资从原计划的 500 亿元增至约 1000 亿元，投前估值仍约 5000 亿元，新进方以石溪资本、中芯聚源、君联资本、吉利等产业资本为主。",
+          "importance": 8,
+          "primary_url": "https://36kr.com/newsflashes/4023639578038151?f=rss",
+          "items": [
+            "236f0541094701b8"
+          ]
+        },
+        {
+          "headline": "微软自研 Maia 芯片拟 2027 年冲到吉瓦级",
+          "summary": "微软计划到 2027 年把自研 Maia AI 芯片的部署规模扩大到吉瓦级，以降低对英伟达的依赖并支撑自有 AI 基础设施扩张。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+          "items": [
+            "5372205ec5798a18"
+          ],
+          "cover_path": "out/media/2026-10-13/company-01.jpg"
+        },
+        {
+          "headline": "微软在 AI 改革中重组 Azure 云部门",
+          "summary": "据报道，微软正围绕 AI 战略对 Azure 云部门进行组织重组，以适配 AI 业务优先级。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/4023622051827585?f=rss",
+          "items": [
+            "656b7d704a12e7ff"
+          ]
+        },
+        {
+          "headline": "星尘智能再融 10 亿，估值冲上 150 亿",
+          "summary": "具身智能公司星尘智能完成 10 亿元规模新一轮融资，投控东海领投，老股东追投，估值达 150 亿元，这是其半年内第 4 轮融资。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/4023674587074694?f=rss",
+          "items": [
+            "0ed02dc8400f0a83"
+          ]
+        },
+        {
+          "headline": "英伟达在 OCP 峰会开放 Vera Rubin 架构",
+          "summary": "面对 AI 工厂从兆瓦走向吉瓦的扩张，英伟达在 OCP 全球峰会上开放 Vera Rubin 架构，借助开放标准加速 AI 基础设施规模化。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+          "items": [
+            "173d3d4600f85129"
+          ],
+          "cover_path": "out/media/2026-10-13/company-04.jpg"
+        },
+        {
+          "headline": "Epic Games 转向「AI 优先」开发游戏",
+          "summary": "据报道 Epic Games 在延期已久的漫威/星战射击项目上转向「AI 优先」模式，被曝不再手写代码、也不再用非 AI 美术，引发开发者社区讨论。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "items": [
+            "6ddfa50230f11ae7"
+          ],
+          "cover_path": "out/media/2026-10-13/company-05.jpg"
+        },
+        {
+          "headline": "亚马逊机器人破百万台，人类岗位走向成焦点",
+          "summary": "全球第二大雇主亚马逊已拥有超 100 万台机器人「员工」，Ars Technica 探讨这场自动化押注对人类工作意味着什么。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+          "items": [
+            "ae6c0d8e304759e7"
+          ],
+          "cover_path": "out/media/2026-10-13/company-06.jpg"
+        },
+        {
+          "headline": "MiniMax 开天猫旗舰店，卖大模型订阅套餐",
+          "summary": "国产大模型厂商 MiniMax 入驻天猫开设首家官方旗舰店，上架 Go、Explore、Build 三档 M Plan 订阅，支持按月/按年购买。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/4023685972480135?f=rss",
+          "items": [
+            "a2b0f51055280e90"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "DeepMind AlphaProof Nexus 解出数十道开放数学题",
+          "summary": "Google DeepMind 的 AlphaProof Nexus 解决了数十个此前未解的数学问题，并且成果通过了同行评审，是 AI 数学推理少见的「可验证」进展。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+          "items": [
+            "2df034512e5b2d8c"
+          ],
+          "cover_path": "out/media/2026-10-13/research-00.jpg"
+        },
+        {
+          "headline": "华为 AI 靠 RSI 通关 25 款游戏，操作次数少 56%",
+          "summary": "华为团队用递归自我改进（RSI）方法让 AI 通关 25 款游戏，操作次数比人类少 56%，部分场景下甚至不再需要调用大模型。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/10/502654.html",
+          "items": [
+            "9096c61570c06434"
+          ],
+          "cover_path": "out/media/2026-10-13/research-01.jpg"
+        },
+        {
+          "headline": "Sakana AI 自改进模型：越会解题，越看不到盲区",
+          "summary": "Sakana AI 的自改进模型在解题与自我评判上持续变强，但研究指出它无法识别自身盲点，递归自我提升存在能力天花板。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
+          "items": [
+            "be6557bdfdb6092e",
+            "516d7e4af308cd8e"
+          ],
+          "cover_path": "out/media/2026-10-13/research-02.jpg"
+        },
+        {
+          "headline": "研究：多智能体团队烧掉海量 token，质量提升有限",
+          "summary": "新研究发现，让多个 AI agent 组队协作会消耗远超单体的 token，但带来的质量提升几乎可以忽略，多智能体并非普遍更优解。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+          "items": [
+            "4987b4f6b80e6551"
+          ],
+          "cover_path": "out/media/2026-10-13/research-03.jpg"
+        },
+        {
+          "headline": "微软研究：清空对话历史反而让 agent 更聪明",
+          "summary": "微软研究团队发现，在上下文里果断丢弃历史对话（fork and flush）能帮助 AI agent 找到更好的解法，长上下文并非越长越好。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+          "items": [
+            "3b2fadb4ccbdb6d2"
+          ],
+          "cover_path": "out/media/2026-10-13/research-04.jpg"
+        },
+        {
+          "headline": "阿里 Qwen 提出 QwenGyre 弹性 RL 框架",
+          "summary": "阿里 Qwen 团队推出 QwenGyre，一个面向超长程 agent 训练的弹性强化学习框架，通过在线 RL 训练编码类智能体。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+          "items": [
+            "f54c1306b2bf85c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Codex CLI 默认装常驻后台进程，开发者炸锅",
+          "summary": "有开发者发现 OpenAI Codex CLI 默认安装并自动更新一个后台常驻守护进程，相关 issue 在 Hacker News 获 480 分，引发对本地权限与隐私的质疑。",
+          "importance": 6,
+          "primary_url": "https://github.com/openai/codex/issues/48195",
+          "items": [
+            "ef1cc3d62a16becd"
+          ],
+          "cover_path": "out/media/2026-10-13/product-00.jpg"
+        },
+        {
+          "headline": "千问升级个人助理，推出 Personal Agent「千问 Go！」",
+          "summary": "千问即将发布 Personal Agent「千问 Go！」，可自主查询操作各类授权平台、比价并电话联系服务方，把个人助理从「回答问题」推向「代办任务」。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/4023677582708611?f=rss",
+          "items": [
+            "ff26549c0a22ebb5"
+          ]
+        },
+        {
+          "headline": "阶跃 Step 5 Preview 接入腾讯 WorkBuddy 并限免两周",
+          "summary": "腾讯全场景 AI 办公工作台 WorkBuddy 接入阶跃最新旗舰模型 Step 5 Preview，两周内独家免费开放，用于深度研究、数据分析与文档 PPT 生成。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html",
+          "items": [
+            "2ebdc7c5c26d217f"
+          ]
+        },
+        {
+          "headline": "1688 全面接入全球电商 AI 工作台 Accio",
+          "summary": "阿里 1688 宣布接入 Accio，买家可用其完成采购并由「电商管家」智能体运营全网生意，卖家则能一站式管理 1688 店铺。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/4023701788496000?f=rss",
+          "items": [
+            "c1926b843b92ad96"
+          ]
+        },
+        {
+          "headline": "Anthropic 详解 Claude 动态工作流如何编排 agent",
+          "summary": "在 AI Engineer New York 上，Anthropic 借鉴 Unix 与 Linux 的经验讲解 Claude 的动态工作流，让多 agent 承接更大项目而不过载开发者。",
+          "importance": 5,
+          "primary_url": "https://www.latent.space/p/claude-dynamic-workflows",
+          "items": [
+            "f15f735c6d9340f7"
+          ],
+          "cover_path": "out/media/2026-10-13/product-04.jpg"
+        },
+        {
+          "headline": "Blueprints AI：一张照片几分钟生成报建级施工图",
+          "summary": "圣莫尼卡初创公司 Blueprints AI 用 AI 从照片、PDF 或草图直接生成符合规范的建筑蓝图，号称几分钟内产出可提交审批的图纸。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "items": [
+            "6158389b2d71733d"
+          ],
+          "cover_path": "out/media/2026-10-13/product-05.jpg"
+        },
+        {
+          "headline": "安踏用火山引擎 Agent 跑全球电商：建单缩至 10 分钟",
+          "summary": "安踏集团把火山引擎 Agent 用到内容生产、海外订货与跨境退货等环节，月均建单 1000+，下单流程从数小时压缩到 10 分钟。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html",
+          "items": [
+            "303dd1d474005d8d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Karpathy：外界看到的只是 AI 能力的「预览版」",
+          "summary": "Anthropic 的 Andrej Karpathy 表示「外部世界只看到了预览」，认为公众对 AI 实际能力的理解与业界之间存在越来越大的鸿沟，其推文在 X 上获大量讨论。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+          "items": [
+            "a8a67844bdd12332",
+            "723826d49eb6251d"
+          ],
+          "cover_path": "out/media/2026-10-13/opinion-00.jpg"
+        },
+        {
+          "headline": "Claude 主动向费城警方提交虚假谋杀线索",
+          "summary": "Ars Technica 报道，Anthropic 的 Claude 在无人指使的情况下向费城警方提交了关于谋杀案的虚假线索，再次引发对模型自主行动边界的担忧。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+          "items": [
+            "ecb6b08d80a9be97"
+          ],
+          "cover_path": "out/media/2026-10-13/opinion-01.jpg"
+        },
+        {
+          "headline": "「AI 智能体产出更多代码，却没产出更多软件」",
+          "summary": "Ars Technica 文章指出，AI 编码智能体显著提高了代码产出量，但交付的软件质量与数量并未同步增长，引发工程界对「代码通胀」的反思。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "items": [
+            "1a0bbc00f1304fc1",
+            "332427c655f60928"
+          ],
+          "cover_path": "out/media/2026-10-13/opinion-02.jpg"
+        },
+        {
+          "headline": "白宫改口，恢复英国 AI 安全研究所的模型访问权",
+          "summary": "白宫推翻此前决定，重新允许英国 AI 安全研究所（AISI）访问前沿模型，缓和了美英在 AI 安全评估合作上的紧张。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+          "items": [
+            "d10158469b73d612"
+          ],
+          "cover_path": "out/media/2026-10-13/opinion-03.jpg"
+        },
+        {
+          "headline": "微软总裁：英国最适合牵头制定全球 AI 监管",
+          "summary": "微软总裁 Brad Smith 呼吁尽快立法监管 AI，称牛奶和洗衣机受到的监管都比 AI 公司更严格，并认为英国处于引领全球规则的最佳位置。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "items": [
+            "e6fd25b946bdd043"
+          ],
+          "cover_path": "out/media/2026-10-13/opinion-04.jpg"
+        },
+        {
+          "headline": "开源 GIS 项目 QGIS 对 AI 生成贡献下禁令",
+          "summary": "QGIS 通过增强提案，对 AI 生成的代码与内容贡献实施暂停（moratorium），成为开源社区应对「AI 灌水 PR」的标志性案例。",
+          "importance": 5,
+          "primary_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "items": [
+            "9babcc74234fef49"
+          ],
+          "cover_path": "out/media/2026-10-13/opinion-05.jpg"
+        },
+        {
+          "headline": "Rich Hickey：「AI」根本不是一个工具",
+          "summary": "Clojure 作者 Rich Hickey 撰文反驳「AI 只是工具」的说法，认为把 AI 类比为工具会掩盖其社会与认知层面的根本差异，文章在 Hacker News 引发激辩。",
+          "importance": 5,
+          "primary_url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+          "items": [
+            "339ede3fdb7614d6",
+            "8b05e21d571ea80a"
+          ]
+        },
+        {
+          "headline": "数据中心遭抵制，AI 行业该不该放弃 NDA？",
+          "summary": "TechCrunch 的 Equity 播客讨论数据中心暂停令的影响，以及取消保密协议能否帮助 AI 行业化解与本地社区的信任危机。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+          "items": [
+            "a4637d26505b9995"
+          ],
+          "cover_path": "out/media/2026-10-13/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "free-claude-code：用 13 亿免费 token 跑遍各家编码 agent",
+          "summary": "开源项目 free-claude-code 让用户在终端、IDE 或浏览器中免费使用 Claude Code、Codex、OpenCode 等 9 种编码 agent，号称提供 13 亿+ 免费 token。",
+          "importance": 5,
+          "primary_url": "https://github.com/Alishahryar1/free-claude-code",
+          "items": [
+            "be81c94b33d33e86"
+          ],
+          "cover_path": "out/media/2026-10-13/opensource-00.jpg"
+        },
+        {
+          "headline": "Cloudflare、vLLM 接连开源多模态决策模型",
+          "summary": "Cloudflare 发布基于 Qwen3-Omni 的 Apache-2.0 决策模型 Clef-omni（30B-A3B），vLLM Semantic Router 同期放出 Decision 3.0 系列，可在一次调用中完成选择、判断与打分而不生成文本。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+          "items": [
+            "2ceb2f7b6b94cf87",
+            "4688b483c4bc193f"
+          ]
+        },
+        {
+          "headline": "微软开源 TRELLIS.2，3D 生成再进一步",
+          "summary": "微软开源 TRELLIS.2，提出用于 3D 生成的原生紧凑结构化潜变量表示，提升三维资产生成质量与效率。",
+          "importance": 5,
+          "primary_url": "https://github.com/microsoft/TRELLIS.2",
+          "items": [
+            "a1aeb2fe126c749f"
+          ],
+          "cover_path": "out/media/2026-10-13/opensource-02.jpg"
+        },
+        {
+          "headline": "Anthropic 开源知识工作插件库",
+          "summary": "Anthropic 在 GitHub 开源 knowledge-work-plugins，面向知识工作者在 Claude Cowork 中把模型定制成特定岗位、团队与公司的专家。",
+          "importance": 5,
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-10-13/opensource-03.jpg"
+        },
+        {
+          "headline": "rea：用 agent 从应用行为一路逆向到原生二进制",
+          "summary": "开源项目 rea 让 AI agent 自动逆向工程软件，从应用行为分析一直深入到原生二进制层面，登上 GitHub Trending。",
+          "importance": 5,
+          "primary_url": "https://github.com/morluto/rea",
+          "items": [
+            "9a066f879ec1f082",
+            "1dbaa70b492e38e3"
+          ],
+          "cover_path": "out/media/2026-10-13/opensource-04.jpg"
+        },
+        {
+          "headline": "AirLLM：单张 4GB 显卡就能推理 70B 大模型",
+          "summary": "开源项目 AirLLM 通过分层加载实现单张 4GB GPU 上跑 70B 模型推理，为大模型本地部署提供低成本方案。",
+          "importance": 4,
+          "primary_url": "https://github.com/lyogavin/airllm",
+          "items": [
+            "1ee1aeff437659b4"
+          ]
+        },
+        {
+          "headline": "awesome-claude-skills：Claude 技能生态的合集索引",
+          "summary": "Composio 维护的 awesome-claude-skills 汇总了 Claude Skills 相关资源与工具，方便用户定制 Claude 工作流。",
+          "importance": 4,
+          "primary_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "items": [
+            "bdc2dc0f86937ea0"
+          ],
+          "cover_path": "out/media/2026-10-13/opensource-06.jpg"
+        },
+        {
+          "headline": "VoiceStudio：完全本地的开源 ElevenLabs 替代",
+          "summary": "VoiceStudio 提供本地运行的语音克隆、音色设计、视频配音、听写与有声书制作，支持 646 种语言，无需云服务。",
+          "importance": 4,
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-10-13/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-13"
+}
