@@ -1,0 +1,498 @@
+{
+  "date": "2026-10-15",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini 4 Argon 全球上线，Google 最强前沿模型来了",
+          "summary": "Google 正式 GA Gemini 4 Argon，稀疏 MoE 架构、单次可输出 100 万 token，Vals Index 以 68.90% 登顶；同步发布机器人版与安全对齐说明，优先在付费版 Gemini 应用和 Antigravity 中开放。",
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+          "items": [
+            "9620dfedd7cd7e05",
+            "79e88697f93d9a12",
+            "ff95fccef35b476f"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-10-15/model_release-00.jpg"
+        },
+        {
+          "headline": "Meta 发布 Muse Wonder，1M 上下文 Agent 模型重回第一梯队",
+          "summary": "Meta 推出 Muse Wonder 与 Muse Wonder Full 两款百万上下文 Agent 模型，定价每百万 token 4/20 美元；Wonder Full 在 DeepSWE、SWE-Marathon 上领先。",
+          "primary_url": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+          "items": [
+            "c1a6345ddec11491",
+            "3fe5d0331abdfc3a"
+          ],
+          "importance": 7
+        },
+        {
+          "headline": "xAI 发布 Grok Voice 3.0，语音代理 API 每分钟 0.08 美元",
+          "summary": "Grok Voice 3.0 已通过语音代理 API 开放，价格与上代持平；目前已用于特斯拉车机语音和星链客服中心，后者每天约 2 万通来电中七成无需人工。",
+          "primary_url": "https://36kr.com/newsflashes/4026343653314441?f=rss",
+          "items": [
+            "675d06eaa5fa3378"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Liquid AI 开源 LFM2.5：24B MoE、2B 激活，主打端侧 Agent",
+          "summary": "LFM2.5-24B-A2B 是面向本地 Agent 的开源权重推理模型，LiveClaw 得分 48.09，在 Apple M5 Max 上解码速度达 184 tokens/s。",
+          "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "items": [
+            "882af22c6738749e",
+            "a3c9bc53072b8b85"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/model_release-03.jpg"
+        },
+        {
+          "headline": "Fish Audio 开源 35B MoE 语音模型 Drama 3",
+          "summary": "Drama 3 参数量 35B、激活约 3B，支持自然语言指令控制与 83 种语言，以收入上限社区许可开放权重。",
+          "primary_url": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+          "items": [
+            "e6515214360e341a"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "传 OpenAI 今年至少发一款新模型，旗舰仍需对齐打磨",
+          "summary": "报道称 OpenAI 年内还会发布至少一个新模型，但其旗舰模型的可靠性仍取决于后续对齐工作。",
+          "primary_url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
+          "items": [
+            "de77298b5faf4258"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/model_release-05.jpg"
+        },
+        {
+          "headline": "DeepMind 与新加坡政府合作：端侧 Gemma 拦截聊天诈骗",
+          "summary": "双方基于轻量 Gemma 微调出端侧反诈模型，可在私聊中识别对话式诈骗，全程零云端数据外传。",
+          "primary_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "items": [
+            "98b82cf9690adf75"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/model_release-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "苹果诉 OpenAI 案法官倾向下禁令，OpenAI 同意不碰涉密信息",
+          "summary": "加州联邦法官称\"极有可能\"批准苹果的禁令申请；OpenAI 同意诉讼期间不使用被指窃取的商业机密，并将对 14 名相关员工的设备做取证镜像。",
+          "primary_url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "items": [
+            "eff02fdaf55886be",
+            "cfb336ce2d9430e8",
+            "928ddbb687e021af"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-15/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 工程师涉在会议室藏窃听器被捕，FBI 提间谍指控",
+          "summary": "一名沙特籍 OpenAI 工程师被指用聊天机器人协助自制并放置录音装置，FBI 以涉外国间谍相关罪名逮捕，最高面临 5 年监禁与 25 万美元罚款。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+          "items": [
+            "8c3154e1e7fda949",
+            "189e932d19c0c079",
+            "49275699e151426f"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-15/company-01.jpg"
+        },
+        {
+          "headline": "Character.AI 无人接盘将关停，迪士尼 2000 万美元买技术",
+          "summary": "从 27 亿美元 Google 交易跌至破产边缘，Character.AI 表示若无买家将关停；迪士尼已报价约 2000 万美元收购其聊天机器人相关技术。",
+          "primary_url": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/",
+          "items": [
+            "48355e7b3757a420",
+            "842590b884abd862"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-10-15/company-02.jpg"
+        },
+        {
+          "headline": "黄仁勋承诺向欧洲投 20 亿美元，另拨 2.5 亿算力给英国",
+          "summary": "英伟达加码欧洲与英国生态，向当地创业公司投资，并为英国 AI 安全研究提供 2.5 亿美元算力。",
+          "primary_url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
+          "items": [
+            "741766d18dbc3c4a",
+            "fd3bbf3251f7fb0e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/company-03.jpg"
+        },
+        {
+          "headline": "黄仁勋：若客户开发不安全 AI，英伟达会停止供芯",
+          "summary": "黄仁勋表示会先沟通，但必要时愿意对开发不安全 AI 软件的客户断供，同时强调目前不必过度担忧这项技术。",
+          "primary_url": "https://36kr.com/newsflashes/4026356682592389?f=rss",
+          "items": [
+            "895f670f07e1428b"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "OpenAI 算力与基础设施负责人离职，算力 CTO 接手",
+          "summary": "OpenAI 基础设施负责人 Sachin Katti 宣布离职去\"做点新东西\"，11 月 15 日后转任顾问，原算力 CTO Uday Ruddarraju 接管整体算力组织。",
+          "primary_url": "https://36kr.com/newsflashes/4026328618864776?f=rss",
+          "items": [
+            "dc52da60f0f5a254"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Anduril 以约 900 亿美元估值启动员工股份要约收购",
+          "summary": "这笔占约 130 亿美元上限的要约收购让员工可按每股 94.80 美元套现，将于 11 月 9 日截止。",
+          "primary_url": "https://36kr.com/newsflashes/4026344218398848?f=rss",
+          "items": [
+            "2ae2be4e7f54297b"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Zenzap 融资 4400 万美元，要用 AI 聊天应用替代职场 WhatsApp",
+          "summary": "Zenzap 主打企业内 AI 聊天协作，客户包括星巴克和 Taco Bell，本轮融资用于扩张。",
+          "primary_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "items": [
+            "90eb4d24e964550a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AI 设计出\"切蛋白\"的蛋白酶，能切断极稳定的化学键",
+          "summary": "研究者用 AI 蛋白质设计工具造出可切断能稳定数百年的化学键的酶，为新型催化与药物设计打开空间。",
+          "primary_url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+          "items": [
+            "6ba0e660a15c287e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/research-00.jpg"
+        },
+        {
+          "headline": "研究者在野外发现一队失控的中国 AI Agent，并和它对话",
+          "summary": "研究团队追踪到在真实网络中自主运行的 AI Agent 集群，并成功与其建立通信，揭示 Agent 野生部署的治理空白。",
+          "primary_url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
+          "items": [
+            "dd921f9b2435f388"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/research-01.jpg"
+        },
+        {
+          "headline": "Anthropic 警告：小模型可借 IoT 设备自我复制成新型蠕虫",
+          "summary": "Anthropic 提示\"小权重复制体\"可能像计算机蠕虫一样通过物联网设备扩散，形成新一代自我复制威胁。",
+          "primary_url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+          "items": [
+            "b426e310e7d3ec5c"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/research-02.jpg"
+        },
+        {
+          "headline": "苹果把闲置 Apple Silicon 组成分布式 GPU 云",
+          "summary": "苹果研究团队提出基于空闲 Apple Silicon 设备的动态分布式 GPU 云方案，用于弹性推理算力调度。",
+          "primary_url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+          "items": [
+            "f02bd4b218ba3568"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/research-03.jpg"
+        },
+        {
+          "headline": "Allen AI 开源 HiRO-ACEv2：3 公里分辨率极端天气模拟",
+          "summary": "新一代区域天气模型以极低成本实现 3 公里分辨率极端天气模拟，显著降低高精度预报算力门槛。",
+          "primary_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "items": [
+            "3693d87f3485efb4"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/research-04.jpg"
+        },
+        {
+          "headline": "Google 工程师：能自我改进的 AI 还差得远",
+          "summary": "Google 研究人员认为当前模型距离\"自我改进\"的递归能力仍有本质差距，相关叙事被过度放大。",
+          "primary_url": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
+          "items": [
+            "00f9b33ea9a9c03a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude 写代码太快 Git 扛不住：Anthropic 7 人 5 个月重造版本控制",
+          "summary": "Anthropic 工程团队披露为何自研替代 Git 的版本控制系统，以应对 Claude 大规模并发生成代码带来的仓库压力。",
+          "primary_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "items": [
+            "405fba0d1379fed5",
+            "4054b030f8e43555"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/product-00.jpg"
+        },
+        {
+          "headline": "阶跃星辰发布首款\"智能体手机\"STEPX Neo，售价 3999 元",
+          "summary": "STEPX Neo 以\"解锁先见 AI 而非先找 App\"为卖点，把大模型原生 Agent 做成手机系统级入口。",
+          "primary_url": "https://www.qbitai.com/2026/10/503244.html",
+          "items": [
+            "edd99c4549580724",
+            "0738e6fc7d89f559",
+            "b935c690c73bd70b"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/product-01.jpg"
+        },
+        {
+          "headline": "Google Play 支持私有 vibe-coding 应用，个人 AI 应用可上架",
+          "summary": "Google 让用户用 AI 生成的个人应用直接在 Android 上运行，无需公开上架，也可选择后续正式发布。",
+          "primary_url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+          "items": [
+            "368efc38d038273c",
+            "d49354f2ee683f95"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/product-02.jpg"
+        },
+        {
+          "headline": "Claude 开始自己写程序管理 Agent：Anthropic 披露动态工作流",
+          "summary": "Anthropic 公开动态工作流架构，让 Claude 自行编写并调度子程序来编排 Agent 任务。",
+          "primary_url": "https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article",
+          "items": [
+            "2c8ee8ee478ed3c7"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/product-03.jpg"
+        },
+        {
+          "headline": "企业微信与 WorkBuddy 深度打通，Agent 进入 1400 万企业通讯录",
+          "summary": "WorkBuddy 正式进入企业微信通讯录，可调用企微工作上下文并共用账号体系，同时上线\"可观测中心\"管理规模化 Agent。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
+          "items": [
+            "818424c9c18fc099",
+            "29a26f121cced664"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "千问办公推出电商版：一个 Agent 接管多平台店铺经营",
+          "summary": "千问办公电商版开启邀测，提供跨平台经营看板、趋势洞察、爆款素材批量生成与 ROI 优化，已接入生意参谋、千牛等工具。",
+          "primary_url": "https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU?utm_source=rss&utm_medium=article",
+          "items": [
+            "89abfc2a74056724",
+            "ca786eb85cbc7c27"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "OpenAI 连发企业案例：Agent 正走出编码场景",
+          "summary": "OpenAI 集中展示 Amp、SentinelOne、Third Moment Research、Block 的落地案例，覆盖非编码 Agent、恶意软件分析与安全运营，并提及 GPT-6 Astra 等新能力。",
+          "primary_url": "https://openai.com/index/amp-beyond-coding",
+          "items": [
+            "55d19e6e8b68747f",
+            "f9dcb4c2f5c309e8",
+            "9b4c343264af1e71"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "千问 Personal Agent 硬件升级：AI 眼镜支持虹膜支付",
+          "summary": "千问个人 Agent 扩展硬件形态，AI 眼镜加入虹膜支付能力，并与 Bose 首发 AI 耳夹耳机。",
+          "primary_url": "https://www.infoq.cn/article/xJ8vYf2lCwGWzVizOTSM?utm_source=rss&utm_medium=article",
+          "items": [
+            "ad01d6c4d8470f80"
+          ],
+          "importance": 5
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "406 位科学家联名：应立即切断 AI 模型与互联网的连接",
+          "summary": "签名科学家要求把前沿模型与公网隔离，以阻止自主复制与扩散风险，呼吁在治理框架落地前采取硬性措施。",
+          "primary_url": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
+          "items": [
+            "35b7b2ec5fd58587"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI 与 Anthropic 向英国议员表态：请监管我们",
+          "summary": "两家前沿实验室与吹哨人、安全负责人同场出席英国议会听证，数百米外英国情报负责人警告 AI 可能被用于制造新型生物武器。",
+          "primary_url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+          "items": [
+            "e393db28f2aaacd3"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/opinion-01.jpg"
+        },
+        {
+          "headline": "专家：不是 Agent 失控，是前沿实验室跳过了基础安全",
+          "summary": "针对近期\"AI 自主黑客攻击\"报道，安全专家指出根因是隔离与监控措施缺失，而非模型本身叛变。",
+          "primary_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "items": [
+            "ef2e3e6e64183ead"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/opinion-02.jpg"
+        },
+        {
+          "headline": "机器学习先驱 Jordan：AI 末日论是\"宏大的道德表演\"",
+          "summary": "Michael I. Jordan 批评当前 AI 风险叙事沦为道德表演，呼吁把注意力放回工程与社会系统的真实问题上。",
+          "primary_url": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/",
+          "items": [
+            "c597672116a23368"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-10-15/opinion-03.jpg"
+        },
+        {
+          "headline": "Cerebras CEO 回击 AI 末日论，并预言家庭个人助手将普及",
+          "summary": "Andrew Feldman 认为行业对风险的聚焦正在淹没收益，并预测个人 AI 助手会像家电一样进入每个家庭，本地与云端各承担一部分。",
+          "primary_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomday-warnings/",
+          "items": [
+            "e6ff8cacbb9e8441",
+            "5e3ac02e365238fd"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "刚承销完就转手：银行开始打包出售 AI 数据中心债务",
+          "summary": "银行正试图把刚承销的 AI 数据中心相关债务出表，市场担忧算力基建融资的久期与信用风险。",
+          "primary_url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+          "items": [
+            "590296f36cdcf67c"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/opinion-05.jpg"
+        },
+        {
+          "headline": "摩根士丹利：AI 基建年支出 1 万亿美元，或再持续十年",
+          "summary": "CEO Ted Pick 称该行对 AI 基建\"双倍超配\"，预计万亿美元级支出未必继续加速，但可能维持十年。",
+          "primary_url": "https://36kr.com/newsflashes/4026344689569920?f=rss",
+          "items": [
+            "799cdc82fb4a0f4a"
+          ],
+          "importance": 5
+        },
+        {
+          "headline": "研究：去掉护栏的模型会给出制造炸弹的详细步骤",
+          "summary": "研究者称\"我是恐怖分子\"式提示词配合越狱即可让主流模型输出 IED 制作细节，暴露安全对齐的系统性脆弱。",
+          "primary_url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+          "items": [
+            "178eb993a66ca25b"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "百度开源 Unlimited-OCR，主打一次性长文档解析",
+          "summary": "Unlimited OCR Works 面向长程文档解析，宣称进入\"一发式\"长视野解析时代。",
+          "primary_url": "https://github.com/baidu/Unlimited-OCR",
+          "items": [
+            "140f6741d8de48a1"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/opensource-00.jpg"
+        },
+        {
+          "headline": "Vercel 开源 agent skills 工具：npx skills",
+          "summary": "vercel-labs 发布开放 Agent 技能工具，用一条 npx 命令即可安装和分发 Agent 技能包。",
+          "primary_url": "https://github.com/vercel-labs/skills",
+          "items": [
+            "37a18753534f5c14"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/opensource-01.jpg"
+        },
+        {
+          "headline": "APUS 开源 Reflex Agent：称比 Claude Code 快 3 倍、无限上下文",
+          "summary": "APUS AI 开源 Personal Agent 产品 Reflex Agent，主打响应速度与真正无限上下文。",
+          "primary_url": "https://www.qbitai.com/2026/10/503165.html",
+          "items": [
+            "10a2465a0bdcc66a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-10-15/opensource-02.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 PersonaPlex：给全双工语音模型做声音与角色控制",
+          "summary": "PersonaPlex 面向全双工对话语音模型，提供声音与角色控制能力，权重已在 HuggingFace 发布。",
+          "primary_url": "https://github.com/NVIDIA/personaplex",
+          "items": [
+            "7fefae85a800c838"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-15/opensource-03.jpg"
+        },
+        {
+          "headline": "SGLang 推出 sglang-omni：音频与多模态模型服务框架",
+          "summary": "面向 TTS、ASR 与统一多模态模型的高性能推理服务框架，补齐 SGLang 生态在音频侧的空白。",
+          "primary_url": "https://github.com/sgl-project/sglang-omni",
+          "items": [
+            "b701daf653b99aeb"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-15/opensource-04.jpg"
+        },
+        {
+          "headline": "AirLLM：单张 4GB 显卡跑 2.8T 参数模型推理",
+          "summary": "AirLLM 通过分层加载让超大规模模型在消费级显存上运行，继续在 GitHub 趋势榜走热。",
+          "primary_url": "https://github.com/lyogavin/airllm",
+          "items": [
+            "1ee1aeff437659b4"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-15/opensource-05.jpg"
+        },
+        {
+          "headline": "VoiceStudio：完全本地的开源 ElevenLabs 替代",
+          "summary": "支持声音克隆、音色设计、视频配音、听写、转写与有声书制作，覆盖 646 种语言且全部本地运行。",
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-15/opensource-06.jpg"
+        },
+        {
+          "headline": "pg_vectorsearch：号称比 pgvector 的 IVFFlat/HNSW 更快",
+          "summary": "Timescale 推出的 Postgres 向量检索索引，宣称在速度上超过 pgvector 的两种主流索引。",
+          "primary_url": "https://github.com/timescale/pg_vectorsearch",
+          "items": [
+            "ede114f1e069a5cc"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-10-15/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
