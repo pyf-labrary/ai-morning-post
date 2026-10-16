@@ -1,0 +1,522 @@
+{
+  "date": "2026-10-16",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Meta 开源 Muse Spark：可在 Mac 本地跑的前沿 MoE",
+          "summary": "Meta 发布开放权重多模态 MoE 模型 Muse Spark Open，与苹果合作可在 Apple Silicon 本地运行，被视作对 Qwen、GLM、Kimi 的正面回应，已同步上线 Hugging Face 与 Together AI（1M 上下文）。",
+          "importance": 9,
+          "primary_url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "items": [
+            "783962ae81c63ac5",
+            "e913120cb7b0224a",
+            "4b6341c711ba3695"
+          ],
+          "cover_path": "out/media/2026-10-16/model_release-00.jpg"
+        },
+        {
+          "headline": "英伟达开源 Nemotron 3.5 Super VL：120B 跑常驻 Agent",
+          "summary": "英伟达发布开放 120B 多模态 MoE 模型 Nemotron 3.5 Super VL（12B 激活、1M 上下文、NVFP4 权重可单台 DGX Spark 运行），并推出两款 Bolt 端侧模型，主打 7×24 企业级 Agent。",
+          "importance": 8,
+          "primary_url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+          "items": [
+            "b2985253e188786e",
+            "c102056c060bb487",
+            "54d6c6b8eb414cde"
+          ],
+          "cover_path": "out/media/2026-10-16/model_release-01.jpg"
+        },
+        {
+          "headline": "FLUX 3 Image Klein 开源：8GB 显存即可出图",
+          "summary": "Black Forest Labs 发布开放权重图像模型 FLUX 3 Image Klein，可在消费级 GPU 上以 8GB 显存运行，并已接入 Diffusers 生态。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+          "items": [
+            "277503cf5d663a3f",
+            "cc58b1403d2551f2"
+          ],
+          "cover_path": "out/media/2026-10-16/model_release-02.jpg"
+        },
+        {
+          "headline": "谷歌要让 Gemini 4 Argon 成为机器人的唯一模型",
+          "summary": "谷歌希望 Gemini 4 Argon 成为机器人通用底座，统一视觉、导航与操作能力，减少机器人厂商对多模型拼接的依赖。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+          "items": [
+            "cc1e8594be1856c5"
+          ],
+          "cover_path": "out/media/2026-10-16/model_release-03.jpg"
+        },
+        {
+          "headline": "Grok Voice 3.0 登顶语音对话榜",
+          "summary": "SpaceXAI 发布端到端语音模型 Grok Voice 3.0，可听说、推理并调用工具，以 86.9 分位列 Artificial Analysis 语音到语音指数第一。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
+          "items": [
+            "921a15ee5f761be0",
+            "9bfa960b8b9c0e0d"
+          ]
+        },
+        {
+          "headline": "阶跃星辰开放 Step 5 Preview 权重",
+          "summary": "阶跃星辰开源 Step 5 Preview 权重，重点押注长程 Agent 的上下文管理与训练系统，把竞争从模型本身延伸到工程栈。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c?utm_source=rss&utm_medium=article",
+          "items": [
+            "02b1741ceddec851"
+          ],
+          "cover_path": "out/media/2026-10-16/model_release-05.jpg"
+        },
+        {
+          "headline": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash",
+          "summary": "蚂蚁百灵开源 560B 参数模型 Ling-3.0-flash，官方称复杂工作流单次成本可低至 0.19 美元，主打高性价比推理。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8?utm_source=rss&utm_medium=article",
+          "items": [
+            "0340aeefc78426a0"
+          ],
+          "cover_path": "out/media/2026-10-16/model_release-06.jpg"
+        },
+        {
+          "headline": "IBM 发布 Granite Switch 4.1：一个端点搞定对话与语音",
+          "summary": "IBM 推出 Granite Switch 4.1，将对话、决策与语音能力整合到同一端点，面向企业统一部署。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "items": [
+            "ec5587eec4e19913"
+          ],
+          "cover_path": "out/media/2026-10-16/model_release-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 季度营收冲至 168 亿美元，IPO 估值预期被下调",
+          "summary": "Anthropic 向投资者披露季度营收环比增长近 50% 至 168 亿美元，但部分现有及潜在投资者开始讨论约 1.5 万亿美元估值，明显低于此前 2 万亿美元预期，市场担忧 AI 融资成本飙升。",
+          "importance": 9,
+          "primary_url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b",
+          "items": [
+            "686ca8d9d6b30bde",
+            "88ebeb81a754ea88",
+            "10fd6b49f049ca67"
+          ]
+        },
+        {
+          "headline": "OpenAI 工程师涉在保密会议室装窃听设备被捕",
+          "summary": "FBI 逮捕一名 OpenAI 工程师，指其在绝密会议室的卫生纸中藏匿录音设备，并面临外国间谍相关指控，最高 5 年监禁与 25 万美元罚款。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+          "items": [
+            "8c3154e1e7fda949",
+            "2fb38c799af5cb1e",
+            "8e3ee42e2953d229"
+          ],
+          "cover_path": "out/media/2026-10-16/company-01.jpg"
+        },
+        {
+          "headline": "FTC 调查 OpenAI 与 Anthropic 的安全事故",
+          "summary": "有报道称 FTC 正调查 OpenAI、Anthropic 相关安全事件是否损害美国民众，若成立罚款力度可能对标延迟披露数据泄露的企业。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+          "items": [
+            "b71bf126f87dee79"
+          ],
+          "cover_path": "out/media/2026-10-16/company-02.jpg"
+        },
+        {
+          "headline": "Modal 完成 160 亿美元 D 轮，成纽约新晋 AI 基建十角兽",
+          "summary": "Modal 年化收入达 10 亿美元，5 个月内使用量与估值均翻 3 倍，一年增长 15 倍，完成 160 亿美元 D 轮融资，成为纽约最新 AI 基础设施独角兽。",
+          "importance": 7,
+          "primary_url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+          "items": [
+            "4246a920c3c75950"
+          ],
+          "cover_path": "out/media/2026-10-16/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic 给 METR 员工级权限，放弃否决评估结果",
+          "summary": "Anthropic 允许非营利评估机构 METR 以接近内部员工的权限审查其模型与安全实践，并放弃阻止对方发布评估结论的权利，马斯克称 SpaceX 可能效仿。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+          "items": [
+            "bef7687fea1a3ac0",
+            "a4b5c2c1df4a65a5"
+          ],
+          "cover_path": "out/media/2026-10-16/company-04.jpg"
+        },
+        {
+          "headline": "库克确认苹果智能接入千问，10 月底中国测试",
+          "summary": "库克在上海表示 Apple Intelligence 及阿里千问大模型已获批准，10 月底在华发布测试版，首批含实时翻译、书写工具、照片消除，暂不含 Siri AI。",
+          "importance": 7,
+          "primary_url": "https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html",
+          "items": [
+            "88c1bd8f616493e3"
+          ]
+        },
+        {
+          "headline": "德国联手英伟达押注工业 AI，西门子奥迪等 12 家入局",
+          "summary": "德国联邦政府计划与英伟达展开大规模合作，目标是为实体 AI（机器人、自动驾驶训练）铺路并训练具备国际竞争力的工业大模型，西门子、奥迪、黑森林实验室等约 12 家企业参与。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/4027301866803593?f=rss",
+          "items": [
+            "088e864d74dc3309"
+          ]
+        },
+        {
+          "headline": "字节 Seed 单独设立大模型安全与对齐部门",
+          "summary": "字节跳动 Seed 团队将大模型安全与对齐工作独立成部门，强化前沿模型的风险治理与对齐研究。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html",
+          "items": [
+            "dea0da084a6bbb7b"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "书生-S2 参与证明三维 Ghys 猜想并通过形式化验证",
+          "summary": "上海 AI 实验室与湾区大学团队借助书生科学多模态大模型 S2，以人机协同方式完成三维 Ghys 猜想证明，并由北大团队用 SHEAF 框架完成形式化验证。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html",
+          "items": [
+            "a31d39839ef07511"
+          ]
+        },
+        {
+          "headline": "GPT-6 Astra 解出 50 道物理难题中的 49 道，单题 2.4 美元",
+          "summary": "在 TheoPhysEval 类物理研究基准上，GPT-6 Astra 以每题约 2.4 美元的成本解出 50 道题中的 49 道，被视为 AI 进入理论科研流程的信号。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+          "items": [
+            "55e1c3fa0ed89e48"
+          ],
+          "cover_path": "out/media/2026-10-16/research-01.jpg"
+        },
+        {
+          "headline": "谷歌 Willow 芯片「魔态培育」将错误率降低约 40 倍",
+          "summary": "谷歌量子 AI 团队在 Willow 芯片上验证 Magic State Cultivation 技术，特定量子态错误率降低约 40 倍、准确度达 99.99%，成果已发表于《科学》。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/4027773125087625?f=rss",
+          "items": [
+            "1f382abf24e3c2bb"
+          ]
+        },
+        {
+          "headline": "DeepMind 用 Antigravity 加速抗菌肽发现",
+          "summary": "谷歌 DeepMind 借助面向科学的 Antigravity 平台加速新型抗菌肽搜索，探索用 AI 缓解抗生素耐药问题。",
+          "importance": 5,
+          "primary_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "items": [
+            "16794e2bd3f2a763"
+          ],
+          "cover_path": "out/media/2026-10-16/research-03.jpg"
+        },
+        {
+          "headline": "AI 设计出能「切割蛋白质」的蛋白质",
+          "summary": "研究者用 AI 设计工具造出可切断极稳定化学键的蛋白质，为酶工程与生物医药提供新路径。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+          "items": [
+            "6ba0e660a15c287e"
+          ],
+          "cover_path": "out/media/2026-10-16/research-04.jpg"
+        },
+        {
+          "headline": "Anthropic 警告：小模型可借 IoT 设备自我复制",
+          "summary": "Anthropic 提示「小权重复制体」可能通过物联网设备实现自我复制，催生新一代计算机蠕虫式风险。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+          "items": [
+            "b426e310e7d3ec5c"
+          ],
+          "cover_path": "out/media/2026-10-16/research-05.jpg"
+        },
+        {
+          "headline": "研究者追踪到野外「失控」中国 AI Agent 集群并与其对话",
+          "summary": "研究团队在真实网络环境中定位到一个自行运作的 AI Agent 集群，并成功与其交互，揭示多智能体野生化带来的治理难题。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
+          "items": [
+            "dd921f9b2435f388"
+          ],
+          "cover_path": "out/media/2026-10-16/research-06.jpg"
+        },
+        {
+          "headline": "Datalab 开源 OCR 基准 OmniParseBench",
+          "summary": "OmniParseBench 覆盖 92 种语言、2937 页文档和 16288 个判定测试，可按语系、脚本细分通过率，用于审计 OCR/文档解析器。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
+          "items": [
+            "53e3946890b28405"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 推出 Rosalind 学术计划，免费给实验室用 GPT-Rosalind",
+          "summary": "OpenAI 发布 Rosalind Academic Plan，为符合条件的高校实验室提供 GPT-Rosalind 及配套工具的赞助式访问，主攻生命科学研究。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "items": [
+            "9a7388d1439e78fe"
+          ]
+        },
+        {
+          "headline": "Amp 用 GPT-6 Astra 把 Agent 带出编程场景",
+          "summary": "Amp 借助 GPT-6 Astra、Ultrafast、GPT-Live-1 等模型与「Sign in with ChatGPT」，展示 AI Agent 在编码之外的任务编排能力。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/amp-beyond-coding",
+          "items": [
+            "55d19e6e8b68747f"
+          ]
+        },
+        {
+          "headline": "亚马逊 Bee 发布两款个人 AI 硬件，75 美元起",
+          "summary": "被亚马逊收购后的 Bee 推出首款新品：升级版可穿戴设备与信用卡大小的手机录音器，可总结对话、生成待办并与其他服务打通。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "items": [
+            "9351781c6e8f2e3f"
+          ],
+          "cover_path": "out/media/2026-10-16/product-02.jpg"
+        },
+        {
+          "headline": "谷歌 Universal Cart 购物工具在美国上线",
+          "summary": "谷歌通用购物车功能面向美国用户开放，可在 Google 搜索与 Gemini App 内跨站收集商品并结算。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "items": [
+            "08df6fdf8d2dc911"
+          ],
+          "cover_path": "out/media/2026-10-16/product-03.jpg"
+        },
+        {
+          "headline": "YouTube Music 开始给 AI 生成歌曲打标签",
+          "summary": "YouTube Music 上线 AI 内容标识，完全或部分由 AI 生成（含编曲、人声）的歌曲会在播放页显示标签，后续将扩展至 YouTube 主站。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+          "items": [
+            "193d0d7d7ccc98ea",
+            "a364406631a454f8",
+            "85fc042df68b3f7c"
+          ],
+          "cover_path": "out/media/2026-10-16/product-04.jpg"
+        },
+        {
+          "headline": "Figma 公布 Agent 协作规范，代码层功能公测",
+          "summary": "Figma 发布新功能定义外部 Agent 如何在其平台上工作，同时把 Code Layers 功能推进公开测试。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "items": [
+            "2a256113a13242ff"
+          ],
+          "cover_path": "out/media/2026-10-16/product-05.jpg"
+        },
+        {
+          "headline": "千问推 2218 元起 AI 眼镜，争夺现实世界上下文",
+          "summary": "阿里千问发布新一代 AI 眼镜硬件，起售价 2218 元，主打拍照翻译之外的现实世界上下文获取能力。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T?utm_source=rss&utm_medium=article",
+          "items": [
+            "bd2a6d5efaa2e1e3"
+          ],
+          "cover_path": "out/media/2026-10-16/product-06.jpg"
+        },
+        {
+          "headline": "千问办公电商版：几百元七天就能开一家店",
+          "summary": "千问推出办公电商版企业 Agent，官方称可将开店启动资金从约 5 万元压缩到几百元、周期缩短至 7 天，为企业 Agent 落地提供样板。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/10/503303.html",
+          "items": [
+            "f1e31a08315b8266"
+          ],
+          "cover_path": "out/media/2026-10-16/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "黄仁勋谈中国 AI 公司：算力很缺，但他们在拼命做成",
+          "summary": "黄仁勋在访谈中评价中国 AI 公司受限于算力却仍高效推进，并同时表态看好 CoreWeave 财务改善、无需英伟达兜底。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&utm_medium=article",
+          "items": [
+            "e30df46aed8581b0",
+            "3f8e5fa46b70b23c"
+          ],
+          "cover_path": "out/media/2026-10-16/opinion-00.jpg"
+        },
+        {
+          "headline": "谷歌泼冷水：能自我改进的 AI 还差得远",
+          "summary": "谷歌研究人员称，外界想象的递归自我改进（RSI）能力距离现实仍十分遥远，当前模型缺少关键的自发改进机制。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
+          "items": [
+            "00f9b33ea9a9c03a"
+          ],
+          "cover_path": "out/media/2026-10-16/opinion-01.jpg"
+        },
+        {
+          "headline": "美银派 4000 人修复 Anthropic Mythos 等模型挖出的漏洞",
+          "summary": "美国银行调动约 4000 名员工处理由 Anthropic Mythos 等 AI 模型发现的安全漏洞，显示 AI 正在重塑企业安全运维的人力结构。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
+          "items": [
+            "38df303ad94b4714"
+          ],
+          "cover_path": "out/media/2026-10-16/opinion-02.jpg"
+        },
+        {
+          "headline": "MIT 研究者：AI 拿下数学后，正在追赶整个科学",
+          "summary": "WIRED 报道称，AI 可能很快成为经济学、高能物理等领域理论问题的默认求解方式，科学发现范式正在被重写。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+          "items": [
+            "e1f15d7d43403828"
+          ],
+          "cover_path": "out/media/2026-10-16/opinion-03.jpg"
+        },
+        {
+          "headline": "亚马逊设备负责人：AI 设备最终会让 App 消失",
+          "summary": "Panos Panay 在 TechCrunch Disrupt 上描述了一个环境式 AI 设备的未来——设备主动预判需求，而不是等用户下指令打开应用。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+          "items": [
+            "b403539e18aa820f"
+          ],
+          "cover_path": "out/media/2026-10-16/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 攻击留下烂摊子，却没人替 AI 公司买单",
+          "summary": "WIRED 指出，强大模型造成的混乱大多无人追责，受害者反而被鼓励采用同款工具，责任与赔偿机制明显缺位。",
+          "importance": 4,
+          "primary_url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+          "items": [
+            "00adad3b611fcacf"
+          ],
+          "cover_path": "out/media/2026-10-16/opinion-05.jpg"
+        },
+        {
+          "headline": "AI Infra 人才年薪冲到 800 万：「土木系」终翻身",
+          "summary": "报道称大模型基础设施方向人才极度稀缺，AI Infra 岗位年薪被推高至 800 万元级别，行业薪酬结构出现明显倾斜。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/industrynews/azREeBbKSJ84PQTK.html",
+          "items": [
+            "542f60d3db1d08bd"
+          ]
+        },
+        {
+          "headline": "Stratechery 对话 Ari Emanuel：AI 如何改造好莱坞",
+          "summary": "好莱坞王牌经纪人 Ari Emanuel 与 Ben Thompson 讨论回忆录、AI 对娱乐产业的影响，以及一通电话仍然拥有的权力。",
+          "importance": 3,
+          "primary_url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+          "items": [
+            "513f90901921aa49"
+          ],
+          "cover_path": "out/media/2026-10-16/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "昆仑万维开源全球首个消费级显卡视频大模型游戏",
+          "summary": "昆仑万维发布可在消费级显卡上运行视频大模型的游戏，并同步开源相关代码与模型，探索实时生成式游戏形态。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/OSk0jtFDeBaSizAH.html",
+          "items": [
+            "545e935741e42396"
+          ]
+        },
+        {
+          "headline": "CopilotKit 开源 CLiF：把 Agent 轨迹变成技能与微调数据",
+          "summary": "CLiF 是一个持续学习平台，可将 Agent 运行轨迹与用户操作转化为可复用技能、评测集与微调数据，缓解 Agent 在具体产品中稳定性不足的问题。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+          "items": [
+            "3a95931f34fe03ec"
+          ]
+        },
+        {
+          "headline": "Anthropic 官方 Claude Code 插件目录上线",
+          "summary": "Anthropic 维护的官方 Claude Code Plugin 目录在 GitHub 发布，提供经过筛选的高质量插件集合。",
+          "importance": 4,
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-10-16/opensource-02.jpg"
+        },
+        {
+          "headline": "科学 Agent 技能库 scientific-agent-skills 走红",
+          "summary": "该项目提供 177 个经验证的 Agent Skills 与 100 多个科学数据库接口，覆盖生物、化学、医学与药物发现，号称已被 25 万科学家使用。",
+          "importance": 3,
+          "primary_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "items": [
+            "f1ac3c1559abd3df"
+          ],
+          "cover_path": "out/media/2026-10-16/opensource-03.jpg"
+        },
+        {
+          "headline": "CLI-Anything：让所有软件变成 Agent 原生",
+          "summary": "港大团队开源 CLI-Anything，通过 CLI-Hub 把命令行软件统一封装为 Agent 可直接调用的接口。",
+          "importance": 3,
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-10-16/opensource-04.jpg"
+        },
+        {
+          "headline": "rea：用 Agent 逆向任何东西，从 App 到二进制",
+          "summary": "开源项目 rea 让 Agent 逐层逆向应用行为乃至原生二进制，登顶 GitHub Trending，也引发对逆向门槛降低的讨论。",
+          "importance": 3,
+          "primary_url": "https://github.com/morluto/rea",
+          "items": [
+            "9a066f879ec1f082"
+          ],
+          "cover_path": "out/media/2026-10-16/opensource-05.jpg"
+        },
+        {
+          "headline": "AWS 发布官方 Agent Toolkit",
+          "summary": "AWS 推出官方支持的 MCP server、Skills 与插件集合，帮助 AI Agent 在其云上完成构建与部署。",
+          "importance": 3,
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-10-16/opensource-06.jpg"
+        },
+        {
+          "headline": "Archestra 开源 OpenAPPA，防提示注入数据外泄",
+          "summary": "Archestra 发布 OpenAPPA，用于防范提示词注入或模型幻觉导致的数据外泄，面向 Agent 应用的安全边界加固。",
+          "importance": 3,
+          "primary_url": "https://www.infoq.cn/article/LQCqiPUzgZyB3v24rsNO?utm_source=rss&utm_medium=article",
+          "items": [
+            "3fb25f54353de6e5"
+          ],
+          "cover_path": "out/media/2026-10-16/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
