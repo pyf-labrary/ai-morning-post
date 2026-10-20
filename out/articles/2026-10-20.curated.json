@@ -1,0 +1,522 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini 4 Argon 发布，谷歌称解决最棘手问题",
+          "summary": "谷歌推出 Gemini 4 Argon，主打复杂推理与难题求解，官方称其为迄今最强 Gemini。",
+          "primary_url": "https://www.infoq.cn/article/LkxBOvOJWmQGMQemUOrX?utm_source=rss&utm_medium=article",
+          "importance": 8,
+          "items": [
+            "658581a98a39b154"
+          ],
+          "cover_path": "out/media/2026-10-20/model_release-00.jpg"
+        },
+        {
+          "headline": "Anthropic 新模型曝光：推理与直觉超越市面",
+          "summary": "知情人士称 Anthropic 正准备发布新模型，擅长判断用户深层意图，推理和直觉能力优于现有模型。",
+          "primary_url": "https://36kr.com/newsflashes/4033470414279560?f=rss",
+          "importance": 8,
+          "items": [
+            "9a4426c6e212b3bb"
+          ]
+        },
+        {
+          "headline": "MiniMax M3.1 Flash 发布：428B MoE",
+          "summary": "MiniMax 推出 428B 参数 MoE 模型 M3.1 Flash，激活约 23B，支持 100 万 token 上下文，API 定价低至 $0.15/百万输入 token。",
+          "primary_url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+          "importance": 7,
+          "items": [
+            "5bd1dff366fd8c1e",
+            "4b8c308e9c0583b2"
+          ]
+        },
+        {
+          "headline": "DeepSeek V4.1 Flash 现身，价格战继续",
+          "summary": "DeepSeek 新模型 V4.1 Flash（1017 Max）登陆 Artificial Analysis，延续低价策略，进一步压低推理成本。",
+          "primary_url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+          "importance": 7,
+          "items": [
+            "305c2be26bd37e42",
+            "967464e9d5f2bce0"
+          ]
+        },
+        {
+          "headline": "Meta 联手苹果推开源模型，编码测试输给国产",
+          "summary": "Meta 与苹果合作发布号称全美最强开源模型，但在编码基准上落后于智谱和 Kimi。",
+          "primary_url": "https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk?utm_source=rss&utm_medium=article",
+          "importance": 7,
+          "items": [
+            "87b01f08fde809e6"
+          ],
+          "cover_path": "out/media/2026-10-20/model_release-04.jpg"
+        },
+        {
+          "headline": "英伟达开源新模型，让代理跑进企业与 PC",
+          "summary": "英伟达发布面向企业本地部署和 PC 端侧的开源代理模型，推动私有化 AI Agent 落地。",
+          "primary_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+          "importance": 7,
+          "items": [
+            "89d2035ada390108"
+          ],
+          "cover_path": "out/media/2026-10-20/model_release-05.jpg"
+        },
+        {
+          "headline": "Mistral 发布 Timestral，时序预测击败谷歌",
+          "summary": "Mistral 推出 5M–209M 参数时序基础模型 Timestral，209M 版本在零样本基准领先 TimesFM-3，并可在 CPU 运行。",
+          "primary_url": "https://mistral.ai/news/timestral/",
+          "importance": 7,
+          "items": [
+            "1324d2417c11c18d",
+            "f00932b4355457d3"
+          ],
+          "cover_path": "out/media/2026-10-20/model_release-06.jpg"
+        },
+        {
+          "headline": "可灵 4.0 发布：立体声、多语种唇形同步",
+          "summary": "可灵 AI 升级 4.0，支持立体声音频、多语言唇形同步，并推出更轻量的 Flash 版本。",
+          "primary_url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+          "importance": 6,
+          "items": [
+            "b3bcbaeff7bff32a"
+          ],
+          "cover_path": "out/media/2026-10-20/model_release-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 拟融 300 亿美元，估值超 1.4 万亿",
+          "summary": "OpenAI 正推进约 300 亿美元融资，目标估值超 1.4 万亿美元，并称 GPT-6 Astra 推动年化营收达 500 亿美元。",
+          "primary_url": "https://36kr.com/newsflashes/4033440471110536?f=rss",
+          "importance": 9,
+          "items": [
+            "1d2fadd56a278890"
+          ]
+        },
+        {
+          "headline": "迪士尼“挖人”吞下 Character.AI，避开诉讼",
+          "summary": "迪士尼同意雇佣 Character.AI 大部分员工，并以竞标方式获取其技术与安全团队，同时规避其面临的诉讼。",
+          "primary_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "importance": 8,
+          "items": [
+            "58455c997794fb64",
+            "c853b50722c504f1",
+            "93ce07e15b682f17"
+          ],
+          "cover_path": "out/media/2026-10-20/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 前工程师涉间谍案，法官拒保释",
+          "summary": "前 OpenAI 工程师 Abdulrahman Alfozan 被控窃取机密并涉沙特政府，法官裁定继续羁押。",
+          "primary_url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+          "importance": 8,
+          "items": [
+            "d75628c82096443a",
+            "99c9bc28607a0975"
+          ],
+          "cover_path": "out/media/2026-10-20/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic IPO 前夜：估值 1.5 万亿美元",
+          "summary": "Anthropic 筹备 IPO，投资者讨论约 1.5 万亿美元估值；前谷歌 CEO 施密特被曝持有约 1% 股份。",
+          "primary_url": "https://36kr.com/newsflashes/4033443512325001?f=rss",
+          "importance": 7,
+          "items": [
+            "4b80e00ffd318176",
+            "33400f1342a7476b"
+          ]
+        },
+        {
+          "headline": "Anthropic 再谈 450 亿美元算力大单",
+          "summary": "Nscale 与 Anthropic 据报正讨论第二笔规模相当的 450 亿美元算力协议，此前双方已在 8 月宣布一笔同额交易。",
+          "primary_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "importance": 7,
+          "items": [
+            "1bf2960dd011682a"
+          ],
+          "cover_path": "out/media/2026-10-20/company-04.jpg"
+        },
+        {
+          "headline": "Tenstorrent 融资 15 亿美元，估值 62 亿",
+          "summary": "英伟达挑战者 Tenstorrent 完成 15 亿美元融资，估值达 62 亿美元，计划保持独立并扩大开放权重 AI 芯片。",
+          "primary_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "importance": 7,
+          "items": [
+            "1fbbcce51ad595e6"
+          ],
+          "cover_path": "out/media/2026-10-20/company-05.jpg"
+        },
+        {
+          "headline": "Anthropic 承诺捐 5% 股份设公益基金",
+          "summary": "Anthropic 宣布将 5% 股份投入公益基金，用于支持受 AI 冲击的劳动者和公益组织。",
+          "primary_url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "importance": 7,
+          "items": [
+            "6e5b574e2810add0",
+            "03b81189903db5ee"
+          ],
+          "cover_path": "out/media/2026-10-20/company-06.jpg"
+        },
+        {
+          "headline": "Anthropic 停招初级员工，AI 代理工时增六倍",
+          "summary": "Anthropic 因 AI 代理承担大量工作而几乎停止招聘初级员工，引发对 AI 替代入门岗位的担忧。",
+          "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+          "importance": 7,
+          "items": [
+            "15262887658e9fd7"
+          ],
+          "cover_path": "out/media/2026-10-20/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "26,000 字长文震动 AI 圈：神经网络被看错了？",
+          "summary": "Goodfire 研究员 Nick Cammarata 发布 26,000 字长文，提出对神经网络本质的新解释，引发 AI 圈激烈讨论。",
+          "primary_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+          "importance": 7,
+          "items": [
+            "b134653ff8c8cb68"
+          ],
+          "cover_path": "out/media/2026-10-20/research-00.jpg"
+        },
+        {
+          "headline": "Claude 被流放荒岛 30 小时，开始“玩耍”",
+          "summary": "研究者把 Claude 代理独自放在虚拟荒岛 30 小时，发现它在无指令时表现出类似玩耍的行为。",
+          "primary_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+          "importance": 6,
+          "items": [
+            "815e832f3c0d0d82"
+          ],
+          "cover_path": "out/media/2026-10-20/research-01.jpg"
+        },
+        {
+          "headline": "新论文：让 LLM 在潜空间思考、用文本行动",
+          "summary": "arXiv 论文提出 Hybrid Reasoning Agents，让代理在潜空间推理、通过文本执行动作，HN 热度超 500。",
+          "primary_url": "https://arxiv.org/abs/2610.18861",
+          "importance": 6,
+          "items": [
+            "15c99ebf72093417"
+          ],
+          "cover_path": "out/media/2026-10-20/research-02.jpg"
+        },
+        {
+          "headline": "新论文梳理 AI 代理评估的方法与生态",
+          "summary": "AI Snake Oil 团队发布新论文，系统梳理 AI 代理评估的方法、问题与生态趋势。",
+          "primary_url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+          "importance": 6,
+          "items": [
+            "c2beb60bceb21076"
+          ],
+          "cover_path": "out/media/2026-10-20/research-03.jpg"
+        },
+        {
+          "headline": "StartLux 登顶决策模型榜，学会“拿不准再想”",
+          "summary": "中国团队 StartLux 在决策模型榜单登顶，并展示“拿不准再想”的自适应推理能力。",
+          "primary_url": "https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "a602a5a0453bc18a"
+          ],
+          "cover_path": "out/media/2026-10-20/research-04.jpg"
+        },
+        {
+          "headline": "复旦贾萧松：VLA 瓶颈不在模型架构",
+          "summary": "复旦大学贾萧松认为，VLA/WAM 新架构层出不穷，但真正瓶颈不在模型架构，而在数据与系统。",
+          "primary_url": "https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html",
+          "importance": 4,
+          "items": [
+            "c86bc6f7370cdc40"
+          ]
+        },
+        {
+          "headline": "光量子计算离产业化还有多远？",
+          "summary": "雷锋网长文讨论光量子计算的产业化路径、技术瓶颈与落地时间表。",
+          "primary_url": "https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html",
+          "importance": 4,
+          "items": [
+            "42a06742b7167465"
+          ]
+        },
+        {
+          "headline": "华中师大提出 CoReFuse-Med：先净化再融合",
+          "summary": "华中师大团队在 ACM MM 2026 提出 CoReFuse-Med，先净化低质模态再融合，提升多模态医疗模型鲁棒性。",
+          "primary_url": "https://www.leiphone.com/category/private/QgMWStz8hCPsFf68.html",
+          "importance": 3,
+          "items": [
+            "08609f4c552d41ad"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "亚马逊推 TorchNeuron，正面挑战英伟达",
+          "summary": "亚马逊发布 TorchNeuron 开发工具，让开发者更容易把 PyTorch 模型跑在 Trainium 等非英伟达芯片上。",
+          "primary_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "importance": 7,
+          "items": [
+            "31156a8984097dfb",
+            "7da0b96015a3b300"
+          ],
+          "cover_path": "out/media/2026-10-20/product-00.jpg"
+        },
+        {
+          "headline": "OpenCode 遭黑客攻击，用户 API Key 被盗刷",
+          "summary": "开源 AI 编码代理 OpenCode 平台遭入侵，部分用户 API Key 被窃取并产生高额费用，官方应对方式引发质疑。",
+          "primary_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "importance": 7,
+          "items": [
+            "f2700afde91dce20",
+            "01152e66688bbd3f"
+          ],
+          "cover_path": "out/media/2026-10-20/product-01.jpg"
+        },
+        {
+          "headline": "OpenAI 让 ChatGPT 补上 COBOL 等冷门语言",
+          "summary": "OpenAI 发布低资源编程语言评估与改进，提升 ChatGPT 在软件工程、SQLite 和 COBOL 迁移等任务上的表现。",
+          "primary_url": "https://openai.com/index/low-resource-programming-languages",
+          "importance": 6,
+          "items": [
+            "b1538ac741f96069"
+          ]
+        },
+        {
+          "headline": "OpenCode 2.0 大改版，旧插件全部报废",
+          "summary": "OpenCode 2.0 正式发布，进行重大架构改造，旧插件全部失效，开发者需迁移。",
+          "primary_url": "https://www.infoq.cn/article/IK5AWDwovCu5lx3e3mhc?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "1d96e4d34ca2695b"
+          ],
+          "cover_path": "out/media/2026-10-20/product-03.jpg"
+        },
+        {
+          "headline": "Together 推出后训练服务，可定制开源模型",
+          "summary": "Together AI 上线后训练服务，支持对 Qwen、GLM、Kimi 等开源模型做 SFT 或 RL，训练循环由用户掌控。",
+          "primary_url": "https://www.together.ai/blog/together-post-training",
+          "importance": 5,
+          "items": [
+            "621033c48e9a62e0"
+          ],
+          "cover_path": "out/media/2026-10-20/product-04.jpg"
+        },
+        {
+          "headline": "Replika 创始人新作 Wabi：免费个人 AI 助理",
+          "summary": "Replika 创始人 Eugenia Kuyda 推出免费个人 AI 助理 Wabi，可下载使用，主打主动帮助用户处理生活事务。",
+          "primary_url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+          "importance": 5,
+          "items": [
+            "c67a9e2adc6632fd"
+          ],
+          "cover_path": "out/media/2026-10-20/product-05.jpg"
+        },
+        {
+          "headline": "Stripe：AI 代理购物在增长，但拒绝给数字",
+          "summary": "Stripe 称 AI 代理发起的购买正在增加，但拒绝披露具体规模，引发对 agent 电商成熟度的讨论。",
+          "primary_url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+          "importance": 5,
+          "items": [
+            "5c6fde863184ceaa"
+          ],
+          "cover_path": "out/media/2026-10-20/product-06.jpg"
+        },
+        {
+          "headline": "DoorDash 用云代理跑 13 万个工程任务",
+          "summary": "DoorDash 的 Flux 系统在云端智能体上运行了 13 万个工程任务，展示大规模 agent 自动化落地。",
+          "primary_url": "https://www.infoq.cn/article/4IPptJpXQqX5Lr77uBFZ?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "ff9ae253c4e98778"
+          ],
+          "cover_path": "out/media/2026-10-20/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "微软：AI 代理像内鬼，前沿模型不可信",
+          "summary": "微软安全团队警告企业把 AI 代理视为内部威胁，需严密监控员工使用的非自研模型代理。",
+          "primary_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "importance": 7,
+          "items": [
+            "e7c20557a32fd327"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-00.jpg"
+        },
+        {
+          "headline": "Anthropic 给外部监督机构“员工级”权限",
+          "summary": "Anthropic 允许外部 AI 监督机构以接近员工权限访问内部信息，并可未经批准发布调查结果。",
+          "primary_url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "importance": 6,
+          "items": [
+            "47762823f0152de2"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-01.jpg"
+        },
+        {
+          "headline": "德国两法院裁定谷歌对 AI 概览内容负责",
+          "summary": "德国两家法院认定谷歌需为其 AI Overviews 生成的内容承担法律责任，可能影响搜索摘要的合规边界。",
+          "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+          "importance": 6,
+          "items": [
+            "1f3250b260d87411"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-02.jpg"
+        },
+        {
+          "headline": "Anthropic 安全法案门槛：50 死或 10 亿美元",
+          "summary": "Anthropic 提议的 AI 安全法案只在造成 50 人死亡或 10 亿美元损失时才触发，被批门槛过高。",
+          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "importance": 6,
+          "items": [
+            "d8be492f00eab0fc"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-03.jpg"
+        },
+        {
+          "headline": "网站开始对 AI 代理关门，互联网要分裂？",
+          "summary": "MIT Tech Review 与 The Verge 讨论：为方便 AI 代理而改造互联网，可能让普通用户体验更糟，越来越多网站开始封禁代理。",
+          "primary_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+          "importance": 6,
+          "items": [
+            "cea3aea3c56e416f",
+            "2ec0107eaac7ca67"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-04.jpg"
+        },
+        {
+          "headline": "Neocloud 洗牌将至，英伟达最受伤",
+          "summary": "The Decoder 分析认为，新一代云厂商即将迎来洗牌，而作为最大芯片供应方的英伟达可能损失最大。",
+          "primary_url": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
+          "importance": 6,
+          "items": [
+            "1ca37ebc4289aaeb"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-05.jpg"
+        },
+        {
+          "headline": "Hugging Face 政策负责人：内嵌评估不是万能药",
+          "summary": "Hugging Face 政策负责人指出，把评估嵌入模型并非解决基准失真的简单方案，AI 评估体系仍需重构。",
+          "primary_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+          "importance": 6,
+          "items": [
+            "9cbdfb96be59408a"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-06.jpg"
+        },
+        {
+          "headline": "陶哲轩：数学与科学将迎黄金时代还是黑暗时代？",
+          "summary": "陶哲轩撰文讨论 AI 对数学与科学的影响，追问我们正走向黄金时代还是黑暗时代。",
+          "primary_url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+          "importance": 5,
+          "items": [
+            "03e4f38f39e074e7"
+          ],
+          "cover_path": "out/media/2026-10-20/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "英伟达把 Run:ai 全量开源，Apache 2.0",
+          "summary": "英伟达将 Run:ai GPU 编排平台以 Apache 2.0 开源，包含 KAI Scheduler、CUDA 13.4 GPU 切分与配额管理。",
+          "primary_url": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
+          "importance": 6,
+          "items": [
+            "1db1ebc22a8911dd"
+          ]
+        },
+        {
+          "headline": "谷歌开源 Harness，支持 OpenCode 与 Codex",
+          "summary": "谷歌开源 Harness，为 AI 编码代理提供统一运行框架，已支持 OpenCode 和 Codex。",
+          "primary_url": "https://www.infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "9cd129e4f5a29389"
+          ],
+          "cover_path": "out/media/2026-10-20/opensource-01.jpg"
+        },
+        {
+          "headline": "Anthropic 推出官方 Claude Code 插件目录",
+          "summary": "Anthropic 上线官方管理的 Claude Code 高质量插件目录，方便开发者扩展编码代理能力。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 5,
+          "items": [
+            "27a529bcd16d86aa"
+          ],
+          "cover_path": "out/media/2026-10-20/opensource-02.jpg"
+        },
+        {
+          "headline": "Cursor 发布插件规范与官方插件集",
+          "summary": "Cursor 推出插件规范及面向主流开发工具和 SaaS 的官方插件，构建编辑器生态。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "importance": 5,
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "cover_path": "out/media/2026-10-20/opensource-03.jpg"
+        },
+        {
+          "headline": "开源本地 ElevenLabs 替代：VoiceStudio",
+          "summary": "VoiceStudio 是本地运行的开源语音克隆与配音工具，支持 646 种语言，号称 ElevenLabs 替代。",
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "importance": 5,
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-10-20/opensource-04.jpg"
+        },
+        {
+          "headline": "OmniVoice 开源：600+ 语种高质量语音克隆",
+          "summary": "k2-fsa 开源 OmniVoice，面向 600 多种语言的高质量语音克隆 TTS。",
+          "primary_url": "https://github.com/k2-fsa/OmniVoice",
+          "importance": 5,
+          "items": [
+            "4a28e6543d3e07e5"
+          ],
+          "cover_path": "out/media/2026-10-20/opensource-05.jpg"
+        },
+        {
+          "headline": "Qwen3-4B 去“AI 味”微调版开源",
+          "summary": "开发者发布经过微调的 Qwen3-4B，专门去除 AI 写作腔调，让生成文本更自然。",
+          "primary_url": "https://100toolkit.com/blog/deslop-model/",
+          "importance": 4,
+          "items": [
+            "8fe4e1862ef98cc9"
+          ],
+          "cover_path": "out/media/2026-10-20/opensource-06.jpg"
+        },
+        {
+          "headline": "Mozilla 开源自托管 LLM 网关 otari",
+          "summary": "Mozilla AI 开源 otari，兼容 OpenAI API，一个端点接入 40+ 提供商，支持虚拟密钥、预算与用量追踪。",
+          "primary_url": "https://github.com/mozilla-ai/otari",
+          "importance": 4,
+          "items": [
+            "5214c2ad5795dff3"
+          ],
+          "cover_path": "out/media/2026-10-20/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-20"
+}
