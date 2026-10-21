@@ -1,0 +1,479 @@
+{
+  "date": "2026-10-21",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "MiniMax M3.1 Flash 发布：428B MoE，价格再探底",
+          "summary": "MiniMax 推出 M3.1 Flash，428B 参数 MoE、约 23B 激活、1M 上下文，API 定价仅 $0.15/$0.60 每百万 tokens，号称在 Agent 类任务上居国产模型首位，权重将于 10 月 23 日放出。",
+          "primary_url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+          "importance": 9,
+          "items": [
+            "4b8c308e9c0583b2",
+            "5bd1dff366fd8c1e",
+            "e90ff66550ba2885"
+          ]
+        },
+        {
+          "headline": "Mercury 3 扩散 LLM：1068 tokens/秒、1M 上下文",
+          "summary": "Inception 发布扩散式大模型 Mercury 3，宣称推理速度达 1068 tokens/秒、支持 1M 上下文，并在其自评的 12 项基准中有 8 项领先 GPT-6 Luna 与 Claude Haiku 5.5。",
+          "primary_url": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+          "importance": 7,
+          "items": [
+            "b47fc824d714ec0a",
+            "df11fa17e6f09a7b"
+          ]
+        },
+        {
+          "headline": "OpenAI：GPT-6 在 COBOL、Fortran 上大幅变强",
+          "summary": "OpenAI 称 GPT-6 显著提升对 COBOL、Fortran 等遗留语言的代码理解与迁移能力，瞄准企业现代化改造中大量老系统维护的刚需。",
+          "primary_url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
+          "importance": 6,
+          "items": [
+            "1704e6174dad9846"
+          ],
+          "cover_path": "out/media/2026-10-21/model_release-02.jpg"
+        },
+        {
+          "headline": "Mistral 发布 Voxtral 3：端到端实时语音 Agent 栈",
+          "summary": "Mistral 推出 Voxtral 3，把语音识别、推理与语音合成打包成可实时「听—想—说」的全栈语音 Agent 方案。",
+          "primary_url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+          "importance": 6,
+          "items": [
+            "9444f9f2c2f515fe"
+          ],
+          "cover_path": "out/media/2026-10-21/model_release-03.jpg"
+        },
+        {
+          "headline": "Meta 开源 Muse Spark，还拉苹果做本地运行",
+          "summary": "Meta 发布新的开源模型 Muse Spark，并意外宣布与苹果合作，让模型能在本地设备上直接运行。",
+          "primary_url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+          "importance": 6,
+          "items": [
+            "7b1856219cdcfe6c"
+          ],
+          "cover_path": "out/media/2026-10-21/model_release-04.jpg"
+        },
+        {
+          "headline": "ElevenLabs 发布两款实时语音转语音模型",
+          "summary": "ElevenLabs 推出两款面向实时 AI 对话的 speech-to-speech 模型，主打低延迟的自然语音交互。",
+          "primary_url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+          "importance": 5,
+          "items": [
+            "6281d82a02c273e8"
+          ],
+          "cover_path": "out/media/2026-10-21/model_release-05.jpg"
+        },
+        {
+          "headline": "Claude 新模型曝光：能跳出思维定势修 Bug",
+          "summary": "中文社区曝光 Claude 新模型动向，称其在代码调试上不再局限于既有思路，能治标也治本地定位问题。",
+          "primary_url": "https://www.qbitai.com/2026/10/504314.html",
+          "importance": 5,
+          "items": [
+            "dd4878a3eca65f9f"
+          ]
+        },
+        {
+          "headline": "可灵 4.0 发布：立体声、多语种口型同步",
+          "summary": "快手可灵 AI 升级到 4.0，新增立体声音频、多语种口型同步，并推出更轻量的 Flash 版本。",
+          "primary_url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+          "importance": 4,
+          "items": [
+            "b3bcbaeff7bff32a"
+          ],
+          "cover_path": "out/media/2026-10-21/model_release-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 收购 Orchestra Bio，把 AI 推进新药研发",
+          "summary": "OpenAI 宣布收购生物医药研发协作平台 Orchestra Bio，团队与技术并入其生命科学模型 Rosalind 及 Rosalind Workbench，加速药物研发流程。",
+          "primary_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "importance": 8,
+          "items": [
+            "57ebda333135882e",
+            "ac17f7c1391e194b",
+            "b6571299c7c0dcac"
+          ]
+        },
+        {
+          "headline": "Anthropic 算力告急：云厂商成对手，又传 450 亿美元大单",
+          "summary": "报道称 Anthropic 越来越难从把自己视为竞争对手的云厂商处锁定足够算力，同时传与 Nscale 洽谈约 450 亿美元的新协议，赶在 11 月 IPO 前基础设施支出暴涨。",
+          "primary_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "importance": 7,
+          "items": [
+            "f1ffcd1fb07db6ce",
+            "ddcaea23dc63f442"
+          ],
+          "cover_path": "out/media/2026-10-21/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 前工程师涉间谍案，法官裁定继续羁押",
+          "summary": "被控窃取 OpenAI 内部信息的工程师 Abdulrahman Alfozan 继续被羁押，FBI 称其存有「沙特政府文件」目录，法官以沙特方面担保形同「空白支票」为由拒绝放人。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+          "importance": 6,
+          "items": [
+            "d75628c82096443a",
+            "99c9bc28607a0975"
+          ],
+          "cover_path": "out/media/2026-10-21/company-02.jpg"
+        },
+        {
+          "headline": "SpaceX AI 业务超预期，Terafab 芯片厂定档 2028",
+          "summary": "SpaceX 三季度净利 44 亿美元，AI 业务被称主要引擎；马斯克同时给出 SpaceX 与特斯拉合建的 Terafab 芯片厂 2028 年三季度量产的时间表。",
+          "primary_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "importance": 6,
+          "items": [
+            "c59dc6734e70a18d",
+            "5e49b0754809a868"
+          ],
+          "cover_path": "out/media/2026-10-21/company-03.jpg"
+        },
+        {
+          "headline": "迪士尼「绕开诉讼」买下 Character.AI",
+          "summary": "迪士尼找到交易结构，把 Character.AI 的资产买下却不必承接其面临的诉讼——后者被指其聊天机器人诱导未成年人自残。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+          "importance": 6,
+          "items": [
+            "c853b50722c504f1"
+          ],
+          "cover_path": "out/media/2026-10-21/company-04.jpg"
+        },
+        {
+          "headline": "Otter.ai 获 3.2 亿美元成长轮融资",
+          "summary": "会议记录工具 Otter.ai 从 General Catalyst 的 Customer Value Fund 拿到 3.2 亿美元非稀释性资金，按业务成果回报而非稀释股权。",
+          "primary_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "importance": 6,
+          "items": [
+            "e53e90514cf2b358"
+          ],
+          "cover_path": "out/media/2026-10-21/company-05.jpg"
+        },
+        {
+          "headline": "Meta 改条款删掉「训练」二字，盗版书诉讼甩锅员工",
+          "summary": "Meta 在商业条款中删除「train」表述却拒绝承诺遵守 robots.txt；同时在用盗版书训练 AI 的诉讼中主张没有高管「决定」侵权，试图让下载 torrent 的员工背责。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+          "importance": 6,
+          "items": [
+            "e3cbadbbe3fc5218",
+            "de07478dfa5c72b4"
+          ],
+          "cover_path": "out/media/2026-10-21/company-06.jpg"
+        },
+        {
+          "headline": "零一万物联创黄文灏离开字节 Seed，或再创业",
+          "summary": "北大博士、零一万物联合创始人黄文灏在加入字节 Seed 两年后离职，下一步据称可能创业。",
+          "primary_url": "https://www.infoq.cn/article/Xkjg7bLE3o6l9qCidVX0",
+          "importance": 5,
+          "items": [
+            "7adc6eeab10cc072"
+          ],
+          "cover_path": "out/media/2026-10-21/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "2.6 万字长文「推翻」神经网络认知，AI 圈吵翻",
+          "summary": "Goodfire 研究员 Nick Cammarata 一篇 2.6 万字博客提出对神经网络本质的新解释，被 MIT Tech Review 称为「颠覆 AI 界的爆炸性主张」，学界正激烈争论其成立与否。",
+          "primary_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+          "importance": 6,
+          "items": [
+            "b134653ff8c8cb68"
+          ],
+          "cover_path": "out/media/2026-10-21/research-00.jpg"
+        },
+        {
+          "headline": "新论文梳理 AI Agent 评测的方法、问题与生态",
+          "summary": "AI Snake Oil 团队发布新论文，系统梳理 AI Agent 评测所用方法、核心问题与背后的评测生态，指出当前评估体系的系统性缺陷。",
+          "primary_url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+          "importance": 5,
+          "items": [
+            "c2beb60bceb21076"
+          ],
+          "cover_path": "out/media/2026-10-21/research-01.jpg"
+        },
+        {
+          "headline": "IBM 用「可学习记忆」登顶 τ²-bench 客服榜",
+          "summary": "IBM Research 的 ALTK-Evolve 不依赖前沿大模型，仅靠学习到的记忆机制就在 τ²-bench 客服任务上排名第一。",
+          "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "importance": 4,
+          "items": [
+            "b734b129f6e843bf"
+          ],
+          "cover_path": "out/media/2026-10-21/research-02.jpg"
+        },
+        {
+          "headline": "九章云极 DFlash2 让 GLM-5.3 解码提速 3.41 倍",
+          "summary": "九章云极 Alaya-DFlash2 针对长文本推理瓶颈优化解码，实测让 GLM-5.3 的解码速度提升 3.41 倍。",
+          "primary_url": "https://www.infoq.cn/article/mJ5udryLFwjov1pk4Dsq",
+          "importance": 4,
+          "items": [
+            "97b5a64fcfb88bae"
+          ],
+          "cover_path": "out/media/2026-10-21/research-03.jpg"
+        },
+        {
+          "headline": "KEEP-Bench：上下文压缩不能只看答案对不对",
+          "summary": "新基准 KEEP-Bench 指出，仅用 QA 准确率评估上下文压缩会掩盖证据失真问题，需专门衡量证据是否被完整保留。",
+          "primary_url": "http://arxiv.org/abs/2610.26827v1",
+          "importance": 3,
+          "items": [
+            "4becff36e59533cc"
+          ],
+          "cover_path": "out/media/2026-10-21/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Meta Muse 40 天破千万下载，分享功能却泄露隐私",
+          "summary": "Meta 的 AI 助手 Muse 上线 40 天在美国突破 1000 万下载、留存优于同类竞品；但用户分享对话时会暴露个人与商业机密，Meta 已暂停该分享功能并展开调查。",
+          "primary_url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+          "importance": 7,
+          "items": [
+            "3c5449901093772e",
+            "14eeb0b455f047bb"
+          ],
+          "cover_path": "out/media/2026-10-21/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT 支持「锁住」聊天，手机借人也不怕",
+          "summary": "OpenAI 为 ChatGPT 加上对话锁定功能，用于讨论私密话题或筹备惊喜时，临时把设备交给他人也能保住隐私。",
+          "primary_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+          "importance": 6,
+          "items": [
+            "45cf6390878b5512"
+          ],
+          "cover_path": "out/media/2026-10-21/product-01.jpg"
+        },
+        {
+          "headline": "Yelp 让 AI 替你打电话问餐厅排队",
+          "summary": "Yelp 在 App 中嵌入多项 AI 功能，可代用户致电餐厅查询等位时间，并按记忆中的偏好生成个性化推荐。",
+          "primary_url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+          "importance": 5,
+          "items": [
+            "0d4f3d88c3899f47"
+          ],
+          "cover_path": "out/media/2026-10-21/product-02.jpg"
+        },
+        {
+          "headline": "Cloudflare 推 Clairic：一次前向抽字段，比 LLM 又快又省",
+          "summary": "Cloudflare 在 Workers AI 上预览 Clairic 抽取模型，一次前向即返回带置信度的结构化字段，输入百万 token 仅 0.1 美元、输出不计费。",
+          "primary_url": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+          "importance": 5,
+          "items": [
+            "2a63804ea199b840",
+            "734fefd5caf4af4f"
+          ]
+        },
+        {
+          "headline": "Exa 3.0 搜索 API 上线，自评 8 项基准领先",
+          "summary": "Exa 升级到 3.0，换用更大 embedding 模型，新增 4 美元/千次的 Exa Lite 与 Dynamic Highlights，并在其自跑的 8 项基准上超过 Perplexity、Brave 与 Parallel。",
+          "primary_url": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
+          "importance": 5,
+          "items": [
+            "c4f8d492c90d7512"
+          ]
+        },
+        {
+          "headline": "给植物当翻译：AI 模型解读植物电信号",
+          "summary": "初创公司 Electric Plant 训练 AI 模型解析植物茎秆中微弱电流变化，试图把「植物语言」翻译给人类听。",
+          "primary_url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+          "importance": 4,
+          "items": [
+            "a6b970778a0c3518"
+          ],
+          "cover_path": "out/media/2026-10-21/product-05.jpg"
+        },
+        {
+          "headline": "Figma 联创：MCP 不是完美协议，但都会支持",
+          "summary": "Figma 联合创始人 Dylan Field 认为 MCP 并非完美协议，公司计划尽可能多地支持各类标准，同时避免把全部数据暴露出去。",
+          "primary_url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+          "importance": 4,
+          "items": [
+            "7e7b29e08636e8fa"
+          ],
+          "cover_path": "out/media/2026-10-21/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "美国下令联邦机构全面清除 DeepSeek 产品",
+          "summary": "美国政府以国家安全为由，要求联邦文职机构移除 DeepSeek 产品以及基于其技术构建的第三方服务，禁令范围超出直接使用。",
+          "primary_url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+          "importance": 8,
+          "items": [
+            "a3a23462b2488050",
+            "cde6b7acf0e21b30",
+            "8db24cbae456a1b9"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-00.jpg"
+        },
+        {
+          "headline": "Anthropic 推 AI 安全法案，被指实则限制监管",
+          "summary": "Anthropic 游说的法案名义上允许在模型可能致 50 人以上死亡时封禁，但规定联邦机构须获法官许可才能阻止模型发布，被批评为「假安全、真松绑」。",
+          "primary_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "importance": 7,
+          "items": [
+            "5c4e0c4afb4b2910"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-01.jpg"
+        },
+        {
+          "headline": "曝 Altman 设想三种 AI 安全终局，含熔掉别人 GPU",
+          "summary": "报道称 Sam Altman 曾向人描述 AI 安全的三种「终局」方案，其中一种是由单一公司把其他所有公司的 GPU 熔毁。",
+          "primary_url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
+          "importance": 6,
+          "items": [
+            "010f4f846484b57b"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-02.jpg"
+        },
+        {
+          "headline": "微软：AI Agent 就像内鬼，前沿模型不可信",
+          "summary": "微软安全团队把企业内使用的 AI Agent 类比为内部威胁，强调对不受 OpenAI、Anthropic 等实验室控制的系统要严加监控。",
+          "primary_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "importance": 6,
+          "items": [
+            "e7c20557a32fd327"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-03.jpg"
+        },
+        {
+          "headline": "27 家公司数据：AI 花销暴涨，交付变快了吗？",
+          "summary": "Pragmatic Engineer 分析 27 家公司的 AI 支出与研发产出数据，检验高昂投入是否真正转化为发布速度与 PR 数量。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+          "importance": 6,
+          "items": [
+            "618cb67b8469c25d"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-04.jpg"
+        },
+        {
+          "headline": "Hugging Face CEO：Netflix 那部 OpenAI 黑客纪录片不准确",
+          "summary": "Hugging Face 联创 Clem Delangue 称自己出镜的 Netflix 纪录片《AI Gone Rogue》「彻底末日化」、与事实不符，提醒观众别急着转发。",
+          "primary_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+          "importance": 5,
+          "items": [
+            "efb324f298d932ff"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-05.jpg"
+        },
+        {
+          "headline": "AI Agent 混进顶级互联网研究者邮件组，全场混乱",
+          "summary": "一个 AI Agent 加入 7500 人的互联网研究者邮件列表并触发 reply-all 风暴，暴露出连隐私专家也对当代 Agent 缺乏准备。",
+          "primary_url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+          "importance": 5,
+          "items": [
+            "77db03293e65dea2"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-06.jpg"
+        },
+        {
+          "headline": "企业 AI 的新经济学：从「尝鲜」走向「基础设施」",
+          "summary": "MIT Tech Review 类比电力普及史指出，企业 AI 正从少数场景试用转入全流程依赖，效率与成本结构将被迫重估。",
+          "primary_url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+          "importance": 5,
+          "items": [
+            "6a1003f6e34513d8"
+          ],
+          "cover_path": "out/media/2026-10-21/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "谷歌开源 TorchTPU、亚马逊推 TorchNeuron，合围 CUDA",
+          "summary": "谷歌联合 Meta 开源原生 PyTorch TPU 后端 TorchTPU，亚马逊则发布 TorchNeuron，帮 PyTorch 应用低成本迁出英伟达 GPU，两大云厂同一天对 CUDA 护城河动手。",
+          "primary_url": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
+          "importance": 7,
+          "items": [
+            "208bb6d927a1c065",
+            "11e1ad94dc9e81dc",
+            "31156a8984097dfb"
+          ]
+        },
+        {
+          "headline": "DeepSeek 开源 DeepInfer：V4.1-Flash 背后的推理引擎",
+          "summary": "DeepSeek 以 Apache 2.0 开源生产级推理框架 DeepInfer，同时适配英伟达 SM100 与华为昇腾 950，目前仅支持离线推理。",
+          "primary_url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+          "importance": 7,
+          "items": [
+            "b47449dde570efa8",
+            "0abf3466481fb862"
+          ]
+        },
+        {
+          "headline": "谷歌开源 Harness，支持 OpenCode 与 Codex 接入",
+          "summary": "谷歌开源 Harness 智能体框架，兼容 OpenCode、Codex 等主流编码 Agent，国内开发者实测接入效果。",
+          "primary_url": "https://www.infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q",
+          "importance": 5,
+          "items": [
+            "9cd129e4f5a29389"
+          ],
+          "cover_path": "out/media/2026-10-21/opensource-02.jpg"
+        },
+        {
+          "headline": "headroom：给 Agent 的工具输出「瘦身」省 token",
+          "summary": "headroom 在工具输出、日志、文件和 RAG 片段进入 LLM 前先做压缩，编码 Agent 省约 20% token、JSON 场景省 60–95%，答案不变，提供库、代理与 MCP server 三种形态。",
+          "primary_url": "https://github.com/headroomlabs-ai/headroom",
+          "importance": 4,
+          "items": [
+            "714ecf7e5a2ef360"
+          ],
+          "cover_path": "out/media/2026-10-21/opensource-03.jpg"
+        },
+        {
+          "headline": "AnyLanguageModel 1.0：苹果平台本地模型一周年",
+          "summary": "AnyLanguageModel 发布 1.0，总结一年来在 Apple 平台上跑本地模型的工程实践与统一接口。",
+          "primary_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "importance": 4,
+          "items": [
+            "108aa5230610f13b"
+          ],
+          "cover_path": "out/media/2026-10-21/opensource-04.jpg"
+        },
+        {
+          "headline": "开源 AI 渗透测试工具 strix 登上热榜",
+          "summary": "strix 是开源 AI 渗透测试工具，可自动发现并修复应用漏洞，在 GitHub 趋势榜走高。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 3,
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-10-21/opensource-05.jpg"
+        },
+        {
+          "headline": "CLI-Anything：让所有软件都变成 Agent 原生",
+          "summary": "港大团队开源 CLI-Anything，为各类命令行软件提供统一的 Agent 调用层，目标是让所有工具都能被 Agent 直接操作。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 3,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-10-21/opensource-06.jpg"
+        }
+      ]
+    }
+  ]
+}
