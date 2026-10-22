@@ -1,0 +1,475 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Recursive 发布 Flint：笔记本上的自我进化编码模型",
+          "summary": "Recursive 推出 Apache 2.0 开源的 40B MoE 本地编码模型 Flint，仅 2.5B 激活参数，SWE-bench Verified 达 74.2%，M4 Pro 上跑 125+ tok/s，且大部分由自家 AI 研究系统参与构建。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "items": [
+            "955dea94f47fd64e",
+            "b85fce983cc2ae5e",
+            "41b899278e4e9a51"
+          ],
+          "cover_path": "out/media/2026-10-22/model_release-00.jpg"
+        },
+        {
+          "headline": "MiniMax M3.1 Flash 拿下 Agent 国模第一，还便宜 88 倍",
+          "summary": "MiniMax 新版本在 Agent 类任务上冲到国产模型首位，官方称推理成本比 Claude Opus 5.5 低约 88 倍，多家中文媒体实测跟进。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK",
+          "items": [
+            "e90ff66550ba2885",
+            "f041be9df6f21418",
+            "eca042b430dc5050"
+          ],
+          "cover_path": "out/media/2026-10-22/model_release-01.jpg"
+        },
+        {
+          "headline": "Mistral 发布 Voxtral 3：转写+TTS+语音 Agent SDK",
+          "summary": "Mistral 一次放出 3 个转写模型、1 个 TTS 模型和基于 LiveKit 的语音 Agent SDK，Voxtral Small Transcribe 3 在 Artificial Analysis 上排名第三。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
+          "items": [
+            "79b2bf100f841bef"
+          ]
+        },
+        {
+          "headline": "Inception Mercury 3 用扩散模型叫板 GPT-6 Luna",
+          "summary": "Inception 声称其扩散式 Mercury 3 在多项任务上超过 GPT-6 Luna 与 Claude Haiku 5.5，而等待时间只有一小部分。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+          "items": [
+            "0cb3aa2bc3c5eaec"
+          ],
+          "cover_path": "out/media/2026-10-22/model_release-03.jpg"
+        },
+        {
+          "headline": "IBM Granite Speech 5.0：转写更快更准还能溯源",
+          "summary": "IBM 更新 Granite Speech 至 5.0，在转写、翻译与说话人/属性溯源准确性上提升，并加快推理速度。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "items": [
+            "ea8968fe3b7c8c88"
+          ],
+          "cover_path": "out/media/2026-10-22/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "AI 揪出 PHP 史诗级漏洞，半个互联网连夜打补丁",
+          "summary": "OpenAI 的 GPT-5.6 Sol 与 Google Gemini 4 Argon 在代码审计中发现影响数百万网站的关键 PHP 漏洞，PHP 基金会紧急发版，OpenAI 同步推出 Patch the Planet 协调披露机制。",
+          "importance": 9,
+          "primary_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "items": [
+            "4787b720db2130a3",
+            "cf873478f7778f53",
+            "75fba55a8b77dbe7"
+          ]
+        },
+        {
+          "headline": "OpenAI 新模型将登陆 Google Cloud，三家模型同台上架",
+          "summary": "Google Cloud 将在数周内提供 GPT-6.1 Astra、Sol 与 Luna，成为唯一同时上架 OpenAI、Gemini 和 Claude 的主流云厂商。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+          "items": [
+            "ab42f2927c759cb5",
+            "b2e82d9264a7a0cb"
+          ],
+          "cover_path": "out/media/2026-10-22/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 云合作陷僵局，IPO 前算力告急",
+          "summary": "报道称 Anthropic 在云厂商 increasingly 视其为竞争对手的情况下难以锁定足够算力，而基建支出在 11 月 IPO 前持续膨胀。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "items": [
+            "f1ffcd1fb07db6ce"
+          ],
+          "cover_path": "out/media/2026-10-22/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 收购 Orchestra Bio，为药物研发造 Agent",
+          "summary": "OpenAI 将 Orchestra Bio 团队与技术并入 Rosalind 生命科学模型及 Rosalind Workbench，用于加速实验设计与结果分析。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "items": [
+            "ac17f7c1391e194b",
+            "e5aa3eac202e6342"
+          ],
+          "cover_path": "out/media/2026-10-22/company-03.jpg"
+        },
+        {
+          "headline": "ChatGPT 广告扩至 26 国，10 万广告主已入场",
+          "summary": "OpenAI 将 ChatGPT 广告业务拓展到 26 个新国家，并详解其基于 LLM 的广告栈如何在理解对话意图的同时把广告与答案分离。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "items": [
+            "8b71b921d47ebccc",
+            "1cef8efc3489775c"
+          ]
+        },
+        {
+          "headline": "Meta 因隐私与内容审核被判罚 250 亿美元",
+          "summary": "美国新墨西哥州法院认定 Meta 在用户数据保护与仇恨言论审核上作误导性陈述逾 4300 万次，判令支付 250 亿美元民事罚款，为美国司法史上最高罚单之一。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/4036264077251456?f=rss",
+          "items": [
+            "b2b794ff7cfcecd3"
+          ]
+        },
+        {
+          "headline": "SpaceX AI 业务超预期，Q3 净赚 44 亿美元",
+          "summary": "SpaceX 第三季度实现盈利，净利润 44 亿美元，AI 业务被指是主要增长引擎。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "items": [
+            "c59dc6734e70a18d"
+          ],
+          "cover_path": "out/media/2026-10-22/company-06.jpg"
+        },
+        {
+          "headline": "估值 150 亿美元的医疗 AI，医生可能已在用",
+          "summary": "面向医生的广告驱动 AI 产品 OpenEvidence 快速扩张并达到 150 亿美元估值，但其答案准确性与广告模式仍受质疑。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+          "items": [
+            "c9db12dc61ad40b2"
+          ],
+          "cover_path": "out/media/2026-10-22/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Claude 从头设计蛋白结合体，中和致命蝎毒",
+          "summary": "Anthropic 的 Claude Science 针对蝎毒从头设计蛋白结合体，展示了通用模型在湿实验导向的分子设计上的可行性。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+          "items": [
+            "e2bbe20a53e2cd8c"
+          ],
+          "cover_path": "out/media/2026-10-22/research-00.jpg"
+        },
+        {
+          "headline": "把记忆焊进 Transformer：MemT 1.0 补齐 RSI 拼图",
+          "summary": "MemT 1.0 提出记忆原生的 Transformer 改造方案，从模型层而非外挂检索解决长程记忆，被视为递归自我改进路线的一块关键拼图。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/10/504456.html",
+          "items": [
+            "a429a4a99c69ba89"
+          ],
+          "cover_path": "out/media/2026-10-22/research-01.jpg"
+        },
+        {
+          "headline": "NVIDIA Kumo：关系型数据免训练即超越监督学习",
+          "summary": "NVIDIA 发布 Kumo Relational，在关系型数据上无需训练即优于监督式机器学习基线，指向新的表格/关系数据范式。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "items": [
+            "ad033c086d556558"
+          ],
+          "cover_path": "out/media/2026-10-22/research-02.jpg"
+        },
+        {
+          "headline": "不靠前沿模型，记忆学习也能登顶 τ²-bench",
+          "summary": "IBM Research 的 ALTK-Evolve 通过可学习记忆机制，在客服任务基准 τ²-bench 上超过依赖前沿模型的方案。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "items": [
+            "b734b129f6e843bf"
+          ],
+          "cover_path": "out/media/2026-10-22/research-03.jpg"
+        },
+        {
+          "headline": "FairStress：更严格地评测 LLM 决策公平性",
+          "summary": "Allen AI 推出 FairStress 评测框架，对 LLM 在压力情境下的决策公平性做更深层检验，弥补现有基准的盲区。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/allenai/fairstress",
+          "items": [
+            "09b04101d1dd5cb1"
+          ],
+          "cover_path": "out/media/2026-10-22/research-04.jpg"
+        },
+        {
+          "headline": "MindView：给多视图空间智能立新基准",
+          "summary": "新论文提出 MindView 基准，评测模型能否从部分多视图观测生成空间一致的视角，填补生成式空间智能评测空白。",
+          "importance": 3,
+          "primary_url": "http://arxiv.org/abs/2610.28622v1",
+          "items": [
+            "a3b88408d422662f"
+          ],
+          "cover_path": "out/media/2026-10-22/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Meta Muse 40 天千万下载，购物成主力场景",
+          "summary": "Meta 称 Muse 用户已超 1000 万，其中购物与个人生产力是主要用途，留存率也高于同类 AI 应用。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+          "items": [
+            "548ed61d570e6078",
+            "1124ec54adbff789"
+          ],
+          "cover_path": "out/media/2026-10-22/product-00.jpg"
+        },
+        {
+          "headline": "Amazon 封杀 AI 代理，Walmart 却开门迎客",
+          "summary": "Walmart 上线新机制允许 AI Agent 代用户在站内完成下单，并提供预算与交易审批控制，与 Amazon 的封禁策略形成对照。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+          "items": [
+            "775722aeedb08460"
+          ],
+          "cover_path": "out/media/2026-10-22/product-01.jpg"
+        },
+        {
+          "headline": "Gemini 个人智能开进汽车",
+          "summary": "Google 将 Gemini 的 Personal Intelligence 能力延伸到车机场景，用户在车内即可调用个性化上下文，同时也该顺手检查一下授权设置。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+          "items": [
+            "c7da5e5c42126204"
+          ],
+          "cover_path": "out/media/2026-10-22/product-02.jpg"
+        },
+        {
+          "headline": "ChatGPT 可锁定聊天，借手机给别人不怕被翻",
+          "summary": "ChatGPT 新增对话锁定功能，用于存放私人话题或惊喜计划，把设备递给他人时不会被随手翻到。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+          "items": [
+            "45cf6390878b5512"
+          ],
+          "cover_path": "out/media/2026-10-22/product-03.jpg"
+        },
+        {
+          "headline": "Claude Mods：把 Agent 外壳翻向人类",
+          "summary": "Latent Space 解析 Claude Mods 这一早期「注意力界面」形态，Agent 的操控层从面向机器转为面向人。",
+          "importance": 5,
+          "primary_url": "https://www.latent.space/p/claude-mods",
+          "items": [
+            "62e5997ab705f550"
+          ],
+          "cover_path": "out/media/2026-10-22/product-04.jpg"
+        },
+        {
+          "headline": "COBOL 迁移准确率从 5.4% 飙到 97.9%",
+          "summary": "OpenAI 公布针对 COBOL 老系统的代码迁移方案，准确率大幅跃升，引发「几十年遗留系统能否交给 AI」的讨论。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk",
+          "items": [
+            "4aefa73300f0b583"
+          ],
+          "cover_path": "out/media/2026-10-22/product-05.jpg"
+        },
+        {
+          "headline": "AT&T 用 OpenAI 重构法务工作流",
+          "summary": "AT&T 的 LegalEdge 团队借助 OpenAI 让法律知识更易获取，重做需求受理与判断流转，成为企业法务落地样本。",
+          "importance": 5,
+          "primary_url": "https://openai.com/index/att-legal",
+          "items": [
+            "a3c14414589a188f"
+          ]
+        },
+        {
+          "headline": "美团企业级 Agent 的平台化落地实践",
+          "summary": "美团在 QCon 上海分享其企业级 Agent 平台化路径，覆盖内部多业务场景的构建、治理与复用。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB",
+          "items": [
+            "5186d076c55a7b7f"
+          ],
+          "cover_path": "out/media/2026-10-22/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Hassabis 改口：AGI 只需 2–3 年",
+          "summary": "DeepMind 创始人 Demis Hassabis 把 AGI 时间线从此前的五年缩短到两到三年，成为最新一位下调预期的顶级研究者。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
+          "items": [
+            "4e490a47b7d05d3d"
+          ],
+          "cover_path": "out/media/2026-10-22/opinion-00.jpg"
+        },
+        {
+          "headline": "Anthropic 推安全法案：可能致死 50 人就拦模型",
+          "summary": "Anthropic 提出的 AI 安全立法草案名为防护，实则要求联邦机构须获法官许可才能阻止模型发布，引发监管套利质疑。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "items": [
+            "5c4e0c4afb4b2910"
+          ],
+          "cover_path": "out/media/2026-10-22/opinion-01.jpg"
+        },
+        {
+          "headline": "OpenAI 收紧分发：模型路由与网关须先报批",
+          "summary": "OpenAI 更新使用政策（11 月 20 日生效），要求模型路由器与 AI 网关在提供直接模型访问前须经其审查批准，并落实一致的安全保障。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "items": [
+            "4dd8ec9d5e85a4f7",
+            "4a063c0b28c268f9"
+          ]
+        },
+        {
+          "headline": "27 家公司数据：工程师的 AI 花得值吗？",
+          "summary": "Pragmatic Engineer 统计 27 家企业的 AI 支出与产出，检验烧钱是否真的换来更快的交付速度与 PR 数量。",
+          "importance": 6,
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+          "items": [
+            "618cb67b8469c25d"
+          ],
+          "cover_path": "out/media/2026-10-22/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 护栏拦不住真正的黑客",
+          "summary": "Wired 调查显示，全球黑客正大规模使用 Agentic AI 发动攻击，并绕过 Claude 等模型的安全限制。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+          "items": [
+            "4b2d06bb495cc537"
+          ],
+          "cover_path": "out/media/2026-10-22/opinion-04.jpg"
+        },
+        {
+          "headline": "MIT 科技评论：企业 AI 的新经济学",
+          "summary": "文章以「公司突然发现电」作比，讨论当 AI 成为基础设施后，企业成本结构与流程效率将如何被重新定价。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+          "items": [
+            "6a1003f6e34513d8"
+          ],
+          "cover_path": "out/media/2026-10-22/opinion-05.jpg"
+        },
+        {
+          "headline": "一个 AI Agent 混进互联网研究者邮件列表",
+          "summary": "一个 AI Agent 加入 7500 人的互联网研究者 Listserv 后触发连锁 reply-all，暴露出专家群体对隐私的过时假设。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+          "items": [
+            "77db03293e65dea2"
+          ],
+          "cover_path": "out/media/2026-10-22/opinion-06.jpg"
+        },
+        {
+          "headline": "中国抗议美国封杀 DeepSeek，国内仍在屏蔽三家",
+          "summary": "美方对 DeepSeek 的限制引发中方抗议，而 ChatGPT、Claude、Gemini 在中国境内仍不可用，双方监管口径形成鲜明反差。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+          "items": [
+            "2dd7bc1c924ab111"
+          ],
+          "cover_path": "out/media/2026-10-22/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "DeepSeek 开源 DeepInfer：单集群日吞 155 万亿 token",
+          "summary": "DeepSeek 以 Apache 2.0 开源生产级推理框架 DeepInfer，单集群日吞吐 155 万亿 token、KVCache 可保留 7 天，官方测算日入 2200 万美元、约 80% 毛利。",
+          "importance": 8,
+          "primary_url": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf",
+          "items": [
+            "9dc1c624156fa498",
+            "93dade490babe592",
+            "b47449dde570efa8"
+          ],
+          "cover_path": "out/media/2026-10-22/opensource-00.jpg"
+        },
+        {
+          "headline": "Google 开源 TorchTPU，PyTorch 原生跑上 TPU",
+          "summary": "Google 与 Meta 开源原生 PyTorch 的 Cloud TPU 后端 TorchTPU，取代 PyTorch/XLA，被视为对 Nvidia GPU 生态护城河的正面冲击。",
+          "importance": 7,
+          "primary_url": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
+          "items": [
+            "208bb6d927a1c065",
+            "09f54f4006366054"
+          ]
+        },
+        {
+          "headline": "llm-d 1.0 发布：K8s 原生分布式推理栈",
+          "summary": "Google、Red Hat 与 IBM 联合发布 llm-d 1.0，加入多租户流控、零停机升级与面向 Agent 的路由，统一调度 vLLM、SGLang、TPU 与 GPU。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+          "items": [
+            "0089f8df53487b2c"
+          ]
+        },
+        {
+          "headline": "Cloudflare 开源 Agent 决策模型 Clef",
+          "summary": "Cloudflare 开源面向 AI 智能体的决策模型 Clef，用于在自动化流程中做可控、可审计的判断。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb",
+          "items": [
+            "8d96c216e412d556"
+          ],
+          "cover_path": "out/media/2026-10-22/opensource-03.jpg"
+        },
+        {
+          "headline": "Vercel 开源 durable-harness，崩溃后 Agent 续跑",
+          "summary": "durable-harness 记录每次模型与工具调用，让 Pi、OpenCode、Claude Code、Codex 的会话在崩溃、超时或重新部署后继续。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+          "items": [
+            "5c532abb13420177"
+          ]
+        },
+        {
+          "headline": "orca：一个桌面端管住一支 Agent 舰队",
+          "summary": "stablyai 开源 orca，可用自己的订阅在桌面、移动与远程运行时统一调度 Grok Bot、Claude Code 等多路编码 Agent。",
+          "importance": 4,
+          "primary_url": "https://github.com/stablyai/orca",
+          "items": [
+            "f566bf16b9f81a71"
+          ],
+          "cover_path": "out/media/2026-10-22/opensource-05.jpg"
+        },
+        {
+          "headline": "headroom：送给 LLM 之前先把 token 压干",
+          "summary": "headroom 在工具输出、日志、文件与 RAG 片段进入模型前做压缩，编码 Agent 省约 20% token，JSON 场景省 60–95%。",
+          "importance": 4,
+          "primary_url": "https://github.com/headroomlabs-ai/headroom",
+          "items": [
+            "714ecf7e5a2ef360"
+          ],
+          "cover_path": "out/media/2026-10-22/opensource-06.jpg"
+        },
+        {
+          "headline": "Anthropic 开源知识工作插件库",
+          "summary": "anthropics/knowledge-work-plugins 提供一批面向知识工作者的插件，把 Claude Cowork 变成特定岗位与团队的专业助手。",
+          "importance": 4,
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "items": [
+            "a324b35db27f7178"
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-22"
+}
