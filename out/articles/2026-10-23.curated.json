@@ -1,0 +1,511 @@
+{
+  "date": "2026-10-23",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI开放决策API：GPT-6 Luna驱动",
+          "summary": "OpenAI将决策API全面开放，由GPT-6 Luna驱动，输入每百万token收费0.10美元起；TechCrunch称其正面对标Jev。",
+          "importance": 9,
+          "primary_url": "https://openai.com/index/decisions-api",
+          "items": [
+            "a7b342f417d3b1c1",
+            "da061f880de172c2",
+            "360e96996ed129d6"
+          ]
+        },
+        {
+          "headline": "Recursive发布Flint：40B本地编码模型",
+          "summary": "Recursive发布Apache 2.0的40B MoE本地编码模型，激活参数2.5B，SWE-bench Verified达74.2%，主打笔记本可跑。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "items": [
+            "955dea94f47fd64e",
+            "41b899278e4e9a51",
+            "b85fce983cc2ae5e"
+          ],
+          "cover_path": "out/media/2026-10-23/model_release-01.jpg"
+        },
+        {
+          "headline": "科大讯飞发布端云一体星火X2.6",
+          "summary": "科大讯飞发布端云一体星火X2.6，端侧4B与云端能力同步升级，并推出语音基座大模型SparkAudio 1.0。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/4037663623074689?f=rss",
+          "items": [
+            "a233f5f47b21f888"
+          ]
+        },
+        {
+          "headline": "蚂蚁数科发布决策模型LingDT",
+          "summary": "蚂蚁数科发布LingDT-Decision-1.0，提供4B和27B两版，称在23项开源基测上超过微软与Jev等决策模型。",
+          "importance": 7,
+          "primary_url": "https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html",
+          "items": [
+            "59c6973f6c6edafa",
+            "5aa72bef80f67aa4"
+          ]
+        },
+        {
+          "headline": "Canva推出首款自研图像生成模型",
+          "summary": "Canva发布首款自研图像生成模型并向所有用户开放，强调更强可定制性与更低成本。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "items": [
+            "90cbda64c8f900d9"
+          ],
+          "cover_path": "out/media/2026-10-23/model_release-04.jpg"
+        },
+        {
+          "headline": "IBM开源Granite Speech 5.0语音模型",
+          "summary": "IBM以Apache 2.0开源Granite Speech 5.0 2B，Open ASR榜第二，平均英文WER为5.68%。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "items": [
+            "ea8968fe3b7c8c88",
+            "c7adcd702aa6fb08"
+          ],
+          "cover_path": "out/media/2026-10-23/model_release-05.jpg"
+        },
+        {
+          "headline": "中电信开源星辰意图理解模型",
+          "summary": "中电信人工智能公司开源Xing4.0-29B-Intent意图理解专用模型，兼顾选择题与填空题式任务。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/10/504832.html",
+          "items": [
+            "bc2cace81ee7004b"
+          ],
+          "cover_path": "out/media/2026-10-23/model_release-06.jpg"
+        },
+        {
+          "headline": "Cohere发布Rerank 5重排序模型",
+          "summary": "Cohere发布Rerank 5，Pro与Fast两档、32K上下文，加入段落级Context Focus与校准相关性分数。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/",
+          "items": [
+            "3e1f5a07cf1bcc4a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI传以1.25万亿美元估值融资300亿",
+          "summary": "OpenAI正推进300亿美元新融资，估值或达1.25万亿美元，并筹备IPO；若成真将刷新最大私营公司估值纪录。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "items": [
+            "e123e666cf18c1ae"
+          ],
+          "cover_path": "out/media/2026-10-23/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI模型登陆Google Cloud，三巨头同台",
+          "summary": "GPT-6.1 Astra、Sol、Luna将在数周内登陆Google Cloud与Antigravity，Google Cloud成为同时提供OpenAI、Gemini、Claude的云平台。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+          "items": [
+            "ab42f2927c759cb5",
+            "b2e82d9264a7a0cb"
+          ],
+          "cover_path": "out/media/2026-10-23/company-01.jpg"
+        },
+        {
+          "headline": "DeepSeek被曝融资150亿美元",
+          "summary": "DeepSeek据报完成150亿美元融资，距美国联邦机构被要求移除其技术仅数日，属中国最大融资轮之一。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "items": [
+            "b68aaf4d05544df6"
+          ],
+          "cover_path": "out/media/2026-10-23/company-02.jpg"
+        },
+        {
+          "headline": "Meta发新股为AI扩张融资，绑定扎克伯格",
+          "summary": "Meta计划创设新股票类别为AI基建融资，并以新协议给扎克伯格财务激励，换取其留在加州。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+          "items": [
+            "a54cd7f368208796",
+            "8c5cc791d675af9b"
+          ],
+          "cover_path": "out/media/2026-10-23/company-03.jpg"
+        },
+        {
+          "headline": "ChatGPT广告扩至26国，广告主破10万",
+          "summary": "ChatGPT广告扩展至26个新国家，已有超过10万广告主使用，推动对话内购物决策变现。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "items": [
+            "8b71b921d47ebccc"
+          ]
+        },
+        {
+          "headline": "巴克莱借AI裁员5000人",
+          "summary": "巴克莱拟裁员5000人、约占员工总数5%，借助AI降低支持职能与开发成本。",
+          "importance": 6,
+          "primary_url": "https://36kr.com/newsflashes/4037207118091141?f=rss",
+          "items": [
+            "5a47af2f74af17e8"
+          ]
+        },
+        {
+          "headline": "Blacksmith获6600万美元C轮，估值10亿",
+          "summary": "AI代码构建与测试平台Blacksmith获Sequoia领投6600万美元C轮，估值达10亿美元。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+          "items": [
+            "68d9510f7697ef87"
+          ],
+          "cover_path": "out/media/2026-10-23/company-06.jpg"
+        },
+        {
+          "headline": "PingCAP遭10.6TB数据泄露",
+          "summary": "PingCAP遭大规模数据泄露，黑客声称窃取10.6TB数据、涉及18万条组织记录。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&utm_medium=article",
+          "items": [
+            "0cbd68c95c2f371d"
+          ],
+          "cover_path": "out/media/2026-10-23/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic推出常驻智能体Claude Duet",
+          "summary": "Anthropic推出常驻智能体Claude Duet，Pro/Max用户可排队试用，直接对标Grok Bot、Meta Muse与OpenAI Dots。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "items": [
+            "ec80fdc791df735d",
+            "704e74601ea51132",
+            "d53842e95a4cbf3e"
+          ],
+          "cover_path": "out/media/2026-10-23/product-00.jpg"
+        },
+        {
+          "headline": "Uber全员3万人部署ChatGPT Work",
+          "summary": "Uber将ChatGPT Work推广至3万余名员工，用于研究、数据分析、制作演示和复杂工作流。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "items": [
+            "ce327d20905fc896",
+            "5e533dbf544a43ce"
+          ]
+        },
+        {
+          "headline": "Meta Muse用户破千万，分享漏洞暂停功能",
+          "summary": "Meta称AI应用Muse用户已破1000万，购物是主要场景；但分享链接设计漏洞曾暴露私密对话，相关功能已暂停。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+          "items": [
+            "548ed61d570e6078",
+            "9033841f5776c2d2"
+          ],
+          "cover_path": "out/media/2026-10-23/product-02.jpg"
+        },
+        {
+          "headline": "1Password让AI代理代登录但不看密码",
+          "summary": "1Password新功能允许AI代理代用户登录账户，同时不向代理暴露密码等私密凭据。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "items": [
+            "bedcf9b640559f35"
+          ],
+          "cover_path": "out/media/2026-10-23/product-03.jpg"
+        },
+        {
+          "headline": "沃尔玛开放AI代理代购，亚马逊封堵",
+          "summary": "沃尔玛开放AI代理代顾客下单，并提供支出与审批控制；亚马逊则选择封堵代理购物。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+          "items": [
+            "775722aeedb08460"
+          ],
+          "cover_path": "out/media/2026-10-23/product-04.jpg"
+        },
+        {
+          "headline": "谷歌为每个Gemini代理配独立微VM",
+          "summary": "Google的Agent Compute Engine为每个Gemini代理分配硬件隔离的微型虚拟机，提升多代理运行安全与隔离性。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+          "items": [
+            "df8b0707c7de1625"
+          ],
+          "cover_path": "out/media/2026-10-23/product-05.jpg"
+        },
+        {
+          "headline": "豆包工作上线IGA Pages插件",
+          "summary": "豆包工作上线IGA Pages插件，用户一句话即可生成可分享、可共创的网页。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&utm_medium=article",
+          "items": [
+            "ed33a8d1a6d100d3"
+          ],
+          "cover_path": "out/media/2026-10-23/product-06.jpg"
+        },
+        {
+          "headline": "火山引擎Seedance 2.5 4K定向试用",
+          "summary": "火山引擎启动Seedance 2.5 4K首批企业试用，定向供应全球20家工作室和导演，瞄准大银幕需求。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/mqvYMpYMxjNyoBAJ.html",
+          "items": [
+            "72bfbf17d2ce442e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "微软AI诊断在疑难病例上超过医生",
+          "summary": "微软新AI诊断系统在Science研究中于疑难病例上胜过全科医生，但提升主要来自底层模型而非系统本身。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+          "items": [
+            "adfd68a17587531f"
+          ],
+          "cover_path": "out/media/2026-10-23/research-00.jpg"
+        },
+        {
+          "headline": "OpenAI智能体32分钟完成鼠脑分析",
+          "summary": "OpenAI智能体32分钟完成小鼠脑数据分析，相当于人类数月工作量，展示科研自动化潜力。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
+          "items": [
+            "ed96c3d96ab5f5a5"
+          ],
+          "cover_path": "out/media/2026-10-23/research-01.jpg"
+        },
+        {
+          "headline": "Hugging Face开源DNA对话模型",
+          "summary": "Hugging Face发布开源DNA生物模型，可用对话方式分析基因变异对基因活性和健康的影响。",
+          "importance": 7,
+          "primary_url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+          "items": [
+            "1c3a28e7b5062c3a"
+          ],
+          "cover_path": "out/media/2026-10-23/research-02.jpg"
+        },
+        {
+          "headline": "Perplexity与英伟达提出JOLT训练法",
+          "summary": "Perplexity与英伟达提出JOLT，让同一模型兼作教师与学生，在MATH上以6.5倍更少训练token追平GRPO。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+          "items": [
+            "cc8963643b5c7028"
+          ]
+        },
+        {
+          "headline": "AI2发布OlmoEarth v1.3地球嵌入",
+          "summary": "AI2发布OlmoEarth v1.3，提供面向全球尺度地球观测的SOTA嵌入表示。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "items": [
+            "880bd88fcb2cc5b8"
+          ],
+          "cover_path": "out/media/2026-10-23/research-04.jpg"
+        },
+        {
+          "headline": "SWECraft：模拟软件世界研究智能体协作",
+          "summary": "论文提出SWECraft，用模拟软件世界研究大规模智能体协作，探索推理时计算的新扩展维度。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2610.24061v2",
+          "items": [
+            "6e4e7509a19668cf"
+          ],
+          "cover_path": "out/media/2026-10-23/research-05.jpg"
+        },
+        {
+          "headline": "Quant-Arena：量化交易LLM Agent基准",
+          "summary": "Quant-Arena提出面向量化交易研究的LLM Agent基准，覆盖假设、实现、回测与取舍全流程。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2610.30113v1",
+          "items": [
+            "e272993d6e951e04"
+          ],
+          "cover_path": "out/media/2026-10-23/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI揪出PHP致命漏洞，互联网紧急打补丁",
+          "summary": "OpenAI GPT-5.6 Sol与谷歌Gemini 4 Argon/Wiz发现PHP2Shell关键漏洞，影响数百万网站，且攻击者在补丁前已开始利用。",
+          "importance": 9,
+          "primary_url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+          "items": [
+            "cf873478f7778f53",
+            "4787b720db2130a3",
+            "75fba55a8b77dbe7"
+          ],
+          "cover_path": "out/media/2026-10-23/opinion-00.jpg"
+        },
+        {
+          "headline": "Hassabis把AGI时间表缩短到2-3年",
+          "summary": "DeepMind创始人Hassabis将AGI时间表从五年缩短至两到三年，引发对能力与安全节奏的新讨论。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
+          "items": [
+            "4e490a47b7d05d3d"
+          ],
+          "cover_path": "out/media/2026-10-23/opinion-01.jpg"
+        },
+        {
+          "headline": "Gartner：仅13%企业从AI获得真实回报",
+          "summary": "Gartner调查显示仅13%企业从AI获得真实回报，多数仍停留在试点与工具层。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
+          "items": [
+            "f2f573e418b45c70"
+          ],
+          "cover_path": "out/media/2026-10-23/opinion-02.jpg"
+        },
+        {
+          "headline": "AI护栏挡不住犯罪黑客",
+          "summary": "Wired调查称全球黑客正大规模使用智能体AI发动攻击，现有模型护栏难以阻止犯罪滥用。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+          "items": [
+            "4b2d06bb495cc537"
+          ],
+          "cover_path": "out/media/2026-10-23/opinion-03.jpg"
+        },
+        {
+          "headline": "AI时代该重写软件安全规则了吗",
+          "summary": "Pragmatic Engineer盘点一天内多起重大安全事件，讨论AI是否迫使软件安全规则重写，并提及Anthropic版本控制争议。",
+          "importance": 6,
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+          "items": [
+            "d097f7ca8f0de40d"
+          ],
+          "cover_path": "out/media/2026-10-23/opinion-04.jpg"
+        },
+        {
+          "headline": "黑石：AI基建债务担忧被夸大",
+          "summary": "黑石AI负责人称市场对AI基建债务的担忧被夸大，私募仍看好算力资产现金流。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "items": [
+            "32ce08d112128583"
+          ],
+          "cover_path": "out/media/2026-10-23/opinion-05.jpg"
+        },
+        {
+          "headline": "调查：AI让管理者更难评估绩效",
+          "summary": "调查显示超过50%管理者称采用AI后更难评估员工工作，生产力承诺先变成管理难题。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+          "items": [
+            "9a67c9cdd6a16490"
+          ],
+          "cover_path": "out/media/2026-10-23/opinion-06.jpg"
+        },
+        {
+          "headline": "OpenAI详解FDE：前置工程师做什么",
+          "summary": "OpenAI解释FDE前置部署工程师角色，说明AI项目落地为何需要工程与业务深度协同。",
+          "importance": 5,
+          "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
+          "items": [
+            "07c22a054915b204"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic捐赠Agent Skills标准",
+          "summary": "Anthropic将Agent Skills捐赠给Agentic AI Foundation，推动智能体技能格式与生态标准化。",
+          "importance": 7,
+          "primary_url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "items": [
+            "584d216cbc93db31"
+          ],
+          "cover_path": "out/media/2026-10-23/opensource-00.jpg"
+        },
+        {
+          "headline": "Vercel开源durable-harness",
+          "summary": "Vercel开源durable-harness，记录模型与工具调用，让编码智能体在崩溃、超时和重部署后恢复会话。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+          "items": [
+            "5c532abb13420177"
+          ]
+        },
+        {
+          "headline": "Cloudflare开源安全审计Agent技能",
+          "summary": "Cloudflare开源security-audit-skill，让编码智能体执行多阶段安全审计并输出可验证的机器可读结果。",
+          "importance": 6,
+          "primary_url": "https://github.com/cloudflare/security-audit-skill",
+          "items": [
+            "ec0bbc123c3d2a44"
+          ],
+          "cover_path": "out/media/2026-10-23/opensource-02.jpg"
+        },
+        {
+          "headline": "Gradium开源31M端侧TTS模型",
+          "summary": "Gradium以Apache 2.0开源31M参数端侧TTS模型Phonon，64.5MB、笔记本CPU约7ms起播。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
+          "items": [
+            "c788e4208cb2ccfa"
+          ]
+        },
+        {
+          "headline": "Anthropic开源知识工作插件库",
+          "summary": "Anthropic开源knowledge-work-plugins，为Claude Cowork提供面向知识工作者的角色化插件。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-10-23/opensource-04.jpg"
+        },
+        {
+          "headline": "Headroom：给Agent上下文压缩瘦身",
+          "summary": "Headroom开源上下文压缩工具，可在进入LLM前压缩工具输出、日志、文件和RAG块，JSON场景省60-95% token。",
+          "importance": 5,
+          "primary_url": "https://github.com/headroomlabs-ai/headroom",
+          "items": [
+            "714ecf7e5a2ef360"
+          ]
+        },
+        {
+          "headline": "Strix开源AI渗透测试工具",
+          "summary": "Strix开源AI渗透测试工具，自动发现并修复应用漏洞。",
+          "importance": 5,
+          "primary_url": "https://github.com/usestrix/strix",
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-10-23/opensource-06.jpg"
+        },
+        {
+          "headline": "OmniVoice开源600语种声音克隆",
+          "summary": "OmniVoice开源高质量声音克隆TTS，支持600多种语言。",
+          "importance": 5,
+          "primary_url": "https://github.com/k2-fsa/OmniVoice",
+          "items": [
+            "4a28e6543d3e07e5"
+          ]
+        }
+      ]
+    }
+  ]
+}
