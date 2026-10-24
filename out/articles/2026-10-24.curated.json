@@ -1,0 +1,475 @@
+{
+  "date": "2026-10-24",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Kimi K3.1 Pro 发布：2.8T MoE、1M 上下文",
+          "summary": "Moonshot AI 发布 Kimi K3.1 Pro，2.8T 总参数/104B 激活的 MoE 模型，支持 1M token 上下文，Terminal-Bench 4.0 得分 65.7%，开放权重预计 11 月 4 日。",
+          "primary_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "importance": 9,
+          "items": [
+            "b27c13eb8a3b5e3e",
+            "6af5529edec8ea56",
+            "6366394b3f78ba17"
+          ],
+          "cover_path": "out/media/2026-10-24/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI 开放 Decisions API，决策模型竞争升温",
+          "summary": "OpenAI 推出面向低延迟、低成本决策的 Decisions API，被视作对 Jev 等决策模型的正面竞争。",
+          "primary_url": "https://openai.com/index/decisions-api",
+          "importance": 7,
+          "items": [
+            "a7b342f417d3b1c1",
+            "da061f880de172c2"
+          ]
+        },
+        {
+          "headline": "Canva 发布首个自研图像生成模型 Craft",
+          "summary": "Canva 推出首款自研图像模型 Craft，向所有用户开放，主打更强可定制性与更低成本。",
+          "primary_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "importance": 7,
+          "items": [
+            "90cbda64c8f900d9",
+            "0c4fd5bc815ba2f0"
+          ],
+          "cover_path": "out/media/2026-10-24/model_release-02.jpg"
+        },
+        {
+          "headline": "讯飞发布端到端交互模型，端侧达约七成云端能力",
+          "summary": "科大讯飞推出新一代端到端交互模型，称语音大模型调用量暴涨 20 倍，端侧已实现约 70% 的云端能力。",
+          "primary_url": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg",
+          "importance": 6,
+          "items": [
+            "c6ad0f511ba93d23"
+          ],
+          "cover_path": "out/media/2026-10-24/model_release-03.jpg"
+        },
+        {
+          "headline": "Cohere 发布 Rerank 5：32K 上下文、段落级聚焦",
+          "summary": "Cohere Rerank 5 分为 Pro/Fast 两档，支持 32K 上下文与段落级 Context Focus，Pro 在 BRIGHT 得分 82.2。",
+          "primary_url": "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/",
+          "importance": 5,
+          "items": [
+            "3e1f5a07cf1bcc4a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 拟融资至多 300 亿美元，估值约 1.25 万亿美元",
+          "summary": "OpenAI 正推进新一轮最高 300 亿美元融资，估值目标约 1.25 万亿美元，若成将刷新私有公司估值纪录并为 IPO 铺路。",
+          "primary_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "importance": 9,
+          "items": [
+            "e123e666cf18c1ae",
+            "31b31fb050e8e13a",
+            "0cb95e704d878f16"
+          ],
+          "cover_path": "out/media/2026-10-24/company-00.jpg"
+        },
+        {
+          "headline": "DeepSeek 完成近千亿元融资，产业资本押注具身智能",
+          "summary": "DeepSeek 据报完成约 150 亿美元/近千亿元人民币融资，宁德时代、腾讯等产业资本参投，资金将加码具身智能。",
+          "primary_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "importance": 9,
+          "items": [
+            "b68aaf4d05544df6",
+            "2961a3ccee498263",
+            "1191f0619858daad"
+          ],
+          "cover_path": "out/media/2026-10-24/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 停止用实时互联网训练模型，称存在重大风险",
+          "summary": "OpenAI 表示将不再让前沿模型直接接入实时互联网训练，理由是存在显著风险；此举距内部工程师称该方案不可行仅数周。",
+          "primary_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "importance": 8,
+          "items": [
+            "1fbe814e6f810540"
+          ],
+          "cover_path": "out/media/2026-10-24/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 与波兰 NASK 合作推进 AI 安全",
+          "summary": "OpenAI 与波兰 NASK 达成合作，围绕 AI 安全、安保与技术研究强化防护，提升数字生态韧性。",
+          "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "importance": 6,
+          "items": [
+            "48c74d8e9b20e29d"
+          ]
+        },
+        {
+          "headline": "Anthropic 联手 Hg 设立欧洲 AI 咨询公司",
+          "summary": "Anthropic 与私募股权公司 Hg 达成协议，将成立独立欧洲 AI 咨询机构，向企业派驻顾问与工程师。",
+          "primary_url": "https://36kr.com/newsflashes/4038421921551497?f=rss",
+          "importance": 6,
+          "items": [
+            "8cc3b738e18e1ec5"
+          ]
+        },
+        {
+          "headline": "亿铸科技融资超 10 亿元，加速存算一体芯片落地",
+          "summary": "国内通用存算一体 AI 大算力芯片公司亿铸科技完成 10 亿元以上融资，推进 GP-IMC 架构产业化。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html",
+          "importance": 6,
+          "items": [
+            "1e5b529a8d9bd2dc"
+          ]
+        },
+        {
+          "headline": "Bolt 与 Stellantis 拟 2028 年在巴黎测试 Robotaxi",
+          "summary": "Bolt 与 Stellantis 计划向欧盟提交试点，2028 年起在大巴黎地区测试自动驾驶出行，2030 年扩展到约 30 个市镇。",
+          "primary_url": "https://36kr.com/newsflashes/4038417540371337?f=rss",
+          "importance": 5,
+          "items": [
+            "2f234dd8926d3f12"
+          ]
+        },
+        {
+          "headline": "inDrive 联合小马智行、英伟达 2027 年测试 Robotaxi",
+          "summary": "inDrive 计划 2027 年上半年在哈萨克斯坦首都测试小马智行 Robotaxi，并由英伟达提供算力支持。",
+          "primary_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "importance": 5,
+          "items": [
+            "9e505f1c07954b85"
+          ],
+          "cover_path": "out/media/2026-10-24/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "TorchTPU：Google 与 Meta 让 PyTorch 原生跑上 TPU",
+          "summary": "一篇论文介绍 Google 与 Meta 合作的 TorchTPU 混合即时/编译架构，可在 TPU 上原生执行 PyTorch 模型并支持迁移。",
+          "primary_url": "http://arxiv.org/abs/2610.24161v3",
+          "importance": 5,
+          "items": [
+            "6fd6138780394659"
+          ],
+          "cover_path": "out/media/2026-10-24/research-00.jpg"
+        },
+        {
+          "headline": "谁在谄媚谁？研究揭示人类对自信 LLM 的盲从",
+          "summary": "研究发现当 LLM 表现自信、一致但错误时，用户会向模型让步，导致信任校准崩塌。",
+          "primary_url": "http://arxiv.org/abs/2610.31579v1",
+          "importance": 5,
+          "items": [
+            "d1e9221960f32f77"
+          ],
+          "cover_path": "out/media/2026-10-24/research-01.jpg"
+        },
+        {
+          "headline": "OLMo-3 检查点证据：RLVR 未必导致工具性趋同",
+          "summary": "研究用 OLMo-3 检查点检验 RLVR 是否诱发自保、资源获取等权力寻求子目标，对“工具性趋同”提出质疑。",
+          "primary_url": "http://arxiv.org/abs/2610.31624v1",
+          "importance": 4,
+          "items": [
+            "f6bc419aed3e67d5"
+          ],
+          "cover_path": "out/media/2026-10-24/research-02.jpg"
+        },
+        {
+          "headline": "因果思维链：用上下文隔离减少注意力泄漏",
+          "summary": "论文提出 Causal Chain of Thought，通过隔离上下文降低注意力泄漏，让推理步骤更可能因果驱动最终答案。",
+          "primary_url": "http://arxiv.org/abs/2610.31639v1",
+          "importance": 4,
+          "items": [
+            "a3a960aae908c766"
+          ],
+          "cover_path": "out/media/2026-10-24/research-03.jpg"
+        },
+        {
+          "headline": "Next-Concept Modeling：并行粗到细文本生成",
+          "summary": "论文提出 Next-Concept Modeling，以概念级并行生成加速文本解码，在质量与速度间取得新折中。",
+          "primary_url": "https://arxiv.org/abs/2610.14162",
+          "importance": 4,
+          "items": [
+            "cd6e89ed46385030"
+          ],
+          "cover_path": "out/media/2026-10-24/research-04.jpg"
+        },
+        {
+          "headline": "EpiSEM-Bench：检验缺证据时 AI Agent 的安全性",
+          "summary": "新基准评估工具型 LLM Agent 在工具响应缺失安全事实时，是否会执行本应禁止的动作并能否恢复证据。",
+          "primary_url": "http://arxiv.org/abs/2610.31650v1",
+          "importance": 4,
+          "items": [
+            "09e24e92096008c3"
+          ],
+          "cover_path": "out/media/2026-10-24/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic 推出 Claude Duet，押注 Agent 应用",
+          "summary": "Claude Duet 以候补名单形式向 Pro/Max 用户开放，是 Anthropic 面向 Agent 场景的新应用。",
+          "primary_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "importance": 7,
+          "items": [
+            "ec80fdc791df735d"
+          ],
+          "cover_path": "out/media/2026-10-24/product-00.jpg"
+        },
+        {
+          "headline": "Google 为每个 Gemini Agent 配独立 microVM",
+          "summary": "Google Cloud 推出 Agent Compute Engine，为每个 AI Agent 提供硬件隔离的 microVM，内部不存放凭证，已用于 Gemini Agent。",
+          "primary_url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+          "importance": 7,
+          "items": [
+            "df8b0707c7de1625",
+            "fc0a44acd15a0076"
+          ],
+          "cover_path": "out/media/2026-10-24/product-01.jpg"
+        },
+        {
+          "headline": "1Password 让 AI Agent 代登录，但看不到密码",
+          "summary": "1Password 新功能允许 AI Agent 登录用户个人账户，同时不暴露底层密码等私密凭证。",
+          "primary_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "importance": 7,
+          "items": [
+            "bedcf9b640559f35"
+          ],
+          "cover_path": "out/media/2026-10-24/product-02.jpg"
+        },
+        {
+          "headline": "Uber 让全部 3 万名员工使用 ChatGPT Work",
+          "summary": "Uber 将 ChatGPT Work 从试点扩展至全公司 3 万名员工，企业级 Agent 部署规模进一步扩大。",
+          "primary_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "importance": 7,
+          "items": [
+            "5e533dbf544a43ce"
+          ],
+          "cover_path": "out/media/2026-10-24/product-03.jpg"
+        },
+        {
+          "headline": "微软 AI 诊断系统在疑难病例上胜过医生",
+          "summary": "Mustafa Suleyman 称微软新 AI 诊断系统在 Science 研究的疑难病例中优于全科医生，但提升主要来自底层模型。",
+          "primary_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+          "importance": 7,
+          "items": [
+            "adfd68a17587531f"
+          ],
+          "cover_path": "out/media/2026-10-24/product-04.jpg"
+        },
+        {
+          "headline": "千问Go! 上线“我的应用”，说句话就能搭应用",
+          "summary": "用户无需编程即可搭建生活、工作、学习场景的专属应用，支持分享、持续更新，并接入阿里云 Meoo 自动部署。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
+          "importance": 6,
+          "items": [
+            "9596bed9f96cf6fd"
+          ]
+        },
+        {
+          "headline": "美团外卖发布“AI 店长”，将免费给全国商家",
+          "summary": "美团推出“妙手外卖版·袋鼠管家”，覆盖经营诊断、门店巡检、商品运营等，部分试用商家增长超 30%。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
+          "importance": 6,
+          "items": [
+            "6c669152e485aaf1"
+          ]
+        },
+        {
+          "headline": "Claude 写代码还能自动证明其安全",
+          "summary": "Anthropic 称 Claude 现可在写代码的同时自动生成安全性证明，将形式化验证引入日常编码流程。",
+          "primary_url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
+          "importance": 6,
+          "items": [
+            "a08c5c217775091e"
+          ],
+          "cover_path": "out/media/2026-10-24/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI 训练安全升级，第三方审计仍曝监控缺口",
+          "summary": "OpenAI 公布前沿模型训练隔离与红队方案，但为期三周的现场审计发现其 AI 安全监控仍存在重大缺口。",
+          "primary_url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
+          "importance": 7,
+          "items": [
+            "5a6e8dfbfd5bfc9f",
+            "58f703fe1f5ed0e1"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-00.jpg"
+        },
+        {
+          "headline": "Altman：高级 AI 终将逃出沙箱，只有对齐能救",
+          "summary": "Sam Altman 在访谈中称高级 AI 不可避免会脱离沙箱，唯有对齐能降低风险，并反思 ChatGPT 过于谄媚。",
+          "primary_url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
+          "importance": 7,
+          "items": [
+            "2a780e078abd46b5",
+            "46a5b02c03f1712c"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-01.jpg"
+        },
+        {
+          "headline": "欧盟成员国批准“数字征用”，供 AI 公司使用数据",
+          "summary": "欧洲消费者组织 noyb 批评欧盟成员国批准所谓“数字征用”，让 AI 公司可大规模使用欧洲人的数据。",
+          "primary_url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+          "importance": 6,
+          "items": [
+            "ab664de5e6ae2738"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-02.jpg"
+        },
+        {
+          "headline": "Google 隐私政策更新：Gmail 内容可能用于广告",
+          "summary": "新版 Google 隐私政策显示，开启 Personal Intelligence 后，Gmail 等数据可能被用于广告定向。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+          "importance": 6,
+          "items": [
+            "803655a9881f841e"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-03.jpg"
+        },
+        {
+          "headline": "美国大银行封杀用客户凭证登录的 AI Agent",
+          "summary": "多家美国银行开始阻止 AI Agent 以客户凭证登录账户，凸显 Agent 自动化与金融安全之间的冲突。",
+          "primary_url": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
+          "importance": 6,
+          "items": [
+            "b54d4b608a4c8dd3"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-04.jpg"
+        },
+        {
+          "headline": "Gartner：仅 13% 企业从 AI 获得真实回报",
+          "summary": "Gartner 调查显示只有 13% 企业看到 AI 的真实回报，多数企业仍停留在试点与高预期阶段。",
+          "primary_url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
+          "importance": 6,
+          "items": [
+            "f2f573e418b45c70"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-05.jpg"
+        },
+        {
+          "headline": "“黑色十月”：AI 代理加速漏洞利用与供应链攻击",
+          "summary": "从 PHP2Shell 到 ConnectWise 入侵，安全界警告 AI Agent 正缩短攻击窗口，十月成为漏洞与入侵密集期。",
+          "primary_url": "https://latent.space/p/ainews-black-october/",
+          "importance": 6,
+          "items": [
+            "326377b8fbf6a51d",
+            "cfc053338dc88df2",
+            "937d16f2ce2277d4"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-06.jpg"
+        },
+        {
+          "headline": "AI 数学能力突飞猛进，背后模式逐渐显现",
+          "summary": "Latent Space 分析称 AI 模型正解决更多数学问题，其成功模式或可用于预测下一批可解问题。",
+          "primary_url": "https://latent.space/p/ai-is-getting-good-at-math/",
+          "importance": 5,
+          "items": [
+            "e6781291ca82c99f"
+          ],
+          "cover_path": "out/media/2026-10-24/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic 将 Agent Skills 捐给开放基金会",
+          "summary": "Anthropic 把 Agent Skills 捐给 Agentic AI Foundation，推动 Agent 技能格式与生态的开放治理。",
+          "primary_url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "importance": 6,
+          "items": [
+            "584d216cbc93db31"
+          ],
+          "cover_path": "out/media/2026-10-24/opensource-00.jpg"
+        },
+        {
+          "headline": "Anthropic 开源岗位插件库，Claude 变身专家",
+          "summary": "knowledge-work-plugins 面向知识工作者，提供可把 Claude 定制为特定角色、团队和公司专家的插件。",
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "importance": 6,
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-10-24/opensource-01.jpg"
+        },
+        {
+          "headline": "Cloudflare 开源安全审计 Skill",
+          "summary": "该 Skill 让编码 Agent 执行多阶段安全审计，产出可独立验证、机器可读的发现。",
+          "primary_url": "https://github.com/cloudflare/security-audit-skill",
+          "importance": 5,
+          "items": [
+            "ec0bbc123c3d2a44"
+          ],
+          "cover_path": "out/media/2026-10-24/opensource-02.jpg"
+        },
+        {
+          "headline": "Graphify：把代码库变成可查询知识图谱",
+          "summary": "Graphify 可将代码、文档、SQL、配置和 PDF 解析为知识图谱，支持 Claude Code、Cursor、Codex 等 Agent。",
+          "primary_url": "https://github.com/Graphify-Labs/graphify",
+          "importance": 5,
+          "items": [
+            "cad9fc7e88908860"
+          ],
+          "cover_path": "out/media/2026-10-24/opensource-03.jpg"
+        },
+        {
+          "headline": "Gradium 开源 31M 端侧 TTS 模型 Phonon",
+          "summary": "Phonon 31m 以 Apache 2.0 开源，模型仅 64.5 MB，在笔记本 CPU 上约 7ms 开始发声。",
+          "primary_url": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
+          "importance": 5,
+          "items": [
+            "c788e4208cb2ccfa"
+          ]
+        },
+        {
+          "headline": "Headroom：在进 LLM 前压缩工具输出与 RAG 块",
+          "summary": "Headroom 通过库、代理和 MCP Server 压缩工具输出、日志、文件与 RAG 块，称编码 Agent 可少用 20% token。",
+          "primary_url": "https://github.com/headroomlabs-ai/headroom",
+          "importance": 5,
+          "items": [
+            "714ecf7e5a2ef360"
+          ],
+          "cover_path": "out/media/2026-10-24/opensource-05.jpg"
+        },
+        {
+          "headline": "StartLux 开源 Prism，决策模型推理单卡提速 5.3 倍",
+          "summary": "StartLux 开源面向决策模型的推理引擎 Prism，称在单卡上最高实现 5.3 倍提速。",
+          "primary_url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO",
+          "importance": 5,
+          "items": [
+            "7df7b280cb380d4d"
+          ],
+          "cover_path": "out/media/2026-10-24/opensource-06.jpg"
+        },
+        {
+          "headline": "智源 FlagOS 2.2 让前沿模型适配多元算力",
+          "summary": "智源更新 FlagOS 2.2，推动前沿模型与多元算力协同演进，降低跨芯片迁移成本。",
+          "primary_url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs",
+          "importance": 5,
+          "items": [
+            "771658a080543618"
+          ],
+          "cover_path": "out/media/2026-10-24/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
