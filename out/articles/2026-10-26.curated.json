@@ -1,0 +1,399 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Block 发布 Dessa 语音模型，可在 MacBook 本地跑",
+          "summary": "Block 新语音模型完全基于人类语音训练，能捕捉文本模型忽略的情绪，并可在 M4 Max 上本地运行。",
+          "primary_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "importance": 6,
+          "items": [
+            "a8a6b650746f56c2",
+            "5c0a564d4e985fb2"
+          ],
+          "cover_path": "out/media/2026-10-26/model_release-00.jpg"
+        },
+        {
+          "headline": "南北阁发布 33B 开源 Agent 编程模型",
+          "summary": "Nanbeige4.3-33B 是 Apache 2.0 许可的 33B 稠密模型，支持 512K 上下文，Terminal-Bench 2.1 得分 80.9，并将蒸馏出 3B 版本。",
+          "primary_url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+          "importance": 6,
+          "items": [
+            "de6874b474f8df8e"
+          ],
+          "cover_path": "out/media/2026-10-26/model_release-01.jpg"
+        },
+        {
+          "headline": "Hugging Face 开源 14B DNA 语言模型 Carbon-X",
+          "summary": "Carbon-X 基于 Qwen3-14B，可在聊天中读取原始 DNA 并用英文回答，5 项 DNA 基准平均 66.7%，采用 Apache 2.0 许可。",
+          "primary_url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+          "importance": 6,
+          "items": [
+            "6d95a02e122779ff"
+          ],
+          "cover_path": "out/media/2026-10-26/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 以最高 90% 折扣挖 Anthropic 大客户",
+          "summary": "OpenAI 正向 Anthropic 的大客户提供最高九折优惠，以争夺企业级 AI 市场份额。",
+          "primary_url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+          "importance": 7,
+          "items": [
+            "b63961b6b36e197c"
+          ],
+          "cover_path": "out/media/2026-10-26/company-00.jpg"
+        },
+        {
+          "headline": "软银拟在马来西亚投 500 亿美元建 AI 基础设施",
+          "summary": "财联社报道，软银计划在马来西亚投资 500 亿美元建设 AI 基础设施。",
+          "primary_url": "https://36kr.com/newsflashes/4041902373819268?f=rss",
+          "importance": 6,
+          "items": [
+            "2223aa55ead230a3"
+          ]
+        },
+        {
+          "headline": "被解雇的 OpenAI 安全研究员称不知泄露了什么",
+          "summary": "三名前 OpenAI 安全研究员表示，被解雇时未被告知具体泄露内容，引发对安全团队处理方式的争议。",
+          "primary_url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+          "importance": 6,
+          "items": [
+            "1939a4e17917c0d5"
+          ],
+          "cover_path": "out/media/2026-10-26/company-02.jpg"
+        },
+        {
+          "headline": "Cerebras 展示单系统部署万亿参数模型",
+          "summary": "Cerebras 官方博客称可在其系统上部署万亿参数前沿模型，Hacker News 热度达 348。",
+          "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "importance": 6,
+          "items": [
+            "4574cb038f4c6df5"
+          ],
+          "cover_path": "out/media/2026-10-26/company-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "10 年前 CNN 在皮肤癌诊断上仍胜前沿 LLM",
+          "summary": "一项对比显示，2010 年代的 CNN 在皮肤癌诊断上优于多个前沿大模型，提示通用模型未必适合专科影像。",
+          "primary_url": "https://lynchlab.net/llm-skin-cancer",
+          "importance": 7,
+          "items": [
+            "d1bf240e4c11ffd4"
+          ]
+        },
+        {
+          "headline": "TokenGate 让长上下文预填最快提升 11.3 倍",
+          "summary": "斯坦福与伯克利推出可学习的 token 剪枝模块，将长上下文首 token 时间缩短 1.4 到 11.3 倍，峰值内存降低 1.5 到 3.4 倍且不损精度。",
+          "primary_url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+          "importance": 6,
+          "items": [
+            "5446c52c05685476"
+          ],
+          "cover_path": "out/media/2026-10-26/research-01.jpg"
+        },
+        {
+          "headline": "Anthropic：单 Agent 现在胜过多子 Agent",
+          "summary": "Anthropic 称模型处理复杂任务能力提升后，多子 Agent 架构反而增加协调成本，单 Agent 更有效。",
+          "primary_url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+          "importance": 6,
+          "items": [
+            "0ea62f63d638bf66"
+          ],
+          "cover_path": "out/media/2026-10-26/research-02.jpg"
+        },
+        {
+          "headline": "为什么 AI 生成的语言这么难懂",
+          "summary": "arXiv 论文分析 AI 生成文本难以理解的原因，在 Hacker News 获得 240 热度。",
+          "primary_url": "https://arxiv.org/abs/2610.29162",
+          "importance": 5,
+          "items": [
+            "e86e6b704a04be30"
+          ],
+          "cover_path": "out/media/2026-10-26/research-03.jpg"
+        },
+        {
+          "headline": "五个 Qwen3.8-27B 模型借 GVS5H 追平 Fable 5",
+          "summary": "GitHub 项目称通过 GVS5H harness，五个 Qwen3.8-27B 模型达到 Fable 5 水平。",
+          "primary_url": "https://github.com/slee-persis/GVS5H",
+          "importance": 5,
+          "items": [
+            "d0e1ba921a6bb299"
+          ],
+          "cover_path": "out/media/2026-10-26/research-04.jpg"
+        },
+        {
+          "headline": "研究：Grok 倾向共和党，GPT 倾向民主党",
+          "summary": "一项覆盖近 500 场选举的研究发现，Grok 与 GPT 在超过 90% 的竞选中给出不同推荐。",
+          "primary_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "importance": 5,
+          "items": [
+            "df5c77fc4d4d360b"
+          ],
+          "cover_path": "out/media/2026-10-26/research-05.jpg"
+        },
+        {
+          "headline": "AI 让初级专利律师更强，却可能阻碍成长",
+          "summary": "研究指出 AI 能立即提升初级专利律师产出，但可能悄悄削弱其专业成长路径。",
+          "primary_url": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+          "importance": 4,
+          "items": [
+            "a8d817be4f0c428d"
+          ],
+          "cover_path": "out/media/2026-10-26/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic 推出免费开源漏洞扫描器 OSS Scanner",
+          "summary": "Anthropic 发布可选加入的免费漏洞扫描器，使用 Claude Mythos 等最强模型扫描关键开源项目代码库。",
+          "primary_url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+          "importance": 6,
+          "items": [
+            "81270e6dd4f8c306"
+          ],
+          "cover_path": "out/media/2026-10-26/product-00.jpg"
+        },
+        {
+          "headline": "Grok 放出 AI 生成电影《Odyssey》前七分钟",
+          "summary": "Grok 发布 AI 生成影片《Odyssey》的前七分钟片段，画面尚可但缺乏艺术性与人文细节。",
+          "primary_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "importance": 5,
+          "items": [
+            "736569bd736dcd46"
+          ],
+          "cover_path": "out/media/2026-10-26/product-01.jpg"
+        },
+        {
+          "headline": "能住进短信里的 AI Agent 盘点",
+          "summary": "TechCrunch 盘点可运行在短信中的 AI Agent，覆盖通用助手、家庭、旅行和工作场景。",
+          "primary_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "importance": 4,
+          "items": [
+            "ef37e2603b3874f9"
+          ],
+          "cover_path": "out/media/2026-10-26/product-02.jpg"
+        },
+        {
+          "headline": "值得关注的 AI 可穿戴设备清单",
+          "summary": "TechCrunch 汇总 Muse Charm、Bee、Friend、Plaud 等热门 AI 可穿戴与硬件产品。",
+          "primary_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "importance": 4,
+          "items": [
+            "41ba9cef79b56c52"
+          ],
+          "cover_path": "out/media/2026-10-26/product-03.jpg"
+        },
+        {
+          "headline": "AgentGrid.io：人类与 Agent 的共享工作区",
+          "summary": "AgentGrid.io 在 Product Hunt 上线，提供人类与 AI Agent 协作的共享工作空间。",
+          "primary_url": "https://www.producthunt.com/products/agentgrid-io",
+          "importance": 4,
+          "items": [
+            "ad7e5a0e20ef3208"
+          ]
+        },
+        {
+          "headline": "Yourcast 2.0 在 Telegram 里做 AI 摘要",
+          "summary": "Yourcast 2.0 支持在 Telegram 内生成 AI 摘要，并可通过时间戳点击跳转到原音频位置。",
+          "primary_url": "https://www.producthunt.com/products/yourcast",
+          "importance": 3,
+          "items": [
+            "5f7497e4a81b03d0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Apollo 经济学家：AI 在科技业外几乎零回报",
+          "summary": "Apollo 首席经济学家称，尽管企业大举投资 AI，除科技行业外几乎没有财务回报；该观点在 Hacker News 获 600+ 热度。",
+          "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "importance": 7,
+          "items": [
+            "fbbb4589808919e5",
+            "aad202a4fe370b77"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-00.jpg"
+        },
+        {
+          "headline": "施密特：OpenAI 与 Anthropic 像现代殖民贸易公司",
+          "summary": "前谷歌 CEO 在《Foreign Affairs》撰文，将 OpenAI 和 Anthropic 比作现代殖民贸易公司。",
+          "primary_url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+          "importance": 6,
+          "items": [
+            "2ad665dfbfaa8665"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-01.jpg"
+        },
+        {
+          "headline": "Anthropic 联合创始人：自我改进 AI 或 2027 年到来",
+          "summary": "Jack Clark 将自我改进 AI 的预测提前至 2027 年，并引用新基准说明模型能力加速。",
+          "primary_url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+          "importance": 6,
+          "items": [
+            "79b51a1d88df340d"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-02.jpg"
+        },
+        {
+          "headline": "美国创意行业流失 20 万岗位，AI 影响几何",
+          "summary": "Apricitas 分析美国媒体、影视和艺术行业流失 20 万岗位，讨论 AI 在其中的作用。",
+          "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "importance": 6,
+          "items": [
+            "89c729a3f288b511"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-03.jpg"
+        },
+        {
+          "headline": "Linux 基金会：四分之一 PR 是 AI 垃圾",
+          "summary": "报告称 AI 写代码快 52%，但开源维护者负担更重，约四分之一 PR 为低质 AI 生成内容。",
+          "primary_url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "e2ca93c35f4e837c"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-04.jpg"
+        },
+        {
+          "headline": "PHP 漏洞风暴：AI 让旧 bug 更易被利用",
+          "summary": "安全研究者用 AI 工具发现 PHP 多年漏洞，随后 AI 辅助攻击开始出现，暴露 AI 放大安全风险的一面。",
+          "primary_url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+          "importance": 6,
+          "items": [
+            "9234bced09dc5c9b"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-05.jpg"
+        },
+        {
+          "headline": "美国反数据中心运动可从海外学到什么",
+          "summary": "《Hyperscale》作者 Paris Marx 梳理爱尔兰到新西兰的数据中心发展经验，为美国反对运动提供参照。",
+          "primary_url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+          "importance": 5,
+          "items": [
+            "be32cbedb039276b"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-06.jpg"
+        },
+        {
+          "headline": "伯克利数学教授：AI 让批改作业失去意义",
+          "summary": "UC Berkeley 数学教授表示，AI 的普及让他认为批改作业已没有意义。",
+          "primary_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "importance": 5,
+          "items": [
+            "23cde942a1383e99"
+          ],
+          "cover_path": "out/media/2026-10-26/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "英伟达开源 Flora，机器人视频标注便宜 125 倍",
+          "summary": "英伟达开源 Flora，称其将机器人视频标注成本降至 GPT-6 Astra 的 1/125。",
+          "primary_url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+          "importance": 7,
+          "items": [
+            "d755946cb060617e"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-00.jpg"
+        },
+        {
+          "headline": "微软开源 Agensh：可扩展到 1024 个 Agent",
+          "summary": "微软研究院开源无中心编排器的多 Agent 框架，Agent 通过 Git 仓库、聊天和发现板协作，可扩展到 1024 个。",
+          "primary_url": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
+          "importance": 6,
+          "items": [
+            "5e5932176fec81f7"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-01.jpg"
+        },
+        {
+          "headline": "英伟达开源 OpenShell：Agent 安全运行时",
+          "summary": "OpenShell 为自主 AI Agent 提供安全、私有的运行环境。",
+          "primary_url": "https://github.com/NVIDIA/OpenShell",
+          "importance": 6,
+          "items": [
+            "957d707a5cb72740"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenMobile-2：开源手机 Agent 可媲美闭源",
+          "summary": "OpenMobile-2 表明开源智能手机 Agent 在任务表现上可与专有模型竞争，降低移动 Agent 门槛。",
+          "primary_url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+          "importance": 6,
+          "items": [
+            "c00500e4e2e070a9"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-03.jpg"
+        },
+        {
+          "headline": "Cognition 开源 Devin 漏洞修复插件",
+          "summary": "该插件包含 3 个 MIT 许可的 Agent 技能，可盘点、修补并测试 PHP、Node.js 和自管 GitLab 的 RCE 漏洞。",
+          "primary_url": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
+          "importance": 5,
+          "items": [
+            "7f2066e4a6f42230"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-04.jpg"
+        },
+        {
+          "headline": "AWS 发布 Agent Toolkit，含官方 MCP 服务器",
+          "summary": "AWS 提供官方支持的 MCP 服务器、技能和插件，帮助 AI Agent 在 AWS 上构建应用。",
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "importance": 5,
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-05.jpg"
+        },
+        {
+          "headline": "Cloudflare 开源 Agent 安全审计技能",
+          "summary": "该编码 Agent 技能可执行多阶段安全审计，并输出可独立验证的机器可读结果。",
+          "primary_url": "https://github.com/cloudflare/security-audit-skill",
+          "importance": 5,
+          "items": [
+            "ec0bbc123c3d2a44"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-06.jpg"
+        },
+        {
+          "headline": "Anthropic 开源知识工作插件库",
+          "summary": "Anthropic 发布面向 Claude Cowork 的开源插件库，让 Claude 针对不同角色、团队和公司提供专业化能力。",
+          "primary_url": "https://github.com/anthropics/knowledge-work-plugins",
+          "importance": 5,
+          "items": [
+            "a324b35db27f7178"
+          ],
+          "cover_path": "out/media/2026-10-26/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-26"
+}
