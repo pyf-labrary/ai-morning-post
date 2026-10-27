@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-27",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-6.1 Terra，API 价格腰斩",
+          "summary": "GPT-6.1 Terra 主打「人人可用的快速计算机操作能力」，API 价格较上代减半，同时在多项基准上逼近更大的模型。",
+          "primary_url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "importance": 10,
+          "items": [
+            "3223f0e9524038fb",
+            "0e17fda6bd2d1e01",
+            "d89d55a83c10f1a3"
+          ]
+        },
+        {
+          "headline": "苹果端侧 20B 模型登场，iOS 27.2 新 Siri 上线",
+          "summary": "iOS 与 macOS 27.2 带来基于新端侧模型的 Siri AI 能力，并新增限制 Siri 可直接访问哪些应用的开关。",
+          "primary_url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+          "importance": 7,
+          "items": [
+            "57a0a8ecd59d3bdc",
+            "7a27d2b65998d92c"
+          ],
+          "cover_path": "out/media/2026-10-27/model_release-01.jpg"
+        },
+        {
+          "headline": "Hugging Face 开源 DNA 语言模型 Carbon-X",
+          "summary": "14.8B 的 Carbon-X 基于 Qwen3-14B，可直接在对话中读取原始 DNA 并用英文作答，Apache 2.0 开放。",
+          "primary_url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+          "importance": 6,
+          "items": [
+            "6d95a02e122779ff"
+          ],
+          "cover_path": "out/media/2026-10-27/model_release-02.jpg"
+        },
+        {
+          "headline": "南北阁开源 33B 智能体编程模型",
+          "summary": "Nanbeige4.3-33B 为 33B 稠密模型，支持 512K 上下文，Terminal-Bench 2.1 得分 80.9，Apache 2.0 许可。",
+          "primary_url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+          "importance": 5,
+          "items": [
+            "de6874b474f8df8e"
+          ],
+          "cover_path": "out/media/2026-10-27/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 正式递交 IPO 招股书",
+          "summary": "335 页 S-1 披露营收飙升与亏损扩大、企业客户高粘性，以及为保住创始人与 AI 安全使命而设的特殊治理结构；分析师则质疑其关键财务数据披露不足。",
+          "primary_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "importance": 9,
+          "items": [
+            "5eae30f25e52808a",
+            "3e670ab4f93f140a",
+            "97416ded7e771cb8"
+          ],
+          "cover_path": "out/media/2026-10-27/company-00.jpg"
+        },
+        {
+          "headline": "Meta 拟发售最高 950 亿美元股票，输血 AI 基建",
+          "summary": "为支撑庞大的 AI 资本开支，Meta 计划启动规模空前的股票发售计划。",
+          "primary_url": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
+          "importance": 7,
+          "items": [
+            "28d20a3d24b8c7d7"
+          ],
+          "cover_path": "out/media/2026-10-27/company-01.jpg"
+        },
+        {
+          "headline": "SpaceX 与 Apollo 锁定 400 亿美元 GPU 融资",
+          "summary": "这笔融资让 SpaceX 在不依赖传统债务市场的情况下继续为 AI 野心供血；马斯克同时称星链式移动网络建设需 2–3 年。",
+          "primary_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+          "importance": 7,
+          "items": [
+            "bc3b4b7619e97f95",
+            "302b667de5216ec8"
+          ],
+          "cover_path": "out/media/2026-10-27/company-02.jpg"
+        },
+        {
+          "headline": "趋境科技完成超 13 亿元 B 轮融资",
+          "summary": "AI Token 生产服务商趋境科技半年内核心指标增长超十倍，年内累计募资 24 亿元。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+          "importance": 6,
+          "items": [
+            "f788f53c5369ae52"
+          ]
+        },
+        {
+          "headline": "中科慧灵拿数亿元 A++ 轮，制鞋机器人订单超 4 亿",
+          "summary": "具身智能开始拼量产交付，公司称制鞋机器人订单额已超 4 亿元人民币。",
+          "primary_url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo",
+          "importance": 6,
+          "items": [
+            "c4cbe24148cdb672"
+          ],
+          "cover_path": "out/media/2026-10-27/company-04.jpg"
+        },
+        {
+          "headline": "丰田每年砸 64 亿美元押注人形机器人与产线自动化",
+          "summary": "丰田将机器人与工厂自动化列为长期重点投入方向，年投入规模达 64 亿美元。",
+          "primary_url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+          "importance": 6,
+          "items": [
+            "0698a37ef5e51da9"
+          ]
+        },
+        {
+          "headline": "特斯拉放弃造车王冠，转押自动驾驶订阅",
+          "summary": "特斯拉希望用自动驾驶与软件订阅撑起利润率，弥补整车销售难以提供的利润空间。",
+          "primary_url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+          "importance": 6,
+          "items": [
+            "a3e7fa621def5049"
+          ],
+          "cover_path": "out/media/2026-10-27/company-06.jpg"
+        },
+        {
+          "headline": "波士顿动力 300 余名员工抗议向 ICE 出售机器狗",
+          "summary": "员工联名警告风险，公司仍坚持推进与美国移民海关执法局的机器人交易。",
+          "primary_url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+          "importance": 5,
+          "items": [
+            "897865bb44d86c1c"
+          ],
+          "cover_path": "out/media/2026-10-27/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI 宣布数学、CS、物理三项新发现",
+          "summary": "分别涉及调和分析（Kakeya 猜想）、复杂性理论（指数时间假设为假）与量子场论，OpenAI 邀请外部专家无偿、无保密协议地验证与延伸。",
+          "primary_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "importance": 9,
+          "items": [
+            "9107b13bc3e39115",
+            "ba23093f72c41e49",
+            "9d621c0b8122f19c"
+          ]
+        },
+        {
+          "headline": "十年前的 CNN 在皮肤癌诊断上仍胜前沿大模型",
+          "summary": "一项对比研究显示，专门训练的老式卷积网络在皮肤癌识别任务上优于当前前沿 LLM。",
+          "primary_url": "https://lynchlab.net/llm-skin-cancer",
+          "importance": 6,
+          "items": [
+            "d1bf240e4c11ffd4"
+          ]
+        },
+        {
+          "headline": "研究总结 AI 文本「读着累」的六种模式",
+          "summary": "研究者归纳出让 AI 生成文本格外令人疲惫的六类写作特征，为评估可读性提供新维度。",
+          "primary_url": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
+          "importance": 5,
+          "items": [
+            "926ee94fc578586e"
+          ],
+          "cover_path": "out/media/2026-10-27/research-02.jpg"
+        },
+        {
+          "headline": "Cohere 披露热门开源权重模型的异常行为",
+          "summary": "Cohere 博客记录了对某流行开放权重模型「令人担忧行为」的观察与测试结果。",
+          "primary_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "importance": 5,
+          "items": [
+            "7e05348c66ca2649"
+          ],
+          "cover_path": "out/media/2026-10-27/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "即梦上线「短剧工作室」，一站式生成短剧",
+          "summary": "把剧本整理、角色场景管理、分镜生成、视频制作与后期调整整合进同一平台，部分能力来自小云雀短剧 Agent。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html",
+          "importance": 6,
+          "items": [
+            "a754d0adc3c42c57"
+          ]
+        },
+        {
+          "headline": "OpenAI 连发多行业客户落地案例",
+          "summary": "Greptile 用 GPT-6 Astra 测用户流程、CodeRabbit 用 GPT-6.1 Sol 做代码安全审查、Fanatics 用其做球衣搭配推荐（互动率 +10%），OpenAI 内部则用 Codex Ultrafast 把事故排查从数小时压到数分钟。",
+          "primary_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "importance": 5,
+          "items": [
+            "ff190d2c97a6fe81",
+            "7c431e5e560f8ed9",
+            "e4fdfa003b4ae74d"
+          ]
+        },
+        {
+          "headline": "Grok 放出 AI 生成《奥德赛》前七分钟",
+          "summary": "全 AI 生成影片的首批片段公开，观感尚可但缺乏艺术性与人情味。",
+          "primary_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "importance": 5,
+          "items": [
+            "736569bd736dcd46"
+          ],
+          "cover_path": "out/media/2026-10-27/product-02.jpg"
+        },
+        {
+          "headline": "Nace AI 推出面向 Agent 的搜索模型 Drex",
+          "summary": "在 BrowseComp-Plus 上以平均 12.6 次搜索调用取得 92.05% 成绩，并减少 OfficeQA Pro 上的 Agent 轮次。",
+          "primary_url": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
+          "importance": 5,
+          "items": [
+            "8e434acf117e53e2"
+          ],
+          "cover_path": "out/media/2026-10-27/product-03.jpg"
+        },
+        {
+          "headline": "AI Agent 开始冒充记者向编辑投稿",
+          "summary": "Jayden、Sam、Zack 三位「记者」正积极向编辑推销调查报道——它们全是 AI Agent。",
+          "primary_url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+          "importance": 4,
+          "items": [
+            "181a72b730d4280f"
+          ],
+          "cover_path": "out/media/2026-10-27/product-04.jpg"
+        },
+        {
+          "headline": "西语 AI 电台主播 Coyotec 走红",
+          "summary": "这位双语、会爆粗口、教听众如何应对 ICE 的 AI 主播，正在赢得真实听众。",
+          "primary_url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+          "importance": 3,
+          "items": [
+            "429e5aac961eb1e4"
+          ],
+          "cover_path": "out/media/2026-10-27/product-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "高盛：对冲基金两年最快速度抛售科技股",
+          "summary": "AI 交易回吐之际，对冲基金大幅削减净敞口与总敞口，市场对 AI 行情的信念受到严重质疑。",
+          "primary_url": "https://36kr.com/newsflashes/4043368369460103?f=rss",
+          "importance": 6,
+          "items": [
+            "955ad5eb5d9ae290"
+          ]
+        },
+        {
+          "headline": "Apollo 经济学家：AI 对多数公司「零财务回报」",
+          "summary": "除科技业外，企业界在 AI 上的巨额投入尚未转化为可衡量的财务收益。",
+          "primary_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "importance": 6,
+          "items": [
+            "fbbb4589808919e5"
+          ],
+          "cover_path": "out/media/2026-10-27/opinion-01.jpg"
+        },
+        {
+          "headline": "IBM CEO：开源权重模型已足够好且便宜",
+          "summary": "他认为开放权重模型在性能与本地部署成本上已具吸引力，企业自建推理变得现实。",
+          "primary_url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+          "importance": 6,
+          "items": [
+            "7d278ff681b1fc9c"
+          ],
+          "cover_path": "out/media/2026-10-27/opinion-02.jpg"
+        },
+        {
+          "headline": "几个月内 LLM 价格最多降 80%，为什么？",
+          "summary": "一篇广为流传的分析拆解 OpenAI 与 Anthropic 轮番降价背后的算力、竞争与产品策略。",
+          "primary_url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "importance": 5,
+          "items": [
+            "6800c6bb55193638"
+          ],
+          "cover_path": "out/media/2026-10-27/opinion-03.jpg"
+        },
+        {
+          "headline": "MIT 科技评论：只盯 AI 灾难，忽视日常伤害",
+          "summary": "评论认为政策讨论过度聚焦极端风险事件，而忽视了 AI 已经在造成的日常性损害。",
+          "primary_url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+          "importance": 5,
+          "items": [
+            "ad73e735cfd8bb85"
+          ],
+          "cover_path": "out/media/2026-10-27/opinion-04.jpg"
+        },
+        {
+          "headline": "r/opensource 全面封禁 AI 项目引发反弹",
+          "summary": "版规禁止所有 AI 相关与个人项目，社区分裂并催生对立子版块。",
+          "primary_url": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
+          "importance": 5,
+          "items": [
+            "f167505c61dc683d",
+            "f7f2b75c9f777df2"
+          ],
+          "cover_path": "out/media/2026-10-27/opinion-05.jpg"
+        },
+        {
+          "headline": "伯克利数学教授：有了 AI，批改作业没意义了",
+          "summary": "AI 的普及让一位 UC Berkeley 数学教授认为作业评分已失去价值，引发教学评价方式争论。",
+          "primary_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "importance": 5,
+          "items": [
+            "23cde942a1383e99"
+          ],
+          "cover_path": "out/media/2026-10-27/opinion-06.jpg"
+        },
+        {
+          "headline": "Stratechery：互联网的终结",
+          "summary": "Ben Thompson 认为「任何人都能架服务器」的旧互联网已经结束，但未来未必更暗淡。",
+          "primary_url": "https://stratechery.com/2026/the-end-of-the-internet/",
+          "importance": 4,
+          "items": [
+            "254f4cf7459132e7"
+          ],
+          "cover_path": "out/media/2026-10-27/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "DeepSeek 全面开源推理框架 DeepInfer",
+          "summary": "继模型权重与 FlashMLA、DeepGEMM 等算子库之后，DeepSeek 把模型运行链路也开放出来。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+          "importance": 7,
+          "items": [
+            "690fa724ae17a65c"
+          ]
+        },
+        {
+          "headline": "清华开源 AKV：给 LLM Agent 做 KV 缓存工程",
+          "summary": "基于 SGLang 的 AKV 用缓存丢弃与重排替代历史摘要，在 4 个 Agent 基准上平均降本 27.7%。",
+          "primary_url": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+          "importance": 6,
+          "items": [
+            "e7d85034a0a51151"
+          ],
+          "cover_path": "out/media/2026-10-27/opensource-01.jpg"
+        },
+        {
+          "headline": "JetBrains 开源可自我定制的轻量 IDE Thinkrail",
+          "summary": "面向 vibe coding 的轻量编辑器，会随你的工作方式自我调整，已在 HN 与 GitHub 趋势榜走热。",
+          "primary_url": "https://github.com/JetBrains/thinkrail",
+          "importance": 6,
+          "items": [
+            "91566ac3f3b2c03c",
+            "2458c85388d4f479"
+          ],
+          "cover_path": "out/media/2026-10-27/opensource-02.jpg"
+        },
+        {
+          "headline": "Cloudflare 开源多阶段安全审计 Agent Skill",
+          "summary": "把编码 Agent 变成安全审计员，产出可机器读取、可独立验证的审计发现。",
+          "primary_url": "https://github.com/cloudflare/security-audit-skill",
+          "importance": 5,
+          "items": [
+            "ec0bbc123c3d2a44"
+          ]
+        },
+        {
+          "headline": "browser-use 开源 video-use：用编码 Agent 剪视频",
+          "summary": "让编码 Agent 直接操作视频剪辑流程的新开源项目。",
+          "primary_url": "https://github.com/browser-use/video-use",
+          "importance": 5,
+          "items": [
+            "3fdc032c51306251"
+          ],
+          "cover_path": "out/media/2026-10-27/opensource-04.jpg"
+        },
+        {
+          "headline": "Raschka 发布「从零构建推理模型」视频课",
+          "summary": "Sebastian Raschka 的实操课程系统讲解推理模型的构建路径，在 HN 获得高分讨论。",
+          "primary_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+          "importance": 5,
+          "items": [
+            "0906d3179dfd939e"
+          ],
+          "cover_path": "out/media/2026-10-27/opensource-05.jpg"
+        },
+        {
+          "headline": "Hob：本地开源版 Claude Cowork 替代品",
+          "summary": "MIT 许可的桌面应用，让 AI 直接处理本地文件，支持 Mac/Windows/Linux。",
+          "primary_url": "https://github.com/FrigadeHQ/hob",
+          "importance": 4,
+          "items": [
+            "e4acacda92781e27"
+          ],
+          "cover_path": "out/media/2026-10-27/opensource-06.jpg"
+        },
+        {
+          "headline": "PaperPilot：纯 Rust 零云端 PDF 引擎",
+          "summary": "支持 WASM 与 MCP 的本地 PDF 处理引擎，主打零云端依赖。",
+          "primary_url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+          "importance": 4,
+          "items": [
+            "ac55b741fcb53b0f"
+          ],
+          "cover_path": "out/media/2026-10-27/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
