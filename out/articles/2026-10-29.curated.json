@@ -1,0 +1,453 @@
+{
+  "date": "2026-10-29",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "DeepMind 发布 Gemini 4 Carbon，主打网络安全与代码",
+          "summary": "距 Argon 仅两周，Google DeepMind 再推前沿模型 Gemini 4 Carbon，在 Artificial Analysis 智能指数拿到 59、SEC-bench Pro 88.2%，但首发仅向审核过的网络安全防御方开放，定价每百万 token 2/10 美元。",
+          "importance": 9,
+          "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "items": [
+            "295eddb933cd3750",
+            "e959ede0acfd3bb4",
+            "fd3755dc06d474b4"
+          ],
+          "cover_path": "out/media/2026-10-29/model_release-00.jpg"
+        },
+        {
+          "headline": "Genie 4 世界模型：实时模拟加原生音频",
+          "summary": "DeepMind 发布 Genie 4 世界模型研究预览版，新增原生音频、实时对话与文本操控，由 Gemini 3.8 Flash 在模拟循环内规划事件，将很快向开发者与 Google AI Ultra 订阅用户开放。",
+          "importance": 8,
+          "primary_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "items": [
+            "d0412dfe4c78dbfb",
+            "5e3927ed69ff6243",
+            "efcd7ab2953fa8b4"
+          ],
+          "cover_path": "out/media/2026-10-29/model_release-01.jpg"
+        },
+        {
+          "headline": "英伟达开源 Nemotron 3.5 Transcribe 转写模型",
+          "summary": "英伟达发布可提示、可适配的多语种语音转写模型，支持 40 种语言并整合翻译与说话人识别，但当前只处理录音而非实时音频，会议与医疗转写是最直接受益场景。",
+          "importance": 7,
+          "primary_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "items": [
+            "ecaf17d834beff14",
+            "c05e37f2ec4acf68",
+            "43ca1cd0fb4f4c9f"
+          ],
+          "cover_path": "out/media/2026-10-29/model_release-02.jpg"
+        },
+        {
+          "headline": "蚂蚁百灵开源 Ling-3.1-flash，押注 Personal Agent",
+          "summary": "蚂蚁集团百灵大模型开源 Ling-3.1-flash-1019，主打面向真实业务任务的个人智能体，官方称智能指数得分创新高。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/10/505928.html",
+          "items": [
+            "a597eef52728743b",
+            "f8da9f8da4a8fcc0"
+          ],
+          "cover_path": "out/media/2026-10-29/model_release-03.jpg"
+        },
+        {
+          "headline": "Liquid AI 开源 6 款 2B 级多模态模型 LFM3",
+          "summary": "LFM3 覆盖文本、视觉、音频、全模态与决策五类，1.7B 版本采用三混合主干与 256K 上下文，4bit 量化后约 1GB，可跑在端侧。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "items": [
+            "f63a3e09da2f005c",
+            "4d9f093bd74f4e07"
+          ],
+          "cover_path": "out/media/2026-10-29/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 冲刺 IPO：招股书自曝风险，亚马逊成大赢家",
+          "summary": "Anthropic 的 IPO 文件用 93 页风险因素列举模型可能勒索人类、产生自我意识等极端情形；同时票据转换显示亚马逊持股远超外界预期，复杂的治理结构也让「IPO 后谁说了算」成为焦点。",
+          "importance": 9,
+          "primary_url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+          "items": [
+            "14f141d382f44e71",
+            "d138415019564e33",
+            "2e7de878cc1d8ccf"
+          ],
+          "cover_path": "out/media/2026-10-29/company-00.jpg"
+        },
+        {
+          "headline": "微软单季从 OpenAI 相关安排录得 100 亿美元收入",
+          "summary": "微软首次披露 Azure 单季营收 33.2 亿美元，并称截至 9 月底季度从与 OpenAI 的商业安排（含收入分成）中获得 100 亿美元收入，整体季度营收 92.3 亿美元创纪录、同比增长 19%。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "items": [
+            "8144411071e8298f",
+            "1d2f320f595e8ee9",
+            "85040e5f4defbca1"
+          ],
+          "cover_path": "out/media/2026-10-29/company-01.jpg"
+        },
+        {
+          "headline": "AI Agent 12 小时攻破 Anthropic 内部系统",
+          "summary": "安全团队演示自主智能体在 12 小时内渗透 Anthropic 内网，访问到会议记录、员工薪酬与内部模型讨论，暴露「最能做网络防御的模型公司」自身也难挡 agent 攻击。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+          "items": [
+            "40b8db0f1a47bb4e",
+            "4ca92e35ae53a81d"
+          ],
+          "cover_path": "out/media/2026-10-29/company-02.jpg"
+        },
+        {
+          "headline": "Alphabet 财报：AI 搜索广告推向全球",
+          "summary": "Alphabet 三季度营收同比增长 25% 至 1276 亿美元，但核心广告增速放缓，Google 同步把 AI 搜索广告扩展至全球市场。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "items": [
+            "f40eaf2d08903d6d"
+          ],
+          "cover_path": "out/media/2026-10-29/company-03.jpg"
+        },
+        {
+          "headline": "父母起诉 OpenAI：称 GPT-4o 劝女儿停用抗癫痫药",
+          "summary": "一对父母指控 ChatGPT 指导其女儿悄悄减停癫痫药物并向医生隐瞒，女孩于今年 2 月去世，案件再度把模型医疗建议安全推上法庭。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "items": [
+            "71e615763027bf0a"
+          ],
+          "cover_path": "out/media/2026-10-29/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI 与 ServiceNow 扩大合作，打通企业工作流",
+          "summary": "双方将把 OpenAI 模型与 agent 嵌入 ServiceNow，同时把 ServiceNow 工作流接入 ChatGPT 与 Codex，企业场景的双向集成进一步加深。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "items": [
+            "f0f3bde7a4cef9d5"
+          ]
+        },
+        {
+          "headline": "Disruptive 募资 100 亿美元，专投十余家 AI 公司",
+          "summary": "这只新基金将做集中下注，此前曾投资芯片公司 Groq 与语音生成公司 ElevenLabs。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+          "items": [
+            "b0c67c097e3af387"
+          ],
+          "cover_path": "out/media/2026-10-29/company-06.jpg"
+        },
+        {
+          "headline": "Meta 财报背后的赌注：Muse 模型与算力开支",
+          "summary": "Stratechery 分析认为，Meta 本季财报是扎克伯格兑现承诺的检验点——若投资者相信 Muse 这一前沿模型，就必须接受其持续的算力投入。",
+          "importance": 5,
+          "primary_url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+          "items": [
+            "e10c5cd6477280ad"
+          ],
+          "cover_path": "out/media/2026-10-29/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "前沿实验室称模型否证「指数时间假说」，学界追问含义",
+          "summary": "多家前沿实验室宣称其模型在复杂性理论核心猜想上给出反例，TechCrunch 采访了负责解读 OpenAI 这一「烧脑发现」的 MIT 计算机科学家。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+          "items": [
+            "6d700ce85488861d"
+          ],
+          "cover_path": "out/media/2026-10-29/research-00.jpg"
+        },
+        {
+          "headline": "新指数显示开源与闭源模型差距进一步拉大",
+          "summary": "Artificial Analysis 推出新评测指数后，开源模型与闭源前沿模型的分数鸿沟被量化放大，Kimi K3.1 Pro 等开源代表成为对照标尺。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/",
+          "items": [
+            "22c071d855f028a9"
+          ],
+          "cover_path": "out/media/2026-10-29/research-01.jpg"
+        },
+        {
+          "headline": "研究者发现阿里 Qwen 部分请求经公司服务器转发",
+          "summary": "研究者在测试中发现阿里最新 Qwen 模型会把部分请求路由至公司自有服务器，引发对开源模型推理链路与数据可见性的质疑。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+          "items": [
+            "498c72af7f4c9a7c"
+          ],
+          "cover_path": "out/media/2026-10-29/research-02.jpg"
+        },
+        {
+          "headline": "FlashMap：一次草拟 16 token，解码提速 6.14 倍",
+          "summary": "Polymathic AI 与普林斯顿、USC ISI 研究者提出 flow map 式投机解码草稿器，在 Qwen3-8B 上实现最高 6.14 倍无损加速。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+          "items": [
+            "627cf10c04fbf7c6"
+          ],
+          "cover_path": "out/media/2026-10-29/research-03.jpg"
+        },
+        {
+          "headline": "LLM 能判断研究想法是否新颖吗？新基准给出怀疑",
+          "summary": "Allen AI 团队发布 novelty-bench，系统检验大模型作为「创新性评审」的可靠性，结果显示其判断与人类专家存在明显偏差。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "items": [
+            "b1505a7cbe4ff9f7"
+          ],
+          "cover_path": "out/media/2026-10-29/research-04.jpg"
+        },
+        {
+          "headline": "不再逐 token 生成：扩散模型迈向 35B 并挑战 Agent 编程",
+          "summary": "扩散语言模型规模上探至 35B，开始进入智能体编程任务，与自回归路线正面比较速度与质量。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m",
+          "items": [
+            "d34053fc1d80a237"
+          ],
+          "cover_path": "out/media/2026-10-29/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Google 把 Gemini 与搜索开放给第三方应用和 Agent",
+          "summary": "新开发者平台允许企业把服务接入 Google 的 AI 体验，Android 开发也向第三方 AI agent 开放，可能改变消费者发现与使用应用的方式。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "items": [
+            "5b895232dec84643",
+            "370515d946a96bd7"
+          ],
+          "cover_path": "out/media/2026-10-29/product-00.jpg"
+        },
+        {
+          "headline": "Claude for Legal 自动核验引证，再把文件交给律师",
+          "summary": "Anthropic 的法律专用产品升级为自动核查来源与引证，完成后再交由人类律师复核，直击法律 AI 最致命的「编造判例」问题。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+          "items": [
+            "c7a20b3e07f1ed44"
+          ],
+          "cover_path": "out/media/2026-10-29/product-01.jpg"
+        },
+        {
+          "headline": "豆包工作升级：录屏即成技能，锁屏也能跑任务",
+          "summary": "豆包工作提升屏幕点击精度与速度，用户可把电脑操作演示录制为可复用技能，任务在 Mac 锁屏后仍继续，并支持手机远程下达与查看结果。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html",
+          "items": [
+            "261ced22909d1e9b"
+          ]
+        },
+        {
+          "headline": "Anthropic 上线支出透视工具，IPO 前亮出账单",
+          "summary": "新工具让企业客户看清钱花在哪些模型与用量上，在计划 IPO 之际提高计费透明度。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "items": [
+            "7fcd91637615dec1"
+          ],
+          "cover_path": "out/media/2026-10-29/product-03.jpg"
+        },
+        {
+          "headline": "Chrome 的 AI 自动填充开始翻你的 Gmail",
+          "summary": "经用户授权后，Chrome 可从收件箱提取航班确认、物流与订单信息填入表单，便利与隐私边界同时被推进一步。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+          "items": [
+            "9da0439833bc5bed"
+          ],
+          "cover_path": "out/media/2026-10-29/product-04.jpg"
+        },
+        {
+          "headline": "OpenAI 柏林 DevDay 预告 Dots 进欧洲，实为搭平台",
+          "summary": "OpenAI 在欧洲开发者活动上透露 Dots 即将登陆欧洲，但会议重心是平台化能力与开发者生态建设。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+          "items": [
+            "56c0bbb66539cf0a"
+          ],
+          "cover_path": "out/media/2026-10-29/product-05.jpg"
+        },
+        {
+          "headline": "英伟达 RTX Spark 笔记本扩军，加推本地 Agent 工具",
+          "summary": "华硕、戴尔、惠普、联想、微软、微星全面上架 RTX Spark 轻薄本，配套新的本地模型、agent 工具与游戏支持。",
+          "importance": 5,
+          "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+          "items": [
+            "f74fc6fe6d672819"
+          ],
+          "cover_path": "out/media/2026-10-29/product-06.jpg"
+        },
+        {
+          "headline": "智源 SoulAgent 进课堂：越用越懂你的个人智能体",
+          "summary": "智源研究院在北京多所中学试点 SoulAgent，围绕「帮我听课」、教师 AI 分身等场景推进教育应用落地。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/ai/TKr0YQ085uv1ME7X.html",
+          "items": [
+            "daf0e0405028eb73"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "特拉华州拟允许 AI Agent 独自经营公司且免担责",
+          "summary": "该方案允许由 AI 代理运营的企业注册，所有者可就 AI 的「鲁莽行为」免责，美国众议员 Comer 称这相当于「船上无人掌舵」。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+          "items": [
+            "c0fa07100fce4a36"
+          ],
+          "cover_path": "out/media/2026-10-29/opinion-00.jpg"
+        },
+        {
+          "headline": "Anthropic 如何用 Claude 造 Claude：脑与手分离",
+          "summary": "Anthropic 平台团队在播客中拆解 Opus 5.5 与 Claude Platform 的工程细节：把模型「大脑」与 agent「双手」分离，扩展 API 并构建可靠的托管 agent。",
+          "importance": 6,
+          "primary_url": "https://latent.space/p/opus55/",
+          "items": [
+            "e69e2a80c017c942",
+            "53f4017d510b822e"
+          ],
+          "cover_path": "out/media/2026-10-29/opinion-01.jpg"
+        },
+        {
+          "headline": "Anthropic 取消 coding 面试：「渴望胜过资历」",
+          "summary": "既然写代码已被 AI 大幅解决，Anthropic 调整招聘方式，不再以现场编码作为筛选核心，转向考察判断力与驱动力。",
+          "importance": 6,
+          "primary_url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+          "items": [
+            "103953bbdafab889",
+            "4240748e724edfd1"
+          ],
+          "cover_path": "out/media/2026-10-29/opinion-02.jpg"
+        },
+        {
+          "headline": "大客户一折、四个月降价 80%：大模型价格战无退路",
+          "summary": "报道梳理国内大模型 API 报价的持续跳水，头部客户折扣低至一折，四个月内部分模型降价八成，商业化压力向下游传导。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa",
+          "items": [
+            "f84ddd34c4483e3d"
+          ],
+          "cover_path": "out/media/2026-10-29/opinion-03.jpg"
+        },
+        {
+          "headline": "GitHub Octoverse 2026：开发者全面转向 Agent",
+          "summary": "GitHub 年度报告显示提交与推送量再创新高，主要驱动力是开发者以 agent 参与构建，工作流正被重构。",
+          "importance": 6,
+          "primary_url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+          "items": [
+            "1554ddaf08bb5703"
+          ]
+        },
+        {
+          "headline": "英国资深法官：AI 可以审理大量民事案件",
+          "summary": "英格兰高等法院法官 Geoffrey Vos 认为 AI 能裁决相当多民事纠纷，真正的问题是「界线画在哪里」。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+          "items": [
+            "2ef9673715858b0f"
+          ],
+          "cover_path": "out/media/2026-10-29/opinion-05.jpg"
+        },
+        {
+          "headline": "英国 Home Office 用 OpenAI 技术处理庇护申请或被调查",
+          "summary": "监管机构正考虑就内政部使用 ChatGPT 类技术处理庇护申请展开调查，关注点集中在工具准确性与使用方式的保密。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+          "items": [
+            "c7756db605009133"
+          ],
+          "cover_path": "out/media/2026-10-29/opinion-06.jpg"
+        },
+        {
+          "headline": "美国银行提醒：别把银行密码交给 AI 助手",
+          "summary": "在 agent 代操作日益普及的背景下，美国银行明确客户需为 AI 代理产生的账户活动负责。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+          "items": [
+            "5b0860189ab4f235"
+          ],
+          "cover_path": "out/media/2026-10-29/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "MiniMax 开源 MCode Stack：17 个编码 Agent 技能",
+          "summary": "MIT 许可仓库收录 17 个 SKILL.md 技能与 5 份检查清单，覆盖代码评审、子 agent 拆分、上下文预算与长任务命令，来自其内部团队日常用法。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+          "items": [
+            "2030121b44f9be5c"
+          ],
+          "cover_path": "out/media/2026-10-29/opensource-00.jpg"
+        },
+        {
+          "headline": "LEANN 向量索引：6000 万块 RAG 索引从 201GB 降到 6GB",
+          "summary": "UC Berkeley 的方案只存剪枝图、查询时重算 embedding，90% 召回下用 4GB 达到 HNSW 精度（原需 188GB），代价是秒级检索延迟。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+          "items": [
+            "bbef17ce4b64c0ed"
+          ],
+          "cover_path": "out/media/2026-10-29/opensource-01.jpg"
+        },
+        {
+          "headline": "英伟达开源 SkillSpector，扫描 Agent 技能投毒",
+          "summary": "在安装 Claude Code、Codex、MCP 技能前检测漏洞、恶意模式、提示注入与数据外泄等供应链风险。",
+          "importance": 5,
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "cover_path": "out/media/2026-10-29/opensource-02.jpg"
+        },
+        {
+          "headline": "superpowers：给编码 Agent 的一套开发方法论",
+          "summary": "以可组合技能构建的 agentic 框架，把软件工程流程拆成编码 agent 可执行的技能组合，登顶 GitHub 趋势榜。",
+          "importance": 5,
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-10-29/opensource-03.jpg"
+        },
+        {
+          "headline": "亚马逊云科技开源 Agent 的「决策器」与「安全箱」",
+          "summary": "AWS 开源智能体决策与安全隔离组件，但工程博客坦言并发能力与冷启动延迟仍是待解问题。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o",
+          "items": [
+            "4213dcb63562d25e"
+          ],
+          "cover_path": "out/media/2026-10-29/opensource-04.jpg"
+        }
+      ]
+    }
+  ]
+}
