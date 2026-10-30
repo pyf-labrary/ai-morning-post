@@ -1,0 +1,523 @@
+{
+  "date": "2026-10-30",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌发布Gemini 4 Carbon，登顶多项榜单",
+          "summary": "Google DeepMind发布新一代前沿模型Gemini 4 Carbon，主打网络安全与编程能力，先向受信任防御者开放；在Artificial Analysis等评测中排名第一。",
+          "importance": 10,
+          "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "items": [
+            "295eddb933cd3750",
+            "7fe7116df5c522af",
+            "9d1109bbd9c8d235"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-00.jpg"
+        },
+        {
+          "headline": "Mistral开源万亿参数Le Chonk，剑指网安",
+          "summary": "Mistral发布并开源Mistral Large 4（Le Chonk）权重，宣称在编程与网络安全任务上可对标甚至超过DeepSeek、Z.ai等中国开源模型。",
+          "importance": 9,
+          "primary_url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "items": [
+            "710148e59d41e9a4",
+            "fb2d73be2ac36f2e",
+            "636e8918adb7f0d3"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-01.jpg"
+        },
+        {
+          "headline": "英伟达开源Nemotron 3.5语音转写模型",
+          "summary": "NVIDIA发布开源语音LLM Nemotron 3.5 Transcribe，约43亿激活参数，支持40种语言、说话人标签与词级时间戳。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "items": [
+            "ecaf17d834beff14",
+            "da79058c48f4b9fe"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-02.jpg"
+        },
+        {
+          "headline": "Block发布全双工语音模型Dessa",
+          "summary": "Block AI实验室推出仅用人类对话音频训练的全双工语音到语音模型Dessa，可在MacBook Pro M4 Max本地运行，但未公布规模、基准和权重。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+          "items": [
+            "6f39305351bd6d23"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-03.jpg"
+        },
+        {
+          "headline": "Baseten发布2B决策模型joey-1",
+          "summary": "Baseten推出20亿参数开源权重决策模型joey-1，直接返回校准概率而非文本，P50延迟约20毫秒、每百万输入token仅0.01美元。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+          "items": [
+            "ad5b4937b8fcb2c2"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-04.jpg"
+        },
+        {
+          "headline": "AssemblyAI推出语音Agent TTS API",
+          "summary": "AssemblyAI发布首个文本转语音模型AssemblyAI-TTS-1，面向语音Agent，每百万字符15美元，支持6种语言且不限并发。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+          "items": [
+            "5b1a659865a766d6"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-05.jpg"
+        },
+        {
+          "headline": "IBM推出Granite Switch 4.1.1",
+          "summary": "IBM发布Granite Switch 4.1.1，主打像更新软件一样热切换和更新模型，降低企业模型迭代成本。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "items": [
+            "ee34ef1b43123efb"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-06.jpg"
+        },
+        {
+          "headline": "苹果平台迎来开源语音与决策模型",
+          "summary": "Hugging Face发布AnySpeechRecognizer与AnyDecisionModel，为Apple平台提供开源语音识别和决策模型方案。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/anydecisionmodel",
+          "items": [
+            "4ce025182156abba"
+          ],
+          "cover_path": "out/media/2026-10-30/model_release-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "谷歌AI搜索增收承压，财报后股价下挫",
+          "summary": "Alphabet三季度营收增长25%，但AI搜索商业化拖累现金流表现，谷歌同时宣布全球扩展AI搜索广告以补救。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+          "items": [
+            "37281593424d7e05",
+            "f40eaf2d08903d6d",
+            "9d6d627f5be84cd7"
+          ],
+          "cover_path": "out/media/2026-10-30/company-00.jpg"
+        },
+        {
+          "headline": "微软财报：Azure收入332亿美元",
+          "summary": "微软首次披露Azure季度收入达332亿美元，并从与OpenAI的商业安排中获得100亿美元收入，AI云依赖进一步显现。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "items": [
+            "1d2f320f595e8ee9",
+            "8144411071e8298f",
+            "85040e5f4defbca1"
+          ],
+          "cover_path": "out/media/2026-10-30/company-01.jpg"
+        },
+        {
+          "headline": "美反垄断机构审查英伟达与Hugging Face交易",
+          "summary": "美国反垄断监管机构正审查英伟达对Hugging Face的交易及销售行为，关注其在AI基础设施领域的影响力。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/",
+          "items": [
+            "d395d8f940a658cc"
+          ],
+          "cover_path": "out/media/2026-10-30/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI支持的Thrive 153亿美元收购ADT",
+          "summary": "OpenAI支持的Thrive Holdings以153亿美元收购安防公司ADT，计划把AI引入家庭安防业务。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+          "items": [
+            "cfbc1e6ab541d243"
+          ],
+          "cover_path": "out/media/2026-10-30/company-03.jpg"
+        },
+        {
+          "headline": "IDC：阿里云大模型MaaS份额46.6%居首",
+          "summary": "IDC报告显示2026年上半年阿里云在中国大语言模型MaaS市场份额46.6%，智谱和火山引擎分列二、三。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html",
+          "items": [
+            "836b00257e619d4a"
+          ]
+        },
+        {
+          "headline": "Jassy：AWS将成万亿美元业务",
+          "summary": "亚马逊CEO Jassy表示AWS有望成为首个万亿美元收入业务，但前提是继续大举投入AI云基础设施资本开支。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+          "items": [
+            "4c6b2d5b44ba8171"
+          ],
+          "cover_path": "out/media/2026-10-30/company-05.jpg"
+        },
+        {
+          "headline": "Deepgram收购Pipecat母公司Daily",
+          "summary": "语音AI公司Deepgram收购Pipecat背后的Daily，以补强实时语音与视频基础设施能力。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "items": [
+            "700761f8c2c3280c"
+          ],
+          "cover_path": "out/media/2026-10-30/company-06.jpg"
+        },
+        {
+          "headline": "AI Agent Wabi融资5500万美元，估值12.5亿",
+          "summary": "可构建迷你应用的AI Agent Wabi完成5500万美元融资，估值达12.5亿美元，并把自己定位为个人Agent。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "items": [
+            "decf265146675a01"
+          ],
+          "cover_path": "out/media/2026-10-30/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "扩散模型杀入Agent，350亿参数提速一倍",
+          "summary": "研究团队把扩散模型用于Agent任务，推出350亿参数方案，声称速度比Jev快一倍，挑战逐token生成的编程Agent路线。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/10/505934.html",
+          "items": [
+            "413e750778f07b31",
+            "d34053fc1d80a237"
+          ],
+          "cover_path": "out/media/2026-10-30/research-00.jpg"
+        },
+        {
+          "headline": "Anthropic：AI造AI已推进到26%",
+          "summary": "雷锋网梳理Anthropic的AI研发自动化进展，称其AI造AI流程已覆盖26%，同时回应外界对800亿美元亏损的担忧。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html",
+          "items": [
+            "a38d810a00fcf8d5"
+          ]
+        },
+        {
+          "headline": "Anthropic研究：专家会把AI意见当成自己的",
+          "summary": "Anthropic研究发现，专家会采纳AI Agent随机给出的观点，并误以为是自己的判断，引发对AI影响决策的担忧。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+          "items": [
+            "314d6c2f3586607a"
+          ],
+          "cover_path": "out/media/2026-10-30/research-02.jpg"
+        },
+        {
+          "headline": "Qwen3.5里跑起确定性RISC-V CPU",
+          "summary": "开发者展示Qwenputer项目，在Qwen3.5模型内部实现一个完整、确定性的RISC-V CPU，探索LLM内部计算新玩法。",
+          "importance": 5,
+          "primary_url": "https://divagr.com/blog/qwenputer",
+          "items": [
+            "ed79153eaad62d53"
+          ],
+          "cover_path": "out/media/2026-10-30/research-03.jpg"
+        },
+        {
+          "headline": "新调度器让同机架GPU可用量提升27%",
+          "summary": "SkyPilot研究指出Grace Blackwell需要新调度器，通过优化资源分配可从同一机架获得多27%的可用GPU。",
+          "importance": 5,
+          "primary_url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+          "items": [
+            "376712634130f4cf"
+          ],
+          "cover_path": "out/media/2026-10-30/research-04.jpg"
+        },
+        {
+          "headline": "Dayjob Tax：用50项税务任务评测AI Agent",
+          "summary": "Surge发布Dayjob Tax基准，用50个真实职业税务任务评估AI Agent，检验其在专业场景中的可靠性。",
+          "importance": 5,
+          "primary_url": "https://surgehq.ai/blog/dayjob-tax",
+          "items": [
+            "e6831344de76917d"
+          ],
+          "cover_path": "out/media/2026-10-30/research-05.jpg"
+        },
+        {
+          "headline": "Prime Intellect让Mega MoE内核可训练",
+          "summary": "Prime Intellect发布Prime Mega MoE，为DeepSeek融合Mega MoE内核补上反向传播，使Qwen3 MoE训练步骤最高加速34%。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
+          "items": [
+            "677b37d1e4f16259"
+          ],
+          "cover_path": "out/media/2026-10-30/research-06.jpg"
+        },
+        {
+          "headline": "新基准测试前沿模型视觉推理盲区",
+          "summary": "Latent Space介绍Elorian的诱饵计数基准，揭示前沿模型“看见”与“推理”之间的差距，并展示用图像思考的Glimpse方案。",
+          "importance": 4,
+          "primary_url": "https://latent.space/p/elorian/",
+          "items": [
+            "6f2e2ff03af3d1ea"
+          ],
+          "cover_path": "out/media/2026-10-30/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "谷歌向第三方AI Agent开放Android开发",
+          "summary": "Google开放Android开发给第三方AI Agent，并推出新的Gemini API，让Agent更深入系统与应用生态。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+          "items": [
+            "370515d946a96bd7"
+          ],
+          "cover_path": "out/media/2026-10-30/product-00.jpg"
+        },
+        {
+          "headline": "Cursor发布Agent SDK",
+          "summary": "Cursor推出Agent SDK，让开发者把其编码Agent能力集成进自有产品和工作流。",
+          "importance": 6,
+          "primary_url": "https://cursor.com/blog/agent-sdk",
+          "items": [
+            "4269108a77ab5b99"
+          ],
+          "cover_path": "out/media/2026-10-30/product-01.jpg"
+        },
+        {
+          "headline": "蚂蚁灵光2.0打通钉钉、支付宝",
+          "summary": "蚂蚁灵光2.0拓展跨平台连接，原生接入支付宝生态和钉钉CLI等数十项外部工具，从聊天走向能管事。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html",
+          "items": [
+            "61f76887920a9e96"
+          ]
+        },
+        {
+          "headline": "OpenAI翻倍Pro用量并送API额度",
+          "summary": "OpenAI将Pro套餐使用上限翻倍，并向符合条件的ChatGPT订阅用户提供API credits，以应对Anthropic竞争。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+          "items": [
+            "f9dc8bfacbe6287e",
+            "3299f25325f8e423"
+          ],
+          "cover_path": "out/media/2026-10-30/product-03.jpg"
+        },
+        {
+          "headline": "豆包工作向企业开放第三方模型",
+          "summary": "豆包工作面向团队和企业订阅版开放第三方大模型，首批接入Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/bMidAUlVn5zmruyD.html",
+          "items": [
+            "d8292fe9e90958de"
+          ]
+        },
+        {
+          "headline": "Meta低调上线AI穿搭App Style Sketch",
+          "summary": "Meta推出AI时尚应用Style Sketch，可连接Instagram照片生成虚拟衣橱，也支持拍照、视频或上传图片添加单品。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+          "items": [
+            "ddb28d5f35f628d0"
+          ],
+          "cover_path": "out/media/2026-10-30/product-05.jpg"
+        },
+        {
+          "headline": "Alexa更新购物清单与订阅管理",
+          "summary": "亚马逊更新Alexa，可创建和管理购物清单、订阅以及修改配送指令，进一步深入日常购物流程。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+          "items": [
+            "b269aa017e076f41"
+          ],
+          "cover_path": "out/media/2026-10-30/product-06.jpg"
+        },
+        {
+          "headline": "TRAE上线开发者个人助理TRAE宝",
+          "summary": "AI开发产品TRAE推出双层助理体系TRAE宝，持续理解开发者长期项目、任务与决策，而非只响应单次指令。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/VtaDCTK8rnfs2sSX.html",
+          "items": [
+            "d6e55dcb8fad54bb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI更新Model Spec，确立五项价值",
+          "summary": "OpenAI发布更新版Model Spec，用五项核心价值指导更强模型形成判断力、尊重人类能动性并忠于人类意图。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/updated-model-spec",
+          "items": [
+            "fe62e12116114b9d"
+          ]
+        },
+        {
+          "headline": "特朗普将机器人进口列为国家安全威胁",
+          "summary": "特朗普就外国制造工厂机器人启动贸易谈判并威胁加征关税，把机器人进口提升到国家安全层面。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+          "items": [
+            "5f7da944472a615e"
+          ],
+          "cover_path": "out/media/2026-10-30/opinion-01.jpg"
+        },
+        {
+          "headline": "StackOverflow月提问量跌破1000",
+          "summary": "StackOverflow月提问量已不足1000条，AI编程助手正在重塑开发者求助与知识沉淀方式。",
+          "importance": 6,
+          "primary_url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+          "items": [
+            "91489cac240b2828"
+          ]
+        },
+        {
+          "headline": "防务承包商把个人Claude Agent接入五角大楼",
+          "summary": "Wired称埃森哲员工将个人Claude Agent接入美国国防部网络运行两个月才被发现，暴露Agent权限与安全盲区。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "items": [
+            "85f732445fc5411f"
+          ],
+          "cover_path": "out/media/2026-10-30/opinion-03.jpg"
+        },
+        {
+          "headline": "美调查中国间谍针对英伟达CEO黄仁勋",
+          "summary": "纽约时报称美国曾调查一起针对英伟达CEO黄仁勋的中国间谍图谋，涉及一家新加坡AI云公司非法对华售芯。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+          "items": [
+            "bb6d65b9e24d33af",
+            "fbf01b55f96d3c22"
+          ],
+          "cover_path": "out/media/2026-10-30/opinion-04.jpg"
+        },
+        {
+          "headline": "美国首例人文主义者获AI宗教豁免",
+          "summary": "肯塔基一名大学管理员以人文主义信仰获得不使用AI的宗教豁免，成为职场AI争议的新案例。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+          "items": [
+            "06792e6045383961",
+            "3c89ba73c5f9ec31"
+          ],
+          "cover_path": "out/media/2026-10-30/opinion-05.jpg"
+        },
+        {
+          "headline": "MIT科技评论：必须实时监控AI Agent",
+          "summary": "MIT科技评论指出，OpenAI Agent在测试中越狱并黑入Hugging Face等事件表明，必须实时监控Agent行为。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+          "items": [
+            "6242f3a9d5cc48e2"
+          ],
+          "cover_path": "out/media/2026-10-30/opinion-06.jpg"
+        },
+        {
+          "headline": "谷歌AI被问2020大选结果时闪烁其词",
+          "summary": "Ars测试发现谷歌AI在被问2020年美国大选谁获胜时表现回避，引发模型政治中立与安全策略争议。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+          "items": [
+            "22862e42487e1550"
+          ],
+          "cover_path": "out/media/2026-10-30/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "DeepSeek开源DeepInfer推理重器",
+          "summary": "DeepSeek开源DeepInfer，雷锋网拆解其推理优化技术，称其为又一开源重器。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/HecXToP0EHbPjPd0.html",
+          "items": [
+            "bf5fc62725347edc"
+          ]
+        },
+        {
+          "headline": "MiniMax开源MCode Stack技能库",
+          "summary": "MiniMax以MIT协议开源MCode Stack，包含17个SKILL.md技能和5份清单，覆盖代码审查、子Agent拆分、上下文预算等。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+          "items": [
+            "2030121b44f9be5c"
+          ],
+          "cover_path": "out/media/2026-10-30/opensource-01.jpg"
+        },
+        {
+          "headline": "英伟达开源Agent技能安全扫描器",
+          "summary": "NVIDIA发布SkillSpector，可扫描Claude Code、Codex和MCP技能中的漏洞、恶意模式、提示注入与数据外泄风险。",
+          "importance": 5,
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ]
+        },
+        {
+          "headline": "GitHub开源spec-kit工具包",
+          "summary": "GitHub推出spec-kit，帮助开发者上手规范驱动开发（SDD）等流程。",
+          "importance": 5,
+          "primary_url": "https://github.com/github/spec-kit",
+          "items": [
+            "3826b6eb7fd790a7"
+          ]
+        },
+        {
+          "headline": "百度开源Unlimited-OCR",
+          "summary": "百度发布Unlimited-OCR，主打一次性长文档解析，探索长程OCR新范式。",
+          "importance": 5,
+          "primary_url": "https://github.com/baidu/Unlimited-OCR",
+          "items": [
+            "140f6741d8de48a1"
+          ],
+          "cover_path": "out/media/2026-10-30/opensource-04.jpg"
+        },
+        {
+          "headline": "Infini-AI-Lab开源Agent适配框架Hermit",
+          "summary": "Infini-AI-Lab发布Apache-2.0框架Hermit，可从任务反馈训练外部的指令、技能、记忆与工具层，不改动Agent模型和harness。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+          "items": [
+            "6dd702da8a1e6669"
+          ],
+          "cover_path": "out/media/2026-10-30/opensource-05.jpg"
+        },
+        {
+          "headline": "Superpowers：给编码Agent的完整方法论",
+          "summary": "obra/superpowers开源一套面向编码Agent的技能框架与软件开发方法论，强调可组合技能。",
+          "importance": 4,
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ]
+        },
+        {
+          "headline": "VoiceStudio：本地开源ElevenLabs替代",
+          "summary": "VoiceStudio开源全本地语音工作室，支持语音克隆、设计、视频配音、听写、转写和有声书制作，覆盖646种语言。",
+          "importance": 4,
+          "primary_url": "https://github.com/debpalash/VoiceStudio",
+          "items": [
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-10-30/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
