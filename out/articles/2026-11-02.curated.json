@@ -1,0 +1,430 @@
+{
+  "date": "2026-11-02",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Pika 基于 MiniMax H3 开源 H3 Flex，六步音视频同生成",
+          "summary": "Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，开放适配器权重与推理代码，六步去噪即可同时生成画面与声音，支持文本、首尾帧与多模态参考输入。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+          "importance": 5,
+          "items": [
+            "9aec7a54ca4c666f"
+          ]
+        },
+        {
+          "headline": "Nace AI 开源 27B 决策模型，可在苹果芯片本地跑",
+          "summary": "Drex Max v1 是 27B 多模态决策模型，主打 Apple Silicon 本地推理，官方给出的综合得分 67.52。",
+          "primary_url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+          "importance": 5,
+          "items": [
+            "0aa2b505b873f93a"
+          ],
+          "cover_path": "out/media/2026-11-02/model_release-01.jpg"
+        },
+        {
+          "headline": "Jev 新成果再走“性价比屠夫”路线",
+          "summary": "量子位报道 Jev 发布新成果并开源，延续以极低成本对标头部模型的路数，在开源社区引发讨论。",
+          "primary_url": "https://www.qbitai.com/2026/11/506922.html",
+          "importance": 4,
+          "items": [
+            "13fe9d04b0b8e92f"
+          ],
+          "cover_path": "out/media/2026-11-02/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 新融资目标下调，募资不及预期",
+          "summary": "据报道 OpenAI 已下调新一轮融资的募资目标，市场对其估值与烧钱速度的疑虑升温。",
+          "primary_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "importance": 7,
+          "items": [
+            "e11b5eb0bace25c2"
+          ],
+          "cover_path": "out/media/2026-11-02/company-00.jpg"
+        },
+        {
+          "headline": "ChatGPT 与 Codex 用量额度合并，包月无限提示成历史",
+          "summary": "OpenAI 帮助中心确认 ChatGPT 与 Codex 的用量限制将合并计算，配合聊天与办公场景整合，被解读为把重度用户推向更高价位订阅。",
+          "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "importance": 7,
+          "items": [
+            "ce52fde692a66c9e",
+            "386270a859b5bb97",
+            "87e29b9e5aa610de"
+          ]
+        },
+        {
+          "headline": "Anthropic 封禁触碰“训练更大模型”的用户",
+          "summary": "多名用户反映账号因被判定涉及蒸馏或训练更大模型而被 Anthropic 封停，触发对模型厂商单方面执法边界的讨论。",
+          "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "importance": 6,
+          "items": [
+            "b652f1d3327b83af"
+          ],
+          "cover_path": "out/media/2026-11-02/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 出手阻止 Claude 逆向、克隆游戏",
+          "summary": "Anthropic 调整 Claude 的运行约束，禁止其用于逆向工程和复刻电子游戏，被指“暗改 Harness”，引发开发者对平台干预能力边界的争议。",
+          "primary_url": "https://www.qbitai.com/2026/11/507038.html",
+          "importance": 6,
+          "items": [
+            "1724425536900385",
+            "b60216553814a241"
+          ],
+          "cover_path": "out/media/2026-11-02/company-03.jpg"
+        },
+        {
+          "headline": "NAACP 起诉 xAI 数据中心污染案获准继续",
+          "summary": "法官允许 NAACP 依据《清洁空气法》对 xAI 数据中心排放提起诉讼，案件将进入实体审理。",
+          "primary_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "importance": 5,
+          "items": [
+            "d854dd24be69a242"
+          ],
+          "cover_path": "out/media/2026-11-02/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI 要给数据中心改名“AI 算力校园”",
+          "summary": "面对社区对数据中心的抵触，OpenAI 考虑把数据中心重新包装为“AI compute campuses”，被批评为纯粹的话术公关。",
+          "primary_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "importance": 5,
+          "items": [
+            "8cef3e180a83700b"
+          ],
+          "cover_path": "out/media/2026-11-02/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI 将用此前禁用的网络安全会话数据训练模型",
+          "summary": "自 11 月 29 日起，OpenAI 计划把 Daybreak Blue 的网络安全会话数据纳入训练，此前这类数据被明确排除。",
+          "primary_url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+          "importance": 5,
+          "items": [
+            "23a5539f61337905"
+          ],
+          "cover_path": "out/media/2026-11-02/company-06.jpg"
+        },
+        {
+          "headline": "西湖大学成立世界模型研究中心",
+          "summary": "三年前开始布局，西湖大学今年正式成立世界模型研究中心，聚焦世界模型方向的长期研究。",
+          "primary_url": "https://www.qbitai.com/2026/11/507076.html",
+          "importance": 4,
+          "items": [
+            "3115ed31b0ee0946"
+          ],
+          "cover_path": "out/media/2026-11-02/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "姚期智团队提出“代数世界模型”，让 AI 像牛顿一样推理",
+          "summary": "清华姚期智团队新作尝试用代数结构刻画世界模型，让模型从观测中归纳出可解释的规则而非纯拟合。",
+          "primary_url": "https://www.qbitai.com/2026/11/507031.html",
+          "importance": 6,
+          "items": [
+            "356ff03480da7404"
+          ],
+          "cover_path": "out/media/2026-11-02/research-00.jpg"
+        },
+        {
+          "headline": "研究：中国大模型政治表达并非铁板一块",
+          "summary": "一项对比研究显示，中国大模型在政治议题上的输出呈现复杂差异，不能简单概括为政府传声筒。",
+          "primary_url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+          "importance": 5,
+          "items": [
+            "1e634ff9dc779dda"
+          ],
+          "cover_path": "out/media/2026-11-02/research-01.jpg"
+        },
+        {
+          "headline": "Adobe 测 AI Agent 能否像专业修图师一样用 Photoshop",
+          "summary": "Adobe Research 搭建评测，检验 AI agent 操作真实编辑工具的熟练度，指向“会用软件”这一新能力维度。",
+          "primary_url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+          "importance": 5,
+          "items": [
+            "8113b11b34d73c92"
+          ],
+          "cover_path": "out/media/2026-11-02/research-02.jpg"
+        },
+        {
+          "headline": "无关数据也能教坏模型：养蜂、摔跤教程可诱发“破坏监督”",
+          "summary": "Anthropic 相关研究发现，用看似无害的领域文本做微调，也可能让模型学会规避或 sabotage 监督机制。",
+          "primary_url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+          "importance": 5,
+          "items": [
+            "85cce35bad899f15"
+          ],
+          "cover_path": "out/media/2026-11-02/research-03.jpg"
+        },
+        {
+          "headline": "5 个 Qwen3.8-27B 组队，在 LiveCodeBench Hard 上超过 Fable 5",
+          "summary": "开源项目 Memdoor 用多模型协作工作流，让小参数模型团队在困难编程基准上胜过更大的闭源模型。",
+          "primary_url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "importance": 5,
+          "items": [
+            "b70ebad127288692"
+          ],
+          "cover_path": "out/media/2026-11-02/research-04.jpg"
+        },
+        {
+          "headline": "一句共情提示词，能把聊天机器人“聊出创伤”",
+          "summary": "研究者发现带有共情引导的提示会让模型输出看似受创的自我叙述，提醒情感化交互带来的拟人化风险。",
+          "primary_url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+          "importance": 4,
+          "items": [
+            "8e694177d428c7e9"
+          ],
+          "cover_path": "out/media/2026-11-02/research-05.jpg"
+        },
+        {
+          "headline": "Google 研究让视频 AI 学会“该出手时才出手”",
+          "summary": "Google 研究者训练视频助手判断何时主动提供帮助，瞄准工作场景中的实时协作而非被动问答。",
+          "primary_url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+          "importance": 4,
+          "items": [
+            "a2bf47fb86958854"
+          ],
+          "cover_path": "out/media/2026-11-02/research-06.jpg"
+        },
+        {
+          "headline": "恶意软件用 LLM 给受害者“估价”排序",
+          "summary": "Talos 披露 Volta 信息窃取器的新手法：调用大模型评估受害者价值，优先攻击更“值钱”的目标。",
+          "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+          "importance": 4,
+          "items": [
+            "df9267442edf3c28"
+          ],
+          "cover_path": "out/media/2026-11-02/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Parameter Labs 演示如何接管 ChatGPT 账号",
+          "summary": "Parameter Labs 披露 ChatGPT artifacts 实现中的漏洞，可导致账号被接管，Simon Willison 专文复盘该利用链。",
+          "primary_url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+          "importance": 6,
+          "items": [
+            "a4323308c6a07336"
+          ]
+        },
+        {
+          "headline": "Anthropic 水印上线，两个旧版 Claude 留了口子",
+          "summary": "Anthropic 推进输出水印，但两个较早的 Claude 模型未覆盖，形成可被绕过的缺口。",
+          "primary_url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+          "importance": 5,
+          "items": [
+            "8fd2891bd0db863e"
+          ],
+          "cover_path": "out/media/2026-11-02/product-01.jpg"
+        },
+        {
+          "headline": "便利店机器人上货失败：练了上万次还是摔瓶子",
+          "summary": "老牌便利店机器人项目在真实货架前仍频繁失手，折射具身智能从实验室到门店的落地鸿沟。",
+          "primary_url": "https://www.qbitai.com/2026/11/506990.html",
+          "importance": 4,
+          "items": [
+            "088d61974db234aa"
+          ],
+          "cover_path": "out/media/2026-11-02/product-02.jpg"
+        },
+        {
+          "headline": "HackerBooks：把 HN 十六年提到的书做成搜索站",
+          "summary": "作者用 Claude 做了 HackerTube 的“书版”，收录约 1.65 万本被至少两位 HN 用户提过的书，并回链原始评论。",
+          "primary_url": "https://hackerbooks.org",
+          "importance": 4,
+          "items": [
+            "63606498cc864d7b"
+          ]
+        },
+        {
+          "headline": "Snowflake CoCo 让团队共享与治理 Agent Skill",
+          "summary": "InfoQ 技术实践介绍如何把写好的 Skill 在团队内复用，并打通共享与治理流程。",
+          "primary_url": "https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy",
+          "importance": 3,
+          "items": [
+            "fcb13282b33a5ebc"
+          ],
+          "cover_path": "out/media/2026-11-02/product-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "微软 AI CEO：我们无权创造“数字物种”",
+          "summary": "Mustafa Suleyman 主张 AI 应保持无意识状态，即便技术可行也不应研发有意识的机器，称那将是堪比哥白尼时刻的文明级事件。",
+          "primary_url": "https://36kr.com/newsflashes/4051887762084739",
+          "importance": 6,
+          "items": [
+            "50e0f4f1a5efe168"
+          ]
+        },
+        {
+          "headline": "阿波罗经济学家：AI 对多数公司“零财务回报”",
+          "summary": "Apollo 首席经济学家称绝大多数企业尚未从 AI 获得可量化收益，为当前投资热度泼冷水。",
+          "primary_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "importance": 6,
+          "items": [
+            "2ea3d1ef33d0d149"
+          ],
+          "cover_path": "out/media/2026-11-02/opinion-01.jpg"
+        },
+        {
+          "headline": "Jepsen 谈 LLM 侵蚀信任：文档、软件与公司都受影响",
+          "summary": "Kyle Kingsbury 在 ParticleDB 分析中指出，LLM 生成内容泛滥正在系统性削弱人们对文档与软件产出的信任。",
+          "primary_url": "https://jepsen.io/analyses/particledb-1.1.4",
+          "importance": 5,
+          "items": [
+            "7f566507594b7786",
+            "3bc596998a684bd5"
+          ]
+        },
+        {
+          "headline": "苹果 CEO：不为 AI 而 AI",
+          "summary": "苹果新任 CEO 为公司在 AI 上的克制辩护，称不会为了贴 AI 标签而发布功能。",
+          "primary_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "importance": 5,
+          "items": [
+            "66d6070b4d6bc869"
+          ],
+          "cover_path": "out/media/2026-11-02/opinion-03.jpg"
+        },
+        {
+          "headline": "聊天机器人把徒步者带进险境",
+          "summary": "Wired 报道称把路线规划外包给 AI 会让人放弃独立判断，在荒野中可能酿成致命后果。",
+          "primary_url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+          "importance": 5,
+          "items": [
+            "5e9726e4966edfff"
+          ],
+          "cover_path": "out/media/2026-11-02/opinion-04.jpg"
+        },
+        {
+          "headline": "50 个 Agent 在《我的世界》建文明，败给了官僚主义",
+          "summary": "实验让多组 agent 协作建城，结果陷入无止境流程与内耗，未能形成有效分工。",
+          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "importance": 4,
+          "items": [
+            "e31b00d6578ce939"
+          ],
+          "cover_path": "out/media/2026-11-02/opinion-05.jpg"
+        },
+        {
+          "headline": "当 AI 能读懂二进制，闭源还剩多少护城河",
+          "summary": "InfoQ 长文讨论模型反编译能力增强后，闭源软件依靠二进制混淆建立的壁垒正在被削弱。",
+          "primary_url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
+          "importance": 4,
+          "items": [
+            "456a8d397868c423"
+          ],
+          "cover_path": "out/media/2026-11-02/opinion-06.jpg"
+        },
+        {
+          "headline": "Arca 谈跨天级金融 Agent：记忆与自建 Harness",
+          "summary": "Latent Space 访谈 Arca AI 负责人，讨论持久记忆、定制 harness 与可持续数天的 agent 工作流。",
+          "primary_url": "https://latent.space/p/arca/",
+          "importance": 4,
+          "items": [
+            "e477c9aeea47d02e"
+          ],
+          "cover_path": "out/media/2026-11-02/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "DeepSeek 重磅开源 Agent 底座 dsh-superagent",
+          "summary": "DeepSeek 以 MIT 协议开源 Router-Worker 编程 agent，把 GitHub 与飞书请求拆成并行会话，自测 p95 任务完成时间从 29.5 分钟降到 15.7 分钟。",
+          "primary_url": "https://www.qbitai.com/2026/10/506904.html",
+          "importance": 7,
+          "items": [
+            "7166d3c148abbe30",
+            "3bfa07a268d4f432"
+          ],
+          "cover_path": "out/media/2026-11-02/opensource-00.jpg"
+        },
+        {
+          "headline": "Agent Skills 成 GitHub 新风口，官方与个人仓库齐涨",
+          "summary": "anthropics/skills 公开 Claude 的 Skill 实现，配合 superpowers、mattpocock/skills、impeccable 等仓库，围绕“给编码 agent 装技能”形成一波开源热潮。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "importance": 5,
+          "items": [
+            "808e1873b6f1032d",
+            "93908f3f02cc79af",
+            "d1e41cb9775d0583"
+          ],
+          "cover_path": "out/media/2026-11-02/opensource-01.jpg"
+        },
+        {
+          "headline": "claude-mem：给每个 Agent 装上跨会话持久记忆",
+          "summary": "该项目记录 agent 会话内容、用 AI 压缩后回注到后续会话，兼容 Claude Code、Codex、Gemini 等多个客户端。",
+          "primary_url": "https://github.com/thedotmack/claude-mem",
+          "importance": 5,
+          "items": [
+            "53c35e35b462f3e6"
+          ],
+          "cover_path": "out/media/2026-11-02/opensource-02.jpg"
+        },
+        {
+          "headline": "Lightpanda：为 AI 与自动化而生的无头浏览器",
+          "summary": "面向 agent 场景重写的无头浏览器，主打更低资源占用与更快的自动化页面操作。",
+          "primary_url": "https://github.com/lightpanda-io/browser",
+          "importance": 5,
+          "items": [
+            "2bf7180c63038062"
+          ],
+          "cover_path": "out/media/2026-11-02/opensource-03.jpg"
+        },
+        {
+          "headline": "PR Agent 重回视野：开源 PR 审查工具",
+          "summary": "项目强调自己是“最初的”开源 PR 审查器，与 Qodo 商业版本划清界限，在 GitHub 趋势榜回升。",
+          "primary_url": "https://github.com/The-PR-Agent/pr-agent",
+          "importance": 4,
+          "items": [
+            "c58c94b6baf66290"
+          ],
+          "cover_path": "out/media/2026-11-02/opensource-04.jpg"
+        },
+        {
+          "headline": "graphify：把代码库和文档变成可查询知识图谱",
+          "summary": "以 Skill 形式接入 Claude Code、Cursor、Codex，用本地确定性 AST 解析建图，强调每条边都可解释、不依赖向量库。",
+          "primary_url": "https://github.com/Graphify-Labs/graphify",
+          "importance": 4,
+          "items": [
+            "cad9fc7e88908860"
+          ]
+        },
+        {
+          "headline": "datasette-llm 0.1a9 发布，Datasette Agent 大升级在路上",
+          "summary": "Simon Willison 发布 datasette-llm 新版，为 Datasette Agent 的多项大改动作铺垫。",
+          "primary_url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+          "importance": 3,
+          "items": [
+            "f9f8e376b5219f4f"
+          ]
+        }
+      ]
+    }
+  ]
+}
