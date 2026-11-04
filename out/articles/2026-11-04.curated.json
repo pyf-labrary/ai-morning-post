@@ -1,0 +1,485 @@
+{
+  "date": "2026-11-04",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI：GPT-6 Astra 一周从零设计出硬件设备",
+          "summary": "OpenAI 称 GPT-6 Astra 配合 Codex 在不到一周内完成一款硬件设备从概念到设计，覆盖 CAD、PCB 与仿真等工程流程。",
+          "primary_url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+          "importance": 9,
+          "items": [
+            "5bdfedc633cf2e15",
+            "0ac172fff562655a"
+          ],
+          "cover_path": "out/media/2026-11-04/model_release-00.jpg"
+        },
+        {
+          "headline": "Anthropic 推 FlashProve：给模型回复加密码学身份证明",
+          "summary": "基于 zkSNARK 的原型能在不暴露权重的前提下证明某条回复确实来自声明的模型；单张 H100 上验证 Llama 4 Maverick，证明体积 19MB。",
+          "primary_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "importance": 7,
+          "items": [
+            "afd5afd92c952b5e",
+            "9a2ef923f93cadc8"
+          ],
+          "cover_path": "out/media/2026-11-04/model_release-01.jpg"
+        },
+        {
+          "headline": "753B 开源科学大模型 Hydrogen-1.0 发布",
+          "summary": "Deep Principle 在 GLM-5.3 上后训练出面向化学、材料与生命科学的开放权重模型，训练数据包含实验室记录与智能体发现轨迹。",
+          "primary_url": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+          "importance": 6,
+          "items": [
+            "7a2e1214b6188c95"
+          ],
+          "cover_path": "out/media/2026-11-04/model_release-02.jpg"
+        },
+        {
+          "headline": "Soniox STT v6 让语音 Agent 边听边说",
+          "summary": "新版语音识别 API 加入回声消除与“读取 Agent 自身输出”的能力，专门优化语音助手短回答与打断场景。",
+          "primary_url": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+          "importance": 4,
+          "items": [
+            "06b586d670e6bebb"
+          ],
+          "cover_path": "out/media/2026-11-04/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 改口：RSI 已“非常接近”",
+          "summary": "Anthropic 在上市文件中警告已逼近可自我改进（RSI）的能力边界，同时单季营收约 1130 亿元人民币，但算力成本压力仍在扩大。",
+          "primary_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "importance": 8,
+          "items": [
+            "ccb6c7c3528219e8",
+            "d3fe2116742dc48c",
+            "eb58a4a8103f5d77"
+          ],
+          "cover_path": "out/media/2026-11-04/company-00.jpg"
+        },
+        {
+          "headline": "推理初创 Fal 融资 13 亿美元，估值翻倍至 160 亿",
+          "summary": "五岁的推理服务公司完成由 Bessemer 领投的 13 亿美元融资，估值在需求激增下翻倍至 160 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "importance": 7,
+          "items": [
+            "3cad115913c49669"
+          ],
+          "cover_path": "out/media/2026-11-04/company-01.jpg"
+        },
+        {
+          "headline": "英伟达被曝要求云客户削减中国业务",
+          "summary": "报道称英伟达正推动云服务客户收缩在华 AI 相关业务，以配合不断收紧的出口管制。",
+          "primary_url": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/",
+          "importance": 7,
+          "items": [
+            "98c18c595d96a594"
+          ],
+          "cover_path": "out/media/2026-11-04/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 连挖公关与政界高管，为 IPO 铺路",
+          "summary": "前 Uber 总裁 Jill Hazelbaker 出任首席企业事务官，同时聘请前美国陆军部长，补强政府关系与公众沟通。",
+          "primary_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "importance": 6,
+          "items": [
+            "ffd7880ca2471917",
+            "221dea3a950fd8eb",
+            "f1c2e34ca1583e72"
+          ]
+        },
+        {
+          "headline": "高盛撤下交易员与银行家的 AI 编程工具",
+          "summary": "在高盛内部，面向交易与投行人员的 AI 编码工具被收回权限，反映出金融机构对数据与合规风险的顾虑。",
+          "primary_url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+          "importance": 6,
+          "items": [
+            "6fff65dbf5dd7b02"
+          ],
+          "cover_path": "out/media/2026-11-04/company-04.jpg"
+        },
+        {
+          "headline": "微软向 6 万员工发出自愿离职邀请",
+          "summary": "覆盖全球超四分之一员工，连副总裁层级也在列，被视为微软围绕 AI 重组人力的重要一步。",
+          "primary_url": "https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "193a2c9bcabec528"
+          ],
+          "cover_path": "out/media/2026-11-04/company-05.jpg"
+        },
+        {
+          "headline": "纽约时报等起诉浏览器 Brave 抓取内容",
+          "summary": "NYT 指控 Brave 抓取受版权保护内容并转供给 Anthropic、Perplexity 等客户，AI 数据供应链再成诉讼焦点。",
+          "primary_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "importance": 6,
+          "items": [
+            "22104810438c5862"
+          ],
+          "cover_path": "out/media/2026-11-04/company-06.jpg"
+        },
+        {
+          "headline": "华为让客户自寻 AI 芯片内存，采购被推向黑市",
+          "summary": "报道称华为不再保证 HBM 等关键内存供应，客户被迫自行解决，深圳灰色市场交易规模已相当可观。",
+          "primary_url": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/",
+          "importance": 6,
+          "items": [
+            "334433cba43d6676"
+          ],
+          "cover_path": "out/media/2026-11-04/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "LLM 可直接读写神经网络权重，新范式引热议",
+          "summary": "“权重空间编程”让模型直接编辑自身权重（如削减 Qwen 的推理循环），被认为可能把 autoresearch 环节从自我改进回路中省去。",
+          "primary_url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "importance": 7,
+          "items": [
+            "5c96ee66203f31c2",
+            "c185df8c4d9bb8f8"
+          ],
+          "cover_path": "out/media/2026-11-04/research-00.jpg"
+        },
+        {
+          "headline": "Zyphra 分层注意力：给冻结模型换上真·次二次注意力",
+          "summary": "ZHA 用树索引稀疏注意力加 40 亿 token 蒸馏改造现成 LLM，在推理与 256K 检索基准上追平稠密注意力。",
+          "primary_url": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+          "importance": 6,
+          "items": [
+            "864f001de355ae32"
+          ],
+          "cover_path": "out/media/2026-11-04/research-01.jpg"
+        },
+        {
+          "headline": "百度首发 Apollo World 世界模型，教 AI 自己开车",
+          "summary": "面向物理智能体的全模态世界模型，已用于萝卜快跑海外测试，并提出世界模型“2+3”判断标准。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html",
+          "importance": 6,
+          "items": [
+            "e4e4a9636fa3863f",
+            "dd9a980d49928f92"
+          ]
+        },
+        {
+          "headline": "“逆向博弈论”想给 AI Agent 套上规则笼子",
+          "summary": "MIT 科技评论介绍机制设计新思路：不靠对齐训练，而是设计激励结构让强模型自愿守规矩。",
+          "primary_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "importance": 6,
+          "items": [
+            "ed62ccb933544b35"
+          ],
+          "cover_path": "out/media/2026-11-04/research-03.jpg"
+        },
+        {
+          "headline": "北大与 IBM 用模拟计算一步完成矩阵运算",
+          "summary": "研究称模拟计算进入“矩阵时代”，GPU 需迭代上百次的计算可一步完成，为 AI 硬件给出新路线。",
+          "primary_url": "https://www.qbitai.com/2026/11/507367.html",
+          "importance": 6,
+          "items": [
+            "979dc9af454e9a72"
+          ],
+          "cover_path": "out/media/2026-11-04/research-04.jpg"
+        },
+        {
+          "headline": "AI2 发布 StateBench：考验模型长文档状态追踪",
+          "summary": "新基准专门测试语言模型在超长文档中跟踪状态变化的能力，直指长上下文评测盲区。",
+          "primary_url": "https://huggingface.co/blog/allenai/statebench",
+          "importance": 5,
+          "items": [
+            "71226804fc64b0c0"
+          ],
+          "cover_path": "out/media/2026-11-04/research-05.jpg"
+        },
+        {
+          "headline": "AI Agent 接管 SETI 艾伦望远镜阵列",
+          "summary": "SETI 研究所在艾伦望远镜阵列部署 AI 智能体自动排程与筛查信号，用于搜寻地外文明。",
+          "primary_url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+          "importance": 5,
+          "items": [
+            "713a9f879a393208"
+          ],
+          "cover_path": "out/media/2026-11-04/research-06.jpg"
+        },
+        {
+          "headline": "斯坦福研究：LLM 迭代速度已跑赢解释它的科学",
+          "summary": "论文指出模型能力提升远快于对其机理的学术理解，评测与研究正在被产品节奏甩开。",
+          "primary_url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+          "importance": 5,
+          "items": [
+            "554c16509e3ac9c9"
+          ],
+          "cover_path": "out/media/2026-11-04/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "苹果智能 Beta 接入千问，Siri 可一键跳转",
+          "summary": "iOS 开发者 Beta 中，Siri、写作工具与视觉智能可直接调用千问的文本与图像理解能力，复杂需求跳转千问 App 并同步对话。",
+          "primary_url": "https://36kr.com/newsflashes/4054743945467013?f=rss",
+          "importance": 7,
+          "items": [
+            "3604934f3f53155d"
+          ]
+        },
+        {
+          "headline": "Netflix 上线 AI Discover：按心情找片",
+          "summary": "新标签页用 AI 根据用户当下心情推荐内容，是 Netflix 生成式推荐功能的首个实验形态。",
+          "primary_url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+          "importance": 6,
+          "items": [
+            "348b62e9c4d505f1"
+          ],
+          "cover_path": "out/media/2026-11-04/product-01.jpg"
+        },
+        {
+          "headline": "DeepMind 用 Antigravity 做智能体化学信息学",
+          "summary": "Google Antigravity 搭配化学信息学技能包，加速化合物检索与药物发现流程，并能提出新型刚性化大环分子。",
+          "primary_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "importance": 6,
+          "items": [
+            "7242858da608d077"
+          ],
+          "cover_path": "out/media/2026-11-04/product-02.jpg"
+        },
+        {
+          "headline": "Anthropic Message Threads：长对话首 token 快 35%",
+          "summary": "通过线索化消息结构，Claude 在长会话场景把首 token 延迟降低约 35%。",
+          "primary_url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+          "importance": 6,
+          "items": [
+            "22b7fe1d450ea2bf"
+          ],
+          "cover_path": "out/media/2026-11-04/product-03.jpg"
+        },
+        {
+          "headline": "零 Rust 经验的 Anthropic 团队靠 Claude 重构核心 API",
+          "summary": "跨语言重写后 CPU 占用降 40%、延迟降 20%，成为“AI 写生产级代码”的标志性案例。",
+          "primary_url": "https://www.infoq.cn/article/IMWM7ZXDi99sMiUVZBIF?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "6a082c5f8130508c"
+          ],
+          "cover_path": "out/media/2026-11-04/product-04.jpg"
+        },
+        {
+          "headline": "苹果新规：AI 伴侣与约会应用限 18 岁以上",
+          "summary": "App Store 新规要求含性/恋爱内容的 AI 伴侣类应用必须标注 18+，与约会应用同标准。",
+          "primary_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+          "importance": 5,
+          "items": [
+            "6b9acec53c002178"
+          ],
+          "cover_path": "out/media/2026-11-04/product-05.jpg"
+        },
+        {
+          "headline": "纯语音 Personal Agent 亮相，被称“乔布斯心中的 Siri”",
+          "summary": "一款全语音交互的个人智能体产品发布，主打无需界面即可完成日常任务。",
+          "primary_url": "https://www.qbitai.com/2026/11/507419.html",
+          "importance": 5,
+          "items": [
+            "8f768d5ecc08e523"
+          ],
+          "cover_path": "out/media/2026-11-04/product-06.jpg"
+        },
+        {
+          "headline": "双 11 直播间卖词元：10 万份体验装半小时售空",
+          "summary": "千问办公个人会员月卡在头部直播间卖出 10 万份、对应约 2 万亿词元额度，算力首次以消费品姿态触达大众。",
+          "primary_url": "https://36kr.com/newsflashes/4054678231241600?f=rss",
+          "importance": 5,
+          "items": [
+            "748b836c6f6160f1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "皮查伊：宁可少卖云算力，也要先留给 Gemini",
+          "summary": "谷歌 CEO 罕见长访谈谈及 AI 自我改进与算力争夺，称公司优先保障内部模型训练而非对外出售算力。",
+          "primary_url": "https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&utm_medium=article",
+          "importance": 7,
+          "items": [
+            "ae4594e44392a959"
+          ],
+          "cover_path": "out/media/2026-11-04/opinion-00.jpg"
+        },
+        {
+          "headline": "谁在配合特朗普的“超级智能”忠诚度测试",
+          "summary": "行政令要求企业表态，MIT 科技评论梳理哪些公司正在排队靠拢，以及这对 AI 监管意味着什么。",
+          "primary_url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+          "importance": 6,
+          "items": [
+            "383de3bb6f9b8f8a"
+          ],
+          "cover_path": "out/media/2026-11-04/opinion-01.jpg"
+        },
+        {
+          "headline": "Google：学校可以关掉 AI，但得连搜索一起放弃",
+          "summary": "谷歌允许学校禁用其 AI 工具，但由于 AI 已嵌入搜索，禁用 AI 等于放弃 Google 搜索，引发教育界争议。",
+          "primary_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+          "importance": 6,
+          "items": [
+            "af5ea3569f6aeb03",
+            "a5ed8aa7646bf50d"
+          ],
+          "cover_path": "out/media/2026-11-04/opinion-02.jpg"
+        },
+        {
+          "headline": "Claude 禁止克隆游戏，但挡不住 AI 抄袭潮",
+          "summary": "Anthropic 收紧 Claude Code 中复刻现成游戏的行为，但模仿潮规模远超单一模型厂商的管控能力。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+          "importance": 5,
+          "items": [
+            "714c2dabbc31cabc",
+            "0948d03612a4ef62"
+          ],
+          "cover_path": "out/media/2026-11-04/opinion-03.jpg"
+        },
+        {
+          "headline": "别让 AI 帮你投票",
+          "summary": "Wired 提醒：从幻觉到党派偏见，聊天机器人在选举日给出的答案不可靠。",
+          "primary_url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+          "importance": 5,
+          "items": [
+            "ec77fd3ff5f6fb7b"
+          ],
+          "cover_path": "out/media/2026-11-04/opinion-04.jpg"
+        },
+        {
+          "headline": "两个时代的软件工程：读者来信里的真实变化",
+          "summary": "Pragmatic Engineer 征文精选，记录 AI 如何改变一线工程师的日常协作与交付方式。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+          "importance": 5,
+          "items": [
+            "1c5bbf68b6717aa8"
+          ],
+          "cover_path": "out/media/2026-11-04/opinion-05.jpg"
+        },
+        {
+          "headline": "模型谁都能买，拉开差距的是 AI 生产力系统",
+          "summary": "观点认为下一阶段竞争不在模型本身，而在把模型组织成可交付的生产力系统的能力。",
+          "primary_url": "https://www.qbitai.com/2026/11/507448.html",
+          "importance": 5,
+          "items": [
+            "c59b19bf168fa796"
+          ],
+          "cover_path": "out/media/2026-11-04/opinion-06.jpg"
+        },
+        {
+          "headline": "港大发布全球首个 KYA 报告：给 Agent 建信用体系",
+          "summary": "报告聚焦智能体的身份、授权、信用与责任，提出成熟度模型与“智能体信任资本”概念。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html",
+          "importance": 4,
+          "items": [
+            "76e3971525d52ce4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Karpathy 的 nanochat：100 美元能买到的最好 ChatGPT",
+          "summary": "用极低成本完整复现聊天模型训练与推理链路的开源项目，持续占据 GitHub 趋势榜。",
+          "primary_url": "https://github.com/karpathy/nanochat",
+          "importance": 6,
+          "items": [
+            "bc83293207e54076"
+          ],
+          "cover_path": "out/media/2026-11-04/opensource-00.jpg"
+        },
+        {
+          "headline": "蚂蚁灵波开源机器人“通用大脑”，亮相乌镇",
+          "summary": "全栈开源的机器人通用大脑模型对外发布，试图解决不同本体、不同场景都要从头训练的问题。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html",
+          "importance": 6,
+          "items": [
+            "ffbe8c6c3453433f"
+          ]
+        },
+        {
+          "headline": "Vercel 开源 agent-desktop：给 Agent 一台电脑",
+          "summary": "面向 AI Agent 的 computer-use 命令行工具，让智能体可直接操作桌面环境。",
+          "primary_url": "https://github.com/vercel-labs/agent-desktop",
+          "importance": 5,
+          "items": [
+            "07a21128a4011a5d"
+          ],
+          "cover_path": "out/media/2026-11-04/opensource-02.jpg"
+        },
+        {
+          "headline": "两个新项目想让桌面端跑起数据中心级大模型",
+          "summary": "FreeToken 提供本地大规模模型服务，colibri 用纯 C 从磁盘流式加载 MoE 专家、零依赖运行前沿模型。",
+          "primary_url": "https://github.com/FlashML-org/FreeToken",
+          "importance": 5,
+          "items": [
+            "3cce4e9ddd69f580",
+            "596152844a9f15d8"
+          ],
+          "cover_path": "out/media/2026-11-04/opensource-03.jpg"
+        },
+        {
+          "headline": "claude-mem：给每个 Agent 装上持久记忆",
+          "summary": "自动捕获 Agent 会话内容、压缩后回注到后续上下文，兼容 Claude Code、Codex、Gemini 等。",
+          "primary_url": "https://github.com/thedotmack/claude-mem",
+          "importance": 5,
+          "items": [
+            "53c35e35b462f3e6"
+          ],
+          "cover_path": "out/media/2026-11-04/opensource-04.jpg"
+        },
+        {
+          "headline": "Simon Willison 的 llm 0.37 发布",
+          "summary": "LLM 命令行工具与 Python 库两个月累积的大版本更新，新增多项模型与工具链支持。",
+          "primary_url": "https://simonwillison.net/2026/Nov/2/llm/",
+          "importance": 5,
+          "items": [
+            "6760aafddc2a50c8"
+          ]
+        },
+        {
+          "headline": "paperclip：开源的企业内 Agent 管理台",
+          "summary": "面向工作中的多智能体管理场景，提供开源的可视化调度与协作界面。",
+          "primary_url": "https://github.com/paperclipai/paperclip",
+          "importance": 4,
+          "items": [
+            "45a12bb322de6e4b"
+          ],
+          "cover_path": "out/media/2026-11-04/opensource-06.jpg"
+        },
+        {
+          "headline": "GitHub spec-kit：规范驱动开发的起步工具包",
+          "summary": "帮助团队落地 SDD（规范驱动开发）流程的工具包，配套 Claude Code 等编码智能体使用。",
+          "primary_url": "https://github.com/github/spec-kit",
+          "importance": 4,
+          "items": [
+            "3826b6eb7fd790a7"
+          ],
+          "cover_path": "out/media/2026-11-04/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
