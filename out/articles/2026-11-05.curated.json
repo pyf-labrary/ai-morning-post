@@ -1,0 +1,520 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "腾讯混元Hy4上线：首次引入视觉理解",
+          "summary": "腾讯发布混元 Hy4，首次加入视觉理解能力，可操作电脑完成跨应用任务，官方称综合表现跻身最强开源模型之列。模型已上线腾讯云 TokenHub，输入价格低至 0.3 元/百万 tokens，限时最低 2.5 折。",
+          "importance": 8,
+          "primary_url": "https://36kr.com/newsflashes/4056155946849414?f=rss",
+          "items": [
+            "35b2ed767df54575",
+            "206ad7805130105a"
+          ]
+        },
+        {
+          "headline": "OpenAI发布Images 2.6：生成更快、能出GIF",
+          "summary": "Images 2.6 带来更快的图像生成、GIF 创作与更精准的局部编辑，并新增 API 控制项，已同步接入 ChatGPT、Codex 与 API。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/introducing-images-2-6",
+          "items": [
+            "69219ee21a2975c7",
+            "b4c5b0a233c58735"
+          ]
+        },
+        {
+          "headline": "GPT-6 Astra两项猛料：改他模权重、一周造硬件",
+          "summary": "有报道称 GPT-6 Astra 能直接通过权重层面“编程”其他模型，并在不到一周内从零设计出一款硬件设备，引发对前沿模型能力边界的讨论。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+          "items": [
+            "d6edfb86176d4aaa",
+            "5bdfedc633cf2e15"
+          ],
+          "cover_path": "out/media/2026-11-05/model_release-02.jpg"
+        },
+        {
+          "headline": "Gemini 4 Carbon登顶榜单，谷歌市值却大跌",
+          "summary": "Gemini 4 Carbon 在评测榜拿下第一，但被指“速成”背后是谷歌的一场豪赌，发布后公司市值明显承压。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/yanxishe/7uvYEZBsCWcPvhw3.html",
+          "items": [
+            "e68fef3175199b5e"
+          ]
+        },
+        {
+          "headline": "GPT-5.6 Cyber经AWS GovCloud开放授权客户",
+          "summary": "Daybreak Red 通过 Amazon Bedrock 在 AWS GovCloud（美东）向获批客户提供 GPT-5.6 Cyber，面向合规网络安全作业场景。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "items": [
+            "8c17d3367da14a6a"
+          ]
+        },
+        {
+          "headline": "Ripple-65B预览版开源：终端任务超同侪",
+          "summary": "Ricursive 发布 Apache 2.0 的 65B 稠密开放权重模型 Ripple-65B Preview，Terminal-Bench 2.1 得分 80.5，领先体积最高达其 15 倍的美国开源模型。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+          "items": [
+            "1ed3cfa9db44364a"
+          ],
+          "cover_path": "out/media/2026-11-05/model_release-05.jpg"
+        },
+        {
+          "headline": "webAI发布TwIL-8B：MATH-500拿98.2",
+          "summary": "基于 IBM Granite 4.2 8B 后训练的 8.8B 推理模型 TwIL-8B 发布，数学与代码基准亮眼，但知识类评测落后同级模型。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
+          "items": [
+            "31a99ea49041c0e0"
+          ],
+          "cover_path": "out/media/2026-11-05/model_release-06.jpg"
+        },
+        {
+          "headline": "腾讯WeVisOne-VL：一个模型包办检测OCR抠图",
+          "summary": "微信视觉团队开源 Apache 2.0 的 WeVisOne-VL（2B/4B），统一检测、OCR、计数、分割与 alpha matting，配 9.6M 参数像素解码器。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
+          "items": [
+            "96a49eea81ea8f35"
+          ],
+          "cover_path": "out/media/2026-11-05/model_release-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI收购Pierre，让Git跟上AI写代码",
+          "summary": "OpenAI 宣布收购 Pierre Computer Company，扩充 Codex 在代码构建、理解与评审上的工具链，目标是让版本控制跟上 AI 编码智能体的产出速度。",
+          "importance": 8,
+          "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
+          "items": [
+            "3644a6613b01d992",
+            "7b94b8fd49374a8b"
+          ]
+        },
+        {
+          "headline": "Meta收购AI编码初创Conductor",
+          "summary": "Conductor 支持工程师同时部署多支智能体分头推进项目，Meta 将其收入囊中加码 AI 编码赛道。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+          "items": [
+            "20455eae04a0f225"
+          ],
+          "cover_path": "out/media/2026-11-05/company-01.jpg"
+        },
+        {
+          "headline": "推理初创Fal估值翻倍至160亿美元",
+          "summary": "成立五年的 AI 推理公司 Fal 完成 13 亿美元融资，由 Bessemer 领投，估值翻倍至 160 亿美元，反映推理算力需求激增。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "items": [
+            "3cad115913c49669"
+          ],
+          "cover_path": "out/media/2026-11-05/company-02.jpg"
+        },
+        {
+          "headline": "苹果被曝大幅削减内部AI使用预算",
+          "summary": "报道称苹果显著下调工程团队的 AI 开支预算，与其对外强调的 AI 战略形成反差。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "items": [
+            "ed02d2907af6042f"
+          ],
+          "cover_path": "out/media/2026-11-05/company-03.jpg"
+        },
+        {
+          "headline": "Uber总裁跳槽OpenAI，Brockman亲自欢迎",
+          "summary": "曾任谷歌、Snap 公关负责人的 Uber 总裁转投 OpenAI，Brockman 发文欢迎，被视为 OpenAI 强化政策与公共事务的信号。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article",
+          "items": [
+            "cf493e5a58329d22"
+          ],
+          "cover_path": "out/media/2026-11-05/company-04.jpg"
+        },
+        {
+          "headline": "后摩智能完成数十亿元B轮融资",
+          "summary": "存算一体 AI 芯片公司后摩智能近期完成数十亿元人民币 B 轮融资，产业资本与国资集体押注，端侧大模型芯片进入规模化兑现阶段。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+          "items": [
+            "7ad8c4921159745c"
+          ]
+        },
+        {
+          "headline": "Anthropic的算力账本：越卖越不赚钱",
+          "summary": "在算力毛利理应改善的节点，Anthropic 的毛利反而走低，暴露头部模型公司共同的推理成本困境。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+          "items": [
+            "eb58a4a8103f5d77"
+          ],
+          "cover_path": "out/media/2026-11-05/company-06.jpg"
+        },
+        {
+          "headline": "Ballistic Ventures拟募4.9亿美元押AI安全",
+          "summary": "Ted Schlein 执掌的网络安全基金 Ballistic Ventures 计划募集 3.6 亿美元主基金和 1.3 亿美元配套基金，趁 AI 驱动的安全需求膨胀扩张。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+          "items": [
+            "d78fe91175939b14"
+          ],
+          "cover_path": "out/media/2026-11-05/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI自动化流水线挖出948个内核提权漏洞",
+          "summary": "OpenAI 搭建自主流水线，在 Linux 内核中发现、验证并生成 948 个本地提权漏洞的补丁，展示智能体在安全审计上的规模化能力。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "items": [
+            "1fd77ad63c4bf627"
+          ]
+        },
+        {
+          "headline": "Codex11天写出13.9万行新内核，还能跑",
+          "summary": "有实践称 Codex 在 11 天内生成 13.9 万行内核代码，Rocky Linux 10 上可启动运行，引发对 AI 生成系统级代码边界的讨论。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/OiyNEtFwV05opvsLTcvK?utm_source=rss&utm_medium=article",
+          "items": [
+            "d6f57f87e3f9bd67"
+          ],
+          "cover_path": "out/media/2026-11-05/research-01.jpg"
+        },
+        {
+          "headline": "斯坦福研究：LLM迭代快到解释研究追不上",
+          "summary": "斯坦福团队发现大模型的快速迭代正在甩开旨在解释其行为的研究，能力评估与可解释性之间缺口扩大。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+          "items": [
+            "554c16509e3ac9c9"
+          ],
+          "cover_path": "out/media/2026-11-05/research-02.jpg"
+        },
+        {
+          "headline": "开源基准CloudOpsBench：推理是云运维最大瓶颈",
+          "summary": "新开源基准显示，AI 在云运维任务中的主要短板不是工具调用而是推理能力，多步诊断与根因判断仍是难点。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+          "items": [
+            "f6f33b91a9657a7c"
+          ],
+          "cover_path": "out/media/2026-11-05/research-03.jpg"
+        },
+        {
+          "headline": "论文唱反调：长上下文其实没那么必要",
+          "summary": "研究指出越靠后的 token 生成成本越高，在前沿开源模型上差距可达 7 倍；通过频繁压缩上下文，长程与长输入任务表现不降反稳。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2611.05306v1",
+          "items": [
+            "2cf0d2f53f938dd9"
+          ],
+          "cover_path": "out/media/2026-11-05/research-04.jpg"
+        },
+        {
+          "headline": "NVIDIA三项优化让DGX Spark上MoE推理快42.5%",
+          "summary": "NVIDIA 在单台 DGX Spark 上叠加三项优化，对蚂蚁 inclusionAI 的 124B Ling-3.0-flash 做 MoE 推理加速，GSM8K 解码吞吐提升 42.5% 且精度无损。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+          "items": [
+            "5c3fd3f31b5274bc"
+          ],
+          "cover_path": "out/media/2026-11-05/research-05.jpg"
+        },
+        {
+          "headline": "AllenAI发布StateBench：考长文档状态追踪",
+          "summary": "新基准专门测试语言模型在超长文档中跟踪状态变化的能力，暴露多轮信息更新场景下的系统性失误。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/allenai/statebench",
+          "items": [
+            "71226804fc64b0c0"
+          ],
+          "cover_path": "out/media/2026-11-05/research-06.jpg"
+        },
+        {
+          "headline": "严骏驰团队给出Transformer改造两条路",
+          "summary": "在 CNCC 2026 上，上海交大严骏驰团队分享对 Transformer 架构的两条改造思路，探讨注意力与结构效率的替代方案。",
+          "importance": 4,
+          "primary_url": "https://www.leiphone.com/category/private/qWW7SeepMBzAQAfb.html",
+          "items": [
+            "dafe02330fcd689e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "苹果智能Beta接入千问，Siri多了个外援",
+          "summary": "iOS 开发者 Beta 版中，用户可在 Siri、写作工具与视觉智能里直接调用千问的文本与图像理解能力，复杂需求可跳转千问 App 接力处理。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/jtrZN12WvcYpqi1q.html",
+          "items": [
+            "8ded7b791e0cdeb0"
+          ]
+        },
+        {
+          "headline": "DeepMind用Antigravity做化学信息学智能体",
+          "summary": "谷歌 DeepMind 展示基于 Antigravity 与化学信息学 Skills 的智能体工作流，可加速药物发现、检索化合物并提出新型刚性化大环分子。",
+          "importance": 6,
+          "primary_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "items": [
+            "7242858da608d077"
+          ],
+          "cover_path": "out/media/2026-11-05/product-01.jpg"
+        },
+        {
+          "headline": "Netflix上线AI Discover：按心情找片",
+          "summary": "Netflix 新增 AI 驱动的 Discover 标签页，首个实验功能可根据用户当下的心情推荐内容。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+          "items": [
+            "348b62e9c4d505f1"
+          ],
+          "cover_path": "out/media/2026-11-05/product-02.jpg"
+        },
+        {
+          "headline": "实测苹果Siri Recaps：好用，但有点渗人",
+          "summary": "苹果 AI 版 Siri Recaps 上线一天即获好评，摘要能力实用，但涉及隐私的处理方式仍让评测者感到不安。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+          "items": [
+            "f4346ab02e24991d"
+          ],
+          "cover_path": "out/media/2026-11-05/product-03.jpg"
+        },
+        {
+          "headline": "虎鲸文娱“鲸锐AI”上线：AI视频成本降三成",
+          "summary": "虎鲸文娱推出行业首个 AI 影视制作与管理平台“鲸锐AI”，集成 50 余个主流视频模型与 10 余个自研模型，单分钟 AI 视频成本可省 30% 以上。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/507567.html",
+          "items": [
+            "3d02dcc4201f719e",
+            "1404c2fec2603e89"
+          ],
+          "cover_path": "out/media/2026-11-05/product-04.jpg"
+        },
+        {
+          "headline": "蚂蚁灵光扩生态：接入微信读书、麦当劳",
+          "summary": "灵光新增播客订阅、夸克网盘、哈啰打车、麦当劳与微信读书等连接器，外部连接器总数已达 40 项，向日常场景延伸。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/KAD74l2DdSMcKPgY.html",
+          "items": [
+            "4ae5d59484928f44"
+          ]
+        },
+        {
+          "headline": "谷歌发布Data Agent Kit，安全分Skill与IAM",
+          "summary": "谷歌正式推出 Data Agent Kit，把智能体数据访问的安全防护拆分为 Skill 层与 IAM 层，面向企业数据智能体落地。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e?utm_source=rss&utm_medium=article",
+          "items": [
+            "4dc00cad6e03d14b"
+          ],
+          "cover_path": "out/media/2026-11-05/product-06.jpg"
+        },
+        {
+          "headline": "Nothing CEO：AI优先的神秘设备下月发布",
+          "summary": "Nothing 首席执行官透露公司首款“AI 优先”设备将于下月推出，定位是用 AI 提升生产力，具体形态尚未公开。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "items": [
+            "4dfae8186bde6589"
+          ],
+          "cover_path": "out/media/2026-11-05/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "谷歌：学校关AI就连搜索一起关，遭围剿",
+          "summary": "谷歌规定从 2027 年起，禁用其 AI 工具的学校将同时失去传统搜索服务，引发教育界与政界强烈反弹，DuckDuckGo 趁机向学校推销。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+          "items": [
+            "a5ed8aa7646bf50d",
+            "bcbee8b0ed1d1d44",
+            "3bc26e23a9568a7a"
+          ],
+          "cover_path": "out/media/2026-11-05/opinion-00.jpg"
+        },
+        {
+          "headline": "中期选举结果出炉：选民狠狠否决了数据中心",
+          "summary": "从参议院关键选区到地方分区公投，数据中心及其支持者在 2026 年中期选举中全面落败，德州这一 AI 基建重镇的地位也岌岌可危。",
+          "importance": 8,
+          "primary_url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+          "items": [
+            "4a9b664ab8e6661d",
+            "5d6b60863635584f",
+            "8c196e4a2e4b18a2"
+          ],
+          "cover_path": "out/media/2026-11-05/opinion-01.jpg"
+        },
+        {
+          "headline": "1亿美元砸下去，亲AI超级PAC几乎没打动选民",
+          "summary": "由硅谷富豪支持的 Leading the Future 网络手握 1 亿美元、主打反监管，但在中期选举中收效甚微，AI 议题在选民优先级中排名靠后。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+          "items": [
+            "73a81174034086bd",
+            "80de59e0da86a45b"
+          ],
+          "cover_path": "out/media/2026-11-05/opinion-02.jpg"
+        },
+        {
+          "headline": "Hugging Face CEO：我的“末日概率”接近零",
+          "summary": "Clément Delangue 在 Wired 活动上表示，AI 的主要风险来自少数闭门造车的玩家，开源才是解药。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "items": [
+            "f1a5b728144537cf"
+          ],
+          "cover_path": "out/media/2026-11-05/opinion-03.jpg"
+        },
+        {
+          "headline": "英国吹的4000亿英镑AI红利，数字来自谷歌",
+          "summary": "Wired 调查发现英国政府宣称的 AI 经济增量主要引自谷歌，AI 大臣如今承认实际数字不到三分之一，研究者归因于采用速度过慢。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+          "items": [
+            "b8d42bb3224f2c25"
+          ],
+          "cover_path": "out/media/2026-11-05/opinion-04.jpg"
+        },
+        {
+          "headline": "OpenAI已开始布局2028大选叙事",
+          "summary": "OpenAI 的 Chris Lehane 提出一套“新社会契约”，希望在塑造 2028 年选举议题的同时，兼顾公司自身商业利益。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+          "items": [
+            "bb5ec7227cc4c290"
+          ],
+          "cover_path": "out/media/2026-11-05/opinion-05.jpg"
+        },
+        {
+          "headline": "稚晖君复盘：大模型会不会击穿具身智能",
+          "summary": "智元团队在长文中复盘大模型与机器人结合的真实瓶颈，讨论通用模型能力提升对具身智能路线的冲击与机会。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+          "items": [
+            "849428e9e400dde2"
+          ],
+          "cover_path": "out/media/2026-11-05/opinion-06.jpg"
+        },
+        {
+          "headline": "10万个智能体已在跑，安全防线到底在哪",
+          "summary": "CNCC 2026 专家激辩智能体安全：蚂蚁内部已有 10 万余个智能体运行，非人类身份治理与权限撤回成为规模化落地的核心卡点。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/ai/tT9FskgaSMm7y4Ao.html",
+          "items": [
+            "73c663367026920f"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Karpathy的nanochat：100美元能买到的最好ChatGPT",
+          "summary": "Karpathy 开源 nanochat，用极低预算从零训练一个可用的对话模型，成为理解 LLM 全流程的极简教学栈。",
+          "importance": 6,
+          "primary_url": "https://github.com/karpathy/nanochat",
+          "items": [
+            "bc83293207e54076"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-00.jpg"
+        },
+        {
+          "headline": "GitHub Copilot CLI开源：把编码智能体搬进终端",
+          "summary": "GitHub 发布 Copilot CLI，把 Copilot 编码智能体的能力直接带进命令行终端。",
+          "importance": 6,
+          "primary_url": "https://github.com/github/copilot-cli",
+          "items": [
+            "a08749d5ceae3bfd"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-01.jpg"
+        },
+        {
+          "headline": "claude-mem：给每个智能体装上跨会话记忆",
+          "summary": "该工具捕获智能体会话全过程，用 AI 压缩后把相关上下文注入后续会话，兼容 Claude Code、Codex、Gemini 等。",
+          "importance": 5,
+          "primary_url": "https://github.com/thedotmack/claude-mem",
+          "items": [
+            "53c35e35b462f3e6"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-02.jpg"
+        },
+        {
+          "headline": "colibri：分层推理引擎，让前沿MoE跑在本地",
+          "summary": "C 语言实现的分层推理引擎，把热专家放 GPU、温专家放内存、冷专家从 NVMe 流式读取，在现有硬件上跑起前沿 MoE 模型。",
+          "importance": 5,
+          "primary_url": "https://github.com/JustVugg/colibri",
+          "items": [
+            "596152844a9f15d8"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-03.jpg"
+        },
+        {
+          "headline": "Vercel Labs开源fx：专写嵌入式应用的Zig代理",
+          "summary": "Vercel Labs 推出面向嵌入式场景的 Zig 编程智能体 fx，探索在资源受限设备上的 AI 编码工作流。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/cNO8PCwQoZMRHhIyVDrB?utm_source=rss&utm_medium=article",
+          "items": [
+            "466a1a673985fab3"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-04.jpg"
+        },
+        {
+          "headline": "OpenMontage：把AI编码助手变成视频制作工作室",
+          "summary": "开源智能体视频生产系统，含 12 条制作流水线与 100 多个工具，让编码助手直接承担完整视频制作。",
+          "importance": 5,
+          "primary_url": "https://github.com/calesthio/OpenMontage",
+          "items": [
+            "fc43761be845c221"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-05.jpg"
+        },
+        {
+          "headline": "heretic：免训练给语言模型“动手术”",
+          "summary": "该项目无需训练即可修改语言模型行为，声称能移除审查、抑制口水话、降低谄媚倾向。",
+          "importance": 5,
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-06.jpg"
+        },
+        {
+          "headline": "Anthropic为开源项目加可选安全扫描",
+          "summary": "Anthropic 为重要开源项目新增可选的安全扫描服务，把模型能力用于开源供应链漏洞排查。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa?utm_source=rss&utm_medium=article",
+          "items": [
+            "4fb5feb69d102521"
+          ],
+          "cover_path": "out/media/2026-11-05/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-05"
+}
