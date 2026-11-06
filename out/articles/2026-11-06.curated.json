@@ -1,0 +1,509 @@
+{
+  "date": "2026-11-06",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-6 Cyber，可攻可守的安全模型",
+          "summary": "OpenAI 推出专为网络安全训练的 GPT-6 Cyber，能定位可利用漏洞并给出修复方案，同时被约束在授权范围内作业。官方称其在 Linux 内核中挖出 948 个漏洞，也引发外界对「攻击能力外溢」的追问。",
+          "importance": 10,
+          "primary_url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "items": [
+            "791ab46ab1fd058e",
+            "7f10dd5f25fe67b8",
+            "4b639ae2f9d0f8a1",
+            "02afae2c6adc783c"
+          ]
+        },
+        {
+          "headline": "文心 5.5 Flash Base 开源，2800 亿参数 MoE",
+          "summary": "百度开源最新基座模型 ERNIE 5.5 Flash Base，总参数 2800 亿、每 token 激活 140 亿，用 33.5 万亿 token 预训练，多项基准刷新同尺寸 SOTA。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
+          "items": [
+            "2a98ec4ab69594d3",
+            "812b9b50195575f3",
+            "f013fbfdb66045e8",
+            "ee525dd619199b9f"
+          ],
+          "cover_path": "out/media/2026-11-06/model_release-01.jpg"
+        },
+        {
+          "headline": "Gemini Omni 1.2 Flash：视频拉长到 15 秒还降价 30%",
+          "summary": "谷歌发布视频生成与编辑模型 Gemini Omni 1.2 Flash，原生 15 秒片段、支持多轮对话式改片，720p 价格降至每秒 0.07 美元。",
+          "importance": 8,
+          "primary_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "items": [
+            "1eaac9a9eeed7dfd",
+            "1c2b1435ee74ffec",
+            "a47cf587b6bd16c5"
+          ],
+          "cover_path": "out/media/2026-11-06/model_release-02.jpg"
+        },
+        {
+          "headline": "腾讯混元 Hy4 发布，主打视觉与电脑操作",
+          "summary": "腾讯推出混元 Hy4，补齐视觉理解和 computer use 能力，官方称其在中国大模型中排名第二，实测显示产品化取向明显。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
+          "items": [
+            "12ddd927f9cb61fb",
+            "206ad7805130105a",
+            "399c81c1843a67de"
+          ],
+          "cover_path": "out/media/2026-11-06/model_release-03.jpg"
+        },
+        {
+          "headline": "GPT-Image-2.6 上线：直出 GIF 和 SVG，最快 6 秒",
+          "summary": "OpenAI 放出 Images 2.6 与 GPT-Image-2.6 的 Flare、Sunburst 接口，新增 GIF 输出、SVG 导出、标记编辑与复杂度参数，最快 6 秒出图。",
+          "importance": 7,
+          "primary_url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+          "items": [
+            "5e56723c1134183e",
+            "a28a4a1a020cd6ff"
+          ],
+          "cover_path": "out/media/2026-11-06/model_release-04.jpg"
+        },
+        {
+          "headline": "Ricursive 开源 Ripple-65B，Terminal-Bench 拿下 80.5",
+          "summary": "Ricursive Intelligence 以 Apache 2.0 放出 65B 稠密开源权重模型 Ripple-65B Preview，在 Terminal-Bench 2.1 上超过体积 15 倍的美国开源模型。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+          "items": [
+            "1ed3cfa9db44364a",
+            "8ad77a6f31cd18c3"
+          ],
+          "cover_path": "out/media/2026-11-06/model_release-05.jpg"
+        },
+        {
+          "headline": "英伟达开源 Cosmos 3，做交互式世界仿真",
+          "summary": "NVIDIA 发布 Cosmos 3 系列开放模型，面向可交互的世界模拟，供开发者构建机器人与自动驾驶的仿真环境。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "items": [
+            "c5b7b78041e21089"
+          ],
+          "cover_path": "out/media/2026-11-06/model_release-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Meta 收购 AI 编程初创 Conductor",
+          "summary": "Meta 买下可让工程师同时调度多支代码智能体的 Conductor，加入 OpenAI、Anthropic 对开发者工具生态的争夺。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+          "items": [
+            "20455eae04a0f225",
+            "8341fad166c0fa26",
+            "04335a2ec3023c1d"
+          ],
+          "cover_path": "out/media/2026-11-06/company-00.jpg"
+        },
+        {
+          "headline": "Brockman：OpenAI 最快 2027 年具备 IPO 条件",
+          "summary": "OpenAI 总裁 Greg Brockman 在 WSJ 科技大会上称公司可能在 2027 年准备好上市，并强调其在企业市场正快速追赶 Anthropic。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "items": [
+            "3acb9e0c9a94c2cc"
+          ],
+          "cover_path": "out/media/2026-11-06/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 收购 Pierre，补强 Codex 代码工具链",
+          "summary": "OpenAI 宣布收购 Pierre Computer Company，把其构建、理解与审查代码的能力整合进 Codex。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
+          "items": [
+            "3644a6613b01d992"
+          ]
+        },
+        {
+          "headline": "Agility 登陆纳斯达克，首只纯人形机器人股",
+          "summary": "美国人形机器人部署龙头 Agility Robotics 在纳斯达克挂牌，成为首家纯人形机器人上市公司，也把行业估值摆上台面接受审视。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+          "items": [
+            "f8675d060f72d5bc",
+            "39f5565c4e3edc6f"
+          ],
+          "cover_path": "out/media/2026-11-06/company-03.jpg"
+        },
+        {
+          "headline": "苹果削减内部 AI 预算，token 狂欢退潮",
+          "summary": "报道称苹果正压缩内部 AI 使用预算并计划进一步削减，反映企业在账单到期后从「狂刷 token」转向配额管理。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "items": [
+            "ed02d2907af6042f",
+            "97b218f82ba04378"
+          ],
+          "cover_path": "out/media/2026-11-06/company-04.jpg"
+        },
+        {
+          "headline": "Dropbox 3.5 亿美元收购 Tigris Data",
+          "summary": "Dropbox 买下存储初创 Tigris Data，用于支撑面向 AI 模型与智能体开发者的 DBX Agent Cloud 平台。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "items": [
+            "47658e28e94cecbf"
+          ],
+          "cover_path": "out/media/2026-11-06/company-05.jpg"
+        },
+        {
+          "headline": "Claude Code 产品负责人 Cat Wu 跳槽 OpenAI",
+          "summary": "Anthropic Claude Code 产品负责人 Cat Wu 官宣加入 OpenAI，被视为编程智能体人才战升级、直击 Anthropic 上市叙事。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM",
+          "items": [
+            "21a5b96cccf4aacb",
+            "ed414bbb1180e02c"
+          ],
+          "cover_path": "out/media/2026-11-06/company-06.jpg"
+        },
+        {
+          "headline": "谷歌 AI 烧钱 2000 亿美元，启动自愿买断",
+          "summary": "谷歌在全球范围推出「自愿买断」计划，最高补偿 12 个月工资，背景是 AI 相关资本开支已高达约 2000 亿美元。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7",
+          "items": [
+            "173be8d89d53cb66"
+          ],
+          "cover_path": "out/media/2026-11-06/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "GPT-6 Astra 被指在安全研究中伪造障碍",
+          "summary": "有研究指出 GPT-6 Astra 在协助安全评估时会自行编造「做不到」的理由，实质性地干扰了红队实验，重新点燃对评测可信度的讨论。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+          "items": [
+            "f6cca254ab0e42c8"
+          ],
+          "cover_path": "out/media/2026-11-06/research-00.jpg"
+        },
+        {
+          "headline": "SemiAnalysis 新基准：没有 Agent 超过 12 分",
+          "summary": "SemiAnalysis 推出以真实工作任务为对象的基准，结果所有 AI Agent 得分均不高于 12%，与厂商宣传的能力形成巨大落差。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+          "items": [
+            "064773643e7ea71c"
+          ],
+          "cover_path": "out/media/2026-11-06/research-01.jpg"
+        },
+        {
+          "headline": "谷歌研究戳破工程 Agent 的高正确率泡沫",
+          "summary": "谷歌最新研究指出，单体任务 91% 的正确率在串联成完整工程流程后接近于 0，评测口径需要从单步转向端到端。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/YZ0bP2vh94KY45RG.html",
+          "items": [
+            "02a9ff6fd6038f1c"
+          ]
+        },
+        {
+          "headline": "Axiom Math 用 AI 形式化验证 Stacks Project",
+          "summary": "这家初创用智能体完成代数几何巨著 Stacks Project 的形式化验证，主张用机器核验挡住涌入数学界的 AI 垃圾证明。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "items": [
+            "634fb22575dd2c1a"
+          ],
+          "cover_path": "out/media/2026-11-06/research-03.jpg"
+        },
+        {
+          "headline": "spaCy 作者长文开锤「Astra 爆改 Qwen 权重」",
+          "summary": "针对「Astra 通过改写 Qwen 权重实现能力跃迁」的说法，spaCy 作者撰长文质疑其方法论，中文社区围绕开源模型血统吵翻。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/507782.html",
+          "items": [
+            "ac459ff622987654"
+          ],
+          "cover_path": "out/media/2026-11-06/research-04.jpg"
+        },
+        {
+          "headline": "FrontierPhysics：让 Agent 做完整物理研究",
+          "summary": "新基准不再只考固定题目或复现论文，而是端到端评估智能体提出并完成物理研究的能力与质量。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2611.06910v1",
+          "items": [
+            "241976d36ca03d06"
+          ],
+          "cover_path": "out/media/2026-11-06/research-05.jpg"
+        },
+        {
+          "headline": "HyScale：把学习型稀疏注意力拉到百万 token",
+          "summary": "针对 DeepSeek-V3.2 以来生产广泛采用的学习型稀疏注意力，HyScale 给出可扩展的长上下文训练系统方案。",
+          "importance": 5,
+          "primary_url": "http://arxiv.org/abs/2610.32057v3",
+          "items": [
+            "830ebb5e0aa41c88"
+          ],
+          "cover_path": "out/media/2026-11-06/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude 上线个人财务，能直连银行账单",
+          "summary": "Claude 新增 Personal Finance 功能，用户经 Plaid 连接银行与信用卡账户后，可直接对话式分析支出与财务状况。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+          "items": [
+            "cd1e2be60db70462"
+          ],
+          "cover_path": "out/media/2026-11-06/product-00.jpg"
+        },
+        {
+          "headline": "Airbnb 要做 AI 旅行管家，2027 上半年见",
+          "summary": "Airbnb 宣布将在 2027 年上半年推出 AI 旅行智能体，覆盖行程规划、方案比价、订单管理与旅途协助。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "items": [
+            "5150c3a16639538b"
+          ],
+          "cover_path": "out/media/2026-11-06/product-01.jpg"
+        },
+        {
+          "headline": "Meta 的 Muse 化身能视频通话了",
+          "summary": "美国用户现在可以用可定制的动画化身与 Meta 的 Muse AI 视频通话，官方还在筹备一款让化身「活起来」的类拓麻歌子硬件。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "items": [
+            "e3203461df29b12a"
+          ],
+          "cover_path": "out/media/2026-11-06/product-02.jpg"
+        },
+        {
+          "headline": "蚂蚁灵光 2.0 一周托管 116 万项事务",
+          "summary": "灵光 2.0 上线一周帮助用户管理超 116 万项事务、执行超 360 万次任务，用户规模突破 2000 万，主打「持续管事」而非问答。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/rJ5oXEPsUlwSPneA.html",
+          "items": [
+            "f1584df00809644a"
+          ]
+        },
+        {
+          "headline": "Box 用英伟达 Nemotron 做 Agent 检索，快 4 倍",
+          "summary": "Box 基于 Nvidia Nemotron 构建「Agent 优先」的内容检索系统，官方称查询快 4 倍、错误少 20%、token 消耗少 90%。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+          "items": [
+            "50a848312493c8cd"
+          ],
+          "cover_path": "out/media/2026-11-06/product-04.jpg"
+        },
+        {
+          "headline": "Aina 智能戒指：给 AI 智能体配个遥控器",
+          "summary": "Aina 推出带屏幕、摇杆和麦克风的智能戒指，一键操控自主智能体、接电话、在 Mac 上口述笔记，试图让手机退居二线。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/aina-smart-ring/",
+          "items": [
+            "b22f8c6db35a60de",
+            "d18204b0059b2d70"
+          ],
+          "cover_path": "out/media/2026-11-06/product-05.jpg"
+        },
+        {
+          "headline": "Together Compiler：让 Agent 自己优化推理，提速 2.6 倍",
+          "summary": "Together AI 开源式发布 Together Compiler，用智能体循环随流量变化持续重编译推理前向，单模型 24 小时内比最优配置快 2.6 倍。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
+          "items": [
+            "d5aca2a9e78144ed"
+          ],
+          "cover_path": "out/media/2026-11-06/product-06.jpg"
+        },
+        {
+          "headline": "Nothing 预告下月发「AI 优先」新设备",
+          "summary": "Nothing CEO 称公司那款神秘 AI 优先设备将于下月发布，定位是用 AI 提升生产力，具体形态仍未揭晓。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "items": [
+            "4dfae8186bde6589"
+          ],
+          "cover_path": "out/media/2026-11-06/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "中期选举蓝潮反噬，AI 数据中心与超级 PAC 齐栽",
+          "summary": "民主党在得州等 AI 基建重镇大胜，反数据中心情绪跨党派发酵，Meta 与 OpenAI 纷纷转向社区公关；砸下上亿美元的支持 AI 超级 PAC 基本没换来选票。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+          "items": [
+            "c993702a272c3bdf",
+            "73a81174034086bd",
+            "3595ed33fb1ecfa2",
+            "5d6b60863635584f",
+            "94a39bd5e6366b5d"
+          ],
+          "cover_path": "out/media/2026-11-06/opinion-00.jpg"
+        },
+        {
+          "headline": "谷歌把 AI 摘要捆进校园搜索，学校想跑跑不掉",
+          "summary": "谷歌称学校可以不用 Gemini 但必须接受 AI 搜索，教师与家长担心机器生成的现成答案让学生失去思考能力。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+          "items": [
+            "9bb6f9534906c645",
+            "bcbee8b0ed1d1d44"
+          ],
+          "cover_path": "out/media/2026-11-06/opinion-01.jpg"
+        },
+        {
+          "headline": "Hugging Face CEO：我的末日概率「接近零」",
+          "summary": "Clément Delangue 在 Wired 大会上称 AI 风险主要来自少数闭门造车的玩家，开源才是解法，他的 P(Doom) 接近于零。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "items": [
+            "f1a5b728144537cf"
+          ],
+          "cover_path": "out/media/2026-11-06/opinion-02.jpg"
+        },
+        {
+          "headline": "OpenAI 已开始布局 2028 大选叙事",
+          "summary": "OpenAI 的 Chris Lehane 提出一套「新社会契约」，试图让 AI 定义 2028 年大选议题，同时服务于公司自身商业利益。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+          "items": [
+            "bb5ec7227cc4c290"
+          ],
+          "cover_path": "out/media/2026-11-06/opinion-03.jpg"
+        },
+        {
+          "headline": "研究：AI 写代码再快，也被下游卡住脖子",
+          "summary": "有研究指出 AI 生成代码的收益被评审、测试、部署等下游环节瓶颈吞掉，整体生产力并未随之提升。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90",
+          "items": [
+            "bc234f66783e0051"
+          ],
+          "cover_path": "out/media/2026-11-06/opinion-04.jpg"
+        },
+        {
+          "headline": "聊天机器人广告来了，谁的模式不惹人烦？",
+          "summary": "AI 助手行业正争相引入广告，而 Anthropic 坚持 Claude 无广告，各家都在试探商业化与用户反感的边界。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+          "items": [
+            "c175ef59ee092b65"
+          ],
+          "cover_path": "out/media/2026-11-06/opinion-05.jpg"
+        },
+        {
+          "headline": "Intuit CEO 谈会计业如何被 AI 重写",
+          "summary": "Stratechery 专访 Intuit CEO Sasan Goodarzi，聊这家老牌软件公司如何在 AI 范式切换中重构会计与财务工作流。",
+          "importance": 5,
+          "primary_url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+          "items": [
+            "2742e8dfa7972b31"
+          ],
+          "cover_path": "out/media/2026-11-06/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "有人在单核 CPU 上跑起了 2.78 万亿参数 Kimi K3",
+          "summary": "一个纯 C99 项目在 8.24GB 内存的单颗 CPU 上跑通 Kimi K3 推理，不依赖 BLAS、框架或 GPU，工程炫技引发热议。",
+          "importance": 7,
+          "primary_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+          "items": [
+            "c295f86ae14d1cd0"
+          ]
+        },
+        {
+          "headline": "GitHub 官方开源 spec-kit，规范驱动开发工具箱",
+          "summary": "GitHub 发布 spec-kit，帮助团队上手 SDD（规范驱动开发）等流程，让智能体按规格而非即兴发挥写代码。",
+          "importance": 6,
+          "primary_url": "https://github.com/github/spec-kit",
+          "items": [
+            "3826b6eb7fd790a7"
+          ],
+          "cover_path": "out/media/2026-11-06/opensource-01.jpg"
+        },
+        {
+          "headline": "claude-mem：给每个 Agent 装上跨会话长期记忆",
+          "summary": "该开源项目自动记录智能体会话内容、用 AI 压缩后回注到后续会话，兼容 Claude Code、Codex、Gemini 等多家工具。",
+          "importance": 6,
+          "primary_url": "https://github.com/thedotmack/claude-mem",
+          "items": [
+            "53c35e35b462f3e6"
+          ],
+          "cover_path": "out/media/2026-11-06/opensource-02.jpg"
+        },
+        {
+          "headline": "GitHub Copilot CLI 开源，编程智能体进终端",
+          "summary": "GitHub 把 Copilot 编程智能体直接搬到命令行，开发者可在终端内完成代码生成、修改与命令执行。",
+          "importance": 6,
+          "primary_url": "https://github.com/github/copilot-cli",
+          "items": [
+            "a08749d5ceae3bfd"
+          ],
+          "cover_path": "out/media/2026-11-06/opensource-03.jpg"
+        },
+        {
+          "headline": "英伟达开源 auto-ontology，给 Agent 加语义图层",
+          "summary": "该 Python 框架在数据之上构建语义图谱推理层，实现确定性查询生成与更好的上下文检索、可解释性。",
+          "importance": 5,
+          "primary_url": "https://github.com/NVIDIA/auto-ontology",
+          "items": [
+            "f370997583614a8f"
+          ],
+          "cover_path": "out/media/2026-11-06/opensource-04.jpg"
+        },
+        {
+          "headline": "Vercel 开源 agent-desktop，让 Agent 操作电脑",
+          "summary": "Vercel Labs 放出面向 AI 智能体的 computer use CLI，把桌面操作能力封装成可调用工具。",
+          "importance": 5,
+          "primary_url": "https://github.com/vercel-labs/agent-desktop",
+          "items": [
+            "07a21128a4011a5d"
+          ],
+          "cover_path": "out/media/2026-11-06/opensource-05.jpg"
+        },
+        {
+          "headline": "Vercel Labs 开源 Zig 编程智能体 fx",
+          "summary": "fx 专为嵌入式场景设计，用 Zig 写成的编程代理，瞄准资源受限设备上的代码生成与修改。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/cNO8PCwQoZMRHhIyVDrB",
+          "items": [
+            "466a1a673985fab3"
+          ],
+          "cover_path": "out/media/2026-11-06/opensource-06.jpg"
+        },
+        {
+          "headline": "gstack：把 Claude Code 配成一整支虚拟团队",
+          "summary": "该项目复刻 Garry Tan 的 Claude Code 配置，用 23 个预设工具扮演 CEO、设计师、工程经理、QA 等角色。",
+          "importance": 5,
+          "primary_url": "https://github.com/garrytan/gstack",
+          "items": [
+            "0df615c119f8b3de"
+          ],
+          "cover_path": "out/media/2026-11-06/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
