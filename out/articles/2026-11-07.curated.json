@@ -1,0 +1,484 @@
+{
+  "date": "2026-11-07",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini Omni 1.2 Flash 发布，降价 30%",
+          "summary": "谷歌 DeepMind 发布 Gemini Omni 1.2 Flash，支持原生 15 秒视频、多轮对话式编辑，并将 720p 视频价格下调 30% 至每秒 0.07 美元。",
+          "importance": 9,
+          "primary_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "items": [
+            "1eaac9a9eeed7dfd",
+            "1c2b1435ee74ffec",
+            "a47cf587b6bd16c5"
+          ],
+          "cover_path": "out/media/2026-11-07/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI 推出 GPT-6 Cyber，能攻也能防",
+          "summary": "OpenAI 发布新的网络安全模型 GPT-6 Cyber，既能尝试突破系统，也能提出修复建议。该模型发布之际，AI 实验室的网络安全能力正受到更严格审视。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+          "items": [
+            "7f10dd5f25fe67b8",
+            "4b639ae2f9d0f8a1",
+            "81c84bb34ec945b5"
+          ],
+          "cover_path": "out/media/2026-11-07/model_release-01.jpg"
+        },
+        {
+          "headline": "Inkling 2 Small：594B MoE 登场",
+          "summary": "Thinking Machines Lab 发布 Inkling 2 Small，594B 参数 MoE、17B 激活参数，在 68 小时内用 12T token 训练完成，并计划以 Apache 2.0 开放权重。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+          "items": [
+            "730152765862daf1",
+            "0b7ddf3e020a87ca",
+            "fbede33fb69a8854"
+          ],
+          "cover_path": "out/media/2026-11-07/model_release-02.jpg"
+        },
+        {
+          "headline": "百度开源 ERNIE 5.5 Flash Base",
+          "summary": "百度发布 ERNIE 5.5 Flash Base，280B 稀疏 MoE、14B 激活参数，在 33.5T token 上训练，并在中期训练和后训练之前开源基础模型。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
+          "items": [
+            "2a98ec4ab69594d3",
+            "ee525dd619199b9f"
+          ],
+          "cover_path": "out/media/2026-11-07/model_release-03.jpg"
+        },
+        {
+          "headline": "Ripple-65B 预览：Apache 2.0 开源模型",
+          "summary": "Ripple-65B Preview 以完全 Apache 2.0 许可发布，定位美国开源模型，并在智能体编程任务上给出较强结果。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+          "items": [
+            "3db99ebcc02dd0c3"
+          ],
+          "cover_path": "out/media/2026-11-07/model_release-04.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 Cosmos 3 世界模拟模型",
+          "summary": "NVIDIA 在 Hugging Face 发布 Cosmos 3 系列开放模型，面向交互式世界模拟，帮助开发者构建和测试具身与仿真场景。",
+          "importance": 6,
+          "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "items": [
+            "c5b7b78041e21089"
+          ],
+          "cover_path": "out/media/2026-11-07/model_release-05.jpg"
+        },
+        {
+          "headline": "Underdog 演示 32MB 语音模型",
+          "summary": "Underdog 展示一个仅 32MB 的语音模型，虽体积很小，但可同时生成语音和音乐。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+          "items": [
+            "19026da81a877d5a"
+          ],
+          "cover_path": "out/media/2026-11-07/model_release-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 新融资 110 亿美元，估值 1.25 万亿",
+          "summary": "OpenAI 已完成约 110 亿美元新融资首笔交割，对应 1.25 万亿美元估值；本轮剩余部分可能增至最高 200 亿美元，预计未来数周完成。",
+          "importance": 10,
+          "primary_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "items": [
+            "77f8e64b4882e9af",
+            "f1684dd0f427af2a"
+          ],
+          "cover_path": "out/media/2026-11-07/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 下周启动 IPO 路演，估值遇阻",
+          "summary": "Anthropic 计划下周启动 IPO 正式推介，并拟于 11 月 16 日当周挂牌；市场曾预期其以 1.5 万亿美元估值融资超 800 亿美元，但投资者对高估值出现抵触。",
+          "importance": 9,
+          "primary_url": "https://36kr.com/newsflashes/4058931650761863?f=rss",
+          "items": [
+            "3bcd63de3fd13466",
+            "fc97d8dc0bcb929e"
+          ]
+        },
+        {
+          "headline": "谷歌 5.48 亿美元入股高通，加码 AI 芯片",
+          "summary": "Alphabet 披露已买入高通近 300 万股、价值约 5.48 亿美元，持股不足 0.5%；同时清仓 GitLab、Spero 及 Autolus 等投资。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/4058934988936070?f=rss",
+          "items": [
+            "15daec75b25827ba",
+            "90b6396c9e70e2f7"
+          ]
+        },
+        {
+          "headline": "微软逐步终止租用甲骨文 AI 算力",
+          "summary": "微软在决定不续签合同后，正逐步停用从甲骨文租用的 AI 算力，原因是甲骨文硬件采用较老一代英伟达芯片，已不再符合微软规格要求。",
+          "importance": 7,
+          "primary_url": "https://36kr.com/newsflashes/4058927613580166?f=rss",
+          "items": [
+            "1337523cd2501d02"
+          ]
+        },
+        {
+          "headline": "谷歌 AI 支出狂飙，启动自愿买断",
+          "summary": "在 AI 相关支出高达 2000 亿美元的背景下，谷歌全球启动自愿买断计划，最高补偿 12 个月工资，以控制成本并调整人力结构。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+          "items": [
+            "173be8d89d53cb66"
+          ],
+          "cover_path": "out/media/2026-11-07/company-04.jpg"
+        },
+        {
+          "headline": "Dropbox 3.5 亿美元收购 Tigris Data",
+          "summary": "Dropbox 以 3.5 亿美元收购 Tigris Data，交易预计支持其面向 AI 模型与智能体开发者的 DBX Agent Cloud 存储平台。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "items": [
+            "47658e28e94cecbf"
+          ],
+          "cover_path": "out/media/2026-11-07/company-05.jpg"
+        },
+        {
+          "headline": "Palo Alto 拟 5 亿美元收购 Clutch",
+          "summary": "Palo Alto Networks 正洽谈以约 5 亿美元收购 AI 智能体安全初创公司 Clutch；Clutch 上一轮估值约 8500 万美元。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "items": [
+            "65f28203073574f4"
+          ],
+          "cover_path": "out/media/2026-11-07/company-06.jpg"
+        },
+        {
+          "headline": "OpenAI 人才战：Claude Code 负责人加盟",
+          "summary": "OpenAI 总裁 Brockman 称公司可能在 2027 年准备好 IPO；同时 Claude Code 产品负责人 Cut Wu 官宣加入 OpenAI，公司内部也出现新一轮人事调整。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "items": [
+            "3acb9e0c9a94c2cc",
+            "21a5b96cccf4aacb",
+            "918647ad2bb4ad20"
+          ],
+          "cover_path": "out/media/2026-11-07/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "METR：Anthropic 或已越过 AI 加速预警线",
+          "summary": "非营利研究机构 METR 发现，Anthropic 可能早在 7 月就已越过其自身设定的 AI 加速预警阈值，引发对前沿实验室自我监管有效性的讨论。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+          "items": [
+            "e1b9c83059dedc3d"
+          ],
+          "cover_path": "out/media/2026-11-07/research-00.jpg"
+        },
+        {
+          "headline": "免费中国模型黑客能力逼近 OpenAI 网安模型",
+          "summary": "Wired 报道的一项实验显示，DeepSeek 和 GLM 在模拟网络入侵中的黑客能力，已不远远落后于 OpenAI 尚未公开的最先进网安模型。",
+          "importance": 7,
+          "primary_url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+          "items": [
+            "d3d35560faad76a1"
+          ],
+          "cover_path": "out/media/2026-11-07/research-01.jpg"
+        },
+        {
+          "headline": "Axiom 用 AI Agent 形式化验证 Stacks",
+          "summary": "Axiom Math 的 AI Agent 形式化验证了数学界最大库之一 Stacks Project，试图在 AI 生成证明泛滥时用验证手段挡住不可靠内容。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "items": [
+            "634fb22575dd2c1a"
+          ],
+          "cover_path": "out/media/2026-11-07/research-02.jpg"
+        },
+        {
+          "headline": "OpenAI 发布 BioBasicsBench 基准",
+          "summary": "OpenAI 推出 BioBasicsBench，一个包含 100 项任务的基准，用来衡量 AI Agent 解读原始实验数据和处理日常湿实验室科学任务的能力。",
+          "importance": 6,
+          "primary_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "items": [
+            "d1984529cc6a82cb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude 接入银行账户，能分析消费",
+          "summary": "Claude 新增 Personal Finance 功能，用户可通过 Plaid 连接银行和信用卡账户，并向 Claude 提问个人财务与消费情况。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+          "items": [
+            "cd1e2be60db70462",
+            "acf3dafc84205542"
+          ],
+          "cover_path": "out/media/2026-11-07/product-00.jpg"
+        },
+        {
+          "headline": "Perplexity 推出常驻 AI Agent",
+          "summary": "Perplexity 上线常驻式 AI Agent，可长时间持续执行任务，标志着其从搜索问答进一步转向主动智能体产品。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+          "items": [
+            "e8a9983b2ea0f756"
+          ],
+          "cover_path": "out/media/2026-11-07/product-01.jpg"
+        },
+        {
+          "headline": "Meta Muse 支持 Spaces 协作与视频头像",
+          "summary": "Meta 为 Muse 智能体推出 Spaces 协作方式，并允许美国用户以可定制动画头像与 Muse 视频通话，为后续可穿戴设备铺路。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "items": [
+            "c58b996b4f8aaffc",
+            "e3203461df29b12a"
+          ],
+          "cover_path": "out/media/2026-11-07/product-02.jpg"
+        },
+        {
+          "headline": "Airbnb 2027 上半年推 AI 旅行 Agent",
+          "summary": "Airbnb 计划在 2027 年上半年推出 AI 旅行 Agent，帮助用户规划行程、比较选项、管理预订并在住宿期间获得协助。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "items": [
+            "5150c3a16639538b"
+          ],
+          "cover_path": "out/media/2026-11-07/product-03.jpg"
+        },
+        {
+          "headline": "Amazon Alexa 可发短信帮你购物",
+          "summary": "在阻止 Muse 之后，亚马逊允许用户通过短信与 Alexa 互动来辅助购物，该功能将在未来数周向数百万用户推出。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "items": [
+            "d9e4a4936369e8cd"
+          ],
+          "cover_path": "out/media/2026-11-07/product-04.jpg"
+        },
+        {
+          "headline": "Aina 智能戒指：一键遥控 AI Agent",
+          "summary": "Aina 推出带屏幕、摇杆和麦克风的智能戒指，可一键控制自主 AI Agent，也能接电话和在 Mac 上听写笔记。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+          "items": [
+            "d18204b0059b2d70",
+            "b22f8c6db35a60de"
+          ],
+          "cover_path": "out/media/2026-11-07/product-05.jpg"
+        },
+        {
+          "headline": "Box 用 Nemotron 做 Agent 检索",
+          "summary": "Box 采用 NVIDIA Nemotron 构建 Agent 优先的内容检索系统，宣称查询速度提升 4 倍、错误减少 20%、token 使用量减少 90%。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+          "items": [
+            "50a848312493c8cd"
+          ],
+          "cover_path": "out/media/2026-11-07/product-06.jpg"
+        },
+        {
+          "headline": "豆包工作个人版取消 5 小时额度限制",
+          "summary": "豆包工作个人版从 11 月 6 日起取消 5 小时短周期额度限制，个人用户可在周额度范围内更灵活安排使用时间。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html",
+          "items": [
+            "341171a5b3dbdec6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "中期选举蓝潮或重塑 AI 行业：数据中心成焦点",
+          "summary": "民主党在中期选举取得历史性胜利，41 项数据中心相关公投中多数通过限制措施；Meta 也警告政治反弹可能拖慢 AI 扩张。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "items": [
+            "26c3b1c83fed64a6",
+            "dcac385540a7944e",
+            "386c65f0c9cc3091"
+          ],
+          "cover_path": "out/media/2026-11-07/opinion-00.jpg"
+        },
+        {
+          "headline": "Ramp 数据：AI 使用上升，支出却停滞",
+          "summary": "Ramp 数据显示 AI 使用量持续攀升，但企业支出已停滞；降价和更精细的成本控制，可能挑战投资者对 AI 超高速增长的假设。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "items": [
+            "9083d756930995ca"
+          ],
+          "cover_path": "out/media/2026-11-07/opinion-01.jpg"
+        },
+        {
+          "headline": "聊天机器人广告来了：什么有效，什么无效",
+          "summary": "聊天机器人广告已经出现，Anthropic 仍承诺 Claude 不加广告，而其他厂商正竞赛如何在赢得广告主的同时不激怒用户。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+          "items": [
+            "c175ef59ee092b65"
+          ],
+          "cover_path": "out/media/2026-11-07/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 公司抢着买你的工作文件和邮件",
+          "summary": "数据经纪商正在收集各类企业内部文件和邮件，用于训练 AI 模型，但这一做法引发不少员工与公司的不满。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+          "items": [
+            "9f71800cd167dfd0"
+          ],
+          "cover_path": "out/media/2026-11-07/opinion-03.jpg"
+        },
+        {
+          "headline": "妻子用 ChatGPT 策划杀夫，诉讼拉开帷幕",
+          "summary": "一起诉讼称，一名男子把 ChatGPT 介绍给妻子后，妻子利用 ChatGPT 策划用掺有能量饮料的有毒饮品谋杀丈夫。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+          "items": [
+            "e6e977d4a2fd2970"
+          ],
+          "cover_path": "out/media/2026-11-07/opinion-04.jpg"
+        },
+        {
+          "headline": "AGI 将至，为何人才却在离开大厂？",
+          "summary": "The Decoder 的 Frontier Radar 讨论：如果 AGI 如此接近，为何大量前沿人才离开大实验室、转向新 neolabs，以及这些新机构在押注什么。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+          "items": [
+            "d56db2f5833992d2"
+          ],
+          "cover_path": "out/media/2026-11-07/opinion-05.jpg"
+        },
+        {
+          "headline": "谷歌：学校可不用 Gemini，但 AI 搜索不可免",
+          "summary": "谷歌表示学校可以保留传统搜索并跳过 Gemini，但 AI 搜索能力并不在可选项之内，引发对教育场景中选择权的讨论。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+          "items": [
+            "9bb6f9534906c645"
+          ],
+          "cover_path": "out/media/2026-11-07/opinion-06.jpg"
+        },
+        {
+          "headline": "广电总局启动新一轮 AI 微短剧专项治理",
+          "summary": "国家广播电视总局部署新一轮微短剧专项治理，重点针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，治理期两个月。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/4058219361997953?f=rss",
+          "items": [
+            "7c4cf5cd349ca4cc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "微软开源 VibeVoice：前沿语音 AI",
+          "summary": "微软在 GitHub 开源 VibeVoice，定位前沿语音 AI，面向语音生成与相关交互场景。",
+          "importance": 7,
+          "primary_url": "https://github.com/microsoft/VibeVoice",
+          "items": [
+            "fc752c00506a7624"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-00.jpg"
+        },
+        {
+          "headline": "TorchTPU 开源：PyTorch 原生上 TPU",
+          "summary": "在 2026 年 PyTorch 大会上，谷歌和 Meta 开源 TorchTPU，让 PyTorch 在 TPU 上获得原生支持。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/5s2oa0BLlgR8fplkq2uK?utm_source=rss&utm_medium=article",
+          "items": [
+            "a01cd8b2cb099bba"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-01.jpg"
+        },
+        {
+          "headline": "Zyphra 开源 AMD FP8 注意力内核",
+          "summary": "Zyphra 发布 ZYFA，为 AMD Instinct MI355X 提供开源 FP8 与 BF16 prefill 注意力内核，实测比 AMD AITER 快 1.16 至 1.76 倍，且误差更低。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+          "items": [
+            "f9a5e78347b4fee8"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-02.jpg"
+        },
+        {
+          "headline": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式",
+          "summary": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，并新增多轮请求能力，方便 .NET 生态接入 Model Context Protocol。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&utm_medium=article",
+          "items": [
+            "5686c19f8b82b270"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-03.jpg"
+        },
+        {
+          "headline": "LoopForge：开源自进化研发平台",
+          "summary": "LoopForge 是面向 Coding Agent 的开源自进化研发平台，尝试把智能体引入研发团队并持续迭代研发流程。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article",
+          "items": [
+            "fe62ee0bb6d8838f"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-04.jpg"
+        },
+        {
+          "headline": "Vercel 开源 Agent 桌面与浏览器 CLI",
+          "summary": "Vercel Labs 开源 agent-desktop 和 agent-browser，为 AI Agent 提供计算机使用与浏览器自动化命令行工具。",
+          "importance": 5,
+          "primary_url": "https://github.com/vercel-labs/agent-desktop",
+          "items": [
+            "07a21128a4011a5d",
+            "e5b44a600947456e"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-05.jpg"
+        },
+        {
+          "headline": "Google 开源 Agent Skills 集合",
+          "summary": "Google 开源面向自家产品与技术的 Agent Skills，同时发布 Gemini API、SDK 和模型/智能体交互相关 Skills。",
+          "importance": 5,
+          "primary_url": "https://github.com/google/skills",
+          "items": [
+            "f8b36801b8652ba9",
+            "e2bbf2f6f538a172"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-06.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 Model-Optimizer",
+          "summary": "NVIDIA 开源 Model-Optimizer，统一提供量化、蒸馏、剪枝、神经架构搜索和投机解码等模型优化技术。",
+          "importance": 5,
+          "primary_url": "https://github.com/NVIDIA/Model-Optimizer",
+          "items": [
+            "1f03a1306fb8ba0c"
+          ],
+          "cover_path": "out/media/2026-11-07/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
