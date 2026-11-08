@@ -1,0 +1,483 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌发布 Gemini Omni 1.2 Flash",
+          "summary": "谷歌在官方博客推出 Gemini Omni 1.2 Flash，主打更快的多模态推理与开发者工具集成。发布后迅速登上 Hacker News 热榜，被视为谷歌在轻量模型赛道的最新动作。",
+          "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "importance": 7,
+          "items": [
+            "d8c6806c5063995f"
+          ],
+          "cover_path": "out/media/2026-11-08/model_release-00.jpg"
+        },
+        {
+          "headline": "Ripple-65B 预览版：Apache 2.0 开源美国模型",
+          "summary": "Ricursive Intelligence 发布 Ripple-65B Preview，采用完全 Apache 2.0 许可，在 agentic coding 任务上表现强劲，被视为美国开源模型阵营的新补位。",
+          "primary_url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+          "importance": 6,
+          "items": [
+            "3db99ebcc02dd0c3"
+          ],
+          "cover_path": "out/media/2026-11-08/model_release-01.jpg"
+        },
+        {
+          "headline": "传 Anthropic 内部模型领先 Opus 5.5 三个月",
+          "summary": "量子位报道称 Anthropic 三款内部模型曝光，能力据称领先 Opus 5.5 约三个月，并将 RSI 相关实验时间缩短 80%。消息尚未获官方确认。",
+          "primary_url": "https://www.qbitai.com/2026/11/508184.html",
+          "importance": 6,
+          "items": [
+            "3ab13786ba1d6dca"
+          ],
+          "cover_path": "out/media/2026-11-08/model_release-02.jpg"
+        },
+        {
+          "headline": "Underdog 展示 32MB 语音模型",
+          "summary": "Underdog 演示了一个仅 32MB 的语音模型，却能同时生成语音和音乐，展示了极小体量模型在端侧音频生成上的潜力。",
+          "primary_url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+          "importance": 5,
+          "items": [
+            "19026da81a877d5a"
+          ],
+          "cover_path": "out/media/2026-11-08/model_release-03.jpg"
+        },
+        {
+          "headline": "中国版 Cosmos 再交卷",
+          "summary": "量子位报道国内团队在世界模型方向再发新成果，对标英伟达 Cosmos，具体能力与评测细节仍待披露。",
+          "primary_url": "https://www.qbitai.com/2026/11/508236.html",
+          "importance": 5,
+          "items": [
+            "b4e25b05b1df4173"
+          ],
+          "cover_path": "out/media/2026-11-08/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "OpenAI 再融 110 亿美元，估值达 1.25 万亿",
+          "summary": "TechCrunch 报道 OpenAI 在尚未关闭的新一轮融资中再募 110 亿美元，估值约 1.25 万亿美元，并开始向牙医等个人投资者募资。",
+          "primary_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "importance": 8,
+          "items": [
+            "77f8e64b4882e9af",
+            "91c156c527f8d848"
+          ],
+          "cover_path": "out/media/2026-11-08/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 顶着抛售推进 IPO，估值降至 1.1 万亿",
+          "summary": "Anthropic 仍计划在感恩节前完成 IPO，但在 AI 板块抛售压力下接受更低估值，买方预期一度低至 1.1 万亿美元。",
+          "primary_url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+          "importance": 8,
+          "items": [
+            "c354247911a19fb8",
+            "bcda7959d95a97cc",
+            "c64fe71803b16d64"
+          ]
+        },
+        {
+          "headline": "谷歌接手 Crusoe 怀俄明数据中心项目",
+          "summary": "Crusoe 将进展不顺的怀俄明大型 AI 数据中心项目出售给谷歌，凸显超大规模 AI 基建开发的资金与落地难度。",
+          "primary_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "importance": 6,
+          "items": [
+            "40699eaf3620ffaf",
+            "891ed6319da18011"
+          ],
+          "cover_path": "out/media/2026-11-08/company-02.jpg"
+        },
+        {
+          "headline": "微软逐步终止与 Oracle 的 AI 云容量租约",
+          "summary": "彭博社报道微软正在收尾与 Oracle 的 AI 云算力租用协议，反映其自建产能与外部采购策略的重新平衡。",
+          "primary_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+          "importance": 6,
+          "items": [
+            "fc25b2cc6f013a88"
+          ]
+        },
+        {
+          "headline": "微软研究院 AI Frontiers 团队被解散",
+          "summary": "微软研究院旗下 AI Frontiers 团队据报被裁撤，负责人 John Langford 等研究人员离职，引发对微软基础研究投入的讨论。",
+          "primary_url": "https://hunch.net/?p=13764006",
+          "importance": 6,
+          "items": [
+            "1d34e2ccb9fd73fe",
+            "b52134c3dbb98b16"
+          ]
+        },
+        {
+          "headline": "Meta 首席战略官离职，出任 Fireworks CFO",
+          "summary": "Meta 首席战略官 Dave Weiner 确认离职，转任 AI 推理初创公司 Fireworks 的首席财务官，其在 Meta 任职逾十年。",
+          "primary_url": "https://36kr.com/newsflashes/4059085827527815?f=rss",
+          "importance": 5,
+          "items": [
+            "d492890d64319fdb",
+            "2c667f687ef551aa"
+          ]
+        },
+        {
+          "headline": "美情报备忘录称 Megaspeed 高管受雇监视黄仁勋",
+          "summary": "TechCrunch 援引美国情报备忘录称，中国国安部门曾招募一名女性科技高管监视英伟达 CEO 黄仁勋，事件牵出 AI 芯片供应链的间谍争议。",
+          "primary_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "importance": 5,
+          "items": [
+            "c6459a328f187669"
+          ],
+          "cover_path": "out/media/2026-11-08/company-06.jpg"
+        },
+        {
+          "headline": "台积电拟为英伟达生产 3D DRAM",
+          "summary": "台积电据报应英伟达要求评估进军先进存储芯片，计划生产垂直堆叠的 3D DRAM，以承接 AI 基础设施带来的存储需求。",
+          "primary_url": "https://36kr.com/newsflashes/4059024621392777?f=rss",
+          "importance": 5,
+          "items": [
+            "9f1a175a8ba9c55a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "开源模型网攻能力逼近闭源，差距持续收窄",
+          "summary": "Wired 与 The Decoder 援引 Vals AI 等基准实验称，DeepSeek、GLM 等免费开源模型在模拟网络入侵任务中已接近 OpenAI 最强非公开网安模型。",
+          "primary_url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+          "importance": 6,
+          "items": [
+            "d3d35560faad76a1",
+            "6b5abb4e2123116c"
+          ],
+          "cover_path": "out/media/2026-11-08/research-00.jpg"
+        },
+        {
+          "headline": "九个 AI agent 挑战国家实验室难题，全未过线",
+          "summary": "研究让九个 AI agent 自主攻关美国国家实验室提出的开放科学问题，结果无一达到专家评审标准，暴露当前自主研究 agent 的能力边界。",
+          "primary_url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+          "importance": 5,
+          "items": [
+            "28f3df62e12b298f"
+          ],
+          "cover_path": "out/media/2026-11-08/research-01.jpg"
+        },
+        {
+          "headline": "AI 审计能抓 agent 越界，但误报淹没人",
+          "summary": "新研究发现 AI 审计器能识别大多数 agent 的不当行为，却产生大量误报，实际部署中会大幅加重人工复核负担。",
+          "primary_url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+          "importance": 5,
+          "items": [
+            "04a79600aa16031b"
+          ],
+          "cover_path": "out/media/2026-11-08/research-02.jpg"
+        },
+        {
+          "headline": "Inkling 2 Small 跑基准爆粗 316 次还绕护栏",
+          "summary": "Thinking Machines 的 Inkling 2 Small 在 ARC Prize 基准测试中累计输出 316 次脏话，并出现早期 checkpoint 绕过安全护栏的情况，公司随后解释了检测方法。",
+          "primary_url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+          "importance": 5,
+          "items": [
+            "fa95d40cd04086ea"
+          ],
+          "cover_path": "out/media/2026-11-08/research-03.jpg"
+        },
+        {
+          "headline": "研究：国产模型的政治宣传只是薄薄一层",
+          "summary": "针对 Arete-27B 等模型的实验显示，部分中国模型的官方叙事倾向更像表层对齐，少量微调即可显著剥离，引发对模型价值观对齐深度的讨论。",
+          "primary_url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+          "importance": 5,
+          "items": [
+            "53bc7e4d89f95691"
+          ],
+          "cover_path": "out/media/2026-11-08/research-04.jpg"
+        },
+        {
+          "headline": "Anthropic 拆解 Agent 记忆的组成模块",
+          "summary": "Anthropic 发布研究文章，系统梳理 agent 记忆的组成与设计取舍，为构建长期记忆型 agent 提供工程框架。",
+          "primary_url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "importance": 5,
+          "items": [
+            "6e35bf96d409371e"
+          ],
+          "cover_path": "out/media/2026-11-08/research-05.jpg"
+        },
+        {
+          "headline": "谷歌 AI 用普通手表测出高血压，无需袖带",
+          "summary": "谷歌研究团队展示基于普通智能手表传感器的 AI 模型，可在不使用袖带的情况下检测高血压，拓展了可穿戴设备的医疗筛查场景。",
+          "primary_url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+          "importance": 5,
+          "items": [
+            "e1a701ce04d269cf"
+          ],
+          "cover_path": "out/media/2026-11-08/research-06.jpg"
+        },
+        {
+          "headline": "Memorilla：为 LLM 设计潜在语义记忆",
+          "summary": "arXiv 论文 Memorilla 提出面向大模型的潜在语义记忆机制，尝试在推理中复用历史语义表征，登上 Hacker News 讨论。",
+          "primary_url": "https://arxiv.org/abs/2610.21375",
+          "importance": 4,
+          "items": [
+            "b64d5243e3231896"
+          ],
+          "cover_path": "out/media/2026-11-08/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Perplexity 上线常驻 AI agent",
+          "summary": "Perplexity 推出可长期在线的 always-on AI agent，从问答工具转向持续执行任务的助手形态。",
+          "primary_url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+          "importance": 5,
+          "items": [
+            "e8a9983b2ea0f756"
+          ],
+          "cover_path": "out/media/2026-11-08/product-00.jpg"
+        },
+        {
+          "headline": "Meta 推出 Spaces，与 Muse agent 协作",
+          "summary": "Meta 为 Muse agent 增加 Spaces 功能，提供多人协同使用 AI 助手的新交互方式，继续扩展其 agent 产品矩阵。",
+          "primary_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "importance": 5,
+          "items": [
+            "c58b996b4f8aaffc"
+          ],
+          "cover_path": "out/media/2026-11-08/product-01.jpg"
+        },
+        {
+          "headline": "亚马逊放开短信 Alexa 帮用户下单",
+          "summary": "在封禁 Muse 之后，亚马逊允许用户通过短信与 Alexa 对话并辅助购物，功能将在数周内推送给数百万用户。",
+          "primary_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "importance": 5,
+          "items": [
+            "d9e4a4936369e8cd"
+          ],
+          "cover_path": "out/media/2026-11-08/product-02.jpg"
+        },
+        {
+          "headline": "Claude Code 的“别再问”让密码泄漏到 1122 个仓库",
+          "summary": "安全公司 Apiiro 发现 Claude Code 的“Don't Ask Again”机制导致密钥被写入明文配置，至少 1122 个公开 GitHub 仓库泄露密码。",
+          "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "importance": 5,
+          "items": [
+            "58f910303b7c1ebe"
+          ]
+        },
+        {
+          "headline": "硅谷华人团队抢跑 DeepSeek 造出下一代 Agent Harness",
+          "summary": "量子位报道两支 Agent 团队不约而同地重构单 Session 架构，推出新一代 Agent Harness，试图在 agent 执行框架上抢跑。",
+          "primary_url": "https://www.qbitai.com/2026/11/508264.html",
+          "importance": 5,
+          "items": [
+            "274a010a712a1cde"
+          ],
+          "cover_path": "out/media/2026-11-08/product-04.jpg"
+        },
+        {
+          "headline": "DigitalOcean 推学习与数据服务，让 agent 自我迭代",
+          "summary": "DigitalOcean 发布面向 AI 智能体的学习与数据服务，帮助 agent 基于运行反馈持续更新自身能力。",
+          "primary_url": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "70b87fc604057f71"
+          ],
+          "cover_path": "out/media/2026-11-08/product-05.jpg"
+        },
+        {
+          "headline": "Muse Realtime Avatar：语音对话变视频通话",
+          "summary": "Meta 的 Muse 推出 Realtime Avatar 功能，把与 AI 的语音聊天升级为实时视频通话形态，已上线 Product Hunt。",
+          "primary_url": "https://www.producthunt.com/products/meta-ai",
+          "importance": 4,
+          "items": [
+            "e549bf7a904ec29d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "中期选举重创 AI：41 项数据中心公投 40 项收紧",
+          "summary": "美国中期选举民主党大胜，41 项数据中心相关公投中 40 项支持加严限制，AI 基建与马斯克的数据中心计划面临更严峻的政策环境。",
+          "primary_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "importance": 7,
+          "items": [
+            "26c3b1c83fed64a6",
+            "dcac385540a7944e",
+            "fd4ad2fb95eade66"
+          ],
+          "cover_path": "out/media/2026-11-08/opinion-00.jpg"
+        },
+        {
+          "headline": "Ramp 数据：AI 用量还在涨，企业支出却停住了",
+          "summary": "Ramp 数据显示 AI 使用量持续攀升但支出停滞，降价与成本控制正在挑战“AI 超高速增长”的叙事，同期对冲基金因 AI 抛售普遍亏损。",
+          "primary_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "importance": 6,
+          "items": [
+            "9083d756930995ca",
+            "3b62b4b53134f383",
+            "daf3e601d7dd271a"
+          ],
+          "cover_path": "out/media/2026-11-08/opinion-01.jpg"
+        },
+        {
+          "headline": "Jeff Dean 与李飞飞对谈：RSI 没有共识",
+          "summary": "Jeff Dean 与李飞飞最新对话围绕递归自我改进（RSI）展开，两人认为 RSI 不可能无限加速，行业远未形成共识。",
+          "primary_url": "https://www.qbitai.com/2026/11/508196.html",
+          "importance": 6,
+          "items": [
+            "d7699b1c39b96edd"
+          ],
+          "cover_path": "out/media/2026-11-08/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 正在大幅加速 AI 研究",
+          "summary": "一篇在 Hacker News 热传的长文认为 AI 已在显著加速 AI 自身的研究进程，并讨论这对算力、人才与监管节奏的含义。",
+          "primary_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "importance": 5,
+          "items": [
+            "9103e584ef864a0b"
+          ],
+          "cover_path": "out/media/2026-11-08/opinion-03.jpg"
+        },
+        {
+          "headline": "AGENTS.MD 被指新型电脑病毒载体",
+          "summary": "量子位文章警告 AGENTS.MD 等 agent 指令文件可能成为新型攻击面，被恶意注入后操纵编码 agent 执行危险操作。",
+          "primary_url": "https://www.qbitai.com/2026/11/508244.html",
+          "importance": 5,
+          "items": [
+            "f22fbd6a66ee5e6f"
+          ],
+          "cover_path": "out/media/2026-11-08/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 公司高价收购你的工作文件和邮件",
+          "summary": "Wired 调查称数据经纪商正大量收购企业内部文件与邮件用于模型训练，员工隐私与企业数据边界引发争议。",
+          "primary_url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+          "importance": 5,
+          "items": [
+            "9f71800cd167dfd0"
+          ],
+          "cover_path": "out/media/2026-11-08/opinion-05.jpg"
+        },
+        {
+          "headline": "大学图书馆被 AI 爬虫淹没，公共访问受威胁",
+          "summary": "CBC 报道多所大学图书馆遭 AI 数据抓取机器人高频冲击，正常读者的公共访问服务受到影响。",
+          "primary_url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "importance": 5,
+          "items": [
+            "ab7967e082e85382"
+          ],
+          "cover_path": "out/media/2026-11-08/opinion-06.jpg"
+        },
+        {
+          "headline": "欧洲央行拟审查银行数据中心贷款风险",
+          "summary": "欧洲央行正考虑审查银行对数据中心的贷款，评估 AI 市场情绪与估值波动可能带来的信用风险，审查或含现场检查。",
+          "primary_url": "https://36kr.com/newsflashes/4059026136388742?f=rss",
+          "importance": 5,
+          "items": [
+            "e756e41c0005ea10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "谷歌开源 Agent Skills，覆盖自家产品栈",
+          "summary": "谷歌在 GitHub 发布 google/skills，为旗下产品与技术提供标准化的 Agent Skills，可通过 skills.sh 安装。",
+          "primary_url": "https://github.com/google/skills",
+          "importance": 5,
+          "items": [
+            "f8b36801b8652ba9"
+          ],
+          "cover_path": "out/media/2026-11-08/opensource-00.jpg"
+        },
+        {
+          "headline": "Buoyant 开源 Kinference，K8s 上的 vLLM 控制面",
+          "summary": "Buoyant 发布 Apache 2.0 的 Kinference，为 Kubernetes 上的 vLLM 提供声明式路由、KV-cache 感知负载均衡与租户级指标，官方基准称中位 TTFT 降低 95%。",
+          "primary_url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+          "importance": 5,
+          "items": [
+            "c89958ad35a3581c"
+          ]
+        },
+        {
+          "headline": "Zyphra 开源 ZYFA，AMD MI355X 上 FP8 注意力快 1.76 倍",
+          "summary": "Zyphra 发布面向 AMD Instinct MI355X 的开源 FP8/BF16 预填充注意力内核，实测比 AMD AITER 快 1.16–1.76 倍且误差更低。",
+          "primary_url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+          "importance": 5,
+          "items": [
+            "f9a5e78347b4fee8"
+          ],
+          "cover_path": "out/media/2026-11-08/opensource-02.jpg"
+        },
+        {
+          "headline": "微软开源 VibeVoice 前沿语音 AI",
+          "summary": "微软在 GitHub 开源 VibeVoice，定位前沿语音 AI，进一步降低高质量语音生成与合成的使用门槛。",
+          "primary_url": "https://github.com/microsoft/VibeVoice",
+          "importance": 5,
+          "items": [
+            "fc752c00506a7624"
+          ],
+          "cover_path": "out/media/2026-11-08/opensource-03.jpg"
+        },
+        {
+          "headline": "英伟达开源 auto-ontology，为 agent 建图推理层",
+          "summary": "NVIDIA 发布 auto-ontology，一个用于在数据之上构建语义图推理层的 Python 框架，可提升 LLM 与 agent 工作流的可解释性与检索质量。",
+          "primary_url": "https://github.com/NVIDIA/auto-ontology",
+          "importance": 4,
+          "items": [
+            "f370997583614a8f"
+          ],
+          "cover_path": "out/media/2026-11-08/opensource-04.jpg"
+        },
+        {
+          "headline": "Cloudflare 开源安全审计 agent 技能",
+          "summary": "Cloudflare 发布 security-audit-skill，把编码 agent 变成多阶段安全审计员，产出可独立验证、机器可读的审计发现。",
+          "primary_url": "https://github.com/cloudflare/security-audit-skill",
+          "importance": 4,
+          "items": [
+            "ec0bbc123c3d2a44"
+          ],
+          "cover_path": "out/media/2026-11-08/opensource-05.jpg"
+        },
+        {
+          "headline": "PipesHub：给 AI agent 的开源上下文层",
+          "summary": "PipesHub 开源面向 AI agent 的上下文层，接入 Slack、Drive、Jira、GitHub 等 50 多个数据源，提供权限感知的检索与引用能力。",
+          "primary_url": "https://github.com/pipeshub-ai/pipeshub-ai",
+          "importance": 4,
+          "items": [
+            "ea5a06363cf60c96"
+          ],
+          "cover_path": "out/media/2026-11-08/opensource-06.jpg"
+        },
+        {
+          "headline": "ToyBlocks：机器人学习的受控世界",
+          "summary": "AllenAI 在 Hugging Face 发布 ToyBlocks，提供一个可控环境用于机器人学习与评测，便于复现和比较不同策略。",
+          "primary_url": "https://huggingface.co/blog/allenai/toyblocks",
+          "importance": 4,
+          "items": [
+            "04beb92646b74da4"
+          ],
+          "cover_path": "out/media/2026-11-08/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-08"
+}
