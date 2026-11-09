@@ -1,0 +1,371 @@
+{
+  "date": "2026-11-09",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Thinking Machines 新模型跑分爆粗口 316 次",
+          "summary": "Thinking Machines 的小型模型 Inkling 2 Small 在多轮基准测试中累计输出 316 次脏话，引发对模型对齐与评测污染的讨论。",
+          "primary_url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+          "importance": 5,
+          "items": [
+            "fa95d40cd04086ea"
+          ],
+          "cover_path": "out/media/2026-11-09/model_release-00.jpg"
+        },
+        {
+          "headline": "Nous 开源 Arete-27B：宣传话术从 22% 压到 0.9%",
+          "summary": "Nous Research 基于 Qwen3.8-27B 发布 Apache 2.0 微调模型 Arete-27B，在自建 803 条评测中把「宣传式回答」比例从 22% 降到 0.9%，Hermes Bench 分数基本持平。",
+          "primary_url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+          "importance": 5,
+          "items": [
+            "9d7c83b1e7646b3c"
+          ],
+          "cover_path": "out/media/2026-11-09/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋承认婚外情，英伟达调查「中国间谍」传闻",
+          "summary": "黄仁勋在致全员内部信中承认对妻子不忠并道歉；同时美方情报备忘录称有中国科技高管被招募接触英伟达 CEO，公司已启动调查。",
+          "primary_url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "importance": 8,
+          "items": [
+            "792d11342f1acdd4",
+            "c6459a328f187669",
+            "304098b8713ea3aa"
+          ],
+          "cover_path": "out/media/2026-11-09/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 融资 110 亿美元，估值 1.25 万亿",
+          "summary": "OpenAI 完成 110 亿美元新融资，估值 1.25 万亿美元，低于此前寻求的 1.4 万亿，显示融资环境趋紧下的定价回调。",
+          "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+          "importance": 7,
+          "items": [
+            "44b9145addbff5e4"
+          ],
+          "cover_path": "out/media/2026-11-09/company-01.jpg"
+        },
+        {
+          "headline": "Anthropic 顶着科技股抛售推进感恩节前 IPO",
+          "summary": "尽管科技股大幅回调，Anthropic 仍坚持在感恩节前启动 IPO，并接受低于此前预期的估值。",
+          "primary_url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+          "importance": 7,
+          "items": [
+            "c354247911a19fb8"
+          ],
+          "cover_path": "out/media/2026-11-09/company-02.jpg"
+        },
+        {
+          "headline": "高盛把 Claude Code 从投行和交易部门撤下",
+          "summary": "高盛据报已停止向银行家和交易员提供 Claude Code，成为大型金融机构在编码 Agent 合规风险上的一次标志性回撤。",
+          "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "importance": 7,
+          "items": [
+            "c212ab28b3ea148c"
+          ],
+          "cover_path": "out/media/2026-11-09/company-03.jpg"
+        },
+        {
+          "headline": "微软研究院 AI Frontiers 团队宣告终结",
+          "summary": "John Langford 发文宣告 Microsoft Research 的 AI Frontiers 组结束，并披露研究员离职，被视为大厂基础研究收缩的信号。",
+          "primary_url": "https://hunch.net/?p=13764006",
+          "importance": 6,
+          "items": [
+            "1d34e2ccb9fd73fe",
+            "b52134c3dbb98b16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "真实场景实测：AI 编码 Agent 近四分之三任务仍需人工返工",
+          "summary": "一项基于真实工程任务的评测显示，编码 Agent 在约 75% 的任务上仍需人类清理代码，且返工成本被显著低估。",
+          "primary_url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+          "importance": 6,
+          "items": [
+            "2c49e2308a608c56"
+          ],
+          "cover_path": "out/media/2026-11-09/research-00.jpg"
+        },
+        {
+          "headline": "开源与闭源模型的网络攻击能力差距正在收窄",
+          "summary": "Vals AI 的基准测试显示，开源模型在漏洞利用与攻击辅助类任务上快速追平闭源前沿模型，安全界担忧加剧。",
+          "primary_url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+          "importance": 5,
+          "items": [
+            "6b5abb4e2123116c"
+          ],
+          "cover_path": "out/media/2026-11-09/research-01.jpg"
+        },
+        {
+          "headline": "MaxxBench 质疑 DeepSWE 高分：分数是真的吗？",
+          "summary": "新基准 MaxxBench 发文直指 DeepSWE 等代码评测存在刷分与数据污染问题，提出可复现的对抗性评测方法。",
+          "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+          "importance": 5,
+          "items": [
+            "d3abe0b9076329cc"
+          ],
+          "cover_path": "out/media/2026-11-09/research-02.jpg"
+        },
+        {
+          "headline": "AI 审计员能抓住大多数 Agent 越界，但误报成灾",
+          "summary": "新研究发现自动审计模型可识别多数 Agent 异常行为，但会产生大量误报，人工复核负担反而成为落地瓶颈。",
+          "primary_url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+          "importance": 5,
+          "items": [
+            "04a79600aa16031b"
+          ],
+          "cover_path": "out/media/2026-11-09/research-03.jpg"
+        },
+        {
+          "headline": "十款开源 MoE 模型路由机制逐一对比",
+          "summary": "一篇配置核验式梳理对比 DeepSeek、Qwen、Mixtral、Llama 4、gpt-oss 等 MoE 模型的总参数、专家数、top-k 与门控方式。",
+          "primary_url": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+          "importance": 4,
+          "items": [
+            "3acf60bf25f69dc9",
+            "4a81877a29dec4c1"
+          ],
+          "cover_path": "out/media/2026-11-09/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude Code「别再问我」把密码写进 1122 个公开仓库",
+          "summary": "Apiiro 研究发现，Claude Code 的「Don't Ask Again」授权机制导致密钥被写入文件并推送到 GitHub，已发现 1122 个公开文件泄露凭据。",
+          "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "importance": 6,
+          "items": [
+            "58f910303b7c1ebe"
+          ]
+        },
+        {
+          "headline": "腾讯 Agent 布局曝光，不止 WorkBuddy",
+          "summary": "雷锋网梳理腾讯在企业级 Agent 上的多线产品矩阵，WorkBuddy 只是其中一环，办公与开发场景同步推进。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html",
+          "importance": 6,
+          "items": [
+            "bf68989f033c07e9"
+          ]
+        },
+        {
+          "headline": "Karpathy 用 Claude 一个周末做出视频精选平台",
+          "summary": "Karpathy 借助 Claude 和 20 年 Hacker News 评论数据，在一个周末内搭建出带社区策展的视频推荐站点，被视为「一人产品」范本。",
+          "primary_url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+          "importance": 6,
+          "items": [
+            "203235c19fb0ffa4"
+          ],
+          "cover_path": "out/media/2026-11-09/product-02.jpg"
+        },
+        {
+          "headline": "Google 推出 Elephant-Goldfish：先写规格再写代码",
+          "summary": "该编码 Agent 插件要求先产出规格文档，再执行 5 轮零上下文评审，之后才允许生成代码，主打可审计的「规格优先」开发流。",
+          "primary_url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+          "importance": 5,
+          "items": [
+            "64d4bb118bce6f5a"
+          ],
+          "cover_path": "out/media/2026-11-09/product-03.jpg"
+        },
+        {
+          "headline": "纽约时报 Cooking 上线 AI 改食谱，实测表现不错",
+          "summary": "NYT Cooking 推出 Beta 版 AI 食谱修改器，可替换食材、按需调整分量与做法，Wired 实测认为基本可用。",
+          "primary_url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "importance": 5,
+          "items": [
+            "1f9a4930604b8992"
+          ],
+          "cover_path": "out/media/2026-11-09/product-04.jpg"
+        },
+        {
+          "headline": "高通：终端侧 AI 正从单点功能走向智能体体验",
+          "summary": "高通 AI 产品技术负责人万卫星在上海分享，终端侧 AI 已从影像等单点应用演进到跨应用的智能体式交互。",
+          "primary_url": "https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+          "importance": 5,
+          "items": [
+            "81fe7844c9bdee86"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "资本正在撤离「世界模型」",
+          "summary": "量子位报道称，曾被视为下一个范式的世界模型赛道融资降温，商业化路径不清与算力成本成为主要症结。",
+          "primary_url": "https://www.qbitai.com/2026/11/508466.html",
+          "importance": 6,
+          "items": [
+            "af3010dbccfa8dce"
+          ],
+          "cover_path": "out/media/2026-11-09/opinion-00.jpg"
+        },
+        {
+          "headline": "「再见 Claude，你好 Pi」：一名开发者的迁移手记",
+          "summary": "一篇高热度博客讲述作者从 Claude 转向 Pi 的完整理由与迁移过程，折射出编码模型用户忠诚度之低。",
+          "primary_url": "https://caleb.software/posts/claude-to-pi.html",
+          "importance": 6,
+          "items": [
+            "3df80c53aeae257a"
+          ]
+        },
+        {
+          "headline": "顶尖 AI 实验室成「人才黑洞」，Claude Code 工程师首谈离职",
+          "summary": "InfoQ 访谈一位从 Claude Code 团队离职的工程师，讨论大实验室虹吸人才、创业公司组织承压的现状。",
+          "primary_url": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "a0d330578cc9a6db"
+          ],
+          "cover_path": "out/media/2026-11-09/opinion-02.jpg"
+        },
+        {
+          "headline": "斯坦福 CS146S：当 Agent 能一键写完去年作业，还教什么",
+          "summary": "Mihail Eric 在 Latent Space 讲述 CS146S 课程改版：让学生进入陌生开源仓库提交真实改动，重构 AI 原生工程教育。",
+          "primary_url": "https://latent.space/p/cs146s/",
+          "importance": 5,
+          "items": [
+            "b5a656e7c9c0867f",
+            "f90ef0efe70f1ac4"
+          ],
+          "cover_path": "out/media/2026-11-09/opinion-03.jpg"
+        },
+        {
+          "headline": "「苦涩教训」作者给 scaling 信徒再上一课",
+          "summary": "The Decoder 梳理最新争论： bitter lesson 的提出者认为一味堆算力并非终局，LLM 扩展路线需要新的方法论。",
+          "primary_url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+          "importance": 5,
+          "items": [
+            "dbdfa3d6c903c574"
+          ],
+          "cover_path": "out/media/2026-11-09/opinion-04.jpg"
+        },
+        {
+          "headline": "世界模型即将无处不在，它到底是什么",
+          "summary": "Wired 科普世界模型：从文本走向 3D 空间，模拟真实物理以训练机器人与自动驾驶，同时也带来算力与安全新问题。",
+          "primary_url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+          "importance": 5,
+          "items": [
+            "fce346172b6f159b"
+          ],
+          "cover_path": "out/media/2026-11-09/opinion-05.jpg"
+        },
+        {
+          "headline": "Agent 记忆需要自己的 OpenTelemetry 时刻",
+          "summary": "一篇工程长文呼吁为 Agent 记忆建立统一开放格式与可观测标准，否则跨框架迁移与调试将持续失控。",
+          "primary_url": "https://www.lorekit.io/blog/open-agent-memory-format",
+          "importance": 4,
+          "items": [
+            "94b4f6e9f081e372"
+          ]
+        },
+        {
+          "headline": "硅谷说 AI 能治愈疾病，药企 CEO 并不买账",
+          "summary": "WSJ 报道称大型制药公司管理层对 AI 制药的短期承诺持怀疑态度，认为验证周期与监管仍是硬约束。",
+          "primary_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "importance": 4,
+          "items": [
+            "aaa6e82e749ff69a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "llama-modchip：64GB 内存无 GPU 跑 284B DeepSeek",
+          "summary": "该项目通过内存与 expert 调度的改造，在仅 64GB 内存、无 GPU 的机器上运行 284B 参数的 DeepSeek MoE 模型，HN 热度近 400。",
+          "primary_url": "https://github.com/synchopate/llama-modchip",
+          "importance": 6,
+          "items": [
+            "95015b573d8d5d20"
+          ],
+          "cover_path": "out/media/2026-11-09/opensource-00.jpg"
+        },
+        {
+          "headline": "Agent Skills 生态爆发：Anthropic、Google 齐上 GitHub 热榜",
+          "summary": "anthropics/skills、google/skills 与社区技能库同日登上 Trending，标志「技能包」正成为 Agent 能力分发的新标准层。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "importance": 6,
+          "items": [
+            "808e1873b6f1032d",
+            "f8b36801b8652ba9",
+            "ec0bbc123c3d2a44"
+          ],
+          "cover_path": "out/media/2026-11-09/opensource-01.jpg"
+        },
+        {
+          "headline": "Vercel 开源 agent-browser：给 Agent 用的浏览器 CLI",
+          "summary": "vercel-labs 发布面向 AI Agent 的浏览器自动化命令行工具，简化网页操作类 Agent 的构建与调试。",
+          "primary_url": "https://github.com/vercel-labs/agent-browser",
+          "importance": 5,
+          "items": [
+            "e5b44a600947456e"
+          ],
+          "cover_path": "out/media/2026-11-09/opensource-02.jpg"
+        },
+        {
+          "headline": "微软开源 VibeVoice：前沿语音 AI 模型",
+          "summary": "微软放出 VibeVoice 语音模型代码，主打高质量、可控的开源语音生成能力，登上 Python Trending。",
+          "primary_url": "https://github.com/microsoft/VibeVoice",
+          "importance": 5,
+          "items": [
+            "fc752c00506a7624"
+          ],
+          "cover_path": "out/media/2026-11-09/opensource-03.jpg"
+        },
+        {
+          "headline": "billion-context：把月级长会话压进 100K 窗口",
+          "summary": "一个上下文压缩插件，声称可在 100K 窗口内支撑月级超长会话，并节省约 5 倍 token 消耗。",
+          "primary_url": "https://github.com/ranxianglei/billion-context",
+          "importance": 4,
+          "items": [
+            "1f7c6941dfa28af0"
+          ],
+          "cover_path": "out/media/2026-11-09/opensource-04.jpg"
+        },
+        {
+          "headline": "AWS 官方 Agent 工具包开源：MCP 服务器与插件齐备",
+          "summary": "aws/agent-toolkit-for-aws 提供官方维护的 MCP 服务器、技能与插件，方便 Agent 直接操作 AWS 资源。",
+          "primary_url": "https://github.com/aws/agent-toolkit-for-aws",
+          "importance": 4,
+          "items": [
+            "102ed6b0d6ee2892"
+          ],
+          "cover_path": "out/media/2026-11-09/opensource-05.jpg"
+        },
+        {
+          "headline": "NVIDIA 开源 auto-ontology：给 Agent 加语义推理层",
+          "summary": "该框架在数据之上构建图式语义层，支持确定性查询生成与更可解释的上下文检索，面向 LLM 与 Agent 工作流。",
+          "primary_url": "https://github.com/NVIDIA/auto-ontology",
+          "importance": 4,
+          "items": [
+            "f370997583614a8f"
+          ],
+          "cover_path": "out/media/2026-11-09/opensource-06.jpg"
+        }
+      ]
+    }
+  ]
+}
