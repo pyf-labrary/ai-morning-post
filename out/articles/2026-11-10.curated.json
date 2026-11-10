@@ -1,0 +1,448 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Anthropic 发布 Fable 5.2 与 Mythos 5.2",
+          "summary": "Anthropic 推出 Claude Fable 5.2 和 Mythos 5.2，称在编码、推理、视觉和沟通清晰度上均有提升；Artificial Analysis 评分达到 65，创新高，发布时点正值 IPO 前。",
+          "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "importance": 10,
+          "items": [
+            "8707ab6c913e3007",
+            "4412662410f1ff7a",
+            "6f0c34cc513b713a"
+          ],
+          "cover_path": "out/media/2026-11-10/model_release-00.jpg"
+        },
+        {
+          "headline": "Meta 推出轻量 Agent 模型 Muse Ember",
+          "summary": "Meta 发布小型模型 Muse Ember，面向 AI Agent 实际执行中的重复性工作，输入价格低至每百万 token 10 美分，明显便宜于 Haiku、Luna 等竞品。",
+          "primary_url": "https://research.meta.ai/blog/muse-ember",
+          "importance": 8,
+          "items": [
+            "d5d11ad5a1e75d89",
+            "22e935561aea8f39",
+            "53cdcbf001b87b2d"
+          ],
+          "cover_path": "out/media/2026-11-10/model_release-01.jpg"
+        },
+        {
+          "headline": "字节发布图像模型 Seedream 5.5",
+          "summary": "字节跳动发布豆包图像创作模型 Seedream 5.5，生成速度提升，增强多轮编辑稳定性，支持透明素材生成，并优化真实感和小字渲染；豆包、豆包工作、即梦已接入。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+          "importance": 7,
+          "items": [
+            "4b4cefd754a252ac",
+            "1f3ffaa209f4b792"
+          ]
+        },
+        {
+          "headline": "蚂蚁灵波发布触觉基础模型 LingBot-Touch",
+          "summary": "蚂蚁灵波发布 LingBot-Touch 触觉基础模型，基于近 5000 小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类传感器，技术报告、模型和代码已开源。",
+          "primary_url": "https://36kr.com/newsflashes/4063366405936004?f=rss",
+          "importance": 7,
+          "items": [
+            "9a4b9c82e0389f24",
+            "d26d8f4a2686920f"
+          ]
+        },
+        {
+          "headline": "腾讯混元 Hy4 开源模型实测",
+          "summary": "腾讯混元发布 Hy4 开源模型，量子位实测其搭配 WorkBuddy 的多模态 Agent 交付能力，称其跻身最强开源模型行列。",
+          "primary_url": "https://www.qbitai.com/2026/11/507843.html",
+          "importance": 6,
+          "items": [
+            "bdb55194ee7b44e4"
+          ],
+          "cover_path": "out/media/2026-11-10/model_release-04.jpg"
+        },
+        {
+          "headline": "基元律动发布 NeoHorse-1.5-Flash",
+          "summary": "基元律动发布 Agent 原生模型 NeoHorse-1.5-Flash Preview，基于 Qwen3.8-Flash 训练，总参数 180B、激活 6B，重点提升 Agent 任务与软件工程能力，目前限量内测。",
+          "primary_url": "https://www.qbitai.com/2026/11/508603.html",
+          "importance": 6,
+          "items": [
+            "48b0ce39de7276fe",
+            "d0e01cf685be53f5"
+          ],
+          "cover_path": "out/media/2026-11-10/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋承认出轨，英伟达启动调查",
+          "summary": "英伟达 CEO 黄仁勋承认婚外情，董事会调查其与疑似中国间谍的关系；事件引发股价下跌、诉讼风险和退出公开活动，并可能削弱英伟达对华芯片出口管制的游说能力。",
+          "primary_url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "importance": 9,
+          "items": [
+            "792d11342f1acdd4",
+            "e96d2d4f081402af",
+            "9003abf4ee2a9812"
+          ],
+          "cover_path": "out/media/2026-11-10/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 推进 IPO，本周定估值",
+          "summary": "据 WSJ 报道，Anthropic 计划推进 IPO，预计本周设定估值区间。",
+          "primary_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "importance": 8,
+          "items": [
+            "958f988838a89f95"
+          ],
+          "cover_path": "out/media/2026-11-10/company-01.jpg"
+        },
+        {
+          "headline": "Google 一年推四款 TPU，发布 8i Max/8tx",
+          "summary": "Google 发布 TPU 8i Max 和 TPU 8tx，前者双芯片封装面向长上下文 Agent，后者支持机密推理；Google 一年内已推出四款 TPU 变体，加大与英伟达竞争。",
+          "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "importance": 8,
+          "items": [
+            "ea58d71d811e619e",
+            "40c81c6aed01ef5e",
+            "7183125cac556aa1"
+          ],
+          "cover_path": "out/media/2026-11-10/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 斥资 34 亿美元买天然气涡轮",
+          "summary": "Anthropic 购买价值 34 亿美元的天然气涡轮，加入 AI 行业抢购能源的热潮；报道称这笔交易可能让其未来面临后悔风险。",
+          "primary_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+          "importance": 7,
+          "items": [
+            "c9b6f9940979b32a"
+          ],
+          "cover_path": "out/media/2026-11-10/company-03.jpg"
+        },
+        {
+          "headline": "高盛撤下银行家使用的 Claude Code",
+          "summary": "据 The State of AI 报道，高盛正在将 Claude Code 从其银行家和交易员处撤下。",
+          "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "importance": 7,
+          "items": [
+            "c212ab28b3ea148c"
+          ],
+          "cover_path": "out/media/2026-11-10/company-04.jpg"
+        },
+        {
+          "headline": "NVIDIA 与韩国扩大主权 AI 合作",
+          "summary": "NVIDIA 与韩国科技信息通信部扩大主权 AI 合作，覆盖 AI 半导体、数据中心、人才、初创、模型、Agent 与安全，并计划投资韩国初创公司。",
+          "primary_url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+          "importance": 6,
+          "items": [
+            "d87b88fc59d1c092",
+            "d3d6d247d3446357",
+            "e7607b7830172ac7"
+          ],
+          "cover_path": "out/media/2026-11-10/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI 上线 Control Room 模型管控系统",
+          "summary": "OpenAI 介绍 Control Room 中央系统，用于追踪研究基础设施中的模型工作负载，并在出现安全或安保担忧时快速停止任务。",
+          "primary_url": "https://openai.com/index/control-room",
+          "importance": 6,
+          "items": [
+            "596482836c0ebde2"
+          ]
+        },
+        {
+          "headline": "晶泰科技与皮尔法伯合作 AI 药物发现",
+          "summary": "皮尔法伯集团与晶泰科技达成合作，将在肿瘤领域联合开展多个药物发现项目，晶泰依托 AI+机器人能力从头设计小分子药物。",
+          "primary_url": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
+          "importance": 6,
+          "items": [
+            "8d2651d07021a840"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "百度披露 ERNIE Evolve 自动研究系统",
+          "summary": "百度首次披露 RSI 进展，ERNIE Evolve 能自主提出研究方向、开展实验、验证结果并积累经验，在 NanoChat AutoResearch 和 NanoGPT Speedrun 上取得 SOTA，已用于文心 5.5 Flash 研发。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html",
+          "importance": 7,
+          "items": [
+            "0d0f9976ced6fbaf",
+            "e4aa2fb1e89b6ae1"
+          ]
+        },
+        {
+          "headline": "NVIDIA 在 CoRL 展示机器人精细操作仿真",
+          "summary": "NVIDIA 与合作伙伴在 CoRL 展示如何通过仿真训练机器人完成对准齿轮、连接线缆、组装小零件等精细操作。",
+          "primary_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+          "importance": 5,
+          "items": [
+            "6a25a2f1cbfbfed4"
+          ],
+          "cover_path": "out/media/2026-11-10/research-01.jpg"
+        },
+        {
+          "headline": "arXiv：Next-Concept Modeling 并行文本生成",
+          "summary": "arXiv 论文提出 Next-Concept Modeling，一种快速、并行的粗到细文本生成方法。",
+          "primary_url": "https://arxiv.org/abs/2610.14162",
+          "importance": 5,
+          "items": [
+            "cd6e89ed46385030"
+          ],
+          "cover_path": "out/media/2026-11-10/research-02.jpg"
+        },
+        {
+          "headline": "E-means 称十分之一 epoch 超越 k-means",
+          "summary": "E-means 项目声称在仅需十分之一 epoch 的情况下超越 k-means 聚类效果。",
+          "primary_url": "https://e-means.github.io/",
+          "importance": 4,
+          "items": [
+            "a4cbc23a2e718318"
+          ],
+          "cover_path": "out/media/2026-11-10/research-03.jpg"
+        },
+        {
+          "headline": "NVIDIA 发布日本金融合成数据集",
+          "summary": "NVIDIA 发布 Nemotron-Personas-Finance-Japan，一个捕捉日本人口结构与金融背景的合成数据集。",
+          "primary_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "importance": 4,
+          "items": [
+            "84c1652432b6fd66"
+          ],
+          "cover_path": "out/media/2026-11-10/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "千问办公 2.0 发布 Team Agent",
+          "summary": "千问办公发布 2.0，推出行业首个支持多人与 Agent 协作的“协作”功能，并上线人机共创、资料空间、自动任务和三端互联等能力。",
+          "primary_url": "https://www.qbitai.com/2026/11/508694.html",
+          "importance": 8,
+          "items": [
+            "08ce9f5f084e94e1",
+            "986121944aca15ba",
+            "d21f12dcf9b870c7"
+          ],
+          "cover_path": "out/media/2026-11-10/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT Enterprise 上架 AWS Marketplace",
+          "summary": "ChatGPT Enterprise 现已通过 AWS Marketplace 提供，企业可利用现有 AWS 采购和计费关系简化采购流程。",
+          "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "importance": 7,
+          "items": [
+            "5dde6e8d39447d85"
+          ]
+        },
+        {
+          "headline": "Claude Code 配置文件泄露大量密钥",
+          "summary": "Claude Code 的设置文件因“Do not ask again”提示被提交到 GitHub，导致密码、API key 等敏感信息在大量仓库中暴露。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+          "importance": 7,
+          "items": [
+            "05c8127f1f984d52"
+          ],
+          "cover_path": "out/media/2026-11-10/product-02.jpg"
+        },
+        {
+          "headline": "Medium 推出 AI 写作应用 TK",
+          "summary": "Medium 推出新写作应用 TK，把 AI 辅助直接嵌入写作过程，尽管出版行业对 AI 写作的争议仍在升温。",
+          "primary_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+          "importance": 6,
+          "items": [
+            "3754034a8ddbaa72"
+          ],
+          "cover_path": "out/media/2026-11-10/product-03.jpg"
+        },
+        {
+          "headline": "Automattic 推 Spacefast 部署氛围编程应用",
+          "summary": "Automattic 推出 Spacefast 平台，用于部署 vibe-coding 应用，对标 Lovable 等产品。",
+          "primary_url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+          "importance": 6,
+          "items": [
+            "5cf37a89fb32d62a"
+          ],
+          "cover_path": "out/media/2026-11-10/product-04.jpg"
+        },
+        {
+          "headline": "百度搭子连中三元企业智能体采购",
+          "summary": "百度搭子在中信建投、国家电投数科、通用数科三个项目中均排名第一，连续拿下企业智能体采购项目。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html",
+          "importance": 6,
+          "items": [
+            "2d66049fc986609d"
+          ]
+        },
+        {
+          "headline": "迪士尼押注 Adobe Firefly 做品牌安全 AI",
+          "summary": "迪士尼选择 Adobe Firefly，为其娱乐帝国打造品牌安全的 AI 模型与内容创作能力。",
+          "primary_url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
+          "importance": 6,
+          "items": [
+            "ca73eb3331a53afd"
+          ],
+          "cover_path": "out/media/2026-11-10/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "腾讯 AI 首席：AI 生物武器将至",
+          "summary": "腾讯 AI 首席表示 AI 生物武器将会出现，但认为封闭模型并非应对之道。",
+          "primary_url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+          "importance": 7,
+          "items": [
+            "ba8acbc4386b0824"
+          ],
+          "cover_path": "out/media/2026-11-10/opinion-00.jpg"
+        },
+        {
+          "headline": "李飞飞、Jeff Dean 泼冷水 AI 自我进化",
+          "summary": "硅谷热炒 AI 自我进化，李飞飞和 Jeff Dean 齐泼冷水，认为“无限加速”不可信。",
+          "primary_url": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo?utm_source=rss&utm_medium=article",
+          "importance": 7,
+          "items": [
+            "337a7a13467e4092"
+          ],
+          "cover_path": "out/media/2026-11-10/opinion-01.jpg"
+        },
+        {
+          "headline": "Scott Wiener 入国会，准备监管 AI",
+          "summary": "Scott Wiener 赢下佩洛西旧金山席位进入国会，他此前在加州参议院主导遏制先进 AI 风险的立法，未来可能在联邦层面推动 AI 监管。",
+          "primary_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+          "importance": 7,
+          "items": [
+            "d31ac3c28ff64e65"
+          ],
+          "cover_path": "out/media/2026-11-10/opinion-02.jpg"
+        },
+        {
+          "headline": "数据中心反弹可能只是电力问题",
+          "summary": "MIT Tech Review 认为，围绕数据中心的反弹，核心可能不是 AI 本身，而是电力供应与电价问题。",
+          "primary_url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "importance": 6,
+          "items": [
+            "126e6841110948f0"
+          ],
+          "cover_path": "out/media/2026-11-10/opinion-03.jpg"
+        },
+        {
+          "headline": "HN 热帖：我不相信 AI 泡沫存在",
+          "summary": "Hacker News 热帖反驳 AI 泡沫论，认为当前 AI 投资与采用并不符合典型泡沫特征。",
+          "primary_url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+          "importance": 6,
+          "items": [
+            "ba0020f95517fbcd"
+          ]
+        },
+        {
+          "headline": "AI 毁了我的计算机学位",
+          "summary": "量子位文章讨论 AI 对计算机教育的冲击，学生和教授都在用 Claude 等工具，学位价值与教学方式受到质疑。",
+          "primary_url": "https://www.qbitai.com/2026/11/508706.html",
+          "importance": 6,
+          "items": [
+            "abd2f24bc744c8e2"
+          ],
+          "cover_path": "out/media/2026-11-10/opinion-05.jpg"
+        },
+        {
+          "headline": "开发者用 AI 省时比例一年腰斩",
+          "summary": "InfoQ 报道，开发者每周借助 AI 节约数十小时的比例在一年内从 68% 降至 26%。",
+          "primary_url": "https://www.infoq.cn/article/sdqHapplv45dQguTJ415?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "69eb5426313dce31"
+          ],
+          "cover_path": "out/media/2026-11-10/opinion-06.jpg"
+        },
+        {
+          "headline": "Gartner：智能体治理成 2027 新战场",
+          "summary": "Gartner 发布 2027 年十大趋势，认为 AI 越聪明，企业越难管理，智能体治理将成为新战场。",
+          "primary_url": "https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "c19e5643872a603c"
+          ],
+          "cover_path": "out/media/2026-11-10/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Anthropic 开源 Agent Skills 仓库",
+          "summary": "Anthropic 公开 Agent Skills 仓库，包含 Claude 的 skills 实现，并指向 Agent Skills 标准。",
+          "primary_url": "https://github.com/anthropics/skills",
+          "importance": 6,
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-11-10/opensource-00.jpg"
+        },
+        {
+          "headline": "Reason Machines 开源 Agent Git 服务器 Aspen",
+          "summary": "Reason Machines 开源面向 AI Agent 的自托管 Git 服务器 Aspen，遵循 OpenAI Pando 设计，公司测试中单台 8 核服务器达到每秒 567 次 push。",
+          "primary_url": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+          "importance": 6,
+          "items": [
+            "81657a28b4903091"
+          ],
+          "cover_path": "out/media/2026-11-10/opensource-01.jpg"
+        },
+        {
+          "headline": "0sec Labs 开源 AI 安全测试框架 0",
+          "summary": "0sec Labs 开源 AI 安全 harness“0”，支持代码审查、渗透测试、逆向工程和修复，提供 Web UI、CLI 与 MCP 接口，并可本地使用自有模型。",
+          "primary_url": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+          "importance": 5,
+          "items": [
+            "0e5ea437eb1eff1c"
+          ],
+          "cover_path": "out/media/2026-11-10/opensource-02.jpg"
+        },
+        {
+          "headline": "Meta 开源 agent-ready 设计系统 astryx",
+          "summary": "Meta 开源设计系统 astryx，完全可定制，并面向 Agent 使用场景做好准备。",
+          "primary_url": "https://github.com/meta/astryx",
+          "importance": 5,
+          "items": [
+            "0114f96d1e1d6a5f"
+          ]
+        },
+        {
+          "headline": "OpenSandbox 开源 AI Agent 沙箱运行时",
+          "summary": "OpenSandbox 开源安全、快速、可扩展的 AI Agent 沙箱运行时。",
+          "primary_url": "https://github.com/opensandbox-group/OpenSandbox",
+          "importance": 5,
+          "items": [
+            "355b704a1d1df62a"
+          ],
+          "cover_path": "out/media/2026-11-10/opensource-04.jpg"
+        },
+        {
+          "headline": "OpenBMB 开源无分词器 TTS VoxCPM2",
+          "summary": "OpenBMB 开源 VoxCPM2，一种无分词器 TTS，支持多语言语音生成、创意音色设计和拟真声音克隆。",
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "importance": 5,
+          "items": [
+            "9f4860696df00d55"
+          ],
+          "cover_path": "out/media/2026-11-10/opensource-05.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-10"
+}
