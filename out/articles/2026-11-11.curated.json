@@ -1,0 +1,502 @@
+{
+  "date": "2026-11-11",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Claude Fable 5.2 / Mythos 5.2 发布，Anthropic 重夺榜首",
+          "summary": "Anthropic 在 IPO 路演当天发布 Fable 5.2 与 Mythos 5.2，同一模型两档安全策略，支持 100 万 token 上下文，FrontierCode 2.0 得分 49.1%，定价 8/40 美元每百万 token。",
+          "importance": 9,
+          "primary_url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+          "items": [
+            "877fd3f6d69643a1",
+            "90b2b48ee79a215c",
+            "3ade64da1fbb1220"
+          ],
+          "cover_path": "out/media/2026-11-11/model_release-00.jpg"
+        },
+        {
+          "headline": "谷歌发布 Gemini 4 Carbon，模型迭代节奏再加速",
+          "summary": "DeepMind 上线 Gemini 4 Carbon，主打更强推理与更长上下文；有评论称更新速度已快到「发布即过时」，llm-gemini 等工具链同步跟进。",
+          "importance": 8,
+          "primary_url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "items": [
+            "be61a583976d1e3c",
+            "04217c1fe63cf418",
+            "4b010edd4109b047"
+          ],
+          "cover_path": "out/media/2026-11-11/model_release-01.jpg"
+        },
+        {
+          "headline": "Meta 推出 Muse Ember：小模型专攻 Agent 苦力活",
+          "summary": "Meta 最小的模型 Muse Ember 面向工具调用、编码子任务与文档解析，支持 100 万上下文，在 Artificial Analysis 智能指数上追平 Claude Haiku 5.5，单任务成本仅约三分之一。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+          "items": [
+            "22e935561aea8f39",
+            "4266173bf89a6908",
+            "63c89416a3e0d3ca"
+          ],
+          "cover_path": "out/media/2026-11-11/model_release-02.jpg"
+        },
+        {
+          "headline": "Gemini Robotics 2.5 发布，机器人灵巧度翻倍",
+          "summary": "DeepMind 推出新一代视觉-语言-动作模型 Gemini Robotics 2.5，部分任务成功率提升至两倍，并在奔驰装配试点中实现 96% 的金属件分拣，同步开源 ASIMOV-jailbreak 安全基准。",
+          "importance": 7,
+          "primary_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "items": [
+            "4ec803ce4a49b849",
+            "bb349d01a4c678a0",
+            "25d4089c22fb79c8"
+          ],
+          "cover_path": "out/media/2026-11-11/model_release-03.jpg"
+        },
+        {
+          "headline": "字节 Seedream 5.5 上线：速度更快、API 更便宜",
+          "summary": "新一代图像模型 Seedream 5.5 在 100 轮连续图像编辑测试中稳定性明显提升，同时提速并下调 API 价格。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/508828.html",
+          "items": [
+            "d0c5e78c8815f4d6"
+          ],
+          "cover_path": "out/media/2026-11-11/model_release-04.jpg"
+        },
+        {
+          "headline": "英伟达 GR00T 2：看人类视频，把自己想象成机器人",
+          "summary": "英伟达新模型 GR00T 2 通过观看人类视频完成自我具身想象，减少对真实机器人采集数据的依赖。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+          "items": [
+            "80b4263aa4b39f0b"
+          ],
+          "cover_path": "out/media/2026-11-11/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic IPO 定价 70–78 美元，估值冲 1.4 万亿美元",
+          "summary": "Anthropic 启动路演，计划发行价区间 70–78 美元，全额摊薄估值最高 1.404 万亿美元，拟通过 IPO 与私募配售募资至多 904 亿美元，七位联创各套现约 2.5 亿美元，11 月 20 日登陆纳斯达克。",
+          "importance": 10,
+          "primary_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "items": [
+            "4efaa5fa65e88ec0",
+            "ca409edd8de9faa2",
+            "0232bbf0ae06feb1"
+          ],
+          "cover_path": "out/media/2026-11-11/company-00.jpg"
+        },
+        {
+          "headline": "黄仁勋绯闻升级为国家安全事件，英伟达启动调查",
+          "summary": "英伟达正调查中国情报机构是否通过黄仁勋的婚外情接近其本人，事件牵涉公司治理与中美 AI 芯片竞争；做空机构称半年前已提示相关风险。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+          "items": [
+            "0967f864e4925ec6",
+            "d871ae71887d4efd",
+            "9003abf4ee2a9812"
+          ],
+          "cover_path": "out/media/2026-11-11/company-01.jpg"
+        },
+        {
+          "headline": "谷歌加码自研芯片：TPU 8i Max 与保密推理 TPU 8tx",
+          "summary": "谷歌扩充第八代 TPU 产品线，TPU 8i Max 单封装集成两颗芯片面向长上下文 Agent，TPU 8tx 提供硬件级保密推理，据报道 2027 年可用。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "items": [
+            "1e3dd8acf944c409",
+            "40c81c6aed01ef5e"
+          ],
+          "cover_path": "out/media/2026-11-11/company-02.jpg"
+        },
+        {
+          "headline": "OpenAI 收购 Sonder 创始人创办的旅游初创 Odessia",
+          "summary": "OpenAI 完成对旅游创业公司 Odessia 的收购，交易金额未披露，其创始人 Francis Davidson 是旅游行业知名创业者，收购用途尚未公布。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+          "items": [
+            "157c2c3771895059"
+          ],
+          "cover_path": "out/media/2026-11-11/company-03.jpg"
+        },
+        {
+          "headline": "Oura 6.25 亿美元收购 AI 原生初级保健公司 Counsel Health",
+          "summary": "在推迟最多 22 亿美元 IPO 数周后，Oura 转向并购，以 6.25 亿美元买下 AI 原生初级保健初创公司 Counsel Health。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+          "items": [
+            "27b1f806d2454d3b"
+          ],
+          "cover_path": "out/media/2026-11-11/company-04.jpg"
+        },
+        {
+          "headline": "阿里正式申请平头哥独立赴港上市",
+          "summary": "阿里巴巴公告已向港交所交表申请子公司平头哥独立上市，上市后仍为阿里子公司；截至 2026 年 4 月真武系列 AI 芯片累计出货 56 万片。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/dew7AYBxkGAYilZj.html",
+          "items": [
+            "729306571508a2b3"
+          ]
+        },
+        {
+          "headline": "成立四个月融资过亿美元，物原科技押注「物理真实」",
+          "summary": "TensorWorld 物原科技一个月内完成过亿美元融资，主打物理真实的具身与世界模型技术路线。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/508991.html",
+          "items": [
+            "9532505c95a52703"
+          ],
+          "cover_path": "out/media/2026-11-11/company-06.jpg"
+        },
+        {
+          "headline": "PSI 想把 AI 驱动的科学发现做成生意",
+          "summary": "PSI 使用未公开的 Anthropic 模型，回答了一个量子计算领域科学家追寻近二十年的基础问题，并尝试将「AI 做科研」商业化。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+          "items": [
+            "e9b97fc9c6572989"
+          ],
+          "cover_path": "out/media/2026-11-11/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "DeepMind AlphaProof Code 形式化验证 Signal 加密协议",
+          "summary": "AlphaProof Code 智能体用 Lean 写出三百万行证明，完成对 Signal 核心加密协议的形式化验证，DeepMind 称目标是把该方法推广到「全世界所有软件」。",
+          "importance": 7,
+          "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "items": [
+            "6e71ebc35f784f83",
+            "20029830520a8117"
+          ],
+          "cover_path": "out/media/2026-11-11/research-00.jpg"
+        },
+        {
+          "headline": "OpenAI 与 Upwork：AI 让自由职业需求结构性迁移",
+          "summary": "双方联合研究显示，AI 相关项目预算与工时上升，自由职业者所需技能组合发生明显变化，部分传统任务需求被重塑。",
+          "importance": 5,
+          "primary_url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "items": [
+            "02b15f54f0724058"
+          ]
+        },
+        {
+          "headline": "Meta FAIR 推出 e-means，比 k-means 快 10 倍收敛",
+          "summary": "e-means 已随 FAISS 1.16.0 发布，用 1.4–2.6 个 epoch 达到 Lloyd 算法 25 个 epoch 的损失水平，GPU 加速 10–45 倍且无新增超参。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+          "items": [
+            "7b33e9f9b31f402d"
+          ],
+          "cover_path": "out/media/2026-11-11/research-02.jpg"
+        },
+        {
+          "headline": "百度 ERNIE Evolve：自动科研系统刷新公开纪录",
+          "summary": "ERNIE Evolve 能自主改代码、跑实验并只保留可验证的增益，在 NanoChat 与 NanoGPT Speedrun 上超过公开最好成绩，并加速 ERNIE-5.5-Flash 推理。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
+          "items": [
+            "e4aa2fb1e89b6ae1"
+          ],
+          "cover_path": "out/media/2026-11-11/research-03.jpg"
+        },
+        {
+          "headline": "中大本科生「反 AI 逆向」：让黑客 Token 账单涨 300 倍",
+          "summary": "该项目通过投毒、耗尽预算与诱导误判三步，让针对 AI 的逆向攻击成本急剧上升，在社区走红。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/508787.html",
+          "items": [
+            "370ee5b46f3a48d1"
+          ],
+          "cover_path": "out/media/2026-11-11/research-04.jpg"
+        },
+        {
+          "headline": "FP4 预训练代价被低估：损失曲线看不出稀有事实退化",
+          "summary": "arXiv 新论文用合成传记数据训练发现，低精度预训练在验证损失持平时，对稀有事实的习得速度明显变慢。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2611.12832v1",
+          "items": [
+            "8b5a99444cb0bd7b"
+          ],
+          "cover_path": "out/media/2026-11-11/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic 把 Claude 做成办公套件：表格、白板、会议",
+          "summary": "Anthropic 发布 Plugins、Claude Sheets 电子表格与白板工具，并推出 Claude Meetings，可在会议中实时起草计划、排时间线、调用已连接的工作应用数据。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "items": [
+            "d13ee0383c384e78",
+            "39032ea178ebbd37",
+            "3e554134c8bafd1c"
+          ],
+          "cover_path": "out/media/2026-11-11/product-00.jpg"
+        },
+        {
+          "headline": "ChatGPT 变身企业黄页，商家可入驻并接客服 Agent",
+          "summary": "OpenAI 推出 Businesses in ChatGPT，企业可管理自身信息、查看在 ChatGPT 中的展示效果，并由 AI 智能体代答客户问题，ChatGPT 进一步向消费发现引擎演进。",
+          "importance": 7,
+          "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "items": [
+            "cf8ee21c96f7b896",
+            "a0b0db907f3f1236",
+            "b6bd05d0834e42d4"
+          ]
+        },
+        {
+          "headline": "千问办公 2.0 发布：首个多人与 Agent 协作 Team Agent",
+          "summary": "阿里千问办公 2.0 主打 Team Agent，支持多人与多个 Agent 在同一工作空间协同完成任务，被视为办公 AI 从单机模式走向团队协作。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/1Mz0ADa02PxcDsVfpVEb",
+          "items": [
+            "986121944aca15ba",
+            "7435c81c3a179563",
+            "92ccae9db31db143"
+          ],
+          "cover_path": "out/media/2026-11-11/product-02.jpg"
+        },
+        {
+          "headline": "Adobe 把 AI Agent 塞进 Photoshop、Premiere 与 Firefly",
+          "summary": "Adobe 为创意套件加入智能体能力，并在 Firefly 中推出对标 Figma 的原型搭建工具，同时发布自家 MCP。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+          "items": [
+            "5f6ddf13f1ac67cb"
+          ],
+          "cover_path": "out/media/2026-11-11/product-03.jpg"
+        },
+        {
+          "headline": "Ring 从门铃走向机器人：家用安防无人机 + 巡逻机器人",
+          "summary": "亚马逊旗下 Ring 发布可移动的家用安防无人机与企业级巡逻机器人，产品将于 2026 年底至 2027 年初陆续上市。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+          "items": [
+            "0771af840428ff5a",
+            "04633d0be2fdeb90"
+          ],
+          "cover_path": "out/media/2026-11-11/product-04.jpg"
+        },
+        {
+          "headline": "Cyanogen 联创打造 Kora：为 AI 时代重做 Windows",
+          "summary": "基于 Linux 的桌面系统 Kora 免费开放，面向大量运行本地模型与 Agent 的进阶用户，试图挑战 Windows 与 macOS。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+          "items": [
+            "8d86a64d84c0c7ab",
+            "ee7ae73ab05635f6"
+          ],
+          "cover_path": "out/media/2026-11-11/product-05.jpg"
+        },
+        {
+          "headline": "Meta 的 Muse 上手表：Apple Watch 与 Wear OS 可语音对话",
+          "summary": "Meta AI 助手 Muse 登陆 Apple Watch 与 Android Wear OS，用户可通过语音通话、短信或听写与之交互。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+          "items": [
+            "746562aa4ef76143"
+          ],
+          "cover_path": "out/media/2026-11-11/product-06.jpg"
+        },
+        {
+          "headline": "蚂蚁灵光接入「什么值得买」，AI 助理开始帮你盯价",
+          "summary": "个人 AI 助理灵光接入消费内容平台什么值得买，补上商品信息与消费决策能力，其连接器生态已覆盖 40 项服务。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html",
+          "items": [
+            "ef69491d636f42d3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "纽约 AI 安全法生效，OpenAI、Anthropic 迎强制披露",
+          "summary": "纽约州开始执行全面 AI 安全法，大型模型开发商须注册、披露安全实践并上报重大事故，违规将面临罚款。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "items": [
+            "7dff1ee434a139c7"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-00.jpg"
+        },
+        {
+          "headline": "八国与头部 AI 实验室签署巴黎宣言，约定关停机制",
+          "summary": "八国政府与多家顶级 AI 实验室就模型失控时的关停与协同机制达成一致，写入新的巴黎宣言。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+          "items": [
+            "6bd70afebc418934"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-01.jpg"
+        },
+        {
+          "headline": "AI 安全辩论跑偏了？10 位专家重列真正风险清单",
+          "summary": "Wired 访谈十位专家认为，核灾难与中美博弈带来的现实风险更紧迫，而「天网」式想象分散了注意力。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+          "items": [
+            "0e01f7d8cb260594"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-02.jpg"
+        },
+        {
+          "headline": "Hugging Face 高管警告：网络攻击或让开源 AI 不再开放",
+          "summary": "Irene Solaiman 表示针对开放 AI 平台的攻击增多，可能迫使社区收紧安全限制，侵蚀开源生态的核心价值。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+          "items": [
+            "66b4e79d32f0ad77"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-03.jpg"
+        },
+        {
+          "headline": "李飞飞、Jeff Dean 齐泼冷水：AI 无限自我加速不可信",
+          "summary": "面对硅谷对 AI 自我进化的炒作，多位顶级研究者公开质疑递归自我改进的可行性，认为当前证据不足以支撑指数级加速叙事。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo",
+          "items": [
+            "337a7a13467e4092"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-04.jpg"
+        },
+        {
+          "headline": "「去护栏」运动：一群人正在批量制造永不说「不」的模型",
+          "summary": "Wired 报道 abliterators 群体大量发布移除拒绝行为的开源模型，既可能增强防御研究，也可能降低滥用门槛。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+          "items": [
+            "1bcdf0e5c7ef4506"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-05.jpg"
+        },
+        {
+          "headline": "数据中心争议，本质可能是电力焦虑",
+          "summary": "MIT Tech Review 走访弗吉尼亚 Ashburn 后认为，选民对数据中心的反弹更多源于电价与电网压力，而非单纯反对 AI。",
+          "importance": 5,
+          "primary_url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "items": [
+            "126e6841110948f0"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-06.jpg"
+        },
+        {
+          "headline": "AI 立法派进军国会：Scott Wiener 拿下佩洛西席位",
+          "summary": "曾主导加州先进 AI 风险立法的州参议员 Scott Wiener 赢得旧金山选区众议员席位，有望把 AI 监管议程带到联邦层面。",
+          "importance": 4,
+          "primary_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+          "items": [
+            "d31ac3c28ff64e65"
+          ],
+          "cover_path": "out/media/2026-11-11/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "蚂蚁灵波开源 LingBot-Touch：给机器人通用触觉",
+          "summary": "蚂蚁灵波科技开源触觉基础模型 LingBot-Touch，把触觉信号 Token 化，从「一脑多机」走向「一脑多手」，补齐具身智能的物理感知闭环。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/11/508996.html",
+          "items": [
+            "cae3a36a11d27dc4",
+            "cc6e3c626b248202",
+            "d26d8f4a2686920f"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-00.jpg"
+        },
+        {
+          "headline": "英伟达向 CNCF 捐赠 OpenShell，加码 AI 基础设施开源",
+          "summary": "英伟达扩大开源承诺，将 OpenShell 捐给社区并发布新的 AI 基础设施组件，瞄准大规模 AI 工厂的 Kubernetes 调度需求。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "items": [
+            "10d581823f092969"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-01.jpg"
+        },
+        {
+          "headline": "DeepSeek Harness 日活 154 万，官方给插件作者发 Token",
+          "summary": "DeepSeek 的 Agent 运行环境 Harness 日活达 154 万，官方开始以 Token 激励插件开发者，试图把 Agent 生态交给社区共建。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK",
+          "items": [
+            "edac24e4a1f54a40"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-02.jpg"
+        },
+        {
+          "headline": "openJiuwen 开源 TTSE 经验学习框架",
+          "summary": "openJiuwen 首发 TTSE 经验学习框架，让 Agent 把每次任务沉淀为可复用经验，同时发布 Agent Device Foundation 定义与物理世界的交互方式。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/508998.html",
+          "items": [
+            "cec80ddee2eddced",
+            "1072522f2d592a40"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-03.jpg"
+        },
+        {
+          "headline": "Anthropic 开源 Agent Skills 仓库，定义技能标准",
+          "summary": "anthropics/skills 公开 Claude 的技能实现，并指向 Agent Skills 标准，成为 Agent 能力封装的事实参考。",
+          "importance": 5,
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-04.jpg"
+        },
+        {
+          "headline": "OpenBMB 开源 VoxCPM2：无分词器的多语种 TTS",
+          "summary": "VoxCPM2 采用 tokenizer-free 架构，支持多语言语音生成、创意音色设计与高保真克隆，登上 GitHub 趋势榜。",
+          "importance": 5,
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "items": [
+            "9f4860696df00d55"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-05.jpg"
+        },
+        {
+          "headline": "Zyphra 开源 ZONOS3-Mini：浏览器里实时跑 TTS",
+          "summary": "Apache 2.0 许可的语音合成模型，总参 8 亿、激活 1 亿，支持逐词控制语气与声音克隆，可在浏览器实时运行。",
+          "importance": 4,
+          "primary_url": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
+          "items": [
+            "7ee656f04517e244"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-06.jpg"
+        },
+        {
+          "headline": "Vercel 开源 agent-browser：给 Agent 用的浏览器 CLI",
+          "summary": "vercel-labs 推出面向 AI Agent 的浏览器自动化命令行工具，简化网页操作类 Agent 的接入。",
+          "importance": 4,
+          "primary_url": "https://github.com/vercel-labs/agent-browser",
+          "items": [
+            "e5b44a600947456e"
+          ],
+          "cover_path": "out/media/2026-11-11/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
