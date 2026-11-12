@@ -1,0 +1,464 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini 4 Carbon 正式开放，价格仅为对手 1/4",
+          "summary": "Google DeepMind 宣布 Gemini 4 Carbon 全面可用，官方称其能在一夜之间重写 OpenCode 桌面应用，定价约为 Fable 5.2 的四分之一。第三方工具 llm-gemini 同步更新支持。",
+          "importance": 10,
+          "primary_url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "items": [
+            "be61a583976d1e3c",
+            "3f40babb1cbf3c18",
+            "fdd4b8125ff436ca"
+          ],
+          "cover_path": "out/media/2026-11-12/model_release-00.jpg"
+        },
+        {
+          "headline": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，同一模型两档防护",
+          "summary": "Anthropic 推出 Fable 5.2 与 Mythos 5.2，实为同一模型的两套安全防护等级；Fable 5.2 在 FrontierCode 2.0 上得分 49.1%，定价 8/40 美元每百万 token，支持 100 万 token 上下文。",
+          "importance": 7,
+          "primary_url": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+          "items": [
+            "90b2b48ee79a215c"
+          ],
+          "cover_path": "out/media/2026-11-12/model_release-01.jpg"
+        },
+        {
+          "headline": "DeepMind 发布 Gemini Robotics 2.5，同步开源越狱基准",
+          "summary": "Gemini Robotics 2.5 在部分任务上成功率提升至原来的两倍，DeepMind 同时公开安全基准 ASIMOV-jailbreak，用于评测机器人模型被越狱的风险。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+          "items": [
+            "bb349d01a4c678a0"
+          ],
+          "cover_path": "out/media/2026-11-12/model_release-02.jpg"
+        },
+        {
+          "headline": "Fish Audio 发布 Live 3：边说边听，186 毫秒响应",
+          "summary": "全双工语音模型 Live 3 能在说话时持续监听，区分「嗯哼」附和与真正打断，最低 186 毫秒即可反应，首发仅支持英文。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
+          "items": [
+            "b7791d8cfdc0f9a7"
+          ],
+          "cover_path": "out/media/2026-11-12/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "英伟达董事会拟罢免黄仁勋，国会传唤作证",
+          "summary": "黄仁勋被曝与一名被指为中国情报人员的女性有染，另有与英伟达下属的婚外情指控；董事会最早周三晚决定是否罢免这位创始 CEO，众议院共和党人要求其闭门作证，股价应声下跌。",
+          "importance": 10,
+          "primary_url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "items": [
+            "b0c3f6605f87f184",
+            "be13801852659079",
+            "af1dece4a8a97a98"
+          ],
+          "cover_path": "out/media/2026-11-12/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 启动 IPO 路演，联创人均套现 2.5 亿美元",
+          "summary": "七位联合创始人计划在 IPO 中各卖出相同数量股份，按发行价区间中值计算每人约套现 2.5 亿美元，同时仍保持对公司的控制权。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+          "items": [
+            "ca409edd8de9faa2",
+            "2fd612177cda9915",
+            "26ffcb0d07c2b549"
+          ],
+          "cover_path": "out/media/2026-11-12/company-01.jpg"
+        },
+        {
+          "headline": "OpenAI 季度营收首破 100 亿美元",
+          "summary": "受益于企业级销售，OpenAI 单季营收达到 100 亿美元，较上季的 67 亿美元增长近 50%，但报道称其规模仍落后于 Anthropic。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "items": [
+            "0b33acb54c2c4093",
+            "88dac25ab42117e0"
+          ],
+          "cover_path": "out/media/2026-11-12/company-02.jpg"
+        },
+        {
+          "headline": "台积电拟向 Anthropic 和 OpenAI 各投 10 亿美元",
+          "summary": "在 AI 交易震荡之际，台积电计划向两家头部模型公司各投资 10 亿美元，成为 AI 热潮中「循环融资」的最新案例。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+          "items": [
+            "754984d8a89ccb96"
+          ],
+          "cover_path": "out/media/2026-11-12/company-03.jpg"
+        },
+        {
+          "headline": "Anthropic：AI 正在瓦解 CUDA 护城河",
+          "summary": "Anthropic 称借助 AI 辅助迁移，把训练栈从英伟达切换到 AMD 的工期由数月压缩到三天，认为 CUDA 的生态锁定正在被削弱。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+          "items": [
+            "3dc049b667fd5844"
+          ],
+          "cover_path": "out/media/2026-11-12/company-04.jpg"
+        },
+        {
+          "headline": "Mercor 完成 7.5 亿美元 D 轮，估值 200 亿美元",
+          "summary": "AI 数据与人才平台 Mercor 完成 7.5 亿美元 D 轮融资，估值达 200 亿美元，年化流水已达 30 亿美元规模。",
+          "importance": 6,
+          "primary_url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+          "items": [
+            "efd4cb80038a11ae"
+          ],
+          "cover_path": "out/media/2026-11-12/company-05.jpg"
+        },
+        {
+          "headline": "英国 Fractile 融资 7.2 亿美元，押注 AI 专用芯片",
+          "summary": "英国 AI 芯片初创 Fractile 拿到 7.2 亿美元融资，跻身专用 AI 芯片赛道资金最充裕的玩家之列。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "items": [
+            "6bcb2c876a4acbfc"
+          ],
+          "cover_path": "out/media/2026-11-12/company-06.jpg"
+        },
+        {
+          "headline": "OpenAI 收购旅游初创公司 Odessia",
+          "summary": "被收购方由 Sonder 创始人 Francis Davidson 创办，OpenAI 尚未说明将如何把旅游业务纳入自身产品线。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+          "items": [
+            "157c2c3771895059"
+          ],
+          "cover_path": "out/media/2026-11-12/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "DeepMind 用 AI 四周完成 Signal 加密核心验证",
+          "summary": "AlphaProof Code 在四周内完成 Signal 协议密码学核心的形式化验证，原本预计需数年；这显示 AI 有望让形式化验证真正具备工程可行性。",
+          "importance": 8,
+          "primary_url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+          "items": [
+            "e6c86d4cbd44f8e8",
+            "674198453a70de5c"
+          ],
+          "cover_path": "out/media/2026-11-12/research-00.jpg"
+        },
+        {
+          "headline": "DeepMind 发布 AlphaGenome 2，按细胞类型预测变异影响",
+          "summary": "AlphaGenome 2 是条件 DNA 序列模型，可针对具体人类细胞类型预测调控活性与变异效应，已通过 AlphaGenome API 面向非商业研究开放。",
+          "importance": 7,
+          "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "items": [
+            "267128758de82050",
+            "97cf7af1c20790b9"
+          ],
+          "cover_path": "out/media/2026-11-12/research-01.jpg"
+        },
+        {
+          "headline": "PSI 借未发布 Anthropic 模型破解量子计算难题",
+          "summary": "初创公司 PSI 用一款尚未公开的 Anthropic 模型，回答了量子计算领域科学家追寻近二十年的基础问题，并试图把 AI 驱动的科学发现做成生意。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+          "items": [
+            "e9b97fc9c6572989"
+          ],
+          "cover_path": "out/media/2026-11-12/research-02.jpg"
+        },
+        {
+          "headline": "Meta FAIR 提出 e-means，十倍更少 epoch 追平 k-means",
+          "summary": "e-means 作为 mini-batch k-means 的替代方案已进入 FAISS 1.16.0，用 1.4–2.6 个 epoch 达到 Lloyd 算法 25 个 epoch 的损失，GPU 加速 10–45 倍且无需新增超参。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+          "items": [
+            "7b33e9f9b31f402d"
+          ],
+          "cover_path": "out/media/2026-11-12/research-03.jpg"
+        },
+        {
+          "headline": "不是 AI 变笨了，是人变挑了",
+          "summary": "论文在 Chatbot Arena 上把「模型变差」与「评审标准变化」两种解释拆开，发现用户评分下滑很大程度上来自人类评价标准的抬升。",
+          "importance": 4,
+          "primary_url": "http://arxiv.org/abs/2611.14333v1",
+          "items": [
+            "b97a5be5069534bd"
+          ],
+          "cover_path": "out/media/2026-11-12/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "谷歌推出 Gemini Decisions API，一次打分上千问题",
+          "summary": "由 Gemini Decision 1 驱动的 Decisions API 可对最多 1000 个是/否、选择题与评分标准问题返回校准概率，支持文本、图像、音频、视频与 PDF，输入价 0.1 美元每百万 token。",
+          "importance": 7,
+          "primary_url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+          "items": [
+            "5aecc615d75f55c8",
+            "f2b9bc52cdda567d",
+            "45aa5ebdf84db8ad"
+          ]
+        },
+        {
+          "headline": "Claude 杀入办公套件：自己参会、做表、出 PPT",
+          "summary": "Anthropic 把 Claude 推进办公软件核心场景，可自主参加会议、生成表格与演示文稿，直接冲击微软 Office 的地盘。",
+          "importance": 7,
+          "primary_url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP",
+          "items": [
+            "27022af9eada73b3"
+          ],
+          "cover_path": "out/media/2026-11-12/product-01.jpg"
+        },
+        {
+          "headline": "Grok Build 生成应用大面积裸奔，3.5 万实例泄露机密",
+          "summary": "安全研究者发现约 3.5 万个由 Grok Build 编码 agent 生成的应用对外完全开放，泄露患者数据、明文密码乃至 SpaceXSI 自家销售管线。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+          "items": [
+            "1370215aa030dd6a",
+            "43eb257c9611ea9a"
+          ],
+          "cover_path": "out/media/2026-11-12/product-02.jpg"
+        },
+        {
+          "headline": "ChatGPT 上线商家主页，正面硬刚谷歌搜索",
+          "summary": "OpenAI 为商家推出新版档案页与相关功能，试图把 ChatGPT 从聊天工具变成消费者发现入口，商业模式进一步向搜索广告靠拢。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+          "items": [
+            "a0b0db907f3f1236"
+          ],
+          "cover_path": "out/media/2026-11-12/product-03.jpg"
+        },
+        {
+          "headline": "DeepL 新语音模型：连语气和语速一起翻译",
+          "summary": "DeepL 发布新语音模型，声称可把语调、语速与情绪迁移到目标语言，让实时同传不再丢失语气与情绪。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+          "items": [
+            "347735a04a119d84"
+          ],
+          "cover_path": "out/media/2026-11-12/product-04.jpg"
+        },
+        {
+          "headline": "Databricks 用 AI 分身向 CEO 报告坏消息",
+          "summary": "员工规模达 1.2 万人的 Databricks 用升级版 Genie agent 汇总内部问题，让 CEO Ali Ghodsi 不必依赖下属主动上报就能知道哪里出了问题。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+          "items": [
+            "6d85d669177234ae"
+          ],
+          "cover_path": "out/media/2026-11-12/product-05.jpg"
+        },
+        {
+          "headline": "亚马逊发布 AI 安防无人机与机器人",
+          "summary": "Ring 摄像头开始「长脚」：亚马逊推出可移动的 Ring Robotics 设备与 AI 安防无人机，将于 2026 年底至 2027 年初陆续上市。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+          "items": [
+            "0771af840428ff5a"
+          ],
+          "cover_path": "out/media/2026-11-12/product-06.jpg"
+        },
+        {
+          "headline": "Cloudflare 推出面向 AI 应用的 Web Search API",
+          "summary": "新 API 为 AI 应用提供网页检索能力，开发者不必自行搭建抓取与索引管线即可为 agent 接入实时网络信息。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW",
+          "items": [
+            "64e9c0c72b291dc7"
+          ],
+          "cover_path": "out/media/2026-11-12/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "纽约 AI 安全法生效，大模型厂商须登记披露",
+          "summary": "纽约州开始执行全面 AI 安全法，要求 OpenAI、Anthropic 等主要开发商注册、披露安全实践并上报重大事故，否则面临罚款。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "items": [
+            "7dff1ee434a139c7"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-00.jpg"
+        },
+        {
+          "headline": "Helsing 推出 AI 目标瞄准系统，称每步都有人类署名",
+          "summary": "欧洲防务公司 Helsing 的 Clarity 系统负责为武器系统准备打击目标，公司强调每个决策环节都会记录具名的人类责任人。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+          "items": [
+            "b1446aacc6962fe6"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-01.jpg"
+        },
+        {
+          "headline": "英国监管威胁制裁高校：不改 AI 防作弊考法就罚",
+          "summary": "英国监管机构要求大学改用能抵御 AI 代写的考试形式，否则将面临处罚，高校评估体系与生成式 AI 的冲突进一步升级。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+          "items": [
+            "c2cfb931d30c03d8"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-02.jpg"
+        },
+        {
+          "headline": "美数据经纪商向中国实验室售 5 亿美元 RL 环境",
+          "summary": "报道称美国数据经纪商正向中国 AI 实验室出售价值约 5 亿美元的强化学习训练环境，训练数据出口管制的灰色地带浮出水面。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+          "items": [
+            "a896ee2fba49d893"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-03.jpg"
+        },
+        {
+          "headline": "13 岁女孩向 Gemini 倾诉自杀，学校数周未预警",
+          "summary": "一名 13 岁女生通过学校 Chromebook 使用 Gemini 筹划自杀，家长指控校方监控系统数周未触发警报，直到险些酿成悲剧。",
+          "importance": 6,
+          "primary_url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+          "items": [
+            "d3a900125dc3f9ed"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-04.jpg"
+        },
+        {
+          "headline": "美国企业 AI 支出创新高，但增速降到 1.65%",
+          "summary": "10 月美国企业 AI 支出绝对值再破纪录，但环比增速放缓至 1.65%，市场开始讨论 AI 资本开支见顶的可能。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+          "items": [
+            "ad92c29ac268b5c1"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-05.jpg"
+        },
+        {
+          "headline": "只因用 AI 修了个 bug，这款独立游戏被评委抵制",
+          "summary": "独立游戏《Big Walk》承认用 AI 修复了一个 bug，随即遭到独立游戏节（IGF）多位评委抵制，行业对「任何程度 AI 参与」的容忍度成为争议焦点。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+          "items": [
+            "c938cc3d199c62b5"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-06.jpg"
+        },
+        {
+          "headline": "当 AI 成为数学的「神谕」，数学家怎么办",
+          "summary": "数学家 Steven Strogatz 在新书《Big Math》访谈中讨论：当 AI 能直接给出正确结论，数学研究的方式与意义将如何被改写。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+          "items": [
+            "672f0985776fce35"
+          ],
+          "cover_path": "out/media/2026-11-12/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "英伟达向开源社区捐赠 OpenShell，加码 AI 基础设施",
+          "summary": "英伟达宣布把 OpenShell 捐赠给开源社区，并公布新的 AI 基础设施项目，瞄准管理大规模 AI 工厂的 Kubernetes 生态。",
+          "importance": 6,
+          "primary_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "items": [
+            "10d581823f092969"
+          ],
+          "cover_path": "out/media/2026-11-12/opensource-00.jpg"
+        },
+        {
+          "headline": "Anthropic 开源 Agent Skills 仓库，冲上 GitHub 热榜",
+          "summary": "Anthropic 公开 Claude 的 Agent Skills 实现仓库，配套的社区技能库与快速上手项目同步走红，成为 agent 能力复用的事实标准候选。",
+          "importance": 6,
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d",
+            "0520df06928ed362",
+            "7263b2ad8f52fe81"
+          ],
+          "cover_path": "out/media/2026-11-12/opensource-01.jpg"
+        },
+        {
+          "headline": "MBZUAI 开源 PAN 2：290 亿参数世界模型",
+          "summary": "MBZUAI 基础模型研究院以 Apache 2.0 协议发布 PAN 2，用 LLM 规划器搭配 290 亿参数扩散 Transformer，可将动作后果模拟成最长 20 秒的视频。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+          "items": [
+            "e16632b22e795968"
+          ],
+          "cover_path": "out/media/2026-11-12/opensource-02.jpg"
+        },
+        {
+          "headline": "Zyphra 开源 ZONOS3-Mini：1 亿激活参数的实时 TTS",
+          "summary": "ZONOS3-Mini 采用 Apache 2.0 协议，总参数 8 亿、激活 1 亿，支持声音克隆与逐词语气控制，可在浏览器内实时合成。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
+          "items": [
+            "7ee656f04517e244"
+          ],
+          "cover_path": "out/media/2026-11-12/opensource-03.jpg"
+        },
+        {
+          "headline": "OpenBMB 开源 VoxCPM2：无分词器多语种 TTS",
+          "summary": "VoxCPM2 去掉分词器环节，主打多语种语音生成、创意音色设计与高保真声音克隆，登上 GitHub Python 趋势榜。",
+          "importance": 4,
+          "primary_url": "https://github.com/OpenBMB/VoxCPM",
+          "items": [
+            "9f4860696df00d55",
+            "c6ddc92abe9e4701"
+          ],
+          "cover_path": "out/media/2026-11-12/opensource-04.jpg"
+        },
+        {
+          "headline": "OpenSandbox：给 AI Agent 的安全沙箱运行时",
+          "summary": "开源项目 OpenSandbox 提供安全、快速、可扩展的沙箱运行环境，用于隔离执行 AI agent 的代码与工具调用。",
+          "importance": 4,
+          "primary_url": "https://github.com/opensandbox-group/OpenSandbox",
+          "items": [
+            "355b704a1d1df62a"
+          ],
+          "cover_path": "out/media/2026-11-12/opensource-05.jpg"
+        },
+        {
+          "headline": "AWS 官方发布本地模拟器 aws-emulator",
+          "summary": "AWS 推出官方模拟器，可在本地复刻其多项云服务用于测试，无需申请付费 API Key 即可跑通集成流程。",
+          "importance": 4,
+          "primary_url": "https://github.com/aws/aws-emulator",
+          "items": [
+            "2c52096f349c7d18"
+          ],
+          "cover_path": "out/media/2026-11-12/opensource-06.jpg"
+        },
+        {
+          "headline": "llm 0.37.2 修复安全漏洞",
+          "summary": "Simon Willison 的 llm 命令行工具发布 0.37.2，修复了由研究者 Daniel de Araujo 报告的一处安全问题。",
+          "importance": 4,
+          "primary_url": "https://simonwillison.net/2026/Nov/11/llm/",
+          "items": [
+            "20ef2c811f8a4240"
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-12"
+}
