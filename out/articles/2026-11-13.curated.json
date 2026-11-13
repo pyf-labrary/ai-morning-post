@@ -1,0 +1,480 @@
+{
+  "date": "2026-11-13",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌发布 Gemini 4 Hydrogen，四周反超更大号的 Argon",
+          "summary": "谷歌正式推出 Gemini 4 Hydrogen，取代 3.8 Flash，跳过此前的慢速安全审查节奏直接铺开；发布仅四周，多项评测已超过体量更大的 Gemini 4 Argon，并同步接入 Google Antigravity 的 Orchestrator 能力。",
+          "importance": 9,
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "items": [
+            "28e1343d029314a5",
+            "48207f5948d5a765",
+            "03551c8a4eed5231"
+          ],
+          "cover_path": "out/media/2026-11-13/model_release-00.jpg"
+        },
+        {
+          "headline": "谷歌首推决策模型 Gemini Decision 1，一次判 1000 题",
+          "summary": "谷歌上线 Gemini Decisions API，由 Gemini Decision 1 驱动，可对最多 1000 个是/否、多选与评分问题一次性输出校准概率，支持文本、图像、音频、视频和 PDF，输入价格 0.1 美元/百万 token。",
+          "importance": 8,
+          "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "items": [
+            "f2b9bc52cdda567d",
+            "45aa5ebdf84db8ad",
+            "0df674d4ed0c4cd4"
+          ],
+          "cover_path": "out/media/2026-11-13/model_release-01.jpg"
+        },
+        {
+          "headline": "MiniMax 开源 SOTA 生图模型，原生 4K 一张两毛",
+          "summary": "MiniMax 开源一款多模态生图模型，支持原生 4K 输出，单张成本约两毛钱，主打 CAD 拆解等复杂结构场景，直接对标闭源头部生图能力。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/11/509440.html",
+          "items": [
+            "27e0bb3e8ee3b243"
+          ],
+          "cover_path": "out/media/2026-11-13/model_release-02.jpg"
+        },
+        {
+          "headline": "百度发布文心全新开源模型，打出快、省、开源三张牌",
+          "summary": "在百度世界 2026 前后，文心团队推出新一代开源模型，主打推理速度、成本与开放权重，被视为百度在大模型竞争中的一次低调追赶。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/b3ASOkGmqznTQWCH.html",
+          "items": [
+            "5f632d104246c296",
+            "e0dfec542266d37e"
+          ]
+        },
+        {
+          "headline": "Liquid AI 开源 74M 流式音频编解码器 LiquidCodec",
+          "summary": "Liquid AI 发布约 7400 万参数的流式音频编解码器 LiquidCodec，以 12.5Hz、12 码本运行，单 CPU 线程编码速度约为实时的 361 倍，支撑 LFM3-Audio 与 LFM3-Omni 模型。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+          "items": [
+            "abfd9fe20f7077ce"
+          ],
+          "cover_path": "out/media/2026-11-13/model_release-04.jpg"
+        },
+        {
+          "headline": "IBM Granite 4.1 小模型引入 LLM 原生标记语言 LLMON",
+          "summary": "IBM 在 Granite 4.1 的 3B 与 8B 版本中引入 LLMON——一种面向大模型的原生标记语言，试图用结构化输出提升小模型的指令遵循与可解析性。",
+          "importance": 4,
+          "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "items": [
+            "b1ef0aa50c85b576"
+          ],
+          "cover_path": "out/media/2026-11-13/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋因间谍丑闻辞任英伟达 CEO，市值蒸发超万亿美元",
+          "summary": "英伟达宣布 CEO 黄仁勋辞职，此前公司就其与一名疑似中国情报人员的婚外情展开调查，消息公布后市值累计蒸发逾 1.4 万亿美元；CFO Colette Kress 出任临时 CEO，公司同时面临股东欺诈指控与多起国会调查。",
+          "importance": 10,
+          "primary_url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+          "items": [
+            "8f2f60f2ce70d63e",
+            "6b88125d117430ac",
+            "fb97b51d585dfe46"
+          ]
+        },
+        {
+          "headline": "Anthropic 启动 IPO 路演，估值缩水约 6000 亿美元",
+          "summary": "Anthropic 发布 IPO 路演视频并披露此前未公开信息，但市场环境转冷，估值较峰值缩水约 6000 亿美元，成为 AI 泡沫争论的风向标。",
+          "importance": 8,
+          "primary_url": "https://ipo.anthropic.com/us/#roadshow-video",
+          "items": [
+            "2fd612177cda9915",
+            "752c961002f5b0f8",
+            "26ffcb0d07c2b549"
+          ],
+          "cover_path": "out/media/2026-11-13/company-01.jpg"
+        },
+        {
+          "headline": "台积电拟向 Anthropic 与 OpenAI 各投 10 亿美元",
+          "summary": "台积电计划向 Anthropic 和 OpenAI 投资合计约 10 亿美元，成为 AI 循环融资链条上的最新一例，正值 AI 交易剧烈波动之际。",
+          "importance": 7,
+          "primary_url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+          "items": [
+            "754984d8a89ccb96"
+          ],
+          "cover_path": "out/media/2026-11-13/company-02.jpg"
+        },
+        {
+          "headline": "美国国会二度调查英伟达，黄仁勋同意出席作证",
+          "summary": "民主党议员就英伟达对华销售及其与特朗普政府的往来发起新一轮调查并致信痛批黄仁勋；黄仁勋在多名资深议员威胁传唤后同意周三赴国会作证。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "items": [
+            "80fda0fb125d8533",
+            "9ae5c2cdcbb84c4f"
+          ],
+          "cover_path": "out/media/2026-11-13/company-03.jpg"
+        },
+        {
+          "headline": "Nebius 押注 400 亿美元扩建 AI 基础设施",
+          "summary": "Nebius 计划以客户预付款和贷款融资方式支撑 400 亿美元 AI 基建扩张，但微软相关数据中心交付延迟，令其融资模式受到质疑。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "items": [
+            "3578bd644a362a4d"
+          ],
+          "cover_path": "out/media/2026-11-13/company-04.jpg"
+        },
+        {
+          "headline": "软银为 AI 数据中心预订燃气轮机，损失超 30 亿美元",
+          "summary": "软银此前为给 AI 数据中心供电而预付订购天然气轮机，如今损失超 30 亿美元，被视为 AI 电力狂热可能触顶的信号。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+          "items": [
+            "7e0b34f9192e36b7"
+          ],
+          "cover_path": "out/media/2026-11-13/company-05.jpg"
+        },
+        {
+          "headline": "Fireworks AI 再遭攻击，Notion 用户聊天记录泄露",
+          "summary": "Fireworks AI 两个月内第二次发生数据泄露，黑客借此访问了 Notion 部分客户的聊天记录，AI 推理供应链安全问题再度引发关注。",
+          "importance": 5,
+          "primary_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+          "items": [
+            "76f2abd17c5ade10"
+          ],
+          "cover_path": "out/media/2026-11-13/company-06.jpg"
+        },
+        {
+          "headline": "Norwest 设立 40 亿美元新基金，加注 AI",
+          "summary": "投资机构 Norwest 成立其历史上规模最大的 40 亿美元基金，明确将加大对 AI 领域的投入。",
+          "importance": 4,
+          "primary_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+          "items": [
+            "0b196e55232a6634"
+          ],
+          "cover_path": "out/media/2026-11-13/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "DeepMind 发布 AlphaGenome 2，把基因组预测做到单细胞精度",
+          "summary": "AlphaGenome 2 从整块组织的预测升级为按细胞类型推断 DNA 序列变异对调控活性的影响，并通过 API 向非商业研究开放，有望更精细地解释疾病机制。",
+          "importance": 7,
+          "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "items": [
+            "267128758de82050",
+            "90a2ee636ab64af3",
+            "97cf7af1c20790b9"
+          ],
+          "cover_path": "out/media/2026-11-13/research-00.jpg"
+        },
+        {
+          "headline": "AlphaProof Code 四周完成 Signal 加密核心形式化验证",
+          "summary": "DeepMind 的 AlphaProof Code 在四周内完成 Signal 加密核心的形式化验证，工作量原本预计需要数年，展示了 AI 在形式化数学与安全审计上的实用突破。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+          "items": [
+            "674198453a70de5c"
+          ],
+          "cover_path": "out/media/2026-11-13/research-01.jpg"
+        },
+        {
+          "headline": "OpenAI 数据：前沿模型正在“隐藏思考”",
+          "summary": "OpenAI 公布的数据显示，由于开发者一味优化能力与算力效率，前沿模型的可读思维链越来越少，推理透明度问题正成为新的研究方向。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+          "items": [
+            "4801278e9a47ea44"
+          ],
+          "cover_path": "out/media/2026-11-13/research-02.jpg"
+        },
+        {
+          "headline": "姚期智与杨植麟联手出题，Kimi 补上关键一条边",
+          "summary": "姚期智、杨植麟首次合作为 AI 设计博士级难题，Kimi 在解题中多画出了“关键一条边”，引发对当前推理模型边界能力的热议。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html",
+          "items": [
+            "696b7cf06716a028"
+          ]
+        },
+        {
+          "headline": "IBM 发布 520 量子比特 Nighthawk r3 处理器",
+          "summary": "IBM 公布 Quantum Nighthawk r3，可在 520 个可编程量子比特上支撑 1 万次量子操作，2027 年将两枚芯片互联成 1040 比特系统；上一代 r2 相对 Heron 最高提速 19 倍。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
+          "items": [
+            "7566a6a72a66f238"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude 杀入办公腹地：能参会、做表格、生成 PPT",
+          "summary": "Anthropic 推出 Claude Meetings，让 Claude 直接加入视频会议，并可在办公套件中自行参会、整理表格、生成演示文稿，正面冲击微软办公阵地。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+          "items": [
+            "c4a276faf8026148",
+            "27022af9eada73b3"
+          ],
+          "cover_path": "out/media/2026-11-13/product-00.jpg"
+        },
+        {
+          "headline": "美联航封杀 AI 代理订票，称存在网络安全风险",
+          "summary": "美联航宣布不允许客户使用第三方 AI 代理代订机票与管理订单，理由是网络安全风险，成为航司对 agent 商业化设限的首个显著案例。",
+          "importance": 7,
+          "primary_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+          "items": [
+            "811f8b450be0efa2",
+            "984be1ab39f2c065"
+          ],
+          "cover_path": "out/media/2026-11-13/product-01.jpg"
+        },
+        {
+          "headline": "谷歌搜索 AI Mode 升级，用 Gemini 4 Hydrogen 答复杂问题",
+          "summary": "Google 搜索的 AI Mode 由 Gemini 4 Hydrogen 驱动，在复杂多跳问题上给出更完整答案、更相关的链接与更丰富的可视化结果。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "items": [
+            "fd1fa1bd0aca3b7d"
+          ],
+          "cover_path": "out/media/2026-11-13/product-02.jpg"
+        },
+        {
+          "headline": "谷歌 Gemini 智能眼镜开卖，395 美元起主打隐私",
+          "summary": "首批 Gemini 智能眼镜由 Google 联合三星、Gentle Monster 与 Warby Parker 推出，起售价 395 美元，官方着重强调隐私设计与指示灯。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+          "items": [
+            "eb2403bd966502a6"
+          ],
+          "cover_path": "out/media/2026-11-13/product-03.jpg"
+        },
+        {
+          "headline": "豆包工作接入 Kimi、GLM、DeepSeek 多家第三方模型",
+          "summary": "豆包工作一次性接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等第三方模型，并推出限时额度优惠，让用户按任务自选模型。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html",
+          "items": [
+            "1ee0ade9a2087555"
+          ]
+        },
+        {
+          "headline": "ElevenLabs 发布 Scribe v3 Live，语音助手不再抢话",
+          "summary": "ElevenLabs 新的实时语音识别模型 Scribe v3 Live 引入对话上下文，让语音 agent 不再在用户话说到一半时打断。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+          "items": [
+            "afb69b2136fbb62c"
+          ],
+          "cover_path": "out/media/2026-11-13/product-05.jpg"
+        },
+        {
+          "headline": "FAA 把 AI 拥堵建议扩展到全美空域",
+          "summary": "美国联邦航空管理局将 AI 空中交通拥堵管理工具从局部试点扩展至全美空域，航司表示欢迎，但空管工会称未被纳入相关决策。",
+          "importance": 5,
+          "primary_url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "items": [
+            "629a4f5cf6849151"
+          ],
+          "cover_path": "out/media/2026-11-13/product-06.jpg"
+        },
+        {
+          "headline": "阿里 AI 音乐应用快乐虾米上线 App",
+          "summary": "阿里巴巴旗下 AI 音乐创作平台快乐虾米推出 iOS 与 Android App，用户描述情绪、故事或风格即可由 AI 完成歌词、作曲、编曲与演唱。",
+          "importance": 5,
+          "primary_url": "https://36kr.com/newsflashes/4067554198770564?f=rss",
+          "items": [
+            "eb474c1ba804b177"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "黄仁勋离场，英伟达的开源承诺被打上问号",
+          "summary": "黄仁勋辞职令外界质疑英伟达对开源 AI 的投入，包括对 Hugging Face 的 129 亿美元收购与开放权重模型路线；Hugging Face CEO 公开表态将继续为开源而战。",
+          "importance": 6,
+          "primary_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "items": [
+            "3261dd023f3682d9",
+            "bca4dad2583fd523"
+          ],
+          "cover_path": "out/media/2026-11-13/opinion-00.jpg"
+        },
+        {
+          "headline": "澳大利亚拟立法，强制前沿模型接受独立测试",
+          "summary": "澳大利亚提出的 AI 安全法案要求前沿模型厂商向独立测试机构开放模型，若通过将成为又一部具域外影响力的 AI 监管法规。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+          "items": [
+            "158446340826aecf"
+          ],
+          "cover_path": "out/media/2026-11-13/opinion-01.jpg"
+        },
+        {
+          "headline": "Gemini 校园试点翻车，家长要求暂停校园 AI",
+          "summary": "一名青少年起诉称 Gemini 是“自杀教练”，家长与学区围绕 Google 预装在学校 Chromebook 上的 AI 展开对抗，多地出现要求暂停校园 AI 试点的呼声。",
+          "importance": 6,
+          "primary_url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+          "items": [
+            "c7debbf0fdc747f4"
+          ],
+          "cover_path": "out/media/2026-11-13/opinion-02.jpg"
+        },
+        {
+          "headline": "Anthropic 玻璃翼计划被质疑：挖了 4 万漏洞只修 217 条",
+          "summary": "Anthropic 的漏洞挖掘计划被指“只管挖不管埋”——近 4 万个候补漏洞中仅修复 217 条，引发对 AI 安全项目实际落地效果的讨论。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/509291.html",
+          "items": [
+            "51703dde06733249"
+          ],
+          "cover_path": "out/media/2026-11-13/opinion-03.jpg"
+        },
+        {
+          "headline": "李彦宏：Token 越烧越多利润没涨，企业组织要重设计",
+          "summary": "李彦宏在内部讲话中指出企业 AI 投入的 token 消耗持续攀升而利润未同步增长，主张围绕 AI 重新设计组织结构而非简单叠加工具。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&utm_medium=article",
+          "items": [
+            "bdf44961bc945984"
+          ],
+          "cover_path": "out/media/2026-11-13/opinion-04.jpg"
+        },
+        {
+          "headline": "Grok 泄露 SpaceX 与特斯拉工资绩效等机密",
+          "summary": "马斯克旗下 Grok 被曝泄露 SpaceX、特斯拉的内部薪资与绩效信息，再次把企业部署 AI 助手的数据边界问题推到台前。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/509355.html",
+          "items": [
+            "b7bbfcf211e788c3"
+          ],
+          "cover_path": "out/media/2026-11-13/opinion-05.jpg"
+        },
+        {
+          "headline": "OpenAI 出资 200 万美元研究 AI 与儿童安全",
+          "summary": "OpenAI 承诺投入 200 万美元支持 AI 与儿童安全研究，用于开发衡量未成年人风险与获益的共享工具。",
+          "importance": 4,
+          "primary_url": "https://openai.com/index/children-first-declaration",
+          "items": [
+            "fe7cdf92e2f2f20a"
+          ]
+        },
+        {
+          "headline": "Roblox CEO：AI 让游戏创作变成聚合平台的新引擎",
+          "summary": "Roblox CEO David Baszucki 在访谈中谈 AI 如何重塑游戏创作门槛，以及为何这会让 Roblox 同时成为开发者的赋能者与内容聚合平台。",
+          "importance": 4,
+          "primary_url": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
+          "items": [
+            "60b229d7bce74c1f"
+          ],
+          "cover_path": "out/media/2026-11-13/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "AWS 开源本地模拟器，200 多个云服务由 AI agent 写出来",
+          "summary": "AWS 发布 CC0 协议的 aws-emulator，基于 438 个 API 模型本地复刻 200 多项 AWS 服务，全部代码由自主 AI agent 编写，发布时通过 56.6% 的 42857 项保真测试。",
+          "importance": 7,
+          "primary_url": "https://github.com/aws/aws-emulator",
+          "items": [
+            "ed372c2c255bd735",
+            "8689358b563d5bd1",
+            "2c52096f349c7d18"
+          ],
+          "cover_path": "out/media/2026-11-13/opensource-00.jpg"
+        },
+        {
+          "headline": "OpenAI 开源 Codex Security，自动找漏洞并修复",
+          "summary": "OpenAI 发布 Codex Security 的 CLI 与 TypeScript SDK，可自动发现、验证并修复代码安全漏洞，已同步上架 npm。",
+          "importance": 5,
+          "primary_url": "https://github.com/openai/codex-security",
+          "items": [
+            "72e30da82b06f20e"
+          ]
+        },
+        {
+          "headline": "CopilotKit 开源 OpenBot 1.0：带治理的自托管 AI 同事",
+          "summary": "OpenBot 1.0 采用 MIT 协议、可自托管，企业自带模型与 agent，每个 Bot 动作都需通过策略校验并写入审计日志。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+          "items": [
+            "388bec1aca834cd4"
+          ],
+          "cover_path": "out/media/2026-11-13/opensource-02.jpg"
+        },
+        {
+          "headline": "PyTorch 终于原生跑上 TPU，开发者称早该如此",
+          "summary": "谷歌打通 PyTorch 对 TPU 的原生支持，开发者不必再绕道 JAX 或 XLA 适配层，社区反应是“早该如此”。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&utm_medium=article",
+          "items": [
+            "11b571846a052711"
+          ],
+          "cover_path": "out/media/2026-11-13/opensource-03.jpg"
+        },
+        {
+          "headline": "Anthropic 开源 Agent Skills 实现仓库",
+          "summary": "Anthropic 公开 Claude 的 Agent Skills 实现代码，供开发者参照 Agent Skills 标准为自己的 agent 复用技能模块。",
+          "importance": 4,
+          "primary_url": "https://github.com/anthropics/skills",
+          "items": [
+            "808e1873b6f1032d"
+          ],
+          "cover_path": "out/media/2026-11-13/opensource-04.jpg"
+        },
+        {
+          "headline": "shadcn 开源 improve：强模型审代码，弱模型写实现",
+          "summary": "improve 是一个 agent 技能，用最强模型审计代码库并写出实施计划，再交给更便宜的模型执行，以降低高质量重构的成本。",
+          "importance": 4,
+          "primary_url": "https://github.com/shadcn/improve",
+          "items": [
+            "4c2803ceab24d27d"
+          ],
+          "cover_path": "out/media/2026-11-13/opensource-05.jpg"
+        },
+        {
+          "headline": "谷歌推出 LiteRT Tensor API，简化端侧模型定制",
+          "summary": "谷歌发布 LiteRT Tensor API，用于在端侧构建、定制与优化机器学习模型，降低移动与嵌入式设备的模型改造门槛。",
+          "importance": 4,
+          "primary_url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
+          "items": [
+            "afb3835a9ed4870a"
+          ],
+          "cover_path": "out/media/2026-11-13/opensource-06.jpg"
+        },
+        {
+          "headline": "Meta 开源 agent 就绪的设计系统 astryx",
+          "summary": "Meta 开源设计系统 astryx，强调完全可定制且面向 agent 使用场景，让自动化工具也能消费和生成一致的界面组件。",
+          "importance": 3,
+          "primary_url": "https://github.com/meta/astryx",
+          "items": [
+            "0114f96d1e1d6a5f"
+          ],
+          "cover_path": "out/media/2026-11-13/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
