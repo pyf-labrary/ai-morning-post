@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-14",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Google发布Gemini 4 Hydrogen",
+          "summary": "新模型主打高速智能体场景，支持1M token上下文和4档思考等级，官方称比Gemini 3.8 Flash快2.5倍；Google搜索AI Mode同步升级。",
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "importance": 10,
+          "items": [
+            "28e1343d029314a5",
+            "48207f5948d5a765",
+            "c1275582a03e5b36"
+          ],
+          "cover_path": "out/media/2026-11-14/model_release-00.jpg"
+        },
+        {
+          "headline": "Perplexity开源决策模型Decider v1.3",
+          "summary": "开放权重决策模型返回概率而非文本，新增Locate片段抽取，在63项查询分类任务上平均准确率91.6%。",
+          "primary_url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+          "importance": 6,
+          "items": [
+            "a9eaada88277add5"
+          ],
+          "cover_path": "out/media/2026-11-14/model_release-01.jpg"
+        },
+        {
+          "headline": "Liquid AI发布74M参数流式音频编解码器",
+          "summary": "LiquidCodec驱动LFM3音频与全模态模型，12.5Hz、12码本，单CPU线程编码速度约为实时361倍。",
+          "primary_url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+          "importance": 5,
+          "items": [
+            "abfd9fe20f7077ce"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋辞任英伟达CEO，33年时代落幕",
+          "summary": "黄仁勋因涉嫌与疑似中国间谍的婚外情辞职，CFO Colette Kress出任临时CEO；公司市值大幅蒸发，国会启动调查，VC担忧AI创业融资收紧。",
+          "primary_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "importance": 10,
+          "items": [
+            "be2904156e577283",
+            "909e04a7bd29a082",
+            "d6a4661a0a0f78bd"
+          ],
+          "cover_path": "out/media/2026-11-14/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic IPO获6倍超额认购，或创史上最大",
+          "summary": "Anthropic上市认购火爆，有望成为史上最大规模IPO；承销银行因美国出口管制拒绝中国及香港投资者参与。",
+          "primary_url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+          "importance": 8,
+          "items": [
+            "c3359d9e2bf7cceb",
+            "466aa134bf0621fb"
+          ],
+          "cover_path": "out/media/2026-11-14/company-01.jpg"
+        },
+        {
+          "headline": "LangChain估值达30亿美元，Agent平台受追捧",
+          "summary": "LangChain称其模型与平台无关的Agent管理工具LangSmith已拥有7000家客户，公司估值升至30亿美元。",
+          "primary_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "importance": 7,
+          "items": [
+            "1f90f36444a8b4f6"
+          ],
+          "cover_path": "out/media/2026-11-14/company-02.jpg"
+        },
+        {
+          "headline": "特斯拉与SpaceX被曝最快下月合并",
+          "summary": "马斯克旗下两家得州最有价值公司正考虑合并；得州候任总检察长警告将严格审查交易，关注企业权力过度集中。",
+          "primary_url": "https://www.qbitai.com/2026/11/509613.html",
+          "importance": 7,
+          "items": [
+            "4851e315d306bc4c",
+            "32891ec30a8ca2f3"
+          ],
+          "cover_path": "out/media/2026-11-14/company-03.jpg"
+        },
+        {
+          "headline": "Nebius计划400亿美元扩张AI基建",
+          "summary": "这家新云厂商拟通过客户预付款和贷款为400亿美元AI基础设施扩张融资，但微软数据中心延期令其融资模式受质疑。",
+          "primary_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "importance": 7,
+          "items": [
+            "3578bd644a362a4d"
+          ],
+          "cover_path": "out/media/2026-11-14/company-04.jpg"
+        },
+        {
+          "headline": "燧原科技首席生态官李星宇离职",
+          "summary": "雷锋网独家获悉，燧原科技首席生态官李星宇已离职，国产AI芯片公司再迎人事变动。",
+          "primary_url": "https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html",
+          "importance": 5,
+          "items": [
+            "757c5ba8776694b2"
+          ]
+        },
+        {
+          "headline": "腾讯云AI全球业务负责人李牧青离职",
+          "summary": "李牧青出任教育AI公司启鸣达人联席CEO，此前负责腾讯云AI全球业务。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html",
+          "importance": 5,
+          "items": [
+            "bec1322f16f6c83f"
+          ]
+        },
+        {
+          "headline": "中金与蚂蚁合作探索AI财富管理",
+          "summary": "双方签署战略协议，围绕金融大模型、AI赋能财富管理和客户全生命周期服务展开合作。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+          "importance": 5,
+          "items": [
+            "8bfbc40c7b496dbe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Nvidia禁售芯片被指训练中国最强模型",
+          "summary": "前OpenAI研究员称在6个中国AI模型中发现Blackwell芯片指纹，新研究显示中国最先进模型由被禁售的英伟达芯片训练。",
+          "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "importance": 7,
+          "items": [
+            "af345d3a93320afc",
+            "8fa8491fd34b134c"
+          ],
+          "cover_path": "out/media/2026-11-14/research-00.jpg"
+        },
+        {
+          "headline": "西湖大学40亿参数模型六项评测第一",
+          "summary": "西湖大学团队以40亿参数模型在6个评测中拿下第一，押注“概念世界模型”技术路线。",
+          "primary_url": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
+          "importance": 7,
+          "items": [
+            "6eb1c82cdf6b2e1d"
+          ]
+        },
+        {
+          "headline": "中国AI实现复杂肺癌诊疗突破",
+          "summary": "国内团队联合250名三甲医院医生评测，AI在复杂肺癌诊疗上取得突破，引发中美医疗圈关注。",
+          "primary_url": "https://www.qbitai.com/2026/11/509796.html",
+          "importance": 6,
+          "items": [
+            "afdbc4d9c5f32a1d"
+          ],
+          "cover_path": "out/media/2026-11-14/research-02.jpg"
+        },
+        {
+          "headline": "中国团队让机器人隔墙协作，成功率100%",
+          "summary": "新方法让机器人仅靠少量信息隔墙“递眼色”组队，信息传输减少80%，任务成功率从0提升至100%。",
+          "primary_url": "https://www.qbitai.com/2026/11/509614.html",
+          "importance": 6,
+          "items": [
+            "9ace91310ed63437"
+          ],
+          "cover_path": "out/media/2026-11-14/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI推出ChatGPT Wallet，让AI代理代付",
+          "summary": "ChatGPT Work、Codex和dots中的代理可在用户批准后完成购物与结账，沿用现有银行卡保护；先向美国Pro订阅用户限量开放。",
+          "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "importance": 9,
+          "items": [
+            "0449fa36541e2d7e",
+            "288118bffab80d70",
+            "3a43baff879746db"
+          ]
+        },
+        {
+          "headline": "OpenAI推出Daybreak进军网络安全",
+          "summary": "OpenAI发布两款Daybreak产品，正式进入网络安全市场，利用AI发现和修复漏洞。",
+          "primary_url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+          "importance": 7,
+          "items": [
+            "dcacffe6475493e7"
+          ],
+          "cover_path": "out/media/2026-11-14/product-01.jpg"
+        },
+        {
+          "headline": "Anthropic推出制造业版Claude",
+          "summary": "Claude for Manufacturing可直接接入工厂软件，自动化工业工作流。",
+          "primary_url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+          "importance": 7,
+          "items": [
+            "65f7197fa8225dd5"
+          ],
+          "cover_path": "out/media/2026-11-14/product-02.jpg"
+        },
+        {
+          "headline": "Gemini智能眼镜开卖，395美元起",
+          "summary": "Google联合三星、Gentle Monster和Warby Parker推出首款Gemini智能眼镜，强调隐私设计，起售价395美元。",
+          "primary_url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+          "importance": 6,
+          "items": [
+            "eb2403bd966502a6"
+          ],
+          "cover_path": "out/media/2026-11-14/product-03.jpg"
+        },
+        {
+          "headline": "FAA将AI建议扩展至全美空域",
+          "summary": "FAA扩大AI工具用于管理全美空中交通拥堵，航空公司欢迎，但空管工会未被纳入。",
+          "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "importance": 6,
+          "items": [
+            "cda3405962bf95da"
+          ],
+          "cover_path": "out/media/2026-11-14/product-04.jpg"
+        },
+        {
+          "headline": "Claude Meetings让AI加入视频会议",
+          "summary": "Anthropic新功能让Claude加入视频通话，自动记录和整理会议内容。",
+          "primary_url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+          "importance": 6,
+          "items": [
+            "c4a276faf8026148"
+          ],
+          "cover_path": "out/media/2026-11-14/product-05.jpg"
+        },
+        {
+          "headline": "Meta Muse可代用户拨打美国商家电话",
+          "summary": "Muse的AI现可向美国企业发起外呼，功能付费提供；但不少公司可能直接挂断AI来电。",
+          "primary_url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-us-business-to-businesses-if-you-pay/",
+          "importance": 6,
+          "items": [
+            "35658caca86ebce3",
+            "eb27db80e9846f7f"
+          ]
+        },
+        {
+          "headline": "ElevenLabs推出会议记录与听写应用",
+          "summary": "ElevenAI面向团队和企业，将会议笔记与听写功能结合。",
+          "primary_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+          "importance": 6,
+          "items": [
+            "1042e187347dba58"
+          ],
+          "cover_path": "out/media/2026-11-14/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI董事警告AI“接管社会”或仅剩数月",
+          "summary": "OpenAI董事会成员、研究者警告从奖励黑客到人类灭绝的路径，认为AI接管社会可能比想象更近。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+          "importance": 7,
+          "items": [
+            "a5583b51e23e2c1c"
+          ],
+          "cover_path": "out/media/2026-11-14/opinion-00.jpg"
+        },
+        {
+          "headline": "美联航封杀AI代理订票，称有网络安全风险",
+          "summary": "美联航禁止客户使用AI代理预订航班和管理订单，成为航司对Agent说“不”的最新案例。",
+          "primary_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+          "importance": 6,
+          "items": [
+            "811f8b450be0efa2"
+          ],
+          "cover_path": "out/media/2026-11-14/opinion-01.jpg"
+        },
+        {
+          "headline": "近七成美国联邦机构已用生成式AI",
+          "summary": "调查显示美国公共部门广泛采用生成式AI，工会开始推动护栏与员工保护。",
+          "primary_url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+          "importance": 5,
+          "items": [
+            "2469f795c8111077"
+          ],
+          "cover_path": "out/media/2026-11-14/opinion-02.jpg"
+        },
+        {
+          "headline": "马克龙召集科技巨头，推动欧洲AI自主",
+          "summary": "马克龙与荷兰首相将在巴黎召集科技企业负责人，强调欧洲不能外包独立自主，须加大AI投资和共同行动。",
+          "primary_url": "https://36kr.com/newsflashes/4068933739598721?f=rss",
+          "importance": 5,
+          "items": [
+            "5595575cf8bcd772"
+          ]
+        },
+        {
+          "headline": "Agent安全拉响警报：隔离与治理成焦点",
+          "summary": "Edera主张从虚拟机监控器层限制Agent，Docker呼吁通过隔离与治理保障安全，Agent权限扩张带来新风险。",
+          "primary_url": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "59aad23457928801",
+            "48a26afb9b9c19f5"
+          ],
+          "cover_path": "out/media/2026-11-14/opinion-04.jpg"
+        },
+        {
+          "headline": "2026 AI视频模型排名：原生音频成标配",
+          "summary": "最新盲测排名显示，原生音频已成标配，片段时长15-30秒，且有开源权重模型进入前三。",
+          "primary_url": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+          "importance": 5,
+          "items": [
+            "0a83e595cb260793"
+          ],
+          "cover_path": "out/media/2026-11-14/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "llama.cpp发布v1.0.0，本地AI生态迎里程碑",
+          "summary": "这个最流行的本地LLM推理项目发布1.0版本，为本地AI生态提供更稳固基础。",
+          "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "importance": 8,
+          "items": [
+            "605ce51a407829ca",
+            "b8a4cb56d19631f8"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-00.jpg"
+        },
+        {
+          "headline": "Google开源TPU Sync，KV缓存传输提速",
+          "summary": "开源C++库可在TPU HBM、主机DRAM、存储和网络间搬运KV缓存与权重，官方称235B-480B MoE模型传输延迟降低90%以上。",
+          "primary_url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+          "importance": 7,
+          "items": [
+            "80c100001f0e79fd"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-01.jpg"
+        },
+        {
+          "headline": "OpenAI开源Codex Security安全工具",
+          "summary": "提供CLI和TypeScript SDK，用于发现、验证和修复安全漏洞。",
+          "primary_url": "https://github.com/openai/codex-security",
+          "importance": 7,
+          "items": [
+            "72e30da82b06f20e"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-02.jpg"
+        },
+        {
+          "headline": "Google让PyTorch原生跑上TPU",
+          "summary": "Google推动PyTorch原生支持TPU，开发者称“早该如此”，有望降低TPU使用门槛。",
+          "primary_url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "11b571846a052711"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-03.jpg"
+        },
+        {
+          "headline": "无界前沿开源Fx-Bio-1031模型",
+          "summary": "该生命科学模型在盲测中超过GPT-6-Astra与Opus-5，支持数据不出域、本地部署，把RSI带入生命科学。",
+          "primary_url": "https://www.qbitai.com/2026/11/509663.html",
+          "importance": 6,
+          "items": [
+            "0ed62d51f092a1d2"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-04.jpg"
+        },
+        {
+          "headline": "openJiuwen发布RSI原生AgentOS",
+          "summary": "新系统让Agent按需自我开发功能并持续迭代，实现“想要什么功能自己开发”。",
+          "primary_url": "https://www.qbitai.com/2026/11/509653.html",
+          "importance": 6,
+          "items": [
+            "2de60249df143a49"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-05.jpg"
+        },
+        {
+          "headline": "CopilotKit开源AI同事OpenBot 1.0",
+          "summary": "MIT许可、可自托管，企业可自带Agent和模型，每个动作先过策略检查并留审计轨迹。",
+          "primary_url": "https://github.com/CopilotKit/OpenBot",
+          "importance": 6,
+          "items": [
+            "388bec1aca834cd4",
+            "abc486b599830a38"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-06.jpg"
+        },
+        {
+          "headline": "AWS发布本地模拟器，代码由AI代理编写",
+          "summary": "免费CC0许可的本地AWS API模拟器覆盖200多项服务，全部代码由自主Agent编写，发布时通过56.6%保真测试。",
+          "primary_url": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
+          "importance": 6,
+          "items": [
+            "8689358b563d5bd1"
+          ],
+          "cover_path": "out/media/2026-11-14/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
