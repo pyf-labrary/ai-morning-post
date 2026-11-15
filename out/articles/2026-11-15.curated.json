@@ -1,0 +1,433 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini 4 Carbon 登顶 MathArena，成本却高 15 倍",
+          "summary": "谷歌 Gemini 4 Carbon 在 MathArena 数学基准上夺冠，但每次调用成本约为 GPT-6.1 Sol 的 15 倍，引发性价比讨论。",
+          "primary_url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+          "items": [
+            "7cba3e08f8f0d090"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-15/model_release-00.jpg"
+        },
+        {
+          "headline": "Perplexity 发布 Decider v1.3 开放权重决策模型",
+          "summary": "Perplexity 推出 Decider v1.3 与 Flash v1.3 开放权重模型，直接输出概率而非文本，并新增 Locate 片段抽取能力。",
+          "primary_url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "items": [
+            "62ad97433eefd06a",
+            "a9eaada88277add5"
+          ],
+          "importance": 6
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋辞任英伟达 CEO，AI 圈震动",
+          "summary": "英伟达 CEO 黄仁勋因个人关系与芯片出口风险辞任，引发员工请愿、亚洲政府关注以及 VC 对 AI 融资前景的担忧。",
+          "primary_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "items": [
+            "be2904156e577283",
+            "12eaae72d61759a6",
+            "a9eadd82c162b588"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-11-15/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic IPO 前夜：Amodei 称明年高度不确定",
+          "summary": "Anthropic 即将启动创纪录 IPO，CEO Amodei 承认明年变数巨大；同时承销银行因美国出口管制拒绝中国及香港投资者。",
+          "primary_url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+          "items": [
+            "85448f1bbadf4f3b",
+            "466aa134bf0621fb"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-15/company-01.jpg"
+        },
+        {
+          "headline": "英伟达被指循环融资制造 GPU 稀缺",
+          "summary": "有报道称英伟达通过投资 AI 初创公司、再让后者购买自家 GPU 的方式人为制造稀缺并维持高价，引发监管与市场争议。",
+          "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "items": [
+            "62bb0ca241e391c1",
+            "53999ece57b437b7"
+          ],
+          "importance": 8
+        },
+        {
+          "headline": "LangChain 估值达 30 亿美元，LangSmith 客户 7000 家",
+          "summary": "AI 智能体平台 LangChain 完成新融资，估值升至 30 亿美元，其模型无关的智能体管理工具 LangSmith 已拥有 7000 家客户。",
+          "primary_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "items": [
+            "1f90f36444a8b4f6"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-15/company-03.jpg"
+        },
+        {
+          "headline": "OpenAI 解散机器人团队，转向通用模型",
+          "summary": "OpenAI 将机器人研究员重新分配到其他团队，认为通用大模型可能让专用机器人 AI 变得不再必要。",
+          "primary_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+          "items": [
+            "d32bbf0ac2609cab",
+            "44804971dba1a3f5"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-15/company-04.jpg"
+        },
+        {
+          "headline": "研究：中国最强 AI 模型用了被禁英伟达芯片",
+          "summary": "新研究显示中国最先进的一批 AI 模型是在美国出口禁令所针对的英伟达芯片上训练的，可能加剧出口管制争议。",
+          "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "items": [
+            "af345d3a93320afc"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-15/company-05.jpg"
+        },
+        {
+          "headline": "中金与蚂蚁合作，共建财富管理智能体",
+          "summary": "中金公司与蚂蚁集团签署战略协议，围绕金融大模型、AI 财富管理和智能体评测基准展开合作。",
+          "primary_url": "https://36kr.com/newsflashes/4069303294546825?f=rss",
+          "items": [
+            "916907441f3f874b"
+          ],
+          "importance": 6
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AI 解锁哥德尔笔记，或发现数百条已证明定理",
+          "summary": "AI 工具帮助研究者解读哥德尔尘封笔记，据称其中包含数百条此前未被识别的已证明数学定理。",
+          "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "items": [
+            "a356ec5e85f4be9a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-15/research-00.jpg"
+        },
+        {
+          "headline": "斯坦福开源 Memorilla：16 个记忆 token 压缩文档",
+          "summary": "斯坦福团队开源 Memorilla 记忆模块，可把文档集合压缩为 16 个记忆 token 注入冻结的 Qwen3-8B，在 FactKG 上达到 84.33%。",
+          "primary_url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+          "items": [
+            "f88a792b4653812a"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/research-01.jpg"
+        },
+        {
+          "headline": "斯坦福等发布「史上最严」湿实验预测基准",
+          "summary": "十余家顶尖团队联合发布湿实验预测基准，结果显示即使推理拉满、算力翻 5 倍，现有模型仍难以胜任。",
+          "primary_url": "https://www.qbitai.com/2026/11/510232.html",
+          "items": [
+            "29335d96b57ac2a7"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/research-02.jpg"
+        },
+        {
+          "headline": "AllenAI 发布 XYBench，评估问题背后的真实意图",
+          "summary": "Hugging Face 博客介绍 XYBench，试图衡量模型能否理解用户问题背后未明说的目标，而不仅是回答表层问题。",
+          "primary_url": "https://huggingface.co/blog/allenai/xybench",
+          "items": [
+            "727b4e75eaff2e29"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/research-03.jpg"
+        },
+        {
+          "headline": "600 次实验后，研究者拆解 JEPA 世界模型",
+          "summary": "一篇实验长文总结 JEPA 世界模型的 600 次实验，分析其表征学习能力、失败模式与通往通用世界模型的差距。",
+          "primary_url": "https://haddyalchaer.com/jepa",
+          "items": [
+            "80f1ce60a9056efb"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/research-04.jpg"
+        },
+        {
+          "headline": "dspy-wsp 让 LLM 直接编辑小模型权重",
+          "summary": "Cmpnd 发布 DSPy 优化器原型 dspy-wsp，让前沿 LLM 在沙箱中读取并修改小模型权重，无需梯度，单次运行约 5–10 美元。",
+          "primary_url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+          "items": [
+            "11de1a7f2e42b289"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/research-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "ChatGPT Wallet 上线，AI 代理可代用户下单付款",
+          "summary": "OpenAI 推出 ChatGPT Wallet，让 ChatGPT Work、Codex 等中的智能体在用户批准下完成购买，并沿用现有信用卡保护。",
+          "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "items": [
+            "0449fa36541e2d7e",
+            "288118bffab80d70",
+            "3a43baff879746db"
+          ],
+          "importance": 9
+        },
+        {
+          "headline": "DeepSeek 开放全家桶 API，App 功能可自由组合",
+          "summary": "DeepSeek 开放覆盖官方 App 全部功能的 API，开发者可自由组合调用模型、搜索、推理等能力。",
+          "primary_url": "https://www.qbitai.com/2026/11/510003.html",
+          "items": [
+            "6b48ce6b819cc7e0"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-15/product-01.jpg"
+        },
+        {
+          "headline": "FAA 将 AI 建议扩展至全美空域流量管理",
+          "summary": "美国联邦航空管理局把 AI 流量建议工具扩展到整个国家空域，以缓解拥堵；航空公司欢迎，但空管工会未参与。",
+          "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "items": [
+            "cda3405962bf95da"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-15/product-02.jpg"
+        },
+        {
+          "headline": "Anthropic 推出 Claude for Manufacturing",
+          "summary": "Claude for Manufacturing 可直接接入工厂软件，自动化生产与工业工作流，标志 Anthropic 深入制造业。",
+          "primary_url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+          "items": [
+            "65f7197fa8225dd5"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/product-03.jpg"
+        },
+        {
+          "headline": "ElevenLabs 推出团队会议记录与听写应用",
+          "summary": "ElevenLabs 发布 ElevenAI，将会议笔记、听写和团队协作结合，面向企业与团队场景。",
+          "primary_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+          "items": [
+            "1042e187347dba58"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/product-04.jpg"
+        },
+        {
+          "headline": "Claude Code Projects 升级，支持并行 AI 工人",
+          "summary": "Anthropic 重新设计 Claude Code Projects，让多个 AI 工作线程并行执行任务，提升复杂项目开发效率。",
+          "primary_url": "https://claude.com/resources/articles/projects-redesigned",
+          "items": [
+            "70ac1b1f04a68d82"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/product-05.jpg"
+        },
+        {
+          "headline": "Claude 推出 Meetings，自动整理会议内容",
+          "summary": "Anthropic 上线 Claude Meetings，可接入会议并生成纪要、行动项与后续跟进。",
+          "primary_url": "https://claude.com/resources/articles/claude-meetings",
+          "items": [
+            "d11fe42ed3795b93"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/product-06.jpg"
+        },
+        {
+          "headline": "百度词元所首日：供应商破百，客户破千",
+          "summary": "百度推出的“大模型交易所”词元所上线首日新增 100 多家供应商和 1000 多家客户，试图标准化模型 Token 交易。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+          "items": [
+            "7a7a2b7eb7abddcc"
+          ],
+          "importance": 6
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI 董事警告：AI 接管社会可能只剩几个月",
+          "summary": "OpenAI 董事会成员在采访中警告，从奖励黑客到潜在人类灭绝的路径可能比想象更近，AI 接管社会或许只剩几个月。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+          "items": [
+            "a5583b51e23e2c1c"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-15/opinion-00.jpg"
+        },
+        {
+          "headline": "AI 圈发起「反 AI 垃圾内容」宣言",
+          "summary": "AI Engineer 演讲者联合发布 No AI Slop Manifesto，呼吁开发者抵制低质、批量生成的 AI 内容。",
+          "primary_url": "https://www.slopmanifesto.com/",
+          "items": [
+            "b2f9c25d8659d959",
+            "ecbdce453ad6bd4c"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Jonathan Blow：AI 若解决了编程，为何软件没变好？",
+          "summary": "游戏开发者 Jonathan Blow 在演讲中质疑 AI 编程的生产力叙事：如果 AI 真的解决了编程，为什么软件质量没有明显提升？",
+          "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "items": [
+            "52d13d35df5a798c"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "Wired：AI 驱动的新一轮勒索软件潮来了",
+          "summary": "Wired 警告，虽然全自动勒索软件尚未成熟，但低水平攻击者已借助 AI 工具造成更大破坏。",
+          "primary_url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+          "items": [
+            "ba083154acd73eff"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/opinion-03.jpg"
+        },
+        {
+          "headline": "Wired：没飞行员、缺空管，AI 却先接管了天空",
+          "summary": "Wired 长文讨论 AI 正在加速进入航空领域，在飞行员和空管人员短缺的背景下，自动化风险被放大。",
+          "primary_url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+          "items": [
+            "0e5ef832c38cebc0"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/opinion-04.jpg"
+        },
+        {
+          "headline": "谷歌为何切断“无 AI 学校”的搜索访问？",
+          "summary": "NPR 探讨谷歌限制无 AI 学校使用搜索的背后原因，引发对教育场景中 AI 强制捆绑的争议。",
+          "primary_url": "https://text.npr.org/nx-s1-6029408",
+          "items": [
+            "64873f2f36be2577"
+          ],
+          "importance": 6
+        },
+        {
+          "headline": "EFF：科技公司再次试图改写“隐私”定义",
+          "summary": "EFF 发文批评科技公司推动新的隐私定义，试图为 AI 训练和数据使用松绑。",
+          "primary_url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+          "items": [
+            "afb69363bbb95182"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/opinion-06.jpg"
+        },
+        {
+          "headline": "《The Claude Delusion》引发 AI 编程工具反思",
+          "summary": "一篇热传博客认为开发者对 Claude 等 AI 编程工具的能力存在集体幻觉，实际收益被高估。",
+          "primary_url": "https://www.netmeister.org/blog/claude-delusion.html",
+          "items": [
+            "10f42b892439e819"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "llama.cpp 与 ggml 同日发布 1.0，本地 AI 里程碑",
+          "summary": "llama.cpp 和底层张量库 ggml 同步发布 v1.0.0，为本地大模型推理生态提供更稳定的基础。",
+          "primary_url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+          "items": [
+            "605ce51a407829ca",
+            "5cc203a80959b819"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-15/opensource-00.jpg"
+        },
+        {
+          "headline": "Runway 开源 Praxis-1，把视频 AI 变成机器人控制器",
+          "summary": "Runway 开源 Praxis-1，可将视频生成与理解能力转化为机器人控制策略，让视频模型直接驱动机器人动作。",
+          "primary_url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+          "items": [
+            "6148a89c5d24ed06"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-15/opensource-01.jpg"
+        },
+        {
+          "headline": "Vercel 开源 UI SDK，给编程智能体 50+ 界面行为",
+          "summary": "Vercel Labs 发布 Apache-2.0 的 UI SDK，提供 50 多种可组合的 UI 行为，让编程智能体生成可访问的 React/Vue/Svelte 组件。",
+          "primary_url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+          "items": [
+            "c638a1f95e4dd6f8"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/opensource-02.jpg"
+        },
+        {
+          "headline": "OpenAI 开源 Codex Security，自动找漏洞并修复",
+          "summary": "OpenAI 发布 Codex Security CLI 与 TypeScript SDK，用于发现、验证和修复代码安全漏洞。",
+          "primary_url": "https://github.com/openai/codex-security",
+          "items": [
+            "72e30da82b06f20e"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-15/opensource-03.jpg"
+        },
+        {
+          "headline": "阿里开源代码审查工具，混合流水线 + LLM Agent",
+          "summary": "阿里巴巴开源 open-code-review，结合确定性流水线与 LLM Agent，提供行级评论和多语言安全规则。",
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/opensource-04.jpg"
+        },
+        {
+          "headline": "Chrome DevTools 推出 MCP，让编程智能体调试浏览器",
+          "summary": "Chrome DevTools 团队发布 chrome-devtools-mcp，让编程智能体直接调用浏览器调试能力。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/opensource-05.jpg"
+        },
+        {
+          "headline": "英伟达开源 SkillSpector，扫描智能体技能风险",
+          "summary": "NVIDIA 发布 SkillSpector，可在安装前检测 Claude Code、Codex 与 MCP 技能中的漏洞、提示注入和数据外泄风险。",
+          "primary_url": "https://github.com/NVIDIA/SkillSpector",
+          "items": [
+            "10f8ffca613c804a"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/opensource-06.jpg"
+        },
+        {
+          "headline": "Headroom 开源上下文压缩，为编程智能体省 token",
+          "summary": "Headroom 可在工具输出、日志、文件和 RAG 块进入 LLM 前压缩，号称编程智能体省 20% token，JSON 省 60–95%。",
+          "primary_url": "https://github.com/headroomlabs-ai/headroom",
+          "items": [
+            "714ecf7e5a2ef360"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-15/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-15"
+}
