@@ -1,0 +1,412 @@
+{
+  "date": "2026-11-16",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "美团发布 1.6 万亿参数智能体模型，全程未用英伟达 GPU",
+          "summary": "美团推出一个 1.6 万亿参数的智能体专用大模型，且整个训练过程未依赖英伟达 GPU，成为国产算力路线的一次标志性尝试。",
+          "primary_url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+          "importance": 8,
+          "items": [
+            "4ba2182d3a2d43e9"
+          ],
+          "cover_path": "out/media/2026-11-16/model_release-00.jpg"
+        },
+        {
+          "headline": "Claude Fable 5.2 不生成图像，而是「画」图像",
+          "summary": "Anthropic 新模型 Claude Fable 5.2 在图像产出上主打过程性的「绘画」式构建，而非一次性直出，被视为图像生成范式的一次转向。",
+          "primary_url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+          "importance": 8,
+          "items": [
+            "3c29165b94d69a8a"
+          ],
+          "cover_path": "out/media/2026-11-16/model_release-01.jpg"
+        },
+        {
+          "headline": "Gemini 4 Carbon 登顶 MathArena，成本却是 GPT-6.1 Sol 的 15 倍",
+          "summary": "Gemini 4 Carbon 在数学竞技场 MathArena 拿到第一，但单位成本远高于 GPT-6.1 Sol，性价比之争再起。",
+          "primary_url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+          "importance": 7,
+          "items": [
+            "7cba3e08f8f0d090"
+          ],
+          "cover_path": "out/media/2026-11-16/model_release-02.jpg"
+        },
+        {
+          "headline": "Anthropic：过时的提示习惯正在拖慢 Claude Opus 5.5",
+          "summary": "Anthropic 指出，用户沿用旧模型的提示写法会让 Claude Opus 5.5 表现打折，建议按新模型特性调整提示策略。",
+          "primary_url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+          "importance": 5,
+          "items": [
+            "48ab65f5b2ad5344"
+          ],
+          "cover_path": "out/media/2026-11-16/model_release-03.jpg"
+        },
+        {
+          "headline": "Bland 发布 Tofu-1 全双工语音通话模型",
+          "summary": "Tofu-1 面向嘈杂、高风险的电话场景做全双工语音到语音建模，目前处于企业研究预览阶段，未公布基准、参数规模与定价。",
+          "primary_url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+          "importance": 5,
+          "items": [
+            "28f88364110f4e38"
+          ],
+          "cover_path": "out/media/2026-11-16/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋辞任英伟达 CEO，十余万人联署要求复职",
+          "summary": "黄仁勋因与一名被指协助向中国输送芯片的高管存在私人关系而辞任 CEO，马斯克等科技界人士联署请愿已超 11.5 万签名；亚洲多国政府紧急确认芯片供应，董事会因毫无继任方案遭多位前 500 强 CEO 批评。",
+          "primary_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "importance": 10,
+          "items": [
+            "12eaae72d61759a6",
+            "0a91cc7999b25dd2",
+            "7261a909c2ca2c23"
+          ],
+          "cover_path": "out/media/2026-11-16/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 上市前夕，Amodei 坦言明年高度不确定",
+          "summary": "在创纪录 IPO 前几天，Anthropic CEO Dario Amodei 公开承认「明年会发生什么存在巨大不确定性」，为上市叙事添了一层阴影。",
+          "primary_url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+          "importance": 8,
+          "items": [
+            "85448f1bbadf4f3b"
+          ],
+          "cover_path": "out/media/2026-11-16/company-01.jpg"
+        },
+        {
+          "headline": "英伟达被指用循环融资安排维持 GPU 高价",
+          "summary": "TechSpot 报道称英伟达通过循环融资交易抬高并维持 GPU 价格，相关讨论在 Hacker News 获得近 450 分。",
+          "primary_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+          "importance": 6,
+          "items": [
+            "53999ece57b437b7"
+          ],
+          "cover_path": "out/media/2026-11-16/company-02.jpg"
+        },
+        {
+          "headline": "DRAM 价格操纵案，法院驳回厂商撤诉动议",
+          "summary": "三星、SK 海力士、美光面临的 DRAM 合谋涨价集体诉讼躲过撤诉，案件将继续审理。",
+          "primary_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "importance": 6,
+          "items": [
+            "cc8353fc1397ff08"
+          ],
+          "cover_path": "out/media/2026-11-16/company-03.jpg"
+        },
+        {
+          "headline": "意大利因照片隐私问题对 Meta 开出 8.05 亿欧元罚单",
+          "summary": "意大利监管机构就照片相关隐私违规对 Meta 处以 8.05 亿欧元罚款，欧洲对平台数据使用的执法继续加码。",
+          "primary_url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+          "importance": 6,
+          "items": [
+            "1f956e8c69dd1193"
+          ]
+        },
+        {
+          "headline": "印度芯片公司 Bharat Semi 获 2400 万美元种子轮",
+          "summary": "Bharat Semi 拿下 2400 万美元种子融资，其 AI 传感器技术已进入 General Atomics 等客户的设计名单，目标全球市场。",
+          "primary_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "importance": 5,
+          "items": [
+            "ce8322e134bf46b6"
+          ],
+          "cover_path": "out/media/2026-11-16/company-05.jpg"
+        },
+        {
+          "headline": "SK 海力士五年投 10 亿美元扶持芯片供应链",
+          "summary": "SK 海力士计划五年投入约 1.4 万亿韩元支持本土材料、零部件与设备供应商，以应对加剧的 AI 芯片竞争。",
+          "primary_url": "https://36kr.com/newsflashes/4071686634067076?f=rss",
+          "importance": 5,
+          "items": [
+            "9ea0ea09c7ad9fb9"
+          ]
+        },
+        {
+          "headline": "英伟达 AI Day 首尔站：两千人聚焦物理 AI 与智能体",
+          "summary": "COEX 举行为期两天的 AI Day Seoul，超过 2000 名开发者与初创公司参与，主题集中在物理 AI 与 AI 智能体。",
+          "primary_url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+          "importance": 5,
+          "items": [
+            "8c28e1db473d4958"
+          ],
+          "cover_path": "out/media/2026-11-16/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI 上线科学博客，GPT-6 Astra 助解标准模型格点",
+          "summary": "OpenAI 推出面向科研的新博客，首篇介绍如何借助 GPT-6 Astra 把标准模型的非微扰格点定义从想法推进为一份详细证明。",
+          "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "importance": 8,
+          "items": [
+            "f5ac4b3b40e61e98",
+            "29b2da78424f38c9"
+          ]
+        },
+        {
+          "headline": "Raschka 长文拆解现代 LLM 的位置编码",
+          "summary": "Sebastian Raschka 系统梳理 RoPE 等现代大模型位置编码的原理与演进，在 HN 获得 200+ 分。",
+          "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "importance": 5,
+          "items": [
+            "a325331ca0835fcd"
+          ],
+          "cover_path": "out/media/2026-11-16/research-01.jpg"
+        },
+        {
+          "headline": "两块 DGX 跑 GLM-5.3：vLLM 跑到 607.8 tok/s",
+          "summary": "英伟达开发者博客展示用两台 DGX 站跨节点部署 GLM-5.3，在 vLLM 上达到 607.8 tokens/s 的吞吐。",
+          "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+          "importance": 5,
+          "items": [
+            "2afcdd7d5aafb7af"
+          ],
+          "cover_path": "out/media/2026-11-16/research-02.jpg"
+        },
+        {
+          "headline": "Cmpnd 推出 dspy-wsp：让 LLM 在权重空间「编程」",
+          "summary": "这个 DSPy 优化器原型让前沿模型直接读取并沙箱修改小模型权重、逐次验证效果，无需梯度，单次运行约 5–10 美元。",
+          "primary_url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+          "importance": 5,
+          "items": [
+            "11de1a7f2e42b289"
+          ],
+          "cover_path": "out/media/2026-11-16/research-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+          "summary": "Yelp 在 AI 助手中混合使用客户端原生界面与服务端下发 UI，以兼顾响应速度与快速迭代。",
+          "primary_url": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "a0099ac0480e30e9"
+          ],
+          "cover_path": "out/media/2026-11-16/product-00.jpg"
+        },
+        {
+          "headline": "GitLab 19.5 把智能体开发纳入可治理 DevOps",
+          "summary": "GitLab 19.5 将 AI 智能体开发流程纳入统一治理的 DevOps 平台能力，强调权限与可审计。",
+          "primary_url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "35cf50687a1f2721"
+          ],
+          "cover_path": "out/media/2026-11-16/product-01.jpg"
+        },
+        {
+          "headline": "斑马 AI 学发布 2027 版，向小学高年级延伸",
+          "summary": "斑马英语 S8、思维 S7、大阅读 S7 同步发布，基于自研儿童科教大模型，AI 从问答入口转为嵌入学习任务。",
+          "primary_url": "https://36kr.com/newsflashes/4071740620673924?f=rss",
+          "importance": 4,
+          "items": [
+            "1a22d71037ed5626"
+          ]
+        },
+        {
+          "headline": "双 11 出现会主动干活的「数字人队长」",
+          "summary": "今年 11.11 出现名为 Super Agent 的主动型数字人角色，尝试在群聊与业务流程中自主推进任务。",
+          "primary_url": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "224c4578aad3c25d"
+          ],
+          "cover_path": "out/media/2026-11-16/product-03.jpg"
+        },
+        {
+          "headline": "AI 电子宠物 OATs：给日用品装上性格",
+          "summary": "卡内基梅隆学生做出 E-Ink 小硬件 OATs，让绿植、滑板、哑铃拥有人格化表达，用情绪推动好习惯。",
+          "primary_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+          "importance": 4,
+          "items": [
+            "8a9589b263229078"
+          ],
+          "cover_path": "out/media/2026-11-16/product-04.jpg"
+        },
+        {
+          "headline": "Perit Marketplace：把数据和 RL 任务卖给前沿实验室",
+          "summary": "这一新市场上线，主打让个人与企业向头部 AI 实验室出售训练数据与强化学习任务。",
+          "primary_url": "https://www.producthunt.com/products/perit-marketplace",
+          "importance": 3,
+          "items": [
+            "e5867eb13d267f85"
+          ]
+        },
+        {
+          "headline": "AgentGrid Canvas：与 AI 协作的可视化设计画布",
+          "summary": "AgentGrid.io 推出 Canvas，用可视化画布组织与智能体的设计协作流程。",
+          "primary_url": "https://www.producthunt.com/products/agentgrid-io",
+          "importance": 3,
+          "items": [
+            "7262933c4e34cab6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "「AI 生成的代码都应开源」在 HN 拿下千分",
+          "summary": "一篇主张所有 AI 生成代码必须开源的博文登上 Hacker News 榜首，引发关于版权、审计与责任的长时间争论。",
+          "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+          "importance": 6,
+          "items": [
+            "894b1e7dc5d4e852"
+          ],
+          "cover_path": "out/media/2026-11-16/opinion-00.jpg"
+        },
+        {
+          "headline": "澳洲央行：AI 先冲击年轻人，软件与客服最明显",
+          "summary": "澳大利亚央行研究显示，AI 对就业的冲击首先落在年轻劳动者身上，软件开发和客服岗位尤为突出。",
+          "primary_url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+          "importance": 6,
+          "items": [
+            "c4f24640e8fa64c9"
+          ],
+          "cover_path": "out/media/2026-11-16/opinion-01.jpg"
+        },
+        {
+          "headline": "TechCrunch 整理「AI 坟场」：那些没做成的项目",
+          "summary": "一份持续更新的清单盘点了被关停或未达预期的 AI 项目，从苹果反复延期的 Siri AI 到 OpenAI 混乱的「超级应用」发布。",
+          "primary_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "importance": 5,
+          "items": [
+            "1ad3eef70d022273"
+          ],
+          "cover_path": "out/media/2026-11-16/opinion-02.jpg"
+        },
+        {
+          "headline": "《The Claude Delusion》：一篇对 Claude 的尖锐拆台",
+          "summary": "博主长文质疑围绕 Claude 的能力预期与实际表现之间的落差，在 HN 引发讨论。",
+          "primary_url": "https://www.netmeister.org/blog/claude-delusion.html",
+          "importance": 5,
+          "items": [
+            "10f42b892439e819"
+          ],
+          "cover_path": "out/media/2026-11-16/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 电台主播正在毁掉听歌的兴致",
+          "summary": "Wired 吐槽 YouTube Music、Spotify 的合成主持人：尴尬的串场和编造的歌曲冷知识让音乐体验变差。",
+          "primary_url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+          "importance": 4,
+          "items": [
+            "1e2f517b314dff17"
+          ],
+          "cover_path": "out/media/2026-11-16/opinion-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Claude Code 插件与技能生态集中爆发",
+          "summary": "Anthropic 上线官方插件目录，社区同期涌现交易分析、漏洞挖掘、安全技能包等大量 Claude Code 技能仓库。",
+          "primary_url": "https://github.com/anthropics/claude-plugins-official",
+          "importance": 6,
+          "items": [
+            "27a529bcd16d86aa",
+            "bc535cf4fdd40b75",
+            "e71efd2f68872a57"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-00.jpg"
+        },
+        {
+          "headline": "Chrome DevTools 发布面向编码智能体的 MCP",
+          "summary": "Chrome 官方团队把 DevTools 能力封装成 MCP 服务，让编码智能体可直接调试与分析浏览器页面。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "importance": 5,
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-01.jpg"
+        },
+        {
+          "headline": "Qwen 开源终端里的 AI 编码智能体 qwen-code",
+          "summary": "qwen-code 是一款运行在终端内的开源编码智能体，直接对标 Claude Code 类工具。",
+          "primary_url": "https://github.com/QwenLM/qwen-code",
+          "importance": 5,
+          "items": [
+            "0d5027e6e8a0e4c2"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-02.jpg"
+        },
+        {
+          "headline": "阿里开源代码审查工具：确定性流水线 + LLM Agent",
+          "summary": "这套混合架构工具在大规模实战中打磨，提供行级精确评论与 NPE、线程安全、XSS、SQL 注入等多语言规则集。",
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "importance": 5,
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-03.jpg"
+        },
+        {
+          "headline": "吴恩达开源 openworker 项目",
+          "summary": "andrewyng/openworker 登上 GitHub Python 趋势榜，指向可托管的 AI 工作助手方向。",
+          "primary_url": "https://github.com/andrewyng/openworker",
+          "importance": 5,
+          "items": [
+            "8d40c54712273e9b"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-04.jpg"
+        },
+        {
+          "headline": "200 行纯 JAX 复现 DeepSeek V3 引热议",
+          "summary": "一个用约 200 行纯 JAX 实现 DeepSeek V3 的仓库登上 HN，获 270+ 分，成为理解 MoE 架构的教学样本。",
+          "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "importance": 5,
+          "items": [
+            "e8314cfcf2b48e9d"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-05.jpg"
+        },
+        {
+          "headline": "Datasette 生态连发七版：地图、Agent 与 1.0a43",
+          "summary": "Simon Willison 一口气发布 datasette-maplibre、datasette-agent、datasette-llm 等七个版本，其中包含一项安全修复的向下移植。",
+          "primary_url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+          "importance": 4,
+          "items": [
+            "54b67246125f34c5",
+            "aa7eb27261a788ce",
+            "d6ad82c71fabf587"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-06.jpg"
+        },
+        {
+          "headline": "plannotator：把智能体的计划与代码评审拉回人的视野",
+          "summary": "这个登上 GitHub 日榜的工作台让人类对智能体的计划做标注、决策与代码评审，并一键把反馈回传。",
+          "primary_url": "https://github.com/backnotprop/plannotator",
+          "importance": 4,
+          "items": [
+            "514421650034220e"
+          ],
+          "cover_path": "out/media/2026-11-16/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
