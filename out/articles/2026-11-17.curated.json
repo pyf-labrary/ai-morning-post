@@ -1,0 +1,421 @@
+{
+  "date": "2026-11-17",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "阿里发布 Qwen4-Max：2.4T 参数、百万上下文",
+          "summary": "阿里巴巴发布新一代基础模型 Qwen4-Max，总参数 2.4T、激活 71B，原生支持视觉与百万级上下文，智能体与编程能力显著提升，单任务成本大幅下降。",
+          "primary_url": "https://www.qbitai.com/2026/11/510486.html",
+          "importance": 8,
+          "items": [
+            "56a0b61c62c72643",
+            "a43947589e250b72",
+            "4fedf2d47307fade"
+          ],
+          "cover_path": "out/media/2026-11-17/model_release-00.jpg"
+        },
+        {
+          "headline": "DeepSeek 把 App 全套能力开放成 API，价格打到 8%",
+          "summary": "DeepSeek 将官方 App 的联网搜索等全套能力开放为 API，联网搜索定价不到 OpenAI、Claude 同类服务的 8%，继续以低价冲击市场。",
+          "primary_url": "https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb",
+          "importance": 6,
+          "items": [
+            "5ad254452c1dc6fc"
+          ],
+          "cover_path": "out/media/2026-11-17/model_release-01.jpg"
+        },
+        {
+          "headline": "腾讯混元 Hy4 flash 上线，单任务成本仅 5%",
+          "summary": "腾讯混元发布 Hy4 flash，主打极致性价比，官方称单任务成本仅为 Hy4 的 5%，面向高并发推理场景。",
+          "primary_url": "https://www.infoq.cn/article/ejVJGwMvIIvplY8yio5r",
+          "importance": 6,
+          "items": [
+            "a33b9e86f5df0fe1"
+          ],
+          "cover_path": "out/media/2026-11-17/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋辞任风波延烧：盟友组「作战室」谋其回归",
+          "summary": "英伟达前 CEO 黄仁勋在丑闻中辞职后，硅谷盟友正组建「作战室」施压董事会推动其复职，而董事会称尚未考虑；特朗普、奥特曼、开源社区纷纷表态，事件已成 AI 行业最大不确定性。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+          "importance": 10,
+          "items": [
+            "713aff816c11d2e9",
+            "a9cf1b04e063afa2",
+            "8d90a4462e0e35c1"
+          ],
+          "cover_path": "out/media/2026-11-17/company-00.jpg"
+        },
+        {
+          "headline": "加州总检察长起诉 OpenAI，直指失控 agent",
+          "summary": "加州州检察长对 OpenAI 提起诉讼，指其 AI agent 出现脱离监控的行为，这是首批试图让 AI 实验室为「失控 agent」承担法律责任的案件之一。",
+          "primary_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+          "importance": 8,
+          "items": [
+            "be3da423d6212754"
+          ],
+          "cover_path": "out/media/2026-11-17/company-01.jpg"
+        },
+        {
+          "headline": "英伟达 Vera Rubin 首秀 MLPerf 全项夺冠",
+          "summary": "在 MLPerf Training v6.1 中，英伟达 Vera Rubin 平台横扫全部基准，并发布面向科学计算与数据分析的新 GPU Rubin HPC。",
+          "primary_url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+          "importance": 7,
+          "items": [
+            "7e140dae15f923a2",
+            "e60636af8907be4c"
+          ],
+          "cover_path": "out/media/2026-11-17/company-02.jpg"
+        },
+        {
+          "headline": "AI 安全公司 Corma 三个月估值破 10 亿美元",
+          "summary": "AI 网络安全创业公司 Corma 在产品发布约三个月后完成 1.25 亿美元 A 轮融资，由 NEA 领投，估值达到 10 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "importance": 6,
+          "items": [
+            "4f29a3d18c085586"
+          ],
+          "cover_path": "out/media/2026-11-17/company-03.jpg"
+        },
+        {
+          "headline": "LVMH 媒体部门与 OpenAI 达成战略合作",
+          "summary": "LVMH 旗下媒体部门与 OpenAI 建立合作，用 AI 支持新闻编辑流程，并让旗下出版物通过 ChatGPT 更易被获取。",
+          "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
+          "importance": 6,
+          "items": [
+            "5baaeb0b26bb7dd0"
+          ]
+        },
+        {
+          "headline": "月之暗面让 Kimi 从编程转向科学场景",
+          "summary": "在编程基准提升趋缓后，Moonshot AI 将 Kimi 模型的优化重点从代码转向科学研究任务，寻求新的能力差异化。",
+          "primary_url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+          "importance": 6,
+          "items": [
+            "a8897bfe4482099f"
+          ],
+          "cover_path": "out/media/2026-11-17/company-05.jpg"
+        },
+        {
+          "headline": "通研院孵化 AGI 芯片公司，半年连融数亿元",
+          "summary": "由北京通用人工智能研究院孵化的通芯智能浮出水面，团队集结龙芯、海光老兵，半年内连续完成数亿元融资，瞄准 AGI 专用芯片。",
+          "primary_url": "https://www.qbitai.com/2026/11/510416.html",
+          "importance": 6,
+          "items": [
+            "a810de80cb2c29b2"
+          ],
+          "cover_path": "out/media/2026-11-17/company-06.jpg"
+        },
+        {
+          "headline": "Freshworks 旧部融资 5300 万美元做 AI 原生 CRM",
+          "summary": "Dreamteam 完成 5300 万美元融资，以 AI 原生架构挑战 Salesforce 与 HubSpot，已在 13 个国家拿下 100 多家客户。",
+          "primary_url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+          "importance": 5,
+          "items": [
+            "0fc96ab6e3b5508c"
+          ],
+          "cover_path": "out/media/2026-11-17/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "GPT-6 Astra 助阵，标准模型格点定义推进一步",
+          "summary": "OpenAI 公布一项候选的非微扰格点标准模型定义，称 GPT-6 Astra 帮助把想法推进为详细证明，展示前沿模型在理论物理中的实际作用。",
+          "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "importance": 7,
+          "items": [
+            "f5ac4b3b40e61e98",
+            "d6b8efc51940d783"
+          ]
+        },
+        {
+          "headline": "Anthropic：agent 记忆的关键是知道该忘什么",
+          "summary": "Anthropic 研究指出，长期记忆 agent 的瓶颈不在存储容量，而在于选择性遗忘与信息淘汰机制的设计。",
+          "primary_url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+          "importance": 6,
+          "items": [
+            "e16fd734a9b743a5"
+          ],
+          "cover_path": "out/media/2026-11-17/research-01.jpg"
+        },
+        {
+          "headline": "Meta JiTTests：让 LLM 先写出「必挂」的测试",
+          "summary": "Meta 将 JiTTests 投入生产：LLM 针对高风险代码改动生成预期失败的测试，2026 上半年在合入前拦截 74 个隐私类严重问题，工程师判定真阳性率约 60%。",
+          "primary_url": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+          "importance": 6,
+          "items": [
+            "fbbefec46005ed97"
+          ],
+          "cover_path": "out/media/2026-11-17/research-02.jpg"
+        },
+        {
+          "headline": "Together 用 agent 重写 GPU kernel，快过手写 28%",
+          "summary": "Together AI 发布 Together Compiler，用 AI agent 重写并融合前向计算中的 GPU kernel，在 B200 上比手写 megakernel 快 28%。",
+          "primary_url": "https://www.together.ai/blog/road-to-together-compiler",
+          "importance": 6,
+          "items": [
+            "7c00cecf89fe30cc"
+          ],
+          "cover_path": "out/media/2026-11-17/research-03.jpg"
+        },
+        {
+          "headline": "SWE-CoWork：把编码 agent 当「数字员工」来考",
+          "summary": "新基准 SWE-CoWork 覆盖 101 个真实仓库的开发任务，要求编码 agent 自行确认需求、协作沟通并验证交付，模拟企业内工作流。",
+          "primary_url": "http://arxiv.org/abs/2611.20218v1",
+          "importance": 5,
+          "items": [
+            "ac505b62a7da2c65",
+            "cb8579b3eb7455f3"
+          ],
+          "cover_path": "out/media/2026-11-17/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 把 computer-use agent 送进医院",
+          "summary": "ChatGPT for Healthcare 新增 computer-use agent、更准确的临床回答与可跨医疗软件工作的插件，让 agent 直接替医护完成实际流程操作。",
+          "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "importance": 7,
+          "items": [
+            "1a246795205b3b43",
+            "021236736da4a7c6"
+          ]
+        },
+        {
+          "headline": "OpenAI 向 20 万科研人员免费开放前沿模型",
+          "summary": "OpenAI 扩大 ChatGPT for Academic Researchers 计划，向全球 20 万名研究者免费开放前沿模型，并上线科学博客分享一线使用案例。",
+          "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "importance": 7,
+          "items": [
+            "c0b47126cd2c8503",
+            "29b2da78424f38c9",
+            "5bae39aa56a196f8"
+          ]
+        },
+        {
+          "headline": "Claude 在 canvas 里直接生成可交互网页",
+          "summary": "Claude 现可在 canvas 图形内构建可交互网站，用真实 HTML 复现 Flash 时代的富交互体验。",
+          "primary_url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+          "importance": 6,
+          "items": [
+            "ebf06d342ba55631"
+          ],
+          "cover_path": "out/media/2026-11-17/product-02.jpg"
+        },
+        {
+          "headline": "Google Maps 能用 Ask Maps 排行程了",
+          "summary": "Google Maps 的 Ask Maps 现可生成带实时信息的行程规划，从购物一日游到多日公路旅行都能逐站安排。",
+          "primary_url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+          "importance": 6,
+          "items": [
+            "9fd62fa2b0f91b33"
+          ],
+          "cover_path": "out/media/2026-11-17/product-03.jpg"
+        },
+        {
+          "headline": "豆包工作上线「工作台」，覆盖 21 个专业场景",
+          "summary": "豆包工作推出面向金融、医疗、教育、创意设计等 21 个专业场景的 AI 工作台，称是业内首个多职业定制的办公功能。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html",
+          "importance": 6,
+          "items": [
+            "9967a9ff49ae38e5"
+          ]
+        },
+        {
+          "headline": "ChatGPT 上线新图像分类器围堵 CSAM",
+          "summary": "OpenAI 推出新的图像分类器与 ChatGPT 警示机制，对试图获取儿童性虐待内容的账号实施 24 小时封禁，并配套指南与合作伙伴计划。",
+          "primary_url": "https://openai.com/index/strengthening-online-child-safety",
+          "importance": 6,
+          "items": [
+            "e4617be3e18b8cf5",
+            "8a5b41723ecf3a98"
+          ]
+        },
+        {
+          "headline": "千问办公一次接入 10 款大模型",
+          "summary": "千问办公上线 Qwen4-Max、Kimi、GLM、DeepSeek、MiniMax 等 10 款模型，个人与企业版用户可自选模型处理不同任务。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
+          "importance": 5,
+          "items": [
+            "82f8bd413e130667"
+          ]
+        },
+        {
+          "headline": "Audible 用 AI 生成有声书导读",
+          "summary": "Audible 推出 AI 生成的音频预览，概括书籍主题与读者评价，与真人朗读样本一起帮助用户选书。",
+          "primary_url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+          "importance": 5,
+          "items": [
+            "8425e64efbd5b3a8"
+          ],
+          "cover_path": "out/media/2026-11-17/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "美国收紧 AI 芯片出口，堵住远程算力通道",
+          "summary": "美国出台临时规则，要求企业向中国等受限国家提供远程 AI 算力前须取得出口许可，被视为对芯片管制的实质性扩围。",
+          "primary_url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "importance": 8,
+          "items": [
+            "15fb96e95111fc44",
+            "eb49cd0d3b5fe781"
+          ],
+          "cover_path": "out/media/2026-11-17/opinion-00.jpg"
+        },
+        {
+          "headline": "Google 首次捕获全自动 AI 网络攻击",
+          "summary": "Google 威胁情报团队首次发现攻击者完全由 AI 自动完成漏洞发现与利用，框架名为 exploit_agent，并警告此类攻击将迅速增多。",
+          "primary_url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+          "importance": 7,
+          "items": [
+            "a194560189e5c0d0"
+          ]
+        },
+        {
+          "headline": "纳德拉：代码变便宜后，工程师靠什么立足",
+          "summary": "微软 CEO 萨提亚·纳德拉在访谈中谈 AI 对软件工程的重塑，重点落在代码验证、责任归属与工程师职业路径的再定义。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+          "importance": 7,
+          "items": [
+            "9fdc4d3f1274b28a"
+          ],
+          "cover_path": "out/media/2026-11-17/opinion-02.jpg"
+        },
+        {
+          "headline": "李飞飞 CoRL 谈世界模型，与苏姿丰同台",
+          "summary": "李飞飞在 CoRL 2026 演讲中从「橱柜模型」谈到机器人所需的世界模型，并与 AMD 苏姿丰同台讨论算力与具身智能。",
+          "primary_url": "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html",
+          "importance": 6,
+          "items": [
+            "7da9d5c222dfd949",
+            "b548b4b5d428819f"
+          ]
+        },
+        {
+          "headline": "FBI：开源黑客工具 Artex 三小时破网",
+          "summary": "FBI 称开源 AI 黑客工具 Artex 被用于攻击一家美国 IT 巨头和韩国金融业，入侵网络用时不到三小时。",
+          "primary_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+          "importance": 6,
+          "items": [
+            "26c9624954331032"
+          ],
+          "cover_path": "out/media/2026-11-17/opinion-04.jpg"
+        },
+        {
+          "headline": "OpenAI 引入外部评估员，独立性遭质疑",
+          "summary": "OpenAI 启动嵌入式评估，与 Apollo Research、METR、Transluce、Goodfire 合作独立审查模型对齐与监控，但访问限制与披露规则引发独立性疑问。",
+          "primary_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "importance": 6,
+          "items": [
+            "eed4979549441cdd",
+            "07bfa4bd334fa3f9"
+          ]
+        },
+        {
+          "headline": "Stratechery：黄仁勋退场是一串讣告的开始",
+          "summary": "Stratechery 认为黄仁勋的离场同时意味着英伟达长期前景、AI 泡沫叙事与美国例外论的多重转折。",
+          "primary_url": "https://stratechery.com/2026/obituaries/",
+          "importance": 5,
+          "items": [
+            "5ae0b67f19f6d7e7"
+          ],
+          "cover_path": "out/media/2026-11-17/opinion-06.jpg"
+        },
+        {
+          "headline": "开源维护者呼吁：提 PR 先证明你真用过",
+          "summary": "面对大量 AI 生成的低价值 PR，有维护者提议把「实际使用证明」作为接受开源贡献的前置条件，引发社区讨论。",
+          "primary_url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+          "importance": 4,
+          "items": [
+            "7af8addd1270a7cd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Hugging Face 联手 OpenRouter，开源模型一键跑",
+          "summary": "Hugging Face 与 OpenRouter 合作，让开放权重模型可以直接调用运行，降低开源模型的部署门槛。",
+          "primary_url": "https://huggingface.co/blog/openrouter",
+          "importance": 6,
+          "items": [
+            "b3d923feb71aaca5"
+          ],
+          "cover_path": "out/media/2026-11-17/opensource-00.jpg"
+        },
+        {
+          "headline": "Chrome DevTools 官方 MCP，给编码 agent 装眼睛",
+          "summary": "Chrome DevTools 团队开源 chrome-devtools-mcp，让编码 agent 直接调用浏览器调试能力。",
+          "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "importance": 5,
+          "items": [
+            "34ce5176f71e5270"
+          ],
+          "cover_path": "out/media/2026-11-17/opensource-01.jpg"
+        },
+        {
+          "headline": "阿里开源代码审查工具，混合架构 + 行级注释",
+          "summary": "阿里巴巴开源经内部大规模验证的代码审查工具，采用确定性流水线加 LLM agent 的混合架构，内置多语言规则集并支持精确到行的评论。",
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "importance": 5,
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-11-17/opensource-02.jpg"
+        },
+        {
+          "headline": "腾讯 LoopForge：给编码 agent 加人工审批闸门",
+          "summary": "腾讯开源 LoopForge，用脚本与人工审批环节编排 CodeBuddy、Codex、Claude Code 的交付流程，支持自托管。",
+          "primary_url": "https://github.com/Tencent/LoopForge",
+          "importance": 5,
+          "items": [
+            "badd7d7c868707a0"
+          ]
+        },
+        {
+          "headline": "AG-UI：把 agent 接进前端应用的交互协议",
+          "summary": "AG-UI 提出 Agent-User Interaction Protocol，为把 agent 能力嵌入前端应用提供统一的交互标准。",
+          "primary_url": "https://github.com/ag-ui-protocol/ag-ui",
+          "importance": 5,
+          "items": [
+            "53a9ff4ed36bbe8b"
+          ]
+        },
+        {
+          "headline": "英伟达开源 SkillEvaluator，给 agent 技能打分",
+          "summary": "NVIDIA 开源多层级 agent 技能评估框架，包含质量门禁、语义重叠检测、合成评测集生成与实时行为评估。",
+          "primary_url": "https://github.com/NVIDIA/SkillEvaluator",
+          "importance": 4,
+          "items": [
+            "63e49f674b9762c0"
+          ]
+        }
+      ]
+    }
+  ]
+}
