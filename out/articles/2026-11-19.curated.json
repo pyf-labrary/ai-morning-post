@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-19",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "OpenAI 发布 GPT-6.2 Astra/Sol，Astra API 降价两成",
+          "summary": "OpenAI 推出面向高难任务的前沿模型 Astra 与主打性价比的 Sol，覆盖 ChatGPT Work、Codex 和 API；Astra 在 Artificial Analysis 智能指数排名第二，API 价格降至每百万 token 8/40 美元。",
+          "primary_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "importance": 10,
+          "items": [
+            "a7e2ef1b8a1fd051",
+            "b3ae822ce9bb3a6c",
+            "9c77b11b7c254271"
+          ]
+        },
+        {
+          "headline": "谷歌再发 Gemini 4 Neon，一个月连出四款新模型",
+          "summary": "Google DeepMind 推出 Gemini 4 Neon，这是谷歌一个月内发布的第四款新 Gemini 模型，继续扩展其模型家族。",
+          "primary_url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "importance": 9,
+          "items": [
+            "9c8a500eae30d42d",
+            "426ad047737c3b39",
+            "3019991009c50490"
+          ],
+          "cover_path": "out/media/2026-11-19/model_release-01.jpg"
+        },
+        {
+          "headline": "DeepMind 上线 Genie 4：世界可串联、可社区二创",
+          "summary": "Genie 4 正式可用，新增可链式世界和社区画廊，支持用户重混生成式交互环境。",
+          "primary_url": "https://deepmind.google/blog/genie-4-is-now-available/",
+          "importance": 8,
+          "items": [
+            "b60fe667a39ba302",
+            "a99f923da36d2db7"
+          ],
+          "cover_path": "out/media/2026-11-19/model_release-02.jpg"
+        },
+        {
+          "headline": "可灵 AI 发布 Kling Image 4.0，支持原生 8K 组图",
+          "summary": "新一代图像创作模型聚焦真实感、文字表现、指令理解和一致性，首次支持原生 8K 图像生成及单图 2000 字文字生成。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html",
+          "importance": 7,
+          "items": [
+            "5da104139090aad5"
+          ]
+        },
+        {
+          "headline": "Rumble-2-Flash：0.5B 开源语音模型覆盖 40+ 语言",
+          "summary": "Hugging Face 上发布开源语音模型 Rumble-2-Flash，以 0.5B 参数支持 40 多种语言。",
+          "primary_url": "https://huggingface.co/blog/rumble-2-flash",
+          "importance": 6,
+          "items": [
+            "b7273578586a57e0"
+          ],
+          "cover_path": "out/media/2026-11-19/model_release-04.jpg"
+        },
+        {
+          "headline": "DaisyRose-27B 瞄准后训练效率前沿",
+          "summary": "Hugging Face 博客介绍 DaisyRose-27B，探索后训练效率的新边界。",
+          "primary_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "importance": 5,
+          "items": [
+            "64e8dbe06f9f99a9"
+          ],
+          "cover_path": "out/media/2026-11-19/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋想回归，英伟达董事会说不；临时 CEO 忙安抚",
+          "summary": "黄仁勋因丑闻离职后公开表示愿重返英伟达，但董事会明确“不打算”恢复其职位；临时 CEO Colette Kress 召开全员会、承诺加薪与股权，并称公司“尽在掌握”。",
+          "primary_url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+          "importance": 10,
+          "items": [
+            "92295ebdb368dcff",
+            "ac34e0e1a44ad4b4",
+            "0414de74bb7ef39b"
+          ],
+          "cover_path": "out/media/2026-11-19/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic IPO 定价每股 83 美元，估值冲 1.5 万亿美元",
+          "summary": "Anthropic 据报以每股 83 美元完成 IPO 定价，高于此前区间，完全稀释估值达 1.5 万亿美元。",
+          "primary_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "importance": 9,
+          "items": [
+            "412c564efe952d1d"
+          ],
+          "cover_path": "out/media/2026-11-19/company-01.jpg"
+        },
+        {
+          "headline": "纳德拉解释微软为何让 6 万员工“自愿离职”",
+          "summary": "微软 CEO 纳德拉称 10 月向 6 万名员工提供买断方案，是为避免又一次大规模裁员，背后与 AI 带来的效率变化有关；他还提到 Claude Code 让微软措手不及。",
+          "primary_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "importance": 8,
+          "items": [
+            "cd7a6a1254414d2d",
+            "ab5751043995cecf"
+          ],
+          "cover_path": "out/media/2026-11-19/company-02.jpg"
+        },
+        {
+          "headline": "英伟达财报仍强劲，但推迟提交 10-Q、投资组合达 650 亿美元",
+          "summary": "黄仁勋离职后的首份财报显示收入继续创纪录，公司却意外推迟提交 10-Q；其初创投资价值九个月内近三倍增至 650 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+          "importance": 8,
+          "items": [
+            "37b5e22b8f938131",
+            "e21bf5d11c548c8b",
+            "012bba2831749754"
+          ],
+          "cover_path": "out/media/2026-11-19/company-03.jpg"
+        },
+        {
+          "headline": "英伟达 AMD 首次联手押注，Genesis 估值超 230 亿",
+          "summary": "具身智能公司 Genesis 完成 A 轮融资，估值超过 230 亿元，英伟达与 AMD 首次共同投资。",
+          "primary_url": "https://www.qbitai.com/2026/11/510821.html",
+          "importance": 7,
+          "items": [
+            "8f62ce52da41139b"
+          ],
+          "cover_path": "out/media/2026-11-19/company-04.jpg"
+        },
+        {
+          "headline": "奥尔特曼确认 OpenAI 计划上市",
+          "summary": "奥尔特曼在 DealBook 峰会上表示 OpenAI 计划 IPO，称有许多理由支持这一决定；同时称很难想象没有黄仁勋的 AI 行业。",
+          "primary_url": "https://36kr.com/newsflashes/4076058187584388?f=rss",
+          "importance": 7,
+          "items": [
+            "4ea75c925301a31f"
+          ]
+        },
+        {
+          "headline": "微软用更便宜的自研模型替换产品中的外部模型",
+          "summary": "微软开始在自家产品中用更便宜的自研模型替代外部 AI 模型，TLDR 称其一次发布七款模型。",
+          "primary_url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+          "importance": 7,
+          "items": [
+            "cf834b6bebd4e28c",
+            "6626a6a8680251c5"
+          ],
+          "cover_path": "out/media/2026-11-19/company-06.jpg"
+        },
+        {
+          "headline": "OpenAI 首次向四家独立现场审计机构开放系统",
+          "summary": "OpenAI 首次允许四家独立现场审计机构审查其 AI 系统，推进外部治理与透明度。",
+          "primary_url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+          "importance": 7,
+          "items": [
+            "2dddece50d0c6a53"
+          ],
+          "cover_path": "out/media/2026-11-19/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI：编码 Agent 正在加速 AI 研究，但前沿参差不齐",
+          "summary": "OpenAI 量化编码 agent 对 AI 研究的加速效果，发现性能在不同任务上仍不均衡，并讨论递归自我改进的信号。",
+          "primary_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "importance": 6,
+          "items": [
+            "be8a0bfb5f012cd6"
+          ]
+        },
+        {
+          "headline": "谷歌提出“睡眠框架”，让 LLM 在持续学习中不遗忘",
+          "summary": "Google Research 提出 Sleep framework，探索让大模型在持续学习中保留旧知识的新方法。",
+          "primary_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+          "importance": 6,
+          "items": [
+            "e00c28ac85d85723"
+          ],
+          "cover_path": "out/media/2026-11-19/research-01.jpg"
+        },
+        {
+          "headline": "Qwen3.8 编码 LoRA：SWE-bench Pro 通过率 39% 升至 65%",
+          "summary": "Hugging Face 发布 Apache-2.0 的 Qwen3.8-27B-pi-adapted LoRA 适配器，用强化学习训练，SWE-bench Pro hard-51 从 39.2% 升至 64.7%。",
+          "primary_url": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
+          "importance": 6,
+          "items": [
+            "6630a0ba14cbd988"
+          ],
+          "cover_path": "out/media/2026-11-19/research-02.jpg"
+        },
+        {
+          "headline": "SID-2 搜索 Agent 群组在自有基准上超过 GPT-6 Astra",
+          "summary": "SID AI 发布用强化学习训练的 SID-2，单 agent 3.11 秒达 0.585 NDCG，12-agent 群组达 0.720 NDCG。",
+          "primary_url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+          "importance": 5,
+          "items": [
+            "1cdf24c410c617b0"
+          ],
+          "cover_path": "out/media/2026-11-19/research-03.jpg"
+        },
+        {
+          "headline": "RoboBuilder：让编码 Agent 在真实视频反馈中联合设计机器人",
+          "summary": "新基准让编码 agent 用标准零件、电机和 3D 打印件共同设计机器人硬件与程序，并用真实视频反馈闭环。",
+          "primary_url": "http://arxiv.org/abs/2611.23855v1",
+          "importance": 4,
+          "items": [
+            "fee95dc133141d00"
+          ],
+          "cover_path": "out/media/2026-11-19/research-04.jpg"
+        },
+        {
+          "headline": "Metrics-in-the-Loop：用复杂度反馈重塑 Agent 写的代码",
+          "summary": "研究指出仅靠测试通过不足以发现代码复杂度累积，提出将复杂度指标反馈给编码 agent 的闭环方法。",
+          "primary_url": "http://arxiv.org/abs/2611.23817v1",
+          "importance": 4,
+          "items": [
+            "7413aa68e3341bee"
+          ],
+          "cover_path": "out/media/2026-11-19/research-05.jpg"
+        },
+        {
+          "headline": "Energy-Based Reasoners：循环推理器应是能量模型",
+          "summary": "研究提出将循环推理器建模为能量模型，以改进推理与一致性。",
+          "primary_url": "https://energy-based-reasoners.github.io/",
+          "importance": 4,
+          "items": [
+            "413cbdf97d9ac977"
+          ],
+          "cover_path": "out/media/2026-11-19/research-06.jpg"
+        },
+        {
+          "headline": "RePlan-VLA：面向长程操作的重规划 VLA 模型",
+          "summary": "针对长程多步机器人操作，提出带进度感知的重规划方法，缓解 VLA 模型性能衰减。",
+          "primary_url": "http://arxiv.org/abs/2611.23843v1",
+          "importance": 4,
+          "items": [
+            "1746b742015c19a3"
+          ],
+          "cover_path": "out/media/2026-11-19/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Copilot 变身“工作新 OS”，Office 直接搬进去",
+          "summary": "微软在 Ignite 上把 Word、Excel、PowerPoint 嵌入 Copilot，称 Copilot 是“工作的新操作系统”，下一步是常驻 agent。",
+          "primary_url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+          "importance": 9,
+          "items": [
+            "b11c99591fbc3e99"
+          ],
+          "cover_path": "out/media/2026-11-19/product-00.jpg"
+        },
+        {
+          "headline": "豆包工作 DAU 破 800 万，企业 ARR 达 20 亿元",
+          "summary": "豆包工作上线三个月日活突破 800 万，企业客户年度经常性收入突破 20 亿元；近期上线覆盖 21 个专业场景的“工作台”。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+          "importance": 8,
+          "items": [
+            "c1be06bbdc5c82a7"
+          ]
+        },
+        {
+          "headline": "Perplexity Computer 上线多智能体，最多 16 个互相核查",
+          "summary": "Perplexity 在 Computer 中新增 Multiagent 档位，由主 agent 调度最多 16 个 Claude/GPT/Gemini agent 共享发现并交叉检查。",
+          "primary_url": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+          "importance": 7,
+          "items": [
+            "35f62538fab19189"
+          ],
+          "cover_path": "out/media/2026-11-19/product-02.jpg"
+        },
+        {
+          "headline": "Claude Code 新增 Code Mode，用 JavaScript 串起工具调用",
+          "summary": "Anthropic 为 Claude Code 加入实验性 Code Mode，可写 JavaScript 链式调用 Bash、Read、Edit，并在长命令运行时继续对话。",
+          "primary_url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+          "importance": 7,
+          "items": [
+            "572cbefb46960532"
+          ],
+          "cover_path": "out/media/2026-11-19/product-03.jpg"
+        },
+        {
+          "headline": "谷歌给 Gemini 和 AI 搜索加隐私开关与无痕模式",
+          "summary": "Gemini 将“用于训练”和聊天历史拆成独立开关；Google Search 的 AI 模式新增临时线程，对话不进入搜索历史。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+          "importance": 7,
+          "items": [
+            "c94e4ff7fb7d054e",
+            "af79552481786f44"
+          ],
+          "cover_path": "out/media/2026-11-19/product-04.jpg"
+        },
+        {
+          "headline": "千问办公电商版上线品牌知识库，让 Agent 先懂品牌",
+          "summary": "商家上传网店链接、图片和设计规范后，千问办公可理解品牌风格，在生成图片、视频和文案时统一调性。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/DEwlGyHOnFTL6jRy.html",
+          "importance": 6,
+          "items": [
+            "2e6ddbbc7468e1d5"
+          ]
+        },
+        {
+          "headline": "Snapchat 让开发者用 Claude Code、Cursor 做 AR 滤镜",
+          "summary": "Lens 创作者可用自然语言描述需求，由 AI 编程助手端到端完成 AR Lens 构建。",
+          "primary_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+          "importance": 6,
+          "items": [
+            "3e0daa6f41ec3d1f"
+          ],
+          "cover_path": "out/media/2026-11-19/product-06.jpg"
+        },
+        {
+          "headline": "Hugging Face 接入 OpenRouter，按价格或速度路由模型",
+          "summary": "Hugging Face 现在可通过 OpenRouter 路由模型请求，自动选择更便宜或更快的提供商。",
+          "primary_url": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
+          "importance": 6,
+          "items": [
+            "da05ef70cb27ca79"
+          ],
+          "cover_path": "out/media/2026-11-19/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "奥尔特曼警告：不能让 AI 替人类做决定",
+          "summary": "奥尔特曼与 Greg Brockman 回应硅谷“AI 接管”争论，承认控制先进模型很难，但警告未来不能由 AI 而非人类拍板。",
+          "primary_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+          "importance": 8,
+          "items": [
+            "5ffe3d2b821a6548"
+          ],
+          "cover_path": "out/media/2026-11-19/opinion-00.jpg"
+        },
+        {
+          "headline": "纳德拉：AI Agent 将重写网络经济，关键设施“补不了”",
+          "summary": "微软 CEO 预测 AI agent 会冲击广告驱动模式，让亚马逊等公司重新思考获客；同时称大量关键基础设施面对 AI 网络攻击“不可打补丁”。",
+          "primary_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+          "importance": 7,
+          "items": [
+            "20dfd58469a25133",
+            "dbf5616e00644760"
+          ],
+          "cover_path": "out/media/2026-11-19/opinion-01.jpg"
+        },
+        {
+          "headline": "黄仁勋丑闻搅动美国 AI 芯片战与对华谈判",
+          "summary": "Wired 称英伟达丑闻让特朗普政府内部对 AI 谈判更悲观，对华芯片限制与“黄仁勋事件”相互缠绕。",
+          "primary_url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+          "importance": 7,
+          "items": [
+            "9b48292d9b9dcbe0",
+            "0474c48e14c33d48"
+          ],
+          "cover_path": "out/media/2026-11-19/opinion-02.jpg"
+        },
+        {
+          "headline": "更多银行划清界限：AI Agent 被黑，客户自担",
+          "summary": "花旗等更多大型银行限制个人理财 AI agent，并明确客户使用 AI agent 遭攻击时风险自负。",
+          "primary_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+          "importance": 6,
+          "items": [
+            "a89c4235f4aa2ac6"
+          ],
+          "cover_path": "out/media/2026-11-19/opinion-03.jpg"
+        },
+        {
+          "headline": "哲学家内格尔：AI 意识说法“简直荒谬”",
+          "summary": "刚获百万美元 Berggruen 奖的哲学家 Thomas Nagel 对 AI 意识话题发表看法，称相关主张“简直荒谬”。",
+          "primary_url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+          "importance": 6,
+          "items": [
+            "3ca3c776a2548502"
+          ],
+          "cover_path": "out/media/2026-11-19/opinion-04.jpg"
+        },
+        {
+          "headline": "MIT 科技评论：AI 炒作指数显示 AI 无处不在",
+          "summary": "AI 像皮疹一样扩散：谷歌强推 AI Overviews 却损失广告收入，街头也满是 AI 硬件。",
+          "primary_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+          "importance": 5,
+          "items": [
+            "86e6adc2912f0ac1"
+          ],
+          "cover_path": "out/media/2026-11-19/opinion-05.jpg"
+        },
+        {
+          "headline": "OpenAI 战略未来负责人：AI 需要新的社会共识",
+          "summary": "Dean Ball 撰文讨论更强 AI 如何重塑社会，以及人们如何保住对制度的控制。",
+          "primary_url": "https://openai.com/index/the-silent-consensus",
+          "importance": 5,
+          "items": [
+            "b722aa67237bb877"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "腾讯开源 LoopForge：编排 Codex、Claude Code 的交付流水线",
+          "summary": "LoopForge 提供自托管工作流，用脚本和人工审批门编排 CodeBuddy、Codex、Claude Code，实现编码 Agent 的交付。",
+          "primary_url": "https://github.com/Tencent/LoopForge",
+          "importance": 7,
+          "items": [
+            "badd7d7c868707a0",
+            "030e3a3a6bd42cbb"
+          ],
+          "cover_path": "out/media/2026-11-19/opensource-00.jpg"
+        },
+        {
+          "headline": "阿里开源代码审查工具：确定性流水线 + LLM Agent",
+          "summary": "open-code-review 采用混合架构，结合确定性流水线与 LLM Agent，提供行级评论和多语言规则集（NPE、线程安全、XSS、SQL 注入）。",
+          "primary_url": "https://github.com/alibaba/open-code-review",
+          "importance": 6,
+          "items": [
+            "fe2fbfca6cc0ad29"
+          ],
+          "cover_path": "out/media/2026-11-19/opensource-01.jpg"
+        },
+        {
+          "headline": "Google 开源 Stitch Skills：给编码 Agent 的技能库",
+          "summary": "面向 Stitch MCP Server 的 Agent Skills 库，遵循开放标准，可兼容 Antigravity、Gemini CLI、Claude Code、Cursor。",
+          "primary_url": "https://github.com/google-labs-code/stitch-skills",
+          "importance": 6,
+          "items": [
+            "9a484cf01f1e9e9f"
+          ],
+          "cover_path": "out/media/2026-11-19/opensource-02.jpg"
+        },
+        {
+          "headline": "Cursor 开源插件规范与官方插件",
+          "summary": "Cursor 发布插件规范及面向流行开发工具、框架和 SaaS 的官方插件。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "importance": 6,
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "cover_path": "out/media/2026-11-19/opensource-03.jpg"
+        },
+        {
+          "headline": "Superpowers：给编码 Agent 的完整开发方法论",
+          "summary": "基于可组合技能的 Agentic 软件开发框架，试图让编码 Agent 按完整方法论工作。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 5,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-11-19/opensource-04.jpg"
+        },
+        {
+          "headline": "港大开源 RAG-Anything：一体化 RAG 框架",
+          "summary": "HKUDS 发布 All-in-One RAG 框架 RAG-Anything。",
+          "primary_url": "https://github.com/HKUDS/RAG-Anything",
+          "importance": 5,
+          "items": [
+            "52cbbb41cf2ace82"
+          ]
+        },
+        {
+          "headline": "英伟达开源 SkillEvaluator，评估 Agent 技能质量",
+          "summary": "多层级框架，带质量门、语义重叠检测、合成评测数据集和实时 agent 行为评估。",
+          "primary_url": "https://github.com/NVIDIA/SkillEvaluator",
+          "importance": 5,
+          "items": [
+            "63e49f674b9762c0"
+          ],
+          "cover_path": "out/media/2026-11-19/opensource-06.jpg"
+        },
+        {
+          "headline": "Strix：开源 AI 渗透测试工具",
+          "summary": "开源 AI 渗透测试工具，用于发现并修复应用漏洞。",
+          "primary_url": "https://github.com/usestrix/strix",
+          "importance": 5,
+          "items": [
+            "e4b6d6f17497b617"
+          ],
+          "cover_path": "out/media/2026-11-19/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
