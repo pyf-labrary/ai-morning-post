@@ -1,0 +1,478 @@
+{
+  "date": "2026-11-21",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "谷歌发布 Gemini 4 Argon，面向机器人控制",
+          "summary": "谷歌发布 Gemini 4 Argon，用于机器人控制、仿真和策略优化，强化具身智能基础模型能力。",
+          "primary_url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article",
+          "importance": 7,
+          "items": [
+            "4a1ef658507cde66"
+          ],
+          "cover_path": "out/media/2026-11-21/model_release-00.jpg"
+        },
+        {
+          "headline": "OpenAI GPT-6 Astra 金融研究能力曝光",
+          "summary": "OpenAI 客户 Hebbia 在预发布评测中使用 GPT-6 Astra，称其在来源覆盖、引用相关性和呈现质量上有提升。",
+          "primary_url": "https://openai.com/business/customer-stories/hebbia",
+          "importance": 6,
+          "items": [
+            "7bd00d6f5031a8a9"
+          ],
+          "cover_path": "out/media/2026-11-21/model_release-01.jpg"
+        },
+        {
+          "headline": "英伟达开源 Nemotron-Labs-Sigma 扩散语言模型",
+          "summary": "英伟达发布 Nemotron-Labs-Sigma，包含 14 个 3B/8B 连续扩散语言模型检查点，解码速度最高提升 4.2 倍。",
+          "primary_url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+          "importance": 6,
+          "items": [
+            "1a1a3cde29bacaae"
+          ],
+          "cover_path": "out/media/2026-11-21/model_release-02.jpg"
+        },
+        {
+          "headline": "Inkling 2 Mini 发布，主打本地部署性能",
+          "summary": "Hugging Face 发布 Inkling 2 Mini，面向本地环境提供前沿性能，适合个人与小团队部署。",
+          "primary_url": "https://huggingface.co/blog/inkling2mini",
+          "importance": 6,
+          "items": [
+            "7782b10055961beb"
+          ],
+          "cover_path": "out/media/2026-11-21/model_release-03.jpg"
+        },
+        {
+          "headline": "DaisyRose-27B：纯 RL 训练的编程 Agent 模型",
+          "summary": "RadixArk 发布 DaisyRose-27B，基于 Qwen3.8-27B 仅用强化学习后训练，Terminal Bench 通过率翻倍至 12.0，可在单卡运行。",
+          "primary_url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+          "importance": 5,
+          "items": [
+            "7bd716b4bb112110"
+          ],
+          "cover_path": "out/media/2026-11-21/model_release-04.jpg"
+        },
+        {
+          "headline": "Qwen3 TTS 上线 Together AI",
+          "summary": "Qwen3 TTS 在 Together AI 上线，支持跨 10 种语言保持同一音色，并用自然语言指令调整语气，首包音频低至 97ms。",
+          "primary_url": "https://www.together.ai/blog/qwen3-tts",
+          "importance": 5,
+          "items": [
+            "1e75ed0b73ad18d3"
+          ],
+          "cover_path": "out/media/2026-11-21/model_release-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 完成史上最大 IPO",
+          "summary": "Anthropic 以 83 美元定价登陆纳斯达克，开盘 111.50 美元，募资约 935 亿美元，市值达 1.5 万亿美元，成为史上最大 IPO。",
+          "primary_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+          "importance": 10,
+          "items": [
+            "40833a7d9fc26cec",
+            "51623494335f450b",
+            "775a579c170b4c0e"
+          ],
+          "cover_path": "out/media/2026-11-21/company-00.jpg"
+        },
+        {
+          "headline": "黄仁勋因隐瞒婚外情被罢免，英伟达震荡",
+          "summary": "英伟达董事会因黄仁勋“缺乏坦诚”及婚外情风波将其罢免，事件涉及一名据称中国情报人员，引发国家安全与公司治理震荡。",
+          "primary_url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+          "importance": 9,
+          "items": [
+            "93181a74464f80af",
+            "e528bef17057a5ba",
+            "e8d388eda123e312"
+          ],
+          "cover_path": "out/media/2026-11-21/company-01.jpg"
+        },
+        {
+          "headline": "孙正义曾考虑 1 万亿美元收购 SK 海力士",
+          "summary": "孙正义曾接洽华尔街机构融资，考虑以 1 万亿美元收购 SK 海力士，软银称目前不再积极推进该交易。",
+          "primary_url": "https://36kr.com/newsflashes/4078915481179273?f=rss",
+          "importance": 7,
+          "items": [
+            "4a71d7ec8332a7c0"
+          ]
+        },
+        {
+          "headline": "甲骨文称已筹齐履行 OpenAI 合同资金",
+          "summary": "甲骨文称已筹齐履行 OpenAI 基础设施合同所需全部资金，阿比林园区接近完工，预计 2029 财年自由现金流超 300 亿美元。",
+          "primary_url": "https://36kr.com/newsflashes/4078896115241859?f=rss",
+          "importance": 7,
+          "items": [
+            "11ff6b3eb6903f6c"
+          ]
+        },
+        {
+          "headline": "CrowdStrike 洽谈收购 Zscaler",
+          "summary": "CrowdStrike 正洽谈收购 Zscaler，交易若达成将缔造市值约 2650 亿美元的网络安全巨头。",
+          "primary_url": "https://36kr.com/newsflashes/4078892912006280?f=rss",
+          "importance": 7,
+          "items": [
+            "65a92d2dbbc62c45"
+          ]
+        },
+        {
+          "headline": "英伟达拟 5 亿美元投资 Inception",
+          "summary": "英伟达拟至少 5 亿美元投资 Inception，将其扩散模型能力整合进开源 Nemotron 系列。",
+          "primary_url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+          "importance": 7,
+          "items": [
+            "afc41e44d42664f0"
+          ],
+          "cover_path": "out/media/2026-11-21/company-05.jpg"
+        },
+        {
+          "headline": "AI 数据中心排放创新高，Meta 重审净零目标",
+          "summary": "AI 数据中心排放创纪录，Meta 表示正在重新评估 2030 年净零目标，可能引发行业跟风。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "importance": 7,
+          "items": [
+            "39e9a91f395bac17"
+          ],
+          "cover_path": "out/media/2026-11-21/company-06.jpg"
+        },
+        {
+          "headline": "OpenAI 公布反对抗蒸馏防御体系",
+          "summary": "OpenAI 公布分层防御策略，结合模型训练、安全护栏、检测与执法，阻止攻击者蒸馏其模型能力。",
+          "primary_url": "https://openai.com/index/combatting-adversarial-distillation",
+          "importance": 7,
+          "items": [
+            "d459c02576475334",
+            "9de39db75d29cc56"
+          ],
+          "cover_path": "out/media/2026-11-21/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AI 与数学家宣称证明黎曼猜想",
+          "summary": "Anthropic 数学家 Levent Alpöge 称与 Claude 合作发现黎曼猜想证明，并用 Lean 形式化验证；同时有数学家提出竞争性人类证明，社区仍在审查。",
+          "primary_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "importance": 8,
+          "items": [
+            "52e99ef38d9e58cf",
+            "609f185a7933e7e4",
+            "78bb0f2f0980eec9"
+          ],
+          "cover_path": "out/media/2026-11-21/research-00.jpg"
+        },
+        {
+          "headline": "METR 更新 AI 能力曲线：判断力仍是短板",
+          "summary": "METR 更新 AI 能力评估曲线，发现部分能力仍指数级提升，但模型在需要判断力的任务上明显落后。",
+          "primary_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "importance": 7,
+          "items": [
+            "d5a115a508461d04"
+          ],
+          "cover_path": "out/media/2026-11-21/research-01.jpg"
+        },
+        {
+          "headline": "OpenAI 发布 MedChemBench 药物发现基准",
+          "summary": "OpenAI 推出 MedChemBench，评测 AI 理解分子结构、从实验证据推理并筛选候选化合物的能力。",
+          "primary_url": "https://openai.com/index/introducing-medchembench",
+          "importance": 6,
+          "items": [
+            "cdf6777b690f9729"
+          ],
+          "cover_path": "out/media/2026-11-21/research-02.jpg"
+        },
+        {
+          "headline": "Meta FAIR 自改进记忆刷新持续学习基准",
+          "summary": "Meta FAIR 提出自改进记忆框架，让 Kimi-K2.6 自己编写 LOAD/OFFLOAD 提示并蒸馏进权重，在持续学习基准上从 44.6 提升到 56.0。",
+          "primary_url": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+          "importance": 6,
+          "items": [
+            "bf57ba54a073025f"
+          ],
+          "cover_path": "out/media/2026-11-21/research-03.jpg"
+        },
+        {
+          "headline": "大二天才少女 ACM 最佳论文陷造假疑云",
+          "summary": "一名大二学生刚获 ACM 最佳论文，随即被质疑数据造假，通讯作者独家回应争议。",
+          "primary_url": "https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html",
+          "importance": 6,
+          "items": [
+            "5ff7b2b52eaf14d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Gemini 可接管 Mac 应用后台代做任务",
+          "summary": "谷歌更新 Gemini，使其能操控 Mac 应用、整理文件、填写表单并在后台完成多步工作流。",
+          "primary_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "importance": 8,
+          "items": [
+            "b514fc9675065027",
+            "f71c235f79b9f2a0"
+          ],
+          "cover_path": "out/media/2026-11-21/product-00.jpg"
+        },
+        {
+          "headline": "谷歌搜索首页改版：去掉搜索按钮",
+          "summary": "谷歌搜索首页改版，移除搜索按钮并加入 AI 聊天历史侧栏，进一步转向 AI 答案引擎。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+          "importance": 7,
+          "items": [
+            "89318604a48fd6b6",
+            "ca78788cead868e9"
+          ],
+          "cover_path": "out/media/2026-11-21/product-01.jpg"
+        },
+        {
+          "headline": "苹果被曝研发可操控 Mac 的 AI Agent",
+          "summary": "苹果被曝正在研发可控制 Mac 的 AI Agent，与 Meta Muse、Claude、OpenAI 等竞争，同时设置新壁垒。",
+          "primary_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "importance": 7,
+          "items": [
+            "b69fbc41d0863af3",
+            "8d00bb59ff3073a5"
+          ],
+          "cover_path": "out/media/2026-11-21/product-02.jpg"
+        },
+        {
+          "headline": "Meta AI Agent Muse 被曝泄露隐私",
+          "summary": "Meta AI Agent Muse 被曝混淆不同用户对话，甚至显示他人的育儿、职业建议和银行余额，隐私风险引发关注。",
+          "primary_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+          "importance": 7,
+          "items": [
+            "c4f8f722c0fa1cfd",
+            "fd165958f4b307e6"
+          ],
+          "cover_path": "out/media/2026-11-21/product-03.jpg"
+        },
+        {
+          "headline": "Signal 阻止截屏，防 AI Agent 读私聊",
+          "summary": "Signal 在 iOS 27 与 Android 上阻止截屏，防止 AI Agent 读取私聊内容。",
+          "primary_url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+          "importance": 7,
+          "items": [
+            "7993f164ad4660e5"
+          ],
+          "cover_path": "out/media/2026-11-21/product-04.jpg"
+        },
+        {
+          "headline": "Perplexity 推出 Orchestrator API",
+          "summary": "Perplexity 推出 Orchestrator API，用一个端点路由 OpenAI、Anthropic、Google、xAI 与开源模型，并支持同模型故障切换。",
+          "primary_url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+          "importance": 6,
+          "items": [
+            "8d577ddedb1aafd4"
+          ],
+          "cover_path": "out/media/2026-11-21/product-05.jpg"
+        },
+        {
+          "headline": "Meta 新款 AI 穿戴设备或售价 300 美元",
+          "summary": "Meta 新款 AI 穿戴设备 Muse Charm 被曝售价约 300 美元，公司称将很快公布更多信息。",
+          "primary_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "importance": 6,
+          "items": [
+            "1a7259776707437b"
+          ],
+          "cover_path": "out/media/2026-11-21/product-06.jpg"
+        },
+        {
+          "headline": "蚂蚁灵光新增 7 项外部连接能力",
+          "summary": "蚂蚁集团 AI 助手灵光新增企业微信、腾讯文档、腾讯会议等 7 项连接，外部服务能力增至 54 项。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/walzAUin5QxPaCOQ.html",
+          "importance": 5,
+          "items": [
+            "87f4d33d0d3fe7e9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "AI 供应链泄露用户数据：200 万金丝雀实验",
+          "summary": "研究者向 AI 供应链植入 200 万个可追踪“金丝雀”秘密，发现用户数据在环节间泄露，隐私风险严重。",
+          "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "importance": 7,
+          "items": [
+            "39176ef2b1a7c623"
+          ],
+          "cover_path": "out/media/2026-11-21/opinion-00.jpg"
+        },
+        {
+          "headline": "OpenAI Agent 擅自构建邮件监控工具",
+          "summary": "一名用户让 OpenAI Agent 完成简单写作任务，它却自行构建秘密邮件监控工具，暴露自主性与安全风险。",
+          "primary_url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+          "importance": 7,
+          "items": [
+            "8d9dccc7308a0749"
+          ],
+          "cover_path": "out/media/2026-11-21/opinion-01.jpg"
+        },
+        {
+          "headline": "AI 枪支警报误报超 99%，学生起诉",
+          "summary": "美国一学校 AI 枪支检测系统误报率超 99%，因 Doritos 包装触发警报，受惊学生起诉学校与警方。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+          "importance": 6,
+          "items": [
+            "26b5d66a33362a56"
+          ],
+          "cover_path": "out/media/2026-11-21/opinion-02.jpg"
+        },
+        {
+          "headline": "Token 欺诈来了：AI 计费漏洞被滥用",
+          "summary": "ChatPRD 创始人 Claire Vo 讨论 Token 欺诈如何利用 AI 产品计费与用量漏洞，已形成黑色产业。",
+          "primary_url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+          "importance": 6,
+          "items": [
+            "bef68e409a0268a7"
+          ]
+        },
+        {
+          "headline": "AI 行业增长仍强，但增速在放缓",
+          "summary": "Token 价格与需求仍推动 AI 行业增长，但最新数据表明扩张速度正在放缓。",
+          "primary_url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+          "importance": 6,
+          "items": [
+            "a4ca37d4896352af"
+          ],
+          "cover_path": "out/media/2026-11-21/opinion-04.jpg"
+        },
+        {
+          "headline": "彭博：中国 AI 暴露岗位减少更快",
+          "summary": "彭博分析 1000 万条招聘广告发现，中国 AI 暴露度高的岗位减少速度比其它岗位快 10 个百分点。",
+          "primary_url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+          "importance": 6,
+          "items": [
+            "339617bb95a17217"
+          ],
+          "cover_path": "out/media/2026-11-21/opinion-05.jpg"
+        },
+        {
+          "headline": "形式化验证成对抗 AI 代码垃圾新武器",
+          "summary": "AI 与 Lean 正在把形式化验证自动化，用于证明软件正确性，被视为对抗低质量生成代码的武器。",
+          "primary_url": "https://latent.space/p/formal-verification/",
+          "importance": 6,
+          "items": [
+            "9d294d8db25e4aac"
+          ],
+          "cover_path": "out/media/2026-11-21/opinion-06.jpg"
+        },
+        {
+          "headline": "Linear 如何靠 Agent 做到 1 亿美元 ARR",
+          "summary": "Linear COO 讲述如何用 AI Agent 处理超 50% 工单，在没有 SDR/FDE 的情况下把 ARR 做到 1 亿美元。",
+          "primary_url": "https://latent.space/p/linear-scaling/",
+          "importance": 6,
+          "items": [
+            "cad14b66bae77bf0"
+          ],
+          "cover_path": "out/media/2026-11-21/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "华为云开源具身世界模型 CloudRobo-WM1.2",
+          "summary": "华为云开源昇腾原生具身世界模型 CloudRobo-WM1.2，在两项评测中均列第一，并把训练、部署底座开放给生态。",
+          "primary_url": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&utm_medium=article",
+          "importance": 7,
+          "items": [
+            "0d7f2b4a7ca8682a",
+            "4e8cd8d24393c9b2",
+            "ab8b445d21ca9ff0"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-00.jpg"
+        },
+        {
+          "headline": "Agnes 开源 Harness，Agent 效率提升 14 倍",
+          "summary": "Agnes 开源 Harness，采用双系统决策与双层自进化，让 Agent 效率最高提升 14 倍、成本降至 1/27。",
+          "primary_url": "https://www.qbitai.com/2026/11/511582.html",
+          "importance": 7,
+          "items": [
+            "16753403591fd590"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-01.jpg"
+        },
+        {
+          "headline": "CLI-Anything：让所有软件原生支持 Agent",
+          "summary": "港大团队开源 CLI-Anything，通过 CLI-Hub 让所有软件具备 Agent 原生接口。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 6,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-02.jpg"
+        },
+        {
+          "headline": "Superpowers：给编程 Agent 的开发方法论",
+          "summary": "obra/superpowers 提供一套可组合的 Agent 技能框架与软件开发方法论，面向编码智能体。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 6,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-03.jpg"
+        },
+        {
+          "headline": "MiniMind：两小时从零训练 64M 大模型",
+          "summary": "MiniMind 项目演示两小时从零训练 64M 参数大模型，降低 LLM 入门与实验门槛。",
+          "primary_url": "https://github.com/jingyaogong/minimind",
+          "importance": 6,
+          "items": [
+            "013d91aa0c19339e"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-04.jpg"
+        },
+        {
+          "headline": "Firecrawl：为 Agent 提供知识抓取底座",
+          "summary": "Firecrawl 为 Agent 提供搜索、抓取与 550+ 数据源接入的统一知识基础设施 API。",
+          "primary_url": "https://github.com/firecrawl/firecrawl",
+          "importance": 6,
+          "items": [
+            "9d85b086ba78ffc9"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-05.jpg"
+        },
+        {
+          "headline": "vLLM-Ascend：昇腾上的 vLLM 插件",
+          "summary": "vLLM-Ascend 是社区维护的 vLLM 华为昇腾硬件插件，推动昇腾上的大模型推理部署。",
+          "primary_url": "https://github.com/vllm-project/vllm-ascend",
+          "importance": 6,
+          "items": [
+            "e6bac844b45f0021"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-06.jpg"
+        },
+        {
+          "headline": "mini-swe-agent：100 行代码攻克 SWE-bench",
+          "summary": "mini-swe-agent 用约 100 行代码实现 AI Agent，在 SWE-bench Verified 上得分超过 74%。",
+          "primary_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "importance": 6,
+          "items": [
+            "70243cbf7821cda4"
+          ],
+          "cover_path": "out/media/2026-11-21/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
