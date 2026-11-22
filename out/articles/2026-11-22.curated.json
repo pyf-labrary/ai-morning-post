@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-22",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Thinking Machines 开源 Inkling 2 Mini，笔记本能跑",
+          "summary": "26.4B 参数的循环式 MoE 模型，激活仅 3.4B，SWE-bench Verified 拿到 79.2%，可在 32GB Mac 或单台 DGX Spark 上运行，HN 热度破千。",
+          "primary_url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+          "importance": 8,
+          "items": [
+            "e365d3d43358fe5e",
+            "921ffbee94feed10",
+            "fdca1ab56427e6cb"
+          ],
+          "cover_path": "out/media/2026-11-22/model_release-00.jpg"
+        },
+        {
+          "headline": "腾讯混元 Hy4 开源，姚顺雨团队回应参数质疑",
+          "summary": "腾讯开源 Hy4，沐曦曦云 C 系列 GPU 完成 Day 0 适配；团队在海外社区 AMA 中称小模型可胜大模型，但仍计划训练更大规模版本。",
+          "primary_url": "https://36kr.com/newsflashes/4078961086764168?f=rss",
+          "importance": 6,
+          "items": [
+            "aac680d0900da140",
+            "5aa06368e3b3fe0b"
+          ]
+        },
+        {
+          "headline": "阿里 Qwen4 Max 上线 Together AI，限时七折",
+          "summary": "阿里旗舰 Qwen4 Max 登陆 Together AI 推理平台，官方演示一次请求提交仓库与 bug 报告即可产出通过测试的补丁，成本 69 美分。",
+          "primary_url": "https://www.together.ai/blog/qwen4-max",
+          "importance": 6,
+          "items": [
+            "89cee964895f2a6e"
+          ],
+          "cover_path": "out/media/2026-11-22/model_release-02.jpg"
+        },
+        {
+          "headline": "OpenAI 发布 GPT-Live-1.1，语音 Agent 待机费降价",
+          "summary": "全双工语音模型改进多语种口音与转写能力，新增 standby 模式将闲置 WebRTC 计费从每分钟 0.05 美元降至 0.02 美元。",
+          "primary_url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+          "importance": 6,
+          "items": [
+            "661253516e959d07"
+          ],
+          "cover_path": "out/media/2026-11-22/model_release-03.jpg"
+        },
+        {
+          "headline": "英伟达开源扩散语言模型 Sigma，解码快 4 倍",
+          "summary": "Nemotron-Labs-Sigma 放出 3B/8B 共 14 个连续扩散语言模型权重，在 16 维嵌入空间去噪，解码速度最高为自回归模型的 4.2 倍。",
+          "primary_url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+          "importance": 6,
+          "items": [
+            "1a1a3cde29bacaae"
+          ]
+        },
+        {
+          "headline": "字节称多数训练阶段可省，开源模型验证观点",
+          "summary": "字节跳动主张大幅精简传统训练流水线，并用一个性能有竞争力的开放模型证明「少即是多」的路线可行。",
+          "primary_url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+          "importance": 6,
+          "items": [
+            "78c694b794cb2b23"
+          ],
+          "cover_path": "out/media/2026-11-22/model_release-05.jpg"
+        },
+        {
+          "headline": "Kling Image 4.0 上线，能自己出设计方案",
+          "summary": "可灵图像模型 4.0 版本发布，强调从需求到设计方案的自动生成能力，进一步压低专业级生图的使用门槛。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+          "importance": 5,
+          "items": [
+            "a75945b225fe6008"
+          ]
+        },
+        {
+          "headline": "Baseten 推出决策模型 Bison-1 与 Groundhog-1",
+          "summary": "基于 Gemma 4 构建的开放权重决策模型，bison-1 在 AA Decision Index v2.1 拿到 76 分，支持 128k 上下文与图像输入。",
+          "primary_url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+          "importance": 5,
+          "items": [
+            "818157d47b842781"
+          ],
+          "cover_path": "out/media/2026-11-22/model_release-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋辞职风波升级，SEC 调查英伟达会计问题",
+          "summary": "Wired 称董事会核心顾虑是黄仁勋「缺乏坦诚」，同时 SEC 对英伟达潜在会计问题展开调查，股价单周重挫 23%，市值蒸发近 9000 亿美元。",
+          "primary_url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+          "importance": 9,
+          "items": [
+            "e8d388eda123e312",
+            "37458e59c8f292ea",
+            "cd684b3a0bae1911"
+          ],
+          "cover_path": "out/media/2026-11-22/company-00.jpg"
+        },
+        {
+          "headline": "AI 概念股集体跳水，纳指创疫情以来最差单周",
+          "summary": "AI 相关股票遭遇恐慌性抛售，三大股指集体大跌；多家华尔街机构认为当前更像牛市中的情绪性回调，而非基本面恶化。",
+          "primary_url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+          "importance": 7,
+          "items": [
+            "0b09fa461db5d7c3",
+            "6b8d9eabf971f911",
+            "9a8a35393ad01b3f"
+          ],
+          "cover_path": "out/media/2026-11-22/company-01.jpg"
+        },
+        {
+          "headline": "Together AI 承认提示词泄露，波及 6–7 月请求",
+          "summary": "官方披露 serverless 推理服务发生安全事件，部分客户在 2026 年 6 月和 7 月提交的提示词被泄露，已启动客户通知。",
+          "primary_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "importance": 6,
+          "items": [
+            "2840a6bf2e6d7780"
+          ],
+          "cover_path": "out/media/2026-11-22/company-02.jpg"
+        },
+        {
+          "headline": "Anthropic 推进 810 亿美元 IPO",
+          "summary": "据 Last Week in AI 汇总，Anthropic 启动规模约 810 亿美元的 IPO，成为本周 AI 资本市场最受关注的动向之一。",
+          "primary_url": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
+          "importance": 6,
+          "items": [
+            "f699b4e877e1a5d5"
+          ],
+          "cover_path": "out/media/2026-11-22/company-03.jpg"
+        },
+        {
+          "headline": "Meta 考虑放弃 2030 净零目标，AI 数据中心排放爆表",
+          "summary": "因 AI 数据中心排放创纪录，Meta 表示正在「重新评估」2030 年可持续发展承诺，外界担忧其他大厂跟进。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "importance": 6,
+          "items": [
+            "39e9a91f395bac17"
+          ],
+          "cover_path": "out/media/2026-11-22/company-04.jpg"
+        },
+        {
+          "headline": "优必选纳入恒生科技指数，预计带来 20 亿港元",
+          "summary": "恒生指数季度检讨结果显示优必选获纳入恒生科技指数成份股，资讯科技业排名第 14，被动资金增量或超 20 亿港元。",
+          "primary_url": "https://36kr.com/newsflashes/4079019737076616?f=rss",
+          "importance": 4,
+          "items": [
+            "56d30da1a99bd451"
+          ]
+        },
+        {
+          "headline": "Daniel Ek 押注 AI 研究者创办的核聚变公司",
+          "summary": "Spotify 创始人 Daniel Ek 投资由 AI 研究者创立的核聚变初创 Europa Fusion，押注 AI 算力背后的能源需求。",
+          "primary_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "importance": 4,
+          "items": [
+            "b0fda737afa387f6"
+          ],
+          "cover_path": "out/media/2026-11-22/company-06.jpg"
+        },
+        {
+          "headline": "芯钬量子完成 A++ 轮，源杰科技独家直投",
+          "summary": "资金将用于工业 AI 与多物理场仿真深度融合，并探索量子计算、光子芯片等前沿场景。",
+          "primary_url": "https://36kr.com/newsflashes/4079020257924233?f=rss",
+          "importance": 4,
+          "items": [
+            "5e4abc25e472bc50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AI 与人类同日攻下黎曼猜想，Lean 完成验证",
+          "summary": "Anthropic 称 Claude 给出黎曼猜想证明数小时后，斯坦福放出全人类作者的对竞争草稿，Lean 社区随后发布形式化验证进展，数学界震动。",
+          "primary_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "importance": 9,
+          "items": [
+            "52e99ef38d9e58cf",
+            "b47e040f2fda7a8f",
+            "b2a6829b521e9b49"
+          ],
+          "cover_path": "out/media/2026-11-22/research-00.jpg"
+        },
+        {
+          "headline": "METR 更新「最被误解的 AI 曲线」",
+          "summary": "新版评估报告显示部分 AI 能力仍沿指数轨迹提升，但在需要判断力的任务上表现明显落后，能力增长并非全面开花。",
+          "primary_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "importance": 6,
+          "items": [
+            "d5a115a508461d04"
+          ],
+          "cover_path": "out/media/2026-11-22/research-01.jpg"
+        },
+        {
+          "headline": "英伟达研究员：超长上下文窗口是条死路",
+          "summary": "研究团队认为一味堆上下文长度既昂贵又低效，主张用检索与结构化记忆替代「把所有东西塞进 prompt」。",
+          "primary_url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+          "importance": 6,
+          "items": [
+            "bc50d3f18e934e0d"
+          ],
+          "cover_path": "out/media/2026-11-22/research-02.jpg"
+        },
+        {
+          "headline": "论文：语言模型可以改写自己的权重",
+          "summary": "一篇登上 HN 热榜的 arXiv 论文提出让模型在推理阶段直接重写自身权重，绕过传统梯度更新，引发对自进化与安全边界的讨论。",
+          "primary_url": "https://arxiv.org/abs/2611.21885",
+          "importance": 5,
+          "items": [
+            "7eadc93c1b041415"
+          ],
+          "cover_path": "out/media/2026-11-22/research-03.jpg"
+        },
+        {
+          "headline": "形式化验证成对抗 AI 垃圾内容的新武器",
+          "summary": "Latent Space 长文梳理 AI + Lean 如何把「用数学证明软件正确」从专家手艺变成可自动化流程。",
+          "primary_url": "https://latent.space/p/formal-verification/",
+          "importance": 5,
+          "items": [
+            "9d294d8db25e4aac"
+          ],
+          "cover_path": "out/media/2026-11-22/research-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Signal 禁止手机截图，防 AI 监控私人聊天",
+          "summary": "Signal 在 Android 与 iOS 端限制截图功能，直言 AI 监控是「生存威胁」，试图阻断 agent 读取用户私聊的路径。",
+          "primary_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "importance": 7,
+          "items": [
+            "4ad03007c6a0d0f6",
+            "7993f164ad4660e5"
+          ],
+          "cover_path": "out/media/2026-11-22/product-00.jpg"
+        },
+        {
+          "headline": "Google 搜索首页改版：取消搜索按钮，加 AI 侧栏",
+          "summary": "新版搜索页大幅前置 AI 入口，新增 AI 聊天历史与侧边栏，搜索引擎进一步向对话式助手演进。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+          "importance": 6,
+          "items": [
+            "89318604a48fd6b6"
+          ],
+          "cover_path": "out/media/2026-11-22/product-01.jpg"
+        },
+        {
+          "headline": "Gemini 能在后台替你操作 Mac 应用",
+          "summary": "Google 让 Gemini 接管桌面端任务，可在你继续工作的同时于后台操作 Mac 应用、完成杂活。",
+          "primary_url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+          "importance": 6,
+          "items": [
+            "f71c235f79b9f2a0"
+          ],
+          "cover_path": "out/media/2026-11-22/product-02.jpg"
+        },
+        {
+          "headline": "马斯克：FSD V15 下月全量推送",
+          "summary": "马斯克称 FSD V15 将于下个月全面推送，并再次批评 SFT 与系统提示词是「用电锯理发」式的多余流程。",
+          "primary_url": "https://36kr.com/newsflashes/4079212995089289?f=rss",
+          "importance": 5,
+          "items": [
+            "331c1c8e8c40f15b"
+          ]
+        },
+        {
+          "headline": "OpenAI 给 GPT-6.2 用户发提示词攻略",
+          "summary": "针对 Astra 与 Sol 两个版本回答过短、爱反问的问题，OpenAI 发布新的提示词技巧，教用户把输出调到位。",
+          "primary_url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+          "importance": 5,
+          "items": [
+            "4e1084df9e2d2730"
+          ],
+          "cover_path": "out/media/2026-11-22/product-04.jpg"
+        },
+        {
+          "headline": "住进短信里的 AI Agent 大盘点",
+          "summary": "TechCrunch 整理了能在 iMessage、短信中运行的 AI 助手，覆盖通用助理、家庭、旅行与办公场景。",
+          "primary_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "importance": 5,
+          "items": [
+            "91674699f584c530"
+          ],
+          "cover_path": "out/media/2026-11-22/product-05.jpg"
+        },
+        {
+          "headline": "演员把脸卖给 AI 微短剧，好莱坞要不要跟",
+          "summary": "一家微短剧公司买下演员的 AI 肖像授权，这一在中国已流行的模式正试探好莱坞，专家担忧长期后果。",
+          "primary_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+          "importance": 5,
+          "items": [
+            "98a6e4e58058e9ed"
+          ],
+          "cover_path": "out/media/2026-11-22/product-06.jpg"
+        },
+        {
+          "headline": "Google Stitch Loop：会修 bug 还会盯指标的 agent",
+          "summary": "Product Hunt 上线的 Stitch Loop 主打自动提交修复并持续监控上线后的关键指标。",
+          "primary_url": "https://www.producthunt.com/products/stitch-loop",
+          "importance": 4,
+          "items": [
+            "86542008c6af7c49"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "200 万个「金丝雀」扒开 AI 供应链隐私黑洞",
+          "summary": "研究者把带追踪标记的提示词投入 AI 供应链，结果证明用户数据在不同服务商之间高频外泄，隐私风险远超预期。",
+          "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "importance": 6,
+          "items": [
+            "39176ef2b1a7c623"
+          ],
+          "cover_path": "out/media/2026-11-22/opinion-00.jpg"
+        },
+        {
+          "headline": "硅谷 AI 末日论，正在变成一种邪教",
+          "summary": "The Decoder 观察到部分科技从业者对 AI 末日的执念已带上宗教色彩，出现类似教派的组织与仪式化行为。",
+          "primary_url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+          "importance": 5,
+          "items": [
+            "a92e133d25bc4535"
+          ],
+          "cover_path": "out/media/2026-11-22/opinion-01.jpg"
+        },
+        {
+          "headline": "宕机才刚开始：AI 正在压垮打补丁的速度",
+          "summary": "Wired 认为攻击者利用新漏洞的速度已被 AI 加速，企业被迫以更快节奏修复系统，互联网正进入长期宕机高发期。",
+          "primary_url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+          "importance": 5,
+          "items": [
+            "d869c52757f625d0"
+          ],
+          "cover_path": "out/media/2026-11-22/opinion-02.jpg"
+        },
+        {
+          "headline": "Google 员工请愿：别惩罚拒绝 AI 的学校",
+          "summary": "Google 与 Alphabet 工会成员联署，要求公司不要因学区不愿引入 Gemini 等 AI 工具而施加报复。",
+          "primary_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+          "importance": 5,
+          "items": [
+            "4ba326da1f940a04"
+          ],
+          "cover_path": "out/media/2026-11-22/opinion-03.jpg"
+        },
+        {
+          "headline": "AI 正在给所有人同一条人生建议",
+          "summary": "一篇 HN 热帖实验显示，不同人向 AI 咨询同一类问题，得到的建议高度同质化，引发对观点多样性的担忧。",
+          "primary_url": "https://a90.com/experiments/same-advice/",
+          "importance": 4,
+          "items": [
+            "fffee9c9f9e26a8a"
+          ],
+          "cover_path": "out/media/2026-11-22/opinion-04.jpg"
+        },
+        {
+          "headline": "Stratechery 周报：DC 之行与 Agent 之争",
+          "summary": "Ben Thompson 本周梳理了围绕 agent 的路线争论、例外主义叙事，以及华盛顿政策圈的动向。",
+          "primary_url": "https://stratechery.com/2026/down-in-dc/",
+          "importance": 3,
+          "items": [
+            "25153d72ae59c108"
+          ],
+          "cover_path": "out/media/2026-11-22/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "华为云开源具身世界模型 CloudRobo-WM1.2",
+          "summary": "昇腾原生具身世界模型开源，官方称两项评测均列第一，为机器人世界模型提供国产软硬一体方案。",
+          "primary_url": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&utm_medium=article",
+          "importance": 6,
+          "items": [
+            "0d7f2b4a7ca8682a"
+          ],
+          "cover_path": "out/media/2026-11-22/opensource-00.jpg"
+        },
+        {
+          "headline": "Google 开源 PaperOrchestra：多智能体自动写论文",
+          "summary": "google-research 发布多智能体框架，把 AI 研究论文的写作流程拆解编排出自动化流水线。",
+          "primary_url": "https://github.com/google-research/paper-orchestra",
+          "importance": 5,
+          "items": [
+            "e2ee50da1d71c079"
+          ],
+          "cover_path": "out/media/2026-11-22/opensource-01.jpg"
+        },
+        {
+          "headline": "100 行代码的 mini-swe-agent，SWE-bench 超 74%",
+          "summary": "SWE-agent 团队给出极简实现，无庞大配置与巨型仓库，却仍在 SWE-bench verified 上超过 74%。",
+          "primary_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "importance": 5,
+          "items": [
+            "70243cbf7821cda4"
+          ],
+          "cover_path": "out/media/2026-11-22/opensource-02.jpg"
+        },
+        {
+          "headline": "港大 CLI-Anything：让所有软件「Agent 原生」",
+          "summary": "HKUDS 推出 CLI-Hub 项目，试图把任意软件包装成 agent 可直接调用的命令行接口。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 5,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-11-22/opensource-03.jpg"
+        },
+        {
+          "headline": "superpowers：给编码 Agent 的一整套开发方法论",
+          "summary": "obra 发布可组合技能框架，把软件工程方法论固化为一组技能，让 Claude Code 等编码 agent 照着流程干活。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 5,
+          "items": [
+            "93908f3f02cc79af"
+          ]
+        },
+        {
+          "headline": "Cursor 开源官方插件规范与首批插件",
+          "summary": "Cursor 发布插件规范与官方插件仓库，为开发者工具、框架和 SaaS 提供标准化接入方式。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "importance": 5,
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "cover_path": "out/media/2026-11-22/opensource-05.jpg"
+        },
+        {
+          "headline": "OpenComputer：可自托管的开源版 Devin",
+          "summary": "团队把 agent 执行框架与沙箱跑在同一环境，支持部署在自有 AWS/GCP/Azure 账号内。",
+          "primary_url": "https://github.com/diggerhq/opencomputer",
+          "importance": 5,
+          "items": [
+            "2773d0656beaec58"
+          ],
+          "cover_path": "out/media/2026-11-22/opensource-06.jpg"
+        },
+        {
+          "headline": "heretic：免训练给模型「去审查」",
+          "summary": "新工具声称无需训练即可修改语言模型行为，可移除审查、压制废话输出并降低谄媚倾向。",
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "importance": 4,
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "cover_path": "out/media/2026-11-22/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
