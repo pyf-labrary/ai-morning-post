@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-23",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "GPT-6.2 Astra 与 Sol 上线：答得更快，透明度却不如 Claude",
+          "summary": "The Decoder 对 OpenAI 新一代 GPT-6.2 的两个变体 Astra 与 Sol 做了对比评测：回答更直接、铺垫更少，但在可解释性与透明度上落后于 Claude。",
+          "primary_url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+          "importance": 7,
+          "items": [
+            "3895bb242fdbaf73"
+          ],
+          "cover_path": "out/media/2026-11-23/model_release-00.jpg"
+        },
+        {
+          "headline": "英伟达发布 Alpamayo 2 Edge：2B 车载推理 VLA",
+          "summary": "面向 DRIVE AGX Thor 的 2B 级视觉-语言-动作模型，可输出行驶轨迹并给出解释，像素到轨迹延迟约 160–190 毫秒。",
+          "primary_url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+          "importance": 6,
+          "items": [
+            "2a303314b84f1c30"
+          ],
+          "cover_path": "out/media/2026-11-23/model_release-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 创纪录 IPO 落地，上市首日 Claude 却降级",
+          "summary": "Anthropic 完成创纪录 IPO，Notable Capital、GIC、Baillie Gifford 等早期大额投资方现身说法；但上市当天 Claude 出现性能降级，市场对 AI 高估值的悲观情绪并未扭转。",
+          "primary_url": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA",
+          "importance": 9,
+          "items": [
+            "8f7f7e79ced26777",
+            "2d4fbdadc53f53b5"
+          ],
+          "cover_path": "out/media/2026-11-23/company-00.jpg"
+        },
+        {
+          "headline": "DeepSeek 第二轮千亿融资落地，31 家出资方入局",
+          "summary": "据雷锋网早报，DeepSeek 第二轮千亿级融资完成，共有 31 家机构出资，为年内国产大模型最大规模融资之一。",
+          "primary_url": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+          "importance": 7,
+          "items": [
+            "0fc258863240c5ef"
+          ]
+        },
+        {
+          "headline": "AI 抛售潮蔓延亚洲，新兴市场股指抹平全年涨幅",
+          "summary": "MSCI 新兴市场指数八连跌并较 6 月高点回撤逾 20% 进入技术性熊市，港股 MINIMAX、智谱跌超 6%，韩国 KOSPI 一度跌 4%，三星、SK 海力士领跌。",
+          "primary_url": "https://36kr.com/newsflashes/4081686973485954",
+          "importance": 7,
+          "items": [
+            "413f35232c3b7e38",
+            "fcfe3574840efba4",
+            "d64d2f08b980dd9c"
+          ]
+        },
+        {
+          "headline": "特朗普松口：Blackwell 可有条件对华销售",
+          "summary": "特朗普表态允许英伟达 Blackwell 芯片对华销售，但附带条件，具体限制尚未公开。",
+          "primary_url": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+          "importance": 6,
+          "items": [
+            "0fc258863240c5ef"
+          ]
+        },
+        {
+          "headline": "蚂蚁集团入股微面科技，加注 AI 基础软件",
+          "summary": "北京微面科技发生工商变更，蚂蚁集团旗下上海云玚及首形科技等成为新股东，注册资本增至约 139.8 万元。",
+          "primary_url": "https://36kr.com/newsflashes/4081687852602244",
+          "importance": 3,
+          "items": [
+            "a45020acf75d8fca"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "Lean 社区正式确认黎曼猜想证明成立",
+          "summary": "Lean 与 Mathlib 社区确认 Levent Alpöge 的黎曼猜想证明在形式化系统中通过验证，Hacker News 讨论超 1200 分；相关证明工作由 Anthropic 数学家借助 Claude 推进，另留下 940 页纯人类手稿。",
+          "primary_url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "importance": 9,
+          "items": [
+            "b2a6829b521e9b49",
+            "4ac3cc825e63b7bc",
+            "257107332842b74d"
+          ],
+          "cover_path": "out/media/2026-11-23/research-00.jpg"
+        },
+        {
+          "headline": "编码 agent 单测封神，真实职场任务完成不足一成",
+          "summary": "在模拟真实办公环境的评测中，AI 编码 agent 在隔离测试里表现优异，但端到端任务完成率不到 10%，暴露出长链路、多工具协作的短板。",
+          "primary_url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+          "importance": 7,
+          "items": [
+            "355aaf1d28750129"
+          ],
+          "cover_path": "out/media/2026-11-23/research-01.jpg"
+        },
+        {
+          "headline": "廉价推理服务商被曝偷密钥、偷看用户数据",
+          "summary": "安全研究者展示了低成本 AI 推理服务商如何截取 API 密钥、窥探请求内容；OpenRouter 与 Dragos 的 canary token 实验也从侧面印证了推理供应链的数据风险。",
+          "primary_url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+          "importance": 7,
+          "items": [
+            "73d33c4fc1444bb9",
+            "2e0bad74cdc39437",
+            "d691937afe8a1764"
+          ],
+          "cover_path": "out/media/2026-11-23/research-02.jpg"
+        },
+        {
+          "headline": "METR 警告：模型进步快过安全评测能力",
+          "summary": "METR 报告称 AI 能力提升速度已超过专家可靠评估新系统安全性的速度，现有评测流程难以支撑部署前的风险判断。",
+          "primary_url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+          "importance": 6,
+          "items": [
+            "7bcc8a62e7a8313b"
+          ],
+          "cover_path": "out/media/2026-11-23/research-03.jpg"
+        },
+        {
+          "headline": "英伟达研究者：超长上下文是一条死路",
+          "summary": "英伟达研究团队撰文质疑一味扩大上下文窗口的路线，认为检索与结构化记忆才是处理长文档的更优解。",
+          "primary_url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+          "importance": 6,
+          "items": [
+            "bc50d3f18e934e0d"
+          ],
+          "cover_path": "out/media/2026-11-23/research-04.jpg"
+        },
+        {
+          "headline": "TensorLean 形式化验证 GPU kernel，揪出 38 个 bug",
+          "summary": "哥伦比亚大学与 CertiK 提出 TensorLean，在 PTX 层用 Lean 验证生产级 GPU kernel，检查 149 个实例、证成 83 个，并在 FlashAttention、DeepGEMM 等中发现 38 个缺陷。",
+          "primary_url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+          "importance": 5,
+          "items": [
+            "a4f5030c1559c201"
+          ],
+          "cover_path": "out/media/2026-11-23/research-05.jpg"
+        },
+        {
+          "headline": "LLM 在冲突情境中的道德判断对男性更苛刻？",
+          "summary": "一篇 arXiv 论文评测 LLM 在性别不对称的道德框架下判断是否一致，发现模型对男性角色的评价普遍更严厉。",
+          "primary_url": "https://arxiv.org/abs/2606.14068",
+          "importance": 3,
+          "items": [
+            "67d7f5a59b6f26f3"
+          ],
+          "cover_path": "out/media/2026-11-23/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Perplexity 推出 Monitor API，搜索变常驻哨兵",
+          "summary": "新 API 把一次性网页搜索升级为持续监控：设定主题后自动反复检索并在出现变化时通知，面向需要长期盯盘的业务场景。",
+          "primary_url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+          "importance": 6,
+          "items": [
+            "96a1a197933a9ac3"
+          ],
+          "cover_path": "out/media/2026-11-23/product-00.jpg"
+        },
+        {
+          "headline": "Gemini API 上线工具检索，大工具库按需加载",
+          "summary": "Google 预览 Gemini API 的 Tool Retrieval：agent 可常备大规模工具库，仅在需要时加载对应参数 schema，且在一次 Interactions API 请求内完成。",
+          "primary_url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+          "importance": 6,
+          "items": [
+            "e283e561801f5ec5"
+          ],
+          "cover_path": "out/media/2026-11-23/product-01.jpg"
+        },
+        {
+          "headline": "Signal 限制手机截图，直指 AI 监控威胁",
+          "summary": "Signal 在 Android 与 iOS 客户端限制截图功能，称面对 AI 驱动的监控浪潮，私密通讯正遭遇“生存级威胁”。",
+          "primary_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "importance": 6,
+          "items": [
+            "4ad03007c6a0d0f6"
+          ],
+          "cover_path": "out/media/2026-11-23/product-02.jpg"
+        },
+        {
+          "headline": "美国大银行封杀第三方 AI agent 登录",
+          "summary": "多家美国大型金融机构禁止第三方机器人登录用户账户，并提示由 bot 操作导致的损失由用户自行承担。",
+          "primary_url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+          "importance": 6,
+          "items": [
+            "10aa3d998461217b"
+          ],
+          "cover_path": "out/media/2026-11-23/product-03.jpg"
+        },
+        {
+          "headline": "传 OpenAI 入局智能手机赛道",
+          "summary": "雷锋网早报援引消息称 OpenAI 正被曝进入智能手机硬件领域，具体形态与合作方尚未披露。",
+          "primary_url": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+          "importance": 5,
+          "items": [
+            "0fc258863240c5ef"
+          ]
+        },
+        {
+          "headline": "AWS 推出 TorchNeuron，PyTorch 模型零改动跑上 Trainium",
+          "summary": "亚马逊云科技发布 TorchNeuron，开发者无需修改代码即可在 AWS Trainium 上运行 PyTorch 模型。",
+          "primary_url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY",
+          "importance": 5,
+          "items": [
+            "7648118e5fd782d0"
+          ],
+          "cover_path": "out/media/2026-11-23/product-05.jpg"
+        },
+        {
+          "headline": "个人 AI agent 横评：记忆、安全、成本谁更强",
+          "summary": "TechCrunch 与 Marktechpost 同期盘点常驻短信、桌面的个人 agent 产品，从记忆能力、安全默认值与真实使用成本三个维度对比 OpenClaw、Hermes、Gemini Spark、OpenAI dots 等。",
+          "primary_url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+          "importance": 4,
+          "items": [
+            "ec91631164bd7671",
+            "91674699f584c530"
+          ],
+          "cover_path": "out/media/2026-11-23/product-06.jpg"
+        },
+        {
+          "headline": "玩个游戏：你就是 LLM 的 subagent",
+          "summary": "开发者做了一个让玩家扮演大模型子代理、在指令与工具之间完成任务的游戏，Hacker News 讨论近 300 分。",
+          "primary_url": "https://github.com/gulivan/worker755",
+          "importance": 3,
+          "items": [
+            "6e939f26823081a0"
+          ],
+          "cover_path": "out/media/2026-11-23/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI 想给 AI 发展装限速器，先统一“速度表”",
+          "summary": "OpenAI 发文主张用困惑度等指标建立模型能力的共同评估语言，首席科学家 Pachocki 谈如何为 AI 发展设定速度上限；微软苏莱曼表态支持，并公开 MAI-2 在 OpenAI 评估集上困惑度 0.819，与 GPT-5.6 Sol 接近。",
+          "primary_url": "https://openai.com/index/perplexity-and-intelligence",
+          "importance": 8,
+          "items": [
+            "d6b999411788c3bf",
+            "0e4b4456d8a045a0",
+            "be287f956b2a0d39"
+          ],
+          "cover_path": "out/media/2026-11-23/opinion-00.jpg"
+        },
+        {
+          "headline": "数据中心成了大科技反弹的靶心",
+          "summary": "TechCrunch 访谈《Hyperscale》作者 Paris Marx，剖析数据中心为何成为反大科技情绪的焦点；另有测算显示 2028 年 Anthropic 用电 87% 来自天然气、11% 来自煤电。",
+          "primary_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "importance": 7,
+          "items": [
+            "bcb64cc76bffbdb2",
+            "fbb65d7732284142",
+            "0f09be3efcd5abda"
+          ],
+          "cover_path": "out/media/2026-11-23/opinion-01.jpg"
+        },
+        {
+          "headline": "四部门发文：鼓励养老场景 AI 与机器人",
+          "summary": "发改委、民政部、卫健委、教育部印发“一老一小”服务体系建设实施方案，鼓励发展养老场景的 AI 智能体、服务机器人、智能穿戴与外骨骼，并设体验区。",
+          "primary_url": "https://36kr.com/newsflashes/4081700061893507",
+          "importance": 4,
+          "items": [
+            "a73ea7ea70cd26c8"
+          ]
+        },
+        {
+          "headline": "硅谷的 AI 末日论，正在变成一种类宗教",
+          "summary": "The Decoder 观察到硅谷对 AI 末日的执念正演化为带有邪教色彩的信仰体系，影响部分从业者的判断与技术路线选择。",
+          "primary_url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+          "importance": 5,
+          "items": [
+            "a92e133d25bc4535"
+          ],
+          "cover_path": "out/media/2026-11-23/opinion-03.jpg"
+        },
+        {
+          "headline": "两个英伟达：财报里的与高管嘴里的",
+          "summary": "TechCrunch 对比英伟达最新财报与科技高管公开喊话所呈现的两种叙事，指出市场对英伟达的预期已经出现分裂。",
+          "primary_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "importance": 5,
+          "items": [
+            "9a8a35393ad01b3f"
+          ],
+          "cover_path": "out/media/2026-11-23/opinion-04.jpg"
+        },
+        {
+          "headline": "智能体身份要国际标准化了",
+          "summary": "AICon 北京议题聚焦智能体身份的国际标准体系布局与研制实践，涉及跨平台 agent 互认与权限边界。",
+          "primary_url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C",
+          "importance": 4,
+          "items": [
+            "efae554cb861f5b8"
+          ],
+          "cover_path": "out/media/2026-11-23/opinion-05.jpg"
+        },
+        {
+          "headline": "硅谷到底怎么了？",
+          "summary": "Tim O'Reilly 平台刊文反思硅谷的价值观漂移与创新叙事失灵，Hacker News 讨论超 400 分。",
+          "primary_url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+          "importance": 4,
+          "items": [
+            "d0cc8116d8df2096"
+          ],
+          "cover_path": "out/media/2026-11-23/opinion-06.jpg"
+        },
+        {
+          "headline": "有意识 AI 的神话",
+          "summary": "Noema 长文拆解“AI 意识”叙事的哲学与商业来源，提醒公众警惕拟人化话术。",
+          "primary_url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+          "importance": 3,
+          "items": [
+            "95dcd998f28ab071"
+          ],
+          "cover_path": "out/media/2026-11-23/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "Inkling-2-Mini 塞进 5.4GB 内存跑起来",
+          "summary": "有开发者展示在 5.4GB 内存内运行 Inkling-2-Mini 的量化方案，Hacker News 讨论超 580 分，并带动本地 AI 入门指南热度。",
+          "primary_url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+          "importance": 6,
+          "items": [
+            "0ad8ecae39c2b33c",
+            "6b4a8e7294e007c1"
+          ],
+          "cover_path": "out/media/2026-11-23/opensource-00.jpg"
+        },
+        {
+          "headline": "100 行代码的 agent，SWE-bench 破 74%",
+          "summary": "SWE-agent 团队推出 mini-swe-agent，用约 100 行代码实现 GitHub issue 自动修复，在 SWE-bench verified 上得分超过 74%。",
+          "primary_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "importance": 6,
+          "items": [
+            "70243cbf7821cda4"
+          ],
+          "cover_path": "out/media/2026-11-23/opensource-01.jpg"
+        },
+        {
+          "headline": "FreeVideo：8GB 显存本地跑 MiniMax H3 出片",
+          "summary": "FlashML 开源 FreeVideo，最低 8GB 显存 + 16GB 内存即可在本地运行 MiniMax H3 生成视频，并按硬件自适应加速路径。",
+          "primary_url": "https://github.com/FlashML-org/FreeVideo",
+          "importance": 5,
+          "items": [
+            "41fa6b42e36f62e8"
+          ],
+          "cover_path": "out/media/2026-11-23/opensource-02.jpg"
+        },
+        {
+          "headline": "superpowers：给编码 agent 一套开发方法论",
+          "summary": "obra/superpowers 提供可组合的 agent skills 框架与完整软件开发方法论，让 Claude Code 等编码 agent 按流程推进任务。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 5,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-11-23/opensource-03.jpg"
+        },
+        {
+          "headline": "minimind：两小时从零训出 64M 小模型",
+          "summary": "开源项目 minimind 让初学者在两小时内从零训练一个 64M 参数的小语言模型，适合教学与实验。",
+          "primary_url": "https://github.com/jingyaogong/minimind",
+          "importance": 5,
+          "items": [
+            "013d91aa0c19339e"
+          ]
+        },
+        {
+          "headline": "CLI-Anything：让所有软件对 agent 原生可用",
+          "summary": "港大数据智能实验室开源 CLI-Anything，通过 CLI-Hub 把传统软件封装成 agent 可直接调用的原生命令接口。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 4,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-11-23/opensource-05.jpg"
+        },
+        {
+          "headline": "firecrawl：给 agent 的网页抓取基础设施",
+          "summary": "firecrawl 提供统一 API，可搜索、抓取并接入 550+ 数据源，用于为 agent 构建知识输入。",
+          "primary_url": "https://github.com/firecrawl/firecrawl",
+          "importance": 4,
+          "items": [
+            "9d85b086ba78ffc9"
+          ],
+          "cover_path": "out/media/2026-11-23/opensource-06.jpg"
+        },
+        {
+          "headline": "vLLM 昇腾插件登上趋势榜",
+          "summary": "社区维护的 vLLM 昇腾硬件插件进入 GitHub Python 趋势榜，让华为 Ascend 平台可直接承接 vLLM 推理栈。",
+          "primary_url": "https://github.com/vllm-project/vllm-ascend",
+          "importance": 4,
+          "items": [
+            "e6bac844b45f0021"
+          ],
+          "cover_path": "out/media/2026-11-23/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
