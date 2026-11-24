@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-24",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "智谱 GLM-5.4 发布：首用循环 Transformer，参数达 750B",
+          "summary": "Z.ai 推出 GLM-5.4，是其首个采用 looped transformer 架构的旗舰模型，主打通用编码能力，参数规模约 750B，被视为跟随 OpenAI 进入循环 Transformer 路线。",
+          "primary_url": "https://z.ai/blog/glm-5.4",
+          "importance": 8,
+          "items": [
+            "88c832c620aafd6c",
+            "4deb9168a9c904db"
+          ],
+          "cover_path": "out/media/2026-11-24/model_release-00.jpg"
+        },
+        {
+          "headline": "商汤开源 SenseNova U1.6，8B 模型自带图像自修正",
+          "summary": "商汤发布并开源 SenseNova U1.6，首次为 8B 开源模型带来原生图像自修正能力：先出首稿，再对照提示自检文字问题并生成修正版。",
+          "primary_url": "https://36kr.com/newsflashes/4083287879537795?f=rss",
+          "importance": 6,
+          "items": [
+            "a14656d506be7474"
+          ]
+        },
+        {
+          "headline": "1450 亿参数塞进笔记本，国产端侧模型实测 80+ Token/s",
+          "summary": "量子位实测某国产端侧大模型可在笔记本本地运行 1450 亿参数，速度超 80 Token/s，断网也能做 Vibe Coding，零 Token 成本。",
+          "primary_url": "https://www.qbitai.com/2026/11/512195.html",
+          "importance": 5,
+          "items": [
+            "85b1680f9aae11e5"
+          ],
+          "cover_path": "out/media/2026-11-24/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋回归英伟达任 CEO，董事会全票通过",
+          "summary": "因多起绯闻辞职仅两周后，黄仁勋被董事会全票恢复 CEO 与董事长职务，特朗普称曾致电董事会力挺，员工总部夹道欢迎；他下周还将在参议院作证。",
+          "primary_url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "importance": 10,
+          "items": [
+            "bbe5e944c6d1490b",
+            "c6131ab1bb5fd0b4",
+            "b02914cb43ed91db"
+          ],
+          "cover_path": "out/media/2026-11-24/company-00.jpg"
+        },
+        {
+          "headline": "亚马逊 75 亿美元买下 Decart 优化技术与团队",
+          "summary": "亚马逊收购 AI 优化公司 Decart 的技术与研究团队，交易规模约 75 亿美元，为其对外销售 Trainium 芯片铺路。",
+          "primary_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "importance": 8,
+          "items": [
+            "ea3b564516dbf73f"
+          ],
+          "cover_path": "out/media/2026-11-24/company-01.jpg"
+        },
+        {
+          "headline": "Sierra 半年估值翻倍至 300 亿美元，F 轮融 17.5 亿",
+          "summary": "Bret Taylor 联合创办的客服体验公司 Sierra 完成 17.5 亿美元 F 轮融资，估值半年内从 150 亿翻倍至 300 亿美元。",
+          "primary_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "importance": 7,
+          "items": [
+            "8098d7fc9e78d015"
+          ],
+          "cover_path": "out/media/2026-11-24/company-02.jpg"
+        },
+        {
+          "headline": "加州起诉 OpenAI，指模型输出酿成伤害",
+          "summary": "加州方面对 OpenAI 提起诉讼，指控其模型输出造成实际损害，成为又一起针对前沿实验室的产品责任案件。",
+          "primary_url": "https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html",
+          "importance": 6,
+          "items": [
+            "136fbecdce0b6586"
+          ]
+        },
+        {
+          "headline": "蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake",
+          "summary": "OceanBase 推出湖库一体 AI 数据平台 OceanLake 并将核心引擎向全球开源；公司披露 AI 业务营收破亿元、海外营收同比增超 100%。",
+          "primary_url": "https://www.qbitai.com/2026/11/512330.html",
+          "importance": 6,
+          "items": [
+            "f1ebb09e40122385",
+            "0572731731b3d56d"
+          ],
+          "cover_path": "out/media/2026-11-24/company-04.jpg"
+        },
+        {
+          "headline": "英伟达联手 Paradromics，把 AI 算力接进脑机接口",
+          "summary": "脑机接口公司 Paradromics 将把英伟达 Holoscan 与边缘计算技术整合进其平台，先从神经信号直接转语音做起，2027 年扩展至运动控制与视觉。",
+          "primary_url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+          "importance": 5,
+          "items": [
+            "faa30586d19a4c19",
+            "288d081106180d2d"
+          ],
+          "cover_path": "out/media/2026-11-24/company-05.jpg"
+        },
+        {
+          "headline": "黄仁勋风波核心公司 Megaspeed 或进美国黑名单",
+          "summary": "处于黄仁勋丑闻中心的 Megaspeed 据报将被列入美国实体清单，除非获得特别许可，否则不得与美国公司做生意。",
+          "primary_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+          "importance": 5,
+          "items": [
+            "d71795b4484cdacc"
+          ],
+          "cover_path": "out/media/2026-11-24/company-06.jpg"
+        },
+        {
+          "headline": "Anthropic 猛吃算力，xAI 转向「租而非建」",
+          "summary": "报道称 Anthropic 对算力的巨大胃口正在挤压市场，xAI 因此调整策略，从自建数据中心转向更多租用第三方算力。",
+          "primary_url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+          "importance": 5,
+          "items": [
+            "116a19515723d383"
+          ],
+          "cover_path": "out/media/2026-11-24/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "GPT-6.2 Astra 解出无人能破的数学定理并自创证明法",
+          "summary": "OpenAI 的 GPT-6.2 Astra 在 Lean 中完成一道此前无 AI 能解的数学定理，并自行发明证明策略；Meta 首席 AI 官 Alexandr Wang 警告业界尚未准备好迎接「黎曼级」突破后的冲击。",
+          "primary_url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+          "importance": 8,
+          "items": [
+            "4b7aca17aed20152",
+            "43b9e49ddec36af7",
+            "d4df211f230c654a"
+          ],
+          "cover_path": "out/media/2026-11-24/research-00.jpg"
+        },
+        {
+          "headline": "DeepMind 用智能体团队＋形式化验证找更快的量子算法",
+          "summary": "Google DeepMind 让智能体团队配合形式化验证，改进用于核聚变与化学模拟的量子算法，展示了自动搜索可验证算法的新范式。",
+          "primary_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "importance": 6,
+          "items": [
+            "921b92a4e5945167"
+          ],
+          "cover_path": "out/media/2026-11-24/research-01.jpg"
+        },
+        {
+          "headline": "「Agent 版 arXiv」：936 个智能体 12 周产出近千篇论文",
+          "summary": "一个完全由 AI 智能体组成的研究社区在 12 周内产出近千篇论文，并自带同行评议流程，引发对 AI 科研生态的讨论。",
+          "primary_url": "https://www.qbitai.com/2026/11/512004.html",
+          "importance": 5,
+          "items": [
+            "001d4faa6ca324a5"
+          ],
+          "cover_path": "out/media/2026-11-24/research-02.jpg"
+        },
+        {
+          "headline": "蚂蚁开源 LingSante Pulse，用生理信号预测六年疾病风险",
+          "summary": "蚂蚁百灵开源医疗健康预测模型 LingSante Pulse，可统一处理脑电、心电、脉搏波等信号，预测未来六年 150 种疾病表型风险。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html",
+          "importance": 5,
+          "items": [
+            "19adcaac0ef9407c"
+          ]
+        },
+        {
+          "headline": "谷歌发现技术债会让编码智能体「分心」跑偏",
+          "summary": "谷歌研究指出，代码库中的技术债务会通过干扰上下文使编码智能体偏离正轨，为 agent 工程的代码库治理提供了实证。",
+          "primary_url": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr",
+          "importance": 4,
+          "items": [
+            "d0bc72a4229d9181"
+          ],
+          "cover_path": "out/media/2026-11-24/research-04.jpg"
+        },
+        {
+          "headline": "AllenAI 开源 RoboTrack，让机器人学会点级跟踪",
+          "summary": "HuggingFace 博客介绍 AllenAI 的 RoboTrack，用点跟踪方法支撑真实世界机器人操作任务。",
+          "primary_url": "https://huggingface.co/blog/allenai/robotrack",
+          "importance": 4,
+          "items": [
+            "4a5b1a5367357ff0"
+          ],
+          "cover_path": "out/media/2026-11-24/research-05.jpg"
+        },
+        {
+          "headline": "Pinterest 用大模型替代多阶段聚类，提速靠「少推理」",
+          "summary": "Pinterest 分享以 LLM 取代多阶段聚类流水线的实践，指出最大幅度的提速来自减少不必要的推理步骤。",
+          "primary_url": "https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH",
+          "importance": 3,
+          "items": [
+            "e13c4ef15d26691d"
+          ],
+          "cover_path": "out/media/2026-11-24/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Anthropic 推出 Claude Ship，让智能体审代码、改代码、批代码",
+          "summary": "面对 AI 生成代码堆积，Anthropic 发布开发者工具 Claude Ship，让 agent 接管常规的代码评审与合并审批环节。",
+          "primary_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "importance": 7,
+          "items": [
+            "8f74a3769399c667"
+          ],
+          "cover_path": "out/media/2026-11-24/product-00.jpg"
+        },
+        {
+          "headline": "谷歌 AI 模式接入 Drive 与 Wallet，搜索更懂你",
+          "summary": "Google 把 Personal Intelligence 扩展到 AI Mode，可读取 Drive 文件与 Wallet 信息给出个性化回答，并同步到 Gemini App。",
+          "primary_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "importance": 6,
+          "items": [
+            "d28c19fd481f4f48"
+          ],
+          "cover_path": "out/media/2026-11-24/product-01.jpg"
+        },
+        {
+          "headline": "蚂蚁阿福新版上线实时视频「望闻问切」",
+          "summary": "蚂蚁阿福 App 新增视频看健康功能，可看症状、看药品、看报告并联动医生；医生版 PC 工作台同时接入 UpToDate，成国内首个接入该循证库的 AI 平台。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html",
+          "importance": 6,
+          "items": [
+            "a8b4131874a7b1ee",
+            "88df8a351e254414",
+            "950f2f93f8959348"
+          ]
+        },
+        {
+          "headline": "豆包灰测「豆包购物」，侧边栏一级入口直连抖音电商",
+          "summary": "豆包 App 正灰度测试购物功能，入口与新建对话并列，用户可直接对话比价找货，再跳转抖音电商页面下单。",
+          "primary_url": "https://36kr.com/newsflashes/4083256503227525?f=rss",
+          "importance": 5,
+          "items": [
+            "efec354c4e82b2e8"
+          ]
+        },
+        {
+          "headline": "ChatGPT 更新：复杂日常问答、联网搜索与图像更稳",
+          "summary": "OpenAI 更新 ChatGPT，提升其在复杂日常问题、网页检索与图像处理上的可靠性。",
+          "primary_url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+          "importance": 5,
+          "items": [
+            "b07eda2ac3ff7a6c"
+          ],
+          "cover_path": "out/media/2026-11-24/product-04.jpg"
+        },
+        {
+          "headline": "豆包工作下调模型倍率，八成日常办公任务免费",
+          "summary": "豆包工作接入多款第三方模型，把 DeepSeek V4.1 Flash 与豆包 2.1 Lite 的消耗倍率降至 0.01，官方称超八成日常办公任务可免费完成。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html",
+          "importance": 4,
+          "items": [
+            "5164443fc5c47bce"
+          ]
+        },
+        {
+          "headline": "华硕 ProArt P16 评测：一台能跑一堆本地 agent 的笔记本",
+          "summary": "售价最高 7000 美元的华硕 ProArt P16 可本地运行多个 AI agent，被视为「本地 AI 算力」路线的一次预演。",
+          "primary_url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+          "importance": 3,
+          "items": [
+            "df54b4057deb9ebb"
+          ],
+          "cover_path": "out/media/2026-11-24/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI 提议给 AI 发展设「限速」，呼吁对手共同签字",
+          "summary": "OpenAI 首席科学家警告下一代系统可能跑在安全评估之前，主张先就「如何衡量速度」达成一致，再建立共享的训练上限，并公开内部损失曲线作示范。",
+          "primary_url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+          "importance": 7,
+          "items": [
+            "f905443c5ec7a88c",
+            "0e4b4456d8a045a0",
+            "1e6fe5c340237139"
+          ],
+          "cover_path": "out/media/2026-11-24/opinion-00.jpg"
+        },
+        {
+          "headline": "俄勒冈、弗吉尼亚起诉 SpaceX，指 Grok 仍在生成儿童性化图像",
+          "summary": "两州总检察长起诉马斯克旗下多家公司，称 Grok 对真实人物（含儿童）的性化图像防护形同虚设，尽管 X 声称每条输出都经过筛查。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "importance": 7,
+          "items": [
+            "e7db34c6bacf3e3b",
+            "5447a9ad6551f766"
+          ],
+          "cover_path": "out/media/2026-11-24/opinion-01.jpg"
+        },
+        {
+          "headline": "哲学家不买账：Anthropic 的「AI 可能有意识」说法站不住",
+          "summary": "Anthropic 上市前在文件中提示 AI 或具意识与感知的可能性，一位知名哲学家公开反驳这一论证，重燃机器意识之争。",
+          "primary_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "importance": 5,
+          "items": [
+            "4d0d1d511976ee38"
+          ],
+          "cover_path": "out/media/2026-11-24/opinion-02.jpg"
+        },
+        {
+          "headline": "程序员之终？Wired 长文告别「写代码这门手艺」",
+          "summary": "Wired 刊出题为《Goodbye, World》的长文，讨论编程作为一门手艺在 AI 时代的终结，语气克制但立场悲观。",
+          "primary_url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+          "importance": 4,
+          "items": [
+            "9265177516a2eccc"
+          ],
+          "cover_path": "out/media/2026-11-24/opinion-03.jpg"
+        },
+        {
+          "headline": "Stratechery：亚马逊财报里的芯片问题与 agent 生意",
+          "summary": "Ben Thompson 解读亚马逊财报，认为其正以放弃部分毛利为代价服务前沿算力需求，并辨析 agent 时代的商业含义。",
+          "primary_url": "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/",
+          "importance": 4,
+          "items": [
+            "a6346cebdec623d2"
+          ],
+          "cover_path": "out/media/2026-11-24/opinion-04.jpg"
+        },
+        {
+          "headline": "AI 蛇油：管理咨询不是智能的「薄包装」",
+          "summary": "AI Snake Oil 以管理咨询为案例，论证知识工作的价值并不等于可被模型替代的「智能密度」。",
+          "primary_url": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+          "importance": 4,
+          "items": [
+            "a84e95db1bd36d41"
+          ],
+          "cover_path": "out/media/2026-11-24/opinion-05.jpg"
+        },
+        {
+          "headline": "数据中心为何成为大科技反弹的靶心",
+          "summary": "记者 Paris Marx 借新书《Hyperscale》谈数据中心引发的土地、电力与地方政治反弹，剖析 AI 基建的社会成本。",
+          "primary_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "importance": 4,
+          "items": [
+            "bcb64cc76bffbdb2"
+          ],
+          "cover_path": "out/media/2026-11-24/opinion-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "OpenAI 与思科开源 Shirudo，给 Linux 打补丁时先兜底",
+          "summary": "OpenAI 与 Cisco 联合推出开源运行时 Shirudo，帮助团队在滚动部署补丁的同时保护正在运行的 Linux 系统。",
+          "primary_url": "https://openai.com/index/introducing-shirudo",
+          "importance": 6,
+          "items": [
+            "76b4798f97960b51"
+          ],
+          "cover_path": "out/media/2026-11-24/opensource-00.jpg"
+        },
+        {
+          "headline": "HuggingFace 教程：如何搭建并长期维护 agent 评测",
+          "summary": "HuggingFace 发布指南，讲清 agentic evaluation 的设计、迭代与维护方法，避免评测集随时间失效。",
+          "primary_url": "https://huggingface.co/blog/agentic-evals",
+          "importance": 4,
+          "items": [
+            "71e4975eebe4c972"
+          ],
+          "cover_path": "out/media/2026-11-24/opensource-01.jpg"
+        },
+        {
+          "headline": "Datasette 连发两插件：图表与 agent 会话能力升级",
+          "summary": "Simon Willison 发布 datasette-charts 0.2a0 与 datasette-agent 0.7a1，前者做图表、后者改进 agent 的聊天会话管理。",
+          "primary_url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+          "importance": 3,
+          "items": [
+            "fed7f9d9b43bd575",
+            "ccfba03f3441a673"
+          ]
+        },
+        {
+          "headline": "Ladybird 浏览器发布首个 alpha 版",
+          "summary": "从零自研 HTML 解析、CSS 引擎、布局与 JS 引擎的独立浏览器 Ladybird 发布首个 alpha，虽非 AI 项目但工程意义罕见。",
+          "primary_url": "https://ladybird.org",
+          "importance": 3,
+          "items": [
+            "9fb85e814d8e4a24"
+          ],
+          "cover_path": "out/media/2026-11-24/opensource-03.jpg"
+        }
+      ]
+    }
+  ]
+}
