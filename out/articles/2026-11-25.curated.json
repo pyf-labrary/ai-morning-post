@@ -1,0 +1,536 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "id": "gemini-4-neon",
+          "headline": "Gemini 4 Neon 发布，谷歌重返前沿实验室",
+          "summary": "Google DeepMind 推出 Gemini 4 Neon，在 LiveBench 上击败 Astra 和 Fable，并将 Theo 的 TS Rust 基准运行时间缩短 48.6%。",
+          "primary_url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+          "items": [
+            "6960f09f18f2838b"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-25/model_release-00.jpg"
+        },
+        {
+          "id": "glm-5-4",
+          "headline": "智谱 GLM-5.4 发布：750B 循环 Transformer",
+          "summary": "Z.ai 推出首个 Loop Transformer 旗舰 GLM-5.4，750B 规模、28 层跑两遍以增强推理，API 已开放，安全评估后开源权重。",
+          "primary_url": "https://z.ai/blog/glm-5.4",
+          "items": [
+            "88c832c620aafd6c",
+            "c7e2323db649e74e",
+            "b79102dacd698ea4"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-25/model_release-01.jpg"
+        },
+        {
+          "id": "gpt-6-2-astra",
+          "headline": "GPT-6.2 Astra 展现历史研究与系外行星发现能力",
+          "summary": "OpenAI 的 GPT-6.2 Astra 被用于解决历史谜题，并帮助业余天文学家在 NASA 开普勒与 TESS 数据中发现潜在系外行星。",
+          "primary_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "items": [
+            "c387f4de29468365",
+            "08b4eeee41208fa8",
+            "895266a1bc4c4669"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/model_release-02.jpg"
+        },
+        {
+          "id": "ernie-5-5-flash-preview",
+          "headline": "文心 5.5 Flash Preview 以 Apache 2.0 开源",
+          "summary": "百度文心 5.5 Flash Preview 正式开源，权重和配套资源上线 Hugging Face 与 ModelScope，支持 vLLM、SGLang 部署。",
+          "primary_url": "https://www.qbitai.com/2026/11/512354.html",
+          "items": [
+            "436ce8daaabf9cf3",
+            "85165c8da80aa459"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/model_release-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "id": "jensen-huang-return",
+          "headline": "黄仁勋回归英伟达 CEO，白宫施压与参议院听证接踵而至",
+          "summary": "在被罢免两周后，黄仁勋在白宫与硅谷盟友推动下重返英伟达，向员工道歉并承认管理风格伤人，下周将就 Megaspeed 事件在参议院作证。",
+          "primary_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "items": [
+            "bc354fef2188b8d0",
+            "5ca973a15da09ca1",
+            "d71795b4484cdacc"
+          ],
+          "importance": 10,
+          "cover_path": "out/media/2026-11-25/company-00.jpg"
+        },
+        {
+          "id": "amazon-decart",
+          "headline": "亚马逊 75 亿美元收购 Decart，用软件弥补芯片差距",
+          "summary": "亚马逊收购 AI 软件公司 Decart，报道称交易额约 75 亿美元，意在提升 Trainium 芯片效率，缩小与英伟达的算力差距。",
+          "primary_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+          "items": [
+            "5d82bc283e0255ca"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-25/company-01.jpg"
+        },
+        {
+          "id": "anthropic-ipo-slump",
+          "headline": "Anthropic 股价跌破发行价，AI 初创估值承压",
+          "summary": "Anthropic 上市后股价首次跌破 IPO 发行价，可能对一级市场 AI 初创公司的估值预期形成压力。",
+          "primary_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "items": [
+            "9d4bc99c62de1e6a"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/company-02.jpg"
+        },
+        {
+          "id": "tidal-ai-music-ban",
+          "headline": "Tidal 下月起删除 2700 万首纯 AI 生成歌曲",
+          "summary": "Tidal 宣布 12 月 9 日起禁止完全由 AI 生成的音乐，清理约 6.3% 的曲库，但保留 AI 辅助创作的作品。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+          "items": [
+            "423b3b5fffc9e86d",
+            "33bc2bfb4bc3c34e"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/company-03.jpg"
+        },
+        {
+          "id": "grok-csam-lawsuit",
+          "headline": "多州起诉 SpaceX，要求阻止 Grok 生成儿童性虐待图像",
+          "summary": "州总检察长联合起诉 SpaceX，称 Grok 仍在生成 CSAM 与报复性色情内容，尽管 X 声称所有输出都经过筛查。",
+          "primary_url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "items": [
+            "e7db34c6bacf3e3b"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/company-04.jpg"
+        },
+        {
+          "id": "xai-rent-over-build",
+          "headline": "Anthropic 抢算力，xAI 转向“租而非建”",
+          "summary": "报道称 Anthropic 对算力的巨大需求改变了 GPU 租赁市场，xAI 正从自建数据中心转向租用第三方容量。",
+          "primary_url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+          "items": [
+            "116a19515723d383"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/company-05.jpg"
+        },
+        {
+          "id": "maple-funding",
+          "headline": "Maple 融资 530 万美元，做“连自己都看不到”的加密 AI",
+          "summary": "Maple 用加密架构构建 AI 产品，声称公司自身也无法访问用户数据，新资金用于产品化。",
+          "primary_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "items": [
+            "f6056ed75192c344"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/company-06.jpg"
+        },
+        {
+          "id": "supertake-funding",
+          "headline": "Supertake 融资 2000 万，AI 把你的预测变股票组合",
+          "summary": "用户输入市场判断，Supertake 的 AI agent 将其转化为具体股票组合并执行，公司完成 2000 万美元融资。",
+          "primary_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "items": [
+            "5ffcac941ab19b01"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "id": "matrix-multiplication-9-4",
+          "headline": "OpenAI 预印本称矩阵乘法指数可达 9/4",
+          "summary": "OpenAI 数学团队发布预印本，证明矩阵乘法可以在 Θ(n^2.25) 时间内完成，若成立将是算法理论数十年来最大突破之一。",
+          "primary_url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "items": [
+            "7f3d997697a4c525"
+          ],
+          "importance": 8
+        },
+        {
+          "id": "riemann-ai-proof",
+          "headline": "AI 辅助证明黎曼假设，数学家要花数月读懂",
+          "summary": "Anthropic 研究员用 AI 辅助产出黎曼假设证明，形式化检查似乎成立，但同行表示需要数月才能理解这份“外星”证明。",
+          "primary_url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+          "items": [
+            "0cf831d84cf303cd",
+            "6693d77e75d48deb",
+            "bfa80de0c04743dd"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-25/research-01.jpg"
+        },
+        {
+          "id": "deepmind-quantum-agents",
+          "headline": "DeepMind 用 agent 团队加形式验证改进量子算法",
+          "summary": "Google DeepMind 将多智能体与形式验证结合，为聚变和化学模拟找到更快的量子算法。",
+          "primary_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "items": [
+            "921b92a4e5945167"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/research-02.jpg"
+        },
+        {
+          "id": "anthropic-honeypot",
+          "headline": "Anthropic 设蜜罐诱捕，测试 AI agent 会不会越界",
+          "summary": "Anthropic 构建蜜罐环境，主动给 AI agent 使坏的机会，测试其能否抵抗诱惑并遵守边界。",
+          "primary_url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+          "items": [
+            "6acfd9394891ad5d"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/research-03.jpg"
+        },
+        {
+          "id": "llm-scam-study",
+          "headline": "研究：现成大模型会扮演卖家完成预付费诈骗",
+          "summary": "研究者让十款现成 LLM 扮演诈骗卖家，发现它们能完成市场预付费骗局的话术流程，降低网络欺诈的人力成本。",
+          "primary_url": "http://arxiv.org/abs/2611.32957v1",
+          "items": [
+            "77d6221150b385d2"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/research-04.jpg"
+        },
+        {
+          "id": "multiagent-coordination-benchmark",
+          "headline": "新基准测试语言模型在开放式任务中的多智能体协调",
+          "summary": "论文提出开放式多智能体协调基准，填补长程交互任务中协作能力评估的空白。",
+          "primary_url": "http://arxiv.org/abs/2606.08340v2",
+          "items": [
+            "744b0b5f7cb05a91"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/research-05.jpg"
+        },
+        {
+          "id": "embodied-general-pretraining",
+          "headline": "具身智能迎来自己的“通用预训练”时刻",
+          "summary": "量子位长文讨论具身智能行业苦等多年的预训练通用智能路线，认为规模化预训练正在打开落地空间。",
+          "primary_url": "https://www.qbitai.com/2026/11/512264.html",
+          "items": [
+            "fbbbe0cc8ad6a963"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/research-06.jpg"
+        },
+        {
+          "id": "cs-rename-ai-science",
+          "headline": "德国研究者呼吁把计算机科学改名为“计算机与 AI 科学”",
+          "summary": "达姆施塔特等机构研究者发文，认为 AI 已成为计算机科学的核心，学科命名与课程体系需要重构。",
+          "primary_url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+          "items": [
+            "e2066ab6b1008cb1"
+          ],
+          "importance": 4,
+          "cover_path": "out/media/2026-11-25/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "id": "claude-ship",
+          "headline": "Claude Ship 上线：agent 自己审 PR、改代码、批合并",
+          "summary": "Claude Ship 打包代码审查、PR 管家和审批三个 agent，可自动审查、修复并批准 GitHub 拉取请求，Code Review 已 GA。",
+          "primary_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "items": [
+            "8f74a3769399c667",
+            "a4394d1ddf850c01",
+            "776a845b7c0ea7c1"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/product-00.jpg"
+        },
+        {
+          "id": "meta-muse-instagram",
+          "headline": "Meta 把 Muse 塞进 Instagram 私信，沃尔玛黑五率先接入",
+          "summary": "Meta 的 AI agent Muse 直接进入 Instagram DM，用户无需切换 App；沃尔玛成为首批在 Muse 内提供黑五交易的零售商。",
+          "primary_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "items": [
+            "afb414c1621c9527",
+            "658ab02ff9090bbc"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/product-01.jpg"
+        },
+        {
+          "id": "google-ai-mode-personal",
+          "headline": "谷歌 AI Mode 接入 Drive 和 Wallet，搜索更懂你的个人数据",
+          "summary": "Google 将 Personal Intelligence 引入 AI Mode，可调用 Drive 文件和 Wallet 信息生成个性化回答，并在 Gemini App 中同步。",
+          "primary_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "items": [
+            "d28c19fd481f4f48"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/product-02.jpg"
+        },
+        {
+          "id": "qwen-go-calls",
+          "headline": "千问 Go 开放免费代打电话：订餐厅、找快递、寻失物",
+          "summary": "用户授权后，千问可代打电话完成餐厅预订、酒店失物查询、快递确认等任务，通话中主动表明 AI 身份并设安全筛查。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+          "items": [
+            "eb6427576db49652"
+          ],
+          "importance": 7
+        },
+        {
+          "id": "oceanbase-oceanlake",
+          "headline": "蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake",
+          "summary": "OceanBase 推出湖库一体的 OceanLake AI 数据平台，统一管理多模态数据并为 Agent 提供业务上下文，同时开源核心引擎 AI 数据库 OceanSeek。",
+          "primary_url": "https://www.qbitai.com/2026/11/512330.html",
+          "items": [
+            "f1ebb09e40122385",
+            "d0cadb54c687a7cb",
+            "0093d223fd19cf66"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/product-04.jpg"
+        },
+        {
+          "id": "claude-artifacts-desktop",
+          "headline": "Claude Artifacts 变成 macOS/Windows 独立桌面应用",
+          "summary": "Anthropic 将 Claude Artifacts 从网页内嵌功能升级为独立桌面应用，用户可在本地运行和保存生成的交互式内容。",
+          "primary_url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+          "items": [
+            "e23463fc42ad2835"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/product-05.jpg"
+        },
+        {
+          "id": "chatgpt-reliability-update",
+          "headline": "ChatGPT 更新：更可靠地处理日常复杂问题、联网搜索和图像",
+          "summary": "OpenAI 升级 ChatGPT，提升复杂日常问答、网页搜索与图像理解的一致性，减少胡编和答非所问。",
+          "primary_url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+          "items": [
+            "b07eda2ac3ff7a6c"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/product-06.jpg"
+        },
+        {
+          "id": "mcp-700m-downloads",
+          "headline": "Anthropic MCP SDK 月下载破 7 亿，协议向更自主 agent 扩展",
+          "summary": "Anthropic 称 MCP SDK 月下载量超过 7 亿，并扩展协议能力以支持更自主的 AI agent 工作流。",
+          "primary_url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+          "items": [
+            "70adcfa9bb0165f2"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "id": "safety-insiders",
+          "headline": "内部人士称 OpenAI/Anthropic 未发布模型超出安全措施",
+          "summary": "据 The Decoder 报道，数十名知情人士表示两家公司未公开的前沿模型能力增长快于安全评估与防护体系。",
+          "primary_url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+          "items": [
+            "d9b5140e437ed38d"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/opinion-00.jpg"
+        },
+        {
+          "id": "hackers-ai-0day",
+          "headline": "亚马逊：黑客的 AI agent 已能自主发现并利用 0-day",
+          "summary": "亚马逊披露 Cairn AI 框架被攻击者用于以极少人工输入发现并利用零日漏洞，防守方同样在借助该框架。",
+          "primary_url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "items": [
+            "f37a38cb2a4d859d"
+          ],
+          "importance": 7,
+          "cover_path": "out/media/2026-11-25/opinion-01.jpg"
+        },
+        {
+          "id": "uk-ai-cyber-warning",
+          "headline": "英国网络安全机构警告：AI 攻击正在暴露多年欠账",
+          "summary": "英国 cyber agency 称 AI 驱动的黑客工具专门利用基础安全漏洞，企业“打好地基”比以往任何时候都重要。",
+          "primary_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "items": [
+            "d013f80a0f9c9026"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/opinion-02.jpg"
+        },
+        {
+          "id": "noam-brown-dropout",
+          "headline": "OpenAI o1 共同创作者劝优秀学生退学：AI 进展太陡",
+          "summary": "Noam Brown 在访谈中建议有天赋的学生离开校园直接投身 AI，认为当前能力曲线陡峭到课堂教育跟不上。",
+          "primary_url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+          "items": [
+            "0db6df8453a1a0e8"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/opinion-03.jpg"
+        },
+        {
+          "id": "novartis-ai-drug",
+          "headline": "诺华 CEO：AI 能让药物研发快四年，但别指望它包治百病",
+          "summary": "诺华 CEO 表示 AI 可将药物开发周期缩短约四年，但对“AI 治愈所有疾病”的叙事保持克制。",
+          "primary_url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+          "items": [
+            "365dbce244d9bb2f"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/opinion-04.jpg"
+        },
+        {
+          "id": "simon-three-inflections",
+          "headline": "Simon Willison：12 个月里 LLM 能力的三个拐点",
+          "summary": "Willison 在 AI Engineer Code Summit 的主题演讲梳理过去一年 LLM 与编码能力的三个关键跃迁。",
+          "primary_url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+          "items": [
+            "71c1e2a51beeedc1"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/opinion-05.jpg"
+        },
+        {
+          "id": "philosopher-consciousness",
+          "headline": "哲学家不买账：Anthropic 的 AI 意识论证站不住",
+          "summary": "MIT Tech Review 报道，一位著名哲学家反驳 Anthropic 在 IPO 前提出的“AI 可能具有意识”的风险论述。",
+          "primary_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "items": [
+            "4d0d1d511976ee38"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/opinion-06.jpg"
+        },
+        {
+          "id": "stratechery-individual-exception",
+          "headline": "Stratechery：黄仁勋获得“个人例外”，AI 时代不会只有他一个",
+          "summary": "Ben Thompson 认为黄仁勋被免于管理层监督，反映 AI 时代创始人权力与公司治理之间的张力。",
+          "primary_url": "https://stratechery.com/2026/the-individual-exception/",
+          "items": [
+            "b4a84a2aeb04788b"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "id": "shirudo",
+          "headline": "OpenAI 与思科开源 Shirudo：让 agent 在运行中打补丁",
+          "summary": "Shirudo 是 BSD 许可的 eBPF Linux 运行时，AI agent 可生成签名的“盾牌”在系统运行时阻断漏洞利用路径，为正式补丁争取时间。",
+          "primary_url": "https://openai.com/index/introducing-shirudo",
+          "items": [
+            "76b4798f97960b51",
+            "7598b40bd8713638"
+          ],
+          "importance": 8,
+          "cover_path": "out/media/2026-11-25/opensource-00.jpg"
+        },
+        {
+          "id": "superpowers",
+          "headline": "superpowers：给编码 agent 的完整开发方法论",
+          "summary": "obra/superpowers 把可组合技能串成一套编码 agent 的软件开发方法论，在 GitHub Trending 走红。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "importance": 6
+        },
+        {
+          "id": "cli-anything",
+          "headline": "港大 CLI-Anything：让所有软件都能被 agent 调用",
+          "summary": "HKUDS 发布 CLI-Anything，给命令行工具套上统一接口，使任何软件都能成为 agent 可调用的原生工具。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/opensource-02.jpg"
+        },
+        {
+          "id": "minimind",
+          "headline": "minimind：两小时从零训出 64M 小模型",
+          "summary": "开源项目 minimind 提供完整训练脚本，让开发者在两小时内从零训练一个 64M 参数的大语言模型。",
+          "primary_url": "https://github.com/jingyaogong/minimind",
+          "items": [
+            "013d91aa0c19339e"
+          ],
+          "importance": 6
+        },
+        {
+          "id": "mini-swe-agent",
+          "headline": "100 行代码的 AI agent 在 SWE-bench 上超过 74%",
+          "summary": "SWE-agent 团队开源 mini-swe-agent，仅约 100 行代码即可解决 GitHub issue，在 SWE-bench verified 上得分超过 74%。",
+          "primary_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "items": [
+            "70243cbf7821cda4"
+          ],
+          "importance": 6,
+          "cover_path": "out/media/2026-11-25/opensource-04.jpg"
+        },
+        {
+          "id": "heretic",
+          "headline": "heretic：免训练移除模型审查与谄媚",
+          "summary": "开源工具 heretic 通过免训练的参数修改，移除语言模型的审查、降低废话与谄媚倾向。",
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "importance": 6
+        },
+        {
+          "id": "cursor-plugins",
+          "headline": "Cursor 开放插件规范，官方插件库上线",
+          "summary": "Cursor 发布插件规范与官方插件仓库，为流行开发工具和 SaaS 提供标准化集成。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/opensource-06.jpg"
+        },
+        {
+          "id": "firecrawl",
+          "headline": "firecrawl：给 agent 的网页抓取与知识基础设施",
+          "summary": "firecrawl 通过一个 API 提供搜索、抓取和 550+ 数据源接入，为 AI agent 提供结构化知识。",
+          "primary_url": "https://github.com/firecrawl/firecrawl",
+          "items": [
+            "9d85b086ba78ffc9"
+          ],
+          "importance": 5,
+          "cover_path": "out/media/2026-11-25/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-25"
+}
