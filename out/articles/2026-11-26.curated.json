@@ -1,0 +1,489 @@
+{
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "Gemini 4 Neon 发布：谷歌重回前沿实验室牌桌",
+          "summary": "谷歌发布 Gemini 4 Neon，在 LiveBench 上超过 Astra 与 Fable，并把 Theo 的 TypeScript/Rust 基准运行时间缩短 48.6%。DeepMind 还让 AI agent 接管部分 Gemini 实验算力，但官方称递归自我改进仍很遥远。",
+          "primary_url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+          "importance": 9,
+          "items": [
+            "6960f09f18f2838b",
+            "a7ebfedda16a1a01"
+          ],
+          "cover_path": "out/media/2026-11-26/model_release-00.jpg"
+        },
+        {
+          "headline": "GLM-5.4 编程与 3D 大涨，智谱首发 Loop 架构",
+          "summary": "智谱发布 GLM-5.4，编程和 3D 生成能力显著提升但推理耗时变长；公司押注 Loop 架构与继续 Scaling 的双路线，港股股价当日涨超 15%。",
+          "primary_url": "https://www.infoq.cn/article/gXU31yBa9HMEe19PxHVB?utm_source=rss&utm_medium=article",
+          "importance": 7,
+          "items": [
+            "c073869afa1039da",
+            "227c4149aa24d873"
+          ],
+          "cover_path": "out/media/2026-11-26/model_release-01.jpg"
+        },
+        {
+          "headline": "PrismML 把 27B 模型压到 5.9GB：每个权重只留三种取值",
+          "summary": "这家初创把 54GB 的 270 亿参数编码 agent 模型压到 5.9GB，做法是把每个权重限制为三种可能取值，瞄准端侧与低成本部署。",
+          "primary_url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+          "importance": 6,
+          "items": [
+            "94e08004dcde80d6"
+          ],
+          "cover_path": "out/media/2026-11-26/model_release-02.jpg"
+        },
+        {
+          "headline": "GPT-6.2 Astra 破解一桩历史悬案",
+          "summary": "Simon Willison 推荐的一篇案例研究，展示如何用 GPT-6.2 Astra 做历史考据、它给出了什么线索，以及哪些环节仍要人来判断。",
+          "primary_url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+          "importance": 6,
+          "items": [
+            "08b4eeee41208fa8"
+          ]
+        },
+        {
+          "headline": "Yandex 开源 80B-A3B 基座模型 AliceAI",
+          "summary": "Yandex 从零训练、以 Apache 2.0 许可放出 AliceAI-Foundation-80B-A3B-Base，总参数 800 亿、每 token 约激活 30 亿。",
+          "primary_url": "http://arxiv.org/abs/2611.34529v1",
+          "importance": 4,
+          "items": [
+            "42f404790396eb50"
+          ],
+          "cover_path": "out/media/2026-11-26/model_release-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "黄仁勋回归震动英伟达：评级承压、治理受质疑",
+          "summary": "标普考虑把英伟达信用评级下调至 AA-，理由是治理与“关键人”风险；黄仁勋在回归后的首次全员会上道歉、承认管理风格伤害员工，并感谢白宫支持。围绕 Megaspeed 的芯片流向调查仍未了结。",
+          "primary_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "importance": 9,
+          "items": [
+            "0a627fc1edf6b56f",
+            "bc354fef2188b8d0",
+            "4215fc4cb688e226"
+          ],
+          "cover_path": "out/media/2026-11-26/company-00.jpg"
+        },
+        {
+          "headline": "Anthropic 股价跌破发行价，AI 初创估值承压",
+          "summary": "Anthropic 上市后股价首次跌穿 IPO 价格，被视作 AI 初创整体估值可能回调的预警信号。",
+          "primary_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "importance": 8,
+          "items": [
+            "9d4bc99c62de1e6a"
+          ],
+          "cover_path": "out/media/2026-11-26/company-01.jpg"
+        },
+        {
+          "headline": "Character.AI 拟拍卖用户私聊，多州检察长出手阻止",
+          "summary": "Character.AI 破产出售方案包含逾 2100 万美国账户的敏感聊天数据，其中 210 万注册者为未成年人，多州总检察长联合反对。",
+          "primary_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "importance": 7,
+          "items": [
+            "6825edc305d2b83a"
+          ],
+          "cover_path": "out/media/2026-11-26/company-02.jpg"
+        },
+        {
+          "headline": "亚马逊与 Meta 谈判，拟解除 Muse 购物代理封锁",
+          "summary": "持续两个月的封锁可能出现转机：亚马逊与 Meta 正讨论让 Meta 的 AI 购物代理 Muse 重新接入亚马逊商城。",
+          "primary_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "importance": 6,
+          "items": [
+            "10dbb4d5f90ff447",
+            "60b07cdd93ed1d40"
+          ],
+          "cover_path": "out/media/2026-11-26/company-03.jpg"
+        },
+        {
+          "headline": "AI 数据中心越来越难建，neocloud 先感到寒意",
+          "summary": "英伟达明确表示不会为尚未就绪的数据中心兜底，与此同时 neocloud 厂商报告工期延误与更贵的债务，土地、电力与融资三重约束正在收紧。",
+          "primary_url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "importance": 6,
+          "items": [
+            "49fa69d9d4096892",
+            "902cf8df927679e9"
+          ],
+          "cover_path": "out/media/2026-11-26/company-04.jpg"
+        },
+        {
+          "headline": "OpenAI 承诺不看企业数据，换取敏感业务信任",
+          "summary": "OpenAI 试图说服企业把敏感工作交给它，核心承诺是限制自身对客户数据的访问权限。",
+          "primary_url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+          "importance": 5,
+          "items": [
+            "61c657f1109694bb"
+          ],
+          "cover_path": "out/media/2026-11-26/company-05.jpg"
+        },
+        {
+          "headline": "前苹果空间智能首席科学家权龙再创业",
+          "summary": "权龙成立 Envision AI，研发空间物理基础模型，瞄准空间智能方向的基础模型能力。",
+          "primary_url": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "19f5e5decac3fe7c"
+          ],
+          "cover_path": "out/media/2026-11-26/company-06.jpg"
+        },
+        {
+          "headline": "Maple 融资 530 万美元，做“连自己都看不到数据”的 AI",
+          "summary": "这家初创以加密 AI 架构融资 530 万美元，设计目标是让公司自身也无法访问用户私有数据。",
+          "primary_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "importance": 4,
+          "items": [
+            "f6056ed75192c344"
+          ],
+          "cover_path": "out/media/2026-11-26/company-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "OpenAI 新证明：矩阵乘法指数降到 n^2.25",
+          "summary": "OpenAI 放出的预印本给出矩阵乘法指数的新上界 9/4，被视为复杂度理论多年未动的里程碑；Scott Aaronson 称我们将得到“一整块新的数学大陆”。同期 AI 还在 Erdős 问题与傅里叶变换界上产出结果。",
+          "primary_url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "importance": 9,
+          "items": [
+            "7f3d997697a4c525",
+            "e8c3c5c759fc6169",
+            "55db8fd516c3e948"
+          ]
+        },
+        {
+          "headline": "AI 辅助的黎曼猜想证明，看起来真的成立",
+          "summary": "一篇 AI 辅助完成的黎曼猜想证明目前看没有明显漏洞，但 Ars 指出：我们还说不清它究竟意味着什么。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+          "importance": 7,
+          "items": [
+            "bfa80de0c04743dd"
+          ],
+          "cover_path": "out/media/2026-11-26/research-01.jpg"
+        },
+        {
+          "headline": "DeepMind 让 AI agent 接管部分算力做 Gemini 实验",
+          "summary": "谷歌内部已有 AI agent 控制部分算力用于 Gemini 实验与调优，但报道强调距离递归自我改进仍很远。",
+          "primary_url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+          "importance": 7,
+          "items": [
+            "a7ebfedda16a1a01"
+          ],
+          "cover_path": "out/media/2026-11-26/research-02.jpg"
+        },
+        {
+          "headline": "最强 AI agent 也搞不定日常生活",
+          "summary": "新基准显示，即便最先进的个人助理型 agent，在完成日常任务时仍不可靠，还常引入新问题，安全性与稳定性是主要短板。",
+          "primary_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "importance": 6,
+          "items": [
+            "58e9427b595a5f6c"
+          ],
+          "cover_path": "out/media/2026-11-26/research-03.jpg"
+        },
+        {
+          "headline": "编码 agent 为何总爱多改代码？实证研究给出解释",
+          "summary": "论文提出 Delta Residue Attribution 方法，区分 agent 补丁中“必要的额外改动”与真正的过度编辑，并定位其来源。",
+          "primary_url": "http://arxiv.org/abs/2611.34875v1",
+          "importance": 5,
+          "items": [
+            "09bbe102aab6847a"
+          ],
+          "cover_path": "out/media/2026-11-26/research-04.jpg"
+        },
+        {
+          "headline": "Mixture-of-Loops：用循环层换表达力的新 Transformer",
+          "summary": "研究重新设计相邻循环之间的信息传递机制，试图把循环 Transformer 的表达力与效率前沿同时往前推。",
+          "primary_url": "http://arxiv.org/abs/2611.34923v1",
+          "importance": 5,
+          "items": [
+            "bbdd82358d0a4171"
+          ],
+          "cover_path": "out/media/2026-11-26/research-05.jpg"
+        },
+        {
+          "headline": "MIT 发现：用“不真实”的训练数据，气候预测反而更准",
+          "summary": "MIT 团队发现刻意使用不真实训练数据能提升 AI 气候预测的可靠性，这一反直觉结论对科学机器学习的数据构造有普遍意义。",
+          "primary_url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+          "importance": 5,
+          "items": [
+            "c3ad4f6c5876c43a"
+          ],
+          "cover_path": "out/media/2026-11-26/research-06.jpg"
+        },
+        {
+          "headline": "理论证明：最优分词器不存在常数近似算法",
+          "summary": "论文证明除非 P=NP，否则不存在多项式时间算法能把分词目标做到最优的任意常数倍，即分词问题不在 APX 复杂度类中。",
+          "primary_url": "http://arxiv.org/abs/2611.34938v1",
+          "importance": 5,
+          "items": [
+            "ec406645125c1f80"
+          ],
+          "cover_path": "out/media/2026-11-26/research-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "Claude Artifacts 变成 macOS/Windows 桌面应用",
+          "summary": "Anthropic 把 Claude Artifacts 从网页内嵌组件升级为独立桌面应用，用户做出的东西可以直接以本地 app 形式运行。",
+          "primary_url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+          "importance": 7,
+          "items": [
+            "e23463fc42ad2835"
+          ],
+          "cover_path": "out/media/2026-11-26/product-00.jpg"
+        },
+        {
+          "headline": "OpenAI 合并 Chat 与 Work，重度用户会更早触顶",
+          "summary": "OpenAI 把 ChatGPT 的 Chat 与 Work 两种体验合并，并统一用量计量，重度用户可能比过去更早碰到限额。",
+          "primary_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "importance": 7,
+          "items": [
+            "13160f6bc5cc6258"
+          ],
+          "cover_path": "out/media/2026-11-26/product-01.jpg"
+        },
+        {
+          "headline": "Meta Muse 进 Instagram 私信，沃尔玛黑五接入",
+          "summary": "Meta 把 AI 助手 Muse 直接嵌进 Instagram 私信，用户不必再切换到独立 App；沃尔玛同期把黑五促销接进 Muse 购物流程。",
+          "primary_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "importance": 7,
+          "items": [
+            "afb414c1621c9527",
+            "658ab02ff9090bbc"
+          ],
+          "cover_path": "out/media/2026-11-26/product-02.jpg"
+        },
+        {
+          "headline": "Facebook 用一句话描述你想看什么",
+          "summary": "Meta 详解“Your Algorithm”：用户用自然语言表达兴趣，系统经 LLM 校验、四路召回、分层过滤与微调重排，转成 Feed 与 Reels 的排序信号。",
+          "primary_url": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+          "importance": 5,
+          "items": [
+            "c1963af75f8d5235"
+          ]
+        },
+        {
+          "headline": "讯飞语音大模型：从基座到应用的全栈拆解",
+          "summary": "讯飞系统梳理语音大模型的基座能力与上层应用路径，覆盖识别、合成到交互场景的工程化落地。",
+          "primary_url": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "3e522d4151db37c9"
+          ],
+          "cover_path": "out/media/2026-11-26/product-04.jpg"
+        },
+        {
+          "headline": "百灵大模型靠真实医疗需求重塑“望闻问切”",
+          "summary": "蚂蚁百灵大模型以真实问诊需求驱动医疗能力迭代，从“阿福”这类应用反向定义模型训练重点。",
+          "primary_url": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
+          "importance": 4,
+          "items": [
+            "267570546ff5f5cd"
+          ],
+          "cover_path": "out/media/2026-11-26/product-05.jpg"
+        },
+        {
+          "headline": "Netflix 用运维知识图谱做 AI 可观测性",
+          "summary": "Netflix 基于运维数据构建知识图谱，让 AI 能理解并解释系统异常，提升可观测性分析的自动化程度。",
+          "primary_url": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O?utm_source=rss&utm_medium=article",
+          "importance": 3,
+          "items": [
+            "ec652072a6f59641"
+          ],
+          "cover_path": "out/media/2026-11-26/product-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Tidal 下月起删除 2700 万首纯 AI 生成歌曲",
+          "summary": "Tidal 宣布 12 月 9 日起封禁完全由 AI 生成的音乐，约 2700 万首、占曲库 6.3% 的曲目将被清除；AI 辅助创作仍被接受。",
+          "primary_url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+          "importance": 7,
+          "items": [
+            "423b3b5fffc9e86d",
+            "33bc2bfb4bc3c34e"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-00.jpg"
+        },
+        {
+          "headline": "纽约州禁售 AI 聊天玩具五年",
+          "summary": "纽约州通过五年禁令，禁止销售面向儿童的 AI 聊天玩具；Common Sense Media 的新研究记录了不当内容暴露与情绪发展风险。",
+          "primary_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "importance": 7,
+          "items": [
+            "de9dc43c46b3b106"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-01.jpg"
+        },
+        {
+          "headline": "Amodei 回击“向 AI 交权”指控：这说法很荒谬",
+          "summary": "Anthropic CEO 反驳竞争对手称他主张把人类能动性交给 AI 的说法，同时坚持“让 AI 治理社会是个坏主意”。",
+          "primary_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "importance": 7,
+          "items": [
+            "08a8ac4273e5f1e2",
+            "c61387351ac2d65b"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-02.jpg"
+        },
+        {
+          "headline": "Simon Willison：十二个月里的三个 LLM 拐点",
+          "summary": "在 AI Engineer Code Summit 的主题演讲中，Willison 用三个拐点解释过去一年 LLM 与编码能力的跃迁路径。",
+          "primary_url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+          "importance": 6,
+          "items": [
+            "71c1e2a51beeedc1"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-03.jpg"
+        },
+        {
+          "headline": "Anthropic 怎么造软件：用 Rust 重写 Claude API",
+          "summary": "Anthropic 工程负责人谈把 Claude API 重写为 Rust 的取舍，以及 AI agent 如何改变公司内部的工程协作方式。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+          "importance": 6,
+          "items": [
+            "6ae67755494d496c"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-04.jpg"
+        },
+        {
+          "headline": "英国网安机构警告：AI 攻击正在放大旧漏洞",
+          "summary": "英国网络安全部门称 AI 驱动的攻击工具正利用多年积累的基础安全欠账，“打好地基”比以往任何时候都重要。",
+          "primary_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "importance": 6,
+          "items": [
+            "d013f80a0f9c9026"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-05.jpg"
+        },
+        {
+          "headline": "“AI 教父”回击黄仁勋：失业是巨头赚钱的副作用",
+          "summary": "针对黄仁勋的说法，AI 教父级人物反击称大规模失业是 AI 巨头盈利模式的副作用，并称自己更早看到英伟达的未来。",
+          "primary_url": "https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ?utm_source=rss&utm_medium=article",
+          "importance": 5,
+          "items": [
+            "1bfc17f352729a4b"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-06.jpg"
+        },
+        {
+          "headline": "AI 正在压垮美国的公开记录系统",
+          "summary": "MIT 科技评论报道：在人口 660 人的佛蒙特小镇，公开记录请求因 AI 批量生成而暴涨，基层行政系统难以招架。",
+          "primary_url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "importance": 5,
+          "items": [
+            "b8aeabf9e20cac51"
+          ],
+          "cover_path": "out/media/2026-11-26/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "字节开源 Laminar：异步 RL 后训练框架",
+          "summary": "港大与字节 Seed 开源 Laminar，把 rollout、训练与权重同步解耦，将 Qwen3-Coder-30B-A3B 在 SWE-bench Verified 上推到 52.2%。",
+          "primary_url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+          "importance": 6,
+          "items": [
+            "195a0bd6c40ae616"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-00.jpg"
+        },
+        {
+          "headline": "100 行代码的 agent，SWE-bench 通过率超 74%",
+          "summary": "mini-swe-agent 用约 100 行代码解决 GitHub issue，无庞大配置与巨型 monorepo，却在 SWE-bench Verified 上超过 74%。",
+          "primary_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "importance": 6,
+          "items": [
+            "70243cbf7821cda4"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-01.jpg"
+        },
+        {
+          "headline": "港大 CLI-Anything：让所有软件对 agent 原生",
+          "summary": "HKUDS 推出 CLI-Anything，目标是把现有软件统一封装成 agent 可直接调用的命令行接口，配套 CLI-Hub 分发。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 5,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-02.jpg"
+        },
+        {
+          "headline": "Together AI 开源 Hurdle：给你的 API 跑 agent 评测",
+          "summary": "Hurdle 是开源 npm 库，用真实任务跑 Claude Code 与 Codex，配合代码检查、guard 与 LLM 评审打分，比较不同模型与条件下的通过率。",
+          "primary_url": "https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs",
+          "importance": 5,
+          "items": [
+            "a8559334714b3875"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-03.jpg"
+        },
+        {
+          "headline": "superpowers：给编码 agent 的一套开发方法论",
+          "summary": "这个仓库把可组合的 skills 组织成完整软件开发方法论，试图让编码 agent 的工作流程可复用、可约束。",
+          "primary_url": "https://github.com/obra/superpowers",
+          "importance": 5,
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-04.jpg"
+        },
+        {
+          "headline": "FreeVideo：8GB 显存跑 MiniMax H3 生成视频",
+          "summary": "FreeVideo 让普通电脑本地跑视频生成：最低 8GB 显存 + 16GB 内存，并按硬件自动选择加速路径。",
+          "primary_url": "https://github.com/FlashML-org/FreeVideo",
+          "importance": 5,
+          "items": [
+            "41fa6b42e36f62e8"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-05.jpg"
+        },
+        {
+          "headline": "minimind：两小时从零训出 64M 小模型",
+          "summary": "这个教学向项目把从零训练一个小语言模型的流程压缩到两小时，适合用来理解预训练全链路。",
+          "primary_url": "https://github.com/jingyaogong/minimind",
+          "importance": 4,
+          "items": [
+            "013d91aa0c19339e"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-06.jpg"
+        },
+        {
+          "headline": "Cursor 开放插件规范与官方插件",
+          "summary": "Cursor 发布插件规范并开源官方插件集，覆盖主流开发工具、框架与 SaaS 产品。",
+          "primary_url": "https://github.com/cursor/plugins",
+          "importance": 4,
+          "items": [
+            "3630b98f6b83df5d"
+          ],
+          "cover_path": "out/media/2026-11-26/opensource-07.jpg"
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-26"
+}
