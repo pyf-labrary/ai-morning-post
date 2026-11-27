@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-27",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "腾讯混元发布 Hy3D 3.6，强化高模与材质生成",
+          "summary": "腾讯混元推出面向专业 3D 创作的 Hy3D 3.6，重点优化高模和 PBR 材质贴图生成，已上线腾讯云 Token Hub 提供 API。",
+          "primary_url": "https://36kr.com/newsflashes/4087437995981443",
+          "importance": 6,
+          "items": [
+            "83b4d3671731c3ef"
+          ]
+        },
+        {
+          "headline": "Sakana 发布 Namazu：30B 跑赢 120B",
+          "summary": "Sakana AI 基于 NVIDIA Nemotron 3 Nano 推出 30B-A3B 推理模型 Namazu Small，在 25 个基准上平均 60.1 分，超过 120B 的 Nemotron 3 Super。",
+          "primary_url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+          "importance": 6,
+          "items": [
+            "e75e2d93c8d0aefe"
+          ]
+        },
+        {
+          "headline": "中国开源 AI 视频模型登顶，商用成本每秒 5 毛",
+          "summary": "中国开源新势力发布商用级 AI 视频模型，支持 30 秒一镜到底和自动镜头编排，成本低至每秒 0.5 元，称拿下全球第一。",
+          "primary_url": "https://www.qbitai.com/2026/11/512916.html",
+          "importance": 6,
+          "items": [
+            "9c06d1cef1bf47d6"
+          ],
+          "cover_path": "out/media/2026-11-27/model_release-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 上市破发，编程团队遭 OpenAI 挖角",
+          "summary": "Anthropic 登陆公开市场首日表现不佳，创始人兄妹次日套现 37 亿元；同时 OpenAI 大举挖走 Claude Code 核心成员，Anthropic 的编程优势面临挑战。",
+          "primary_url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6",
+          "importance": 8,
+          "items": [
+            "b669c1415040cbf4",
+            "67a4e974b14d5d02",
+            "db88196c3e7c1569"
+          ],
+          "cover_path": "out/media/2026-11-27/company-00.jpg"
+        },
+        {
+          "headline": "英伟达暂停对东南亚服务器出货，配合美国芯片管制",
+          "summary": "英伟达已通知制造伙伴暂停向马来西亚、新加坡、泰国和印尼出货服务器，以配合美国收紧 AI 芯片对华流出的管制。",
+          "primary_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "importance": 8,
+          "items": [
+            "c7f03143b6e1207e",
+            "4e4ff8750173cbf4"
+          ],
+          "cover_path": "out/media/2026-11-27/company-01.jpg"
+        },
+        {
+          "headline": "标普考虑下调英伟达评级，治理与关键人风险被点名",
+          "summary": "标普全球表示可能将英伟达信用评级下调至 AA-，理由包括公司治理和过度依赖黄仁勋的“关键人”风险。",
+          "primary_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "importance": 7,
+          "items": [
+            "0a627fc1edf6b56f"
+          ],
+          "cover_path": "out/media/2026-11-27/company-02.jpg"
+        },
+        {
+          "headline": "FCC 批准 SpaceX 建百万颗卫星 AI 数据中心",
+          "summary": "FCC 批准 SpaceX 到 2040 年部署最多 100 万颗 Starmind 卫星，用于构建轨道 AI 数据中心网络。",
+          "primary_url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+          "importance": 7,
+          "items": [
+            "d02f9d58374f777c"
+          ],
+          "cover_path": "out/media/2026-11-27/company-03.jpg"
+        },
+        {
+          "headline": "Character.AI 拟拍卖用户聊天，多州总检察长反对",
+          "summary": "Character.AI 破产出售方案拟包含 2100 万美国用户的敏感聊天数据，其中 210 万账户属于未成年人，多州总检察长要求阻止。",
+          "primary_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "importance": 6,
+          "items": [
+            "6825edc305d2b83a"
+          ],
+          "cover_path": "out/media/2026-11-27/company-04.jpg"
+        },
+        {
+          "headline": "权龙再创业成立 Envision AI，做空间物理模型",
+          "summary": "华人 CV 先驱权龙成立 Envision AI，研发空间与物理基础模型，瞄准空间智能和机器人方向。",
+          "primary_url": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb",
+          "importance": 6,
+          "items": [
+            "19f5e5decac3fe7c",
+            "a1e2221d70632314"
+          ],
+          "cover_path": "out/media/2026-11-27/company-05.jpg"
+        },
+        {
+          "headline": "OpenAI 承诺不查看企业敏感数据，以换取信任",
+          "summary": "OpenAI 向企业客户承诺不会查看其敏感工作数据，试图在把模型引入核心业务时缓解隐私与安全顾虑。",
+          "primary_url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+          "importance": 6,
+          "items": [
+            "61c657f1109694bb"
+          ],
+          "cover_path": "out/media/2026-11-27/company-06.jpg"
+        },
+        {
+          "headline": "知乎与 DeepSeek 合作，问答内容接入检索",
+          "summary": "知乎通过数据开放平台向 DeepSeek 提供社区问答、文章、热榜等检索能力，覆盖网页端与移动端，并展示来源标识。",
+          "primary_url": "https://36kr.com/newsflashes/4087390505810564",
+          "importance": 5,
+          "items": [
+            "7e33aa01b2b7e51a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "AI 数学证明井喷：黎曼猜想被验证，陶哲轩警告“核废料”",
+          "summary": "多篇报道称 AI 系统开始批量产出数学证明，黎曼猜想相关证明引发陶哲轩下场验证；Scott Aaronson 等学者称数学发现正从个案变成“新大陆”。",
+          "primary_url": "https://www.qbitai.com/2026/11/513075.html",
+          "importance": 9,
+          "items": [
+            "c197a6a060560980",
+            "5b784b2412e74fff",
+            "e8c3c5c759fc6169"
+          ],
+          "cover_path": "out/media/2026-11-27/research-00.jpg"
+        },
+        {
+          "headline": "381 个 AI 直播冲刺 P=NP，GitHub 被跑崩",
+          "summary": "一个由 381 个 AI 参与的直播项目尝试用 Lean4 形式化证明 P=NP，已跑超一万次会话并验证 2400 多条引理，GitHub 一度被拖垮。",
+          "primary_url": "https://www.qbitai.com/2026/11/513021.html",
+          "importance": 6,
+          "items": [
+            "3bbbf51ae615d12c"
+          ],
+          "cover_path": "out/media/2026-11-27/research-01.jpg"
+        },
+        {
+          "headline": "20 个 AI Agent 组队，刷新 ClickBench",
+          "summary": "20 个 AI Agent 协作在 4 天内完成约 350 次实验，将 Quickwit 查询总耗时降低 31%、最高降 87%，超越 ClickBench 最佳公开成绩。",
+          "primary_url": "https://www.qbitai.com/2026/11/513053.html",
+          "importance": 6,
+          "items": [
+            "5cb98c1e1b5b1474"
+          ],
+          "cover_path": "out/media/2026-11-27/research-02.jpg"
+        },
+        {
+          "headline": "国产模型几毫秒破译尘封 18 年密码学悬案",
+          "summary": "国产模型在 AI4S 场景中几毫秒内破解一道尘封 18 年的密码学难题，显示大模型在科学发现中的推理潜力。",
+          "primary_url": "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
+          "importance": 6,
+          "items": [
+            "eb3d8a904f698f72"
+          ]
+        },
+        {
+          "headline": "微软：国家黑客用 ARTEX 框架自动化网络攻击",
+          "summary": "微软披露国家背景黑客正利用 ARTEX AI 框架自动化侦察、钓鱼与攻击流程，AI 安全攻防进入新阶段。",
+          "primary_url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+          "importance": 6,
+          "items": [
+            "9f32594ca0a8a50f"
+          ],
+          "cover_path": "out/media/2026-11-27/research-04.jpg"
+        },
+        {
+          "headline": "AI 3D 生成新突破：一图直出可打印巴洛克雕塑",
+          "summary": "新方法像给 3D 生成做“X 光”，可从单张图直接生成高精度巴洛克雕塑，并达到 3D 打印开箱即用水平。",
+          "primary_url": "https://www.qbitai.com/2026/11/512981.html",
+          "importance": 5,
+          "items": [
+            "0fed0edabb5b31bd"
+          ],
+          "cover_path": "out/media/2026-11-27/research-05.jpg"
+        },
+        {
+          "headline": "理论结果：最优分词器不存在常数近似算法",
+          "summary": "论文证明除非 P=NP，否则分词器优化问题不存在多项式时间常数近似算法，分词不在 APX 复杂度类中。",
+          "primary_url": "http://arxiv.org/abs/2611.34938v1",
+          "importance": 4,
+          "items": [
+            "ec406645125c1f80"
+          ],
+          "cover_path": "out/media/2026-11-27/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "OpenAI 合并 Chat 与 Work，重度用户更快触顶",
+          "summary": "OpenAI 将 Chat 与 Work 体验合并为统一用量表，并修复 GPT-6.2 Astra 计费错误，导致重度用户限额触顶速度加快约 40%。",
+          "primary_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "importance": 7,
+          "items": [
+            "13160f6bc5cc6258",
+            "402e09fff1846477"
+          ],
+          "cover_path": "out/media/2026-11-27/product-00.jpg"
+        },
+        {
+          "headline": "苹果开放 Siri AI 开发者预览版，应用可集成",
+          "summary": "Siri AI 开发者预览版允许 iOS、iPadOS 和 macOS 应用与 Siri 集成，开发者可提前适配系统级 AI 能力。",
+          "primary_url": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ",
+          "importance": 6,
+          "items": [
+            "a147d754b77cd127"
+          ],
+          "cover_path": "out/media/2026-11-27/product-01.jpg"
+        },
+        {
+          "headline": "Meta 购物 Agent Muse 遭遇监管与平台阻力",
+          "summary": "英国 FCA 抱怨 Meta 拒绝共享 Muse 测试；同时亚马逊与 Meta 正谈判解除 Muse 在其电商平台的封锁，个人 Agent 与平台冲突升温。",
+          "primary_url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+          "importance": 6,
+          "items": [
+            "7053cf9e3ba130a4",
+            "60b07cdd93ed1d40"
+          ],
+          "cover_path": "out/media/2026-11-27/product-02.jpg"
+        },
+        {
+          "headline": "Snowflake 让数据开发走向 Agent 自主执行",
+          "summary": "Snowflake 展示 CoCo 与 CoWork 新能力，让数据开发从受治理洞察走向 Agent 自主执行业务作业。",
+          "primary_url": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6",
+          "importance": 5,
+          "items": [
+            "56211c43ea1b7c6e",
+            "47cd987d84777333"
+          ],
+          "cover_path": "out/media/2026-11-27/product-03.jpg"
+        },
+        {
+          "headline": "nexos.ai 推出统一 AI 网关，覆盖 200+ 模型",
+          "summary": "nexos.ai AI 采用平台将 200 多个模型接入一个网关，内置预算限制和治理功能，降低企业多模型管理成本。",
+          "primary_url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+          "importance": 5,
+          "items": [
+            "2f7a9139337f5764"
+          ]
+        },
+        {
+          "headline": "Uber 推出安全 AI 框架，治理智能体全生命周期",
+          "summary": "Uber 发布安全 AI 框架，对 AI Agent 从设计、部署到运行进行全生命周期治理，强调权限与风险控制。",
+          "primary_url": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY",
+          "importance": 5,
+          "items": [
+            "542a0ec2559a382f"
+          ],
+          "cover_path": "out/media/2026-11-27/product-05.jpg"
+        },
+        {
+          "headline": "小米 HAD 推送新版本，引入因果链与车端世界模型",
+          "summary": "小米汽车推送 Xiaomi HyperOS 1.20，HAD 智驾引入“因果链”和车端世界模型，澎程全系开始全量推送。",
+          "primary_url": "https://36kr.com/newsflashes/4087374599223684",
+          "importance": 5,
+          "items": [
+            "5d5ba0e12fbb381a"
+          ]
+        },
+        {
+          "headline": "美团酒店 AI 工具既白将覆盖近 40 万商家",
+          "summary": "美团预计到 2026 年底，酒店 AI 经营工具“妙手酒店版·既白”将覆盖近 40 万商家；深度使用商家订单量同比增长 22%。",
+          "primary_url": "https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html",
+          "importance": 4,
+          "items": [
+            "0212531a2063c31b"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "Dario Amodei 反击“让 AI 治理社会”指控",
+          "summary": "Anthropic CEO Dario Amodei 称“把人类控制权交给 AI”的指控荒谬，并明确表示让 AI 治理社会是个坏主意，回应外界对自动化研发的担忧。",
+          "primary_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "importance": 7,
+          "items": [
+            "08a8ac4273e5f1e2",
+            "c61387351ac2d65b"
+          ],
+          "cover_path": "out/media/2026-11-27/opinion-00.jpg"
+        },
+        {
+          "headline": "纽约禁售 AI 聊天玩具五年，安全研究曝风险",
+          "summary": "纽约州以儿童安全为由禁售 AI 聊天玩具五年；Common Sense Media 研究称相关产品存在不当内容与情感发展风险。",
+          "primary_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "importance": 6,
+          "items": [
+            "de9dc43c46b3b106"
+          ],
+          "cover_path": "out/media/2026-11-27/opinion-01.jpg"
+        },
+        {
+          "headline": "Anthropic 用 Agent 重塑软件工程",
+          "summary": "Anthropic 工程负责人 Katelyn Lesse 详解用 Rust 重写 Claude API、以及 AI Agent 如何改变公司内部软件工程协作方式。",
+          "primary_url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+          "importance": 6,
+          "items": [
+            "6ae67755494d496c"
+          ],
+          "cover_path": "out/media/2026-11-27/opinion-02.jpg"
+        },
+        {
+          "headline": "美芯片管制与反蒸馏已开始拖慢中国 AI 实验室",
+          "summary": "报道称美国芯片获取限制与反蒸馏措施正在拖慢中国 AI 实验室；部分中国开发者转而使用 Google 和 Meta 的数据。",
+          "primary_url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+          "importance": 6,
+          "items": [
+            "dec39bae572153fa",
+            "2bd447ac29c66f29"
+          ],
+          "cover_path": "out/media/2026-11-27/opinion-03.jpg"
+        },
+        {
+          "headline": "普京要求更新 2036 年前 AI 国家战略",
+          "summary": "普京在莫斯科表示俄罗斯需更新至 2036 年的 AI 国家战略，推动人与自主系统协同并重构管理生产流程。",
+          "primary_url": "https://36kr.com/newsflashes/4087395152214402",
+          "importance": 5,
+          "items": [
+            "a72a7056b8d4c202"
+          ]
+        },
+        {
+          "headline": "科学家对 AI Agent 划红线：哪些事不能交给它",
+          "summary": "Allen AI 博客讨论科学家在科研中使用 AI Agent 的边界，梳理哪些环节可自动化、哪些必须保留人类判断。",
+          "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "importance": 5,
+          "items": [
+            "191e2880c0d09756"
+          ],
+          "cover_path": "out/media/2026-11-27/opinion-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "腾讯开源 DFly2：长上下文吞吐最高提升 81%",
+          "summary": "腾讯开源投机解码器 DFly2，每层草稿复用目标模型的 KV Cache 与 top-k 索引，不增加草稿 KV 内存，64K 长上下文服务吞吐最高提升 81%。",
+          "primary_url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+          "importance": 7,
+          "items": [
+            "db099aa6b86d67db",
+            "d2173b0cad3d4e91"
+          ],
+          "cover_path": "out/media/2026-11-27/opensource-00.jpg"
+        },
+        {
+          "headline": "FreeVideo 开源：8GB 显存跑视频生成",
+          "summary": "FreeVideo 可在 8GB 显存、16GB 内存的普通电脑上运行 MiniMax H3，并根据硬件自动选择加速路径。",
+          "primary_url": "https://github.com/FlashML-org/FreeVideo",
+          "importance": 6,
+          "items": [
+            "41fa6b42e36f62e8"
+          ],
+          "cover_path": "out/media/2026-11-27/opensource-01.jpg"
+        },
+        {
+          "headline": "CLI-Anything：让所有软件变成 Agent 原生",
+          "summary": "HKUDS 开源 CLI-Anything，通过 CLI-Hub 将传统软件封装为 Agent 可直接调用的原生接口，推动“所有软件 Agent 化”。",
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "importance": 6,
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-11-27/opensource-02.jpg"
+        },
+        {
+          "headline": "100 行代码 Agent，SWE-bench 超 74%",
+          "summary": "SWE-agent 团队开源 mini-swe-agent，用约 100 行代码实现命令行 AI Agent，在 SWE-bench verified 上得分超过 74%。",
+          "primary_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "importance": 6,
+          "items": [
+            "70243cbf7821cda4"
+          ],
+          "cover_path": "out/media/2026-11-27/opensource-03.jpg"
+        },
+        {
+          "headline": "llama.cpp 推出 AMD 硬件基准面板",
+          "summary": "llama.cpp 社区发布针对 AMD Ryzen 与 Radeon 的基准测试面板，方便比较不同 AMD 硬件上的推理性能。",
+          "primary_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "importance": 5,
+          "items": [
+            "bfd27a2c43cf85ac"
+          ],
+          "cover_path": "out/media/2026-11-27/opensource-04.jpg"
+        },
+        {
+          "headline": "MiniMind：两小时从零训练 64M 大模型",
+          "summary": "开源项目 MiniMind 提供完整流程，让开发者在约两小时内从零训练一个 64M 参数的小型语言模型。",
+          "primary_url": "https://github.com/jingyaogong/minimind",
+          "importance": 5,
+          "items": [
+            "013d91aa0c19339e"
+          ]
+        },
+        {
+          "headline": "Firecrawl 开源：Agent 的搜索与抓取基础设施",
+          "summary": "Firecrawl 通过一个 API 提供搜索、抓取和 550+ 数据源接入，让 AI Agent 更方便地获取结构化知识。",
+          "primary_url": "https://github.com/firecrawl/firecrawl",
+          "importance": 5,
+          "items": [
+            "9d85b086ba78ffc9"
+          ],
+          "cover_path": "out/media/2026-11-27/opensource-06.jpg"
+        },
+        {
+          "headline": "Phone Harness：让 Agent 控制手机",
+          "summary": "开源项目 phone-harness 提供让 Agent 控制手机的能力，探索移动端自动化操作与个人助理场景。",
+          "primary_url": "https://github.com/phone-harness/phone-harness",
+          "importance": 5,
+          "items": [
+            "d6b84a0a2c91bdc0"
+          ],
+          "cover_path": "out/media/2026-11-27/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
