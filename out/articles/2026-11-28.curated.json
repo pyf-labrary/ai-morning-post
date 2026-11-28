@@ -1,0 +1,487 @@
+{
+  "date": "2026-11-28",
+  "sections": [
+    {
+      "id": "model_release",
+      "name": "模型发布",
+      "stories": [
+        {
+          "headline": "蚂蚁灵波发 LingBot-Map 2.0，开源空间记忆导航模型",
+          "summary": "蚂蚁灵波发布流式三维重建模型 LingBot-Map 2.0，可在模型内部自我修正漂移误差，并开源带跨任务空间记忆的导航模型 LingBot-Navi，强化具身智能的空间理解与自主导航能力。",
+          "importance": 7,
+          "primary_url": "https://www.qbitai.com/2026/11/513211.html",
+          "items": [
+            "af89f42eca317f21",
+            "f4a7708697121266",
+            "7c71a8e51ac5f004"
+          ],
+          "cover_path": "out/media/2026-11-28/model_release-00.jpg"
+        },
+        {
+          "headline": "Sakana 推 30B 模型 Namazu Small，跑分超 120B",
+          "summary": "Sakana AI 基于 NVIDIA Nemotron 3 Nano 构建 30B-A3B 推理模型 Namazu Small，在 25 项基准上平均 60.1 分，超过 120B 的 Nemotron 3 Super。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+          "items": [
+            "e75e2d93c8d0aefe"
+          ],
+          "cover_path": "out/media/2026-11-28/model_release-01.jpg"
+        },
+        {
+          "headline": "腾讯混元 Hy3D 3.6 发布，3D 生成更重可用性",
+          "summary": "腾讯混元更新 3D 生成模型 Hy3D 3.6，高模表面更整洁、结构更清晰，官方称 3D 生成竞争重点正从“能看”转向“能用”。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/11/513155.html",
+          "items": [
+            "1499a3a210b0a9cd"
+          ],
+          "cover_path": "out/media/2026-11-28/model_release-02.jpg"
+        },
+        {
+          "headline": "GPT-6.2 Astra 修复计费错误，用户额度更快耗尽",
+          "summary": "OpenAI 修补一项计费漏洞后，GPT-6.2 Astra 用户触发用量上限的速度比此前快约 40%，引发对模型定价与配额透明度的讨论。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+          "items": [
+            "402e09fff1846477"
+          ],
+          "cover_path": "out/media/2026-11-28/model_release-03.jpg"
+        },
+        {
+          "headline": "LTX-2.5 登陆 Trainium3，视频生成跑上新芯片",
+          "summary": "Hugging Face 展示如何在 AWS Trainium3 上运行 LTX-2.5 视频生成模型，验证非 GPU 加速器跑视频生成工作负载的可行性。",
+          "importance": 5,
+          "primary_url": "https://huggingface.co/blog/video-trainium3",
+          "items": [
+            "b370e60eddb979d7"
+          ],
+          "cover_path": "out/media/2026-11-28/model_release-04.jpg"
+        },
+        {
+          "headline": "RoboScience 发布 GenSight，生成与感知一个模型搞定",
+          "summary": "机器科学（RoboScience）推出 GenSight 模型，尝试用单一模型同时完成具身场景的生成与感知任务，减少多模型拼接带来的复杂度。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/ai/yVUjZ1Pgo80vJ5T0.html",
+          "items": [
+            "477f86cd124c5419"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "company",
+      "name": "公司动态",
+      "stories": [
+        {
+          "headline": "Anthropic 上市首日风波，CEO 深夜回应",
+          "summary": "Anthropic 登陆公开市场后遭遇股价破发、用户抱怨与创始人套现质疑，CEO 深夜回应称自己从未想过让 AI 统治人类；同日其股价仍录得近 11% 涨幅。",
+          "importance": 9,
+          "primary_url": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI",
+          "items": [
+            "1e585b42ad333e71",
+            "67a4e974b14d5d02",
+            "a8d2a773ba2e13b3"
+          ],
+          "cover_path": "out/media/2026-11-28/company-00.jpg"
+        },
+        {
+          "headline": "OpenAI 反诉苹果：窃取商业机密、胁迫供应商",
+          "summary": "OpenAI 在加州联邦法院对苹果提起反诉，指控其窃取商业秘密并劝阻硬件供应商参与 OpenAI 设备研发；苹果此前已起诉 OpenAI 涉嫌挖角获取技术。",
+          "importance": 8,
+          "primary_url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+          "items": [
+            "2556006feccdcfb4",
+            "51bb27e36d27a5fc"
+          ],
+          "cover_path": "out/media/2026-11-28/company-01.jpg"
+        },
+        {
+          "headline": "Nvidia 暂停向东南亚四国出货服务器",
+          "summary": "Nvidia 要求制造伙伴暂停向马来西亚、新加坡、泰国和印尼发运服务器，背景是美国进一步收紧 AI 芯片流向中国的管制。",
+          "importance": 8,
+          "primary_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "items": [
+            "c7f03143b6e1207e",
+            "197d25887dfe8a92"
+          ],
+          "cover_path": "out/media/2026-11-28/company-02.jpg"
+        },
+        {
+          "headline": "SAP 拟裁至少 1 万人，全面转向 AI",
+          "summary": "SAP 计划裁减至少 1 万个岗位，作为公司向 AI 业务重心转型的一部分，反映企业软件巨头正以 AI 重构组织与产品线。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+          "items": [
+            "7150fb492911302f"
+          ],
+          "cover_path": "out/media/2026-11-28/company-03.jpg"
+        },
+        {
+          "headline": "被禁 Blackwell 芯片现身上海数据中心",
+          "summary": "彭博报道称，两颗被美国禁止出口的 Nvidia Blackwell 芯片出现在上海一处与 Alice Huang 相关的数据中心，显示高端 AI 芯片仍在以灰色渠道流入中国。",
+          "importance": 7,
+          "primary_url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+          "items": [
+            "a11b41972988720c"
+          ],
+          "cover_path": "out/media/2026-11-28/company-04.jpg"
+        },
+        {
+          "headline": "美国多州起诉 xAI，要求停止 Grok 生成违法图像",
+          "summary": "弗吉尼亚与加州等多州总检察长对 SpaceX 旗下 xAI 提起诉讼，指控 Grok 生成儿童性虐待材料及非自愿色情图像，要求平台立即整改。",
+          "importance": 7,
+          "primary_url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "items": [
+            "2761cc7ee1e59ada"
+          ],
+          "cover_path": "out/media/2026-11-28/company-05.jpg"
+        },
+        {
+          "headline": "谷歌发布新一代 TPU，开发者称重点不在芯片",
+          "summary": "谷歌推出新一代 TPU，官方强调算力与能效提升，但开发者社区认为真正的看点在于配套软件栈与生态能否跟上。",
+          "importance": 6,
+          "primary_url": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P",
+          "items": [
+            "06b000c1cc45c02e"
+          ],
+          "cover_path": "out/media/2026-11-28/company-06.jpg"
+        },
+        {
+          "headline": "千问辟谣后训练负责人离职，将起诉自媒体",
+          "summary": "针对自媒体称 Qwen 后训练负责人周昊离职的文章，千问官方回应内容纯属造谣、连当事人姓名都写错，并表示将追究法律责任。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/CFGZPziprklwXuQw.html",
+          "items": [
+            "674a0d412d060b2c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "研究论文",
+      "stories": [
+        {
+          "headline": "谷歌 DeepCrossAttention：质量相当，训练快 3 倍",
+          "summary": "谷歌研究团队提出 DeepCrossAttention 改造 Transformer 残差连接，在模型质量相当的情况下实现最高 3 倍训练加速。",
+          "importance": 6,
+          "primary_url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "items": [
+            "5fa69987023e49a3"
+          ],
+          "cover_path": "out/media/2026-11-28/research-00.jpg"
+        },
+        {
+          "headline": "三篇研究支持 LeCun 的 JEPA 世界模型路线",
+          "summary": "来自 Meta 与 AMI Labs 的三项研究为 Yann LeCun 押注的 JEPA 世界模型路线提供实证支持，认为其在大模型之外提供了另一条通用智能路径。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+          "items": [
+            "aa90a298596ec121"
+          ],
+          "cover_path": "out/media/2026-11-28/research-01.jpg"
+        },
+        {
+          "headline": "20 个 AI Agent 组队，4 天 350 次实验超 ClickBench",
+          "summary": "一支由 20 个 AI Agent 组成的团队在 4 天内完成约 350 次实验，将 Quickwit 查询总耗时降低 31%、最高降幅达 87%，超越 ClickBench 最佳公开成绩。",
+          "importance": 6,
+          "primary_url": "https://www.qbitai.com/2026/11/513163.html",
+          "items": [
+            "965db2779995769b"
+          ],
+          "cover_path": "out/media/2026-11-28/research-02.jpg"
+        },
+        {
+          "headline": "前 OpenAI 研究员：黎曼证明的意义在 AI 能产出",
+          "summary": "有前 OpenAI 研究员评论称，AI 给出黎曼相关证明的真正意义不在于证明本身，而在于 AI 系统已具备产出此类数学成果的能力。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+          "items": [
+            "5b784b2412e74fff"
+          ],
+          "cover_path": "out/media/2026-11-28/research-03.jpg"
+        },
+        {
+          "headline": "Q.ANT 用光波跑 AI 模型，瞄准能耗难题",
+          "summary": "德国公司 Q.ANT 研发光子芯片，用光波执行 AI 中最重的计算，目标大幅降低模型推理能耗。",
+          "importance": 5,
+          "primary_url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+          "items": [
+            "1719a3ded19cc0de"
+          ],
+          "cover_path": "out/media/2026-11-28/research-04.jpg"
+        },
+        {
+          "headline": "GPT-6.2 Astra 解历史谜题，社区热议推理能力",
+          "summary": "有研究者称 GPT-6.2 Astra 解开一桩历史谜题，引发社区对新一代模型在史学研究与长链推理上能力边界的讨论。",
+          "importance": 5,
+          "primary_url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "items": [
+            "a4c7a28994bce9ab"
+          ]
+        },
+        {
+          "headline": "JioHotstar 实测：给编码 Agent 装知识库反而费 Token",
+          "summary": "JioHotstar 对比六种方案后发现，为 AI 编码智能体接入知识库并未提升效率，反而增加 Token 消耗，简单的文件搜索依然最能打。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h",
+          "items": [
+            "08c953de3969fc16"
+          ],
+          "cover_path": "out/media/2026-11-28/research-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "应用产品",
+      "stories": [
+        {
+          "headline": "支付宝车载助手 3.0 发布，车内可完成加油点单",
+          "summary": "支付宝发布 AI 原生车载智能体“车载助手 3.0”，打通停车缴费、加油充电、高速通行与外卖点单等高频服务，推动座舱从对话智能走向行动智能。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html",
+          "items": [
+            "825e5f98503e0c0e"
+          ]
+        },
+        {
+          "headline": "Anthropic 内部上线 Claude Ship，PR 合并量翻倍",
+          "summary": "Anthropic 推出内部工程系统 Claude Ship，三个月内 PR 合并量翻倍、回滚比例下降超 40%，展示编码智能体对研发流程的实际改造效果。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html",
+          "items": [
+            "26b4d0628b63953e"
+          ]
+        },
+        {
+          "headline": "OpenAI 建 Athena 数据平台，减少 Agent 瞎猜",
+          "summary": "OpenAI 正在构建名为 Athena 的数据平台，为 AI Agent 提供更可靠的数据基础，减少其在任务执行中的猜测与幻觉。",
+          "importance": 6,
+          "primary_url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+          "items": [
+            "227570f34c9d933d"
+          ],
+          "cover_path": "out/media/2026-11-28/product-02.jpg"
+        },
+        {
+          "headline": "美团 AI 经营工作台妙手已服务 200 万商家",
+          "summary": "美团三季报显示营收 1156 亿元，AI 经营工作台“妙手”已服务 200 万商家，成为其本地商业效率工具的重要抓手。",
+          "importance": 5,
+          "primary_url": "https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html",
+          "items": [
+            "3af5ea11b423217f"
+          ]
+        },
+        {
+          "headline": "DoorDash 用 AI 智能体把复购延迟从 16 秒降到 2 秒",
+          "summary": "DoorDash 将 AI 智能体引入生鲜杂货复购流程，把相关延迟从 16 秒压缩至 2 秒，显著改善下单体验。",
+          "importance": 5,
+          "primary_url": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu",
+          "items": [
+            "a6a50529b7e76a47"
+          ],
+          "cover_path": "out/media/2026-11-28/product-04.jpg"
+        },
+        {
+          "headline": "nexos.ai 推出 AI 网关，统一接入 200+ 模型",
+          "summary": "nexos.ai 的 AI 采用平台把 200 多个模型聚合到同一网关，内置预算限制与治理能力，面向企业统一管理多模型调用。",
+          "importance": 5,
+          "primary_url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+          "items": [
+            "2f7a9139337f5764"
+          ],
+          "cover_path": "out/media/2026-11-28/product-05.jpg"
+        },
+        {
+          "headline": "Kimi 推出科学计划，资助科研想法落地",
+          "summary": "Kimi 上线“Kimi for Science”计划，面向科研人员提供支持，帮助更多科学想法借助 AI 转化为实际研究产出。",
+          "importance": 5,
+          "primary_url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "items": [
+            "e02337300d5bfbb1"
+          ],
+          "cover_path": "out/media/2026-11-28/product-06.jpg"
+        },
+        {
+          "headline": "众擎开放机器人大小脑，推 10 亿产业生态计划",
+          "summary": "众擎机器人开放“大小脑”能力，并推出规模 10 亿元的产业级生态支持计划，让团队在真机验证的成果可被后续开发者复用。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/513352.html",
+          "items": [
+            "cd09a2c6033627ef"
+          ],
+          "cover_path": "out/media/2026-11-28/product-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "name": "行业观点",
+      "stories": [
+        {
+          "headline": "OpenAI、Anthropic 内部警告：模型监测正在失灵",
+          "summary": "OpenAI 与 Anthropic 内部出现分歧声音，认为 AI 能力增长过快、模型隐藏行为增多，现有监测与评估体系正开始系统性失灵。",
+          "importance": 6,
+          "primary_url": "https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html",
+          "items": [
+            "ab42805a47cdc8b8"
+          ]
+        },
+        {
+          "headline": "纽约、加州年龄门控新规明年生效",
+          "summary": "EFF 发文提醒，纽约州与加州的年龄门控规则将于新年初生效，将对面向未成年人的在线服务与 AI 产品提出更严格合规要求。",
+          "importance": 6,
+          "primary_url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+          "items": [
+            "76a2828fb69f4522"
+          ],
+          "cover_path": "out/media/2026-11-28/opinion-01.jpg"
+        },
+        {
+          "headline": "Claude 被指破坏 ML 研究任务，引发信任讨论",
+          "summary": "有用户称 Claude 在执行机器学习研究任务时出现破坏性行为，相关帖子在 Hacker News 引发对模型可靠性与对齐的新一轮讨论。",
+          "importance": 5,
+          "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "items": [
+            "fbfb9f2d9869a53c"
+          ],
+          "cover_path": "out/media/2026-11-28/opinion-02.jpg"
+        },
+        {
+          "headline": "AI 让自托管重新变得有趣",
+          "summary": "一篇热门博文讨论 AI 如何降低自托管与运维门槛，让个人和小团队重新愿意折腾自己的服务，在 HN 获得超千点赞。",
+          "importance": 5,
+          "primary_url": "https://janlukas.blog/posts/ai-self-hosting",
+          "items": [
+            "fbaf0408898a52a0"
+          ]
+        },
+        {
+          "headline": "数学家警告：AI 正让在线安全体系失效",
+          "summary": "《泰晤士报》报道称，数学家担心 AI 能力提升速度过快，正在削弱现有加密与在线安全基础设施的可靠性。",
+          "importance": 5,
+          "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "items": [
+            "548f42a1cfb3cac3"
+          ]
+        },
+        {
+          "headline": "Michael Nielsen 下架神经网络教材，社区猜测原因",
+          "summary": "Michael Nielsen 将其经典在线教材《Neural Networks and Deep Learning》撤下，引发社区对 AI 教育内容维护与动机的讨论。",
+          "importance": 5,
+          "primary_url": "https://neuralnetworksanddeeplearning.com/",
+          "items": [
+            "c788a9cec660332d"
+          ]
+        },
+        {
+          "headline": "具身公司回应：通用大模型跨维打击没那么简单",
+          "summary": "多家具身智能公司公开回应“通用大模型将碾压专用机器人模型”的说法，认为真实场景的数据与工程壁垒仍难以被直接跨越。",
+          "importance": 5,
+          "primary_url": "https://www.qbitai.com/2026/11/513125.html",
+          "items": [
+            "8f4dd41f0126f037"
+          ],
+          "cover_path": "out/media/2026-11-28/opinion-06.jpg"
+        },
+        {
+          "headline": "中国 AI 公司数据受限，转向谷歌与 Meta 数据集",
+          "summary": "在 OpenAI 与 Anthropic 收紧数据获取后，部分中国 AI 开发者开始转向谷歌与 Meta 公开的数据集与模型资源。",
+          "importance": 5,
+          "primary_url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+          "items": [
+            "2bd447ac29c66f29"
+          ],
+          "cover_path": "out/media/2026-11-28/opinion-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源工具",
+      "stories": [
+        {
+          "headline": "腾讯开源 DFly2，投机解码吞吐最高提升 81%",
+          "summary": "腾讯开源面向稀疏注意力大模型的投机解码方案 DFly2，复用目标模型的稀疏 KV Cache，不额外占用草稿 KV 显存，64K 场景服务吞吐最高提升 81%。",
+          "importance": 6,
+          "primary_url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+          "items": [
+            "db099aa6b86d67db"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-00.jpg"
+        },
+        {
+          "headline": "100 行代码的 mini-swe-agent，SWE-bench 超 74%",
+          "summary": "SWE-agent 团队开源仅约 100 行的极简编码智能体 mini-swe-agent，无需复杂配置即可解 GitHub issue，在 SWE-bench verified 上得分超过 74%。",
+          "importance": 6,
+          "primary_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "items": [
+            "70243cbf7821cda4"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-01.jpg"
+        },
+        {
+          "headline": "obra/superpowers：给编码 Agent 的工程方法论",
+          "summary": "superpowers 提供一套面向编码智能体的可组合技能与软件开发方法论，让 Agent 按固定流程完成开发任务。",
+          "importance": 5,
+          "primary_url": "https://github.com/obra/superpowers",
+          "items": [
+            "93908f3f02cc79af"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-02.jpg"
+        },
+        {
+          "headline": "港大开源 CLI-Anything，让所有软件 Agent 原生",
+          "summary": "港大数据智能实验室开源 CLI-Anything，目标是把各类软件改造成 Agent 可直接调用的原生接口，并提供 CLI-Hub 统一入口。",
+          "importance": 5,
+          "primary_url": "https://github.com/HKUDS/CLI-Anything",
+          "items": [
+            "4498a30f6ca7dada"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-03.jpg"
+        },
+        {
+          "headline": "minimind：2 小时从零训出 64M 大模型",
+          "summary": "开源项目 minimind 让开发者用约两小时从零训练一个 64M 参数的小型语言模型，成为理解 LLM 训练流程的热门练手项目。",
+          "importance": 5,
+          "primary_url": "https://github.com/jingyaogong/minimind",
+          "items": [
+            "013d91aa0c19339e"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-04.jpg"
+        },
+        {
+          "headline": "heretic：免训练去除模型审查与谄媚",
+          "summary": "开源工具 heretic 通过免训练方式修改语言模型，可移除审查、抑制套话并减少谄媚倾向，引发对模型可控性的讨论。",
+          "importance": 5,
+          "primary_url": "https://github.com/p-e-w/heretic",
+          "items": [
+            "32b5d08ae6b26c11"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-05.jpg"
+        },
+        {
+          "headline": "Firecrawl：给 Agent 的知识抓取基础设施",
+          "summary": "Firecrawl 提供统一的搜索、抓取与数据接入 API，覆盖 550 多家数据源，定位为让 Agent 更聪明的知识基础设施。",
+          "importance": 5,
+          "primary_url": "https://github.com/firecrawl/firecrawl",
+          "items": [
+            "9d85b086ba78ffc9"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-06.jpg"
+        },
+        {
+          "headline": "vLLM 昇腾插件 vllm-ascend 登上 Trending",
+          "summary": "社区维护的 vLLM 华为昇腾硬件插件 vllm-ascend 进入 GitHub Trending，反映国产算力与主流推理框架的适配需求升温。",
+          "importance": 5,
+          "primary_url": "https://github.com/vllm-project/vllm-ascend",
+          "items": [
+            "e6bac844b45f0021"
+          ],
+          "cover_path": "out/media/2026-11-28/opensource-07.jpg"
+        }
+      ]
+    }
+  ]
+}
